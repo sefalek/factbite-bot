@@ -1,16 +1,19 @@
 """
 generate_content.py
-Calls the Claude API to produce one "fact of the day" in Turkish, English,
-Spanish and Arabic, and writes it to fact.json for the render step to use.
+Calls the Google Gemini API (free tier, no credit card required) to produce
+one "fact of the day" in Turkish, English, Spanish and Arabic, and writes
+it to fact.json for the render step to use.
 
-Requires env var: ANTHROPIC_API_KEY
+Requires env var: GEMINI_API_KEY
+Get a free key at: https://aistudio.google.com/apikey
 """
 import json
 import os
 import urllib.request
 
-API_KEY = os.environ["ANTHROPIC_API_KEY"]
-API_URL = "https://api.anthropic.com/v1/messages"
+API_KEY = os.environ["GEMINI_API_KEY"]
+MODEL = "gemini-2.0-flash"
+API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={API_KEY}"
 
 PROMPT = """Bugün için ilginç, doğrulanabilir, şaşırtıcı bir "genel kültür bilgisi" üret.
 Bilim, tarih, doğa, uzay, insan vücudu, dil, hayvanlar gibi konulardan olabilir.
@@ -32,25 +35,21 @@ Arapça metin doğru ve akıcı olmalı, modern standart Arapça kullan.
 
 def main():
     body = json.dumps({
-        "model": "claude-sonnet-4-6",
-        "max_tokens": 1000,
-        "messages": [{"role": "user", "content": PROMPT}],
+        "contents": [{"parts": [{"text": PROMPT}]}],
+        "generationConfig": {
+            "response_mime_type": "application/json",
+        },
     }).encode("utf-8")
 
     req = urllib.request.Request(
         API_URL,
         data=body,
-        headers={
-            "Content-Type": "application/json",
-            "x-api-key": API_KEY,
-            "anthropic-version": "2023-06-01",
-        },
+        headers={"Content-Type": "application/json"},
     )
     with urllib.request.urlopen(req) as resp:
         data = json.loads(resp.read())
 
-    text = "".join(block["text"] for block in data["content"] if block["type"] == "text")
-    # Claude may wrap the JSON in ```json fences despite instructions - strip them defensively
+    text = data["candidates"][0]["content"]["parts"][0]["text"]
     text = text.strip()
     if text.startswith("```"):
         text = text.split("```")[1]

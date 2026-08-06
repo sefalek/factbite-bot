@@ -1,0 +1,44 @@
+name: Daily FactBite Post
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install pillow arabic_reshaper python-bidi
+
+      - name: Generate today's fact (Claude API)
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_content.py
+
+      - name: Render carousel slides
+        run: python scripts/render_slides.py
+
+      - name: Commit generated images
+        run: |
+          git config user.name "factbite-bot"
+          git config user.email "bot@factbite.local"
+          git add posts/ fact.json latest_post_dir.txt
+          git commit -m "Auto: today's post $(date -u +%F)" || echo "nothing to commit"
+          git push
+
+      - name: Publish to Instagram
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python scripts/publish_instagram.py

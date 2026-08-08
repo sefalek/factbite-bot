@@ -1,9 +1,29 @@
-name: Daily FactBite Post
+name: Daily FactBite Posts
 
 on:
   schedule:
-    - cron: "0 5 * * *"
-  workflow_dispatch: {}
+    # All times are UTC. Turkey is UTC+3 year-round (no DST).
+    - cron: "0 5 * * *"    # 08:00 TR - Tarih & Kultur
+    - cron: "0 7 * * *"    # 10:00 TR - Dil & Kelime kokenleri
+    - cron: "0 9 * * *"    # 12:00 TR - Insan vucudu & Saglik
+    - cron: "0 12 * * *"   # 15:00 TR - Hayvanlar & Doga
+    - cron: "0 15 * * *"   # 18:00 TR - Teknoloji & Icatlar
+    - cron: "0 19 * * *"   # 22:00 TR - Bilim & Uzay
+  workflow_dispatch:
+    inputs:
+      category:
+        description: "Category for a manual test run"
+        required: false
+        default: "general"
+        type: choice
+        options:
+          - general
+          - history
+          - language
+          - health
+          - animals
+          - tech
+          - science
 
 permissions:
   contents: write
@@ -21,9 +41,23 @@ jobs:
       - name: Install dependencies
         run: pip install pillow arabic_reshaper python-bidi
 
-      - name: Generate today's fact (Claude API)
+      - name: Determine category
+        id: cat
+        run: |
+          case "${{ github.event.schedule }}" in
+            "0 5 * * *")  echo "category=history"  >> "$GITHUB_OUTPUT" ;;
+            "0 7 * * *")  echo "category=language" >> "$GITHUB_OUTPUT" ;;
+            "0 9 * * *")  echo "category=health"   >> "$GITHUB_OUTPUT" ;;
+            "0 12 * * *") echo "category=animals"  >> "$GITHUB_OUTPUT" ;;
+            "0 15 * * *") echo "category=tech"     >> "$GITHUB_OUTPUT" ;;
+            "0 19 * * *") echo "category=science"  >> "$GITHUB_OUTPUT" ;;
+            *) echo "category=${{ inputs.category || 'general' }}" >> "$GITHUB_OUTPUT" ;;
+          esac
+
+      - name: Generate today's fact (Gemini API)
         env:
-         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CATEGORY: ${{ steps.cat.outputs.category }}
         run: python scripts/generate_content.py
 
       - name: Render carousel slides
@@ -34,7 +68,8 @@ jobs:
           git config user.name "factbite-bot"
           git config user.email "bot@factbite.local"
           git add posts/ fact.json latest_post_dir.txt
-          git commit -m "Auto: today's post $(date -u +%F)" || echo "nothing to commit"
+          git commit -m "Auto: ${{ steps.cat.outputs.category }} post $(date -u +%F_%H%M)" || echo "nothing to commit"
+          git pull --rebase
           git push
 
       - name: Publish to Instagram

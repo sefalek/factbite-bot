@@ -1,7 +1,7 @@
 """
 generate_content.py
-Calls Gemini to produce one FactBite in Turkish, English, Spanish and Arabic.
-Keeps a small topic history so the same/similar fact is not generated again.
+Generate one FactBite topic in Turkish, English, Spanish and Arabic plus
+metadata used by carousel, Reel, Story and Facebook distribution.
 """
 import json
 import os
@@ -15,8 +15,8 @@ HISTORY_PATH = "data/topic_history.json"
 
 CATEGORY_INSTRUCTIONS = {
     "history": "Konu: tarih ve kultur. Az bilinen bir tarihi olay veya kulturel gelenekle ilgili sasirtici bir bilgi ver.",
-    "language": "Konu: dil ve kelime kokenleri. Bir kelimenin ilginc kokeni veya farkli dillerde karsiligi olmayan bir kavramla ilgili bilgi ver.",
-    "health": "Konu: insan vucudu ve saglik. Vucutla ilgili sasirtici, bilimsel olarak dogrulanmis bir bilgi ver.",
+    "language": "Konu: dil ve kelime kokenleri. Bir kelimenin ilginc kokeni veya farkli dillerdeki ilginc hikayesiyle ilgili bilgi ver.",
+    "health": "Konu: insan vucudu ve saglik. Vucutla ilgili sasirtici, bilimsel olarak dogrulanmis ve abartisiz bir bilgi ver.",
     "animals": "Konu: hayvanlar ve doga. Hayvan davranislari veya doga olaylariyla ilgili sasirtici bir bilgi ver.",
     "tech": "Konu: teknoloji ve icatlar. Bir icadin hikayesi veya teknoloji tarihiyle ilgili ilginc bir bilgi ver.",
     "science": "Konu: bilim ve uzay. Fizik, astronomi veya biyoloji alanindan sasirtici bir bilgi ver.",
@@ -28,7 +28,11 @@ JSON_EXAMPLE = """{
   "en": {"headline": "...", "body": "..."},
   "es": {"headline": "...", "body": "..."},
   "ar": {"headline": "...", "body": "..."},
-  "hashtags": ["#FactBite", "#Science", "#Space"]
+  "reel_hook": {"tr": "ilk 2 saniyede merak uyandiran cok kisa hook", "en": "..."},
+  "story_question": {"tr": "cevabi tahmin ettiren soru", "en": "...", "es": "...", "ar": "..."},
+  "story_options": ["1", "2", "3"],
+  "hashtags": ["#FactBite", "#Science", "#Space"],
+  "cta": {"tr": "Her gun yeni bir sey ogren. @factbitee", "en": "Learn something new every day. @factbitee", "es": "Aprende algo nuevo cada dia. @factbitee", "ar": "تعلم شيئًا جديدًا كل يوم. @factbitee"}
 }"""
 
 
@@ -41,7 +45,7 @@ def load_history():
 
 
 def build_history_text(history):
-    recent = history[-100:]
+    recent = history[-200:]
     if not recent:
         return "HENUZ ONCEKI KONU YOK."
     return "\n".join(
@@ -54,13 +58,17 @@ def request_fact(history_text):
     prompt = (
         "Bugun icin ilginc, dogrulanabilir, sasirtici bir genel kultur bilgisi uret.\n"
         + CATEGORY_INSTRUCTIONS.get(CATEGORY, CATEGORY_INSTRUCTIONS["general"]) + "\n"
-        "Daha once cok bilinen klise bilgilerden kacin.\n"
-        "ASAGIDAKI GECMIS KONULARIN HICBIRINI TEKRARLAMA. Ayni olayin/nesnenin baska bir ayrintisini anlatarak dolanma; konu belirgin sekilde farkli olsun.\n\n"
+        "Cok bilinen klise bilgilerden kac. Sosyal medyada merak uyandiracak ama clickbait olmayan bir konu sec.\n"
+        "GECMIS KONULARIN HICBIRINI TEKRARLAMA. Ayni olay, nesne, kisi veya mekanin baska ayrintisini anlatarak dolanma. Konu belirgin sekilde farkli olsun.\n\n"
         "GECMIS KONULAR:\n" + history_text + "\n\n"
-        "Cok onemli: Bilgi gercekten dogrulanabilir olmali; uydurma istatistik, sahte alinti veya kesin olmayan iddia kullanma.\n"
+        "Bilgi gercekten dogrulanabilir olmali; uydurma istatistik, sahte alinti, kesin olmayan iddia veya sansasyonel abartma kullanma.\n"
+        "Saglik konusunda teshis, tedavi onerisi veya korku dili kullanma.\n"
         "Tam olarak su JSON formatini dondur, baska aciklama ekleme:\n\n" + JSON_EXAMPLE + "\n\n"
-        "Dort dilde ayni bilgiyi anlat. Arapca modern standart Arapca olsun.\n"
-        "hashtags alaninda 5-8 adet, bu konuyla dogrudan ilgili, gercek ve kullanilan hashtag sec. Marka etiketi #FactBite ilk sirada olsun. Hashtagleri spam gibi doldurma."
+        "Dort dilde ayni bilgiyi dogal ve yerellestirilmis sekilde anlat. Arapca modern standart Arapca olsun.\n"
+        "reel_hook alaninda 1-2 saniyede okunabilecek, merak uyandiran ama cevabi hemen vermeyen kisa metinler ver.\n"
+        "story_question ve story_options basit bir quiz icin uygun olsun; options 3 kisa secenek olsun.\n"
+        "hashtags alaninda 5-8 adet konuya dogrudan ilgili hashtag sec. #FactBite ilk sirada olsun. Spam etiket kullanma.\n"
+        "CTA metinlerinde kullaniciyi @factbitee hesabini takip etmeye tesvik et."
     )
     body = json.dumps({
         "contents": [{"parts": [{"text": prompt}]}],
@@ -79,11 +87,9 @@ def request_fact(history_text):
 
 def main():
     history = load_history()
-    history_text = build_history_text(history)
-    fact = request_fact(history_text)
+    fact = request_fact(build_history_text(history))
     fact["_category"] = CATEGORY
 
-    # Keep history compact and append the Turkish canonical topic.
     history.append({
         "category": CATEGORY,
         "headline": fact["tr"]["headline"],
@@ -97,7 +103,6 @@ def main():
         json.dump(fact, f, ensure_ascii=False, indent=2)
 
     print("Wrote fact.json (category:", CATEGORY, ")")
-    print(json.dumps(fact, ensure_ascii=False, indent=2))
 
 
 if __name__ == "__main__":

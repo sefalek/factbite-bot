@@ -12,7 +12,7 @@ import os
 import urllib.request
 
 API_KEY = os.environ["GEMINI_API_KEY"]
-MODEL = "gemini-2.0-flash"
+MODEL = "gemini-2.5-flash-lite"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={API_KEY}"
 
 PROMPT = """Bugün için ilginç, doğrulanabilir, şaşırtıcı bir "genel kültür bilgisi" üret.

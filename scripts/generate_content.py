@@ -1,12 +1,7 @@
 """
 generate_content.py
-Calls the Google Gemini API (free tier, no credit card required) to produce
-one "fact of the day" in Turkish, English, Spanish and Arabic, and writes
-it to fact.json for the render step to use.
-
-Requires env vars:
-  GEMINI_API_KEY - get a free key at https://aistudio.google.com/apikey
-  CATEGORY       - one of: history, language, health, animals, tech, science, general
+Calls Gemini to produce one FactBite in Turkish, English, Spanish and Arabic.
+Keeps a small topic history so the same/similar fact is not generated again.
 """
 import json
 import os
@@ -15,8 +10,8 @@ import urllib.request
 API_KEY = os.environ["GEMINI_API_KEY"]
 MODEL = "gemini-flash-latest"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={API_KEY}"
-
 CATEGORY = os.environ.get("CATEGORY", "general")
+HISTORY_PATH = "data/topic_history.json"
 
 CATEGORY_INSTRUCTIONS = {
     "history": "Konu: tarih ve kultur. Az bilinen bir tarihi olay veya kulturel gelenekle ilgili sasirtici bir bilgi ver.",
@@ -32,44 +27,71 @@ JSON_EXAMPLE = """{
   "tr": {"headline": "kisa carpici baslik (max 8 kelime)", "body": "1-2 cumlelik aciklama"},
   "en": {"headline": "...", "body": "..."},
   "es": {"headline": "...", "body": "..."},
-  "ar": {"headline": "...", "body": "..."}
+  "ar": {"headline": "...", "body": "..."},
+  "hashtags": ["#FactBite", "#Science", "#Space"]
 }"""
 
-PROMPT = (
-    "Bugun icin ilginc, dogrulanabilir, sasirtici bir \"genel kultur bilgisi\" uret.\n"
-    + CATEGORY_INSTRUCTIONS.get(CATEGORY, CATEGORY_INSTRUCTIONS["general"]) + "\n"
-    "Daha once cok bilinen klise bilgilerden kacin.\n\n"
-    "Bunu tam olarak su JSON formatinda, baska hicbir aciklama eklemeden dondur:\n\n"
-    + JSON_EXAMPLE + "\n\n"
-    "Dort dildeki metin ayni bilgiyi anlatmali (birebir ceviri olmasa da anlamca esdeger olmali).\n"
-    "Arapca metin dogru ve akici olmali, modern standart Arapca kullan.\n"
-)
+
+def load_history():
+    try:
+        with open(HISTORY_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
 
 
-def main():
-    body = json.dumps({
-        "contents": [{"parts": [{"text": PROMPT}]}],
-        "generationConfig": {
-            "response_mime_type": "application/json",
-        },
-    }).encode("utf-8")
-
-    req = urllib.request.Request(
-        API_URL,
-        data=body,
-        headers={"Content-Type": "application/json"},
+def build_history_text(history):
+    recent = history[-100:]
+    if not recent:
+        return "HENUZ ONCEKI KONU YOK."
+    return "\n".join(
+        f"- [{x.get('category','general')}] {x.get('headline','')} — {x.get('body','')}"
+        for x in recent
     )
+
+
+def request_fact(history_text):
+    prompt = (
+        "Bugun icin ilginc, dogrulanabilir, sasirtici bir genel kultur bilgisi uret.\n"
+        + CATEGORY_INSTRUCTIONS.get(CATEGORY, CATEGORY_INSTRUCTIONS["general"]) + "\n"
+        "Daha once cok bilinen klise bilgilerden kacin.\n"
+        "ASAGIDAKI GECMIS KONULARIN HICBIRINI TEKRARLAMA. Ayni olayin/nesnenin baska bir ayrintisini anlatarak dolanma; konu belirgin sekilde farkli olsun.\n\n"
+        "GECMIS KONULAR:\n" + history_text + "\n\n"
+        "Cok onemli: Bilgi gercekten dogrulanabilir olmali; uydurma istatistik, sahte alinti veya kesin olmayan iddia kullanma.\n"
+        "Tam olarak su JSON formatini dondur, baska aciklama ekleme:\n\n" + JSON_EXAMPLE + "\n\n"
+        "Dort dilde ayni bilgiyi anlat. Arapca modern standart Arapca olsun.\n"
+        "hashtags alaninda 5-8 adet, bu konuyla dogrudan ilgili, gercek ve kullanilan hashtag sec. Marka etiketi #FactBite ilk sirada olsun. Hashtagleri spam gibi doldurma."
+    )
+    body = json.dumps({
+        "contents": [{"parts": [{"text": prompt}]}],
+        "generationConfig": {"response_mime_type": "application/json"},
+    }).encode("utf-8")
+    req = urllib.request.Request(API_URL, data=body, headers={"Content-Type": "application/json"})
     with urllib.request.urlopen(req) as resp:
         data = json.loads(resp.read())
-
-    text = data["candidates"][0]["content"]["parts"][0]["text"]
-    text = text.strip()
+    text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
     if text.startswith("```"):
         text = text.split("```")[1]
         if text.startswith("json"):
             text = text[4:]
-    fact = json.loads(text.strip())
+    return json.loads(text.strip())
+
+
+def main():
+    history = load_history()
+    history_text = build_history_text(history)
+    fact = request_fact(history_text)
     fact["_category"] = CATEGORY
+
+    # Keep history compact and append the Turkish canonical topic.
+    history.append({
+        "category": CATEGORY,
+        "headline": fact["tr"]["headline"],
+        "body": fact["tr"]["body"],
+    })
+    os.makedirs(os.path.dirname(HISTORY_PATH), exist_ok=True)
+    with open(HISTORY_PATH, "w", encoding="utf-8") as f:
+        json.dump(history[-200:], f, ensure_ascii=False, indent=2)
 
     with open("fact.json", "w", encoding="utf-8") as f:
         json.dump(fact, f, ensure_ascii=False, indent=2)

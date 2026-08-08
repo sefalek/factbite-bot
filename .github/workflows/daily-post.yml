@@ -68,7 +68,6 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: python scripts/publish_v2.py
       - name: Publish Facebook Page post
-        if: ${{ secrets.FB_PAGE_ACCESS_TOKEN != '' }}
         env:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
         run: python scripts/publish_facebook.py

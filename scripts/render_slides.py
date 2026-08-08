@@ -168,8 +168,10 @@ def main():
     with open("fact.json", encoding="utf-8") as f:
         fact = json.load(f)
 
+    category = fact.get("_category", "general")
     today = datetime.date.today().isoformat()
-    out_dir = os.path.join("posts", today)
+    now = datetime.datetime.now().strftime("%H%M")
+    out_dir = os.path.join("posts", f"{today}_{now}_{category}")
     os.makedirs(out_dir, exist_ok=True)
 
     total = len(LANGS)

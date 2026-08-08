@@ -25,7 +25,7 @@ GitHub reposunda: **Settings → Secrets and variables → Actions → New repos
 Üç secret ekle:
 - `ANTHROPIC_API_KEY` — console.anthropic.com üzerinden alınan API anahtarın
 - `IG_ACCESS_TOKEN` — Meta Developer panelinden aldığın uzun ömürlü Instagram access token
-- `IG_USER_ID` — Instagram business hesabının ID'si (sende: `17841437422396013`)
+- `IG_USER_ID` — Instagram business hesabının ID'si 
 
 ### 3. Workflow'u test et
 Repo'da **Actions** sekmesine git → "Daily FactBite Post" → **Run workflow**

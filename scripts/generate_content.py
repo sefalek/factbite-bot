@@ -4,8 +4,9 @@ Calls the Google Gemini API (free tier, no credit card required) to produce
 one "fact of the day" in Turkish, English, Spanish and Arabic, and writes
 it to fact.json for the render step to use.
 
-Requires env var: GEMINI_API_KEY
-Get a free key at: https://aistudio.google.com/apikey
+Requires env vars:
+  GEMINI_API_KEY - get a free key at https://aistudio.google.com/apikey
+  CATEGORY       - one of: history, language, health, animals, tech, science, general
 """
 import json
 import os
@@ -15,22 +16,34 @@ API_KEY = os.environ["GEMINI_API_KEY"]
 MODEL = "gemini-flash-latest"
 API_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={API_KEY}"
 
-PROMPT = """Bugün için ilginç, doğrulanabilir, şaşırtıcı bir "genel kültür bilgisi" üret.
-Bilim, tarih, doğa, uzay, insan vücudu, dil, hayvanlar gibi konulardan olabilir.
-Daha önce çok bilinen klişe bilgilerden kaçın (örn. "bal bozulmaz" gibi çok tekrarlanmış olanlar).
+CATEGORY = os.environ.get("CATEGORY", "general")
 
-Bunu tam olarak şu JSON formatında, başka hiçbir açıklama eklemeden döndür:
+CATEGORY_INSTRUCTIONS = {
+    "history": "Konu: tarih ve kultur. Az bilinen bir tarihi olay veya kulturel gelenekle ilgili sasirtici bir bilgi ver.",
+    "language": "Konu: dil ve kelime kokenleri. Bir kelimenin ilginc kokeni veya farkli dillerde karsiligi olmayan bir kavramla ilgili bilgi ver.",
+    "health": "Konu: insan vucudu ve saglik. Vucutla ilgili sasirtici, bilimsel olarak dogrulanmis bir bilgi ver.",
+    "animals": "Konu: hayvanlar ve doga. Hayvan davranislari veya doga olaylariyla ilgili sasirtici bir bilgi ver.",
+    "tech": "Konu: teknoloji ve icatlar. Bir icadin hikayesi veya teknoloji tarihiyle ilgili ilginc bir bilgi ver.",
+    "science": "Konu: bilim ve uzay. Fizik, astronomi veya biyoloji alanindan sasirtici bir bilgi ver.",
+    "general": "Bilim, tarih, doga, uzay, insan vucudu, dil, hayvanlar gibi konulardan olabilir.",
+}
 
-{
-  "tr": {"headline": "kısa çarpıcı başlık (max 8 kelime)", "body": "1-2 cümlelik açıklama"},
+JSON_EXAMPLE = """{
+  "tr": {"headline": "kisa carpici baslik (max 8 kelime)", "body": "1-2 cumlelik aciklama"},
   "en": {"headline": "...", "body": "..."},
   "es": {"headline": "...", "body": "..."},
   "ar": {"headline": "...", "body": "..."}
-}
+}"""
 
-Dört dildeki metin aynı bilgiyi anlatmalı (birebir çeviri olmasa da anlamca eşdeğer olmalı).
-Arapça metin doğru ve akıcı olmalı, modern standart Arapça kullan.
-"""
+PROMPT = (
+    "Bugun icin ilginc, dogrulanabilir, sasirtici bir \"genel kultur bilgisi\" uret.\n"
+    + CATEGORY_INSTRUCTIONS.get(CATEGORY, CATEGORY_INSTRUCTIONS["general"]) + "\n"
+    "Daha once cok bilinen klise bilgilerden kacin.\n\n"
+    "Bunu tam olarak su JSON formatinda, baska hicbir aciklama eklemeden dondur:\n\n"
+    + JSON_EXAMPLE + "\n\n"
+    "Dort dildeki metin ayni bilgiyi anlatmali (birebir ceviri olmasa da anlamca esdeger olmali).\n"
+    "Arapca metin dogru ve akici olmali, modern standart Arapca kullan.\n"
+)
 
 
 def main():
@@ -56,11 +69,12 @@ def main():
         if text.startswith("json"):
             text = text[4:]
     fact = json.loads(text.strip())
+    fact["_category"] = CATEGORY
 
     with open("fact.json", "w", encoding="utf-8") as f:
         json.dump(fact, f, ensure_ascii=False, indent=2)
 
-    print("Wrote fact.json:")
+    print("Wrote fact.json (category:", CATEGORY, ")")
     print(json.dumps(fact, ensure_ascii=False, indent=2))
 
 

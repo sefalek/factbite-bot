@@ -1,0 +1,65 @@
+name: FactBite V3 - Dry Run Only
+
+on:
+  workflow_dispatch:
+    inputs:
+      category:
+        description: "V3 category to generate"
+        required: true
+        default: "history"
+        type: choice
+        options: [history, language, health, animals, tech, science]
+
+permissions:
+  contents: read
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: v3
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: |
+          pip install pillow arabic_reshaper python-bidi
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+      - name: Generate V3 content
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CATEGORY: ${{ inputs.category }}
+        run: python scripts/generate_content.py
+      - name: Render V3 carousel preview
+        run: python scripts/render_v2.py
+      - name: Build V3 Reel preview
+        run: python scripts/build_reel.py
+      - name: Validate generated package
+        run: |
+          python - <<'PY'
+          import json, os
+          fact=json.load(open('fact.json',encoding='utf-8'))
+          required=['tr','en','es','ar','reel_hook','story_question','story_options','hashtags','cta','quality']
+          missing=[x for x in required if x not in fact]
+          if missing: raise SystemExit('Missing fields: '+', '.join(missing))
+          d=open('latest_post_dir.txt',encoding='utf-8').read().strip()
+          files=sorted(x for x in os.listdir(d) if x.endswith('.png'))
+          assert len([x for x in files if x.startswith('slide_')]) == 5
+          assert os.path.exists(os.path.join(d,'factbite_reel.mp4'))
+          print('V3 VALID:', fact.get('format'), fact.get('quality'))
+          print('Preview directory:', d)
+          PY
+      - name: Upload V3 preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: factbite-v3-preview-${{ inputs.category }}
+          path: |
+            fact.json
+            posts/
+          retention-days: 7
+
+      # IMPORTANT: There is deliberately NO Instagram, Facebook or Telegram publish step here.

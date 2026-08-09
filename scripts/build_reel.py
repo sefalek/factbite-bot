@@ -45,7 +45,9 @@ def make_audio(path,category):
 def main():
  d=open("latest_post_dir.txt",encoding="utf-8").read().strip(); fact=json.load(open("fact.json",encoding="utf-8")); make_frames(fact,d); audio=os.path.join(d,"reel_audio.wav"); make_audio(audio,fact.get("_category","science")); out=os.path.join(d,"factbite_reel.mp4"); inp=os.path.join(d,"reel_slides.txt")
  with open(inp,"w",encoding="utf-8") as f:
-  for i in range(1,5):f.write(f"file '{os.path.abspath(os.path.join(d,f'reel_{i}.png'))}'\n'); f.write("duration 4\n")
+  for i in range(1,5):
+   f.write(f"file '{os.path.abspath(os.path.join(d,f'reel_{i}.png'))}'\n")
+   f.write("duration 4\n")
   f.write(f"file '{os.path.abspath(os.path.join(d,'reel_4.png'))}'\n")
  subprocess.run(["ffmpeg","-y","-f","concat","-safe","0","-i",inp,"-i",audio,"-vf","format=yuv420p","-r","30","-t","16","-c:v","libx264","-preset","veryfast","-crf","23","-c:a","aac","-b:a","128k","-shortest",out],check=True);os.remove(inp);os.remove(audio)
 if __name__=="__main__":main()

@@ -1,42 +1,42 @@
 {
   "tr": {
-    "headline": "\"Kas\" Kelimesinin Kökeni \"Küçük Fare\"ye Dayanıyor",
-    "body": "Romalılar, deri altında hareket eden kasların görüntüsünü koşturan farelere benzetmiştir. Bu yüzden Latince \"küçük fare\" anlamına gelen \"musculus\" kelimesi, günümüzdeki kas kavramının kökeni olmuştur."
+    "headline": "Gözümüz Oksijeni Doğrudan Havadan Alır",
+    "body": "Gözün şeffaf kalması gereken kornea tabakasında kan damarı bulunmaz. Bu nedenle kornea, ihtiyaç duyduğu oksijeni kan yerine doğrudan dışarıdaki havadan ve gözyaşı vasıtasıyla alır."
   },
   "en": {
-    "headline": "The Word \"Muscle\" Literally Means \"Little Mouse\"",
-    "body": "Ancient Romans thought flexed muscles moving beneath the skin resembled scurrying mice. This inspired the Latin word \"musculus\" (little mouse), which became the root for muscle."
+    "headline": "Your Eyes Breathe Oxygen Directly From Air",
+    "body": "Because the cornea must remain clear to focus light, it contains no blood vessels. Instead, it absorbs oxygen directly from the surrounding air through the tear film."
   },
   "es": {
-    "headline": "La Palabra \"Músculo\" Significa Literalmente \"Pequeño Ratón\"",
-    "body": "Los antiguos romanos pensaban que el movimiento de los músculos bajo la piel se parecía al de un ratón corriendo. De ahí deriva la palabra latina \"musculus\"."
+    "headline": "Tus Ojos Absorben Oxígeno Directamente del Aire",
+    "body": "La córnea no contiene vasos sanguíneos para mantenerse transparente. En su lugar, obtiene el oxígeno que necesita directamente del aire a través de la película lagrimal."
   },
   "ar": {
-    "headline": "كلمة \"عضلة\" باللاتينية تعني حرفياً \"الفأر الصغير\"",
-    "body": "شبّه الرومان القدماء حركة العضلات تحت الجلد بحركة الفئران الصغيرة وهي تركض. ولهذا استخدموا كلمة \"musculus\" اللاتينية التي تعني \"الفأر الصغير\" لوصف العضلات."
+    "headline": "قرنية العين تمتص الأكسجين مباشرة من الهواء",
+    "body": "تخلو قرنية العين من الأوعية الدموية حتى تظل شفافة، وتستمد الأكسجين الذي تحتاجه مباشرة من الهواء الخارجي عن طريق طبقة الدموع."
   },
   "reel_hook": {
-    "tr": "\"Kas\" kelimesinin aslında sevimli bir hayvandan geldiğini biliyor muydunuz?",
-    "en": "Did you know the word \"muscle\" is named after a tiny animal?"
+    "tr": "Vücudunda kan damarı olmadan doğrudan havadan oksijen alan yeri biliyor musun?",
+    "en": "Do you know which part of your body breathes oxygen directly from the air?"
   },
   "story_question": {
-    "tr": "Kas (Muscle) kelimesi Latince hangi hayvandan türemiştir?",
-    "en": "Which animal inspired the Latin root for the word \"muscle\"?",
-    "es": "¿Qué animal inspiró la raíz latina de la palabra \"músculo\"?",
-    "ar": "أي حيوان ألهم الجذر اللاتيني لكلمة \"عضلة\"؟"
+    "tr": "Vücutta kan damarı bulunmayan ve oksijeni doğrudan havadan alan doku hangisidir?",
+    "en": "Which tissue has no blood vessels and gets oxygen directly from the air?",
+    "es": "¿Qué tejido no tiene vasos sanguíneos y obtiene oxígeno directamente del aire?",
+    "ar": "أي نسيج لا يحتوي على أوعية دموية ويأخذ الأكسجين من الهواء مباشرة؟"
   },
   "story_options": [
-    "Fare / Mouse",
-    "Kedi / Cat",
-    "Yılan / Snake"
+    "Kornea",
+    "Diş Emayesi",
+    "Tırnak"
   ],
   "hashtags": [
     "#FactBite",
-    "#Etymology",
-    "#Language",
-    "#History",
-    "#Words",
-    "#Linguistics"
+    "#HumanBody",
+    "#ScienceFacts",
+    "#Anatomy",
+    "#BiologyFacts",
+    "#HealthFacts"
   ],
   "cta": {
     "tr": "Her gün yeni bir şey öğren. @factbitee",
@@ -44,5 +44,5 @@
     "es": "Aprende algo nuevo cada día. @factbitee",
     "ar": "تعلم شيئًا جديدًا كل يوم. @factbitee"
   },
-  "_category": "language"
+  "_category": "health"
 }

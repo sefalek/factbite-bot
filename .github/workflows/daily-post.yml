@@ -30,6 +30,8 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
+    outputs:
+      quota_exhausted: ${{ steps.gemini.outputs.quota_exhausted || 'false' }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -55,10 +57,24 @@ jobs:
             *) echo "category=${{ inputs.category || 'general' }}" >> "$GITHUB_OUTPUT" ;;
           esac
       - name: Generate today's fact (Gemini API)
+        id: gemini
+        continue-on-error: true
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CATEGORY: ${{ steps.cat.outputs.category }}
         run: python scripts/generate_content.py
+      - name: Notify Gemini quota exhausted
+        if: ${{ steps.gemini.outputs.quota_exhausted == 'true' }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MESSAGE: "⚠️ FactBite Gemini API kotası doldu\nBugünkü Gemini limiti/rate limitine ulaşıldı. Yeni içerik üretilemedi.\nKategori: ${{ steps.cat.outputs.category }}\nRun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+        run: |
+          python scripts/notify_telegram.py
+          exit 1
+      - name: Stop if Gemini generation failed
+        if: ${{ steps.gemini.outcome == 'failure' }}
+        run: exit 1
       - name: Render five carousel slides
         run: python scripts/render_v2.py
       - name: Build Reel media for selected Reel slots
@@ -90,7 +106,7 @@ jobs:
           TELEGRAM_MESSAGE: "✅ FactBite yayınlandı\nKategori: ${{ steps.cat.outputs.category }}\nInstagram: Carousel + Story\nReel: Ayrı zamanda yayınlanacak\nFacebook: Denendi"
         run: python scripts/notify_telegram.py
   notify-failure:
-    if: ${{ needs.post.result == 'failure' }}
+    if: ${{ needs.post.result == 'failure' && needs.post.outputs.quota_exhausted != 'true' }}
     needs: [post]
     runs-on: ubuntu-latest
     steps:

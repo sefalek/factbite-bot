@@ -1,27 +1,48 @@
 {
   "tr": {
-    "headline": "Samanyolu'nun Merkezinde Ahududu Kokulu Gaz Bulutu",
-    "body": "Astronomlar, galaksimizin merkezindeki devasa Sagittarius B2 bulutunda ahududuya tadını veren etil format molekülünü keşfetti. Bu uzay bulutu trilyonlarca litre ahududu ve rom aromalı bileşik içeriyor."
+    "headline": "\"Kas\" Kelimesinin Kökeni \"Küçük Fare\"ye Dayanıyor",
+    "body": "Romalılar, deri altında hareket eden kasların görüntüsünü koşturan farelere benzetmiştir. Bu yüzden Latince \"küçük fare\" anlamına gelen \"musculus\" kelimesi, günümüzdeki kas kavramının kökeni olmuştur."
   },
   "en": {
-    "headline": "A Cosmic Cloud That Smells Like Raspberry",
-    "body": "Astronomers detected ethyl formate—the chemical responsible for the taste of raspberries and the smell of rum—at the center of the Milky Way. This massive cloud named Sagittarius B2 contains trillions of liters of this compound."
+    "headline": "The Word \"Muscle\" Literally Means \"Little Mouse\"",
+    "body": "Ancient Romans thought flexed muscles moving beneath the skin resembled scurrying mice. This inspired the Latin word \"musculus\" (little mouse), which became the root for muscle."
   },
   "es": {
-    "headline": "Una nube cósmica con olor a frambuesa",
-    "body": "Los astrónomos detectaron formato de etilo, el compuesto químico que da sabor a las frambuesas y olor al ron, en el centro de la Vía Láctea. Esta gigantesca nube llamada Sagitario B2 contiene billones de litros de esta sustancia."
+    "headline": "La Palabra \"Músculo\" Significa Literalmente \"Pequeño Ratón\"",
+    "body": "Los antiguos romanos pensaban que el movimiento de los músculos bajo la piel se parecía al de un ratón corriendo. De ahí deriva la palabra latina \"musculus\"."
   },
   "ar": {
-    "headline": "سحابة كونية برائحة التوت العليق في المجرة",
-    "body": "اكتشف علماء الفلك جزيئات فورمات الإيثيل، المركب المسؤول عن طعم التوت العليق ورائحة المشروبات في مركز مجرة درب التبانة. تحتوي هذه السحابة العملاقة ساجيتاريوس B2 على تريليونات اللترات من هذا المركب."
+    "headline": "كلمة \"عضلة\" باللاتينية تعني حرفياً \"الفأر الصغير\"",
+    "body": "شبّه الرومان القدماء حركة العضلات تحت الجلد بحركة الفئران الصغيرة وهي تركض. ولهذا استخدموا كلمة \"musculus\" اللاتينية التي تعني \"الفأر الصغير\" لوصف العضلات."
   },
+  "reel_hook": {
+    "tr": "\"Kas\" kelimesinin aslında sevimli bir hayvandan geldiğini biliyor muydunuz?",
+    "en": "Did you know the word \"muscle\" is named after a tiny animal?"
+  },
+  "story_question": {
+    "tr": "Kas (Muscle) kelimesi Latince hangi hayvandan türemiştir?",
+    "en": "Which animal inspired the Latin root for the word \"muscle\"?",
+    "es": "¿Qué animal inspiró la raíz latina de la palabra \"músculo\"?",
+    "ar": "أي حيوان ألهم الجذر اللاتيني لكلمة \"عضلة\"؟"
+  },
+  "story_options": [
+    "Fare / Mouse",
+    "Kedi / Cat",
+    "Yılan / Snake"
+  ],
   "hashtags": [
     "#FactBite",
-    "#Space",
-    "#Astronomy",
-    "#MilkyWay",
-    "#CosmicFacts",
-    "#Science"
+    "#Etymology",
+    "#Language",
+    "#History",
+    "#Words",
+    "#Linguistics"
   ],
-  "_category": "science"
+  "cta": {
+    "tr": "Her gün yeni bir şey öğren. @factbitee",
+    "en": "Learn something new every day. @factbitee",
+    "es": "Aprende algo nuevo cada día. @factbitee",
+    "ar": "تعلم شيئًا جديدًا كل يوم. @factbitee"
+  },
+  "_category": "language"
 }

@@ -1,42 +1,42 @@
 {
   "tr": {
-    "headline": "Gözümüz Oksijeni Doğrudan Havadan Alır",
-    "body": "Gözün şeffaf kalması gereken kornea tabakasında kan damarı bulunmaz. Bu nedenle kornea, ihtiyaç duyduğu oksijeni kan yerine doğrudan dışarıdaki havadan ve gözyaşı vasıtasıyla alır."
+    "headline": "Köpekbalıkları Ağaçlardan Daha Eskidir",
+    "body": "Fosil kayıtlarına göre ilk köpekbalıkları yaklaşık 450 milyon yıl önce ortaya çıkmıştır. Yeryüzündeki ilk ağaçlar ise köpekbalıklarından yaklaşık 100 milyon yıl sonra evrimleşmiştir."
   },
   "en": {
-    "headline": "Your Eyes Breathe Oxygen Directly From Air",
-    "body": "Because the cornea must remain clear to focus light, it contains no blood vessels. Instead, it absorbs oxygen directly from the surrounding air through the tear film."
+    "headline": "Sharks Are Older Than Trees",
+    "body": "Fossil records show that the earliest sharks appeared around 450 million years ago. The first tree species on Earth did not evolve until nearly 100 million years later."
   },
   "es": {
-    "headline": "Tus Ojos Absorben Oxígeno Directamente del Aire",
-    "body": "La córnea no contiene vasos sanguíneos para mantenerse transparente. En su lugar, obtiene el oxígeno que necesita directamente del aire a través de la película lagrimal."
+    "headline": "Los tiburones son más antiguos que los árboles",
+    "body": "Los registros fósiles muestran que los primeros tiburones aparecieron hace unos 450 millones de años. Las primeras especies de árboles evolucionaron casi 100 millones de años después."
   },
   "ar": {
-    "headline": "قرنية العين تمتص الأكسجين مباشرة من الهواء",
-    "body": "تخلو قرنية العين من الأوعية الدموية حتى تظل شفافة، وتستمد الأكسجين الذي تحتاجه مباشرة من الهواء الخارجي عن طريق طبقة الدموع."
+    "headline": "أسماك القرش أقدم من الأشجار",
+    "body": "تُظهر الأحافير أن أسماك القرش الأولى ظهرت على الأرض منذ حوالي 450 مليون سنة. بينما لم تظهر الأشجار الأولى إلا بعد ذلك بنحو 100 مليون سنة."
   },
   "reel_hook": {
-    "tr": "Vücudunda kan damarı olmadan doğrudan havadan oksijen alan yeri biliyor musun?",
-    "en": "Do you know which part of your body breathes oxygen directly from the air?"
+    "tr": "Ağaçlar mı daha eski, köpekbalıkları mı?",
+    "en": "Which existed first: trees or sharks?"
   },
   "story_question": {
-    "tr": "Vücutta kan damarı bulunmayan ve oksijeni doğrudan havadan alan doku hangisidir?",
-    "en": "Which tissue has no blood vessels and gets oxygen directly from the air?",
-    "es": "¿Qué tejido no tiene vasos sanguíneos y obtiene oxígeno directamente del aire?",
-    "ar": "أي نسيج لا يحتوي على أوعية دموية ويأخذ الأكسجين من الهواء مباشرة؟"
+    "tr": "Hangisi yeryüzünde ağaçlardan daha önce vardı?",
+    "en": "Which of these existed on Earth before trees?",
+    "es": "¿Cuál de estos existió en la Tierra antes que los árboles?",
+    "ar": "أي من هذه الكائنات ظهر على الأرض قبل الأشجار؟"
   },
   "story_options": [
-    "Kornea",
-    "Diş Emayesi",
-    "Tırnak"
+    "Köpekbalıkları",
+    "Çiçekler",
+    "Kuşlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#HumanBody",
-    "#ScienceFacts",
-    "#Anatomy",
-    "#BiologyFacts",
-    "#HealthFacts"
+    "#Science",
+    "#Nature",
+    "#Sharks",
+    "#Evolution",
+    "#Biology"
   ],
   "cta": {
     "tr": "Her gün yeni bir şey öğren. @factbitee",
@@ -44,5 +44,5 @@
     "es": "Aprende algo nuevo cada día. @factbitee",
     "ar": "تعلم شيئًا جديدًا كل يوم. @factbitee"
   },
-  "_category": "health"
+  "_category": "general"
 }

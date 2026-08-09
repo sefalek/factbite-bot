@@ -1,12 +1,18 @@
 name: Daily FactBite Posts
 on:
   schedule:
-    - cron: "3 5 * * *"
-    - cron: "7 7 * * *"
-    - cron: "3 9 * * *"
-    - cron: "7 12 * * *"
-    - cron: "3 15 * * *"
-    - cron: "7 19 * * *"
+    - cron: "17 8 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "17 10 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "17 12 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "17 15 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "17 18 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "17 22 * * *"
+      timezone: "Europe/Istanbul"
   workflow_dispatch:
     inputs:
       category:
@@ -18,6 +24,9 @@ on:
 permissions:
   contents: write
   issues: write
+concurrency:
+  group: factbite-daily-posts
+  cancel-in-progress: false
 jobs:
   post:
     runs-on: ubuntu-latest
@@ -37,12 +46,12 @@ jobs:
         id: cat
         run: |
           case "${{ github.event.schedule }}" in
-            "3 5 * * *")  echo "category=history"  >> "$GITHUB_OUTPUT" ;;
-            "7 7 * * *")  echo "category=language" >> "$GITHUB_OUTPUT" ;;
-            "3 9 * * *")  echo "category=health"   >> "$GITHUB_OUTPUT" ;;
-            "7 12 * * *") echo "category=animals"  >> "$GITHUB_OUTPUT" ;;
-            "3 15 * * *") echo "category=tech"     >> "$GITHUB_OUTPUT" ;;
-            "7 19 * * *") echo "category=science"  >> "$GITHUB_OUTPUT" ;;
+            "17 8 * * *")  echo "category=history"  >> "$GITHUB_OUTPUT" ;;
+            "17 10 * * *") echo "category=language" >> "$GITHUB_OUTPUT" ;;
+            "17 12 * * *") echo "category=health"   >> "$GITHUB_OUTPUT" ;;
+            "17 15 * * *") echo "category=animals"  >> "$GITHUB_OUTPUT" ;;
+            "17 18 * * *") echo "category=tech"     >> "$GITHUB_OUTPUT" ;;
+            "17 22 * * *") echo "category=science"  >> "$GITHUB_OUTPUT" ;;
             *) echo "category=${{ inputs.category || 'general' }}" >> "$GITHUB_OUTPUT" ;;
           esac
       - name: Generate today's fact (Gemini API)
@@ -52,7 +61,8 @@ jobs:
         run: python scripts/generate_content.py
       - name: Render five carousel slides
         run: python scripts/render_v2.py
-      - name: Build Reel
+      - name: Build Reel media for selected Reel slots
+        if: ${{ contains(fromJSON('["history","tech","science"]'), steps.cat.outputs.category) }}
         run: python scripts/build_reel.py
       - name: Commit generated media and topic history
         run: |
@@ -62,12 +72,13 @@ jobs:
           git commit -m "Auto: ${{ steps.cat.outputs.category }} post $(date -u +%F_%H%M)" || echo "nothing to commit"
           git pull --rebase
           git push
-      - name: Publish Instagram carousel, Story and Reel
+      - name: Publish Instagram carousel and Story
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
         run: python scripts/publish_v2.py
       - name: Publish Facebook Page post
+        continue-on-error: true
         env:
           FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
         run: python scripts/publish_facebook.py
@@ -76,7 +87,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "✅ FactBite V2 yayınlandı\nKategori: ${{ steps.cat.outputs.category }}\nInstagram: Carousel + Story + Reel\nFacebook: Page paylaşımı denendi"
+          TELEGRAM_MESSAGE: "✅ FactBite yayınlandı\nKategori: ${{ steps.cat.outputs.category }}\nInstagram: Carousel + Story\nReel: Ayrı zamanda yayınlanacak\nFacebook: Denendi"
         run: python scripts/notify_telegram.py
   notify-failure:
     if: ${{ needs.post.result == 'failure' }}
@@ -88,10 +99,10 @@ jobs:
         with:
           script: |
             const runUrl = `https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
-            await github.rest.issues.create({ owner: context.repo.owner, repo: context.repo.repo, title: `🚨 FactBite V2 başarısız — ${new Date().toISOString().slice(0, 10)}`, body: `Workflow başarısız oldu.\n\nRun: ${runUrl}` });
+            await github.rest.issues.create({ owner: context.repo.owner, repo: context.repo.repo, title: `🚨 FactBite başarısız — ${new Date().toISOString().slice(0, 10)}`, body: `Workflow başarısız oldu.\n\nRun: ${runUrl}` });
       - name: Telegram failure notification
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "🚨 FactBite V2 başarısız\nRun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          TELEGRAM_MESSAGE: "🚨 FactBite başarısız\nRun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         run: python scripts/notify_telegram.py

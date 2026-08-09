@@ -1,52 +1,53 @@
 {
   "format": "classic",
   "tr": {
-    "headline": "Muzlar ve İnsan DNA'sı",
-    "body": "Muzlar ile insan DNA'sının %60 oranında ortak olduğu sıkça söylenir, ancak bu oran tüm canlılar için geçerli olan temel hücresel süreçlerin paylaşılmasından kaynaklanır. Aslında meyve sinekleriyle DNA'mızın %60'ı, farelerle ise yaklaşık %85'i benzerdir."
+    "headline": "Kangurular Geri Yürüyemez",
+    "body": "Kanguruların anatomik yapısı, özellikle de çok büyük ve kaslı kuyrukları ile devasa arka bacakları, onların yalnızca ileriye doğru zıplamalarına izin verir. Fiziksel olarak geriye doğru adım atmaları imkansızdır."
   },
   "en": {
-    "headline": "Bananas and Human DNA",
-    "body": "It is often said that humans share 60% of their DNA with bananas, but this similarity stems from shared basic cellular processes common to all living things. In fact, we share about 60% of our DNA with fruit flies and roughly 85% with mice."
+    "headline": "Kangaroos Cannot Walk Backward",
+    "body": "The anatomical structure of kangaroos, particularly their massive muscular tails and huge hind legs, only allows them to bound forward. It is physically impossible for them to take a step backward."
   },
   "es": {
-    "headline": "Los plátanos y el ADN humano",
-    "body": "A menudo se dice que los humanos compartimos el 60% de nuestro ADN con los plátanos, pero esta similitud se debe a procesos celulares básicos compartidos por todos los seres vivos. De hecho, compartimos alrededor del 60% con las moscas de la fruta y cerca del 85% con los ratones."
+    "headline": "Los canguros no pueden caminar hacia atrás",
+    "body": "La estructura anatómica de los canguros, en particular sus colas grandes y musculosas y sus enormes patas traseras, solo les permite saltar hacia adelante. Es físicamente imposible que den un paso hacia atrás."
   },
   "ar": {
-    "headline": "الموز والحمض النووي البشري",
-    "body": "غالبًا ما يُقال إن البشر يتشاركون 60% من الحمض النووي مع الموز، لكن هذا التشابه نבع من العمليات الخلوية الأساسية المشتركة بين جميع الكائنات الحية. في الواقع، نتشارك حوالي 60% من الحمض النووي مع ذباب الفاكهة وحوالي 85% مع الفئران."
+    "headline": "لا تستطيع الكنغر المشي إلى الوراء",
+    "body": "التركيبة التشريحية لكنغر، وخاصة ذيولهما العضلية الضخمة وأرجلهما الخلفية الكبيرة، تسمح لهما بالقفز للأمام فقط. من المستحيل جسدياً أن يتخذا خطوة إلى الوراء."
   },
   "reel_hook": {
-    "tr": "Muzla DNA'mızın %60'ı aynı ama...",
-    "en": "We share 60% DNA with bananas, but...",
-    "es": "Compartimos el 60% de ADN con los plátanos, pero...",
-    "ar": "نتشارك 60% من الحمض النووي مع الموز، ولكن..."
+    "tr": "Kangurular neden asla geri yürüyemez?",
+    "en": "Why can kangaroos never walk backward?",
+    "es": "¿Por qué los canguros nunca pueden caminar hacia atrás?",
+    "ar": "لماذا لا يستطيع الكنغر أبداً المشي إلى الوراء؟"
   },
   "story_question": {
-    "tr": "Hangi hayvanla DNA benzerliğimiz muzdan daha azdır?",
-    "en": "Which animal shares less DNA similarity with humans than a banana?",
-    "es": "¿Qué animal comparte menos similitud de ADN con los humanos que un plátano?",
-    "ar": "أي حيوان يمتلك تشابهاً أقل في الحمض النووي مع البشر مقارنة بالموز؟"
+    "tr": "Kanguruların geri yürüyememesinin temel sebebi nedir?",
+    "en": "What is the main reason kangaroos cannot walk backward?",
+    "es": "¿Cuál es la razón principal por la que los canguros no pueden caminar hacia atrás?",
+    "ar": "ما هو السبب الرئيسي لعدم قدرة الكنغر على المشي إلى الوراء؟"
   },
   "story_options": [
-    "Meyve sineği / Fruit fly",
-    "Fare / Mouse",
-    "Hiçbiri / None"
+    "Kuyruk yapısı ve bacak anatomisi",
+    "Denge sorunları",
+    "Beyin fonksiyonları"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#science",
-    "#biologia",
-    "#dna",
-    "#nature",
-    "#curiosity"
+    "#Doğa",
+    "#Hayvanlar",
+    "#Bilim",
+    "#AnimalFacts",
+    "#Kanguru",
+    "#İlginçBilgiler",
+    "#Nature"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için bizi takip et!",
-    "en": "Follow us for more surprising facts!",
-    "es": "¡Síguenos para más datos sorprendentes!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة!"
+    "tr": "Bunu biliyor muydun? Arkadaşına gönder!",
+    "en": "Did you know this? Send it to a friend!",
+    "es": "¿Sabías esto? ¡Envíaselo a un amigo!",
+    "ar": "هل كنت تعرف هذا؟ أرسله لصديقك!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,8 +57,8 @@
     "overall": 9
   },
   "source": {
-    "name": "Genome Research / National Human Genome Research Institute",
-    "url": "https://www.genome.gov/genetics-glossary/Comparative-Genomics"
+    "name": "Australian Museum",
+    "url": "https://australian.museum/learn/animals/mammals/kangaroo/"
   },
   "_category": "general",
   "_v3": true,

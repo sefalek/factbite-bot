@@ -1,64 +1,63 @@
 {
   "format": "classic",
   "tr": {
-    "headline": "Kangurular Geri Yürüyemez",
-    "body": "Kanguruların anatomik yapısı, özellikle de çok büyük ve kaslı kuyrukları ile devasa arka bacakları, onların yalnızca ileriye doğru zıplamalarına izin verir. Fiziksel olarak geriye doğru adım atmaları imkansızdır."
+    "headline": "Dünyanın En Yüksek Heykeli Su Altında Gizleniyor",
+    "body": "Büyük Sfenks veya Özgürlük Anıtı'ndan çok daha büyük olan dünyanın en yüksek heykeli, karada değil, Atlantik Okyanusu'nun yüzlerce metre altında, İspanya açıklarında yatıyor. 47 metre boyundaki devasa beton 'İsa' figürü, 1954 yılında Akdeniz ve okyanus dalgıçlarını korumak için su altına yerleştirildi."
   },
   "en": {
-    "headline": "Kangaroos Cannot Walk Backward",
-    "body": "The anatomical structure of kangaroos, particularly their massive muscular tails and huge hind legs, only allows them to bound forward. It is physically impossible for them to take a step backward."
+    "headline": "The World's Tallest Statue is Hidden Underwater",
+    "body": "Much larger than the Great Sphinx or the Statue of Liberty, the world's tallest submerged statue lies not on land, but hundreds of feet beneath the Atlantic Ocean off the coast of Spain. The colossal 47-meter-tall concrete 'Christ of the Abyss' figure was placed underwater in 1954 to protect divers."
   },
   "es": {
-    "headline": "Los canguros no pueden caminar hacia atrás",
-    "body": "La estructura anatómica de los canguros, en particular sus colas grandes y musculosas y sus enormes patas traseras, solo les permite saltar hacia adelante. Es físicamente imposible que den un paso hacia atrás."
+    "headline": "La estatua más alta del mundo está oculta bajo el agua",
+    "body": "Mucho más grande que la Gran Esfinge o la Estatua de la Libertad, la estatua sumergida más alta del mundo no está en tierra firme, sino a cientos de pies bajo el Océano Atlántico, frente a las costas de España. La colosal figura de hormigón del 'Cristo de los Abisales', de 47 metros de altura, fue colocada bajo el agua en 1954 para proteger a los buceadores."
   },
   "ar": {
-    "headline": "لا تستطيع الكنغر المشي إلى الوراء",
-    "body": "التركيبة التشريحية لكنغر، وخاصة ذيولهما العضلية الضخمة وأرجلهما الخلفية الكبيرة، تسمح لهما بالقفز للأمام فقط. من المستحيل جسدياً أن يتخذا خطوة إلى الوراء."
+    "headline": "أطول تمثال في العالم مخفي تحت الماء",
+    "body": "أكبر بكثير من أبو الهول أو تمثال الحرية، أطول تمثال مغمور في العالم لا يقع على اليابسة، بل على بعد مئات الأقدام تحت المحيط الأطلسي قبالة سواحل إسبانيا. تم وضع تمثال 'المسيح' الخرساني الضال البالغ طوله 47 متراً تحت الماء في عام 1954 لحماية الغواصين."
   },
   "reel_hook": {
-    "tr": "Kangurular neden asla geri yürüyemez?",
-    "en": "Why can kangaroos never walk backward?",
-    "es": "¿Por qué los canguros nunca pueden caminar hacia atrás?",
-    "ar": "لماذا لا يستطيع الكنغر أبداً المشي إلى الوراء؟"
+    "tr": "Dünyanın en büyük heykeli nerede?",
+    "en": "Where is the world's largest statue?",
+    "es": "¿Dónde está la estatua más grande del mundo?",
+    "ar": "أين أكبر تمثال في العالم؟"
   },
   "story_question": {
-    "tr": "Kanguruların geri yürüyememesinin temel sebebi nedir?",
-    "en": "What is the main reason kangaroos cannot walk backward?",
-    "es": "¿Cuál es la razón principal por la que los canguros no pueden caminar hacia atrás?",
-    "ar": "ما هو السبب الرئيسي لعدم قدرة الكنغر على المشي إلى الوراء؟"
+    "tr": "Sence su altındaki bu dev heykel hangi amaçla yapıldı?",
+    "en": "For what purpose do you think this giant underwater statue was made?",
+    "es": "¿Con qué propósito crees que se hizo esta gigantesca estatua submarina?",
+    "ar": "برأيك، ما هو الغرض من صنع هذا التمثال العملاق تحت الماء؟"
   },
   "story_options": [
-    "Kuyruk yapısı ve bacak anatomisi",
-    "Denge sorunları",
-    "Beyin fonksiyonları"
+    "Dalış turizmini canlandırmak",
+    "Kayıp bir şehri işaretlemek",
+    "Denizcileri ve dalgıçları korumak"
   ],
   "hashtags": [
     "#FactBite",
-    "#Doğa",
-    "#Hayvanlar",
-    "#Bilim",
-    "#AnimalFacts",
-    "#Kanguru",
-    "#İlginçBilgiler",
-    "#Nature"
+    "#heykel",
+    "#sualtı",
+    "#atlantik",
+    "#keşif",
+    "#bilgi",
+    "#tarih"
   ],
   "cta": {
-    "tr": "Bunu biliyor muydun? Arkadaşına gönder!",
-    "en": "Did you know this? Send it to a friend!",
-    "es": "¿Sabías esto? ¡Envíaselo a un amigo!",
-    "ar": "هل كنت تعرف هذا؟ أرسله لصديقك!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Australian Museum",
-    "url": "https://australian.museum/learn/animals/mammals/kangaroo/"
+    "name": "Guinness World Records / Christ of the Abyss",
+    "url": "https://www.guinnessworldrecords.com/"
   },
   "_category": "general",
   "_v3": true,

@@ -1,0 +1,12 @@
+[
+ {"date":"2026-08-30","name":"Zafer Bayramı","level":"A","type":"national"},
+ {"date":"2026-10-29","name":"Cumhuriyet Bayramı","level":"A","type":"national"},
+ {"date":"2026-11-10","name":"Atatürk'ü Anma Günü","level":"A","type":"national"},
+ {"date":"2026-12-31","name":"Yılbaşı Arifesi","level":"A","type":"global"},
+ {"date":"2027-01-01","name":"Yılbaşı","level":"A","type":"global"},
+ {"date":"2026-09-08","name":"Uluslararası Okuryazarlık Günü","level":"B","type":"international"},
+ {"date":"2026-10-04","name":"Dünya Hayvanları Koruma Günü","level":"B","type":"international"},
+ {"date":"2026-10-04","name":"Dünya Uzay Haftası Başlangıcı","level":"B","type":"international"},
+ {"date":"2026-11-10","name":"Dünya Bilim Günü","level":"B","type":"international"},
+ {"date":"2026-12-10","name":"İnsan Hakları Günü","level":"B","type":"international"}
+]

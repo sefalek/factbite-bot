@@ -1,0 +1,42 @@
+{
+  "date": "2026-08-09",
+  "slots": [
+    {
+      "time": "08:17",
+      "category": "general",
+      "format": "classic",
+      "reason": "fallback"
+    },
+    {
+      "time": "10:17",
+      "category": "history",
+      "format": "classic",
+      "reason": "fallback"
+    },
+    {
+      "time": "12:17",
+      "category": "science",
+      "format": "classic",
+      "reason": "fallback"
+    },
+    {
+      "time": "15:17",
+      "category": "animals",
+      "format": "classic",
+      "reason": "fallback"
+    },
+    {
+      "time": "18:17",
+      "category": "tech",
+      "format": "classic",
+      "reason": "fallback"
+    },
+    {
+      "time": "22:17",
+      "category": "culture",
+      "format": "classic",
+      "reason": "fallback"
+    }
+  ],
+  "special": []
+}

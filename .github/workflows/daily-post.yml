@@ -79,8 +79,7 @@ jobs:
         run: exit 1
       - name: Render five carousel slides
         run: python scripts/render_v2.py
-      - name: Build Reel media for selected Reel slots
-        if: ${{ steps.slot.outputs.is_special == 'true' || contains(fromJSON('["history","tech","science","sports","news","space"]'), steps.slot.outputs.category) }}
+      - name: Build Reel media for every generated post
         run: python scripts/build_reel.py
       - name: Remove media older than 14 days
         run: python scripts/cleanup_media.py

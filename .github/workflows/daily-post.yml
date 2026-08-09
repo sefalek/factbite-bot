@@ -7,6 +7,8 @@ on:
       timezone: "Europe/Istanbul"
     - cron: "17 12 * * *"
       timezone: "Europe/Istanbul"
+    - cron: "30 13 * * *"
+      timezone: "Europe/Istanbul"
     - cron: "17 15 * * *"
       timezone: "Europe/Istanbul"
     - cron: "17 18 * * *"
@@ -20,7 +22,7 @@ on:
         required: false
         default: "general"
         type: choice
-        options: [general, history, language, health, animals, tech, science]
+        options: [general, history, language, health, animals, tech, science, sports, news, culture, space]
 permissions:
   contents: write
   issues: write
@@ -42,34 +44,34 @@ jobs:
           pip install pillow arabic_reshaper python-bidi
           sudo apt-get update -qq
           sudo apt-get install -y ffmpeg
-      - name: Determine category
-        id: cat
-        run: |
-          case "${{ github.event.schedule }}" in
-            "17 8 * * *")  echo "category=history"  >> "$GITHUB_OUTPUT" ;;
-            "17 10 * * *") echo "category=language" >> "$GITHUB_OUTPUT" ;;
-            "17 12 * * *") echo "category=health"   >> "$GITHUB_OUTPUT" ;;
-            "17 15 * * *") echo "category=animals"  >> "$GITHUB_OUTPUT" ;;
-            "17 18 * * *") echo "category=tech"     >> "$GITHUB_OUTPUT" ;;
-            "17 22 * * *") echo "category=science"  >> "$GITHUB_OUTPUT" ;;
-            *) echo "category=${{ inputs.category || 'general' }}" >> "$GITHUB_OUTPUT" ;;
-          esac
+      - name: Build or reuse today's FactBite Brain plan
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/smart_plan.py
+      - name: Select slot
+        id: slot
+        run: python scripts/select_plan.py
+      - name: Skip special-day slot when no special day exists
+        if: ${{ steps.slot.outputs.is_special != 'true' && github.event.schedule == '30 13 * * *' }}
+        run: echo "No special day today; nothing to publish at the special-day slot." && exit 0
       - name: Generate today's fact (Gemini API)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          CATEGORY: ${{ steps.cat.outputs.category }}
+          CATEGORY: ${{ steps.slot.outputs.category }}
+          CONTENT_FORMAT: ${{ steps.slot.outputs.format }}
+          SPECIAL_DAY: ${{ steps.slot.outputs.special }}
         run: python scripts/generate_content.py
       - name: Render five carousel slides
         run: python scripts/render_v2.py
       - name: Build Reel media for selected Reel slots
-        if: ${{ contains(fromJSON('["history","tech","science"]'), steps.cat.outputs.category) }}
+        if: ${{ steps.slot.outputs.is_special == 'true' || contains(fromJSON('["history","tech","science","sports","news","space"]'), steps.slot.outputs.category) }}
         run: python scripts/build_reel.py
-      - name: Commit generated media and topic history
+      - name: Commit generated media, plan and topic history
         run: |
           git config user.name "factbite-bot"
           git config user.email "bot@factbite.local"
-          git add posts/ fact.json latest_post_dir.txt data/topic_history.json
-          git commit -m "Auto: ${{ steps.cat.outputs.category }} post $(date -u +%F_%H%M)" || echo "nothing to commit"
+          git add posts/ fact.json latest_post_dir.txt data/topic_history.json data/daily_plan.json
+          git commit -m "Auto: FactBite ${{ steps.slot.outputs.category }} $(date -u +%F_%H%M)" || echo "nothing to commit"
           git pull --rebase
           git push
       - name: Publish Instagram carousel and Story
@@ -87,7 +89,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "✅ FactBite yayınlandı\nKategori: ${{ steps.cat.outputs.category }}\nInstagram: Carousel + Story\nReel: Ayrı zamanda yayınlanacak\nFacebook: Denendi"
+          TELEGRAM_MESSAGE: "✅ FactBite yayınlandı\nKategori: ${{ steps.slot.outputs.category }}\nFormat: ${{ steps.slot.outputs.format }}\nÖzel gün: ${{ steps.slot.outputs.special || 'Yok' }}\nInstagram: Carousel + Story\nFacebook: Denendi"
         run: python scripts/notify_telegram.py
   notify-failure:
     if: ${{ needs.post.result == 'failure' }}

@@ -6,6 +6,7 @@ metadata used by carousel, Reel, Story and Facebook distribution.
 import json
 import os
 import urllib.request
+import urllib.error
 
 API_KEY = os.environ["GEMINI_API_KEY"]
 MODEL = "gemini-flash-latest"
@@ -54,6 +55,13 @@ def build_history_text(history):
     )
 
 
+def mark_quota_exhausted():
+    output_file = os.environ.get("GITHUB_OUTPUT")
+    if output_file:
+        with open(output_file, "a", encoding="utf-8") as f:
+            f.write("quota_exhausted=true\n")
+
+
 def request_fact(history_text):
     prompt = (
         "Bugun icin ilginc, dogrulanabilir, sasirtici bir genel kultur bilgisi uret.\n"
@@ -75,8 +83,14 @@ def request_fact(history_text):
         "generationConfig": {"response_mime_type": "application/json"},
     }).encode("utf-8")
     req = urllib.request.Request(API_URL, data=body, headers={"Content-Type": "application/json"})
-    with urllib.request.urlopen(req) as resp:
-        data = json.loads(resp.read())
+    try:
+        with urllib.request.urlopen(req) as resp:
+            data = json.loads(resp.read())
+    except urllib.error.HTTPError as exc:
+        if exc.code == 429:
+            mark_quota_exhausted()
+            print("Gemini API rate limit/quota reached (HTTP 429).")
+        raise
     text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
     if text.startswith("```"):
         text = text.split("```")[1]

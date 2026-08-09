@@ -16,8 +16,6 @@ def wait(cid,tries=36):
     raise RuntimeError("Instagram container processing timeout")
 def story(url):
     x=post(f"{USER}/media",{"image_url":url,"media_type":"STORIES","access_token":ACCESS_TOKEN}); wait(x["id"]); post(f"{USER}/media_publish",{"creation_id":x["id"],"access_token":ACCESS_TOKEN})
-def reel(url,caption):
-    x=post(f"{USER}/media",{"media_type":"REELS","video_url":url,"caption":caption,"access_token":ACCESS_TOKEN}); wait(x["id"]); return post(f"{USER}/media_publish",{"creation_id":x["id"],"access_token":ACCESS_TOKEN}).get("id")
 def main():
     d=open("latest_post_dir.txt",encoding="utf-8").read().strip(); caption=open(os.path.join(d,"caption.txt"),encoding="utf-8").read(); files=sorted([x for x in os.listdir(d) if x.startswith("slide_") and x.endswith(".png")],key=lambda x:int(x.split("_")[1].split(".")[0]))
     ids=[]
@@ -26,8 +24,4 @@ def main():
     x=post(f"{USER}/media",{"media_type":"CAROUSEL","caption":caption,"children":",".join(ids),"access_token":ACCESS_TOKEN}); wait(x["id"]); print("Carousel:",post(f"{USER}/media_publish",{"creation_id":x["id"],"access_token":ACCESS_TOKEN}))
     try: story(raw(os.path.join(d,"slide_1.png"))); print("Original post slide Story published")
     except Exception as e: print("Story warning:",e)
-    reel_path=os.path.join(d,"factbite_reel.mp4")
-    if os.path.exists(reel_path):
-        try: print("Reel:",reel(raw(reel_path),caption))
-        except Exception as e: print("Reel warning:",e)
 if __name__=="__main__": main()

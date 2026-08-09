@@ -1,12 +1,9 @@
 """
-generate_content.py
-Generate one FactBite topic in Turkish, English, Spanish and Arabic plus
-metadata used by carousel, Reel, Story and Facebook distribution.
+generate_content.py — FactBite V3
+Generates a single topic in TR/EN/ES/AR plus metadata for carousel,
+quiz/mystery stories, teaser Reels, hashtags and quality scoring.
 """
-import json
-import os
-import urllib.request
-import urllib.error
+import json, os, urllib.request
 
 API_KEY = os.environ["GEMINI_API_KEY"]
 MODEL = "gemini-flash-latest"
@@ -15,109 +12,76 @@ CATEGORY = os.environ.get("CATEGORY", "general")
 HISTORY_PATH = "data/topic_history.json"
 
 CATEGORY_INSTRUCTIONS = {
-    "history": "Konu: tarih ve kultur. Az bilinen bir tarihi olay veya kulturel gelenekle ilgili sasirtici bir bilgi ver.",
-    "language": "Konu: dil ve kelime kokenleri. Bir kelimenin ilginc kokeni veya farkli dillerdeki ilginc hikayesiyle ilgili bilgi ver.",
-    "health": "Konu: insan vucudu ve saglik. Vucutla ilgili sasirtici, bilimsel olarak dogrulanmis ve abartisiz bir bilgi ver.",
-    "animals": "Konu: hayvanlar ve doga. Hayvan davranislari veya doga olaylariyla ilgili sasirtici bir bilgi ver.",
-    "tech": "Konu: teknoloji ve icatlar. Bir icadin hikayesi veya teknoloji tarihiyle ilgili ilginc bir bilgi ver.",
-    "science": "Konu: bilim ve uzay. Fizik, astronomi veya biyoloji alanindan sasirtici bir bilgi ver.",
-    "general": "Bilim, tarih, doga, uzay, insan vucudu, dil, hayvanlar gibi konulardan olabilir.",
+    "history": "Tarih ve kültür: az bilinen ama doğrulanabilir bir olay, gelenek, kişi veya nesne.",
+    "language": "Dil ve kelime kökenleri: şaşırtıcı bir etimoloji veya dil hikâyesi.",
+    "health": "İnsan vücudu ve sağlık: bilimsel, güvenli, abartısız ve teşhis/tedavi içermeyen bir gerçek.",
+    "animals": "Hayvanlar ve doğa: sıra dışı davranış veya doğrulanabilir doğa olgusu.",
+    "tech": "Teknoloji ve icatlar: ilginç bir icadın hikâyesi veya beklenmedik teknoloji gerçeği.",
+    "science": "Bilim ve uzay: fizik, astronomi, biyoloji veya uzaydan şaşırtıcı bir gerçek.",
+    "general": "Bilim, tarih, doğa, uzay, insan, dil, hayvanlar veya teknoloji.",
 }
 
-JSON_EXAMPLE = """{
-  "tr": {"headline": "kisa carpici baslik (max 8 kelime)", "body": "1-2 cumlelik aciklama"},
+JSON_EXAMPLE = '''{
+  "format": "mystery",
+  "tr": {"headline": "kısa çarpıcı başlık", "body": "1-2 cümle"},
   "en": {"headline": "...", "body": "..."},
   "es": {"headline": "...", "body": "..."},
   "ar": {"headline": "...", "body": "..."},
-  "reel_hook": {"tr": "ilk 2 saniyede merak uyandiran cok kisa hook", "en": "..."},
-  "story_question": {"tr": "cevabi tahmin ettiren soru", "en": "...", "es": "...", "ar": "..."},
-  "story_options": ["1", "2", "3"],
-  "hashtags": ["#FactBite", "#Science", "#Space"],
-  "cta": {"tr": "Her gun yeni bir sey ogren. @factbitee", "en": "Learn something new every day. @factbitee", "es": "Aprende algo nuevo cada dia. @factbitee", "ar": "تعلم شيئًا جديدًا كل يوم. @factbitee"}
-}"""
-
+  "reel_hook": {"tr": "çok kısa hook", "en": "...", "es": "...", "ar": "..."},
+  "story_question": {"tr": "tahmin sorusu", "en": "...", "es": "...", "ar": "..."},
+  "story_options": ["A", "B", "C"],
+  "hashtags": ["#FactBite", "#..."],
+  "cta": {"tr": "Her gün yeni bir şey öğren.", "en": "Learn something new every day.", "es": "Aprende algo nuevo cada día.", "ar": "تعلم شيئًا جديدًا كل يوم."},
+  "quality": {"curiosity": 1, "surprise": 1, "shareability": 1, "clarity": 1, "overall": 1},
+  "source": {"name": "kaynak adı", "url": "https://..."}
+}'''
 
 def load_history():
     try:
-        with open(HISTORY_PATH, encoding="utf-8") as f:
-            return json.load(f)
-    except (FileNotFoundError, json.JSONDecodeError):
-        return []
+        with open(HISTORY_PATH, encoding="utf-8") as f: return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError): return []
 
-
-def build_history_text(history):
+def request_fact(history):
     recent = history[-200:]
-    if not recent:
-        return "HENUZ ONCEKI KONU YOK."
-    return "\n".join(
-        f"- [{x.get('category','general')}] {x.get('headline','')} — {x.get('body','')}"
-        for x in recent
-    )
+    history_text = "\n".join(f"- [{x.get('category','general')}] {x.get('headline','')} — {x.get('body','')}" for x in recent) or "HENÜZ ÖNCEKİ KONU YOK."
+    prompt = f'''FactBite için tek bir sosyal medya konusu üret.
+Kategori: {CATEGORY_INSTRUCTIONS.get(CATEGORY, CATEGORY_INSTRUCTIONS["general"])}
+Amaç: sıradan ansiklopedi cümlesi değil, kaydırmayı durduracak gerçek bilgi.
+Çok bilinen klişelerden kaçın. Clickbait, uydurma istatistik ve abartı kullanma.
+Geçmişteki olay/kişi/nesne/mekânı başka açıdan bile tekrar etme.
+Sağlıkta teşhis, tedavi veya korku dili kullanma.
+Dört dilde doğal ve yerelleştirilmiş anlat; Arapça modern standart Arapça olsun.
+classic, mystery, myth_vs_fact veya question_first formatlarından birini seç.
+Story için 3 kısa seçenek üret. #FactBite ilk hashtag olsun; 5-8 alakalı etiket üret.
+quality puanlarını 1-10 ver; overall 7'nin altında ise daha güçlü konu seç.
+source alanında yalnızca gerçekten bildiğin güvenilir kaynak adı/URL kullan; emin değilsen boş bırak.
+reel_hook 1-2 saniyede okunabilecek güçlü bir merak cümlesi olsun.
 
+GEÇMİŞ KONULAR:
+{history_text}
 
-def mark_quota_exhausted():
-    output_file = os.environ.get("GITHUB_OUTPUT")
-    if output_file:
-        with open(output_file, "a", encoding="utf-8") as f:
-            f.write("quota_exhausted=true\n")
-
-
-def request_fact(history_text):
-    prompt = (
-        "Bugun icin ilginc, dogrulanabilir, sasirtici bir genel kultur bilgisi uret.\n"
-        + CATEGORY_INSTRUCTIONS.get(CATEGORY, CATEGORY_INSTRUCTIONS["general"]) + "\n"
-        "Cok bilinen klise bilgilerden kac. Sosyal medyada merak uyandiracak ama clickbait olmayan bir konu sec.\n"
-        "GECMIS KONULARIN HICBIRINI TEKRARLAMA. Ayni olay, nesne, kisi veya mekanin baska ayrintisini anlatarak dolanma. Konu belirgin sekilde farkli olsun.\n\n"
-        "GECMIS KONULAR:\n" + history_text + "\n\n"
-        "Bilgi gercekten dogrulanabilir olmali; uydurma istatistik, sahte alinti, kesin olmayan iddia veya sansasyonel abartma kullanma.\n"
-        "Saglik konusunda teshis, tedavi onerisi veya korku dili kullanma.\n"
-        "Tam olarak su JSON formatini dondur, baska aciklama ekleme:\n\n" + JSON_EXAMPLE + "\n\n"
-        "Dort dilde ayni bilgiyi dogal ve yerellestirilmis sekilde anlat. Arapca modern standart Arapca olsun.\n"
-        "reel_hook alaninda 1-2 saniyede okunabilecek, merak uyandiran ama cevabi hemen vermeyen kisa metinler ver.\n"
-        "story_question ve story_options basit bir quiz icin uygun olsun; options 3 kisa secenek olsun.\n"
-        "hashtags alaninda 5-8 adet konuya dogrudan ilgili hashtag sec. #FactBite ilk sirada olsun. Spam etiket kullanma.\n"
-        "CTA metinlerinde kullaniciyi @factbitee hesabini takip etmeye tesvik et."
-    )
-    body = json.dumps({
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"response_mime_type": "application/json"},
-    }).encode("utf-8")
-    req = urllib.request.Request(API_URL, data=body, headers={"Content-Type": "application/json"})
+Yalnızca şu JSON'u döndür:
+{JSON_EXAMPLE}'''
+    body = json.dumps({"contents":[{"parts":[{"text":prompt}]}],"generationConfig":{"response_mime_type":"application/json"}}).encode()
+    req = urllib.request.Request(API_URL, data=body, headers={"Content-Type":"application/json"})
     try:
-        with urllib.request.urlopen(req) as resp:
-            data = json.loads(resp.read())
-    except urllib.error.HTTPError as exc:
-        if exc.code == 429:
-            mark_quota_exhausted()
-            print("Gemini API rate limit/quota reached (HTTP 429).")
+        with urllib.request.urlopen(req) as resp: data=json.loads(resp.read())
+    except urllib.error.HTTPError as e:
+        if e.code in (429, 403):
+            print("GEMINI_QUOTA_EXHAUSTED")
         raise
-    text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
+    text=data["candidates"][0]["content"]["parts"][0]["text"].strip()
     if text.startswith("```"):
-        text = text.split("```")[1]
-        if text.startswith("json"):
-            text = text[4:]
+        text=text.split("```")[1]; text=text[4:] if text.startswith("json") else text
     return json.loads(text.strip())
 
-
 def main():
-    history = load_history()
-    fact = request_fact(build_history_text(history))
-    fact["_category"] = CATEGORY
+    history=load_history(); fact=request_fact(history); quality=fact.get("quality",{})
+    fact["_category"]=CATEGORY; fact["_v3"]=True
+    history.append({"category":CATEGORY,"headline":fact["tr"]["headline"],"body":fact["tr"]["body"],"format":fact.get("format","classic"),"quality":quality})
+    os.makedirs(os.path.dirname(HISTORY_PATH),exist_ok=True)
+    with open(HISTORY_PATH,"w",encoding="utf-8") as f: json.dump(history[-200:],f,ensure_ascii=False,indent=2)
+    with open("fact.json","w",encoding="utf-8") as f: json.dump(fact,f,ensure_ascii=False,indent=2)
+    print("V3 fact generated:",CATEGORY,fact.get("format"),quality)
 
-    history.append({
-        "category": CATEGORY,
-        "headline": fact["tr"]["headline"],
-        "body": fact["tr"]["body"],
-    })
-    os.makedirs(os.path.dirname(HISTORY_PATH), exist_ok=True)
-    with open(HISTORY_PATH, "w", encoding="utf-8") as f:
-        json.dump(history[-200:], f, ensure_ascii=False, indent=2)
-
-    with open("fact.json", "w", encoding="utf-8") as f:
-        json.dump(fact, f, ensure_ascii=False, indent=2)
-
-    print("Wrote fact.json (category:", CATEGORY, ")")
-
-
-if __name__ == "__main__":
-    main()
+if __name__=="__main__": main()

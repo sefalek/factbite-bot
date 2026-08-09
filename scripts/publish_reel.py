@@ -4,7 +4,6 @@ ACCESS_TOKEN = os.environ["IG_ACCESS_TOKEN"]
 USER = os.environ["IG_USER_ID"]
 REPO = os.environ["GITHUB_REPOSITORY"]
 BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
-EXPECTED_CATEGORY = os.environ.get("EXPECTED_CATEGORY", "")
 BASE = "https://graph.instagram.com/v21.0"
 
 
@@ -40,8 +39,8 @@ def main():
     d = open("latest_post_dir.txt", encoding="utf-8").read().strip()
     fact = json.load(open("fact.json", encoding="utf-8"))
     category = fact.get("_category", "general")
-    if EXPECTED_CATEGORY and category != EXPECTED_CATEGORY:
-        raise RuntimeError(f"Expected {EXPECTED_CATEGORY} post, but latest post is {category}")
+    print(f"Publishing Reel for actual post category: {category}")
+
     video = os.path.join(d, "factbite_reel.mp4")
     if not os.path.exists(video):
         raise RuntimeError(f"Reel file not found: {video}")

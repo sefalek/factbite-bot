@@ -70,5 +70,18 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "category": "general",
+    "headline": "Bal Arıları Uyur mu?",
+    "body": "Arılar günün yorgunluğunu kafalarını yere koyup kısa şekerlemeler yaparak atarlar; hatta bazı işçi arılar geceyi çiçeklerin içinde baş aşağı uyuyarak geçirir.",
+    "format": "classic",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

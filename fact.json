@@ -1,52 +1,52 @@
 {
   "format": "classic",
   "tr": {
-    "headline": "Kedilere Verilen 'Miyav' Sadece İnsanlar İçin",
-    "body": "Yetişkin ev kedileri birbirleriyle miyavlayarak iletişim kurmazlar. Bu ses tonunu neredeyse yalnızca insanlarla iletişim kurmak için geliştirmişlerdir."
+    "headline": "Bal Arıları Uyur mu?",
+    "body": "Arılar günün yorgunluğunu kafalarını yere koyup kısa şekerlemeler yaparak atarlar; hatta bazı işçi arılar geceyi çiçeklerin içinde baş aşağı uyuyarak geçirir."
   },
   "en": {
-    "headline": "Cats Only Meow for Humans",
-    "body": "Adult domestic cats do not meow at each other. They developed this vocalization almost exclusively to communicate with humans."
+    "headline": "Do Honeybees Sleep?",
+    "body": "Bees relieve daily fatigue by resting their heads on the ground for short naps, and some worker bees even spend the night sleeping upside down inside flowers."
   },
   "es": {
-    "headline": "Los gatos solo maúllan para los humanos",
-    "body": "Los gatos domésticos adultos no se maúllan entre sí. Desarrollaron esta vocalización casi exclusivamente para comunicarse con los humanos."
+    "headline": "¿Duermen las abejas melíferas?",
+    "body": "Las abejas alivian la fatiga diaria apoyando la cabeza en el suelo para tomar siestas breves, y algunas abejas obreras pasan la noche durmiendo boca abajo dentro de las flores."
   },
   "ar": {
-    "headline": "القطط تموء للبشر فقط",
-    "body": "القطط المنزلية البالغة لا تموء لبعضها البعض. لقد طورت هذا الصوت حصرياً تقريبا للتواصل مع البشر."
+    "headline": "هل تننام نحل العسل؟",
+    "body": "تخفف النحلات التعب اليومي عن طريق وضع رؤوسهن على الأرض لأخذ قيلولة قصيرة، بل إن بعض النحلات العاملات يقضين الليل نائمات رأساً على عقب داخل الزهور."
   },
   "reel_hook": {
-    "tr": "Kediniz aslında sizinle konuşmuyor.",
-    "en": "Your cat isn't actually talking to you.",
-    "es": "Tu gato en realidad no te está hablando.",
-    "ar": "قطتك لا تتحدث معك في الواقع."
+    "tr": "Arılar nasıl uyur hiç düşündün mü?",
+    "en": "Ever wondered how bees sleep?",
+    "es": "¿Alguna vez te has preguntado cómo duermen las abejas?",
+    "ar": "هل فكرت يوماً كيف تنام النحلات؟"
   },
   "story_question": {
-    "tr": "Yetişkin kediler doğada birbirleriyle nasıl anlaşır?",
-    "en": "How do adult cats communicate with each other in nature?",
-    "es": "¿Cómo se comunican los gatos adultos entre sí en la naturaleza?",
-    "ar": "كيف تتواصل القطط البالغة مع بعضها البعض في الطبيعة؟"
+    "tr": "Arılar geceyi nerede geçirir?",
+    "en": "Where do bees spend the night?",
+    "es": "¿Dónde pasan la noche las abejas?",
+    "ar": "أين تقضي النحلات الليل؟"
   },
   "story_options": [
-    "Koku, beden dili ve hırıltı",
-    "Sürekli miyavlama sesleri",
-    "Yüksek sesle bağırarak"
+    "Kovanın dibinde",
+    "Çiçeklerin içinde baş aşağı",
+    "Uçarak"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#bilim",
-    "#hayvanlar",
-    "#catfacts",
-    "#dogalhayvanlar",
-    "#ilgincbilgiler"
+    "#Arılar",
+    "#Doğa",
+    "#Biyoloji",
+    "#HayvanlarAlemi",
+    "#Bilim",
+    "#İlginçBilgiler"
   ],
   "cta": {
-    "tr": "En meraklı arkadaşına gönder!",
-    "en": "Send this to your most curious friend!",
-    "es": "¡Envíaselo a tu amigo más curioso!",
-    "ar": "أرسلها لصديقك الأكثر فضولاً!"
+    "tr": "Daha fazlası için takip et!",
+    "en": "Follow for more!",
+    "es": "¡Síguenos para más!",
+    "ar": "تابعنا للمزيد!"
   },
   "quality": {
     "curiosity": 9,
@@ -57,7 +57,7 @@
   },
   "source": {
     "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/article/130823-cats-purring-meows-pets-animals-science"
+    "url": "https://www.nationalgeographic.com/animals/article/animals-sleep-bees-insects"
   },
   "_category": "general",
   "_v3": true,

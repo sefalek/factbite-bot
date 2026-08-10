@@ -49,7 +49,8 @@ def main():
     video_url = raw(video)
     print(f"Publishing Reel asset: {video_url}")
     hashtags = " ".join(fact.get("hashtags", [])[:6])
-    caption = f"{fact.get('reel_hook', {}).get('tr', 'Bunu biliyor muydun?')}\n\nDevamı 4 dilde carousel'de → @factbitee\n\n{hashtags}"
+    hook = fact.get("reel_hook", {}).get("tr", "Bunu biliyor muydun?")
+    caption = f"{hook}\n\nHer gün kısa, şaşırtıcı ve doğrulanabilir bilgiler. 🧠\n\n{hashtags}"
     x = post(f"{USER}/media", {
         "media_type": "REELS",
         "video_url": video_url,

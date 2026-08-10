@@ -4,6 +4,7 @@ ACCESS_TOKEN = os.environ["IG_ACCESS_TOKEN"]
 USER = os.environ["IG_USER_ID"]
 REPO = os.environ["GITHUB_REPOSITORY"]
 BRANCH = os.environ.get("GITHUB_REF_NAME", "main")
+REEL_FILENAME = os.environ.get("REEL_FILENAME", "factbite_reel.mp4")
 BASE = "https://graph.instagram.com/v21.0"
 
 
@@ -41,14 +42,17 @@ def main():
     category = fact.get("_category", "general")
     print(f"Publishing Reel for actual post category: {category}")
 
-    video = os.path.join(d, "factbite_reel.mp4")
+    video = os.path.join(d, REEL_FILENAME)
     if not os.path.exists(video):
         raise RuntimeError(f"Reel file not found: {video}")
+
+    video_url = raw(video)
+    print(f"Publishing Reel asset: {video_url}")
     hashtags = " ".join(fact.get("hashtags", [])[:6])
     caption = f"{fact.get('reel_hook', {}).get('tr', 'Bunu biliyor muydun?')}\n\nDevamı 4 dilde carousel'de → @factbitee\n\n{hashtags}"
     x = post(f"{USER}/media", {
         "media_type": "REELS",
-        "video_url": raw(video),
+        "video_url": video_url,
         "caption": caption,
         "share_to_feed": "true",
         "access_token": ACCESS_TOKEN,

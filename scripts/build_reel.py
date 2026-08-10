@@ -81,7 +81,6 @@ def frame(title, body, badge, seed, category):
     d.text((W - PAD, 90), "@factbitee", font=font(FONT_M, 27), fill=MUTED, anchor="ra")
     icon(d, category)
 
-    # Premium glass content panel.
     d.rounded_rectangle((PAD - 10, 370, W - PAD + 10, 1585), 46, fill=(4, 15, 30, 62), outline=(255, 255, 255, 55), width=2)
     d.rounded_rectangle((PAD, 390, W - PAD, 510), 35, fill=(255, 255, 255, 24), outline=(255, 255, 255, 70), width=2)
     d.rounded_rectangle((PAD + 24, 414, PAD + 43, 486), 9, fill=ORANGE + (255,))
@@ -98,7 +97,6 @@ def frame(title, body, badge, seed, category):
         d.text((PAD, y), line, font=bf, fill=MUTED)
         y += 64
 
-    # Small visual cue that remains part of the brand identity.
     d.rounded_rectangle((PAD, H - 250, W - PAD, H - 130), 30, fill=(0, 0, 0, 45), outline=(255, 255, 255, 55), width=2)
     d.text((PAD + 30, H - 215), "BİL • MERAK ET • PAYLAŞ", font=font(FONT_B, 25), fill=WHITE)
     return im.convert("RGB")
@@ -128,7 +126,6 @@ def make_audio(path, category, duration=23.0):
             f = 440 * 2 ** ((midi - 69) / 12)
             val += 0.018 * math.sin(2 * math.pi * f * t)
             val += 0.008 * math.sin(2 * math.pi * (f / 2) * t)
-        # Very slow movement so it feels like a bed, not a ringtone.
         val *= 0.78 + 0.22 * math.sin(2 * math.pi * t / 7.5) ** 2
         fade_in = min(1.0, t / 1.2)
         fade_out = min(1.0, max(0.0, (duration - t) / 1.2))
@@ -159,7 +156,6 @@ def make_voice(path, fact):
         )
         return True
     except Exception as e:
-        # Do not silently publish a bad Reel with only synthetic beeps/music.
         raise RuntimeError(f"Turkish TTS generation failed: {e}") from e
 
 
@@ -189,7 +185,6 @@ def main():
     out = os.path.join(d, "factbite_reel.mp4")
     inputs = [os.path.join(d, f"reel_{i}.png") for i in range(1, 6)]
 
-    # Real motion: zoom + slide transitions + animated accent/progress overlays.
     cmd = ["ffmpeg", "-y"]
     for image in inputs:
         cmd += ["-loop", "1", "-t", "4.6", "-i", image]
@@ -208,9 +203,9 @@ def main():
         "[x1][v2]xfade=transition=fade:duration=0.30:offset=8.60[x2]",
         "[x2][v3]xfade=transition=slideright:duration=0.30:offset=12.90[x3]",
         "[x3][v4]xfade=transition=fade:duration=0.30:offset=17.20[x4]",
-        # Moving line crossing the content area and a progress bar make the text feel alive.
-        "[x4]drawbox=x='-320+(W+320)*mod(t,4.3)/4.3':y=570:w=320:h=6:color=0xEE920B@0.88:t=fill,"
-        "drawbox=x=82:y=1680:w='(W-164)*mod(t,4.3)/4.3':h=5:color=0xEE920B@0.95:t=fill,"
+        # Use ffmpeg's portable iw variable (not W) for animated overlay positioning.
+        "[x4]drawbox=x='-320+(iw+320)*mod(t,4.3)/4.3':y=570:w=320:h=6:color=0xEE920B@0.88:t=fill,"
+        "drawbox=x=82:y=1680:w='(iw-164)*mod(t,4.3)/4.3':h=5:color=0xEE920B@0.95:t=fill,"
         "fade=t=in:st=0:d=0.25,format=yuv420p[vout]",
         "[5:a]volume=0.075[music]",
         "[6:a]volume=1.0[voice]",

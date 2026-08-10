@@ -1,0 +1,38 @@
+name: FactBite Reel Preview
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Reel dependencies
+        run: |
+          pip install pillow arabic_reshaper python-bidi edge-tts
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+
+      - name: Build Reel preview
+        run: python scripts/build_reel.py
+
+      - name: Upload Reel preview
+        uses: actions/upload-artifact@v4
+        with:
+          name: factbite-reel-preview
+          path: posts/*/factbite_reel.mp4
+          if-no-files-found: error
+          retention-days: 3

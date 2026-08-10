@@ -88,20 +88,12 @@ jobs:
           REEL_FILENAME: ${{ env.REEL_FILENAME }}
         run: python scripts/publish_reel.py
 
-      - name: Publish Reel to Facebook Page
-        env:
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-          FB_GRAPH_VERSION: v21.0
-          REEL_FILENAME: ${{ env.REEL_FILENAME }}
-        run: python scripts/publish_facebook_reel.py
-
       - name: Telegram Reel success notification
         if: ${{ success() }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "🎬 FactBite Reel yayınlandı\nInstagram: ✅\nFacebook: yayınlama adımı çalıştı\n3 Reel/gün sistemi aktif"
+          TELEGRAM_MESSAGE: "🎬 FactBite Reel Instagram'a yayınlandı. Facebook'a Meta'nın bağlı hesap otomatik paylaşımı açıksa otomatik çapraz paylaşılır."
         run: python scripts/notify_telegram.py
 
       - name: Telegram Reel failure notification
@@ -109,5 +101,5 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "🚨 FactBite Reel yayınlanamadı\nInstagram/Facebook yayın hattında hata oluştu.\nRun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          TELEGRAM_MESSAGE: "🚨 FactBite Reel yayınlanamadı\nInstagram Reel yayın hattında hata oluştu.\nRun: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         run: python scripts/notify_telegram.py

@@ -83,5 +83,18 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "category": "general",
+    "headline": "Kuşlar aslında günümüzün yaşayan dinozorlarıdır",
+    "body": "Modern kuşlar, theropod dinozorların soyundan gelir ve T. Rex gibi devasa etobur dinozorların doğrudan akrabalarıdır. Bilimsel sınıflandırmada kuşlar ayrı bir sınıf olarak değil, avian dinozorlar olarak yer alır.",
+    "format": "classic",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

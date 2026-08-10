@@ -1,52 +1,53 @@
 {
   "format": "classic",
   "tr": {
-    "headline": "Bal Arıları Uyur mu?",
-    "body": "Arılar günün yorgunluğunu kafalarını yere koyup kısa şekerlemeler yaparak atarlar; hatta bazı işçi arılar geceyi çiçeklerin içinde baş aşağı uyuyarak geçirir."
+    "headline": "Kuşlar aslında günümüzün yaşayan dinozorlarıdır",
+    "body": "Modern kuşlar, theropod dinozorların soyundan gelir ve T. Rex gibi devasa etobur dinozorların doğrudan akrabalarıdır. Bilimsel sınıflandırmada kuşlar ayrı bir sınıf olarak değil, avian dinozorlar olarak yer alır."
   },
   "en": {
-    "headline": "Do Honeybees Sleep?",
-    "body": "Bees relieve daily fatigue by resting their heads on the ground for short naps, and some worker bees even spend the night sleeping upside down inside flowers."
+    "headline": "Birds are actually living dinosaurs",
+    "body": "Modern birds evolved from theropod dinosaurs, making them direct relatives of giant carnivores like T. Rex. In biological classification, birds are not a separate class, but rather avian dinosaurs."
   },
   "es": {
-    "headline": "¿Duermen las abejas melíferas?",
-    "body": "Las abejas alivian la fatiga diaria apoyando la cabeza en el suelo para tomar siestas breves, y algunas abejas obreras pasan la noche durmiendo boca abajo dentro de las flores."
+    "headline": "Las aves son en realidad dinosaurios vivientes",
+    "body": "Las aves modernas evolucionaron a partir de dinosaurios terópodos, lo que las convierte en parientes directos de carnívoros gigantes como el T. Rex. En la clasificación biológica, las aves son dinosaurios avianos."
   },
   "ar": {
-    "headline": "هل تننام نحل العسل؟",
-    "body": "تخفف النحلات التعب اليومي عن طريق وضع رؤوسهن على الأرض لأخذ قيلولة قصيرة، بل إن بعض النحلات العاملات يقضين الليل نائمات رأساً على عقب داخل الزهور."
+    "headline": "الطيور هي في الواقع ديناصورات حية",
+    "body": "تطورت الطيور الحديثة من الديناصورات الثيروبودية، مما يجعلها أقارب مباشرة لآكلات اللحوم الضخمة مثل التيرانوصور. في التصنيف البيولوجي، لا تُعد الطيور طائفة منفصلة، بل هي ديناصورات طيرية."
   },
   "reel_hook": {
-    "tr": "Arılar nasıl uyur hiç düşündün mü?",
-    "en": "Ever wondered how bees sleep?",
-    "es": "¿Alguna vez te has preguntado cómo duermen las abejas?",
-    "ar": "هل فكرت يوماً كيف تنام النحلات؟"
+    "tr": "Her güvercin aslında küçük bir T. Rex akrabasıdır.",
+    "en": "Every pigeon is actually a tiny T. Rex relative.",
+    "es": "Cada paloma es en realidad pariente del T. Rex.",
+    "ar": "كل حمامة هي في الواقع قريب صغير للتيرانوصور."
   },
   "story_question": {
-    "tr": "Arılar geceyi nerede geçirir?",
-    "en": "Where do bees spend the night?",
-    "es": "¿Dónde pasan la noche las abejas?",
-    "ar": "أين تقضي النحلات الليل؟"
+    "tr": "Hangi hayvanlar doğrudan dinozorların soyundan gelir?",
+    "en": "Which animals are direct descendants of dinosaurs?",
+    "es": "¿Qué animales son descendientes directos de los dinosaurios?",
+    "ar": "ما هي الحيوانات التي تعد من نسل الديناصورات المباشر؟"
   },
   "story_options": [
-    "Kovanın dibinde",
-    "Çiçeklerin içinde baş aşağı",
-    "Uçarak"
+    "Kuşlar",
+    "Timsahlar",
+    "Kertenkeleler"
   ],
   "hashtags": [
     "#FactBite",
-    "#Arılar",
-    "#Doğa",
-    "#Biyoloji",
-    "#HayvanlarAlemi",
-    "#Bilim",
-    "#İlginçBilgiler"
+    "#bilim",
+    "#dinozor",
+    "#dogayolu",
+    "#science",
+    "#dinosaurs",
+    "#nature",
+    "#biology"
   ],
   "cta": {
-    "tr": "Daha fazlası için takip et!",
-    "en": "Follow for more!",
-    "es": "¡Síguenos para más!",
-    "ar": "تابعنا للمزيد!"
+    "tr": "En yakın arkadaşına gönder, bugünden itibaren serçelere farklı baksın!",
+    "en": "Send this to a friend so they look at sparrows differently today!",
+    "es": "¡Envíaselo a un amigo para que vea a los gorriones de otra manera!",
+    "ar": "أرسلها لصديقك لكي ينظر إلى العصافير نظرة مختلفة اليوم!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,8 +57,8 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/article/animals-sleep-bees-insects"
+    "name": "UC Berkeley Museum of Paleontology",
+    "url": "https://ucmp.berkeley.edu/diapsids/avians.html"
   },
   "_category": "general",
   "_v3": true,

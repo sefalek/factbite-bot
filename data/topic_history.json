@@ -122,5 +122,18 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "category": "general",
+    "headline": "Kuşlar aslında günümüzün yaşayan dinozorlarıdır",
+    "body": "Fosil kayıtları, kuşların theropod dinozorlar grubundan evrimleştiğini ve tüylü dinozorların soyundan geldiğini kanıtlamaktadır.",
+    "format": "classic",
+    "quality": {
+      "curiosity": 10,
+      "surprise": 10,
+      "shareability": 10,
+      "clarity": 10,
+      "overall": 10
+    }
   }
 ]

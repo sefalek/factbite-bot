@@ -8,11 +8,14 @@ on:
     - cron: "17 23 * * *"
       timezone: "Europe/Istanbul"
   workflow_dispatch:
+
 permissions:
-  contents: read
+  contents: write
+
 concurrency:
   group: factbite-reels
   cancel-in-progress: false
+
 jobs:
   reel:
     runs-on: ubuntu-latest
@@ -35,6 +38,40 @@ jobs:
 
       - name: Build premium Reel
         run: python scripts/build_reel.py
+
+      - name: Publish generated Reel asset to repository
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          POST_DIR=$(cat latest_post_dir.txt)
+          test -f "$POST_DIR/factbite_reel.mp4"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$POST_DIR/factbite_reel.mp4"
+          if git diff --cached --quiet; then
+            echo "No new Reel asset to commit."
+          else
+            git commit -m "Publish generated FactBite Reel asset"
+            git push origin HEAD:main
+          fi
+
+      - name: Wait for public Reel URL
+        run: |
+          set -e
+          POST_DIR=$(cat latest_post_dir.txt)
+          URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/factbite_reel.mp4"
+          for i in $(seq 1 12); do
+            CODE=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL?cachebust=$(date +%s)-$i")
+            if [ "$CODE" = "200" ]; then
+              echo "Reel asset is publicly reachable."
+              exit 0
+            fi
+            echo "Waiting for raw GitHub asset (HTTP $CODE)..."
+            sleep 5
+          done
+          echo "Generated Reel asset is not publicly reachable."
+          exit 1
 
       - name: Publish Reel
         env:

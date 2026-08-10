@@ -21,13 +21,29 @@ jobs:
         with:
           ref: main
           fetch-depth: 1
-      - name: Publish delayed Reel
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Reel dependencies
+        run: |
+          pip install pillow arabic_reshaper python-bidi edge-tts
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+
+      - name: Build premium Reel
+        run: python scripts/build_reel.py
+
+      - name: Publish Reel
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_REF_NAME: main
         run: python scripts/publish_reel.py
+
       - name: Telegram Reel success notification
         if: ${{ success() }}
         env:
@@ -35,6 +51,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_MESSAGE: "🎬 FactBite Reel yayınlandı\nKategori: Brain'in seçtiği gerçek kategori\nInstagram: Reel"
         run: python scripts/notify_telegram.py
+
       - name: Telegram Reel failure notification
         if: ${{ failure() }}
         env:

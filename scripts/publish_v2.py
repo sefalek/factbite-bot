@@ -1,4 +1,6 @@
 import json, os, time, urllib.parse, urllib.request
+from datetime import datetime
+from zoneinfo import ZoneInfo
 ACCESS_TOKEN=os.environ["IG_ACCESS_TOKEN"]; USER=os.environ["IG_USER_ID"]; REPO=os.environ["GITHUB_REPOSITORY"]; BRANCH=os.environ.get("GITHUB_REF_NAME","main"); BASE="https://graph.instagram.com/v21.0"
 def post(path,p):
     req=urllib.request.Request(f"{BASE}/{path}",data=urllib.parse.urlencode(p).encode(),method="POST")
@@ -15,13 +17,19 @@ def wait(cid,tries=36):
         time.sleep(5)
     raise RuntimeError("Instagram container processing timeout")
 def story(url):
-    x=post(f"{USER}/media",{"image_url":url,"media_type":"STORIES","access_token":ACCESS_TOKEN}); wait(x["id"]); post(f"{USER}/media_publish",{"creation_id":x["id"],"access_token":ACCESS_TOKEN})
+    x=post(f"{USER}/media",{"image_url":url,"media_type":"STORIES","access_token":ACCESS_TOKEN}); wait(x["id"]); return post(f"{USER}/media_publish",{"creation_id":x["id"],"access_token":ACCESS_TOKEN})
 def main():
     d=open("latest_post_dir.txt",encoding="utf-8").read().strip(); caption=open(os.path.join(d,"caption.txt"),encoding="utf-8").read(); files=sorted([x for x in os.listdir(d) if x.startswith("slide_") and x.endswith(".png")],key=lambda x:int(x.split("_")[1].split(".")[0]))
     ids=[]
     for f in files:
         x=post(f"{USER}/media",{"image_url":raw(os.path.join(d,f)),"is_carousel_item":"true","access_token":ACCESS_TOKEN}); ids.append(x["id"]); time.sleep(1)
     x=post(f"{USER}/media",{"media_type":"CAROUSEL","caption":caption,"children":",".join(ids),"access_token":ACCESS_TOKEN}); wait(x["id"]); print("Carousel:",post(f"{USER}/media_publish",{"creation_id":x["id"],"access_token":ACCESS_TOKEN}))
-    try: story(raw(os.path.join(d,"slide_1.png"))); print("Original post slide Story published")
-    except Exception as e: print("Story warning:",e)
+    hour=datetime.now(ZoneInfo("Europe/Istanbul")).hour
+    story_files={10:"story_v2.png",15:"story_v2_answer.png",22:"story_v2_cta.png"}
+    sf=story_files.get(hour)
+    if sf and os.path.exists(os.path.join(d,sf)):
+        try: print(f"Story V2 published ({hour:02d}:00):",story(raw(os.path.join(d,sf))))
+        except Exception as e: print("Story V2 warning:",e)
+    else:
+        print(f"Story V2 skipped at {hour:02d}:00; scheduled story hours: 10, 15, 22")
 if __name__=="__main__": main()

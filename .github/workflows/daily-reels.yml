@@ -39,32 +39,38 @@ jobs:
       - name: Build premium Reel
         run: python scripts/build_reel.py
 
+      - name: Give Reel a unique public asset name
+        run: |
+          set -e
+          POST_DIR=$(cat latest_post_dir.txt)
+          REEL_FILE="factbite_reel_${GITHUB_RUN_ID}.mp4"
+          test -f "$POST_DIR/factbite_reel.mp4"
+          cp "$POST_DIR/factbite_reel.mp4" "$POST_DIR/$REEL_FILE"
+          echo "REEL_FILENAME=$REEL_FILE" >> "$GITHUB_ENV"
+          echo "Unique Reel asset: $POST_DIR/$REEL_FILE"
+
       - name: Publish generated Reel asset to repository
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
           POST_DIR=$(cat latest_post_dir.txt)
-          test -f "$POST_DIR/factbite_reel.mp4"
+          test -f "$POST_DIR/$REEL_FILENAME"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "$POST_DIR/factbite_reel.mp4"
-          if git diff --cached --quiet; then
-            echo "No new Reel asset to commit."
-          else
-            git commit -m "Publish generated FactBite Reel asset"
-            git push origin HEAD:main
-          fi
+          git add "$POST_DIR/$REEL_FILENAME"
+          git commit -m "Publish generated FactBite Reel asset $REEL_FILENAME"
+          git push origin HEAD:main
 
       - name: Wait for public Reel URL
         run: |
           set -e
           POST_DIR=$(cat latest_post_dir.txt)
-          URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/factbite_reel.mp4"
+          URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/${REEL_FILENAME}"
           for i in $(seq 1 12); do
             CODE=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL?cachebust=$(date +%s)-$i")
             if [ "$CODE" = "200" ]; then
-              echo "Reel asset is publicly reachable."
+              echo "Reel asset is publicly reachable: $URL"
               exit 0
             fi
             echo "Waiting for raw GitHub asset (HTTP $CODE)..."
@@ -79,6 +85,7 @@ jobs:
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           GITHUB_REPOSITORY: ${{ github.repository }}
           GITHUB_REF_NAME: main
+          REEL_FILENAME: ${{ env.REEL_FILENAME }}
         run: python scripts/publish_reel.py
 
       - name: Telegram Reel success notification

@@ -1,53 +1,52 @@
 {
   "format": "classic",
   "tr": {
-    "headline": "Deniz Analarının Beyni Yoktur Ama Hatırlayabilirler",
-    "body": "Sinir sistemi veya beyin benzeri bir organı bulunmayan kutup deniz anaları, geçmişteki deneyimlerinden ders çıkararak çevrelerindeki tehlikelerden kaçınmayı öğrenebilirler."
+    "headline": "Deniz Salyangozlarının Zehirli Zıpkınları Var",
+    "body": "Cone snail (Koni salyangozu), avını felç etmek için insulin bazlı bir zehir kullanarak balıkların şekerini hızla düşürür ve onları adeta komaya sokar."
   },
   "en": {
-    "headline": "Jellyfish Have No Brains But Can Remember",
-    "body": "Box jellyfish, which lack a central nervous system or brain, can learn from past experiences and actively avoid environmental hazards."
+    "headline": "Cone Snails Use Insulin as a Weapon",
+    "body": "Cone snails hunt by releasing a specialized insulin into the water, causing their prey's blood sugar to crash instantly and inducing a state of shock."
   },
   "es": {
-    "headline": "Las medusas no tienen cerebro pero pueden recordar",
-    "body": "Las medusas caja, que carecen de sistema nervioso central o cerebro, pueden aprender de experiencias pasadas y evitar peligros."
+    "headline": "Los caracoles cono usan insulina como arma",
+    "body": "Los caracoles cono cazan liberando una insulina especial al agua, lo que provoca que el azúcar en sangre de su presa caiga al instante."
   },
   "ar": {
-    "headline": "قنديل البحر ليس له دماغ ولكنه يستطيع التذكر",
-    "body": "قنديل البحر المكعب، الذي يفتقر إلى جهاز عصبي مركزي أو دماغ، يمكنه التعلم من التجارب السابقة وتجنب المخاطر البيئية."
+    "headline": "تستخدم قواقع المخروط الإنسولين كسلاح",
+    "body": "تصطاد قواقع المخروط عن طريق إطلاق إنسولين خاص في الماء، مما يتسبب في انخفاض مفاجئ وحاد في مستوى سكر الدم لدى فريستها."
   },
   "reel_hook": {
-    "tr": "Beyni olmayan bir canlı nasıl öğrenebilir?",
-    "en": "How can a creature without a brain learn?",
-    "es": "¿Cómo puede aprender una criatura sin cerebro?",
-    "ar": "كيف يمكن كائن بدون دماغ أن يتعلم؟"
+    "tr": "Balıkları şeker komasına sokan deniz canlısı!",
+    "en": "The sea creature that puts fish into a sugar coma!",
+    "es": "¡La criatura marina que pone a los peces en coma diabético!",
+    "ar": "الكائنات البحرية التي تدخل الأسماك في غيبوبة سكر!"
   },
   "story_question": {
-    "tr": "Beyni olmayan kutup deniz anaları öğrenmeyi nasıl başarır?",
-    "en": "How do box jellyfish without brains manage to learn?",
-    "es": "¿Cómo logran aprender las medusas caja sin cerebro?",
-    "ar": "كيف تنجح قناديل البحر بدون دماغ في التعلم؟"
+    "tr": "Koni salyangozunun avını felç etmek için kullandığı silah nedir?",
+    "en": "What weapon does the cone snail use to paralyze its prey?",
+    "es": "¿Qué arma usa el caracol cono para paralizar a su presa?",
+    "ar": "ما هو السلاح الذي تستخدمه قوقعة المخروط لشلل فريستها؟"
   },
   "story_options": [
-    "Merkezi sinir ağıyla",
-    "Özel göz kümeleri ve sinir halkalarıyla",
-    "Su akıntısındaki kimyasallarla"
+    "Insulin zehri",
+    "Elektrik şoku",
+    "Güçlü asit"
   ],
   "hashtags": [
     "#FactBite",
     "#Bilim",
     "#Doğa",
-    "#DenizAnası",
-    "#İlginçBilgiler",
+    "#Animals",
     "#Science",
-    "#Nature",
-    "#Biology"
+    "#Denizler",
+    "#Gريكي"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için takip et!",
+    "tr": "Daha fazla şaşırtıcı gerçek için takipte kal!",
     "en": "Follow for more surprising facts!",
-    "es": "¡Sigue para más datos sorprendentes!",
-    "ar": "تابع لمزيد من الحقائق المدهشة!"
+    "es": "¡Sígueme para más datos sorprendentes!",
+    "ar": "تابعنا لمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
@@ -57,8 +56,8 @@
     "overall": 9
   },
   "source": {
-    "name": "Current Biology",
-    "url": "https://www.cell.com/current-biology/fulltext/S0960-9822(23)01157-5"
+    "name": "",
+    "url": ""
   },
   "_category": "general",
   "_v3": true,

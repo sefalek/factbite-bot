@@ -1,63 +1,63 @@
 {
   "format": "classic",
   "tr": {
-    "headline": "Dünyanın En Yüksek Heykeli Su Altında Gizleniyor",
-    "body": "Büyük Sfenks veya Özgürlük Anıtı'ndan çok daha büyük olan dünyanın en yüksek heykeli, karada değil, Atlantik Okyanusu'nun yüzlerce metre altında, İspanya açıklarında yatıyor. 47 metre boyundaki devasa beton 'İsa' figürü, 1954 yılında Akdeniz ve okyanus dalgıçlarını korumak için su altına yerleştirildi."
+    "headline": "Kedilere Verilen 'Miyav' Sadece İnsanlar İçin",
+    "body": "Yetişkin ev kedileri birbirleriyle miyavlayarak iletişim kurmazlar. Bu ses tonunu neredeyse yalnızca insanlarla iletişim kurmak için geliştirmişlerdir."
   },
   "en": {
-    "headline": "The World's Tallest Statue is Hidden Underwater",
-    "body": "Much larger than the Great Sphinx or the Statue of Liberty, the world's tallest submerged statue lies not on land, but hundreds of feet beneath the Atlantic Ocean off the coast of Spain. The colossal 47-meter-tall concrete 'Christ of the Abyss' figure was placed underwater in 1954 to protect divers."
+    "headline": "Cats Only Meow for Humans",
+    "body": "Adult domestic cats do not meow at each other. They developed this vocalization almost exclusively to communicate with humans."
   },
   "es": {
-    "headline": "La estatua más alta del mundo está oculta bajo el agua",
-    "body": "Mucho más grande que la Gran Esfinge o la Estatua de la Libertad, la estatua sumergida más alta del mundo no está en tierra firme, sino a cientos de pies bajo el Océano Atlántico, frente a las costas de España. La colosal figura de hormigón del 'Cristo de los Abisales', de 47 metros de altura, fue colocada bajo el agua en 1954 para proteger a los buceadores."
+    "headline": "Los gatos solo maúllan para los humanos",
+    "body": "Los gatos domésticos adultos no se maúllan entre sí. Desarrollaron esta vocalización casi exclusivamente para comunicarse con los humanos."
   },
   "ar": {
-    "headline": "أطول تمثال في العالم مخفي تحت الماء",
-    "body": "أكبر بكثير من أبو الهول أو تمثال الحرية، أطول تمثال مغمور في العالم لا يقع على اليابسة، بل على بعد مئات الأقدام تحت المحيط الأطلسي قبالة سواحل إسبانيا. تم وضع تمثال 'المسيح' الخرساني الضال البالغ طوله 47 متراً تحت الماء في عام 1954 لحماية الغواصين."
+    "headline": "القطط تموء للبشر فقط",
+    "body": "القطط المنزلية البالغة لا تموء لبعضها البعض. لقد طورت هذا الصوت حصرياً تقريبا للتواصل مع البشر."
   },
   "reel_hook": {
-    "tr": "Dünyanın en büyük heykeli nerede?",
-    "en": "Where is the world's largest statue?",
-    "es": "¿Dónde está la estatua más grande del mundo?",
-    "ar": "أين أكبر تمثال في العالم؟"
+    "tr": "Kediniz aslında sizinle konuşmuyor.",
+    "en": "Your cat isn't actually talking to you.",
+    "es": "Tu gato en realidad no te está hablando.",
+    "ar": "قطتك لا تتحدث معك في الواقع."
   },
   "story_question": {
-    "tr": "Sence su altındaki bu dev heykel hangi amaçla yapıldı?",
-    "en": "For what purpose do you think this giant underwater statue was made?",
-    "es": "¿Con qué propósito crees que se hizo esta gigantesca estatua submarina?",
-    "ar": "برأيك، ما هو الغرض من صنع هذا التمثال العملاق تحت الماء؟"
+    "tr": "Yetişkin kediler doğada birbirleriyle nasıl anlaşır?",
+    "en": "How do adult cats communicate with each other in nature?",
+    "es": "¿Cómo se comunican los gatos adultos entre sí en la naturaleza?",
+    "ar": "كيف تتواصل القطط البالغة مع بعضها البعض في الطبيعة؟"
   },
   "story_options": [
-    "Dalış turizmini canlandırmak",
-    "Kayıp bir şehri işaretlemek",
-    "Denizcileri ve dalgıçları korumak"
+    "Koku, beden dili ve hırıltı",
+    "Sürekli miyavlama sesleri",
+    "Yüksek sesle bağırarak"
   ],
   "hashtags": [
     "#FactBite",
-    "#heykel",
-    "#sualtı",
-    "#atlantik",
-    "#keşif",
-    "#bilgi",
-    "#tarih"
+    "#kedi",
+    "#bilim",
+    "#hayvanlar",
+    "#catfacts",
+    "#dogalhayvanlar",
+    "#ilgincbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "En meraklı arkadaşına gönder!",
+    "en": "Send this to your most curious friend!",
+    "es": "¡Envíaselo a tu amigo más curioso!",
+    "ar": "أرسلها لصديقك الأكثر فضولاً!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Guinness World Records / Christ of the Abyss",
-    "url": "https://www.guinnessworldrecords.com/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/article/130823-cats-purring-meows-pets-animals-science"
   },
   "_category": "general",
   "_v3": true,

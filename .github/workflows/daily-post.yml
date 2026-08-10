@@ -43,7 +43,7 @@ jobs:
           python-version: "3.12"
       - name: Install dependencies
         run: |
-          pip install pillow arabic_reshaper python-bidi
+          pip install pillow arabic_reshaper python-bidi edge-tts
           sudo apt-get update -qq
           sudo apt-get install -y ffmpeg
       - name: Build or reuse today's FactBite Brain plan
@@ -79,8 +79,10 @@ jobs:
         run: exit 1
       - name: Render five carousel slides
         run: python scripts/render_v2.py
-      - name: Build Reel media for every generated post
+      - name: Build polished Reel media
         run: python scripts/build_reel.py
+      - name: Build Story V2 media
+        run: python scripts/build_story_v2.py
       - name: Remove media older than 14 days
         run: python scripts/cleanup_media.py
       - name: Commit generated media, plan and topic history
@@ -91,7 +93,7 @@ jobs:
           git commit -m "Auto: FactBite ${{ steps.slot.outputs.category }} $(date -u +%F_%H%M)" || echo "nothing to commit"
           git pull --rebase
           git push
-      - name: Publish Instagram carousel and Story
+      - name: Publish Instagram carousel and Story V2
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
@@ -106,7 +108,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "✅ FactBite yayınlandı\nKategori: ${{ steps.slot.outputs.category }}\nFormat: ${{ steps.slot.outputs.format }}\nÖzel gün: ${{ steps.slot.outputs.special || 'Yok' }}\nInstagram: Carousel + Story\nFacebook: Denendi"
+          TELEGRAM_MESSAGE: "✅ FactBite yayınlandı\nKategori: ${{ steps.slot.outputs.category }}\nFormat: ${{ steps.slot.outputs.format }}\nÖzel gün: ${{ steps.slot.outputs.special || 'Yok' }}\nInstagram: Carousel + Story V2\nFacebook: Denendi"
         run: python scripts/notify_telegram.py
   notify-failure:
     if: ${{ needs.post.result == 'failure' && needs.post.outputs.quota_exhausted != 'true' }}

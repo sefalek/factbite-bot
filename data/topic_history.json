@@ -195,5 +195,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Kuşlar Zıplayamaz, Sadece Yürür Mü?",
+    "body": "Bazı kuş türleri yürümek yerine sürekli zıplar, ancak bu onların zıplayamadığı anlamına gelmez. Aslında ağaçta yaşayan birçok ötücü kuş, çift bacakla aynı anda zıplamanın dal tutunmayı ve hızlanmayı kolaylaştırdığı için bu yöntemi seçer. Yani zıplamak bir kısıtlama değil, tam aksine kusursuz bir adaptasyondur.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

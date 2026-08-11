@@ -1,63 +1,63 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Zıplayamaz, Sadece Yürür Mü?",
-    "body": "Bazı kuş türleri yürümek yerine sürekli zıplar, ancak bu onların zıplayamadığı anlamına gelmez. Aslında ağaçta yaşayan birçok ötücü kuş, çift bacakla aynı anda zıplamanın dal tutunmayı ve hızlanmayı kolaylaştırdığı için bu yöntemi seçer. Yani zıplamak bir kısıtlama değil, tam aksine kusursuz bir adaptasyondur."
+    "headline": "Sırtlanlar aslında erkekleri dışlar!",
+    "body": "Doğada bildiğimiz tüm dengeleri altüst eden bir gerçek var: Sırtlan topluluklarında dişiler her zaman liderdir. Hatta erkeklerden çok daha iri ve saldırgandırlar. Kraliçe gibiler adeta!"
   },
   "en": {
-    "headline": "Can Birds Only Hop, Never Walk?",
-    "body": "Some bird species constantly hop instead of walking, but this doesn't mean they can't walk. In fact, many tree-dwelling songbirds choose this method because hopping with both legs simultaneously makes gripping branches and accelerating much easier. It's not a limitation, but a flawless adaptation."
+    "headline": "Hyenas actually exclude males!",
+    "body": "There is a fact that turns all the balances we know in nature upside down: Females are always the leaders in hyena communities. They are even much larger and more aggressive than males. Like queens!"
   },
   "es": {
-    "headline": "¿Las aves solo saltan y nunca caminan?",
-    "body": "Algunas especies de aves saltan constantemente en lugar de caminar, pero esto no significa que no puedan caminar. De hecho, muchas aves cantoras arborícolas eligen este método porque saltar con ambas patas a la vez facilita el agarre a las ramas y la aceleración. Es una adaptación perfecta."
+    "headline": "¡Las hienas realmente excluyen a los machos!",
+    "body": "Hay un hecho que pone patas arriba todos los equilibrios que conocemos en la naturaleza: las hembras son siempre las líderes en las comunidades de hienas. Incluso son mucho más grandes y agresivas que los machos. ¡Como reinas!"
   },
   "ar": {
-    "headline": "هل تتقفز الطيور فقط ولا تمشي أبدًا؟",
-    "body": "تقفز بعض أنواع الطيور باستمرار بدلاً من المشي، لكن هذا لا يعني أنها لا تستطيع المشي. في الواقع، تختار العديد من الطيور المغردة التي تعيش على الأشجار هذه الطريقة لأن القفز بكلتا الساقين في نفس الوقت يسهل الإمساك بالأغصان والتسارع."
+    "headline": " الضباع تستبعد الذكور حقاً!",
+    "body": "هناك حقيقة تقلب كل التوازنات التي نعرفها في الطبيعة رأساً على عقب: الإناث هن قائدات دائماً في مجتمعات الضباع. وهي أكبر بكثير وأكثر عدوانية من الذكور. مثل الملكات تماماً!"
   },
   "reel_hook": {
-    "tr": "Hangi kuşlar yürümeyi unuttu?",
-    "en": "Which birds forgot how to walk?",
-    "es": "¿Qué aves olvidaron cómo caminar?",
-    "ar": "ما هي الطيور التي نسيت كيف تمشي؟"
+    "tr": "Sırtlanlar hakkında bildiğiniz her şeyi unutun!",
+    "en": "Forget everything you know about hyenas!",
+    "es": "¡Olvida todo lo que sabes sobre las hienas!",
+    "ar": "انس كل ما تعرفه عن الضباع!"
   },
   "story_question": {
-    "tr": "Sizce küçük ötücü kuşlar neden yürümek yerine sürekli zıplar?",
-    "en": "Why do you think small songbirds constantly hop instead of walk?",
-    "es": "¿Por qué crees que las aves cantoras pequeñas saltan constantemente en lugar de caminar?",
-    "ar": "برأيك، لماذا تقفز الطيور المغردة الصغيرة باستمرار بدلاً من المشي؟"
+    "tr": "Sırtlan topluluklarında kim söz sahibidir?",
+    "en": "Who holds the power in hyena communities?",
+    "es": "¿Quién tiene el poder en las comunidades de hienas?",
+    "ar": "من يمتلك السلطة في مجتمعات الضباع؟"
   },
   "story_options": [
-    "Enerji tasarrufu için",
-    "Dallara daha hızlı tutunmak için",
-    "Bacak kasları zayıf olduğu için"
+    "Dişiler",
+    "Erkekler",
+    "Ortak Karar"
   ],
   "hashtags": [
     "#FactBite",
+    "#sırtlan",
     "#doğa",
-    "#kuşlar",
-    "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#hayvanlaralemi",
+    "#bilgi",
+    "#şaşırtıcıgerçekler",
+    "#vahşinyaşam"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza como este!",
-    "ar": "اتبع لمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Daha fazla şaşırtıcı doğa sırrı için takipte kal.",
+    "en": "Stay tuned for more surprising nature secrets.",
+    "es": "Mantente al tanto para más secretos sorprendentes de la naturaleza.",
+    "ar": "ابق على تواصل للمزيد من أسرار الطبيعة المدهشة."
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org/news/why-do-some-birds-hop-and-others-walk"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "animals",
   "_language": "tr",

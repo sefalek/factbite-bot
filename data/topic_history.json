@@ -210,5 +210,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Sırtlanlar aslında erkekleri dışlar!",
+    "body": "Doğada bildiğimiz tüm dengeleri altüst eden bir gerçek var: Sırtlan topluluklarında dişiler her zaman liderdir. Hatta erkeklerden çok daha iri ve saldırgandırlar. Kraliçe gibiler adeta!",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 8,
+      "clarity": 9,
+      "overall": 8
+    }
   }
 ]

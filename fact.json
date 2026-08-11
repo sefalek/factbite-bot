@@ -1,66 +1,67 @@
 {
-  "format": "classic",
+  "format": "reel",
   "tr": {
-    "headline": "Kuşlar aslında günümüzün yaşayan dinozorlarıdır",
-    "body": "Fosil kayıtları, kuşların theropod dinozorlar grubundan evrimleştiğini ve tüylü dinozorların soyundan geldiğini kanıtlamaktadır."
+    "headline": "Karıncalar Asla Uyumaz mı?",
+    "body": "Dünyanın en çalışkan canlıları olarak bilinen karıncalar hakkında şaşırtıcı bir gerçek var: Kraliçe karıncalar günde birkaç saat uyusa da, işçi karıncalar asla tam anlamıyla uyumaz. Kısa süreli kestirmelerle ömür geçiren bu minik canlılar, koloninin güvenliği için uyanık kalır."
   },
   "en": {
-    "headline": "Birds are actually living dinosaurs today",
-    "body": "Fossil records prove that birds evolved from theropod dinosaurs and are descendants of feathered dinosaurs."
+    "headline": "Do Ants Really Never Sleep?",
+    "body": "There is a surprising fact about ants, known as the hardest workers on Earth: While queen ants sleep for a few hours a day, worker ants never truly sleep. These tiny creatures, getting by with short power naps, stay awake to keep the colony safe."
   },
   "es": {
-    "headline": "Las aves son en realidad los dinosaurios vivos de hoy",
-    "body": "Los registros fósiles demuestran que las aves evolucionaron a partir de dinosaurios terópodos y descienden de dinosaurios con plumas."
+    "headline": "¿Las hormigas realmente nunca duermen?",
+    "body": "Hay un hecho sorprendente sobre las hormigas, conocidas como las trabajadoras más duras de la Tierra: mientras que las reinas duermen unas horas al día, las obreras nunca duermen realmente. Estas diminutas criaturas se mantienen despiertas para proteger la colonia."
   },
   "ar": {
-    "headline": "الطيور هي في الواقع الديناصورات الحية اليوم",
-    "body": "تثبت السجلات الحفرية أن الطيور تطورت من الديناصورات الثيروبودية وهي تنحدر من ديناصورات ذات ريش."
+    "headline": "هل النمل حقاً لا ينام أبداً؟",
+    "body": "هناك حقيقة مدهشة حول النمل: بينما تنام ملكات النمل بضع ساعات يومياً، فإن النمل العامل لا ينام حقيقة أبداً. هذه الكائنات الصغيرة تكتفي بغفوات قصيرة لتبقى مستيقظة طوال الوقت لحماية المستعمرة."
   },
   "reel_hook": {
-    "tr": "Tavuğun atası T-Rex olabilir mi?",
-    "en": "Could the ancestor of a chicken be a T-Rex?",
-    "es": "¿Podría el ancestro de un pollo ser un T-Rex?",
-    "ar": "هل يمكن أن يكون سلف الدجاجة هو التيركس؟"
+    "tr": "Hiç bütün ömrü boyunca hiç uyumayan bir canlı gördün mü?",
+    "en": "Have you ever seen a creature that never sleeps in its entire life?",
+    "es": "¿Alguna vez has visto una criatura que nunca duerme en toda su vida?",
+    "ar": "هل رأيت من قبل كائناً لا ينام طوال حياته؟"
   },
   "story_question": {
-    "tr": "Hangi modern hayvan doğrudan dinozorların soyundan gelir?",
-    "en": "Which modern animal is directly descended from dinosaurs?",
-    "es": "¿Qué animal moderno desciende directamente de los dinosaurios?",
-    "ar": "أي حيوان حديث ينحدر مباشرة من الديناصورات؟"
+    "tr": "İşçi karıncaların günlük ortalama uyku süresi nedir?",
+    "en": "What is the average daily sleep time of worker ants?",
+    "es": "¿Cuál es el tiempo promedio de sueño diario de las hormigas obreras?",
+    "ar": "ما هو متوسط وقت النوم اليومي للنمل العامل؟"
   },
   "story_options": [
-    "Timsahlar",
-    "Kuşlar",
-    "Kertenkeleler"
+    "8 Saat",
+    "Hiç uyumazlar",
+    "30 Dakika"
   ],
   "hashtags": [
     "#FactBite",
+    "#Karıncalar",
+    "#DoğaMucizeleri",
+    "#İlginçBilgiler",
     "#Bilim",
-    "#Dinozor",
-    "#Kuşlar",
-    "#Doğa",
-    "#Tarih",
-    "#Science",
-    "#Nature"
+    "#HayvanlarAlemi",
+    "#Keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
+    "tr": "Benzer ilginç doğa gerçekleri için bizi takip et!",
+    "en": "Follow us for more interesting nature facts!",
+    "es": "¡Síguenos para más datos curiosos sobre la naturaleza!",
+    "ar": "تابعنا للمزيد من حقائق الطبيعة المثيرة!"
   },
   "quality": {
-    "curiosity": 10,
-    "surprise": 10,
-    "shareability": 10,
+    "curiosity": 9,
+    "surprise": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 10
+    "overall": 9
   },
   "source": {
-    "name": "Natural History Museum",
-    "url": "https://www.nhm.ac.uk/discover/how-dinosaurs-evolved-into-birds.html"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
-  "_category": "general",
-  "_v3": true,
+  "_category": "animals",
+  "_language": "tr",
+  "_topic": "",
+  "_v4": true,
   "_special_day": ""
 }

@@ -135,5 +135,20 @@
       "clarity": 10,
       "overall": 10
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Karıncalar Asla Uyumaz mı?",
+    "body": "Dünyanın en çalışkan canlıları olarak bilinen karıncalar hakkında şaşırtıcı bir gerçek var: Kraliçe karıncalar günde birkaç saat uyusa da, işçi karıncalar asla tam anlamıyla uyumaz. Kısa süreli kestirmelerle ömür geçiren bu minik canlılar, koloninin güvenliği için uyanık kalır.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 8,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

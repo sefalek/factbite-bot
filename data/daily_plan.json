@@ -1,40 +1,60 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "slots": [
     {
       "time": "08:17",
-      "category": "general",
-      "format": "classic",
+      "language": "tr",
+      "category": "animals",
+      "topic": "Şaşırtıcı bir hayvan gerçeği",
+      "format": "reel",
       "reason": "fallback"
     },
     {
       "time": "10:17",
-      "category": "history",
-      "format": "classic",
+      "language": "en",
+      "category": "space",
+      "topic": "A surprising space fact",
+      "format": "reel",
       "reason": "fallback"
     },
     {
       "time": "12:17",
+      "language": "es",
       "category": "science",
-      "format": "classic",
+      "topic": "Un dato científico sorprendente",
+      "format": "reel",
+      "reason": "fallback"
+    },
+    {
+      "time": "13:30",
+      "language": "ar",
+      "category": "history",
+      "topic": "حقيقة تاريخية غريبة",
+      "format": "reel",
       "reason": "fallback"
     },
     {
       "time": "15:17",
-      "category": "animals",
-      "format": "classic",
+      "language": "tr",
+      "category": "tech",
+      "topic": "An unexpected technology fact",
+      "format": "reel",
       "reason": "fallback"
     },
     {
       "time": "18:17",
-      "category": "tech",
-      "format": "classic",
+      "language": "en",
+      "category": "culture",
+      "topic": "Un dato cultural curioso",
+      "format": "reel",
       "reason": "fallback"
     },
     {
       "time": "22:17",
-      "category": "culture",
-      "format": "classic",
+      "language": "es",
+      "category": "general",
+      "topic": "A fact that sounds impossible but is true",
+      "format": "reel",
       "reason": "fallback"
     }
   ],

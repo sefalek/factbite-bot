@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ahtapotların Dokuz Beyni Var",
-    "body": "Sadece bir tane değil, tam dokuz beyne sahipler. Biri merkezi beyin olmak üzere, diğer sekiz beyin her bir kolda bağımsız olarak karar alabiliyor. Bu sayede kollarından biri adeta kendi başına düşünebiliyor."
+    "headline": "Kargaların İntikam Hafızası",
+    "body": "Kargalar sizi bir kez kandırırsa, yüzünüzü asla unutmaz. Bilimsel araştırmalar, bu zeki kuşların kendilerine kötülük yapan insanları yıllarca tanıdığını ve bu bilgiyi diğer kargalara aktardığını kanıtlıyor."
   },
   "en": {
-    "headline": "Octopuses Have Nine Brains",
-    "body": "They have not just one, but a total of nine brains. With one central brain and eight others located in each arm, their limbs can make independent decisions. This means one of their arms can practically think for itself."
+    "headline": "Crows' Revenge Memory",
+    "body": "If crows are tricked by you once, they never forget your face. Scientific studies prove that these smart birds recognize humans who wronged them for years and pass this knowledge to other crows."
   },
   "es": {
-    "headline": "Los pulpos tienen nueve cerebros",
-    "body": "No tienen uno solo, sino un total de nueve cerebros. Con un cerebro central y otros ocho en cada brazo, sus extremidades pueden tomar decisiones independientes. Esto significa que uno de sus brazos puede pensar por sí mismo."
+    "headline": "La Memoria de Venganza de los Cuervos",
+    "body": "Si los cuervos te engañan una vez, nunca olvidan tu rostro. Estudios científicos demuestran que estas inteligentes aves reconocen durante años a los humanos que les hicieron daño y transmiten este conocimiento a otros cuervos."
   },
   "ar": {
-    "headline": "للدنابيس تسعة أدمغة",
-    "body": "لا تمتلك دماغاً واحداً فقط، بل تسعة أدمغة تماماً. مع دماغ مركزي واحد وثمانية أدمغة أخرى في كل ذراع، يمكن لأطرافها اتخاذ قرارات مستقلة، مما يعني أن أحد أذرعها يمكنه التفكير بمفرده تقريباً."
+    "headline": "ذاكرة الانتقام لدى الغربان",
+    "body": "إذا خدعت الغربان مرة واحدة، فلن تنسى وجهك أبدًا. تثبت الدراسات العلمية أن هذه الطيور الذكية تتعرف لسنوات على البشر الذين أساءوا إليها وتنقل هذه المعرفة إلى الغربان الأخرى."
   },
   "reel_hook": {
-    "tr": "Bir canlının neden dokuz beyne ihtiyacı olabilir?",
-    "en": "Why would any creature need nine brains?",
-    "es": "¿Por qué un ser vivo necesitaría nueve cerebros?",
-    "ar": "لماذا قد يحتاج أي كائن إلى تسعة أدمغة؟"
+    "tr": "Sokakta yürürken bu kuşun sizi yıllarca unutmayacağını biliyor muydunuz?",
+    "en": "Did you know that while walking on the street, this bird will never forget you for years?",
+    "es": "¿Sabías que al caminar por la calle, este pájaro nunca te olvidará durante años?",
+    "ar": "هل تعلم أنه أثناء المشي في الشارع، لن تنسى هذا الطير أبدًا لسنوات؟"
   },
   "story_question": {
-    "tr": "Ahtapotların kollarındaki bağımsız beyinler sizce ne işe yarıyor?",
-    "en": "What do you think is the purpose of the independent brains in octopus arms?",
-    "es": "¿Para qué crees que sirven los cerebros independientes en los brazos de los pulpos?",
-    "ar": "برأيك، ما فائدة الأدمغة المستقلة في أذرع الأخطبوط؟"
+    "tr": "Sizce kargalar kendilerine zarar veren insanları nesiller boyu nasıl aktarıyor?",
+    "en": "How do you think crows pass down recognition of humans who harm them across generations?",
+    "es": "¿Cómo crees que los cuervos transmiten el reconocimiento de los humanos que les hacen daño a través de generaciones?",
+    "ar": "كيف تعتقد أن الغربان تنقل التعرف على البشر الذين يضرونهم عبر الأجيال؟"
   },
   "story_options": [
-    "Avı daha hızlı yakalamaya",
-    "Kolların kendi başına karar almasına",
-    "Tehlikede renk değiştirmeye"
+    "Sesli uyarı çığlıklarıyla",
+    "Yüzleri birbirine tarif ederek",
+    "Genetik hafıza yoluyla"
   ],
   "hashtags": [
     "#FactBite",
-    "#ahtapot",
+    "#karga",
     "#doğa",
-    "#hayvanlar",
     "#bilim",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#kuşlar",
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip et!",
-    "en": "Follow for more surprising facts like this!",
-    "es": "¡Sígueme para más datos sorprendentes como este!",
-    "ar": "اتبع للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Benzer şaşırtıcı doğa gerçekleri için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more surprising nature facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes de la naturaleza!",
+    "ar": "لا تنس متابعتنا للمزيد من حقائق الطبيعة المدهشة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,8 +56,8 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Cornell Lab of Ornithology",
+    "url": "https://www.allaboutbirds.org"
   },
   "_category": "animals",
   "_language": "tr",

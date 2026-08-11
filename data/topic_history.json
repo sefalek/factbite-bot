@@ -165,5 +165,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Kargaların İntikam Hafızası",
+    "body": "Kargalar sizi bir kez kandırırsa, yüzünüzü asla unutmaz. Bilimsel araştırmalar, bu zeki kuşların kendilerine kötülük yapan insanları yıllarca tanıdığını ve bu bilgiyi diğer kargalara aktardığını kanıtlıyor.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

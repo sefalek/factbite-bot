@@ -1,57 +1,57 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Karıncalar Asla Uyumaz mı?",
-    "body": "Dünyanın en çalışkan canlıları olarak bilinen karıncalar hakkında şaşırtıcı bir gerçek var: Kraliçe karıncalar günde birkaç saat uyusa da, işçi karıncalar asla tam anlamıyla uyumaz. Kısa süreli kestirmelerle ömür geçiren bu minik canlılar, koloninin güvenliği için uyanık kalır."
+    "headline": "Ahtapotların Dokuz Beyni Var",
+    "body": "Sadece bir tane değil, tam dokuz beyne sahipler. Biri merkezi beyin olmak üzere, diğer sekiz beyin her bir kolda bağımsız olarak karar alabiliyor. Bu sayede kollarından biri adeta kendi başına düşünebiliyor."
   },
   "en": {
-    "headline": "Do Ants Really Never Sleep?",
-    "body": "There is a surprising fact about ants, known as the hardest workers on Earth: While queen ants sleep for a few hours a day, worker ants never truly sleep. These tiny creatures, getting by with short power naps, stay awake to keep the colony safe."
+    "headline": "Octopuses Have Nine Brains",
+    "body": "They have not just one, but a total of nine brains. With one central brain and eight others located in each arm, their limbs can make independent decisions. This means one of their arms can practically think for itself."
   },
   "es": {
-    "headline": "¿Las hormigas realmente nunca duermen?",
-    "body": "Hay un hecho sorprendente sobre las hormigas, conocidas como las trabajadoras más duras de la Tierra: mientras que las reinas duermen unas horas al día, las obreras nunca duermen realmente. Estas diminutas criaturas se mantienen despiertas para proteger la colonia."
+    "headline": "Los pulpos tienen nueve cerebros",
+    "body": "No tienen uno solo, sino un total de nueve cerebros. Con un cerebro central y otros ocho en cada brazo, sus extremidades pueden tomar decisiones independientes. Esto significa que uno de sus brazos puede pensar por sí mismo."
   },
   "ar": {
-    "headline": "هل النمل حقاً لا ينام أبداً؟",
-    "body": "هناك حقيقة مدهشة حول النمل: بينما تنام ملكات النمل بضع ساعات يومياً، فإن النمل العامل لا ينام حقيقة أبداً. هذه الكائنات الصغيرة تكتفي بغفوات قصيرة لتبقى مستيقظة طوال الوقت لحماية المستعمرة."
+    "headline": "للدنابيس تسعة أدمغة",
+    "body": "لا تمتلك دماغاً واحداً فقط، بل تسعة أدمغة تماماً. مع دماغ مركزي واحد وثمانية أدمغة أخرى في كل ذراع، يمكن لأطرافها اتخاذ قرارات مستقلة، مما يعني أن أحد أذرعها يمكنه التفكير بمفرده تقريباً."
   },
   "reel_hook": {
-    "tr": "Hiç bütün ömrü boyunca hiç uyumayan bir canlı gördün mü?",
-    "en": "Have you ever seen a creature that never sleeps in its entire life?",
-    "es": "¿Alguna vez has visto una criatura que nunca duerme en toda su vida?",
-    "ar": "هل رأيت من قبل كائناً لا ينام طوال حياته؟"
+    "tr": "Bir canlının neden dokuz beyne ihtiyacı olabilir?",
+    "en": "Why would any creature need nine brains?",
+    "es": "¿Por qué un ser vivo necesitaría nueve cerebros?",
+    "ar": "لماذا قد يحتاج أي كائن إلى تسعة أدمغة؟"
   },
   "story_question": {
-    "tr": "İşçi karıncaların günlük ortalama uyku süresi nedir?",
-    "en": "What is the average daily sleep time of worker ants?",
-    "es": "¿Cuál es el tiempo promedio de sueño diario de las hormigas obreras?",
-    "ar": "ما هو متوسط وقت النوم اليومي للنمل العامل؟"
+    "tr": "Ahtapotların kollarındaki bağımsız beyinler sizce ne işe yarıyor?",
+    "en": "What do you think is the purpose of the independent brains in octopus arms?",
+    "es": "¿Para qué crees que sirven los cerebros independientes en los brazos de los pulpos?",
+    "ar": "برأيك، ما فائدة الأدمغة المستقلة في أذرع الأخطبوط؟"
   },
   "story_options": [
-    "8 Saat",
-    "Hiç uyumazlar",
-    "30 Dakika"
+    "Avı daha hızlı yakalamaya",
+    "Kolların kendi başına karar almasına",
+    "Tehlikede renk değiştirmeye"
   ],
   "hashtags": [
     "#FactBite",
-    "#Karıncalar",
-    "#DoğaMucizeleri",
-    "#İlginçBilgiler",
-    "#Bilim",
-    "#HayvanlarAlemi",
-    "#Keşfet"
+    "#ahtapot",
+    "#doğa",
+    "#hayvanlar",
+    "#bilim",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Benzer ilginç doğa gerçekleri için bizi takip et!",
-    "en": "Follow us for more interesting nature facts!",
-    "es": "¡Síguenos para más datos curiosos sobre la naturaleza!",
-    "ar": "تابعنا للمزيد من حقائق الطبيعة المثيرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip et!",
+    "en": "Follow for more surprising facts like this!",
+    "es": "¡Sígueme para más datos sorprendentes como este!",
+    "ar": "اتبع للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },

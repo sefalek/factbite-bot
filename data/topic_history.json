@@ -150,5 +150,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Ahtapotların Dokuz Beyni Var",
+    "body": "Sadece bir tane değil, tam dokuz beyne sahipler. Biri merkezi beyin olmak üzere, diğer sekiz beyin her bir kolda bağımsız olarak karar alabiliyor. Bu sayede kollarından biri adeta kendi başına düşünebiliyor.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

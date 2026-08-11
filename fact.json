@@ -1,63 +1,63 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kargaların İntikam Hafızası",
-    "body": "Kargalar sizi bir kez kandırırsa, yüzünüzü asla unutmaz. Bilimsel araştırmalar, bu zeki kuşların kendilerine kötülük yapan insanları yıllarca tanıdığını ve bu bilgiyi diğer kargalara aktardığını kanıtlıyor."
+    "headline": "Filler Neden Zıplayamaz?",
+    "body": "Dünyanın en büyük kara memelilerinden olan filler, ağırlıkları ve bacak anatomileri nedeniyle yerden bir milimetre bile yukarı zıplayamazlar. Dört bacaklarında da aynı anda yerle bağı kesmelerini engelleyen özel bir kemik ve kas yapısı vardır."
   },
   "en": {
-    "headline": "Crows' Revenge Memory",
-    "body": "If crows are tricked by you once, they never forget your face. Scientific studies prove that these smart birds recognize humans who wronged them for years and pass this knowledge to other crows."
+    "headline": "Why Elephants Can't Jump",
+    "body": "As the largest land mammals, elephants cannot jump even a millimeter off the ground due to their weight and leg anatomy. All four of their legs possess a specialized bone and muscle structure that prevents them from losing contact with the ground simultaneously."
   },
   "es": {
-    "headline": "La Memoria de Venganza de los Cuervos",
-    "body": "Si los cuervos te engañan una vez, nunca olvidan tu rostro. Estudios científicos demuestran que estas inteligentes aves reconocen durante años a los humanos que les hicieron daño y transmiten este conocimiento a otros cuervos."
+    "headline": "Por qué los elefantes no pueden saltar",
+    "body": "Al ser los mamíferos terrestres más grandes, los elefantes no pueden saltar ni un milímetro del suelo debido a su peso y anatomía de las patas. Sus cuatro patas poseen una estructura ósea y muscular especializada que evita que pierdan contacto con el suelo al mismo tiempo."
   },
   "ar": {
-    "headline": "ذاكرة الانتقام لدى الغربان",
-    "body": "إذا خدعت الغربان مرة واحدة، فلن تنسى وجهك أبدًا. تثبت الدراسات العلمية أن هذه الطيور الذكية تتعرف لسنوات على البشر الذين أساءوا إليها وتنقل هذه المعرفة إلى الغربان الأخرى."
+    "headline": "لماذا لا تستطيع الفيلة القفز",
+    "body": "باعتبارها أكبر الثدييات البرية، لا تستطيع الفيلة القفز ولو لمليمتر واحد عن الأرض بسبب وزنها وتشريح أرجلها. تمتلك أرجلها الأربع بنية عظمية وعضلية متخصصة تمنعها من فقدان الاتصال بالارض في نفس الوقت."
   },
   "reel_hook": {
-    "tr": "Sokakta yürürken bu kuşun sizi yıllarca unutmayacağını biliyor muydunuz?",
-    "en": "Did you know that while walking on the street, this bird will never forget you for years?",
-    "es": "¿Sabías que al caminar por la calle, este pájaro nunca te olvidará durante años?",
-    "ar": "هل تعلم أنه أثناء المشي في الشارع، لن تنسى هذا الطير أبدًا لسنوات؟"
+    "tr": "Tonlarca ağırlıktaki filler asla yapamadığı o tek şey nedir?",
+    "en": "What is the one thing weighing tons that elephants can never do?",
+    "es": "¿Qué es lo único que pesa toneladas que los elefantes nunca pueden hacer?",
+    "ar": "ما هو الشيء الوحيد الذي يزن أطناناً ولا تستطيع الفيلة فعله أبداً؟"
   },
   "story_question": {
-    "tr": "Sizce kargalar kendilerine zarar veren insanları nesiller boyu nasıl aktarıyor?",
-    "en": "How do you think crows pass down recognition of humans who harm them across generations?",
-    "es": "¿Cómo crees que los cuervos transmiten el reconocimiento de los humanos que les hacen daño a través de generaciones?",
-    "ar": "كيف تعتقد أن الغربان تنقل التعرف على البشر الذين يضرونهم عبر الأجيال؟"
+    "tr": "Fillerin zıplayamamasının temel sebebi nedir?",
+    "en": "What is the main reason elephants can't jump?",
+    "es": "¿Cuál es la razón principal por la que los elefantes no pueden saltar?",
+    "ar": "ما هو السبب الرئيسي لعدم قدرة الفيلة على القفز؟"
   },
   "story_options": [
-    "Sesli uyarı çığlıklarıyla",
-    "Yüzleri birbirine tarif ederek",
-    "Genetik hafıza yoluyla"
+    "Ağır olmaları",
+    "Zıplama yeteneğine ihtiyaç duymamaları",
+    "Bacak ve iskelet yapısı"
   ],
   "hashtags": [
     "#FactBite",
-    "#karga",
+    "#fil",
     "#doğa",
-    "#bilim",
+    "#bilgi",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#kuşlar",
-    "#hayvanlar"
+    "#doğahayati"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı doğa gerçekleri için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more surprising nature facts!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes de la naturaleza!",
-    "ar": "لا تنس متابعتنا للمزيد من حقائق الطبيعة المدهشة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip et!",
+    "en": "Follow for more surprising facts like this!",
+    "es": "¡Sígueme para más datos sorprendentes como este!",
+    "ar": "تابع لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Cornell Lab of Ornithology",
-    "url": "https://www.allaboutbirds.org"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "animals",
   "_language": "tr",

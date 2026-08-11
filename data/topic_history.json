@@ -180,5 +180,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Filler Neden Zıplayamaz?",
+    "body": "Dünyanın en büyük kara memelilerinden olan filler, ağırlıkları ve bacak anatomileri nedeniyle yerden bir milimetre bile yukarı zıplayamazlar. Dört bacaklarında da aynı anda yerle bağı kesmelerini engelleyen özel bir kemik ve kas yapısı vardır.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 8,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

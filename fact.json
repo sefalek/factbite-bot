@@ -1,63 +1,64 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sırtlanlar aslında erkekleri dışlar!",
-    "body": "Doğada bildiğimiz tüm dengeleri altüst eden bir gerçek var: Sırtlan topluluklarında dişiler her zaman liderdir. Hatta erkeklerden çok daha iri ve saldırgandırlar. Kraliçe gibiler adeta!"
+    "headline": "Deniz Su Samurları Neden El Ele Tutar?",
+    "body": "Deniz su samurları, uyurken akıntıyla sürüklenip birbirlerinden ayrılmamak için el ele tutuşurlar. Bu sevimli davranış aynı zamanda aile bağlarını ve güvenliği sağlar."
   },
   "en": {
-    "headline": "Hyenas actually exclude males!",
-    "body": "There is a fact that turns all the balances we know in nature upside down: Females are always the leaders in hyena communities. They are even much larger and more aggressive than males. Like queens!"
+    "headline": "Why Do Sea Otters Hold Hands?",
+    "body": "Sea otters hold hands while sleeping to avoid drifting apart in the current. This adorable behavior also ensures family bonds and safety."
   },
   "es": {
-    "headline": "¡Las hienas realmente excluyen a los machos!",
-    "body": "Hay un hecho que pone patas arriba todos los equilibrios que conocemos en la naturaleza: las hembras son siempre las líderes en las comunidades de hienas. Incluso son mucho más grandes y agresivas que los machos. ¡Como reinas!"
+    "headline": "Por qué las nutrias marinas se toman de la mano?",
+    "body": "Las nutrias marinas se toman de la mano mientras duermen para no separarse con la corriente. Este adorable comportamiento también garantiza vínculos familiares y seguridad."
   },
   "ar": {
-    "headline": " الضباع تستبعد الذكور حقاً!",
-    "body": "هناك حقيقة تقلب كل التوازنات التي نعرفها في الطبيعة رأساً على عقب: الإناث هن قائدات دائماً في مجتمعات الضباع. وهي أكبر بكثير وأكثر عدوانية من الذكور. مثل الملكات تماماً!"
+    "headline": "لماذا تمسك ثعالب البحر أيدي بعضها؟",
+    "body": "تمسك ثعالب البحر أيدي بعضها أثناء النوم لكي لا تجرفها التيار بعيداً. هذا السلوك اللطيف يضمن أيضاً الروابط الأسرية والأمان."
   },
   "reel_hook": {
-    "tr": "Sırtlanlar hakkında bildiğiniz her şeyi unutun!",
-    "en": "Forget everything you know about hyenas!",
-    "es": "¡Olvida todo lo que sabes sobre las hienas!",
-    "ar": "انس كل ما تعرفه عن الضباع!"
+    "tr": "Uyurken birbirlerinin elini bırakmayan bu hayvanları hiç gördün mü?",
+    "en": "Have you ever seen these animals that never let go of each other's hands while sleeping?",
+    "es": "Has visto alguna vez a estos animales que nunca se sueltan las manos al dormir?",
+    "ar": "هل شاهدت من قبل هذه الحيوانات التي لا تترك أيدي بعضها أثناء النوم؟"
   },
   "story_question": {
-    "tr": "Sırtlan topluluklarında kim söz sahibidir?",
-    "en": "Who holds the power in hyena communities?",
-    "es": "¿Quién tiene el poder en las comunidades de hienas?",
-    "ar": "من يمتلك السلطة في مجتمعات الضباع؟"
+    "tr": "Deniz su samurları uyurken neden el ele tutuşur?",
+    "en": "Why do sea otters hold hands while sleeping?",
+    "es": "Por qué las nutrias marinas se toman de la mano al dormir?",
+    "ar": "لماذا تمسك ثعالب البحر أيدي بعضها أثناء النوم؟"
   },
   "story_options": [
-    "Dişiler",
-    "Erkekler",
-    "Ortak Karar"
+    "Akıntıya kapılmamak için",
+    "Soğuktan korunmak için",
+    "Oyun oynamak için"
   ],
   "hashtags": [
     "#FactBite",
-    "#sırtlan",
+    "#suusamuru",
     "#doğa",
-    "#hayvanlaralemi",
+    "#hayvanlar",
     "#bilgi",
-    "#şaşırtıcıgerçekler",
-    "#vahşinyaşam"
+    "#ilginçbilgiler",
+    "#okyanus",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı doğa sırrı için takipte kal.",
-    "en": "Stay tuned for more surprising nature secrets.",
-    "es": "Mantente al tanto para más secretos sorprendentes de la naturaleza.",
-    "ar": "ابق على تواصل للمزيد من أسرار الطبيعة المدهشة."
+    "tr": "En sevdiğin arkadaşını etiketle, bunu birlikte öğrenin!",
+    "en": "Tag your best friend to learn this together!",
+    "es": "Etiqueta a tu mejor amigo para aprender esto juntos!",
+    "ar": "قم بتوسيم صديقك المفضّل لتتعرفوا على ذلك معاً!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8
+    "shareability": 10,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Monterey Bay Aquarium",
+    "url": "https://www.montereybayaquarium.org"
   },
   "_category": "animals",
   "_language": "tr",

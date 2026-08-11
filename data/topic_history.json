@@ -225,5 +225,20 @@
       "clarity": 9,
       "overall": 8
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Deniz Su Samurları Neden El Ele Tutar?",
+    "body": "Deniz su samurları, uyurken akıntıyla sürüklenip birbirlerinden ayrılmamak için el ele tutuşurlar. Bu sevimli davranış aynı zamanda aile bağlarını ve güvenliği sağlar.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 10,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

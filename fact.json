@@ -1,64 +1,63 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Deniz Su Samurları Neden El Ele Tutar?",
-    "body": "Deniz su samurları, uyurken akıntıyla sürüklenip birbirlerinden ayrılmamak için el ele tutuşurlar. Bu sevimli davranış aynı zamanda aile bağlarını ve güvenliği sağlar."
+    "headline": "Kargaların Yüzleri Unutmama Yeteneği",
+    "body": "Kargalar, kendilerine kötülük yapan insanları asla unutmuyor. Bilimsel araştırmalar, bu kuşların insan yüzlerini yıllarca hafızalarında tutabildiğini ve hatta bu bilgiyi diğer kargalara aktardığını gösteriyor."
   },
   "en": {
-    "headline": "Why Do Sea Otters Hold Hands?",
-    "body": "Sea otters hold hands while sleeping to avoid drifting apart in the current. This adorable behavior also ensures family bonds and safety."
+    "headline": "Crows Never Forget a Face",
+    "body": "Crows never forget humans who have wronged them. Scientific studies show these birds can remember human faces for years and even pass this information on to other crows."
   },
   "es": {
-    "headline": "Por qué las nutrias marinas se toman de la mano?",
-    "body": "Las nutrias marinas se toman de la mano mientras duermen para no separarse con la corriente. Este adorable comportamiento también garantiza vínculos familiares y seguridad."
+    "headline": "Los cuervos nunca olvidan un rostro",
+    "body": "Los cuervos nunca olvidan a los humanos que les han hecho daño. Los estudios científicos demuestran que estas aves pueden recordar rostros humanos durante años e incluso transmitir esta información a otros cuervos."
   },
   "ar": {
-    "headline": "لماذا تمسك ثعالب البحر أيدي بعضها؟",
-    "body": "تمسك ثعالب البحر أيدي بعضها أثناء النوم لكي لا تجرفها التيار بعيداً. هذا السلوك اللطيف يضمن أيضاً الروابط الأسرية والأمان."
+    "headline": "الغراب لا ينسى وجه من أذاه",
+    "body": "الغراب لا ينسى أبداً البشر الذين أساءوا إليه. تُظهر الدراسات العلمية أن هذه الطيور تستطيع تذكر الوجه البشري لسنوات بل ونقل هذه المعلومات إلى غراب أخرى."
   },
   "reel_hook": {
-    "tr": "Uyurken birbirlerinin elini bırakmayan bu hayvanları hiç gördün mü?",
-    "en": "Have you ever seen these animals that never let go of each other's hands while sleeping?",
-    "es": "Has visto alguna vez a estos animales que nunca se sueltan las manos al dormir?",
-    "ar": "هل شاهدت من قبل هذه الحيوانات التي لا تترك أيدي بعضها أثناء النوم؟"
+    "tr": "Sokakta yürürken bu kuşun sizi yıllarca unutmayacağını biliyor muydunuz?",
+    "en": "Did you know this bird will never forget you if you cross it?",
+    "es": "¿Sabías que este pájaro nunca te olvidará si le haces algo?",
+    "ar": "هل تعلم أن هذا الطائر لن ينسى وجهك أبداً إذا أذيته؟"
   },
   "story_question": {
-    "tr": "Deniz su samurları uyurken neden el ele tutuşur?",
-    "en": "Why do sea otters hold hands while sleeping?",
-    "es": "Por qué las nutrias marinas se toman de la mano al dormir?",
-    "ar": "لماذا تمسك ثعالب البحر أيدي بعضها أثناء النوم؟"
+    "tr": "Kargaların insan yüzlerini hatırlama süresi sizce ne kadardır?",
+    "en": "How long do you think crows can remember human faces?",
+    "es": "¿Cuánto tiempocrees que los cuervos recuerdan los rostros humanos?",
+    "ar": "برأيك، ما هي المدة التي يتذكر فيها الغراب وجوه البشر؟"
   },
   "story_options": [
-    "Akıntıya kapılmamak için",
-    "Soğuktan korunmak için",
-    "Oyun oynamak için"
+    "Birkaç hafta",
+    "Birkaç ay",
+    "Yıllarca"
   ],
   "hashtags": [
     "#FactBite",
-    "#suusamuru",
+    "#karga",
     "#doğa",
+    "#bilim",
     "#hayvanlar",
-    "#bilgi",
     "#ilginçbilgiler",
-    "#okyanus",
     "#keşfet"
   ],
   "cta": {
-    "tr": "En sevdiğin arkadaşını etiketle, bunu birlikte öğrenin!",
-    "en": "Tag your best friend to learn this together!",
-    "es": "Etiqueta a tu mejor amigo para aprender esto juntos!",
-    "ar": "قم بتوسيم صديقك المفضّل لتتعرفوا على ذلك معاً!"
+    "tr": "Benzer şaşırtıcı doğa gerçekleri için takip etmeyi unutmayın.",
+    "en": "Don't forget to follow for more surprising nature facts.",
+    "es": "No olvides seguirnos para más datos sorprendentes de la naturaleza.",
+    "ar": "لا تنس متابعتنا للمزيد من حقائق الطبيعة المدهشة."
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 10,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Monterey Bay Aquarium",
-    "url": "https://www.montereybayaquarium.org"
+    "name": "Animal Behaviour / University of Washington",
+    "url": "https://www.washington.edu"
   },
   "_category": "animals",
   "_language": "tr",

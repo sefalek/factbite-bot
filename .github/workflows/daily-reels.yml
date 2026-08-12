@@ -99,7 +99,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: ${{ steps.publish.outcome == 'success' && '✅ FactBite Reel Instagram\'a başarıyla yayınlandı. Facebook çapraz paylaşımı Meta ayarlarına bağlıdır.' || format('🚨 FactBite Reel yayınlanamadı. Aşama: Instagram yayınlama. Hata: {0} | Run: https://github.com/{1}/actions/runs/{2}', 'Detay için Actions logundaki Publish Reel to Instagram adımına bakın.', github.repository, github.run_id) }}
+          TELEGRAM_MESSAGE: ${{ steps.publish.outcome == 'success' && 'FactBite Reel Instagram’a başarıyla yayınlandı.' || format('FactBite Reel yayınlanamadı. Instagram yayınlama adımını kontrol et. Run: https://github.com/{0}/actions/runs/{1}', github.repository, github.run_id) }}
         run: python scripts/notify_telegram.py
 
       - name: Fail workflow when Instagram publish failed

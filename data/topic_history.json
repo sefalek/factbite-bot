@@ -330,5 +330,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Kuşlar Zıplayamaz, Sadece Yürür Mü?",
+    "body": "Birçok kuş türü iki ayağı üzerinde hareket ederken neden zıplamak yerine yürümeyi veya koşmayı tercih eder? Bilim insanları bunun anatomi ve enerji tasarrufuyla ilgili olduğunu gösteriyor.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 8,
+      "shareability": 8,
+      "clarity": 9,
+      "overall": 8.5
+    }
   }
 ]

@@ -113,9 +113,9 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: ${{ needs.reel.result == 'success' && format('✅ FactBite Reel Instagram\'a başarıyla yayınlandı. Facebook çapraz paylaşımı Meta ayarlarına bağlıdır.\n\nRun: https://github.com/{0}/actions/runs/{1}', github.repository, github.run_id) || format('🚨 FactBite Reel yayınlanamadı.\n\nAşama: Reel üretimi veya Instagram yayınlama\nDurum: {0}\nRun: https://github.com/{1}/actions/runs/{2}', needs.reel.result, github.repository, github.run_id) }}
+          TELEGRAM_MESSAGE: ${{ needs.reel.result == 'success' && format('FactBite Reel basariyla Instagramda yayinlandi. Facebook capraz paylasimi Meta ayarlarina baglidir.\n\nRun: https://github.com/{0}/actions/runs/{1}', github.repository, github.run_id) || format('FactBite Reel yayinlanamadi.\n\nAsama: Reel uretimi veya Instagram yayinlama\nDurum: {0}\nRun: https://github.com/{1}/actions/runs/{2}', needs.reel.result, github.repository, github.run_id) }}
         run: python scripts/notify_telegram.py
 
       - name: Verify Telegram configuration
         if: ${{ failure() }}
-        run: echo "Telegram bildirimi gönderilemedi. TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secret değerlerini ve Telegram bot erişimini kontrol et."
+        run: echo "Telegram bildirimi gonderilemedi. TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID secret degerlerini ve Telegram bot erisimini kontrol et."

@@ -300,5 +300,20 @@
       "clarity": 9,
       "overall": 8
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Kuşların Şaşırtıcı Sırrı",
+    "body": "Bazı kuş türleri, örneğin serçeler, ağaç dallarında ve yerlerde iki ayağıyla aynı anda zıplayarak ilerler. Ancak kumrular ve güvercinler gibi bazı türler asla zıplamaz; bunun yerine her adımda başlarını öne sallayarak yürürler.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 8,
+      "shareability": 8,
+      "clarity": 9,
+      "overall": 8.5
+    }
   }
 ]

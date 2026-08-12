@@ -1,63 +1,63 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Zıplayamaz, Sadece Yürür Mü?",
-    "body": "Birçok kuş türü, özellikle de ötücü kuşlar, yerden kalkarken veya hareket ederken iki ayağıyla birden aynı anda zıplar. Ancak anatomik yapıları gereği bazı büyük kuşlar veya yürümeye adapte olmuş türler zıplayamaz; sadece yürür veya koşar. Zıplama davranışı genellikle enerji tasarrufu ve hızlı ivmelenme sağlar."
+    "headline": "Kuşların Şaşırtıcı Sırrı",
+    "body": "Bazı kuş türleri, örneğin serçeler, ağaç dallarında ve yerlerde iki ayağıyla aynı anda zıplayarak ilerler. Ancak kumrular ve güvercinler gibi bazı türler asla zıplamaz; bunun yerine her adımda başlarını öne sallayarak yürürler."
   },
   "en": {
-    "headline": "Can't Birds Jump?",
-    "body": "Many bird species, especially passerines, hop with both feet simultaneously when moving on the ground. However, due to anatomical structures, some large birds or ground-dwelling species cannot jump; they only walk or run."
+    "headline": "The Surprising Secret of Birds",
+    "body": "Some bird species, like sparrows, move by hopping on both feet simultaneously. However, species like doves and pigeons never hop; instead, they walk by nodding their heads with every step."
   },
   "es": {
-    "headline": "¿Las aves no pueden saltar?",
-    "body": "Muchas especies de aves, especialmente los paseriformes, saltan con ambos pies simultáneamente al moverse por el suelo. Sin embargo, debido a su estructura anatómica, algunas aves grandes no pueden saltar."
+    "headline": "El Sorprendente Secreto de las Aves",
+    "body": "Algunas especies de aves, como los gorriones, se mueven saltando con ambos pies al mismo tiempo. Sin embargo, especies como las palomas nunca saltan; en su lugar, caminan asintiendo con la cabeza en cada paso."
   },
   "ar": {
-    "headline": "هل الطيور لا تستطيع القفز؟",
-    "body": "العديد من أنواع الطيور تقفز بكلتا قدميها في نفس الوقت عند التحرك على الأرض. ومع ذلك، نظراً للتركيب التشريحي، لا تستطيع بعض الطيور الكبيرة القفز بل تمشي فقط."
+    "headline": "السر المدهش للطيور",
+    "body": "بعض أنواع الطيور، مثل العصافير، تتحرك بالقفز على كلا قدميها في نفس الوقت. ومع ذلك، فإن أنواعًا مثل الحمام لا تقفز أبدًا؛ بل تمشي مع تحريك رؤوسها مع كل خطوة."
   },
   "reel_hook": {
-    "tr": "Tüm kuşların zıpladığını mı sanıyorsun? Yanılıyorsun.",
-    "en": "Think all birds can jump? You're wrong.",
-    "es": "¿Crees que todas las aves pueden saltar? Estás equivocado.",
-    "ar": "هل تعتقد أن كل الطيور تستطيع القفز؟ أنت مخطئ."
+    "tr": "Bütün kuşlar zıplar mı sanıyorsun?",
+    "en": "Do you think all birds can hop?",
+    "es": "¿Crees que todas las aves pueden saltar?",
+    "ar": "هل تعتقد أن كل الطيور تستطيع القفز؟"
   },
   "story_question": {
-    "tr": "Sence güvercinler zıplar mı yoksa yürür mü?",
-    "en": "Do you think pigeons jump or walk?",
-    "es": "¿Crees que las palomas saltan o caminan?",
-    "ar": "هل تعتقد أن الحمام يقفز أم يمشي؟"
+    "tr": "Hangi kuş türü yürürken başını sallar?",
+    "en": "Which bird species nods its head while walking?",
+    "es": "¿Qué especie de ave asiente con la cabeza al caminar?",
+    "ar": "ما هي نوع الطيور التي تحرك رأسها أثناء المشي؟"
   },
   "story_options": [
-    "Zıplar",
-    "Yürür",
-    "İkisi de"
+    "Güvercin",
+    "Serçe",
+    "Karga"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
     "#doğa",
+    "#kuşlar",
+    "#ilginçbilgiler",
     "#hayvanlar",
-    "#bilgi",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#bilim",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı doğa gerçeği için takip et!",
-    "en": "Follow for more surprising nature facts!",
-    "es": "¡Síguenos para más datos sorprendentes sobre la naturaleza!",
-    "ar": "اتبع لمزيد من الحقائق الطبيعية المدهشة!"
+    "tr": "En sevdiğin kuşu yorumlara yaz!",
+    "en": "Drop your favorite bird in the comments!",
+    "es": "¡Deja tu ave favorita en los comentarios!",
+    "ar": "اكتب طائرك المفضل في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 8,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8
+    "overall": 8.5
   },
   "source": {
-    "name": "Ornithology and Bird Locomotion Studies",
-    "url": "https://www.sciencedirect.com"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "animals",
   "_language": "tr",

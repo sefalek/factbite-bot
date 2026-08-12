@@ -255,5 +255,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Kuşlar aslında günümüzün yaşayan dinozorlarıdır",
+    "body": "Bilim insanları kuşların iskelet ve genetik yapısını incelediğinde gerçeği gördü. Modern kuşlar, milyonlarca yıl önce yok olan devasa dinozorların doğrudan soyundan geliyor. Yani balkonda gördüğün o küçük serçe, aslında minyatür bir T-Rex kuzeni.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

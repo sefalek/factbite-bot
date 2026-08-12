@@ -1,63 +1,63 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kargaların Yüzleri Unutmama Yeteneği",
-    "body": "Kargalar, kendilerine kötülük yapan insanları asla unutmuyor. Bilimsel araştırmalar, bu kuşların insan yüzlerini yıllarca hafızalarında tutabildiğini ve hatta bu bilgiyi diğer kargalara aktardığını gösteriyor."
+    "headline": "Kuşlar aslında günümüzün yaşayan dinozorlarıdır",
+    "body": "Bilim insanları kuşların iskelet ve genetik yapısını incelediğinde gerçeği gördü. Modern kuşlar, milyonlarca yıl önce yok olan devasa dinozorların doğrudan soyundan geliyor. Yani balkonda gördüğün o küçük serçe, aslında minyatür bir T-Rex kuzeni."
   },
   "en": {
-    "headline": "Crows Never Forget a Face",
-    "body": "Crows never forget humans who have wronged them. Scientific studies show these birds can remember human faces for years and even pass this information on to other crows."
+    "headline": "Birds are actually living dinosaurs of our time",
+    "body": "When scientists examined the skeletal and genetic structure of birds, the truth emerged. Modern birds are direct descendants of massive dinosaurs that went extinct millions of years ago. So that little sparrow on your balcony is actually a miniature T-Rex cousin."
   },
   "es": {
-    "headline": "Los cuervos nunca olvidan un rostro",
-    "body": "Los cuervos nunca olvidan a los humanos que les han hecho daño. Los estudios científicos demuestran que estas aves pueden recordar rostros humanos durante años e incluso transmitir esta información a otros cuervos."
+    "headline": "Las aves son en realidad los dinosaurios vivientes de nuestro tiempo",
+    "body": "Cuando los científicos examinaron la estructura esquelética y genética de las aves, salió a la luz la verdad. Las aves modernas son descendientes directas de dinosaurios masivos que se extinguieron hace millones de años. Así que ese pequeño gorrión en tu balcón es en realidad un primo en miniatura de un T-Rex."
   },
   "ar": {
-    "headline": "الغراب لا ينسى وجه من أذاه",
-    "body": "الغراب لا ينسى أبداً البشر الذين أساءوا إليه. تُظهر الدراسات العلمية أن هذه الطيور تستطيع تذكر الوجه البشري لسنوات بل ونقل هذه المعلومات إلى غراب أخرى."
+    "headline": "الطيور هي في الواقع ديناصورات العصر الحديث الحية",
+    "body": "عندما فحص العلماء الهيكل العظمي والوراثي للطيور، ظهرت الحقيقة. الطيور الحديثة هي سلالة مباشرة من الديناصورات الضخمة التي انقرضت منذ ملايين السنين. لذا فإن ذلك العصفور الصغير على شرفتك هو في الواقع ابن عم مصغر لـ T-Rex."
   },
   "reel_hook": {
-    "tr": "Sokakta yürürken bu kuşun sizi yıllarca unutmayacağını biliyor muydunuz?",
-    "en": "Did you know this bird will never forget you if you cross it?",
-    "es": "¿Sabías que este pájaro nunca te olvidará si le haces algo?",
-    "ar": "هل تعلم أن هذا الطائر لن ينسى وجهك أبداً إذا أذيته؟"
+    "tr": "Balkonundaki o minik kuşun aslında bir dinozor olduğunu biliyor muydun?",
+    "en": "Did you know that little bird on your balcony is actually a dinosaur?",
+    "es": "¿Sabías que ese pequeño pájaro en tu balcón es en realidad un dinosaurio?",
+    "ar": "هل كنت تعلم أن هذا الطائر الصغير على شرفتك هو ديناصور في الواقع؟"
   },
   "story_question": {
-    "tr": "Kargaların insan yüzlerini hatırlama süresi sizce ne kadardır?",
-    "en": "How long do you think crows can remember human faces?",
-    "es": "¿Cuánto tiempocrees que los cuervos recuerdan los rostros humanos?",
-    "ar": "برأيك، ما هي المدة التي يتذكر فيها الغراب وجوه البشر؟"
+    "tr": "Hangi modern hayvan doğrudan dinozor soyundan gelmektedir?",
+    "en": "Which modern animal is a direct descendant of dinosaurs?",
+    "es": "¿Qué animal moderno es descendiente directo de los dinosaurios?",
+    "ar": "أي حيوان حديث هو سلالة مباشرة للديناصورات؟"
   },
   "story_options": [
-    "Birkaç hafta",
-    "Birkaç ay",
-    "Yıllarca"
+    "Kuşlar",
+    "Timsahlar",
+    "Kertenkeleler"
   ],
   "hashtags": [
     "#FactBite",
-    "#karga",
     "#doğa",
     "#bilim",
-    "#hayvanlar",
+    "#dinozor",
+    "#kuşlar",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı doğa gerçekleri için takip etmeyi unutmayın.",
-    "en": "Don't forget to follow for more surprising nature facts.",
-    "es": "No olvides seguirnos para más datos sorprendentes de la naturaleza.",
-    "ar": "لا تنس متابعتنا للمزيد من حقائق الطبيعة المدهشة."
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Animal Behaviour / University of Washington",
-    "url": "https://www.washington.edu"
+    "name": "Natural History Museum",
+    "url": "https://www.nhm.ac.uk/discover/are-birds-dinosaurs.html"
   },
   "_category": "animals",
   "_language": "tr",

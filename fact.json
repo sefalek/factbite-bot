@@ -1,63 +1,63 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Şaşırtıcı Sırrı",
-    "body": "Bazı kuş türleri, örneğin serçeler, ağaç dallarında ve yerlerde iki ayağıyla aynı anda zıplayarak ilerler. Ancak kumrular ve güvercinler gibi bazı türler asla zıplamaz; bunun yerine her adımda başlarını öne sallayarak yürürler."
+    "headline": "Filler Neden Hiç Zıplayamaz?",
+    "body": "Dünyanın en büyük kara memelilerinden olan filler, devasa ağırlıkları ve bacak yapılarındaki fiziksel kısıtlamalar nedeniyle zıplayamazlar. Hızlı koşarken bile her an yere basan en az bir ayakları bulunur, bu yüzden havalanmaları imkansızdır."
   },
   "en": {
-    "headline": "The Surprising Secret of Birds",
-    "body": "Some bird species, like sparrows, move by hopping on both feet simultaneously. However, species like doves and pigeons never hop; instead, they walk by nodding their heads with every step."
+    "headline": "Why Elephants Can Never Jump",
+    "body": "As one of the largest land mammals, elephants cannot jump due to their massive weight and the physical limitations of their leg structure. Even when moving fast, they always keep at least one foot on the ground, making it impossible for them to leave the surface."
   },
   "es": {
-    "headline": "El Sorprendente Secreto de las Aves",
-    "body": "Algunas especies de aves, como los gorriones, se mueven saltando con ambos pies al mismo tiempo. Sin embargo, especies como las palomas nunca saltan; en su lugar, caminan asintiendo con la cabeza en cada paso."
+    "headline": "Por qué los elefantes nunca pueden saltar",
+    "body": "Como uno de los mamíferos terrestres más grandes, los elefantes no pueden saltar debido a su enorme peso y las limitaciones físicas de su estructura ósea. Incluso al moverse rápido, siempre mantienen al menos un pie en el suelo."
   },
   "ar": {
-    "headline": "السر المدهش للطيور",
-    "body": "بعض أنواع الطيور، مثل العصافير، تتحرك بالقفز على كلا قدميها في نفس الوقت. ومع ذلك، فإن أنواعًا مثل الحمام لا تقفز أبدًا؛ بل تمشي مع تحريك رؤوسها مع كل خطوة."
+    "headline": "لماذا لا تستطيع الفيلة القفز أبدًا",
+    "body": "باعتبارها من أكبر الثدييات البرية، لا تستطيع الفيلة القفز بسبب وزنها الهائل والقيود الفيزيائية لبنية ساقيها. حتى عند الحركة السريعة، تحافظ دائمًا على قدم واحدة على الأقل على الأرض."
   },
   "reel_hook": {
-    "tr": "Bütün kuşlar zıplar mı sanıyorsun?",
-    "en": "Do you think all birds can hop?",
-    "es": "¿Crees que todas las aves pueden saltar?",
-    "ar": "هل تعتقد أن كل الطيور تستطيع القفز؟"
+    "tr": "Dünyanın en ağır hayvanlarından biri neden asla yerden kesilemez?",
+    "en": "Why can one of the heaviest animals on Earth never leave the ground?",
+    "es": "¿Por qué uno de los animales más pesados de la Tierra nunca puede despegarse del suelo?",
+    "ar": "لماذا لا تستطيع واحدة من أثقل الحيوانات على وجه الأرض مغادرة الأرض أبدًا؟"
   },
   "story_question": {
-    "tr": "Hangi kuş türü yürürken başını sallar?",
-    "en": "Which bird species nods its head while walking?",
-    "es": "¿Qué especie de ave asiente con la cabeza al caminar?",
-    "ar": "ما هي نوع الطيور التي تحرك رأسها أثناء المشي؟"
+    "tr": "Sizce bir filin koşarken kaç ayağı aynı anda yerden kesilir?",
+    "en": "How many feet of an elephant do you think leave the ground while running?",
+    "es": "¿Cuántas patas de un elefante crees que se separan del suelo al correr?",
+    "ar": "برأيك، كم قدمًا للفيل ترفع عن الأرض أثناء الجري؟"
   },
   "story_options": [
-    "Güvercin",
-    "Serçe",
-    "Karga"
+    "0 (Hiçbiri)",
+    "1 ayak",
+    "2 ayak"
   ],
   "hashtags": [
     "#FactBite",
+    "#fil",
     "#doğa",
-    "#kuşlar",
-    "#ilginçbilgiler",
     "#hayvanlar",
-    "#bilim",
-    "#keşfet"
+    "#bilgi",
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "En sevdiğin kuşu yorumlara yaz!",
-    "en": "Drop your favorite bird in the comments!",
-    "es": "¡Deja tu ave favorita en los comentarios!",
-    "ar": "اكتب طائرك المفضل في التعليقات!"
+    "tr": "Daha fazla şaşırtıcı doğa gerçeği için takip et!",
+    "en": "Follow for more surprising nature facts!",
+    "es": "¡Sígueme para más datos sorprendentes de la naturaleza!",
+    "ar": "اتبع لمزيد من الحقائق الطبيعية المدهشة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.5
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "Guinness World Records / Mammalogy Studies",
+    "url": "https://www.guinnessworldrecords.com"
   },
   "_category": "animals",
   "_language": "tr",

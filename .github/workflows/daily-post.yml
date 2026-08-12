@@ -77,7 +77,7 @@ jobs:
       - name: Stop if Gemini generation failed
         if: ${{ steps.gemini.outcome == 'failure' }}
         run: exit 1
-      - name: Render five carousel slides
+      - name: Render five carousel slides (archive only)
         run: python scripts/render_v2.py
       - name: Build polished Reel media
         run: python scripts/build_reel.py
@@ -90,25 +90,19 @@ jobs:
           git config user.name "factbite-bot"
           git config user.email "bot@factbite.local"
           git add posts/ fact.json latest_post_dir.txt data/topic_history.json data/daily_plan.json
-          git commit -m "Auto: FactBite ${{ steps.slot.outputs.category }} $(date -u +%F_%H%M)" || echo "nothing to commit"
+          git commit -m "Auto: FactBite Reel source ${{ steps.slot.outputs.category }} $(date -u +%F_%H%M)" || echo "nothing to commit"
           git pull --rebase
           git push
-      - name: Publish Instagram carousel and Story V2
-        env:
-          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-        run: python scripts/publish_v2.py
-      - name: Publish Facebook Page post
-        continue-on-error: true
-        env:
-          FB_PAGE_ACCESS_TOKEN: ${{ secrets.FB_PAGE_ACCESS_TOKEN }}
-        run: python scripts/publish_facebook.py
+      - name: Publishing is handled by FactBite Reels workflow
+        run: |
+          echo "Carousel and Story publishing are disabled."
+          echo "The FactBite Reels workflow is responsible for Instagram Reel publishing."
       - name: Telegram success notification
         if: ${{ success() }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "✅ FactBite yayınlandı\nKategori: ${{ steps.slot.outputs.category }}\nFormat: ${{ steps.slot.outputs.format }}\nÖzel gün: ${{ steps.slot.outputs.special || 'Yok' }}\nInstagram: Carousel + Story V2\nFacebook: Denendi"
+          TELEGRAM_MESSAGE: "🎬 FactBite Reel kaynağı hazırlandı\nKategori: ${{ steps.slot.outputs.category }}\nFormat: ${{ steps.slot.outputs.format }}\nInstagram: Reel workflow'u yayınlayacak\nCarousel/Story: Kapalı"
         run: python scripts/notify_telegram.py
   notify-failure:
     if: ${{ needs.post.result == 'failure' && needs.post.outputs.quota_exhausted != 'true' }}

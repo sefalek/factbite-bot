@@ -7,7 +7,7 @@ on:
       timezone: "Europe/Istanbul"
     - cron: "17 23 * * *"
       timezone: "Europe/Istanbul"
-    - cron: "40 19 12 8 *"
+    - cron: "45 19 12 8 *"
       timezone: "Europe/Istanbul"
   workflow_dispatch:
 
@@ -49,7 +49,6 @@ jobs:
           test -f "$POST_DIR/factbite_reel.mp4"
           cp "$POST_DIR/factbite_reel.mp4" "$POST_DIR/$REEL_FILE"
           echo "REEL_FILENAME=$REEL_FILE" >> "$GITHUB_ENV"
-          echo "Unique Reel asset: $POST_DIR/$REEL_FILE"
 
       - name: Publish generated Reel asset to repository
         env:
@@ -57,7 +56,6 @@ jobs:
         run: |
           set -e
           POST_DIR=$(cat latest_post_dir.txt)
-          test -f "$POST_DIR/$REEL_FILENAME"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add "$POST_DIR/$REEL_FILENAME"
@@ -71,11 +69,7 @@ jobs:
           URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/${REEL_FILENAME}"
           for i in $(seq 1 12); do
             CODE=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL?cachebust=$(date +%s)-$i")
-            if [ "$CODE" = "200" ]; then
-              echo "Reel asset is publicly reachable: $URL"
-              exit 0
-            fi
-            echo "Waiting for raw GitHub asset (HTTP $CODE)..."
+            if [ "$CODE" = "200" ]; then exit 0; fi
             sleep 5
           done
           echo "Generated Reel asset is not publicly reachable."
@@ -105,6 +99,5 @@ jobs:
       - name: Fail workflow when Instagram publish failed
         if: steps.publish.outcome != 'success'
         run: |
-          echo "Instagram Reel publish failed. Exact command output:"
           cat /tmp/reel_publish.log
           exit 1

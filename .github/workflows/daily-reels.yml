@@ -7,7 +7,7 @@ on:
       timezone: "Europe/Istanbul"
     - cron: "17 23 * * *"
       timezone: "Europe/Istanbul"
-    - cron: "45 19 12 8 *"
+    - cron: "50 19 12 8 *"
       timezone: "Europe/Istanbul"
   workflow_dispatch:
 
@@ -49,6 +49,7 @@ jobs:
           test -f "$POST_DIR/factbite_reel.mp4"
           cp "$POST_DIR/factbite_reel.mp4" "$POST_DIR/$REEL_FILE"
           echo "REEL_FILENAME=$REEL_FILE" >> "$GITHUB_ENV"
+          echo "Unique Reel asset: $POST_DIR/$REEL_FILE"
 
       - name: Publish generated Reel asset to repository
         env:
@@ -56,6 +57,7 @@ jobs:
         run: |
           set -e
           POST_DIR=$(cat latest_post_dir.txt)
+          test -f "$POST_DIR/$REEL_FILENAME"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add "$POST_DIR/$REEL_FILENAME"
@@ -69,15 +71,17 @@ jobs:
           URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/${REEL_FILENAME}"
           for i in $(seq 1 12); do
             CODE=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL?cachebust=$(date +%s)-$i")
-            if [ "$CODE" = "200" ]; then exit 0; fi
+            if [ "$CODE" = "200" ]; then
+              echo "Reel asset is publicly reachable: $URL"
+              exit 0
+            fi
+            echo "Waiting for raw GitHub asset (HTTP $CODE)..."
             sleep 5
           done
           echo "Generated Reel asset is not publicly reachable."
           exit 1
 
       - name: Publish Reel to Instagram
-        id: publish
-        continue-on-error: true
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
@@ -88,16 +92,27 @@ jobs:
           set -o pipefail
           python scripts/publish_reel.py 2>&1 | tee /tmp/reel_publish.log
 
-      - name: Telegram Reel result notification
-        if: always()
+      - name: Telegram Reel success notification
+        if: ${{ success() }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: ${{ steps.publish.outcome == 'success' && 'FactBite Reel Instagram’a başarıyla yayınlandı.' || format('FactBite Reel yayınlanamadı. Instagram yayınlama adımını kontrol et. Run: https://github.com/{0}/actions/runs/{1}', github.repository, github.run_id) }}
+          TELEGRAM_MESSAGE: "🎬 FactBite Reel Instagram'a başarıyla yayınlandı. Facebook çapraz paylaşımı Meta ayarlarına bağlıdır."
+        run: python scripts/notify_telegram.py
+
+      - name: Telegram Reel failure notification
+        if: ${{ failure() }}
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MESSAGE: "🚨 FactBite Reel yayınlanamadı. Instagram Reel yayın hattında hata oluştu. Run: https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         run: python scripts/notify_telegram.py
 
       - name: Fail workflow when Instagram publish failed
-        if: steps.publish.outcome != 'success'
+        if: ${{ failure() }}
         run: |
-          cat /tmp/reel_publish.log
+          if [ -f /tmp/reel_publish.log ]; then
+            echo "--- Instagram publish output ---"
+            cat /tmp/reel_publish.log
+          fi
           exit 1

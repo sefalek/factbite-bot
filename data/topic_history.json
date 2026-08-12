@@ -270,5 +270,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Uykusuzluk Şampiyonu: Karıncalar",
+    "body": "Karıncaların hiç uyumadığını biliyor muydunuz? İşçi karıncalar gün boyunca kısa şekerlemeler yapar ama asla tam anlamıyla derin bir uykuya dalmazlar.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

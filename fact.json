@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar aslında günümüzün yaşayan dinozorlarıdır",
-    "body": "Bilim insanları kuşların iskelet ve genetik yapısını incelediğinde gerçeği gördü. Modern kuşlar, milyonlarca yıl önce yok olan devasa dinozorların doğrudan soyundan geliyor. Yani balkonda gördüğün o küçük serçe, aslında minyatür bir T-Rex kuzeni."
+    "headline": "Uykusuzluk Şampiyonu: Karıncalar",
+    "body": "Karıncaların hiç uyumadığını biliyor muydunuz? İşçi karıncalar gün boyunca kısa şekerlemeler yapar ama asla tam anlamıyla derin bir uykuya dalmazlar."
   },
   "en": {
-    "headline": "Birds are actually living dinosaurs of our time",
-    "body": "When scientists examined the skeletal and genetic structure of birds, the truth emerged. Modern birds are direct descendants of massive dinosaurs that went extinct millions of years ago. So that little sparrow on your balcony is actually a miniature T-Rex cousin."
+    "headline": "The Champions of Insomnia: Ants",
+    "body": "Did you know ants never truly sleep? Worker ants take short power naps throughout the day, but they never experience deep sleep."
   },
   "es": {
-    "headline": "Las aves son en realidad los dinosaurios vivientes de nuestro tiempo",
-    "body": "Cuando los científicos examinaron la estructura esquelética y genética de las aves, salió a la luz la verdad. Las aves modernas son descendientes directas de dinosaurios masivos que se extinguieron hace millones de años. Así que ese pequeño gorrión en tu balcón es en realidad un primo en miniatura de un T-Rex."
+    "headline": "Los campeones del insomnio: Las hormigas",
+    "body": "¿Sabías que las hormigas nunca duermen realmente? Las hormigas obreras toman siestas cortas durante el día, pero nunca entran en un sueño profundo."
   },
   "ar": {
-    "headline": "الطيور هي في الواقع ديناصورات العصر الحديث الحية",
-    "body": "عندما فحص العلماء الهيكل العظمي والوراثي للطيور، ظهرت الحقيقة. الطيور الحديثة هي سلالة مباشرة من الديناصورات الضخمة التي انقرضت منذ ملايين السنين. لذا فإن ذلك العصفور الصغير على شرفتك هو في الواقع ابن عم مصغر لـ T-Rex."
+    "headline": "أبطال الأرق: النمل",
+    "body": "هل تعلم أن النمل لا ينام حقاً؟ تأخذ النملات العاملة قيلولات قصيرة طوال اليوم، لكنها لا تدخل أبداً في نوم عميق."
   },
   "reel_hook": {
-    "tr": "Balkonundaki o minik kuşun aslında bir dinozor olduğunu biliyor muydun?",
-    "en": "Did you know that little bird on your balcony is actually a dinosaur?",
-    "es": "¿Sabías que ese pequeño pájaro en tu balcón es en realidad un dinosaurio?",
-    "ar": "هل كنت تعلم أن هذا الطائر الصغير على شرفتك هو ديناصور في الواقع؟"
+    "tr": "Bu küçük böcekler hayatları boyunca bir saniye bile uyumuyor!",
+    "en": "These tiny insects don't sleep a single second in their lives!",
+    "es": "¡Estos pequeños insectos no duermen ni un solo segundo en sus vidas!",
+    "ar": "هذه الحشرات الصغيرة لا تننام ولا ثانية واحدة في حياتها!"
   },
   "story_question": {
-    "tr": "Hangi modern hayvan doğrudan dinozor soyundan gelmektedir?",
-    "en": "Which modern animal is a direct descendant of dinosaurs?",
-    "es": "¿Qué animal moderno es descendiente directo de los dinosaurios?",
-    "ar": "أي حيوان حديث هو سلالة مباشرة للديناصورات؟"
+    "tr": "İşçi karıncaların günlük ortalama uyku süresi ne kadardır?",
+    "en": "What is the average daily sleep time of worker ants?",
+    "es": "¿Cuál es el tiempo promedio de sueño diario de las hormigas obreras?",
+    "ar": "ما هو متوسط وقت النوم اليومي للنمل العامل؟"
   },
   "story_options": [
-    "Kuşlar",
-    "Timsahlar",
-    "Kertenkeleler"
+    "Hiç uyumazlar",
+    "Yaklaşık 4-5 saat",
+    "Günde sadece 8 dakika"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#bilim",
-    "#dinozor",
-    "#kuşlar",
-    "#ilginçbilgiler",
-    "#hayvanlar"
+    "#Karınca",
+    "#Doğa",
+    "#İlginçBilgiler",
+    "#HayvanlarAlemi",
+    "#Bilim",
+    "#Keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takip et!",
+    "en": "Follow for more surprising facts!",
+    "es": "¡Sígueme para más datos sorprendentes!",
+    "ar": "تابعنا للمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,8 +56,8 @@
     "overall": 9
   },
   "source": {
-    "name": "Natural History Museum",
-    "url": "https://www.nhm.ac.uk/discover/are-birds-dinosaurs.html"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "animals",
   "_language": "tr",

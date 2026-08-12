@@ -285,5 +285,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Kuşlar Zıplayamaz, Sadece Yürür Mü?",
+    "body": "Birçok kuş türü, özellikle de ötücü kuşlar, yerden kalkarken veya hareket ederken iki ayağıyla birden aynı anda zıplar. Ancak anatomik yapıları gereği bazı büyük kuşlar veya yürümeye adapte olmuş türler zıplayamaz; sadece yürür veya koşar. Zıplama davranışı genellikle enerji tasarrufu ve hızlı ivmelenme sağlar.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 8,
+      "shareability": 8,
+      "clarity": 9,
+      "overall": 8
+    }
   }
 ]

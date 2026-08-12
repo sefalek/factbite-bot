@@ -1,63 +1,63 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uykusuzluk Şampiyonu: Karıncalar",
-    "body": "Karıncaların hiç uyumadığını biliyor muydunuz? İşçi karıncalar gün boyunca kısa şekerlemeler yapar ama asla tam anlamıyla derin bir uykuya dalmazlar."
+    "headline": "Kuşlar Zıplayamaz, Sadece Yürür Mü?",
+    "body": "Birçok kuş türü, özellikle de ötücü kuşlar, yerden kalkarken veya hareket ederken iki ayağıyla birden aynı anda zıplar. Ancak anatomik yapıları gereği bazı büyük kuşlar veya yürümeye adapte olmuş türler zıplayamaz; sadece yürür veya koşar. Zıplama davranışı genellikle enerji tasarrufu ve hızlı ivmelenme sağlar."
   },
   "en": {
-    "headline": "The Champions of Insomnia: Ants",
-    "body": "Did you know ants never truly sleep? Worker ants take short power naps throughout the day, but they never experience deep sleep."
+    "headline": "Can't Birds Jump?",
+    "body": "Many bird species, especially passerines, hop with both feet simultaneously when moving on the ground. However, due to anatomical structures, some large birds or ground-dwelling species cannot jump; they only walk or run."
   },
   "es": {
-    "headline": "Los campeones del insomnio: Las hormigas",
-    "body": "¿Sabías que las hormigas nunca duermen realmente? Las hormigas obreras toman siestas cortas durante el día, pero nunca entran en un sueño profundo."
+    "headline": "¿Las aves no pueden saltar?",
+    "body": "Muchas especies de aves, especialmente los paseriformes, saltan con ambos pies simultáneamente al moverse por el suelo. Sin embargo, debido a su estructura anatómica, algunas aves grandes no pueden saltar."
   },
   "ar": {
-    "headline": "أبطال الأرق: النمل",
-    "body": "هل تعلم أن النمل لا ينام حقاً؟ تأخذ النملات العاملة قيلولات قصيرة طوال اليوم، لكنها لا تدخل أبداً في نوم عميق."
+    "headline": "هل الطيور لا تستطيع القفز؟",
+    "body": "العديد من أنواع الطيور تقفز بكلتا قدميها في نفس الوقت عند التحرك على الأرض. ومع ذلك، نظراً للتركيب التشريحي، لا تستطيع بعض الطيور الكبيرة القفز بل تمشي فقط."
   },
   "reel_hook": {
-    "tr": "Bu küçük böcekler hayatları boyunca bir saniye bile uyumuyor!",
-    "en": "These tiny insects don't sleep a single second in their lives!",
-    "es": "¡Estos pequeños insectos no duermen ni un solo segundo en sus vidas!",
-    "ar": "هذه الحشرات الصغيرة لا تننام ولا ثانية واحدة في حياتها!"
+    "tr": "Tüm kuşların zıpladığını mı sanıyorsun? Yanılıyorsun.",
+    "en": "Think all birds can jump? You're wrong.",
+    "es": "¿Crees que todas las aves pueden saltar? Estás equivocado.",
+    "ar": "هل تعتقد أن كل الطيور تستطيع القفز؟ أنت مخطئ."
   },
   "story_question": {
-    "tr": "İşçi karıncaların günlük ortalama uyku süresi ne kadardır?",
-    "en": "What is the average daily sleep time of worker ants?",
-    "es": "¿Cuál es el tiempo promedio de sueño diario de las hormigas obreras?",
-    "ar": "ما هو متوسط وقت النوم اليومي للنمل العامل؟"
+    "tr": "Sence güvercinler zıplar mı yoksa yürür mü?",
+    "en": "Do you think pigeons jump or walk?",
+    "es": "¿Crees que las palomas saltan o caminan?",
+    "ar": "هل تعتقد أن الحمام يقفز أم يمشي؟"
   },
   "story_options": [
-    "Hiç uyumazlar",
-    "Yaklaşık 4-5 saat",
-    "Günde sadece 8 dakika"
+    "Zıplar",
+    "Yürür",
+    "İkisi de"
   ],
   "hashtags": [
     "#FactBite",
-    "#Karınca",
-    "#Doğa",
-    "#İlginçBilgiler",
-    "#HayvanlarAlemi",
-    "#Bilim",
-    "#Keşfet"
+    "#kuşlar",
+    "#doğa",
+    "#hayvanlar",
+    "#bilgi",
+    "#keşfet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takip et!",
-    "en": "Follow for more surprising facts!",
-    "es": "¡Sígueme para más datos sorprendentes!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة!"
+    "tr": "Daha fazla şaşırtıcı doğa gerçeği için takip et!",
+    "en": "Follow for more surprising nature facts!",
+    "es": "¡Síguenos para más datos sorprendentes sobre la naturaleza!",
+    "ar": "اتبع لمزيد من الحقائق الطبيعية المدهشة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "surprise": 8,
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Ornithology and Bird Locomotion Studies",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "animals",
   "_language": "tr",

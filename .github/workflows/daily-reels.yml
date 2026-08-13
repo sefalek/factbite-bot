@@ -1,5 +1,8 @@
 name: FactBite Reels
 on:
+  schedule:
+    - cron: "55 16 13 8 *"
+      timezone: "Europe/Istanbul"
   workflow_dispatch:
 
 permissions:

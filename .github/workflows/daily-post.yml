@@ -130,18 +130,21 @@ jobs:
           python scripts/publish_reel.py 2>&1 | tee /tmp/reel_publish.log
 
       - name: Telegram Reel result notification
-        if: ${{ success() || steps.publish.outcome == 'failure' }}
+        if: ${{ success() || steps.reel_public.outcome == 'failure' || steps.publish.outcome == 'failure' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: ${{ steps.publish.outcome == 'success' && format('✅ FactBite Reel başarıyla Instagram''da yayınlandı.\nKategori: {0}\nRun: https://github.com/{1}/actions/runs/{2}', steps.slot.outputs.category, github.repository, github.run_id) || steps.publish.outcome == 'failure' && format('🚨 FactBite Reel yayınlanamadı.\nAşama: Instagram yayınlama\nKategori: {0}\nRun: https://github.com/{1}/actions/runs/{2}\nDetay: Actions içindeki "Publish Reel to Instagram" adımına bak.', steps.slot.outputs.category, github.repository, github.run_id) || '🎬 FactBite içeriği hazırlandı. Bu saat Reel yayınlama saati değil; Reel yayınlama sonraki Reel slotunda yapılacak.' }}
+          TELEGRAM_MESSAGE: ${{ steps.publish.outcome == 'success' && format('✅ FactBite Reel başarıyla Instagram''da yayınlandı.\nKategori: {0}\nRun: https://github.com/{1}/actions/runs/{2}', steps.slot.outputs.category, github.repository, github.run_id) || steps.publish.outcome == 'failure' && format('🚨 FactBite Reel yayınlanamadı.\nAşama: Instagram yayınlama\nKategori: {0}\nRun: https://github.com/{1}/actions/runs/{2}\nDetay: Actions içindeki "Publish Reel to Instagram" adımına bak.', steps.slot.outputs.category, github.repository, github.run_id) || steps.reel_public.outcome == 'failure' && format('🚨 FactBite Reel yayınlanamadı.\nAşama: Reel dosyasının public URL olması\nKategori: {0}\nRun: https://github.com/{1}/actions/runs/{2}\nDetay: "Wait for generated Reel to become public" adımına bak.', steps.slot.outputs.category, github.repository, github.run_id) || '🎬 FactBite içeriği hazırlandı. Bu saat Reel yayınlama saati değil; Reel yayınlama sonraki Reel slotunda yapılacak.' }}
         run: python scripts/notify_telegram.py
 
       - name: Fail workflow when Reel publish failed
-        if: ${{ steps.publish.outcome == 'failure' }}
+        if: ${{ steps.reel_public.outcome == 'failure' || steps.publish.outcome == 'failure' }}
         run: |
-          echo "Instagram Reel publish failed. Exact command output:"
-          cat /tmp/reel_publish.log || true
+          echo "Instagram Reel publishing pipeline failed."
+          if [ -f /tmp/reel_publish.log ]; then
+            echo "--- Instagram publish output ---"
+            cat /tmp/reel_publish.log
+          fi
           exit 1
 
   notify-failure:

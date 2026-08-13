@@ -1,0 +1,103 @@
+name: FactBite Reel E2E Test
+
+on:
+  push:
+    paths:
+      - .github/workflows/factbite-e2e-reel-test.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: factbite-reel-e2e-test
+  cancel-in-progress: false
+
+jobs:
+  reel-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Reel dependencies
+        run: |
+          pip install pillow arabic_reshaper python-bidi edge-tts
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+
+      - name: Build Reel
+        run: python scripts/build_reel.py
+
+      - name: Prepare unique public Reel asset
+        run: |
+          set -e
+          POST_DIR=$(cat latest_post_dir.txt)
+          REEL_FILE="factbite_e2e_${GITHUB_RUN_ID}.mp4"
+          test -f "$POST_DIR/factbite_reel.mp4"
+          cp "$POST_DIR/factbite_reel.mp4" "$POST_DIR/$REEL_FILE"
+          echo "POST_DIR=$POST_DIR" >> "$GITHUB_ENV"
+          echo "REEL_FILENAME=$REEL_FILE" >> "$GITHUB_ENV"
+
+      - name: Publish generated Reel asset
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$POST_DIR/$REEL_FILENAME"
+          git commit -m "E2E test Reel asset $REEL_FILENAME"
+          git pull --rebase
+          git push origin HEAD:main
+
+      - name: Wait for public Reel URL
+        id: reel_public
+        run: |
+          set -e
+          URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/${REEL_FILENAME}"
+          for i in $(seq 1 24); do
+            CODE=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL?cachebust=${{ github.run_id }}-$i")
+            if [ "$CODE" = "200" ]; then
+              echo "PUBLIC_REEL_URL=$URL" >> "$GITHUB_ENV"
+              echo "Generated Reel is publicly reachable: $URL"
+              exit 0
+            fi
+            sleep 5
+          done
+          echo "Generated Reel asset is not publicly reachable."
+          exit 1
+
+      - name: Publish Reel to Instagram
+        id: publish
+        continue-on-error: true
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: main
+          REEL_FILENAME: ${{ env.REEL_FILENAME }}
+        run: |
+          set -o pipefail
+          python scripts/publish_reel.py 2>&1 | tee /tmp/reel_publish.log
+
+      - name: Telegram result notification
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MESSAGE: ${{ steps.publish.outcome == 'success' && format('✅ FactBite E2E TEST: Reel Instagram''da başarıyla yayınlandı. Run: https://github.com/{0}/actions/runs/{1}', github.repository, github.run_id) || format('🚨 FactBite E2E TEST BAŞARISIZ. Instagram sonucu: {0}. Run: https://github.com/{1}/actions/runs/{2}', steps.publish.outcome, github.repository, github.run_id) }}
+        run: python scripts/notify_telegram.py
+
+      - name: Fail E2E test if Instagram publish failed
+        if: steps.publish.outcome != 'success'
+        run: |
+          echo "Instagram Reel publish failed."
+          cat /tmp/reel_publish.log || true
+          exit 1

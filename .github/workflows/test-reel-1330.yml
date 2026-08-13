@@ -1,0 +1,98 @@
+name: FactBite Reel 13:30 Test
+
+on:
+  schedule:
+    - cron: "30 13 13 8 *"
+      timezone: "Europe/Istanbul"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: factbite-reel-1330-test
+  cancel-in-progress: false
+
+jobs:
+  reel-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Reel dependencies
+        run: |
+          pip install pillow arabic_reshaper python-bidi edge-tts
+          sudo apt-get update -qq
+          sudo apt-get install -y ffmpeg
+
+      - name: Build Reel from today's generated content
+        run: python scripts/build_reel.py
+
+      - name: Publish Reel asset to repository
+        run: |
+          set -e
+          POST_DIR=$(cat latest_post_dir.txt)
+          test -f "$POST_DIR/factbite_reel.mp4"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "$POST_DIR/factbite_reel.mp4"
+          git commit -m "Test: publish FactBite Reel at 13:30" || echo "Reel asset already committed"
+          git pull --rebase
+          git push origin HEAD:main
+
+      - name: Wait for public Reel URL
+        id: reel_public
+        continue-on-error: true
+        run: |
+          set -e
+          POST_DIR=$(cat latest_post_dir.txt)
+          URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/factbite_reel.mp4"
+          for i in $(seq 1 24); do
+            CODE=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL?cachebust=${{ github.run_id }}-$i")
+            if [ "$CODE" = "200" ]; then
+              echo "Generated Reel is publicly reachable."
+              exit 0
+            fi
+            echo "Waiting for raw GitHub asset (HTTP $CODE)..."
+            sleep 5
+          done
+          echo "Generated Reel asset is not publicly reachable."
+          exit 1
+
+      - name: Publish Reel to Instagram
+        id: publish
+        if: steps.reel_public.outcome == 'success'
+        continue-on-error: true
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: main
+          REEL_FILENAME: factbite_reel.mp4
+        run: |
+          set -o pipefail
+          python scripts/publish_reel.py 2>&1 | tee /tmp/reel_publish.log
+
+      - name: Telegram result notification
+        if: always()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_MESSAGE: ${{ steps.publish.outcome == 'success' && format('✅ 13:30 TEST: FactBite Reel Instagram''da başarıyla yayınlandı.\nRun: https://github.com/{0}/actions/runs/{1}', github.repository, github.run_id) || steps.reel_public.outcome == 'failure' && format('🚨 13:30 TEST: Reel public URL aşamasında başarısız.\nRun: https://github.com/{0}/actions/runs/{1}', github.repository, github.run_id) || format('🚨 13:30 TEST: Instagram yayınlama başarısız.\nRun: https://github.com/{0}/actions/runs/{1}\nDetay: Publish Reel to Instagram loguna bak.', github.repository, github.run_id) }}
+        run: python scripts/notify_telegram.py
+
+      - name: Fail test when Instagram publish failed
+        if: steps.reel_public.outcome == 'failure' || steps.publish.outcome != 'success'
+        run: |
+          echo "13:30 Reel test failed."
+          if [ -f /tmp/reel_publish.log ]; then cat /tmp/reel_publish.log; fi
+          exit 1

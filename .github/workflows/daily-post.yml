@@ -93,17 +93,57 @@ jobs:
           git commit -m "Auto: FactBite Reel source ${{ steps.slot.outputs.category }} $(date -u +%F_%H%M)" || echo "nothing to commit"
           git pull --rebase
           git push
-      - name: Publishing is handled by FactBite Reels workflow
+
+      - name: Wait for generated Reel to become public
+        id: reel_public
+        if: ${{ github.event_name == 'schedule' && (github.event.schedule == '17 10 * * *' || github.event.schedule == '17 18 * * *' || github.event.schedule == '17 22 * * *') }}
+        continue-on-error: true
         run: |
-          echo "Carousel and Story publishing are disabled."
-          echo "The FactBite Reels workflow is responsible for Instagram Reel publishing."
-      - name: Telegram success notification
-        if: ${{ success() }}
+          set -e
+          POST_DIR=$(cat latest_post_dir.txt)
+          URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/factbite_reel.mp4"
+          echo "Waiting for generated Reel asset: $URL"
+          for i in $(seq 1 24); do
+            CODE=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL?cachebust=${{ github.run_id }}-$i")
+            if [ "$CODE" = "200" ]; then
+              echo "Generated Reel is publicly reachable."
+              exit 0
+            fi
+            echo "Waiting for raw GitHub asset (HTTP $CODE)..."
+            sleep 5
+          done
+          echo "Generated Reel asset is not publicly reachable."
+          exit 1
+
+      - name: Publish Reel to Instagram
+        id: publish
+        if: ${{ github.event_name == 'schedule' && (github.event.schedule == '17 10 * * *' || github.event.schedule == '17 18 * * *' || github.event.schedule == '17 22 * * *') && steps.reel_public.outcome == 'success' }}
+        continue-on-error: true
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_REF_NAME: main
+          REEL_FILENAME: factbite_reel.mp4
+        run: |
+          set -o pipefail
+          python scripts/publish_reel.py 2>&1 | tee /tmp/reel_publish.log
+
+      - name: Telegram Reel result notification
+        if: ${{ success() || steps.publish.outcome == 'failure' }}
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "🎬 FactBite Reel kaynağı hazırlandı\nKategori: ${{ steps.slot.outputs.category }}\nFormat: ${{ steps.slot.outputs.format }}\nInstagram: Reel workflow'u yayınlayacak\nCarousel/Story: Kapalı"
+          TELEGRAM_MESSAGE: ${{ steps.publish.outcome == 'success' && format('✅ FactBite Reel başarıyla Instagram''da yayınlandı.\nKategori: {0}\nRun: https://github.com/{1}/actions/runs/{2}', steps.slot.outputs.category, github.repository, github.run_id) || steps.publish.outcome == 'failure' && format('🚨 FactBite Reel yayınlanamadı.\nAşama: Instagram yayınlama\nKategori: {0}\nRun: https://github.com/{1}/actions/runs/{2}\nDetay: Actions içindeki "Publish Reel to Instagram" adımına bak.', steps.slot.outputs.category, github.repository, github.run_id) || '🎬 FactBite içeriği hazırlandı. Bu saat Reel yayınlama saati değil; Reel yayınlama sonraki Reel slotunda yapılacak.' }}
         run: python scripts/notify_telegram.py
+
+      - name: Fail workflow when Reel publish failed
+        if: ${{ steps.publish.outcome == 'failure' }}
+        run: |
+          echo "Instagram Reel publish failed. Exact command output:"
+          cat /tmp/reel_publish.log || true
+          exit 1
+
   notify-failure:
     if: ${{ needs.post.result == 'failure' && needs.post.outputs.quota_exhausted != 'true' }}
     needs: [post]

@@ -360,5 +360,20 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Kargaların Yüzleri Unutmama Yeteneği",
+    "body": "Kargalar, kendilerine kötülük yapan insanları yıllarca hatta nesiller boyunca unutmazlar. Bilimsel deneyler, bu akıllı kuşların insan yüzlerini hafızalarına kazıdığını ve çevrelerine yabancıları bile uyardığını gösteriyor.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

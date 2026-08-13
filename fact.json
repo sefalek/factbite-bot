@@ -1,63 +1,63 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Filler Neden Zıplayamaz?",
-    "body": "Dünyanın en büyük kara memelilerinden olan filler, devasa ağırlıkları ve bacak anatomileri nedeniyle havaya kalkamazlar. Koştuklarında bile her zaman yere basan en az bir ayakları bulunur, bu yüzden fiziksel olarak zıplamak onlar için imkansızdır."
+    "headline": "Kargaların Yüzleri Unutmama Yeteneği",
+    "body": "Kargalar, kendilerine kötülük yapan insanları yıllarca hatta nesiller boyunca unutmazlar. Bilimsel deneyler, bu akıllı kuşların insan yüzlerini hafızalarına kazıdığını ve çevrelerine yabancıları bile uyardığını gösteriyor."
   },
   "en": {
-    "headline": "Why Can't Elephants Jump?",
-    "body": "As the world's largest land mammals, elephants cannot leave the ground due to their massive weight and leg anatomy. Even when running, they always keep at least one foot on the ground, making physical jumping impossible for them."
+    "headline": "Crows Never Forget a Human Face",
+    "body": "Crows remember humans who have wronged them for years, even across generations. Scientific experiments show that these smart birds etch human faces into their memory and even warn others."
   },
   "es": {
-    "headline": "¿Por qué los elefantes no pueden saltar?",
-    "body": "Como los mamíferos terrestres más grandes del mundo, los elefantes no pueden despegarse del suelo debido a su enorme peso y anatomía de las patas. Incluso al correr, siempre mantienen al menos un pie en el suelo, lo que hace que saltar sea físicamente imposible para ellos."
+    "headline": "Los cuervos nunca olvidan un rostro humano",
+    "body": "Los cuervos recuerdan a los humanos que les han hecho daño durante años, incluso a través de generaciones. Experimentos científicos muestran que estas aves inteligentes graban rostros humanos en su memoria."
   },
   "ar": {
-    "headline": "لماذا لا تستطيع الفيلة القفز؟",
-    "body": "باعتبارها أكبر الثدييات البرية في العالم، لا تستطيع الفيلة مغادرة الأرض بسبب وزنها الهائل وتكوين أرجلها. حتى عند الركض، فإنها تحافظ دائماً على قدم واحدة على الأ الأرض على الأقل، مما يجعل القفز أمراً مستحيلاً."
+    "headline": "الغراب لا ينسى وجه الإنسان أبداً",
+    "body": "تتذكر الغربان البشر الذين أساءوا إليهم لسنوات، حتى عبر الأجيال. تظهر التجارب العلمية أن هذه الطيور الذكية تحفر وجوه البشر في ذاكرتها."
   },
   "reel_hook": {
-    "tr": "Tonlarca ağırlıktaki bir filin zıpladığını hiç gördünüz mü?",
-    "en": "Have you ever seen an elephant jump?",
-    "es": "¿Alguna vez has visto saltar a un elefante?",
-    "ar": "هل رأيت فيلاً يقفز من قبل؟"
+    "tr": "Seni asla unutmayacak ve nesiller boyu hedef alacak bir kuş var!",
+    "en": "There is a bird that will never forget you and will target you for generations!",
+    "es": "¡Hay un ave que nunca te olvidará y te tendrá en la mira por generaciones!",
+    "ar": "هناك طائر لن ينساه أبداً وسيستهدفك لأجيال!"
   },
   "story_question": {
-    "tr": "Fillerin zıplayamamasının temel sebebi sizce nedir?",
-    "en": "What do you think is the main reason elephants can't jump?",
-    "es": "¿Cuál crees que es la razón principal por la que los elefantes no pueden saltar?",
-    "ar": "ما هو السبب الرئيسي برأيك وراء عدم قدرة الفيلة على القفز؟"
+    "tr": "Sence kargalar insan yüzlerini nasıl bu kadar uzun süre aklında tutuyor?",
+    "en": "How do you think crows remember human faces for so long?",
+    "es": "¿Cómo crees que los cuervos recuerdan los rostros humanos por tanto tiempo?",
+    "ar": "كيف تعتقد أن الغربان تتذكر وجوه البشر لفترة طويلة جداً؟"
   },
   "story_options": [
-    "Kas yapıları",
-    "Ağırlık ve kemik yapısı",
-    "Korku duymaları"
+    "Gelişmiş beyin korteksiyle",
+    "Sosyal öğrenme ve nesilden nesile aktarımla",
+    "Fotoğraf hafızası sağlayan özel bir göz yapısıyla"
   ],
   "hashtags": [
     "#FactBite",
-    "#fil",
+    "#karga",
     "#doğa",
-    "#bilgi",
     "#hayvanlar",
+    "#bilim",
     "#ilginçbilgiler",
-    "#vahşiyaşam"
+    "#hafıza"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip et!",
-    "en": "Follow for more amazing facts like this!",
-    "es": "¡Sígueme para más datos increíbles como este!",
-    "ar": "اتبع لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bu yüzden kargalarla iyi geçinsen iyi olur! Daha fazlası için takip et.",
+    "en": "So you better stay on good terms with crows! Follow for more.",
+    "es": "¡Así que es mejor que te lleves bien con los cuervos! Síguenos para más.",
+    "ar": "لذا من الأفضل أن تكون على علاقة جيدة مع الغربان! تابعنا للمزيد."
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "University of Washington Crow Lab",
+    "url": "https://www.washington.edu"
   },
   "_category": "animals",
   "_language": "tr",

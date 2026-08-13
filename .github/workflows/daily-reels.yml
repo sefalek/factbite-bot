@@ -1,12 +1,5 @@
 name: FactBite Reels
 on:
-  schedule:
-    - cron: "17 9 * * *"
-      timezone: "Europe/Istanbul"
-    - cron: "17 19 * * *"
-      timezone: "Europe/Istanbul"
-    - cron: "17 23 * * *"
-      timezone: "Europe/Istanbul"
   workflow_dispatch:
 
 permissions:
@@ -50,8 +43,6 @@ jobs:
           echo "Unique Reel asset: $POST_DIR/$REEL_FILE"
 
       - name: Publish generated Reel asset to repository
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
           POST_DIR=$(cat latest_post_dir.txt)

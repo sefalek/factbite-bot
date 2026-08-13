@@ -1,62 +1,63 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Zıplayamaz, Sadece Yürür Mü?",
-    "body": "Birçok kuş türü iki ayağı üzerinde hareket ederken neden zıplamak yerine yürümeyi veya koşmayı tercih eder? Bilim insanları bunun anatomi ve enerji tasarrufuyla ilgili olduğunu gösteriyor."
+    "headline": "Filler Neden Zıplayamaz?",
+    "body": "Dünyanın en büyük kara memelilerinden olan filler, devasa ağırlıkları ve bacak anatomileri nedeniyle havaya kalkamazlar. Koştuklarında bile her zaman yere basan en az bir ayakları bulunur, bu yüzden fiziksel olarak zıplamak onlar için imkansızdır."
   },
   "en": {
-    "headline": "Can't Birds Jump, Do They Only Walk?",
-    "body": "Why do many bird species prefer walking or running instead of jumping when moving on two legs? Scientists show this is related to anatomy and energy conservation."
+    "headline": "Why Can't Elephants Jump?",
+    "body": "As the world's largest land mammals, elephants cannot leave the ground due to their massive weight and leg anatomy. Even when running, they always keep at least one foot on the ground, making physical jumping impossible for them."
   },
   "es": {
-    "headline": "¿Las aves no pueden saltar y solo caminan?",
-    "body": "¿Por qué muchas especies de aves prefieren caminar o correr en lugar de saltar? Los científicos demuestran que esto está relacionado con la anatomía y el ahorro de energía."
+    "headline": "¿Por qué los elefantes no pueden saltar?",
+    "body": "Como los mamíferos terrestres más grandes del mundo, los elefantes no pueden despegarse del suelo debido a su enorme peso y anatomía de las patas. Incluso al correr, siempre mantienen al menos un pie en el suelo, lo que hace que saltar sea físicamente imposible para ellos."
   },
   "ar": {
-    "headline": "ألا تستطيع الطيور القفز وتمشي فقط؟",
-    "body": "لماذا تفضل العديد من أنواع الطيور المشي أو الجري بدلاً من القفز؟ يظهر العلماء أن هذا مرتبط بالتشريح وتوفير الطاقة."
+    "headline": "لماذا لا تستطيع الفيلة القفز؟",
+    "body": "باعتبارها أكبر الثدييات البرية في العالم، لا تستطيع الفيلة مغادرة الأرض بسبب وزنها الهائل وتكوين أرجلها. حتى عند الركض، فإنها تحافظ دائماً على قدم واحدة على الأ الأرض على الأقل، مما يجعل القفز أمراً مستحيلاً."
   },
   "reel_hook": {
-    "tr": "Tüm kuşlar uçabilir ama ya zıplamak? Aslında bazıları bunu hiç yapamaz.",
-    "en": "All birds can fly, but what about jumping? Actually, some of them can't do it at all.",
-    "es": "Todas las aves pueden volar, ¿pero qué pasa con los saltos? De hecho, algunas nunca pueden hacerlo.",
-    "ar": "كل الطيور تستطيع الطيران، ولكن ماذا عن القفز؟ في الواقع، بعضها لا يستطيع فعل ذلك أبداً."
+    "tr": "Tonlarca ağırlıktaki bir filin zıpladığını hiç gördünüz mü?",
+    "en": "Have you ever seen an elephant jump?",
+    "es": "¿Alguna vez has visto saltar a un elefante?",
+    "ar": "هل رأيت فيلاً يقفز من قبل؟"
   },
   "story_question": {
-    "tr": "Hangi kuş grubu zıplamak yerine sürekli yürümeyi tercih eder?",
-    "en": "Which bird group prefers walking constantly instead of jumping?",
-    "es": "¿Qué grupo de aves prefiere caminar constantemente en lugar de saltar?",
-    "ar": "أي مجموعة من الطيور تفضل المشي باستمرار بدلاً من القفز؟"
+    "tr": "Fillerin zıplayamamasının temel sebebi sizce nedir?",
+    "en": "What do you think is the main reason elephants can't jump?",
+    "es": "¿Cuál crees que es la razón principal por la que los elefantes no pueden saltar?",
+    "ar": "ما هو السبب الرئيسي برأيك وراء عدم قدرة الفيلة على القفز؟"
   },
   "story_options": [
-    "Ötücü kuşlar",
-    "Yırtıcı kuşlar",
-    "Su kuşları"
+    "Kas yapıları",
+    "Ağırlık ve kemik yapısı",
+    "Korku duymaları"
   ],
   "hashtags": [
     "#FactBite",
+    "#fil",
     "#doğa",
-    "#kuşlar",
-    "#bilim",
+    "#bilgi",
     "#hayvanlar",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#vahşiyaşam"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı doğa gerçeği için takip et!",
-    "en": "Follow for more surprising nature facts!",
-    "es": "¡Síguenos para más datos sorprendentes sobre la naturaleza!",
-    "ar": "تابعنا لمزيد من حقائق الطبيعة المدهشة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip et!",
+    "en": "Follow for more amazing facts like this!",
+    "es": "¡Sígueme para más datos increíbles como este!",
+    "ar": "اتبع لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.5
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology Science",
-    "url": "https://www.sciencedirect.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "animals",
   "_language": "tr",

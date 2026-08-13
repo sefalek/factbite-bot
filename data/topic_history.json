@@ -345,5 +345,20 @@
       "clarity": 9,
       "overall": 8.5
     }
+  },
+  {
+    "language": "tr",
+    "category": "animals",
+    "topic": "",
+    "headline": "Filler Neden Zıplayamaz?",
+    "body": "Dünyanın en büyük kara memelilerinden olan filler, devasa ağırlıkları ve bacak anatomileri nedeniyle havaya kalkamazlar. Koştuklarında bile her zaman yere basan en az bir ayakları bulunur, bu yüzden fiziksel olarak zıplamak onlar için imkansızdır.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 8,
+      "clarity": 10,
+      "overall": 9
+    }
   }
 ]

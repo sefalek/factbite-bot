@@ -1,13 +1,24 @@
 name: FactBite Reels
 
 on:
-  push:
-    paths:
-      - ".github/workflows/daily-reels.yml"
-  workflow_dispatch:
   schedule:
-    - cron: "20 18 13 8 *"
+    - cron: "12 8 * * *"
       timezone: "Europe/Istanbul"
+    - cron: "15 9 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "13 11 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "20 14 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "3 16 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "0 18 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "0 22 * * *"
+      timezone: "Europe/Istanbul"
+    - cron: "40 23 * * *"
+      timezone: "Europe/Istanbul"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -19,18 +30,15 @@ concurrency:
 jobs:
   reel:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 1
 
       - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install Reel dependencies
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -47,32 +55,53 @@ jobs:
       - name: Give Reel a unique public asset name
         run: |
           set -e
+
           POST_DIR=$(cat latest_post_dir.txt)
           REEL_FILE="factbite_reel_${GITHUB_RUN_ID}.mp4"
+
           test -f "$POST_DIR/factbite_reel.mp4"
+
           cp "$POST_DIR/factbite_reel.mp4" "$POST_DIR/$REEL_FILE"
+
+          echo "POST_DIR=$POST_DIR" >> "$GITHUB_ENV"
           echo "REEL_FILENAME=$REEL_FILE" >> "$GITHUB_ENV"
 
       - name: Publish generated Reel asset to repository
         run: |
           set -e
-          POST_DIR=$(cat latest_post_dir.txt)
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add "$POST_DIR/$REEL_FILENAME"
-          git commit -m "Publish generated FactBite Reel asset $REEL_FILENAME"
+
+          git commit \
+            -m "Publish generated FactBite Reel asset $REEL_FILENAME"
+
           git push origin HEAD:main
 
       - name: Wait for public Reel URL
         run: |
           set -e
-          POST_DIR=$(cat latest_post_dir.txt)
+
           URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/${REEL_FILENAME}"
+
           for i in $(seq 1 12); do
-            CODE=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL?cachebust=${{ github.run_id }}-$i")
-            if [ "$CODE" = "200" ]; then exit 0; fi
+            CODE=$(curl -L -s \
+              -o /dev/null \
+              -w "%{http_code}" \
+              "$URL?cachebust=${{ github.run_id }}-$i")
+
+            if [ "$CODE" = "200" ]; then
+              echo "Reel is publicly reachable."
+              exit 0
+            fi
+
+            echo "Waiting for public Reel... HTTP $CODE"
             sleep 5
           done
+
+          echo "Reel asset is not publicly reachable."
           exit 1
 
       - name: Publish Reel to Instagram
@@ -86,6 +115,7 @@ jobs:
           REEL_FILENAME: ${{ env.REEL_FILENAME }}
         run: |
           set -o pipefail
+
           python scripts/publish_reel.py 2>&1 | tee /tmp/reel_publish.log
 
       - name: Send Telegram result
@@ -94,10 +124,16 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           TELEGRAM_MESSAGE: "FactBite Reel sonucu: Instagram=${{ steps.publish.outcome }} | Run=https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
-        run: python scripts/notify_telegram.py
+        run: |
+          python scripts/notify_telegram.py
 
       - name: Fail if Instagram publish failed
         if: steps.publish.outcome != 'success'
         run: |
-          cat /tmp/reel_publish.log || true
+          echo "Instagram Reel publish failed."
+
+          if [ -f /tmp/reel_publish.log ]; then
+            cat /tmp/reel_publish.log
+          fi
+
           exit 1

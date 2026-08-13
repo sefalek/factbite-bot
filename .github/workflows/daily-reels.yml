@@ -1,10 +1,13 @@
 name: FactBite Reels
 
 on:
+  push:
+    paths:
+      - ".github/workflows/daily-reels.yml"
+  workflow_dispatch:
   schedule:
     - cron: "20 18 13 8 *"
       timezone: "Europe/Istanbul"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -23,6 +26,11 @@ jobs:
           fetch-depth: 1
 
       - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Reel dependencies
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
@@ -85,7 +93,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "FactBite 18:20 testi sonucu: Instagram=${{ steps.publish.outcome }} | Run=https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          TELEGRAM_MESSAGE: "FactBite Reel sonucu: Instagram=${{ steps.publish.outcome }} | Run=https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         run: python scripts/notify_telegram.py
 
       - name: Fail if Instagram publish failed

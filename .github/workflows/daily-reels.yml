@@ -51,6 +51,34 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y ffmpeg
 
+      - name: Select Reel language
+        env:
+          SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          case "$SCHEDULE" in
+            "12 8 * * *")  LANG=tr ;;
+            "15 9 * * *")  LANG=en ;;
+            "13 11 * * *") LANG=es ;;
+            "20 14 * * *") LANG=ar ;;
+            "3 16 * * *")  LANG=tr ;;
+            "0 18 * * *")  LANG=en ;;
+            "5 20 * * *")  LANG=es ;;
+            "0 22 * * *")  LANG=ar ;;
+            "40 23 * * *") LANG=tr ;;
+            *) LANG=tr ;;
+          esac
+          echo "LANGUAGE=$LANG" >> "$GITHUB_ENV"
+          echo "Reel target language: $LANG"
+
+      - name: Generate a fresh Reel topic
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          CATEGORY: general
+          CONTENT_FORMAT: reel
+          LANGUAGE: ${{ env.LANGUAGE }}
+          TOPIC: ""
+        run: python scripts/generate_content.py
+
       - name: Build premium Reel
         run: python scripts/build_reel.py
 
@@ -64,13 +92,13 @@ jobs:
           echo "POST_DIR=$POST_DIR" >> "$GITHUB_ENV"
           echo "REEL_FILENAME=$REEL_FILE" >> "$GITHUB_ENV"
 
-      - name: Publish generated Reel asset to repository
+      - name: Publish generated Reel asset and topic history
         run: |
           set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add "$POST_DIR/$REEL_FILENAME"
-          git commit -m "Publish generated FactBite Reel asset $REEL_FILENAME"
+          git add fact.json data/topic_history.json latest_post_dir.txt "$POST_DIR/$REEL_FILENAME"
+          git commit -m "Publish fresh FactBite Reel $REEL_FILENAME" || echo "nothing to commit"
           git push origin HEAD:main
 
       - name: Wait for public Reel URL
@@ -79,7 +107,11 @@ jobs:
           URL="https://raw.githubusercontent.com/${{ github.repository }}/main/${POST_DIR}/${REEL_FILENAME}"
           for i in $(seq 1 12); do
             CODE=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL?cachebust=${{ github.run_id }}-$i")
-            if [ "$CODE" = "200" ]; then exit 0; fi
+            if [ "$CODE" = "200" ]; then
+              echo "Reel is publicly reachable."
+              exit 0
+            fi
+            echo "Waiting for public Reel... HTTP $CODE"
             sleep 5
           done
           exit 1
@@ -102,12 +134,14 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TELEGRAM_MESSAGE: "FactBite Reel sonucu: Instagram=${{ steps.publish.outcome }} | Run=https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          TELEGRAM_MESSAGE: "FactBite Reel sonucu: Instagram=${{ steps.publish.outcome }} | Dil=${{ env.LANGUAGE }} | Run=https://github.com/${{ github.repository }}/actions/runs/${{ github.run_id }}"
         run: python scripts/notify_telegram.py
 
       - name: Fail if Instagram publish failed
         if: steps.publish.outcome != 'success'
         run: |
           echo "Instagram Reel publish failed."
-          if [ -f /tmp/reel_publish.log ]; then cat /tmp/reel_publish.log; fi
+          if [ -f /tmp/reel_publish.log ]; then
+            cat /tmp/reel_publish.log
+          fi
           exit 1

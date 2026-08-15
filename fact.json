@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Keçiler Aslında Dikdörtgen Göz Bebeklerine Sahiptir",
-    "body": "Hiç bir keçinin gözlerinin içine yakından baktınız mı? Yatay ve dikdörtgen şeklindeki göz bebekleri, onlara yatay düzlemde yaklaşık 320 derecelik inanılmaz bir görüş alanı sağlar. Bu sayede başlarını çevirmeden neredeyse arkalarını bile görebilirler. Bu biyolojik harika, otçul bir hayvanın avcıları uzaktan fark edip kaçması için doğanın sunduğu kusursuz bir savunma mekanizmasıdır."
+    "headline": "Mantarlar Aslında Ağaçların İnternetidir",
+    "body": "Ormanda yürürken ayak basmadığınız bir yer altı ağı var. 'Wood Wide Web' olarak bilinen bu devasa mantar ağı, ağaçların birbirleriyle iletişim kurmasını, karbon paylaşmasını ve hatta tehlikeleri birbirine haber vermesini sağlar."
   },
   "en": {
-    "headline": "Goats Actually Have Rectangular Pupils",
-    "body": "Have you ever looked closely into a goat's eyes? Their horizontal, rectangular pupils give them an incredible field of vision of about 320 degrees on a horizontal plane. This allows them to see almost behind them without turning their heads. This biological marvel is nature's perfect defense mechanism for a herbivore to spot predators from afar and escape."
+    "headline": "Fungi Are Actually the Internet of Trees",
+    "body": "When walking in a forest, there is an underground network beneath your feet. Known as the 'Wood Wide Web,' this massive fungal network allows trees to communicate, share carbon, and even warn each other of danger."
   },
   "es": {
-    "headline": "Las Cabras Tienen Pupilas Rectangulares",
-    "body": "¿Alguna vez has mirado de cerca los ojos de una cabra? Sus pupilas horizontales y rectangulares les otorgan un campo de visión increíble de unos 320 grados en un plano horizontal. Esto les permite ver casi detrás de ellos sin girar la cabeza. Esta maravilla biológica es el mecanismo de defensa perfecto de la naturaleza para que un herbívoro detecte depredadores desde lejos."
+    "headline": "Los hongos son en realidad el internet de los árboles",
+    "body": "Al caminar por un bosque, hay una red subterránea bajo tus pies. Conocida como la 'Wood Wide Web', esta enorme red fúngica permite que los árboles se comuniquen, compartan carbono e incluso se adviertan sobre peligros."
   },
   "ar": {
-    "headline": "للدماع بؤبان مستطيلة في الواقع",
-    "body": "هل نظرت عن قرب إلى عيون الماعز من قبل؟ بؤبؤها الأفقي والمستطيل يمنحها مجال رؤية مذهل يبلغ حوالي 320 درجة على مستوى أفقي. هذا يسمح لها برؤية ما خلفها تقريباً دون إدارة رؤوسها. هذه الأعجوبة البيولوجية هي آلية دفاع طبيعية مثالية للحيوانات العاشبة لرصد الحيوانات المفترسة من بعيد والهروب."
+    "headline": "الفطريات هي في الواقع إنترنت الأشجار",
+    "body": "عند المشي في الغابة، توجد شبكة تحت الأرض تحت قدميك. تُعرف هذه الشبكة الفطرية الهائلة باسم 'شبكة الغابات الواسعة'، وهي تتيح للأشجار التواصل ومشاركة الكربون وحتى تحذير بعضها البعض من الخطر."
   },
   "reel_hook": {
-    "tr": "Neden bir keçinin gözüne baktığınızda dünyanız değişir?",
-    "en": "Why does your world change when you look into a goat's eye?",
-    "es": "¿Por qué cambia tu mundo cuando miras a los ojos de una cabra?",
-    "ar": "لماذا يتغير عالمك عندما تنظر في عين الماعز؟"
+    "tr": "Ormandaki ağaçların mesajlaşabildiğini biliyor muydunuz?",
+    "en": "Did you know that trees in a forest can text each other?",
+    "es": "¿Sabías que los árboles en un bosque pueden enviarse mensajes?",
+    "ar": "هل تعلم أن الأشجار في الغابة يمكنها مراسلة بعضها البعض؟"
   },
   "story_question": {
-    "tr": "Keçilerin bu özel dikdörtgen göz bebekleri onlara yatayda kaç derecelik görüş alanı sağlar?",
-    "en": "How many degrees of horizontal field of vision do goats' special rectangular pupils give them?",
-    "es": "¿Cuántos grados de campo de visión horizontal les otorgan las pupilas rectangulares a las cabras?",
-    "ar": "كم عدد درجات مجال الرؤية الأفقي التي تمنحها بؤبؤ الماعز المستطيلة الخاصة لها؟"
+    "tr": "Bu yer altı mantar ağı ağaçlara en çok hangi konuda yardım eder?",
+    "en": "What is the primary help this underground fungal network provides to trees?",
+    "es": "¿Cuál es la ayuda principal que esta red fúngica subterránea brinda a los árboles?",
+    "ar": "ما هي المساعدة الأساسية التي تقدمها هذه الشبكة الفطرية تحت الأرض للأشجار؟"
   },
   "story_options": [
-    "180 derece",
-    "320 derece",
-    "360 derece"
+    "Besin ve uyarı paylaşımı",
+    "Sadece su taşınması",
+    "Ağaç köklerini sabitleme"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
     "#doğa",
-    "#hayvanlar",
-    "#ilginçbilgiler",
-    "#biyoloji"
+    "#bilim",
+    "#orman",
+    "#mantar",
+    "#ağaç",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu bildiğini muhtemelen unutacak olan bir arkadaşına gönder!",
-    "en": "Send this to a friend who will probably forget they knew this!",
-    "es": "¡Envíaselo a un amigo que probablemente olvidará esto!",
-    "ar": "أرسل هذا إلى صديق سيُنسى على الأرجح أنه كان يعرف هذا!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/science/article/goats-eyes-rectangular-pupils"
+    "name": "Suzanne Simard / Forest Ecology",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180ebd680/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Keçiler Aslında Dikdörtgen Göz Bebeklerine Sahiptir",
+  "_topic": "Mantarlar Aslında Ağaçların İnternetidir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-15T17:29:03.806212+00:00",
+  "generated_at": "2026-08-15T20:56:57.011571+00:00",
   "topic_guard_days": 180
 }

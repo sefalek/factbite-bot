@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ay'ın Kokusu Var Mı?",
-    "body": "Apollo astronotları uzay yürüyüşünden dönüp ay tozunu ay modülüne taşıdıklarında şaşırtıcı bir şey fark ettiler: Ay toprağı keskin bir şekilde baruta kokuyordu. Tabii ki bu koku atmosferi olmayan Ay'ın kendi havasından değil, uzay boşluğundan tulumlarına yapışan ince tozların burun içindeki nemle tepkimeye girmesinden kaynaklanıyordu."
+    "headline": "Ağaçlar Birbiriyle Konuşur mu?",
+    "body": "Ormanın derinliklerinde, ağaçların görünmeyen bir interneti var. Mantarlar aracılığıyla birbirleriyle mesajlaşır, tehlike anında besin ve uyarı gönderirler."
   },
   "en": {
-    "headline": "Does the Moon Have a Smell?",
-    "body": "When Apollo astronauts returned from spacewalks and brought lunar dust into the module, they noticed something surprising: the moon soil smelled sharply of spent gunpowder. This scent wasn't from an atmosphere, but from fine dust reacting with moisture inside their noses."
+    "headline": "Do Trees Talk to Each Other?",
+    "body": "Deep in the forest, trees share an invisible internet. Through fungi, they send messages, nutrients, and warnings to each other when danger arises."
   },
   "es": {
-    "headline": "¿Tiene la Luna un Olor?",
-    "body": "Cuando los astronautas del Apolo regresaron de las caminatas espaciales y trajeron polvo lunar al módulo, notaron algo sorprendente: el suelo lunar olía fuertemente a pólvora quemada. Este aroma no provenía de una atmósfera, sino del polvo fino reaccionando con la humedad dentro de sus narices."
+    "headline": "¿Los árboles hablan entre sí?",
+    "body": "En lo profundo del bosque, los árboles comparten un internet invisible. A través de hongos, se comunican, envían nutrientes y alertas cuando hay peligro."
   },
   "ar": {
-    "headline": "هل للقمر رائحة؟",
-    "body": "عندما عاد رواد فضاء أبولو من السير في الفضاء وأحضرا غبار القمر إلى الوحدة، لاحظوا شيئاً مذهلاً: تربة القمر كانت رائحتها تشبه البارود المحترق. لم تكن هذه الرائحة من الغلاف الجوي، بل من تفاعل الغبار الناعم مع الرطوبة داخل أنوفهم."
+    "headline": "هل تتواصل الأشجار فيما بينها؟",
+    "body": "في أعماق الغابة، تشترك الأشجار في شبكة إنترنت خفية. من خلال الفطريات، تتبادل الرسائل والمغذيات والتحذيرات عند ظهور الخطر."
   },
   "reel_hook": {
-    "tr": "Astronotlar Ay'ın barut gibi koktuğunu söylüyor, ama nasıl?",
-    "en": "Astronauts say the Moon smells like gunpowder, but how?",
-    "es": "Los astronautas dicen que la Luna huele a pólvora, ¿pero cómo?",
-    "ar": "يقول رواد الفضاء أن رائحة القمر تشبه البارود، فكيف ذلك؟"
+    "tr": "Ormandaki ağaçların mesajlaşabildiğini biliyor muydunuz?",
+    "en": "Did you know trees in the forest can text each other?",
+    "es": "¿Sabías que los árboles del bosque pueden enviarse mensajes?",
+    "ar": "هل تعلم أن الأشجار في الغابة يمكنها مراسلة بعضها البعض؟"
   },
   "story_question": {
-    "tr": "Sizce Ay toprağının kokusu Dünya'da neye benzetilmiştir?",
-    "en": "What do you think lunar soil's smell is compared to on Earth?",
-    "es": "¿A qué crees que se compara el olor del suelo lunar en la Tierra?",
-    "ar": "برأيك، ما الذي تشبهه رائحة تربة القمر على الأرض؟"
+    "tr": "Ağaçların bu iletişim ağına ne ad verilir?",
+    "en": "What is this communication network of trees called?",
+    "es": "¿Cómo se llama esta red de comunicación de los árboles?",
+    "ar": "ماذا يسمى شبكة الاتصال هذه بين الأشجار؟"
   },
   "story_options": [
-    "Yanık barut",
-    "Islak toprak",
-    "Metal pası"
+    "Wood Wide Web",
+    "Root Net",
+    "Forest Wi-Fi"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
-    "#bilim",
-    "#astronomi",
-    "#ay",
-    "#apollo",
-    "#ilginçbilgiler"
+    "#nature",
+    "#trees",
+    "#science",
+    "#bosque",
+    "#arboles",
+    "#curiosidades"
   ],
   "cta": {
-    "tr": "Benzer uzay sırları için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more space secrets!",
-    "es": "¡No olvides seguirnos para más secretos espaciales!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الفضاء!"
+    "tr": "Benzer şaşırtıcı gerçekler için takip et!",
+    "en": "Follow for more surprising facts!",
+    "es": "¡Sígueme para más datos sorprendentes!",
+    "ar": "اتبع لمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "NASA",
-    "url": "https://www.nasa.gov/mission_pages/apollo/revisiting-the-lunar-smell.html"
+    "name": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180ef6809/"
   },
   "_category": "general",
-  "_language": "tr",
-  "_topic": "Ay'ın Kokusu Var Mı?",
+  "_language": "es",
+  "_topic": "¿Los árboles hablan entre sí?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-15T05:39:34.317924+00:00",
+  "generated_at": "2026-08-15T08:45:01.479226+00:00",
   "topic_guard_days": 180
 }

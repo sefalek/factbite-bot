@@ -375,5 +375,21 @@
       "clarity": 10,
       "overall": 9
     }
+  },
+  {
+    "language": "tr",
+    "category": "general",
+    "topic": "Ay'ın Kokusu Var Mı?",
+    "headline": "Ay'ın Kokusu Var Mı?",
+    "body": "Apollo astronotları uzay yürüyüşünden dönüp ay tozunu ay modülüne taşıdıklarında şaşırtıcı bir şey fark ettiler: Ay toprağı keskin bir şekilde baruta kokuyordu. Tabii ki bu koku atmosferi olmayan Ay'ın kendi havasından değil, uzay boşluğundan tulumlarına yapışan ince tozların burun içindeki nemle tepkimeye girmesinden kaynaklanıyordu.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 8,
+      "clarity": 9,
+      "overall": 9
+    },
+    "generated_at": "2026-08-15T05:39:34.317924+00:00"
   }
 ]

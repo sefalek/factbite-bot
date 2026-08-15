@@ -1,67 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kargaların Yüzleri Unutmama Yeteneği",
-    "body": "Kargalar, kendilerine kötülük yapan insanları yıllarca hatta nesiller boyunca unutmazlar. Bilimsel deneyler, bu akıllı kuşların insan yüzlerini hafızalarına kazıdığını ve çevrelerine yabancıları bile uyardığını gösteriyor."
+    "headline": "Ay'ın Kokusu Var Mı?",
+    "body": "Apollo astronotları uzay yürüyüşünden dönüp ay tozunu ay modülüne taşıdıklarında şaşırtıcı bir şey fark ettiler: Ay toprağı keskin bir şekilde baruta kokuyordu. Tabii ki bu koku atmosferi olmayan Ay'ın kendi havasından değil, uzay boşluğundan tulumlarına yapışan ince tozların burun içindeki nemle tepkimeye girmesinden kaynaklanıyordu."
   },
   "en": {
-    "headline": "Crows Never Forget a Human Face",
-    "body": "Crows remember humans who have wronged them for years, even across generations. Scientific experiments show that these smart birds etch human faces into their memory and even warn others."
+    "headline": "Does the Moon Have a Smell?",
+    "body": "When Apollo astronauts returned from spacewalks and brought lunar dust into the module, they noticed something surprising: the moon soil smelled sharply of spent gunpowder. This scent wasn't from an atmosphere, but from fine dust reacting with moisture inside their noses."
   },
   "es": {
-    "headline": "Los cuervos nunca olvidan un rostro humano",
-    "body": "Los cuervos recuerdan a los humanos que les han hecho daño durante años, incluso a través de generaciones. Experimentos científicos muestran que estas aves inteligentes graban rostros humanos en su memoria."
+    "headline": "¿Tiene la Luna un Olor?",
+    "body": "Cuando los astronautas del Apolo regresaron de las caminatas espaciales y trajeron polvo lunar al módulo, notaron algo sorprendente: el suelo lunar olía fuertemente a pólvora quemada. Este aroma no provenía de una atmósfera, sino del polvo fino reaccionando con la humedad dentro de sus narices."
   },
   "ar": {
-    "headline": "الغراب لا ينسى وجه الإنسان أبداً",
-    "body": "تتذكر الغربان البشر الذين أساءوا إليهم لسنوات، حتى عبر الأجيال. تظهر التجارب العلمية أن هذه الطيور الذكية تحفر وجوه البشر في ذاكرتها."
+    "headline": "هل للقمر رائحة؟",
+    "body": "عندما عاد رواد فضاء أبولو من السير في الفضاء وأحضرا غبار القمر إلى الوحدة، لاحظوا شيئاً مذهلاً: تربة القمر كانت رائحتها تشبه البارود المحترق. لم تكن هذه الرائحة من الغلاف الجوي، بل من تفاعل الغبار الناعم مع الرطوبة داخل أنوفهم."
   },
   "reel_hook": {
-    "tr": "Seni asla unutmayacak ve nesiller boyu hedef alacak bir kuş var!",
-    "en": "There is a bird that will never forget you and will target you for generations!",
-    "es": "¡Hay un ave que nunca te olvidará y te tendrá en la mira por generaciones!",
-    "ar": "هناك طائر لن ينساه أبداً وسيستهدفك لأجيال!"
+    "tr": "Astronotlar Ay'ın barut gibi koktuğunu söylüyor, ama nasıl?",
+    "en": "Astronauts say the Moon smells like gunpowder, but how?",
+    "es": "Los astronautas dicen que la Luna huele a pólvora, ¿pero cómo?",
+    "ar": "يقول رواد الفضاء أن رائحة القمر تشبه البارود، فكيف ذلك؟"
   },
   "story_question": {
-    "tr": "Sence kargalar insan yüzlerini nasıl bu kadar uzun süre aklında tutuyor?",
-    "en": "How do you think crows remember human faces for so long?",
-    "es": "¿Cómo crees que los cuervos recuerdan los rostros humanos por tanto tiempo?",
-    "ar": "كيف تعتقد أن الغربان تتذكر وجوه البشر لفترة طويلة جداً؟"
+    "tr": "Sizce Ay toprağının kokusu Dünya'da neye benzetilmiştir?",
+    "en": "What do you think lunar soil's smell is compared to on Earth?",
+    "es": "¿A qué crees que se compara el olor del suelo lunar en la Tierra?",
+    "ar": "برأيك، ما الذي تشبهه رائحة تربة القمر على الأرض؟"
   },
   "story_options": [
-    "Gelişmiş beyin korteksiyle",
-    "Sosyal öğrenme ve nesilden nesile aktarımla",
-    "Fotoğraf hafızası sağlayan özel bir göz yapısıyla"
+    "Yanık barut",
+    "Islak toprak",
+    "Metal pası"
   ],
   "hashtags": [
     "#FactBite",
-    "#karga",
-    "#doğa",
-    "#hayvanlar",
+    "#uzay",
     "#bilim",
-    "#ilginçbilgiler",
-    "#hafıza"
+    "#astronomi",
+    "#ay",
+    "#apollo",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bu yüzden kargalarla iyi geçinsen iyi olur! Daha fazlası için takip et.",
-    "en": "So you better stay on good terms with crows! Follow for more.",
-    "es": "¡Así que es mejor que te lleves bien con los cuervos! Síguenos para más.",
-    "ar": "لذا من الأفضل أن تكون على علاقة جيدة مع الغربان! تابعنا للمزيد."
+    "tr": "Benzer uzay sırları için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more space secrets!",
+    "es": "¡No olvides seguirnos para más secretos espaciales!",
+    "ar": "لا تنس المتابعة لمزيد من أسرار الفضاء!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "University of Washington Crow Lab",
-    "url": "https://www.washington.edu"
+    "name": "NASA",
+    "url": "https://www.nasa.gov/mission_pages/apollo/revisiting-the-lunar-smell.html"
   },
-  "_category": "animals",
+  "_category": "general",
   "_language": "tr",
-  "_topic": "",
+  "_topic": "Ay'ın Kokusu Var Mı?",
   "_v4": true,
-  "_special_day": ""
+  "_special_day": "",
+  "generated_at": "2026-08-15T05:39:34.317924+00:00",
+  "topic_guard_days": 180
 }

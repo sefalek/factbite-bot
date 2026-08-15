@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Penguenlerin Dizleri Var mı?",
-    "body": "Penguenlerin komik paytak yürüyüşü sizi yanıltmasın. Onların da dizleri vardır! Ancak bu dizler tüylerin altında, vücutlarının içinde gizlidir ve sürekli bükülü dururlar."
+    "headline": "Kedilere Benzer Kalp Atışı",
+    "body": "Bir kedinin mırıltısı sadece mutlu olduğunu göstermez; aynı zamanda kendi kendini iyileştirme mekanizmasıdır. Kedilerin mırlama frekansı, kemiklerin ve dokuların iyileşmesini destekleyen özel bir titreşim yayar."
   },
   "en": {
-    "headline": "Do Penguins Have Knees?",
-    "body": "Don't let the funny waddle fool you. Penguins actually do have knees! However, they are hidden beneath their feathers inside their bodies and remain constantly bent."
+    "headline": "The Healing Purr",
+    "body": "A cat's purr isn't just about happiness; it's also a self-healing mechanism. Their purring frequency emits a special vibration that supports bone and tissue repair."
   },
   "es": {
-    "headline": "¿Tienen rodillas los pingüinos?",
-    "body": "No te dejes engañar por su graciosa caminata. ¡Los pingüinos sí tienen rodillas! Sin embargo, están ocultas bajo sus plumas dentro de sus cuerpos y permanecen flexionadas."
+    "headline": "El Ronroneo Sanador",
+    "body": "El ronroneo de un gato no solo muestra felicidad; también es un mecanismo de autocuración. Su frecuencia de ronroneo emite una vibración especial que favorece la reparación de huesos y tejidos."
   },
   "ar": {
-    "headline": "هل تمتلك البطاريق ركباً؟",
-    "body": "لا تدع مشيتها المضحكة تخدعك. البطاريق تمتلك ركباً بالفعل! لكنها مخفية تحت الريش داخل أجسامها وتبقى منحنية باستمرار."
+    "headline": "الخرخرة الشافية",
+    "body": "خرخرة القطط لا تعني فقط أنها سعيدة، بل هي أيضاً آلية شفاء ذاتي. يصدر تردد خرخرتها اهتزازاً خاصاً يدعم إصلاح العظام والأنسجة."
   },
   "reel_hook": {
-    "tr": "Penguenlerin bu şekilde yürümesinin şaşırtıcı sebebini biliyor musunuz?",
-    "en": "Do you know the surprising reason why penguins walk this way?",
-    "es": "¿Conoces la sorprendente razón por la cual los pingüinos caminan así?",
-    "ar": "هل تعرف السبب المدهش لوراء طريقة مشي البطاريق هكذا؟"
+    "tr": "Kedilerin bu gizli gücünü biliyor muydunuz?",
+    "en": "Did you know cats have this hidden power?",
+    "es": "¿Sabías que los gatos tienen este poder oculto?",
+    "ar": "هل كنت تعلم أن للقطط هذه القوة الخفية؟"
   },
   "story_question": {
-    "tr": "Penguenlerin bacak yapısı hakkında ne düşünüyorsunuz?",
-    "en": "What do you think about the leg structure of penguins?",
-    "es": "¿Qué piensas sobre la estructura de las patas de los pingüinos?",
-    "ar": "ما رأيك في بنية أَرْجُل البطاريق؟"
+    "tr": "Kediler neden mırlar?",
+    "en": "Why do cats purr?",
+    "es": "¿Por qué ronronean los gatos?",
+    "ar": "لماذا تخرخر القطط؟"
   },
   "story_options": [
-    "Ayakları uzundur",
-    "Dizleri gizlidir",
-    "Dizleri yoktur"
+    "Sadece mutluluktan",
+    "İletişim ve iyileşme için",
+    "Korktukları için"
   ],
   "hashtags": [
     "#FactBite",
-    "#penguins",
-    "#science",
-    "#animals",
-    "#nature",
-    "#didyouknow",
-    "#biology"
+    "#kedi",
+    "#bilim",
+    "#hayvanlar",
+    "#ilginçbilgiler",
+    "#doğa",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla ilginç bilgi için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more interesting facts!",
-    "es": "¡No olvides seguirnos para más datos interesantes!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق الشيقة!"
+    "tr": "Daha fazla ilginç gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more fascinating facts!",
+    "es": "¡No olvides seguirnos para más datos fascinantes!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق الرائعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "San Diego Zoo",
-    "url": "https://animals.sandiegozoo.org/animals/penguin"
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com/article/why-do-cats-purr/"
   },
   "_category": "general",
-  "_language": "ar",
-  "_topic": "هل تمتلك البطاريق ركباً؟",
+  "_language": "tr",
+  "_topic": "Kedilere Benzer Kalp Atışı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-15T11:39:19.471769+00:00",
+  "generated_at": "2026-08-15T13:27:25.541778+00:00",
   "topic_guard_days": 180
 }

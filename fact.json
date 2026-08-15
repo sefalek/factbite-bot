@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilere Benzer Kalp Atışı",
-    "body": "Bir kedinin mırıltısı sadece mutlu olduğunu göstermez; aynı zamanda kendi kendini iyileştirme mekanizmasıdır. Kedilerin mırlama frekansı, kemiklerin ve dokuların iyileşmesini destekleyen özel bir titreşim yayar."
+    "headline": "Kuğuların Şarkısı Gerçek mi?",
+    "body": "Ölmek üzere olan bir kuğunun hayatında ilk ve son kez olağanüstü güzellikte şarkı söylediği efsanesi antik çağlara dayanır. Bilimsel olarak kuğular bu sırada şarkı söylemez; ancak soluk borularının göğüs kemiği etrafında kıvrılması sayesinde, ölürken veya zor nefes alırken çıkardıkları sesler gerçekten de tiz ve melankolik bir tınıya sahip olabilir."
   },
   "en": {
-    "headline": "The Healing Purr",
-    "body": "A cat's purr isn't just about happiness; it's also a self-healing mechanism. Their purring frequency emits a special vibration that supports bone and tissue repair."
+    "headline": "Is the Swan Song Real?",
+    "body": "The legend that a dying swan sings a beautiful song for the first and last time dates back to ancient times. Scientifically, swans don't sing; however, due to their windpipes looping around their breastbones, the sounds they make when struggling to breathe can genuinely have a high-pitched and melancholic tone."
   },
   "es": {
-    "headline": "El Ronroneo Sanador",
-    "body": "El ronroneo de un gato no solo muestra felicidad; también es un mecanismo de autocuración. Su frecuencia de ronroneo emite una vibración especial que favorece la reparación de huesos y tejidos."
+    "headline": "¿Es real el canto del cisne?",
+    "body": "La leyenda de que un cisne moribundo canta una hermosa canción por primera y última vez se remonta a la antigüedad. Científicamente, los cisnes no cantan; sin embargo, debido a que sus tráqueas se curvan alrededor de sus esternones, los sonidos que emiten al luchar por respirar realmente pueden tener un tono agudo y melancólico."
   },
   "ar": {
-    "headline": "الخرخرة الشافية",
-    "body": "خرخرة القطط لا تعني فقط أنها سعيدة، بل هي أيضاً آلية شفاء ذاتي. يصدر تردد خرخرتها اهتزازاً خاصاً يدعم إصلاح العظام والأنسجة."
+    "headline": "هل أغنية البجعة حقيقية؟",
+    "body": "تعود أسطورة أن البجعة المحتضرة تغني أغنية جميلة للمرة الأولى والأخيرة إلى العصور القديمة. علمياً، لا تغني البجعات؛ ومع ذلك، وبسبب التواء قصباتها الهوائية حول عظام أثدائها، فإن الأصوات التي تصدرها عند صراعها من أجل التنفس يمكن أن تحمل حقاً نغمة حادة ومؤلمة."
   },
   "reel_hook": {
-    "tr": "Kedilerin bu gizli gücünü biliyor muydunuz?",
-    "en": "Did you know cats have this hidden power?",
-    "es": "¿Sabías que los gatos tienen este poder oculto?",
-    "ar": "هل كنت تعلم أن للقطط هذه القوة الخفية؟"
+    "tr": "Ölürken şarkı söyleyen o kuğu efsanesi aslında gerçeğe mi dayanıyor?",
+    "en": "Is the legend of the swan singing as it dies actually based on truth?",
+    "es": "¿La leyenda del cisne cantando al morir se basa realmente en la verdad?",
+    "ar": "هل أسطورة البجعة التي تغني وهي تموت مبنية حقاً على الحقيقة؟"
   },
   "story_question": {
-    "tr": "Kediler neden mırlar?",
-    "en": "Why do cats purr?",
-    "es": "¿Por qué ronronean los gatos?",
-    "ar": "لماذا تخرخر القطط؟"
+    "tr": "Kuğuların bu melankolik sesi çıkarmasının sebebi nedir?",
+    "en": "What is the reason behind swans making this melancholic sound?",
+    "es": "¿Cuál es la razón detrás de que los cisnes emitan este sonido melancólico?",
+    "ar": "ما هو السبب وراء إصدار البجعات لهذا الصوت الكئيب؟"
   },
   "story_options": [
-    "Sadece mutluluktan",
-    "İletişim ve iyileşme için",
-    "Korktukları için"
+    "Özel ses telleri",
+    "Kıvrık soluk borusu",
+    "Hava basıncı"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler",
+    "#kuğu",
     "#doğa",
-    "#keşfet"
+    "#bilim",
+    "#ilginçbilgiler",
+    "#biyoloji",
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Daha fazla ilginç gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more fascinating facts!",
-    "es": "¡No olvides seguirnos para más datos fascinantes!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق الرائعة!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Scientific American",
-    "url": "https://www.scientificamerican.com/article/why-do-cats-purr/"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilere Benzer Kalp Atışı",
+  "_topic": "Kuğuların Şarkısı Gerçek mi?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-15T13:27:25.541778+00:00",
+  "generated_at": "2026-08-15T15:21:11.592482+00:00",
   "topic_guard_days": 180
 }

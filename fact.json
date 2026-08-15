@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ağaçlar Birbiriyle Konuşur mu?",
-    "body": "Ormanın derinliklerinde, ağaçların görünmeyen bir interneti var. Mantarlar aracılığıyla birbirleriyle mesajlaşır, tehlike anında besin ve uyarı gönderirler."
+    "headline": "Penguenlerin Dizleri Var mı?",
+    "body": "Penguenlerin komik paytak yürüyüşü sizi yanıltmasın. Onların da dizleri vardır! Ancak bu dizler tüylerin altında, vücutlarının içinde gizlidir ve sürekli bükülü dururlar."
   },
   "en": {
-    "headline": "Do Trees Talk to Each Other?",
-    "body": "Deep in the forest, trees share an invisible internet. Through fungi, they send messages, nutrients, and warnings to each other when danger arises."
+    "headline": "Do Penguins Have Knees?",
+    "body": "Don't let the funny waddle fool you. Penguins actually do have knees! However, they are hidden beneath their feathers inside their bodies and remain constantly bent."
   },
   "es": {
-    "headline": "¿Los árboles hablan entre sí?",
-    "body": "En lo profundo del bosque, los árboles comparten un internet invisible. A través de hongos, se comunican, envían nutrientes y alertas cuando hay peligro."
+    "headline": "¿Tienen rodillas los pingüinos?",
+    "body": "No te dejes engañar por su graciosa caminata. ¡Los pingüinos sí tienen rodillas! Sin embargo, están ocultas bajo sus plumas dentro de sus cuerpos y permanecen flexionadas."
   },
   "ar": {
-    "headline": "هل تتواصل الأشجار فيما بينها؟",
-    "body": "في أعماق الغابة، تشترك الأشجار في شبكة إنترنت خفية. من خلال الفطريات، تتبادل الرسائل والمغذيات والتحذيرات عند ظهور الخطر."
+    "headline": "هل تمتلك البطاريق ركباً؟",
+    "body": "لا تدع مشيتها المضحكة تخدعك. البطاريق تمتلك ركباً بالفعل! لكنها مخفية تحت الريش داخل أجسامها وتبقى منحنية باستمرار."
   },
   "reel_hook": {
-    "tr": "Ormandaki ağaçların mesajlaşabildiğini biliyor muydunuz?",
-    "en": "Did you know trees in the forest can text each other?",
-    "es": "¿Sabías que los árboles del bosque pueden enviarse mensajes?",
-    "ar": "هل تعلم أن الأشجار في الغابة يمكنها مراسلة بعضها البعض؟"
+    "tr": "Penguenlerin bu şekilde yürümesinin şaşırtıcı sebebini biliyor musunuz?",
+    "en": "Do you know the surprising reason why penguins walk this way?",
+    "es": "¿Conoces la sorprendente razón por la cual los pingüinos caminan así?",
+    "ar": "هل تعرف السبب المدهش لوراء طريقة مشي البطاريق هكذا؟"
   },
   "story_question": {
-    "tr": "Ağaçların bu iletişim ağına ne ad verilir?",
-    "en": "What is this communication network of trees called?",
-    "es": "¿Cómo se llama esta red de comunicación de los árboles?",
-    "ar": "ماذا يسمى شبكة الاتصال هذه بين الأشجار؟"
+    "tr": "Penguenlerin bacak yapısı hakkında ne düşünüyorsunuz?",
+    "en": "What do you think about the leg structure of penguins?",
+    "es": "¿Qué piensas sobre la estructura de las patas de los pingüinos?",
+    "ar": "ما رأيك في بنية أَرْجُل البطاريق؟"
   },
   "story_options": [
-    "Wood Wide Web",
-    "Root Net",
-    "Forest Wi-Fi"
+    "Ayakları uzundur",
+    "Dizleri gizlidir",
+    "Dizleri yoktur"
   ],
   "hashtags": [
     "#FactBite",
-    "#nature",
-    "#trees",
+    "#penguins",
     "#science",
-    "#bosque",
-    "#arboles",
-    "#curiosidades"
+    "#animals",
+    "#nature",
+    "#didyouknow",
+    "#biology"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için takip et!",
-    "en": "Follow for more surprising facts!",
-    "es": "¡Sígueme para más datos sorprendentes!",
-    "ar": "اتبع لمزيد من الحقائق المدهشة!"
+    "tr": "Daha fazla ilginç bilgi için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more interesting facts!",
+    "es": "¡No olvides seguirnos para más datos interesantes!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق الشيقة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Smithsonian Magazine",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180ef6809/"
+    "name": "San Diego Zoo",
+    "url": "https://animals.sandiegozoo.org/animals/penguin"
   },
   "_category": "general",
-  "_language": "es",
-  "_topic": "¿Los árboles hablan entre sí?",
+  "_language": "ar",
+  "_topic": "هل تمتلك البطاريق ركباً؟",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-15T08:45:01.479226+00:00",
+  "generated_at": "2026-08-15T11:39:19.471769+00:00",
   "topic_guard_days": 180
 }

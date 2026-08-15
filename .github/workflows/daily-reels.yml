@@ -52,21 +52,8 @@ jobs:
           sudo apt-get install -y ffmpeg
 
       - name: Select Reel language
-        env:
-          SCHEDULE: ${{ github.event.schedule }}
         run: |
-          case "$SCHEDULE" in
-            "12 8 * * *")  LANG=tr ;;
-            "15 9 * * *")  LANG=en ;;
-            "13 11 * * *") LANG=es ;;
-            "20 14 * * *") LANG=ar ;;
-            "3 16 * * *")  LANG=tr ;;
-            "0 18 * * *")  LANG=en ;;
-            "5 20 * * *")  LANG=es ;;
-            "0 22 * * *")  LANG=ar ;;
-            "40 23 * * *") LANG=tr ;;
-            *) LANG=tr ;;
-          esac
+          LANG=tr
           echo "LANGUAGE=$LANG" >> "$GITHUB_ENV"
           echo "Reel target language: $LANG"
 

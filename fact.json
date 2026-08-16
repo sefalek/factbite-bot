@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Nefes Alır?",
-    "body": "Uçarken inanılmaz miktarda oksijene ihtiyaç duyarlar ama akciğerleri bizimki gibi şişip inmez. Vücutlarındaki özel hava keseleri sayesinde hava içlerinden tek yönlü olarak sürekli akar. Böylece hem nefes alırken hem de verirken oksijen depolarlar."
+    "headline": "Kutup Ayılarının Derisi Aslında Beyaz Değil!",
+    "body": "Kutup ayılarının o görkemli beyaz kürkleri sizi yanıltmasın. Aslında kürkleri şeffaf ve içi boş tüylerden oluşur. Derileri ise bildiğimiz siyah renktedir. Bu siyah deri, güneş ışığını doğrudan emerek onları o buz gibi coğrafyada sıcak tutar."
   },
   "en": {
-    "headline": "How Birds Breathe",
-    "body": "They need an incredible amount of oxygen while flying, but their lungs don't expand and contract like ours. Thanks to special air sacs in their bodies, air flows through them continuously in one direction. This way, they store oxygen both when inhaling and exhaling."
+    "headline": "Polar Bears' Skin Is Actually Black!",
+    "body": "Don't be fooled by their majestic white fur. Their hairs are actually transparent and hollow, while their skin underneath is pitch black. This black skin absorbs sunlight directly to keep them warm in the freezing Arctic."
   },
   "es": {
-    "headline": "Cómo respiran las aves",
-    "body": "Necesitan una cantidad increíble de oxígeno al volar, pero sus pulmones no se expanden ni se contraen como los nuestros. Gracias a sacos de aire especiales en sus cuerpos, el aire fluye a través de ellos continuamente en una sola dirección."
+    "headline": "¡La Piel de los Osos Polares Es Negra!",
+    "body": "No te dejes engañar por su majestuoso pelaje blanco. En realidad, sus pelos son transparentes y huecos, y su piel debajo es de color negro. Esta piel negra absorbe directamente la luz solar para mantenerlos calientes."
   },
   "ar": {
-    "headline": "كيف تتنفس الطيور",
-    "body": "تحتاج إلى كمية لا تصدق من الأكسجين أثناء الطيران، لكن رئتيها لا تتمددان وتنتقضان مثل رئتينا. بفضل أكياس الهواء الخاصة في أساميها، يتدفق الهواء من خلالها باستمرار في اتجاه واحد."
+    "headline": "جلد الدببة القطبية أسود في الواقع!",
+    "body": "لا تخدعك فراءها البيضاء المهيبة. في الواقع، شعرها شفاف ومجوف، بينما جلدها تحته أسود فاحم. يمتص هذا الجلد الأسود ضوء الشمس مباشرة ليحافظ على دفئها في القطب الشمالي المتجمد."
   },
   "reel_hook": {
-    "tr": "Uçarken nefes nefese kalmamalarının sırrı ne?",
-    "en": "What is their secret to never running out of breath while flying?",
-    "es": "¿Cuál es su secreto para nunca quedarse sin aliento al volar?",
-    "ar": "ما هو سر عدم انقطاع أنفاسها أثناء الطيران؟"
+    "tr": "Kutup ayılarına uzaydan baksaydınız onları beyaz değil, siyah görürdünüz...",
+    "en": "If you looked at polar bears from space, you wouldn't see them as white...",
+    "es": "Si vieras a los osos polares desde el espacio, no los verías blancos...",
+    "ar": "إذا نظرت إلى الدببة القطبية من الفضاء، فلن تراها بيضاء..."
   },
   "story_question": {
-    "tr": "Kuşların akciğerlerindeki hava akışı hangi yöndedir?",
-    "en": "In which direction does the air flow in a bird's lungs?",
-    "es": "¿En qué dirección fluye el aire en los pulmones de un ave?",
-    "ar": "في أي اتجاه يتدفق الهواء في رئتي الطائر؟"
+    "tr": "Kutup ayılarının siyah derisi güneşi emerek neyi sağlar?",
+    "en": "What does the black skin of polar bears help with by absorbing sunlight?",
+    "es": "¿Para qué sirve la piel negra de los osos polares al absorber la luz solar?",
+    "ar": "ما الذي يوفره الجلد الأسود للدببة القطبية من خلال امتصاص ضوء الشمس؟"
   },
   "story_options": [
-    "Tek yönlü ve sürekli",
-    "İki yönlü (memeliler gibi)",
-    "Sadece kanat çırparken"
+    "Mükemmel bir kamufle",
+    "Sıcak tutma",
+    "Hızlı yüzme"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#biyoloji",
-    "#doğa",
+    "#kutupayısı",
     "#bilim",
-    "#ilginçbilgiler"
+    "#doğa",
+    "#ilginçbilgiler",
+    "#hayvanlar",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bu şaşırtıcı detayı öğrendikten sonra kimi düşündün? Yorumlarda paylaş!",
-    "en": "Who did you think of after learning this surprising detail? Share in the comments!",
-    "es": "¿En quién pensaste después de aprender este detalle sorprendente? ¡Compártelo en los comentarios!",
-    "ar": "من فكرت فيه بعد معرفة هذه التفاصيل المدهشة؟ شاركنا في التعليقات!"
+    "tr": "Bunu kimin bilmesi gerekirdi? Yorumlarda etiketle!",
+    "en": "Who needed to know this? Tag them in the comments!",
+    "es": "¡Etiqueta a quien necesite saber esto!",
+    "ar": "من كان بحاجة لمعرفة هذا؟ قم بالإشارة إليه في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Avian Respiratory Systems Research",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-respiratory-system"
+    "name": "Polar Bears International",
+    "url": "https://polarbearsinternational.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Nefes Alır?",
+  "_topic": "Kutup Ayılarının Derisi Aslında Beyaz Değil!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-16T17:28:13.782702+00:00",
+  "generated_at": "2026-08-16T19:20:10.001321+00:00",
   "topic_guard_days": 180
 }

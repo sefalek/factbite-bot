@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların İçindeki Gizli Termostat",
-    "body": "Uçarken inanılmaz derecede yüksek enerji harcayan kuşların iç organları aşırı ısınabilir. Bunu önlemek için vücutlarında kemiklerin içine kadar uzanan özel hava keseleri bulunur. Bu sistem sayesinde hem nefes alırlar hem de içten alta doğru adeta bir klima gibi serinlerler."
+    "headline": "Ağaçlar Sesi Duyabilir mi?",
+    "body": "Bitkiler dilsiz ve kulaksız görünür ama çevrelerindeki dünyaya karşı tamamen kör ve sağır değillerdir. Yapılan bilimsel araştırmalar, bazı bitkilerin özellikle su akışının çıkardığı titreşim sesini duyabildiğini ve köklerini bu sesin geldiği yöne doğru büyüterek su aradığını gösteriyor. Yani toprak altındaki o sessizlik, aslında minik titreşimlerle dolu bir iletişim alanıdır."
   },
   "en": {
-    "headline": "The Hidden Thermostat Inside Birds",
-    "body": "Birds expend incredible amounts of energy while flying, which can cause their internal organs to overheat. To prevent this, they have special air sacs extending even inside their bones. This system allows them to breathe while naturally cooling themselves from the inside out."
+    "headline": "Can Trees Hear Sounds?",
+    "body": "Plants may seem silent and earless, but they are not entirely deaf to the world around them. Scientific studies show that certain plants can detect the vibrational sound of flowing water and actively grow their roots toward the source to find hydration. That subterranean silence is actually a dynamic network of vibrations."
   },
   "es": {
-    "headline": "El Termostato Oculto Dentro de las Aves",
-    "body": "Las aves gastan una cantidad increíble de energía al volar, lo que puede sobrecalentar sus órganos internos. Para evitarlo, tienen sacos de aire especiales que se extienden incluso dentro de sus huesos. Este sistema les permite respirar mientras se refrigeran internamente."
+    "headline": "¿Pueden los árboles escuchar sonidos?",
+    "body": "Las plantas pueden parecer silenciosas y sin orejas, pero no son completamente sordas al mundo que las rodea. Estudios científicos muestran que ciertas plantas pueden detectar la vibración del agua que fluye y hacer crecer sus raíces hacia la fuente para buscar hidratación. Ese silencio subterráneo está lleno de vibraciones."
   },
   "ar": {
-    "headline": "المزمار الحراري الخفي داخل الطيور",
-    "body": "تنفق الطيور طاقة هائلة أثناء الطيران، مما قد يتسبب في ارتفاع درجة حرارة أعضائها الداخلية. لمنع ذلك، تحتوي أجسامها على أكياس هواء خاصة تمتد حتى داخل عظامها، مما يسمح لها بالتنفس والتبريد الذاتي من الداخل."
+    "headline": "هل تستطيع الأشجار سماع الأصوات؟",
+    "body": "قد تبدو النباتات صامتة وليست لها آذان، لكنها ليست صماء تماماً عن العالم من حولها. تُظهر الدراسات العلمية أن بعض النباتات يمكنها استشعار اهتزازات تدفق المياه وتوجيه جذورها نحو مصدرها بحثاً عن الرطوبة. هذا السكون تحت الأرض مليء بالاهتزازات."
   },
   "reel_hook": {
-    "tr": "Uçarken neden hiç terlemiyorlar?",
-    "en": "Why do they never sweat while flying?",
-    "es": "¿Por qué nunca sudan al volar?",
-    "ar": "لماذا لا يعرقون أبداً أثناء الطيران؟"
+    "tr": "Toprağın altındaki suyun sesini duyabilen bir canlı düşünün... Hayır, bir hayvan değil.",
+    "en": "Imagine a living thing that can hear the sound of water underground... No, not an animal.",
+    "es": "Imagina un ser vivo capaz de escuchar el sonido del agua bajo tierra... No, no es un animal.",
+    "ar": "تخيل كائناً حياً يمكنه سماع صوت الماء تحت الأرض... لا، ليس حيواناً."
   },
   "story_question": {
-    "tr": "Sence kuşların bu özel hava keseleri başka hangi amaçla kullanılır?",
-    "en": "What other purpose do you think these special air sacs serve in birds?",
-    "es": "¿Para qué otro propósito crees que sirven estos sacos de aire en las aves?",
-    "ar": "ما الغرض الآخر برأيك لهذه الأكياس الهوائية الخاصة في الطيور؟"
+    "tr": "Sizce bitkiler hangi duyuyu kullanarak suyu bulur?",
+    "en": "Which sense do you think plants use to find water?",
+    "es": "¿Qué sentido crees que usan las plantas para encontrar agua?",
+    "ar": "برأيك ما هي الحاسة التي تستخدمها النباتات للعثور على الماء؟"
   },
   "story_options": [
-    "Uçuş hızını artırmak",
-    "Vücut yoğunluğunu azaltıp uçmayı kolaylaştırmak",
-    "Su depolamak"
+    "Titreşim ve Ses",
+    "Sıcaklık Farkı",
+    "Işık Yönü"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
     "#bilim",
     "#doğa",
-    "#biyoloji",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#keşfet",
+    "#bitkiler",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "If this is your first time hearing this, don't forget to like!",
-    "es": "Si es la primera vez que escuchas esto, ¡no olvides dar me gusta!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فلا تنس الإعجاب!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق مثله!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Avian Respiratory System - Ornithology Studies",
-    "url": "https://www.britannica.com/science/bird-respiratory-system"
+    "name": "Oecologia Journal",
+    "url": "https://link.springer.com/journal/442"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların İçindeki Gizli Termostat",
+  "_topic": "Ağaçlar Sesi Duyabilir mi?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-16T05:42:18.023400+00:00",
+  "generated_at": "2026-08-16T06:57:10.598252+00:00",
   "topic_guard_days": 180
 }

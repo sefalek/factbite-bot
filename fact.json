@@ -1,70 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uykuda Bile Yürüyen Mantarlar",
-    "body": "Bazı mantar türleri, salgıladıkları özel kimyasallarla böceklerin sinir sistemini ele geçirir. Onları yüksek dallara tırmanmaya zorlar ve orada sabitleyip ölümüne sebep olur."
+    "headline": "Kuşlar Nasıl Uçar?",
+    "body": "Uçabilmek için inanılmaz bir enerjiye ihtiyaç duyarlar ama bazılarının kalbi o kadar hızlı atar ki, dinlenirken bile dakikada binden fazla atış yapabilir. Bu minik canlıların gökyüzündeki sırrı, inanılmaz metabolizmalarında saklıdır."
   },
   "en": {
-    "headline": "Fungi That Walk Even in Sleep",
-    "body": "Certain fungi species take over the nervous system of insects using special chemicals. They force them to climb high branches, fix them there, and cause their death."
+    "headline": "How Do Birds Fly?",
+    "body": "They need incredible energy to fly, and some can beat their hearts over a thousand times a minute even at rest. The secret of these tiny creatures in the sky lies in their astonishing metabolism."
   },
   "es": {
-    "headline": "Hongos que caminan incluso dormidos",
-    "body": "Ciertas especies de hongos se apoderan del sistema nervioso de los insectos mediante químicos especiales. Los obligan a trepar ramas altas, los fijan allí y causan su muerte."
+    "headline": "¿Cómo vuelan las aves?",
+    "body": "Necesitan una energía increíble para volar, y algunas pueden latir sus corazones más de mil veces por minuto incluso en reposo. El secreto de estas pequeñas criaturas en el cielo radica en su asombroso metabolismo."
   },
   "ar": {
-    "headline": "فطريات تمشي حتى أثناء النوم",
-    "body": "تسيطر أنواع معينة من الفطريات على الجهاز العصبي للحشرات باستخدام مواد كيميائية خاصة. تجبرها على تسلق الأغصان العالية، وتثبتها هناك، وتتسبب في موتها."
+    "headline": "كيف تطير الطيور؟",
+    "body": "إنها بحاجة إلى طاقة مذهلة للطيران، ويمكن لبعضها أن ينبض قلبها أكثر من ألف مرة في الدقيقة حتى أثناء الراحة. سر هذه الكائنات الصغيرة في السماء يكمن في عمليات الأيض المذهلة لديها."
   },
   "reel_hook": {
-    "tr": "Ormanda zombi böcekler olduğunu biliyor musun?",
-    "en": "Did you know there are zombie insects in the forest?",
-    "es": "¿Sabías que hay insectos zombis en el bosque?",
-    "ar": "هل تعلم أن هناك حشرات زومبي في الغابة؟"
+    "tr": "Kalbi dakikada bin kez atan bir canlı hayal edin.",
+    "en": "Imagine a creature whose heart beats a thousand times a minute.",
+    "es": "Imagina una criatura cuyo corazón late mil veces por minuto.",
+    "ar": "تخيل مخلوقاً ينبض قلبه ألف مرة في الدقيقة."
   },
   "story_question": {
-    "tr": "Bu zombi mantarlar böcekleri neden yüksek dallara tırmandırır?",
-    "en": "Why do these zombie fungi make insects climb high branches?",
-    "es": "¿Por qué estos hongos zombis hacen que los insectos trepen ramas altas?",
-    "ar": "لماذا تجعل هذه الفطريات الزومبي الحشرات تتسلق الأغصان العالية؟"
+    "tr": "Sizce hangi hayvan dakikada bin kez kalp atışına sahip olabilir?",
+    "en": "Which animal do you think can have a heartbeat of a thousand times per minute?",
+    "es": "¿Qué animal crees que puede tener un ritmo cardíaco de mil veces por minuto?",
+    "ar": "ما هو الحيوان برأيك الذي يمكن أن يملك معدل ضربات قلب ألف مرة في الدقيقة؟"
   },
   "story_options": [
-    "Daha iyi güneş ışığı almak için",
-    "Sporlarını daha geniş bir alana yaymak için",
-    "Avcılardan saklanmak için"
+    "Sinek Kuşu",
+    "Arı",
+    "Yarasa"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
     "#bilim",
-    "#mantar",
-    "#biyoloji",
+    "#doğa",
+    "#kuşlar",
     "#ilginçbilgiler",
-    "#orman",
-    "#keşfet"
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Benzer doğa sırları için takip et!",
-    "en": "Follow for more nature secrets!",
-    "es": "¡Sígueme para más secretos de la naturaleza!",
-    "ar": "اتبع لمزيد من أسرار الطبيعة!"
+    "tr": "En merak ettiğin doğa sırrını yorumlarda paylaş!",
+    "en": "Share the nature secret you're most curious about in the comments!",
+    "es": "¡Comparte el secreto de la naturaleza que más te curiosea en los comentarios!",
+    "ar": "شارك سر الطبيعة الأكثر فضولاً لديك في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Ornithology and Avian Physiology Studies",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uykuda Bile Yürüyen Mantarlar",
+  "_topic": "Kuşlar Nasıl Uçar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-16T13:27:43.288578+00:00",
+  "generated_at": "2026-08-16T15:22:33.953792+00:00",
   "topic_guard_days": 180
 }

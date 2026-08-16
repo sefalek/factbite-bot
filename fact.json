@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Uçar?",
-    "body": "Uçabilmek için inanılmaz bir enerjiye ihtiyaç duyarlar ama bazılarının kalbi o kadar hızlı atar ki, dinlenirken bile dakikada binden fazla atış yapabilir. Bu minik canlıların gökyüzündeki sırrı, inanılmaz metabolizmalarında saklıdır."
+    "headline": "Kuşlar Nasıl Nefes Alır?",
+    "body": "Uçarken inanılmaz miktarda oksijene ihtiyaç duyarlar ama akciğerleri bizimki gibi şişip inmez. Vücutlarındaki özel hava keseleri sayesinde hava içlerinden tek yönlü olarak sürekli akar. Böylece hem nefes alırken hem de verirken oksijen depolarlar."
   },
   "en": {
-    "headline": "How Do Birds Fly?",
-    "body": "They need incredible energy to fly, and some can beat their hearts over a thousand times a minute even at rest. The secret of these tiny creatures in the sky lies in their astonishing metabolism."
+    "headline": "How Birds Breathe",
+    "body": "They need an incredible amount of oxygen while flying, but their lungs don't expand and contract like ours. Thanks to special air sacs in their bodies, air flows through them continuously in one direction. This way, they store oxygen both when inhaling and exhaling."
   },
   "es": {
-    "headline": "¿Cómo vuelan las aves?",
-    "body": "Necesitan una energía increíble para volar, y algunas pueden latir sus corazones más de mil veces por minuto incluso en reposo. El secreto de estas pequeñas criaturas en el cielo radica en su asombroso metabolismo."
+    "headline": "Cómo respiran las aves",
+    "body": "Necesitan una cantidad increíble de oxígeno al volar, pero sus pulmones no se expanden ni se contraen como los nuestros. Gracias a sacos de aire especiales en sus cuerpos, el aire fluye a través de ellos continuamente en una sola dirección."
   },
   "ar": {
-    "headline": "كيف تطير الطيور؟",
-    "body": "إنها بحاجة إلى طاقة مذهلة للطيران، ويمكن لبعضها أن ينبض قلبها أكثر من ألف مرة في الدقيقة حتى أثناء الراحة. سر هذه الكائنات الصغيرة في السماء يكمن في عمليات الأيض المذهلة لديها."
+    "headline": "كيف تتنفس الطيور",
+    "body": "تحتاج إلى كمية لا تصدق من الأكسجين أثناء الطيران، لكن رئتيها لا تتمددان وتنتقضان مثل رئتينا. بفضل أكياس الهواء الخاصة في أساميها، يتدفق الهواء من خلالها باستمرار في اتجاه واحد."
   },
   "reel_hook": {
-    "tr": "Kalbi dakikada bin kez atan bir canlı hayal edin.",
-    "en": "Imagine a creature whose heart beats a thousand times a minute.",
-    "es": "Imagina una criatura cuyo corazón late mil veces por minuto.",
-    "ar": "تخيل مخلوقاً ينبض قلبه ألف مرة في الدقيقة."
+    "tr": "Uçarken nefes nefese kalmamalarının sırrı ne?",
+    "en": "What is their secret to never running out of breath while flying?",
+    "es": "¿Cuál es su secreto para nunca quedarse sin aliento al volar?",
+    "ar": "ما هو سر عدم انقطاع أنفاسها أثناء الطيران؟"
   },
   "story_question": {
-    "tr": "Sizce hangi hayvan dakikada bin kez kalp atışına sahip olabilir?",
-    "en": "Which animal do you think can have a heartbeat of a thousand times per minute?",
-    "es": "¿Qué animal crees que puede tener un ritmo cardíaco de mil veces por minuto?",
-    "ar": "ما هو الحيوان برأيك الذي يمكن أن يملك معدل ضربات قلب ألف مرة في الدقيقة؟"
+    "tr": "Kuşların akciğerlerindeki hava akışı hangi yöndedir?",
+    "en": "In which direction does the air flow in a bird's lungs?",
+    "es": "¿En qué dirección fluye el aire en los pulmones de un ave?",
+    "ar": "في أي اتجاه يتدفق الهواء في رئتي الطائر؟"
   },
   "story_options": [
-    "Sinek Kuşu",
-    "Arı",
-    "Yarasa"
+    "Tek yönlü ve sürekli",
+    "İki yönlü (memeliler gibi)",
+    "Sadece kanat çırparken"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
     "#kuşlar",
-    "#ilginçbilgiler",
-    "#hayvanlaralemi"
+    "#biyoloji",
+    "#doğa",
+    "#bilim",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "En merak ettiğin doğa sırrını yorumlarda paylaş!",
-    "en": "Share the nature secret you're most curious about in the comments!",
-    "es": "¡Comparte el secreto de la naturaleza que más te curiosea en los comentarios!",
-    "ar": "شارك سر الطبيعة الأكثر فضولاً لديك في التعليقات!"
+    "tr": "Bu şaşırtıcı detayı öğrendikten sonra kimi düşündün? Yorumlarda paylaş!",
+    "en": "Who did you think of after learning this surprising detail? Share in the comments!",
+    "es": "¿En quién pensaste después de aprender este detalle sorprendente? ¡Compártelo en los comentarios!",
+    "ar": "من فكرت فيه بعد معرفة هذه التفاصيل المدهشة؟ شاركنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Avian Physiology Studies",
-    "url": "https://www.sciencedirect.com"
+    "name": "Ornithology and Avian Respiratory Systems Research",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-respiratory-system"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Uçar?",
+  "_topic": "Kuşlar Nasıl Nefes Alır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-16T15:22:33.953792+00:00",
+  "generated_at": "2026-08-16T17:28:13.782702+00:00",
   "topic_guard_days": 180
 }

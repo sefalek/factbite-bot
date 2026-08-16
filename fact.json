@@ -1,51 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ağaçlar Sesi Duyabilir mi?",
-    "body": "Bitkiler dilsiz ve kulaksız görünür ama çevrelerindeki dünyaya karşı tamamen kör ve sağır değillerdir. Yapılan bilimsel araştırmalar, bazı bitkilerin özellikle su akışının çıkardığı titreşim sesini duyabildiğini ve köklerini bu sesin geldiği yöne doğru büyüterek su aradığını gösteriyor. Yani toprak altındaki o sessizlik, aslında minik titreşimlerle dolu bir iletişim alanıdır."
+    "headline": "Balinaların Şarkıları Okyanus Tabanını Değiştirir",
+    "body": "Mavi balinaların çıkardığı o derin ve yankılanan sesler sadece birbirleriyle iletişim kurmak için değildir. Bu devasa ses dalgaları o kadar güçlüdür ki, okyanus tabanındaki çökeltileri ve tortuları bile hareket ettirir. Doğa, en büyük ses sistemini okyanusun ortasına kurmuştur."
   },
   "en": {
-    "headline": "Can Trees Hear Sounds?",
-    "body": "Plants may seem silent and earless, but they are not entirely deaf to the world around them. Scientific studies show that certain plants can detect the vibrational sound of flowing water and actively grow their roots toward the source to find hydration. That subterranean silence is actually a dynamic network of vibrations."
+    "headline": "Whale Songs Can Move the Ocean Floor",
+    "body": "The deep, echoing calls of blue whales aren't just for communication. These massive sound waves are so powerful that they actually shift sediments and debris on the ocean floor."
   },
   "es": {
-    "headline": "¿Pueden los árboles escuchar sonidos?",
-    "body": "Las plantas pueden parecer silenciosas y sin orejas, pero no son completamente sordas al mundo que las rodea. Estudios científicos muestran que ciertas plantas pueden detectar la vibración del agua que fluye y hacer crecer sus raíces hacia la fuente para buscar hidratación. Ese silencio subterráneo está lleno de vibraciones."
+    "headline": "El canto de las ballenas puede mover el fondo oceánico",
+    "body": "Los cantos profundos de las ballenas azules no son solo para comunicarse. Estas ondas sonoras son tan potentes que mueven sedimentos en el fondo del océano."
   },
   "ar": {
-    "headline": "هل تستطيع الأشجار سماع الأصوات؟",
-    "body": "قد تبدو النباتات صامتة وليست لها آذان، لكنها ليست صماء تماماً عن العالم من حولها. تُظهر الدراسات العلمية أن بعض النباتات يمكنها استشعار اهتزازات تدفق المياه وتوجيه جذورها نحو مصدرها بحثاً عن الرطوبة. هذا السكون تحت الأرض مليء بالاهتزازات."
+    "headline": "أغاني الحيتان يمكنها تحريك قاع المحيط",
+    "body": "إن نداءات الحيتان الزرقاء العميقة ليست فقط للتواصل. هذه الموجات الصوتية الهائلة قوية لدرجة أنها تحرك الرواسب في قاع المحيط."
   },
   "reel_hook": {
-    "tr": "Toprağın altındaki suyun sesini duyabilen bir canlı düşünün... Hayır, bir hayvan değil.",
-    "en": "Imagine a living thing that can hear the sound of water underground... No, not an animal.",
-    "es": "Imagina un ser vivo capaz de escuchar el sonido del agua bajo tierra... No, no es un animal.",
-    "ar": "تخيل كائناً حياً يمكنه سماع صوت الماء تحت الأرض... لا، ليس حيواناً."
+    "tr": "Okyanusun en derinindeki bu ses, tabandaki kayaları bile yerinden oynatıyor!",
+    "en": "This deep ocean sound can actually move rocks at the bottom!",
+    "es": "¡Este sonido oceánico puede mover rocas en el fondo!",
+    "ar": "هذا الصوت في أعماق المحيط يمكنه تحريك الصخور في القاع!"
   },
   "story_question": {
-    "tr": "Sizce bitkiler hangi duyuyu kullanarak suyu bulur?",
-    "en": "Which sense do you think plants use to find water?",
-    "es": "¿Qué sentido crees que usan las plantas para encontrar agua?",
-    "ar": "برأيك ما هي الحاسة التي تستخدمها النباتات للعثور على الماء؟"
+    "tr": "Mavi balinaların çıkardığı ses yaklaşık kaç desibele kadar ulaşabilir?",
+    "en": "About how many decibels can a blue whale's call reach?",
+    "es": "¿Aproximadamente cuántos decibelios puede alcanzar el canto de una ballena azul?",
+    "ar": "تقريباً كم ديسبل يمكن أن يصل صوت الحوت الأزرق؟"
   },
   "story_options": [
-    "Titreşim ve Ses",
-    "Sıcaklık Farkı",
-    "Işık Yönü"
+    "120 desibel (Uçak motoru gibi)",
+    "188 desibel (Roket kalkışı gibi)",
+    "240 desibel (Deprem kadar güçlü)"
   ],
   "hashtags": [
     "#FactBite",
+    "#balina",
+    "#okyanus",
     "#bilim",
     "#doğa",
-    "#keşfet",
-    "#bitkiler",
     "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق مثله!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip et!",
+    "en": "Follow for more amazing facts like this!",
+    "es": "¡Sígueme para más datos asombrosos!",
+    "ar": "تابعنا لمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Oecologia Journal",
-    "url": "https://link.springer.com/journal/442"
+    "name": "Oceanography and Marine Biology Journal",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ağaçlar Sesi Duyabilir mi?",
+  "_topic": "Balinaların Şarkıları Okyanus Tabanını Değiştirir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-16T06:57:10.598252+00:00",
+  "generated_at": "2026-08-16T08:47:10.366131+00:00",
   "topic_guard_days": 180
 }

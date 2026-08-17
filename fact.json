@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Göz Kapakları Şeffaftır",
-    "body": "Biliyor musunuz, kuşların göz kapakları tamamen şeffaftır. Uçarken veya suya dalarken gözlerini korumak için bu özel perdeyi kullanırlar; böylece etrafı görmeye devam ederler."
+    "headline": "Ağaçların Aslında Yeraltında Bir 'Konuşma' Ağı Var",
+    "body": "Ormanda yürürken ayak basıp geçtiğiniz o toprak, aslında canlılar arasında kurulmuş devasa bir internet ağı saklıyor. Mantarlar ve ağaç kökleri yer altında birbirine bağlanarak besin paylaşıyor, hatta tehlikeleri birbirlerine önceden haber veriyor."
   },
   "en": {
-    "headline": "Birds Have Transparent Eyelids",
-    "body": "Did you know that birds have completely transparent eyelids? They use this special membrane to protect their eyes while flying or diving, allowing them to keep seeing."
+    "headline": "Trees Actually Have An Underground 'Talking' Network",
+    "body": "The soil you walk on in the forest actually hides a massive internet network between living things. Fungi and tree roots connect underground to share nutrients and even warn each other of danger in advance."
   },
   "es": {
-    "headline": "Los pájaros tienen párpados transparentes",
-    "body": "¿Sabías que los pájaros tienen párpados completamente transparentes? Usan esta membrana especial para proteger sus ojos mientras vuelan o bucean, lo que les permite seguir viendo."
+    "headline": "Los árboles tienen una red de 'conversación' subterránea",
+    "body": "El suelo que pisas en el bosque en realidad esconde una red de internet masiva entre los seres vivos. Los hongos y las raíces de los árboles se conectan bajo tierra para compartir nutrientes y advertirse del peligro."
   },
   "ar": {
-    "headline": "الطيور لها جفون شفافة",
-    "body": "هل تعلم أن للطيور جفون شفافة تماماً؟ يستخدمون هذا الغشاء الخاص لحماية أعينهم أثناء الطيران أو الغوص، مما يسمح لهم بمواصلة الرؤية."
+    "headline": "الأشجار لديها بالفعل شبكة 'تحدث' تحت الأرض",
+    "body": "التربة التي تمشي عليها في الغابة تخفي في الواقع شبكة إنترنت ضخمة بين الكائنات الحية. تتصل الفطريات وجذور الأشجار تحت الأرض لمشاركة العناصر الغذائية وحتى تحذير بعضها البعض من الخطر مسبقاً."
   },
   "reel_hook": {
-    "tr": "Uçarken gözleri açık uyuyabildiklerini biliyor muydunuz?",
-    "en": "Did you know they can sleep with their eyes open while flying?",
-    "es": "¿Sabías que pueden dormir con los ojos abiertos mientras vuelan?",
-    "ar": "هل تعلم أنه يمكنهم النوم وأعينهم مفتوحة أثناء الطيران؟"
+    "tr": "Ormanda yürürken aslında gizli bir mesajlaşma ağının üstüne basıyorsunuz.",
+    "en": "When walking in the forest, you are actually stepping on a hidden messaging network.",
+    "es": "Cuando caminas por el bosque, en realidad estás pisando una red de mensajes oculta.",
+    "ar": "عندما تمشي في الغابة، أنت في الواقع تدوس على شبكة مراسلة مخفية."
   },
   "story_question": {
-    "tr": "Kuşların uçarken gözlerini korumak için kullandığı şeffaf göz kapaklarının adı nedir?",
-    "en": "What is the name of the transparent eyelid birds use to protect their eyes while flying?",
-    "es": "¿Cómo se llama el párpado transparente que usan las aves para proteger sus ojos mientras vuelan?",
-    "ar": "ما هو اسم الجفن الشفاف الذي تستخدمه الطيور لحماية أعينهم أثناء الطيران؟"
+    "tr": "Ağaçların yer altındaki bu iletişim ağı hangi canlılar sayesinde kurulur?",
+    "en": "Which organisms help establish this underground communication network of trees?",
+    "es": "¿Qué organismos ayudan a establecer esta red de comunicación subterránea de los árboles?",
+    "ar": "ما هي الكائنات الحية التي تساعد في إنشاء شبكة الاتصالات تحت الأرض للأشجار؟"
   },
   "story_options": [
-    "Niktitan Zar (Üçüncü Göz Kapağı)",
-    "Kornea Perdesi",
-    "Retina Kalkanı"
+    "Mantarlar",
+    "Bakteriler",
+    "Solucanlar"
   ],
   "hashtags": [
     "#FactBite",
     "#doğa",
-    "#kuşlar",
     "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler",
-    "#biyoloji"
+    "#ağaçlar",
+    "#orman",
+    "#keşfet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kalın!",
-    "en": "Stay tuned for more nature secrets like this!",
-    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
-    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Ornithology Fact Database",
-    "url": "https://www.audubon.org"
+    "name": "Simard, S. W., et al. (1997) - Nature",
+    "url": "https://www.nature.com/articles/388398a0"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Göz Kapakları Şeffaftır",
+  "_topic": "Ağaçların Aslında Yeraltında Bir 'Konuşma' Ağı Var",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-17T05:49:24.461514+00:00",
+  "generated_at": "2026-08-17T07:15:14.050507+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Ne Kadar Hafiftir?",
-    "body": "Birçok kuşun kemiklerinin içi oyuktur ve tıpkı bir sünger gibi hava doludur. Bu özel yapı, gökyüzünde zahmetsizce süzülmelerini sağlarken, bazı kuş türlerinin iskeletinin toplam ağırlığı tüylerinden bile daha hafiftir."
+    "headline": "Kuşların Göz Kapakları Şeffaftır",
+    "body": "Biliyor musunuz, kuşların göz kapakları tamamen şeffaftır. Uçarken veya suya dalarken gözlerini korumak için bu özel perdeyi kullanırlar; böylece etrafı görmeye devam ederler."
   },
   "en": {
-    "headline": "How Light Are Birds?",
-    "body": "Many birds have hollow bones filled with air, just like a sponge. This special structure allows them to glide effortlessly through the sky, and in some species, the entire skeleton weighs even less than their feathers."
+    "headline": "Birds Have Transparent Eyelids",
+    "body": "Did you know that birds have completely transparent eyelids? They use this special membrane to protect their eyes while flying or diving, allowing them to keep seeing."
   },
   "es": {
-    "headline": "¿Qué tan ligeras son las aves?",
-    "body": "Muchas aves tienen huesos huecos llenos de aire, como una esponja. Esta estructura especial les permite planear sin esfuerzo por el cielo, y en algunas especies, todo el esqueleto pesa incluso menos que sus plumas."
+    "headline": "Los pájaros tienen párpados transparentes",
+    "body": "¿Sabías que los pájaros tienen párpados completamente transparentes? Usan esta membrana especial para proteger sus ojos mientras vuelan o bucean, lo que les permite seguir viendo."
   },
   "ar": {
-    "headline": "ما مدى خفة طيور؟",
-    "body": "العديد من الطيور لها عظام مجوفة مليئة بالهواء مثل الإسفنج. يتيح لها هذا الهيكل الخاص الانزلاق بسهولة في السماء، وفي بعض الأنواع، يكون وزن الهيكل العظمي بأكمله أقل حتى من ريشها."
+    "headline": "الطيور لها جفون شفافة",
+    "body": "هل تعلم أن للطيور جفون شفافة تماماً؟ يستخدمون هذا الغشاء الخاص لحماية أعينهم أثناء الطيران أو الغوص، مما يسمح لهم بمواصلة الرؤية."
   },
   "reel_hook": {
-    "tr": "Biliyor musun, bazı kuşların iskeleti tüylerinden daha hafiftir.",
-    "en": "Did you know some birds have skeletons lighter than their feathers?",
-    "es": "¿Sabías que algunas aves tienen esqueletos más ligeros que sus plumas?",
-    "ar": "هل تعلم أن بعض الطيور لها هياكل عظمية أخف من ريشها؟"
+    "tr": "Uçarken gözleri açık uyuyabildiklerini biliyor muydunuz?",
+    "en": "Did you know they can sleep with their eyes open while flying?",
+    "es": "¿Sabías que pueden dormir con los ojos abiertos mientras vuelan?",
+    "ar": "هل تعلم أنه يمكنهم النوم وأعينهم مفتوحة أثناء الطيران؟"
   },
   "story_question": {
-    "tr": "Sence bir kuşun iskeleti vücut ağırlığının yüzde kaçını oluşturur?",
-    "en": "What percentage of a bird's body weight do you think its skeleton makes up?",
-    "es": "¿Qué porcentaje del peso corporal de un ave crees que representa su esqueleto?",
-    "ar": "برأيك، ما هي النسبة المئوية التي يمثلها الهيكل العظمي من وزن جسم الطائر؟"
+    "tr": "Kuşların uçarken gözlerini korumak için kullandığı şeffaf göz kapaklarının adı nedir?",
+    "en": "What is the name of the transparent eyelid birds use to protect their eyes while flying?",
+    "es": "¿Cómo se llama el párpado transparente que usan las aves para proteger sus ojos mientras vuelan?",
+    "ar": "ما هو اسم الجفن الشفاف الذي تستخدمه الطيور لحماية أعينهم أثناء الطيران؟"
   },
   "story_options": [
-    "%5'ten az",
-    "%10 civarı",
-    "%20 ve üzeri"
+    "Niktitan Zar (Üçüncü Göz Kapağı)",
+    "Kornea Perdesi",
+    "Retina Kalkanı"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
     "#doğa",
+    "#kuşlar",
     "#bilim",
-    "#ilahiyat",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#biliyormusunuz"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kalın!",
+    "en": "Stay tuned for more nature secrets like this!",
+    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
+    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Bird Anatomy Studies",
+    "name": "Ornithology Fact Database",
     "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Ne Kadar Hafiftir?",
+  "_topic": "Kuşların Göz Kapakları Şeffaftır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-16T20:55:41.362352+00:00",
+  "generated_at": "2026-08-17T05:49:24.461514+00:00",
   "topic_guard_days": 180
 }

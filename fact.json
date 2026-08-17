@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uyurken Gözlerimiz Neden Hareket Eder?",
-    "body": "Rüya görürken göz bebeklerimizin hızlıca hareket etmesinin şaşırtıcı bir nedeni var. REM uykusu olarak bildiğimiz bu evrede, beynimiz aslında izlediğimiz rüyadaki sahneleri gözlerimizle takip ediyor. Yani kapalı göz kapaklarımızın ardında, tıpkı sinemada olduğu gibi aktif bir film izliyoruz."
+    "headline": "Balıklar Su Altında Nasıl Susuz Kalmıyor?",
+    "body": "Denizlerde yaşayan balıkların su içmesine gerek yoktur. Tuzlu su balıkları, sürekli su kaybetmemek için solungaçları ve derileri aracılığıyla suyu dışarıda tutarken, vücutlarındaki tuz dengesini korumak için sürekli su yutarlar ancak fazla tuzu solungaçlarıyla hemen atarlar."
   },
   "en": {
-    "headline": "Why Do Our Eyes Move While We Sleep?",
-    "body": "There is a surprising reason why our pupils move rapidly while dreaming. During REM sleep, our brain is actually tracking the scenes in our dream with our eyes. Behind closed eyelids, we are watching an active movie."
+    "headline": "How Fish Stay Hydrated Underwater",
+    "body": "Fish living in the oceans don't need to drink water like land animals. Saltwater fish constantly battle dehydration, so they drink seawater and actively excrete the excess salt through their gills to maintain fluid balance."
   },
   "es": {
-    "headline": "¿Por qué se mueven nuestros ojos mientras dormimos?",
-    "body": "Hay una razón sorprendente por la cual nuestras pupilas se mueven rápidamente mientras soñamos. Durante el sueño REM, nuestro cerebro realmente sigue las escenas de nuestro sueño con los ojos."
+    "headline": "Cómo se mantienen hidratados los peces bajo el agua",
+    "body": "Los peces que viven en los océanos no necesitan beber agua como los animales terrestres. Los peces de agua salada tragan agua constantemente y expulsan el exceso de sal a través de sus branquias para mantener el equilibrio de líquidos."
   },
   "ar": {
-    "headline": "لماذا تتحرك أعيننا أثناء النوم؟",
-    "body": "هناك سبب مدهش لسبب تحرك حدقة العين بسرعة أثناء الحلم. خلال نوم حركات العين السريعة، يتعقب دماغنا المشاهد."
+    "headline": "كيف تبقى الأسماك مرطبة تحت الماء",
+    "body": "الأسماك التي تعيش في المحيطات لا تحتاج إلى شرب الماء بالطريقة التقليدية. الأسماك البحرية تبتلع الماء باستمرار وتتخلص من الملح الزائد عبر خياشيمها للحفاظ على توازن السوائل في أجسامها."
   },
   "reel_hook": {
-    "tr": "Rüya görürken gözleriniz neden bir o yana bir bu yana koşturur hiç düşündünüz mü?",
-    "en": "Have you ever wondered why your eyes dart back and forth while you dream?",
-    "es": "¿Alguna vez te has preguntado por qué tus ojos se mueven de un lado a otro mientras sueñas?",
-    "ar": "هل تساءلت يوماً لماذا تتحرك عيناك يميناً ويساراً أثناء حلمك؟"
+    "tr": "Okyanusun ortasındaki balıklar hiç susamaz mı?",
+    "en": "Do fish in the middle of the ocean ever get thirsty?",
+    "es": "¿Los peces en medio del océano alguna vez tienen sed?",
+    "ar": "هل تشعر الأسماك في وسط المحيط بالعطش؟"
   },
   "story_question": {
-    "tr": "Sizce REM uykusunda gözlerin hareket etmesinin temel sebebi nedir?",
-    "en": "What do you think is the main reason for eye movement during REM sleep?",
-    "es": "¿Cuálcrees que es la razón principal del movimiento ocular durante el sueño REM?",
-    "ar": "برأيك، ما هو السبب الرئيسي لحركة العين أثناء نوم الريم؟"
+    "tr": "Sizce tuzlu su balıkları suyu nasıl dengeliyor?",
+    "en": "How do you think saltwater fish balance water?",
+    "es": "¿Cómo crees que los peces de agua salada equilibran el agua?",
+    "ar": "كيف تعتقد أن الأسماك البحرية توازن الماء؟"
   },
   "story_options": [
-    "Gözyaşı üretmek",
-    "Rüyadaki sahneleri takip etmek",
-    "Göz kaslarını dinlendirmek"
+    "Süsuç içerek",
+    "Solungaçla tuz atarak",
+    "Hiç su içmeyerek"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#rüya",
-    "#psikoloji",
+    "#okyanus",
+    "#balıklar",
     "#ilginçbilgiler",
-    "#uyku",
-    "#biyoloji"
+    "#doğa",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bu videoyu rüyalarını çok anlatan bir arkadaşına gönder!",
-    "en": "Send this video to a friend who talks a lot about their dreams!",
-    "es": "¡Envía este video a un amigo que hable mucho de sus sueños!",
-    "ar": "أرسل هذا الفيديو لصديق يتحدث كثيراً عن أحلامه!"
+    "tr": "Bunu biliyor muydun? Yorumlarda buluşalım!",
+    "en": "Did you know this? Let us know in the comments!",
+    "es": "¿Sabías esto? ¡Cuéntanos en los comentarios!",
+    "ar": "هل كنت تعرف هذا؟ أخبرنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Sleep Foundation",
-    "url": "https://www.sleepfoundation.org/stages-of-sleep/rem-sleep"
+    "name": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.noaa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uyurken Gözlerimiz Neden Hareket Eder?",
+  "_topic": "Balıklar Su Altında Nasıl Susuz Kalmıyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-17T09:01:25.503657+00:00",
+  "generated_at": "2026-08-17T11:45:40.748262+00:00",
   "topic_guard_days": 180
 }

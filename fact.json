@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Kemikleri Neden İçi Boş Olmasına Rağmen Kırılmaz?",
-    "body": "Uçabilmek için inanılmaz hafif olmaları gerekir ama bu kemiklerin zayıf olduğu anlamına gelmez. Kuşların kemiklerinin içi, tıpkı köprülerin yapımında kullanılan mühendislik harikası gibi destek kafesleriyle doludur. Bu özel iç yapı, ağırlığı minimuma indirirken darbelere karşı devasa bir dayanıklılık sağlar."
+    "headline": "Kuşlar Neden Şarkı Söyler?",
+    "body": "Sabahları duyduğumuz neşeli kuş cıvıltıları aslında romantik birer serenat değil. Kuşlar o seslerle bölgelerini diğer rakiplerine karşı sınırlandırıyor ve 'burası benim' mesajı veriyor."
   },
   "en": {
-    "headline": "Why Don't Bird Bones Break Despite Being Hollow?",
-    "body": "To fly, they need to be incredibly lightweight, but that doesn't mean their bones are weak. The inside of bird bones is filled with supporting lattices, much like the engineering marvels used in bridge construction. This special internal structure provides massive resistance to impact while keeping weight to a minimum."
+    "headline": "Why Do Birds Sing?",
+    "body": "The cheerful bird songs we hear in the morning aren't actually romantic serenades. With those sounds, birds are marking their territories against rivals and sending a message that 'this place is mine'."
   },
   "es": {
-    "headline": "¿Por qué no se rompen los huesos de las aves a pesar de ser huecos?",
-    "body": "Para volar, necesitan ser increíblemente ligeros, pero eso no significa que sus huesos sean débiles. El interior de los huesos de las aves está lleno de celosías de soporte, muy similares a las maravillas de la ingeniería utilizadas en la construcción de puentes. Esta estructura interna especial proporciona una resistencia masiva a los impactos mientras mantiene el peso al mínimo."
+    "headline": "¿Por qué cantan los pájaros?",
+    "body": "Los alegres cantos de los pájaros que escuchamos por la mañana no son en realidad serenatas románticas. Con esos sonidos, las aves están marcando sus territorios contra rivales y enviando el mensaje de 'este lugar es mío'."
   },
   "ar": {
-    "headline": "لماذا لا تكسر عظام الطيور على الرغم من كونها مجوفة؟",
-    "body": "لكي تتمكن من الطيران، يجب أن تكون خفيفة الوزن بشكل لا يصدق، لكن هذا لا يعني أن عظامها ضعيفة. الجزء الداخلي من عظام الطيور مليء بشبكات داعمة، تشبه إلى حد كبير أعاجيب الهندسة المستخدمة في بناء الجسور. يوفر هذا الهيكل الداخلي الخاص مقاومة هائلة للصدمات مع الحفاظ على الحد الأدنى من الوزن."
+    "headline": "لماذا تغرد الطيور؟",
+    "body": "زقزقة الطيور البهجة التي نسمعها في الصباح ليست في الواقع أغاني رومانسية. بهذه الأصوات، تقوم الطيور بتحديد مناطق نفوذها ضد المنافسين وإرسال رسالة مفادها 'هذا المكان لي'."
   },
   "reel_hook": {
-    "tr": "Uçabilmeleri için kemiklerinin içi tamamen boş... Peki ya o yüzden hemen kırılmıyorlar mı?",
-    "en": "Their bones are completely hollow so they can fly... So why don't they just break?",
-    "es": "Sus huesos son completamente huecos para poder volar... ¿Por qué no se rompen tan fácilmente?",
-    "ar": "عظامهم مجوفة تماماً لكي يتمكنوا من الطيران... فلماذا لا تنكسر بسهولة إذن؟"
+    "tr": "Sabahları duyduğunuz o tatlı kuş sesleri aslında masum birer şarkı değil...",
+    "en": "Those sweet bird sounds you hear in the morning aren't actually innocent songs...",
+    "es": "Esos dulces sonidos de pájaros que escuchas por la mañana no son canciones inocentes...",
+    "ar": "أصوات الطيور الجميلة التي تسمعها في الصباح ليست أغاني بريئة حقاً..."
   },
   "story_question": {
-    "tr": "Kuşların kemiklerinin içindeki bu destek yapısı hangi insan yapımı mimariye benzetilir?",
-    "en": "What man-made architecture is the supporting structure inside bird bones compared to?",
-    "es": "¿A qué arquitectura hecha por el hombre se parece la estructura de soporte dentro de los huesos de las aves?",
-    "ar": "ما هي الهندسة البشريّة التي تشبهها الهياكل الداعمة داخل عظام الطيور؟"
+    "tr": "Sizce kuşlar sabahları en çok hangi amaçla öter?",
+    "en": "Why do you think birds sing the most in the mornings?",
+    "es": "¿Para qué crees que cantan más los pájaros por la mañana?",
+    "ar": "برأيك، ما هو الغرض الأساسي لتغرد الطيور في الصباح؟"
   },
   "story_options": [
-    "Asma Köprüler",
-    "Gökdelen Çelikleri",
-    "Kubbe Tavanlar"
+    "Eş bulmak",
+    "Bölge savunması",
+    "Sabah selamı"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#biyoloji",
     "#doğa",
+    "#kuşlar",
     "#bilim",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#hayvanlaralemi",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more amazing nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos sorprendentes de la naturaleza como este!",
-    "ar": "لا تنس متابعتنا للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunu bildiğini mi sanıyordun? Kaydet ve arkadaşına gönder!",
+    "en": "Think you knew this? Save and send to a friend!",
+    "es": "¿Creías que lo sabías? ¡Guárdalo y envíaselo a un amigo!",
+    "ar": "هل كنت تعتقد أنك تعرف هذا؟ احفظه وأرسله لصديق!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.8
+    "overall": 8.7
   },
   "source": {
-    "name": "Ornithology and Bird Skeletal Anatomy Studies",
-    "url": "https://www.audubon.org/news/how-do-birds-fly"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org/news/why-do-birds-sing-morning"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Kemikleri Neden İçi Boş Olmasına Rağmen Kırılmaz?",
+  "_topic": "Kuşlar Neden Şarkı Söyler?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-17T19:26:46.378333+00:00",
+  "generated_at": "2026-08-17T21:00:28.721594+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözleri Kafalarından Daha Büyüktür",
-    "body": "Bir baykuşun gözlerinin ne kadar büyük olduğunu hiç fark ettiniz mi? Aslında kuşların gözleri o kadar büyüktür ki, kafataslarının içine sabitlenmiş durumdadır. Bu yüzden etrafa bakmak için gözlerini hareket ettiremezler, bunun yerine tüm kafalarını neredeyse 270 derece döndürmek zorunda kalırlar."
+    "headline": "Balinaların Derinlerdeki Gizli Hafızası",
+    "body": "Biliyor musunuz, okyanusun devleri mavi balinalar seslerini sadece iletişim kurmak için kullanmaz. Onların çıkardığı bu düşük frekanslı devasa ses dalgaları, binlerce kilometre uzaktaki okyanus tabanının haritasını çıkarmalarını sağlar. Adeta karanlıkta sesle gören birer kâşif gibidirler."
   },
   "en": {
-    "headline": "Birds' Eyes Are Larger Than Their Brains",
-    "body": "Have you ever noticed how big an owl's eyes are? In fact, birds' eyes are so large that they are fixed in their skulls. Because of this, they cannot move their eyes to look around; instead, they have to turn their entire heads almost 270 degrees."
+    "headline": "The Hidden Deep-Sea Memory of Whales",
+    "body": "Did you know that blue whales, the giants of the ocean, don't just use their sounds for communication? These massive, low-frequency sound waves allow them to map the ocean floor thousands of kilometers away. They are like explorers seeing through sound in the dark."
   },
   "es": {
-    "headline": "Los ojos de las aves son más grandes que sus cerebros",
-    "body": "¿Alguna vez has notado lo grandes que son los ojos de un búho? De hecho, los ojos de las aves son tan grandes que están fijos en sus cráneos. Debido a esto, no pueden mover los ojos para mirar alrededor; en su lugar, tienen que girar toda la cabeza casi 270 grados."
+    "headline": "La Memoria Oculta de las Ballenas en las Profundidades",
+    "body": "¿Sabías que las ballenas azules, los gigantes del océano, no solo usan sus sonidos para comunicarse? Estas enormes ondas sonoras de baja frecuencia les permiten mapear el fondo marino a miles de kilómetros de distancia. Son como exploradores que ven a través del sonido en la oscuridad."
   },
   "ar": {
-    "headline": "عيون الطيور أكبر من أدمغتها",
-    "body": "هل لاحظت من قبل مدى كبر عيون البومة؟ في الواقع، عيون الطيور كبيرة جدا لدرجة أنها مثبتة في جماجمها. ولهذا السبب، لا يمكنها تحريك عيونها للنظر حولها، بل يتعين عليها إدارة رؤوسها بالكامل بحوالي 270 درجة."
+    "headline": "ذاكرة الحيتان الخفية في الأعماق",
+    "body": "هل تعلم أن الحيتان الزرقاء، عمالقة المحيط، لا تستخدم أصواتها للتواصل فحسب؟ موجات الصوت الهائلة ذات التردد المنخفض تساعدها على رسم خريطة لقاع المحيط على بعد آلاف الكيلومترات. إنها تشبه المستكشفين الذين يرون من خلال الصدى في الظلام."
   },
   "reel_hook": {
-    "tr": "Baykuşlar neden gözlerini hareket ettiremez?",
-    "en": "Why can't owls move their eyes?",
-    "es": "¿Por qué los búhos no pueden mover los ojos?",
-    "ar": "لماذا لا تستطيع البوم تحريك عيونها؟"
+    "tr": "Okyanusun devleri karanlıkta sesle mi görüyor?",
+    "en": "Do ocean giants see through sound in the dark?",
+    "es": "¿Los gigantes del océano ven a través del sonido en la oscuridad?",
+    "ar": "هل ترى عمالقة المحيط من خلال الصوت في الظلام؟"
   },
   "story_question": {
-    "tr": "Kuşların gözleri kafataslarının içinde hareket edebilir mi?",
-    "en": "Can birds' eyes move inside their skulls?",
-    "es": "¿Pueden moverse los ojos de las aves dentro de sus cráneos?",
-    "ar": "هل يمكن لعيون الطيور التحرك داخل جماجمها؟"
+    "tr": "Mavi balinaların sesleri okyanusta ne kadar uzağa ulaşabilir?",
+    "en": "How far can blue whale sounds travel in the ocean?",
+    "es": "¿Qué tan lejos pueden viajar los sonidos de la ballena azul en el océano?",
+    "ar": "إلى أي مدى يمكن أن تقطع أصوات الحوت الأزرق في المحيط؟"
   },
   "story_options": [
-    "Evet, tıpkı bizim gibi",
-    "Hayır, tamamen sabitler",
-    "Sadece sağa ve sola dönebilirler"
+    "Yüzlerce kilometre",
+    "Binlerce kilometre",
+    "Sadece birkaç kilometre"
   ],
   "hashtags": [
     "#FactBite",
-    "#Kuşlar",
-    "#Doğa",
-    "#Bilim",
-    "#İlginçBilgiler",
-    "#HayvanlarlarAlemi",
-    "#Eğitim"
+    "#balina",
+    "#okyanus",
+    "#bilim",
+    "#doğa",
+    "#keşif",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu bildiğini muhtemelen arkadaşın bilmiyor, hemen gönder!",
-    "en": "Your friend probably didn't know this, send it to them right now!",
-    "es": "Tu amigo probablemente no sabía esto, ¡envíaselo ahora mismo!",
-    "ar": "صديقك على الأرجح لم يكن يعرف هذا، أرسله إليه الآن!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Stay tuned for more facts like this!",
+    "es": "¡Sigue atento para más datos como este!",
+    "ar": "ترقبوا المزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "Oceanographic Magazine",
+    "url": "https://oceanographicmagazine.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözleri Kafalarından Daha Büyüktür",
+  "_topic": "Balinaların Derinlerdeki Gizli Hafızası",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-17T15:27:16.543235+00:00",
+  "generated_at": "2026-08-17T17:36:37.081472+00:00",
   "topic_guard_days": 180
 }

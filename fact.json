@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Neden Şarkı Söyler?",
-    "body": "Sabahları duyduğumuz neşeli kuş cıvıltıları aslında romantik birer serenat değil. Kuşlar o seslerle bölgelerini diğer rakiplerine karşı sınırlandırıyor ve 'burası benim' mesajı veriyor."
+    "headline": "Zürafaların Sesi Neden Hiç Duyulmaz?",
+    "body": "Zürafaların tamamen sessiz olduğunu düşünebilirsiniz, ancak durum hiç de öyle değil. Uzun boyunları ve devasa ses telleri nedeniyle onlar aslında insan kulağının duyamayacağı kadar düşük frekanslarda, yani infrases ile geceleri birbirleriyle konuşurlar."
   },
   "en": {
-    "headline": "Why Do Birds Sing?",
-    "body": "The cheerful bird songs we hear in the morning aren't actually romantic serenades. With those sounds, birds are marking their territories against rivals and sending a message that 'this place is mine'."
+    "headline": "Why Are Giraffes Completely Silent to Us?",
+    "body": "You might think giraffes are totally silent, but they actually communicate. Because of their long necks and unique vocal cords, they talk to each other at night using infrasound frequencies that are too low for human ears to hear."
   },
   "es": {
-    "headline": "¿Por qué cantan los pájaros?",
-    "body": "Los alegres cantos de los pájaros que escuchamos por la mañana no son en realidad serenatas románticas. Con esos sonidos, las aves están marcando sus territorios contra rivales y enviando el mensaje de 'este lugar es mío'."
+    "headline": "¿Por qué las jirafas son silenciosas para nosotros?",
+    "body": "Podrías pensar que las jirafas son totalmente silenciosas, pero en realidad se comunican. Debido a sus largos cuellos y cuerdas vocales, hablan entre sí por la noche usando frecuencias de infrasonido demasiado bajas para los humanos."
   },
   "ar": {
-    "headline": "لماذا تغرد الطيور؟",
-    "body": "زقزقة الطيور البهجة التي نسمعها في الصباح ليست في الواقع أغاني رومانسية. بهذه الأصوات، تقوم الطيور بتحديد مناطق نفوذها ضد المنافسين وإرسال رسالة مفادها 'هذا المكان لي'."
+    "headline": "لماذا تبدو الزرافات صامتة تماماً بالنسبة لنا؟",
+    "body": "قد تعتقد أن الزرافات صامتة تماماً، لكنها تتواصل في الواقع. بسبب أعناقها الطويلة وحبالها الصوتية، فإنها تتحدث مع بعضها البعض ليلا باستخدام ترددات منخفضة للغاية لا تستطيع أذن الإنسان سماعها."
   },
   "reel_hook": {
-    "tr": "Sabahları duyduğunuz o tatlı kuş sesleri aslında masum birer şarkı değil...",
-    "en": "Those sweet bird sounds you hear in the morning aren't actually innocent songs...",
-    "es": "Esos dulces sonidos de pájaros que escuchas por la mañana no son canciones inocentes...",
-    "ar": "أصوات الطيور الجميلة التي تسمعها في الصباح ليست أغاني بريئة حقاً..."
+    "tr": "Zürafaların hiç ses çıkarmadığını mı sanıyorsunuz?",
+    "en": "Do you think giraffes never make a sound?",
+    "es": "¿Crees que las jirafas nunca hacen ruido?",
+    "ar": "هل تعتقد أن الزرافات لا تصدر أي صوت أبداً؟"
   },
   "story_question": {
-    "tr": "Sizce kuşlar sabahları en çok hangi amaçla öter?",
-    "en": "Why do you think birds sing the most in the mornings?",
-    "es": "¿Para qué crees que cantan más los pájaros por la mañana?",
-    "ar": "برأيك، ما هو الغرض الأساسي لتغرد الطيور في الصباح؟"
+    "tr": "Zürafaların çıkardığı bu gizli sesler hangi frekanstadır?",
+    "en": "At what frequency are these hidden sounds made by giraffes?",
+    "es": "¿A qué frecuencia se producen estos sonidos ocultos de las jirafas?",
+    "ar": "ما هي الترددات التي تصدر بها الزرافات هذه الأصوات الخفية؟"
   },
   "story_options": [
-    "Eş bulmak",
-    "Bölge savunması",
-    "Sabah selamı"
+    "Ultrases (Yüksek frekans)",
+    "İnfrases (Düşük frekans)",
+    "Normal insan ses aralığı"
   ],
   "hashtags": [
     "#FactBite",
+    "#zürafa",
     "#doğa",
-    "#kuşlar",
     "#bilim",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#hayvanlaralemi",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu bildiğini mi sanıyordun? Kaydet ve arkadaşına gönder!",
-    "en": "Think you knew this? Save and send to a friend!",
-    "es": "¿Creías que lo sabías? ¡Guárdalo y envíaselo a un amigo!",
-    "ar": "هل كنت تعتقد أنك تعرف هذا؟ احفظه وأرسله لصديق!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 8.7
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org/news/why-do-birds-sing-morning"
+    "name": "BBC Earth",
+    "url": "https://www.bbc.com/earth/story/20160124-giraffes-actually-have-voices-they-just-hum-at-night"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Neden Şarkı Söyler?",
+  "_topic": "Zürafaların Sesi Neden Hiç Duyulmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-17T21:00:28.721594+00:00",
+  "generated_at": "2026-08-18T05:44:29.098944+00:00",
   "topic_guard_days": 180
 }

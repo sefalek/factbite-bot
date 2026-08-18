@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Zürafaların Sesi Neden Hiç Duyulmaz?",
-    "body": "Zürafaların tamamen sessiz olduğunu düşünebilirsiniz, ancak durum hiç de öyle değil. Uzun boyunları ve devasa ses telleri nedeniyle onlar aslında insan kulağının duyamayacağı kadar düşük frekanslarda, yani infrases ile geceleri birbirleriyle konuşurlar."
+    "headline": "Kuşların Gözleri Neden O Kadar Hızlı Kırpılır?",
+    "body": "Yolda yürürken güvercinlerin başlarını garip bir şekilde ileri geri salladığını kesinlikle fark etmişsindir. Aslında bu bir dans değil! Güvercinler, uçarken veya yürürken dünyayı net görebilmek için kafalarını anlık olarak sabitler ve vücutlarını arkasından getirirler."
   },
   "en": {
-    "headline": "Why Are Giraffes Completely Silent to Us?",
-    "body": "You might think giraffes are totally silent, but they actually communicate. Because of their long necks and unique vocal cords, they talk to each other at night using infrasound frequencies that are too low for human ears to hear."
+    "headline": "Why Do Pigeons Bob Their Heads When They Walk?",
+    "body": "If you've ever watched pigeons walk, you've definitely noticed their heads moving back and forth. It's actually not a dance! They lock their heads in place momentarily to keep their vision stable while their body catches up."
   },
   "es": {
-    "headline": "¿Por qué las jirafas son silenciosas para nosotros?",
-    "body": "Podrías pensar que las jirafas son totalmente silenciosas, pero en realidad se comunican. Debido a sus largos cuellos y cuerdas vocales, hablan entre sí por la noche usando frecuencias de infrasonido demasiado bajas para los humanos."
+    "headline": "¿Por qué las palomas mueven la cabeza al caminar?",
+    "body": "Si has observado a las palomas caminar, habrás notado que mueven la cabeza hacia adelante y hacia atrás. ¡No es un baile! Mantienen la cabeza fija un instante para estabilizar su visión mientras el cuerpo avanza."
   },
   "ar": {
-    "headline": "لماذا تبدو الزرافات صامتة تماماً بالنسبة لنا؟",
-    "body": "قد تعتقد أن الزرافات صامتة تماماً، لكنها تتواصل في الواقع. بسبب أعناقها الطويلة وحبالها الصوتية، فإنها تتحدث مع بعضها البعض ليلا باستخدام ترددات منخفضة للغاية لا تستطيع أذن الإنسان سماعها."
+    "headline": "لماذا تحرك الحمام رأسه أثناء المشي؟",
+    "body": "إذا راقبت الحمام وهو يمشي، فلا بد أنك لاحظت تحريك رأسه للخلف وللأمام. في الواقع، ليست رقصة! إنهم يثبتون رؤوسهم لحظياً لتثبيت رؤيتهم بينما يتحرك أجسادهم."
   },
   "reel_hook": {
-    "tr": "Zürafaların hiç ses çıkarmadığını mı sanıyorsunuz?",
-    "en": "Do you think giraffes never make a sound?",
-    "es": "¿Crees que las jirafas nunca hacen ruido?",
-    "ar": "هل تعتقد أن الزرافات لا تصدر أي صوت أبداً؟"
+    "tr": "Güvercinler yürürken kafalarını neden sürekli sallar?",
+    "en": "Why do pigeons constantly bob their heads when they walk?",
+    "es": "¿Por qué las palomas mueven la cabeza constantemente al caminar?",
+    "ar": "لماذا يحرك الحمام رأسه باستمرار أثناء المشي؟"
   },
   "story_question": {
-    "tr": "Zürafaların çıkardığı bu gizli sesler hangi frekanstadır?",
-    "en": "At what frequency are these hidden sounds made by giraffes?",
-    "es": "¿A qué frecuencia se producen estos sonidos ocultos de las jirafas?",
-    "ar": "ما هي الترددات التي تصدر بها الزرافات هذه الأصوات الخفية؟"
+    "tr": "Güvercinlerin başını sallama sebebi nedir?",
+    "en": "What is the reason behind pigeons bobbing their heads?",
+    "es": "¿Cuál es la razón por la que las palomas mueven la cabeza?",
+    "ar": "ما هو سبب تحريك الحمام لرؤوسه؟"
   },
   "story_options": [
-    "Ultrases (Yüksek frekans)",
-    "İnfrases (Düşük frekans)",
-    "Normal insan ses aralığı"
+    "Görüşü sabitlemek",
+    "Müzik ritmi tutmak",
+    "Dengeyi sağlamak"
   ],
   "hashtags": [
     "#FactBite",
-    "#zürafa",
-    "#doğa",
+    "#kuşlar",
+    "#güvercin",
     "#bilim",
-    "#hayvanlar",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#doğa"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip et!",
+    "en": "Follow for more fascinating facts like this!",
+    "es": "¡Sígueme para más datos fascinantes como este!",
+    "ar": "تابعنا للمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "surprise": 8,
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "BBC Earth",
-    "url": "https://www.bbc.com/earth/story/20160124-giraffes-actually-have-voices-they-just-hum-at-night"
+    "name": "Ornithology and Animal Vision Studies",
+    "url": "https://www.audubon.org/news/why-do-pigeons-bob-their-heads"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Zürafaların Sesi Neden Hiç Duyulmaz?",
+  "_topic": "Kuşların Gözleri Neden O Kadar Hızlı Kırpılır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-18T05:44:29.098944+00:00",
+  "generated_at": "2026-08-18T07:47:20.816721+00:00",
   "topic_guard_days": 180
 }

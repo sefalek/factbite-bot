@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözleri Neden O Kadar Hızlı Kırpılır?",
-    "body": "Yolda yürürken güvercinlerin başlarını garip bir şekilde ileri geri salladığını kesinlikle fark etmişsindir. Aslında bu bir dans değil! Güvercinler, uçarken veya yürürken dünyayı net görebilmek için kafalarını anlık olarak sabitler ve vücutlarını arkasından getirirler."
+    "headline": "Uyurken Gözlerimizin Arkasındaki Gizli Film",
+    "body": "Gözlerimiz kapalıyken bile rüya görürken hızla hareket eder. Bunun nedeni, beynimizin o sırada uyanıkken olduğundan daha aktif olması ve yeni anıları temizleyip depolamaya çalışmasıdır."
   },
   "en": {
-    "headline": "Why Do Pigeons Bob Their Heads When They Walk?",
-    "body": "If you've ever watched pigeons walk, you've definitely noticed their heads moving back and forth. It's actually not a dance! They lock their heads in place momentarily to keep their vision stable while their body catches up."
+    "headline": "The Secret Movie Behind Our Closed Eyes",
+    "body": "Even when our eyes are closed, they move rapidly while dreaming. This is because our brain is actually more active than when we are awake, sorting and storing memories."
   },
   "es": {
-    "headline": "¿Por qué las palomas mueven la cabeza al caminar?",
-    "body": "Si has observado a las palomas caminar, habrás notado que mueven la cabeza hacia adelante y hacia atrás. ¡No es un baile! Mantienen la cabeza fija un instante para estabilizar su visión mientras el cuerpo avanza."
+    "headline": "La película secreta detrás de nuestros ojos",
+    "body": "Incluso con los ojos cerrados, estos se mueven rápido al soñar. Esto ocurre porque el cerebro está más activo que al despertar, organizando y almacenando recuerdos."
   },
   "ar": {
-    "headline": "لماذا تحرك الحمام رأسه أثناء المشي؟",
-    "body": "إذا راقبت الحمام وهو يمشي، فلا بد أنك لاحظت تحريك رأسه للخلف وللأمام. في الواقع، ليست رقصة! إنهم يثبتون رؤوسهم لحظياً لتثبيت رؤيتهم بينما يتحرك أجسادهم."
+    "headline": "الفيلم الخفي خلف أعيننا المغلقة",
+    "body": "حتى عندما تكون أعيننا مغلقة، فإنها تتحرك بسرعة أثناء الحلم. والسبب أن الدماغ يكون أكثر نشاطاً مقارنة بيقظتنا، لترتيب وتخزين الذكريات."
   },
   "reel_hook": {
-    "tr": "Güvercinler yürürken kafalarını neden sürekli sallar?",
-    "en": "Why do pigeons constantly bob their heads when they walk?",
-    "es": "¿Por qué las palomas mueven la cabeza constantemente al caminar?",
-    "ar": "لماذا يحرك الحمام رأسه باستمرار أثناء المشي؟"
+    "tr": "Uykudayken göz bebeklerinizin neden deli gibi hareket ettiğini biliyor musunuz?",
+    "en": "Do you know why your eyeballs move like crazy while you sleep?",
+    "es": "¿Sabes por qué tus ojos se mueven como locos mientras duermes?",
+    "ar": "هل تعلم لماذا تتحرك مقلتا عينك بجنون أثناء النوم؟"
   },
   "story_question": {
-    "tr": "Güvercinlerin başını sallama sebebi nedir?",
-    "en": "What is the reason behind pigeons bobbing their heads?",
-    "es": "¿Cuál es la razón por la que las palomas mueven la cabeza?",
-    "ar": "ما هو سبب تحريك الحمام لرؤوسه؟"
+    "tr": "Hızlı göz hareketlerinin (REM) en yoğun olduğu an ne zaman yaşanır?",
+    "en": "When does rapid eye movement (REM) peak the most?",
+    "es": "¿Cuándo se produce el punto máximo de movimiento ocular rápido (REM)?",
+    "ar": "متى تبلغ حركة العين السريعة (REM) ذروتها؟"
   },
   "story_options": [
-    "Görüşü sabitlemek",
-    "Müzik ritmi tutmak",
-    "Dengeyi sağlamak"
+    "Sabaha karşı",
+    "Uykuya dalındığı an",
+    "Gecenin ilk saatleri"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#güvercin",
+    "#uyku",
     "#bilim",
-    "#ilginçbilgiler",
-    "#doğa"
+    "#rüya",
+    "#beyin",
+    "#psikoloji",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip et!",
-    "en": "Follow for more fascinating facts like this!",
-    "es": "¡Sígueme para más datos fascinantes como este!",
-    "ar": "تابعنا للمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Bu konuyu en çok merak eden arkadaşına gönder!",
+    "en": "Send this to a friend who loves sleep science!",
+    "es": "¡Envíaselo a un amigo al que le encante la ciencia del sueño!",
+    "ar": "أرسل هذا لصديق يحب علم النوم!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 8,
     "shareability": 9,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Animal Vision Studies",
-    "url": "https://www.audubon.org/news/why-do-pigeons-bob-their-heads"
+    "name": "Sleep Foundation",
+    "url": "https://www.sleepfoundation.org/stages-of-sleep/rem-sleep"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözleri Neden O Kadar Hızlı Kırpılır?",
+  "_topic": "Uyurken Gözlerimizin Arkasındaki Gizli Film",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-18T07:47:20.816721+00:00",
+  "generated_at": "2026-08-18T08:53:35.384603+00:00",
   "topic_guard_days": 180
 }

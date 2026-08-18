@@ -36,6 +36,34 @@ def raw(path):
     return f"https://raw.githubusercontent.com/{REPO}/{BRANCH}/{path.replace(os.sep, '/')}"
 
 
+def build_caption(fact):
+    x = fact.get("tr") or {}
+    headline = x.get("headline", "FactBite")
+    body = x.get("body", "").strip()
+    hook = fact.get("reel_hook", {}).get("tr", headline).strip()
+    generated = fact.get("caption", "").strip()
+    cta = fact.get("cta", {}).get("tr", "Böyle şaşırtıcı bilgiler için FactBite'ı takip et.").strip()
+
+    explanation = generated or body
+    if explanation == body:
+        explanation = body
+
+    hashtags = fact.get("hashtags", [])
+    clean = []
+    for tag in hashtags:
+        tag = str(tag).strip()
+        if tag and not tag.startswith("#"):
+            tag = "#" + tag
+        if tag and tag.lower() not in {x.lower() for x in clean}:
+            clean.append(tag)
+    required = ["#FactBite", "#şaşırtıcıbilgiler", "#ilginçbilgiler", "#bilgi", "#reels", "#keşfet"]
+    for tag in required:
+        if tag.lower() not in {x.lower() for x in clean}:
+            clean.append(tag)
+
+    return f"{headline}\n\n{explanation}\n\n{cta}\n\n@factbitee\n\n{' '.join(clean[:18])}"
+
+
 def main():
     d = open("latest_post_dir.txt", encoding="utf-8").read().strip()
     fact = json.load(open("fact.json", encoding="utf-8"))
@@ -48,9 +76,9 @@ def main():
 
     video_url = raw(video)
     print(f"Publishing Reel asset: {video_url}")
-    hashtags = " ".join(fact.get("hashtags", [])[:6])
-    hook = fact.get("reel_hook", {}).get("tr", "Bunu biliyor muydun?")
-    caption = f"{hook}\n\nHer gün kısa, şaşırtıcı ve doğrulanabilir bilgiler. 🧠\n\n{hashtags}"
+    caption = build_caption(fact)
+    print("Instagram caption prepared with explanation, CTA and hashtags.")
+
     x = post(f"{USER}/media", {
         "media_type": "REELS",
         "video_url": video_url,
@@ -63,5 +91,4 @@ def main():
     print("Reel published:", published)
 
 
-if __name__ == "__main__":
-    main()
+if __name__ == "__main__": main()

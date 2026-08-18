@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilere Aslında Ne Zaman Evcilleşti?",
-    "body": "Kedilerin evcilleşme hikayesini bildiğinizi mi sanıyorsunuz? Mısır'ı unutun. Arkeolojik bulgular, kedilerin insanlarla ilk kez binlerce yıl önce tarımın başlamasıyla, tahıl ambarlarını kemirgenlerden korumak için kendi istekleriyle ortaklık kurduğunu gösteriyor. Yani biz onları değil, onlar bizi seçti."
+    "headline": "Solucanlar Neden Çift Cinsiyetlidir?",
+    "body": "Toprak solucanlarının hem erkek hem de dişi üreme organlarına sahip olduğunu biliyor muydunuz? Bu biyolojik özellik, çiftleşme şansını iki katına çıkararak hayatta kalmalarını kolaylaştırır."
   },
   "en": {
-    "headline": "When Did Cats Actually Get Domesticated?",
-    "body": "Think you know how cats were domesticated? Forget ancient Egypt. Archaeological evidence shows that cats partnered with humans thousands of years ago during the dawn of agriculture, choosing to protect grain stores from rodents. Essentially, they chose us, not the other way around."
+    "headline": "Why Are Earthworms Hermaphrodites?",
+    "body": "Did you know that earthworms possess both male and female reproductive organs? This biological trait doubles their chances of successful mating, helping them survive."
   },
   "es": {
-    "headline": "¿Cuándo se domesticaron realmente los gatos?",
-    "body": "¿Crees que sabes cómo se domesticaron los gatos? Olvídate del antiguo Egipto. La evidencia arqueológica muestra que los gatos se asociaron con los humanos hace miles de años en los albores de la agricultura, eligiendo proteger los graneros de los roedores. En esencia, ellos nos eligieron a nosotros."
+    "headline": "¿Por qué las lombrices son hermafroditas?",
+    "body": "¿Sabías que las lombrices de tierra poseen órganos reproductores masculinos y femeninos? Este rasgo biológico duplica sus posibilidades de apareamiento exitoso."
   },
   "ar": {
-    "headline": "متى تم تدجين القطط حقاً؟",
-    "body": "هل تعتقد أنك تعرف كيف تم تدجين القطط؟ انسا مصر القديمة. تظهر الأدلة الأثرية أن القطط شاركت البشر قبل آلاف السنين مع بداية الزراعة، واختارت حماية مخازن الحبوب من القوارض. باختصار، هم من اختارونا."
+    "headline": "لماذا تعتبر ديدان الأرض خنثى؟",
+    "body": "هل تعلم أن ديدان الأرض تمتلك أعضاء تكاثراً ذكرية وأنشوية معاً؟ هذه الخصائص البيولوجية تضاعف فرص التكاثر الناجح."
   },
   "reel_hook": {
-    "tr": "Kediler evcil hayvanımız mı, yoksa bizi patronları olarak mı görüyor?",
-    "en": "Are cats our pets, or do they see us as their staff?",
-    "es": "¿Son los gatos nuestras mascotas o nos ven como sus sirvientes?",
-    "ar": "هل القطط حيواناتنا الأليفة أم أنها ترانا خدم لها؟"
+    "tr": "Toprağın altındaki bu canlılar tek bir cinsiyetle yetinmiyor!",
+    "en": "These creatures beneath the soil don't settle for just one gender!",
+    "es": "¡Estas criaturas bajo la tierra no se conforman con un solo sexo!",
+    "ar": "هذه الكائنات تحت التربة لا تكتفي بجنس واحد فقط!"
   },
   "story_question": {
-    "tr": "Sizce kediler insanları ne olarak görüyor?",
-    "en": "What do you think cats view humans as?",
-    "es": "¿Qué crees que piensan los gatos de los humanos?",
-    "ar": "برأيك، كيف ترى القطط البشر؟"
+    "tr": "Toprak solucanlarının bu özelliği onlara ne sağlar?",
+    "en": "What does this trait provide for earthworms?",
+    "es": "¿Qué ventaja les proporciona este rasgo a las lombrices?",
+    "ar": "ماذا توفر هذه الصفة لديدان الأرض؟"
   },
   "story_options": [
-    "A) Anne / Baba",
-    "B) Büyük bir kedi",
-    "C) Hizmetçi"
+    "Üreme şansını artırır",
+    "Hızlı koşmalarını sağlar",
+    "Görmelerini engeller"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
+    "#solucan",
+    "#biyoloji",
+    "#doğa",
     "#bilim",
-    "#tarih",
     "#ilginçbilgiler",
-    "#hayvanlar",
-    "#keşfet"
+    "#toprak"
   ],
   "cta": {
-    "tr": "Sence kedin seni gerçekten seviyor mu yoksa sadece mamaya mı bağlı? Yorumlarda buluşalım!",
-    "en": "Does your cat really love you or just the food? Let us know in the comments!",
-    "es": "¿Tu gato te ama de verdad o solo quiere comida? ¡Dínoslo en los comentarios!",
-    "ar": "هل تحبك قطتك حقاً أم أن الأمر يتعلق بالطعام فقط؟ شاركنا برأيك!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza!",
+    "ar": "تابع للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/history/article/cat-domestication-evolution-aegean-archaeology"
+    "name": "National Geographic Biology",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilere Aslında Ne Zaman Evcilleşti?",
+  "_topic": "Solucanlar Neden Çift Cinsiyetlidir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-18T19:30:59.507329+00:00",
+  "generated_at": "2026-08-18T20:58:02.751628+00:00",
   "topic_guard_days": 180
 }

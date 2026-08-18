@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Zürafaların Mavi Dili Neden Var?",
-    "body": "Zürafaların dilleri koyu morf-mavi renktedir ve neredeyse 50 santimetre uzunluğundadır. Bu renk, onlara doğada inanılmaz bir avantaj sağlar: Akşamsefası ve diğer dikenli akasya ağaçlarının yapraklarını yerken dillerinin güneşten yanmasını önler. Güçlü morötesi ışınlara karşı adeta doğal bir güneş kremi görevi görür."
+    "headline": "Panda'nın Gizli Başparmağı",
+    "body": "Bambu yemek için evrimleşen pandaların aslında gerçek anlamda başparmakları yoktur. Bunun yerine, bambuları sıkıca kavrayabilmelerini sağlayan, bilek kemiklerinin uzamasıyla oluşan yalancı bir altıncı parmakları bulunur."
   },
   "en": {
-    "headline": "Why Do Giraffes Have Blue Tongues?",
-    "body": "Giraffes have dark purple-blue tongues that can grow up to 50 centimeters long. This unique color provides them with an incredible natural advantage: it prevents their tongues from getting sunburned while reaching for leaves on thorny acacia trees under the scorching sun."
+    "headline": "The Panda's Hidden Thumb",
+    "body": "Pandas, evolved to eat bamboo, don't actually have true thumbs. Instead, they have a pseudo-sixth finger formed by an elongated wrist bone that helps them grip bamboo firmly."
   },
   "es": {
-    "headline": "¿Por qué las jirafas tienen la lengua azul?",
-    "body": "Las jirafas tienen lenguas de un tono azul purpúreo oscuro que pueden medir casi 50 centímetros. Este color les proporciona una ventaja natural increíble: evita que sus lenguas se quemen con el sol mientras alcanzan las hojas de las acacias espinosas bajo el sol abrasador."
+    "headline": "El pulgar oculto del panda",
+    "body": "Los pandas, evolucionados para comer bambú, no tienen pulgares reales. En su lugar, tienen un sexto dedo falso formado por un hueso de la muñeca alargado que les ayuda a sujetar el bambú firmemente."
   },
   "ar": {
-    "headline": "لماذا تمتلك الزرافات ألسنة زرقاء؟",
-    "body": "تمتلك الزرافات ألسنة ذات لون أزرق داكن يميل إلى البنفسجي يمكن أن يصل طولها إلى نحو 50 سنتيمتراً. يوفر هذا اللون ميزة طبيعية مذهلة، حيث يحمي ألسنتها من الاحتراق تحت أشعة الشمس الحارقة أثناء التقاط الأوراق من الأشجار الشوكية."
+    "headline": "إهام البندا الخفي",
+    "body": "الباندا، التي تطورت لتأكل الخيزران، لا تمتلك في الواقع إبهاماً حقيقياً. بدلاً من ذلك، لديها إصبع سادس كاذب تشكل من عظمة رسغ ممتدة تساعدها على الإمساك بالخيزران بقوة."
   },
   "reel_hook": {
-    "tr": "Zürafaların dili neden güneşten hiç yanmaz biliyor musun?",
-    "en": "Do you know why a giraffe's tongue never gets sunburned?",
-    "es": "¿Sabes por qué la lengua de una jirafa nunca se quema con el sol?",
-    "ar": "هل تعلم لماذا لا تحترق لغة الزرافة أبداً تحت الشمس؟"
+    "tr": "Pandaların aslında kaç parmağı olduğunu biliyor musun?",
+    "en": "Do you know how many fingers pandas actually have?",
+    "es": "¿Sabes cuántos dedos tienen realmente los pandas?",
+    "ar": "هل تعرف كم عدد أصابع البندا حقاً؟"
   },
   "story_question": {
-    "tr": "Zürafaların mavi dilleri güneşten korunmanın yanı sıra başka hangi amaçla renk değiştirir?",
-    "en": "Besides sun protection, for what other purpose might a giraffe's tongue change color?",
-    "es": "Aparte de la protección solar, ¿con qué otro propósito podría cambiar de color la lengua de una jirafa?",
-    "ar": "بالإضافة إلى الحماية من الشمس، ما الغرض الآخر الذي قد يغير لغة الزرافة بسببه؟"
+    "tr": "Pandaların bu özel 'altıncı parmağı' hangi kemiğin uzamasıyla oluşmuştur?",
+    "en": "Which bone elongates to form the panda's special 'sixth finger'?",
+    "es": "¿Qué hueso se alarga para formar el 'séptimo dedo' del panda?",
+    "ar": "أي عظمة تمتد لتشكل 'الإصبع السادس' الخاص بالباندا؟"
   },
   "story_options": [
-    "Duygu durumunu gösterir",
-    "Renk değiştirmez, sabittir",
-    "Avlanmaya yardım eder"
+    "Bilek kemiği",
+    "Ön kol kemiği",
+    "Parmak ucu kemiği"
   ],
   "hashtags": [
     "#FactBite",
-    "#zürafa",
-    "#doğa",
+    "#panda",
     "#bilim",
+    "#doğa",
     "#hayvanlar",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#evrim"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydun? Yorumlarda buluşalım!",
-    "en": "Did you know this before? Let us know in the comments!",
-    "es": "¿Sabías esto antes? ¡Déjanos tu comentario!",
-    "ar": "هل كنت تعلم هذا من قبل؟ شاركنا برأيك في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "San Diego Zoo Wildlife Alliance",
-    "url": "https://animals.sandiegozoo.org/animals/giraffe"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Zürafaların Mavi Dili Neden Var?",
+  "_topic": "Panda'nın Gizli Başparmağı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-18T15:33:04.659775+00:00",
+  "generated_at": "2026-08-18T17:50:18.964780+00:00",
   "topic_guard_days": 180
 }

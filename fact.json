@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Cam Gibi Saydam Kurbağalar",
-    "body": "Bazı kurbağa türlerinin derisi o kadar şeffaftır ki, iç organları, kalplerinin çalışması ve hatta kemikleri dışarıdan net bir şekilde görülebilir. Bu durum onlara doğada mükemmel bir kamflaj sağlar."
+    "headline": "Dünyanın en yüksek sesli hayvanı",
+    "body": "Aslan kükremesi ya da fil borazanı kulağa çok yüksek gelebilir ama okyanusun derinliklerinde yaşayan ispermeçet balinaları, çıkardıkları tıklama sesleriyle bir jet motorundan bile daha yüksek gürültü üretebilirler. Bu ses, su altında kilometrelerce öteden duyulabilir."
   },
   "en": {
-    "headline": "Glass Frogs with See-Through Skin",
-    "body": "Some frog species have skin so transparent that their internal organs, beating hearts, and even bones are clearly visible from the outside. This provides them with perfect camouflage in nature."
+    "headline": "The loudest animal on Earth",
+    "body": "A lion's roar or an elephant's trumpet might seem loud, but sperm whales living in the deep ocean can produce clicking sounds even louder than a jet engine. This sound can travel for miles underwater."
   },
   "es": {
-    "headline": "Ranas de Cristal Transparentes",
-    "body": "Algunas especies de ranas tienen la piel tan transparente que sus órganos internos, sus corazones latiendo e incluso sus huesos se ven claramente desde el exterior, dándoles un camuflaje perfecto."
+    "headline": "El animal más ruidoso de la Tierra",
+    "body": "El rugido de un león o el trompeteo de un elefante pueden parecer fuertes, pero los cachalotes que viven en las profundidades del océano pueden producir sonidos de chasquido aún más fuertes que un motor a reacción."
   },
   "ar": {
-    "headline": "ضفادع زجاجية شفافة",
-    "body": "بعض أنواع الضفادع لها جلد شفاف لدرجة أن أعضاءها الداخلية ونبض قلوبها وحتى عظامها تظهر بوضوح تام من الخارج، مما يمنحها تموهاً مثالياً."
+    "headline": "أعلى الحيوانات صوتاً على وجه الأرض",
+    "body": "قد تبدو زئیر الأسد أو صرخة الفيل عالية جداً، لكن حيتان العنبر التي تعيش في أعماق المحيط يمكنها إصدار أصوات نقر أعلى حتى من صوت محرك النفاثة."
   },
   "reel_hook": {
-    "tr": "İç organları dışarıdan tamamen görünen bu canlıyı hiç gördünüz mü?",
-    "en": "Have you ever seen this creature whose internal organs are fully visible?",
-    "es": "¿Has visto alguna vez a esta criatura cuyos órganos internos son totalmente visibles?",
-    "ar": "هل رأيت من قبل هذا الكائن الذي تبدو أعضاؤه الداخلية بوضوح؟"
+    "tr": "Bir jet motorundan daha yüksek ses çıkaran o canlıyı biliyor musun?",
+    "en": "Do you know the creature that is louder than a jet engine?",
+    "es": "¿Conoces a la criatura que es más ruidosa que un motor a reacción?",
+    "ar": "هل تعرف المخلوق الذي يصدر صوتاً أعلى من محرك نفاث؟"
   },
   "story_question": {
-    "tr": "Cam kurbağaların derisinin şeffaf olmasının ana nedeni nedir?",
-    "en": "What is the main reason glass frogs have transparent skin?",
-    "es": "¿Cuál es la razón principal por la que las ranas de cristal tienen piel transparente?",
-    "ar": "ما هو السبب الرئيسي لشفافية جلد الضفادع الزجاجية؟"
+    "tr": "Sence okyanusun en yüksek sesli bu canlısı ne kadar uzağa ses gönderebilir?",
+    "en": "How far do you think this loudest ocean creature can send its sound?",
+    "es": "¿Qué tan lejos crees que esta criatura oceánica más ruidosa puede enviar su sonido?",
+    "ar": "برأيك، إلى أي مدى يمكن لهذا المخلوق الصاخب إرسال صوته في المحيط؟"
   },
   "story_options": [
-    "Mükemmel kamflaj",
-    "Güneşten korunma",
-    "Hızlı yüzme"
+    "Yüzlerce kilometre",
+    "Sadece birkaç metre",
+    "Sadece kendi çevresi"
   ],
   "hashtags": [
     "#FactBite",
     "#doğa",
     "#bilim",
-    "#biyoloji",
-    "#hayvanlar",
+    "#okyanus",
+    "#balina",
     "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için kaydetmeyi unutma!",
+    "en": "Save for more facts like this!",
+    "es": "¡Guarda para más datos como este!",
+    "ar": "احفظ المنشور للمزيد من الحقائق المثيرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/amphibians/facts/glass-frogs"
+    "name": "Guinness World Records & Marine Bio",
+    "url": "https://www.guinnessworldrecords.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Cam Gibi Saydam Kurbağalar",
+  "_topic": "Dünyanın en yüksek sesli hayvanı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-18T11:46:01.001985+00:00",
+  "generated_at": "2026-08-18T13:39:33.146238+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dünyanın En Derin Çukuru",
-    "body": "Mariana Çukuru'na gönderilen en sert metal bile, devasa su basıncı nedeniyle kağıt gibi ezilirdi. Oradaki basınç, üzerinize 50 jumbo jet park etmiş gibi hissettirir."
+    "headline": "Kuşlar Ne Renk Görür?",
+    "body": "İnsan gözü üç temel rengi algılar: Kırmızı, yeşil ve mavi. Ancak kuşlar işi bir üst seviyeye taşır. Onlar sadece bu üç rengi değil, ultraviyole yani morötesi ışığı da görebilirler. Bu da doğanın, bizim asla fark edemediğimiz desenler ve renklerle dolu olduğu anlamına gelir. Örneğin tüyleri tamamen düz görünen sıradan bir kuş, aslında diğer kuşlar için parıl parıl parlayan desenlere sahiptir."
   },
   "en": {
-    "headline": "The Deepest Trench on Earth",
-    "body": "Even the toughest metal sent to the Mariana Trench would crush like paper due to the immense water pressure. The pressure down there feels like having 50 jumbo jets parked on you."
+    "headline": "What Colors Do Birds See?",
+    "body": "The human eye perceives three primary colors: red, green, and blue. However, birds take it to the next level. They can see not only these three colors but also ultraviolet light. This means nature is full of patterns and colors we can never perceive. For example, a bird with seemingly plain feathers actually has glowing patterns visible only to other birds."
   },
   "es": {
-    "headline": "La fosa más profunda de la Tierra",
-    "body": "Incluso el metal más resistente enviado a la Fosa de las Marianas se aplastaría como papel debido a la inmensa presión del agua. La presión allí se siente como tener 50 aviones jumbo estacionados encima de ti."
+    "headline": "¿Qué colores ven las aves?",
+    "body": "El ojo humano percibe tres colores primarios: rojo, verde y azul. Sin embargo, las aves llevan esto al siguiente nivel. Pueden ver no solo estos tres colores, sino también la luz ultravioleta. Esto significa que la naturaleza está llena de patrones y colores que nunca podemos percibir. Por ejemplo, un pájaro con plumas aparentemente simples en realidad tiene patrones brillantes visibles solo para otras aves."
   },
   "ar": {
-    "headline": "أعمق خندق على وجه الأرض",
-    "body": "حتى أقوى معدن يتم إرساله إلى خندق ماريانا سيسحق مثل الورق بسبب ضغط الماء الهائل. الضغط هناك يشعر وكأن هناك 50 طائرة جامبو متوقفة عليك."
+    "headline": "ما هي الألوان التي تراها الطيور؟",
+    "body": "تدرك العين البشرية ثلاثة ألوان أساسية: الأحمر والأخضر والأزرق. ومع ذلك، تأخذ الطيور الأمر إلى مستويات أبعد. فهي لا تستطيع رؤية هذه الألوان الثلاثة فحسب، بل يمكنها أيضًا رؤية الأشعة فوق البنفسجية. هذا يعني أن الطبيعة مليئة الأنماط والألوان التي لا يمكننا إدراكها أبداً."
   },
   "reel_hook": {
-    "tr": "Oraya bir araba bıraksaydınız ne olurdu?",
-    "en": "What would happen if you dropped a car down there?",
-    "es": "¿Qué pasaría si dejaras caer un auto allí?",
-    "ar": "ماذا سيحدث لو أسقطت سيارة هناك؟"
+    "tr": "Doğayı bizim gördüğümüzden çok daha farklı renkte gören o canlıyı tahmin edebilir misin?",
+    "en": "Can you guess which creature sees nature in colors much different than we do?",
+    "es": "¿Puedes adivinar qué criatura ve la naturaleza en colores muy diferentes a los nuestros?",
+    "ar": "هل يمكنك تخمين المخلوق الذي يرى الطبيعة بألوان مختلفة تماماً عن تلك التي نراها؟"
   },
   "story_question": {
-    "tr": "Mariana Çukuru'nun en derin noktasında su sıcaklığı yaklaşık kaç derecedir?",
-    "en": "What is the approximate water temperature at the deepest point of the Mariana Trench?",
-    "es": "¿Cuál es la temperatura aproximada del agua en el punto más profundo de la Fosa de las Marianas?",
-    "ar": "ما هي درجة حرارة الماء التقريبية في أعمق نقطة في خندق ماريانا؟"
+    "tr": "Kuşların görebildiği ama bizim göremediğimiz ışık türü hangisidir?",
+    "en": "Which type of light can birds see that humans cannot?",
+    "es": "¿Qué tipo de luz pueden ver las aves que los humanos no?",
+    "ar": "ما هو نوع الضوء الذي تستطيع الطيور رؤيته ولا يستطيع البشر رؤيته؟"
   },
   "story_options": [
-    "0-1°C",
-    "1-4°C",
-    "10-15°C"
+    "Ultraviyole (Morötesi)",
+    "Kızılötesi",
+    "X-Işınları"
   ],
   "hashtags": [
     "#FactBite",
-    "#marienachurch",
-    "#bilim",
-    "#okyanus",
-    "#keşif",
+    "#kuşlar",
     "#doğa",
-    "#bilgi"
+    "#bilim",
+    "#biyoloji",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts!",
+    "es": "¡No olvides seguirnos para más datos asombrosos!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "NOAA Ocean Exploration",
-    "url": "https://oceanexplorer.noaa.gov/facts/mariana-trench.html"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org/news/how-birds-see-world-different-us"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dünyanın En Derin Çukuru",
+  "_topic": "Kuşlar Ne Renk Görür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-19T07:06:10.094649+00:00",
+  "generated_at": "2026-08-19T08:56:33.429327+00:00",
   "topic_guard_days": 180
 }

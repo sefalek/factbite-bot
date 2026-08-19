@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Ne Renk Görür?",
-    "body": "İnsan gözü üç temel rengi algılar: Kırmızı, yeşil ve mavi. Ancak kuşlar işi bir üst seviyeye taşır. Onlar sadece bu üç rengi değil, ultraviyole yani morötesi ışığı da görebilirler. Bu da doğanın, bizim asla fark edemediğimiz desenler ve renklerle dolu olduğu anlamına gelir. Örneğin tüyleri tamamen düz görünen sıradan bir kuş, aslında diğer kuşlar için parıl parıl parlayan desenlere sahiptir."
+    "headline": "Balıkların da Sesi Var, Sadece Duyamıyoruz",
+    "body": "Denizlerin altı sessiz sanılır ama aslında tam bir gürültü patrtısıdır. Balıklar, tehlike anında, çiftleşme döneminde ya da yer değiştirirken çıkardıkları homurtu, tıklama ve havlama sesleriyle kendi aralarında sürekli iletişim kurarlar."
   },
   "en": {
-    "headline": "What Colors Do Birds See?",
-    "body": "The human eye perceives three primary colors: red, green, and blue. However, birds take it to the next level. They can see not only these three colors but also ultraviolet light. This means nature is full of patterns and colors we can never perceive. For example, a bird with seemingly plain feathers actually has glowing patterns visible only to other birds."
+    "headline": "Fish Actually Make Sounds, We Just Can't Hear Them",
+    "body": "The underwater world is often thought to be silent, but it's actually quite noisy. Fish constantly communicate by making grunts, clicks, and barks during danger, mating seasons, or navigation."
   },
   "es": {
-    "headline": "¿Qué colores ven las aves?",
-    "body": "El ojo humano percibe tres colores primarios: rojo, verde y azul. Sin embargo, las aves llevan esto al siguiente nivel. Pueden ver no solo estos tres colores, sino también la luz ultravioleta. Esto significa que la naturaleza está llena de patrones y colores que nunca podemos percibir. Por ejemplo, un pájaro con plumas aparentemente simples en realidad tiene patrones brillantes visibles solo para otras aves."
+    "headline": "Los peces realmente hacen sonidos, solo que no podemos oírlos",
+    "body": "A menudo se piensa que el mundo submarino es silencioso, pero en realidad es muy ruidoso. Los peces se comunican constantemente emitiendo gruñidos, clics y ladridos."
   },
   "ar": {
-    "headline": "ما هي الألوان التي تراها الطيور؟",
-    "body": "تدرك العين البشرية ثلاثة ألوان أساسية: الأحمر والأخضر والأزرق. ومع ذلك، تأخذ الطيور الأمر إلى مستويات أبعد. فهي لا تستطيع رؤية هذه الألوان الثلاثة فحسب، بل يمكنها أيضًا رؤية الأشعة فوق البنفسجية. هذا يعني أن الطبيعة مليئة الأنماط والألوان التي لا يمكننا إدراكها أبداً."
+    "headline": "تصدر الأسماك أصواتاً حقاً، ونحن ببساطة لا نستطيع سماعها",
+    "body": "يُعتقد غالباً أن عالم ما تحت الماء صامت، لكنه صاخب جداً. تتواصل الأسماك باستمرار عن طريق اصدار أصوات مختلفة."
   },
   "reel_hook": {
-    "tr": "Doğayı bizim gördüğümüzden çok daha farklı renkte gören o canlıyı tahmin edebilir misin?",
-    "en": "Can you guess which creature sees nature in colors much different than we do?",
-    "es": "¿Puedes adivinar qué criatura ve la naturaleza en colores muy diferentes a los nuestros?",
-    "ar": "هل يمكنك تخمين المخلوق الذي يرى الطبيعة بألوان مختلفة تماماً عن تلك التي نراها؟"
+    "tr": "Denizlerin altı gerçekten sessiz mi?",
+    "en": "Is the underwater world really silent?",
+    "es": "¿Es el mundo submarino realmente silencioso?",
+    "ar": "هل عالم ما تحت الماء صامت حقاً؟"
   },
   "story_question": {
-    "tr": "Kuşların görebildiği ama bizim göremediğimiz ışık türü hangisidir?",
-    "en": "Which type of light can birds see that humans cannot?",
-    "es": "¿Qué tipo de luz pueden ver las aves que los humanos no?",
-    "ar": "ما هو نوع الضوء الذي تستطيع الطيور رؤيته ولا يستطيع البشر رؤيته؟"
+    "tr": "Balıkların çıkardığı bu sesleri insanlar hangi cihazla ilk kez kaydetmiştir?",
+    "en": "What device did humans first use to record fish sounds?",
+    "es": "¿Qué dispositivo usaron los humanos para grabar sonidos de peces?",
+    "ar": "ما هو الجهاز الذي استخدمه البشر لأول مرة لتسجيل أصوات الأسماك؟"
   },
   "story_options": [
-    "Ultraviyole (Morötesi)",
-    "Kızılötesi",
-    "X-Işınları"
+    "Sonar",
+    "Mikroskop",
+    "Radyo"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
     "#bilim",
-    "#biyoloji",
-    "#ilginçbilgiler"
+    "#doğa",
+    "#deniz",
+    "#balık",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org/news/how-birds-see-world-different-us"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Ne Renk Görür?",
+  "_topic": "Balıkların da Sesi Var, Sadece Duyamıyoruz",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-19T08:56:33.429327+00:00",
+  "generated_at": "2026-08-19T12:03:05.348154+00:00",
   "topic_guard_days": 180
 }

@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözyaşı Bezleri Neden Yok?",
-    "body": "Kuşların gözyaşı bezleri yoktur; bunun yerine gözlerini korumak ve nemli tutmak için şeffaf bir iç göz kapağına, yani niktitant zar kullanırlar. Bu zar, uçarken gözlerinin kurumasını engeller ve tozlardan korur."
+    "headline": "Kunduzların Doğal Diş Sırrı",
+    "body": "Kunduzların ön dişleri aslında turuncudur ve bunun harika bir sebebi var! Dişlerindeki demir açısından zengin mine tabakası, sürekli kemirdikleri sert ağaçların dişlerini aşındırmasını engeller ve onları doğal olarak keskin tutar."
   },
   "en": {
-    "headline": "Why Birds Don't Have Tear Glands",
-    "body": "Birds do not have tear glands; instead, they use a transparent inner eyelid called the nictitating membrane to protect and keep their eyes moist. This membrane prevents their eyes from drying out while flying and protects them from dust."
+    "headline": "Beavers' Natural Tooth Secret",
+    "body": "Beavers' front teeth are actually orange, and for a great reason! The iron-rich enamel layer prevents the hard wood they constantly chew from wearing their teeth down and keeps them naturally sharp."
   },
   "es": {
-    "headline": "Por qué las aves no tienen glándulas lagrimales",
-    "body": "Las aves no tienen glándulas lagrimales; en su lugar, utilizan un párpado interno transparente llamado membrana nictitant para proteger y mantener sus ojos húmedos. Esta membrana evita que sus ojos se sequen mientras vuelan y los protege del polvo."
+    "headline": "El secreto dental de los castores",
+    "body": "¡Los dientes delanteros de los castores son en realidad naranjas y hay una gran razón! La capa de esmalte rica en hierro evita que la madera dura que roen constantemente desgaste sus dientes y los mantiene afilados de forma natural."
   },
   "ar": {
-    "headline": "لماذا لا تمتلك الطيور غدد دمعية",
-    "body": "لا تمتلك الطيور غدد دمعية، بل تستخدم جفناً داخلياً شفافاً يسمى الغشاء الرموشي لحماية عيونها وإبقائها رطبة. يمنع هذا الغشاء جفاف عيونها أثناء الطيران ويحميها من الغبار."
+    "headline": "سر أسنان القنادس الطبيعي",
+    "body": "أسنان القنادس الأمامية برتقالية اللون في الواقع، ولسبب وجيه! طبقة المينا الغنية بالحديد تمنع الخشب الصلب الذي تقرضه باستمرار من إكل أسنانها وتحافظ عليها حادة بشكل طبيعي."
   },
   "reel_hook": {
-    "tr": "Kuşların neden hiç ağlayamadığını biliyor musun?",
-    "en": "Do you know why birds can never cry?",
-    "es": "¿Sabes por qué las aves nunca pueden llorar?",
-    "ar": "هل تعلم لماذا لا تستطيع الطيور البكاء أبداً؟"
+    "tr": "Kunduzların dişleri neden turuncu renkli hiç düşündünüz mü?",
+    "en": "Have you ever wondered why beavers' teeth are orange?",
+    "es": "¿Alguna vez te has preguntado por qué los dientes de los castores son naranjas?",
+    "ar": "هل تسااءلت من قبل لماذا أسنان القنادس برتقالية اللون؟"
   },
   "story_question": {
-    "tr": "Kuşlar gözlerini nemli tutmak için ne kullanır?",
-    "en": "What do birds use to keep their eyes moist?",
-    "es": "¿Qué usan las aves para mantener sus ojos húmedos?",
-    "ar": "ماذا تستخدم الطيور للحفاظ على رطوبة عيونها؟"
+    "tr": "Kunduzların dişlerindeki turuncu rengin sebebi nedir?",
+    "en": "What is the reason for the orange color in beavers' teeth?",
+    "es": "¿Cuál es la razón del color naranja en los dientes de los castores?",
+    "ar": "ما هو سبب اللون البرتقالي في أسنان القنادس؟"
   },
   "story_options": [
-    "Şeffaf iç göz kapağı",
-    "Özel salgı bezleri",
-    "Yağmur suyu"
+    "Demir açısından zengin mine",
+    "Yedikleri özel kökler",
+    "Güneş ışığı"
   ],
   "hashtags": [
     "#FactBite",
-    "#Kuşlar",
-    "#Doğa",
-    "#Bilim",
-    "#Hayvanlar",
-    "#İlginçBilgiler"
+    "#kunduz",
+    "#doğa",
+    "#bilim",
+    "#hayvanlar",
+    "#ilginçbilgiler",
+    "#biliyormuydunuz"
   ],
   "cta": {
-    "tr": "Daha fazlası için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more!",
-    "es": "¡No olvides seguirnos para más!",
-    "ar": "لا تنس المتابعة للمزيد!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için kaydetmeyi unutma!",
+    "en": "Don't forget to save for more nature secrets like this!",
+    "es": "¡No olvides guardar para más secretos de la naturaleza como este!",
+    "ar": "لا تنس حفظ المنشور للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Avian Biology and Anatomy Insights",
-    "url": "https://www.sciencedirect.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözyaşı Bezleri Neden Yok?",
+  "_topic": "Kunduzların Doğal Diş Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-19T13:41:44.436201+00:00",
+  "generated_at": "2026-08-19T15:33:57.244862+00:00",
   "topic_guard_days": 180
 }

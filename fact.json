@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıkların da Sesi Var, Sadece Duyamıyoruz",
-    "body": "Denizlerin altı sessiz sanılır ama aslında tam bir gürültü patrtısıdır. Balıklar, tehlike anında, çiftleşme döneminde ya da yer değiştirirken çıkardıkları homurtu, tıklama ve havlama sesleriyle kendi aralarında sürekli iletişim kurarlar."
+    "headline": "Kuşların Gözyaşı Bezleri Neden Yok?",
+    "body": "Kuşların gözyaşı bezleri yoktur; bunun yerine gözlerini korumak ve nemli tutmak için şeffaf bir iç göz kapağına, yani niktitant zar kullanırlar. Bu zar, uçarken gözlerinin kurumasını engeller ve tozlardan korur."
   },
   "en": {
-    "headline": "Fish Actually Make Sounds, We Just Can't Hear Them",
-    "body": "The underwater world is often thought to be silent, but it's actually quite noisy. Fish constantly communicate by making grunts, clicks, and barks during danger, mating seasons, or navigation."
+    "headline": "Why Birds Don't Have Tear Glands",
+    "body": "Birds do not have tear glands; instead, they use a transparent inner eyelid called the nictitating membrane to protect and keep their eyes moist. This membrane prevents their eyes from drying out while flying and protects them from dust."
   },
   "es": {
-    "headline": "Los peces realmente hacen sonidos, solo que no podemos oírlos",
-    "body": "A menudo se piensa que el mundo submarino es silencioso, pero en realidad es muy ruidoso. Los peces se comunican constantemente emitiendo gruñidos, clics y ladridos."
+    "headline": "Por qué las aves no tienen glándulas lagrimales",
+    "body": "Las aves no tienen glándulas lagrimales; en su lugar, utilizan un párpado interno transparente llamado membrana nictitant para proteger y mantener sus ojos húmedos. Esta membrana evita que sus ojos se sequen mientras vuelan y los protege del polvo."
   },
   "ar": {
-    "headline": "تصدر الأسماك أصواتاً حقاً، ونحن ببساطة لا نستطيع سماعها",
-    "body": "يُعتقد غالباً أن عالم ما تحت الماء صامت، لكنه صاخب جداً. تتواصل الأسماك باستمرار عن طريق اصدار أصوات مختلفة."
+    "headline": "لماذا لا تمتلك الطيور غدد دمعية",
+    "body": "لا تمتلك الطيور غدد دمعية، بل تستخدم جفناً داخلياً شفافاً يسمى الغشاء الرموشي لحماية عيونها وإبقائها رطبة. يمنع هذا الغشاء جفاف عيونها أثناء الطيران ويحميها من الغبار."
   },
   "reel_hook": {
-    "tr": "Denizlerin altı gerçekten sessiz mi?",
-    "en": "Is the underwater world really silent?",
-    "es": "¿Es el mundo submarino realmente silencioso?",
-    "ar": "هل عالم ما تحت الماء صامت حقاً؟"
+    "tr": "Kuşların neden hiç ağlayamadığını biliyor musun?",
+    "en": "Do you know why birds can never cry?",
+    "es": "¿Sabes por qué las aves nunca pueden llorar?",
+    "ar": "هل تعلم لماذا لا تستطيع الطيور البكاء أبداً؟"
   },
   "story_question": {
-    "tr": "Balıkların çıkardığı bu sesleri insanlar hangi cihazla ilk kez kaydetmiştir?",
-    "en": "What device did humans first use to record fish sounds?",
-    "es": "¿Qué dispositivo usaron los humanos para grabar sonidos de peces?",
-    "ar": "ما هو الجهاز الذي استخدمه البشر لأول مرة لتسجيل أصوات الأسماك؟"
+    "tr": "Kuşlar gözlerini nemli tutmak için ne kullanır?",
+    "en": "What do birds use to keep their eyes moist?",
+    "es": "¿Qué usan las aves para mantener sus ojos húmedos?",
+    "ar": "ماذا تستخدم الطيور للحفاظ على رطوبة عيونها؟"
   },
   "story_options": [
-    "Sonar",
-    "Mikroskop",
-    "Radyo"
+    "Şeffaf iç göz kapağı",
+    "Özel salgı bezleri",
+    "Yağmur suyu"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
-    "#deniz",
-    "#balık",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#Kuşlar",
+    "#Doğa",
+    "#Bilim",
+    "#Hayvanlar",
+    "#İlginçBilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Daha fazlası için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more!",
+    "es": "¡No olvides seguirnos para más!",
+    "ar": "لا تنس المتابعة للمزيد!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Avian Biology and Anatomy Insights",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıkların da Sesi Var, Sadece Duyamıyoruz",
+  "_topic": "Kuşların Gözyaşı Bezleri Neden Yok?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-19T12:03:05.348154+00:00",
+  "generated_at": "2026-08-19T13:41:44.436201+00:00",
   "topic_guard_days": 180
 }

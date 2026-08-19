@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Deniz Atlarının Şaşırtıcı Sırrı",
-    "body": "Deniz atları hakkında bildiğiniz her şeyi unutun. Bu minik canlıların dünyasında roller tamamen değişmiş durumda. Yumurtlayan veya doğum yapan erkek deniz atlarıdır. Dişi deniz atları yumurtalarını erkeğin karnındaki özel bir keseye bırakır ve tüm gebelik süreci erkek tarafından yürütülür."
+    "headline": "Parmak İzi Olan Tek Sürüngen",
+    "body": "Biliyor musunuz, koalalardan sonra kendine has parmak izi olan tek canlı bir sürüngendir. Su altında yaşayan bu hayvanların parmak izleri, insan parmak izlerine o kadar çok benzer ki, olay yerinde polisin kafasını karıştırabilirler."
   },
   "en": {
-    "headline": "The Surprising Secret of Seahorses",
-    "body": "Forget everything you know about seahorses. In their tiny world, gender roles are completely reversed. It is the male seahorses that carry and give birth to the young. Female seahorses deposit their eggs into a specialized pouch on the male's abdomen, and the entire gestation process is handled by the male."
+    "headline": "The Only Reptile with Fingerprints",
+    "body": "Did you know that after koalas, the only creature with unique fingerprints is a reptile? Living underwater, their fingerprints are so similar to human ones that they can confuse police at a crime scene."
   },
   "es": {
-    "headline": "El sorprendente secreto de los caballitos de mar",
-    "body": "Olvida todo lo que sabes sobre los caballitos de mar. En su pequeño mundo, los roles están completamente invertidos. Son los machos los que llevan y dan a luz a las crías. Las hembras depositan sus huevos en una bolsa especial en el abdomen del macho, y todo el proceso de gestación lo realiza él."
+    "headline": "El único reptil con huellas dactilares",
+    "body": "¿Sabías que, después de los koalas, la única criatura con huellas dactilares únicas es un reptil? Al vivir bajo el agua, sus huellas son tan similares a las humanas que pueden confundir a la policía en una escena del crimen."
   },
   "ar": {
-    "headline": "سر مذهل عن فرس البحر",
-    "body": "انسه كل ما تعرفه عن فرس البحر. في عالمهم الصغير، الأدوار معكوسة تماماً. الذكور هي التي تحمل وتلد الصغار. تضع الإناث بيضها في كيس خاص على بطن الذكر، ويتولى الذكر عملية الحمل بالكامل."
+    "headline": "الزاحف الوحيد بصمات أصابع",
+    "body": "هل تعلم أنه بعد الكوالا، المخلوق الوحيد الذي لديه بصمات أصابع فريدة هو زاحف؟ تعيش تحت الماء، وتتشابه بصمات أصابعها مع البصمات البشرية لدرجة أنها قد تربك الشرطة في مسرح الجريمة."
   },
   "reel_hook": {
-    "tr": "Hamile kalan tek erkek canlıyı biliyor musunuz?",
-    "en": "Do you know the only male animal that gets pregnant?",
-    "es": "¿Conoces al único animal macho que queda embarazado?",
-    "ar": "هل تعلم ما هو الحيوان الذكر الوحيد الذي يحمل؟"
+    "tr": "Su altında yaşayan bu hayvanın parmak izi neredeyse insanla aynı!",
+    "en": "This underwater animal's fingerprint is almost identical to a human's!",
+    "es": "¡La huella digital de este animal subacuático es casi idéntica a la humana!",
+    "ar": "بصمة إصبع هذا الحيوان تحت الماء تكاد تكون مطابقة لبصمة الإنسان!"
   },
   "story_question": {
-    "tr": "Deniz atı yavrularına kim bakar?",
-    "en": "Who takes care of seahorse babies?",
-    "es": "¿Quién cuida de los bebés de caballito de mar?",
-    "ar": "من يرعى صغار فرس البحر؟"
+    "tr": "Sence bu benzersiz parmak izine sahip sürüngen hangisidir?",
+    "en": "Which reptile do you think has this unique fingerprint?",
+    "es": "¿Qué reptil crees que tiene esta huella dactilar única?",
+    "ar": "ما هو الزاحف الذي تعتقد أنه يمتلك بصمة الإصبع الفريدة هذه؟"
   },
   "story_options": [
-    "Anne deniz atı",
-    "Baba deniz atı",
-    "İkisi birlikte"
+    "Timsah",
+    "Deniz Kaplumbağası",
+    "Bukalemun"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#doğa",
-    "#hayvanlar",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#hayvanlar",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydunuz? Yorumlarda buluşalım!",
-    "en": "Did you know this before? Let us know in the comments!",
-    "es": "¿Sabías esto antes? ¡Cuéntanos en los comentarios!",
-    "ar": "هل كنت تعرف هذا من قبل؟ أخبرنا في التعليقات!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takip et!",
+    "en": "Follow for more surprising facts!",
+    "es": "¡Sígueme para más datos sorprendentes!",
+    "ar": "اتبع لمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
     "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/fish/facts/seahorses"
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Deniz Atlarının Şaşırtıcı Sırrı",
+  "_topic": "Parmak İzi Olan Tek Sürüngen",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-19T17:34:58.501823+00:00",
+  "generated_at": "2026-08-19T19:26:36.975112+00:00",
   "topic_guard_days": 180
 }

@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Solucanlar Neden Çift Cinsiyetlidir?",
-    "body": "Toprak solucanlarının hem erkek hem de dişi üreme organlarına sahip olduğunu biliyor muydunuz? Bu biyolojik özellik, çiftleşme şansını iki katına çıkararak hayatta kalmalarını kolaylaştırır."
+    "headline": "Tarçının Asıl Kaynağı",
+    "body": "Her gün tükettiğimiz o mis kokulu tarçının, aslında bir ağacın iç kabuğu olduğunu biliyor muydunuz? Üstelik hasat edildikten sonra kendi kendine kıvrılarak o tanıdık çubuk şeklini alır."
   },
   "en": {
-    "headline": "Why Are Earthworms Hermaphrodites?",
-    "body": "Did you know that earthworms possess both male and female reproductive organs? This biological trait doubles their chances of successful mating, helping them survive."
+    "headline": "The Real Source of Cinnamon",
+    "body": "Did you know that the fragrant cinnamon we consume every day is actually the inner bark of a tree? Moreover, after being harvested, it naturally curls into that familiar stick shape."
   },
   "es": {
-    "headline": "¿Por qué las lombrices son hermafroditas?",
-    "body": "¿Sabías que las lombrices de tierra poseen órganos reproductores masculinos y femeninos? Este rasgo biológico duplica sus posibilidades de apareamiento exitoso."
+    "headline": "La verdadera fuente de la canela",
+    "body": "¿Sabías que la fragante canela que consumimos todos los días es en realidad la corteza interna de un árbol? Además, después de ser cosechada, se enrolla naturalmente en esa forma de ramita."
   },
   "ar": {
-    "headline": "لماذا تعتبر ديدان الأرض خنثى؟",
-    "body": "هل تعلم أن ديدان الأرض تمتلك أعضاء تكاثراً ذكرية وأنشوية معاً؟ هذه الخصائص البيولوجية تضاعف فرص التكاثر الناجح."
+    "headline": "المصدر الحقيقي للقرفة",
+    "body": "هل كنت تعلم أن القرفة العطرية التي نستهلكها كل يوم هي في الواقع القحاء الداخلي لشجرة ما؟ علاوة على ذلك، بعد حصادها، تلتفت بشكل طبيعي لتأخذ شكل العصا المألوف."
   },
   "reel_hook": {
-    "tr": "Toprağın altındaki bu canlılar tek bir cinsiyetle yetinmiyor!",
-    "en": "These creatures beneath the soil don't settle for just one gender!",
-    "es": "¡Estas criaturas bajo la tierra no se conforman con un solo sexo!",
-    "ar": "هذه الكائنات تحت التربة لا تكتفي بجنس واحد فقط!"
+    "tr": "Kahvenizin üzerindeki o tozun nereden geldiğini biliyor musunuz?",
+    "en": "Do you know where that powder on your coffee comes from?",
+    "es": "¿Sabes de dónde viene ese polvo en tu café?",
+    "ar": "هل تعرف من أين يأتي هذا المسحوق الموجود على قهوتك؟"
   },
   "story_question": {
-    "tr": "Toprak solucanlarının bu özelliği onlara ne sağlar?",
-    "en": "What does this trait provide for earthworms?",
-    "es": "¿Qué ventaja les proporciona este rasgo a las lombrices?",
-    "ar": "ماذا توفر هذه الصفة لديدان الأرض؟"
+    "tr": "Tarçın hangi ağacın kabuğundan elde edilir?",
+    "en": "Which tree's bark is cinnamon harvested from?",
+    "es": "¿De la corteza de qué árbol se obtiene la canela?",
+    "ar": "من لحق أي شجرة تُستخلص القرفة؟"
   },
   "story_options": [
-    "Üreme şansını artırır",
-    "Hızlı koşmalarını sağlar",
-    "Görmelerini engeller"
+    "Cinnamomum (Defnegiller)",
+    "Çam Ağacı",
+    "Meşe Ağacı"
   ],
   "hashtags": [
     "#FactBite",
-    "#solucan",
-    "#biyoloji",
+    "#tarçın",
+    "#bilgi",
     "#doğa",
-    "#bilim",
     "#ilginçbilgiler",
-    "#toprak"
+    "#keşfet",
+    "#üretenler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza!",
-    "ar": "تابع للمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Benzer şaşırtıcı gerçekler için takip et!",
+    "en": "Follow for more surprising facts!",
+    "es": "¡Sigue para más datos sorprendentes!",
+    "ar": "تابع لمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic Biology",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Encyclopædia Britannica",
+    "url": "https://www.britannica.com/plant/cinnamon-plant"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Solucanlar Neden Çift Cinsiyetlidir?",
+  "_topic": "Tarçının Asıl Kaynağı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-18T20:58:02.751628+00:00",
+  "generated_at": "2026-08-19T05:48:44.627286+00:00",
   "topic_guard_days": 180
 }

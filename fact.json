@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çilek Aslında Bir Meyve Değildir",
-    "body": "Manavda çilek diye aldığımız o kırmızı lezzet, botanik açısından teknik olarak bir meyve değil, büyümüş bir çiçek tablasıdır. Gerçek meyveler ise üzerindeki o minik sarı çekirdeklerin her biridir!"
+    "headline": "Camgöz Köpekbalıklarının Yüzyıllık Yaşamı",
+    "body": "Grönland köpekbalıkları okyanusun en soğuk sularında yüzer ve oldukça yavaş büyürler. Bu devasa canlılar, tam 400 yıla yakın ömürleriyle omurgalı hayvanlar arasında rekor kırar; hatta cinsel olgunluğa ancak 150 yaşından sonra erişirler."
   },
   "en": {
-    "headline": "Strawberries Are Not Actually Berries",
-    "body": "That red treat we buy as a fruit is botanically not a fruit at all, but an enlarged flower receptacle. The actual fruits are each of those tiny yellow seeds on the outside!"
+    "headline": "The Century-Long Life of Greenland Sharks",
+    "body": "Greenland sharks swim in the coldest ocean waters and grow extremely slowly. These massive creatures break records among vertebrates with lifespans nearing 400 years, and they only reach sexual maturity after the age of 150."
   },
   "es": {
-    "headline": "Las fresas en realidad no son frutas",
-    "body": "Esa delicia roja que compramos como fruta no es botánicamente una fruta, sino un receptáculo floral agrandado. ¡Los frutos reales son cada una de esas pequeñas semillas amarillas en el exterior!"
+    "headline": "La vida centenaria de los tiburones de Groenlandia",
+    "body": "Los tiburones de Groenlandia nadan en las aguas oceánicas más frías y crecen muy lentamente. Estas criaturas masivas baten récords entre los vertebrados con una vida cercana a los 400 años, alcanzando la madurez sexual después de los 150 años."
   },
   "ar": {
-    "headline": "الفراولة ليست في الواقع فواكه",
-    "body": "تلك الفاكهة الحمراء التي نشتريها ليست في الواقع فاكهة من الناحية النباتية، بل هي وعاء زهرة متضخم. الفاكهة الحقيقية هي كل حبوب صفراء صغيرة على سطحها!"
+    "headline": "حياة أسماك قرش غرينلاند الممتدة لقرون",
+    "body": "تسبح أسماك قرش غرينلاند في أبرد مياه المحيطات وتنمو ببطء شديد. تحطم هذه الكائنات الضخمة الأرقام القياسية بين الفقاريات بعمر يقارب 400 عام، ولا تصل إلى النضج الجنسي إلا بعد سن المئة والخمسين."
   },
   "reel_hook": {
-    "tr": "Çilek hakkında bildiğiniz her şeyi unutun.",
-    "en": "Forget everything you know about strawberries.",
-    "es": "Olvida todo lo que sabes sobre las fresas.",
-    "ar": "انسا كل ما تعرفه عن الفراولة."
+    "tr": "150 yaşından önce yetişkin olamayan bir canlı hayal edin.",
+    "en": "Imagine a creature that cannot reach adulthood before the age of 150.",
+    "es": "Imagina una criatura que no puede alcanzar la edad adulta antes de los 150 años.",
+    "ar": "تخيل كائناً لا يمكنه بلوغ سن الرشد قبل سن المئة والخمسين."
   },
   "story_question": {
-    "tr": "Botanikte çileğin üzerindeki o minik sarı noktalar aslında nedir?",
-    "en": "What are those tiny yellow dots on a strawberry in botany?",
-    "es": "¿Qué son esos pequeños puntos amarillos en una fresa en la botánica?",
-    "ar": "ما هي تلك النقاط الصفراء الصغيرة على الفراولة في علم النبات؟"
+    "tr": "Grönland köpekbalıklarının ortalama ömrü yaklaşık kaç yıldır?",
+    "en": "What is the approximate average lifespan of a Greenland shark?",
+    "es": "¿Cuál es la esperanza de vida media aproximada de un tiburón de Groenlandia?",
+    "ar": "ما هو متوسط العمر التقريبي لقرش غرينلاند؟"
   },
   "story_options": [
-    "Gerçek meyveleridir",
-    "Sadece çekirdektir",
-    "Polen kalıntısıdır"
+    "100 yıl",
+    "250 yıl",
+    "400 yıl"
   ],
   "hashtags": [
     "#FactBite",
-    "#çilek",
+    "#köpekbalığı",
     "#bilim",
-    "#ilginçbilgiler",
-    "#botanik",
+    "#okyanus",
     "#doğa",
-    "#öğrenme"
+    "#keşfet",
+    "#biliyormusunuz"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla ilginç gerçeği kaçırmamak için takip et!",
+    "en": "Follow so you don't miss more interesting facts like this!",
+    "es": "¡Síguenos para no perderte más datos interesantes como este!",
+    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Encyclopædia Britannica",
-    "url": "https://www.britannica.com/story/is-a-strawberry-a-fruit"
+    "name": "Science Advances",
+    "url": "https://www.science.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çilek Aslında Bir Meyve Değildir",
+  "_topic": "Camgöz Köpekbalıklarının Yüzyıllık Yaşamı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-20T15:34:19.412787+00:00",
+  "generated_at": "2026-08-20T17:38:29.396614+00:00",
   "topic_guard_days": 180
 }

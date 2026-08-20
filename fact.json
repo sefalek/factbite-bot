@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Camgöz Köpekbalıklarının Yüzyıllık Yaşamı",
-    "body": "Grönland köpekbalıkları okyanusun en soğuk sularında yüzer ve oldukça yavaş büyürler. Bu devasa canlılar, tam 400 yıla yakın ömürleriyle omurgalı hayvanlar arasında rekor kırar; hatta cinsel olgunluğa ancak 150 yaşından sonra erişirler."
+    "headline": "Kuşların Zihnini Değiştiren Gerçek: Şarkı Söyleyen Diller",
+    "body": "Papuha kuşlarının ve bazı ötücü kuşların beyinleri, yılın mevsimlerine göre fiziksel olarak büyüyüp küçülebilir. Bahar gelip şarkı söyleme vakti çattığında beyinlerindeki şarkı merkezi yeniden inşa edilir, kışın ise küçülür."
   },
   "en": {
-    "headline": "The Century-Long Life of Greenland Sharks",
-    "body": "Greenland sharks swim in the coldest ocean waters and grow extremely slowly. These massive creatures break records among vertebrates with lifespans nearing 400 years, and they only reach sexual maturity after the age of 150."
+    "headline": "The Mind-Bending Truth About Birds: Song-Changing Brains",
+    "body": "The brains of certain songbirds can physically grow and shrink depending on the seasons. When spring arrives and it's time to sing, their brain's song center is rebuilt, and it shrinks again in the winter."
   },
   "es": {
-    "headline": "La vida centenaria de los tiburones de Groenlandia",
-    "body": "Los tiburones de Groenlandia nadan en las aguas oceánicas más frías y crecen muy lentamente. Estas criaturas masivas baten récords entre los vertebrados con una vida cercana a los 400 años, alcanzando la madurez sexual después de los 150 años."
+    "headline": "La verdad alucinante sobre las aves: cerebros que cambian de canto",
+    "body": "Los cerebros de ciertas aves cantoras pueden crecer y encogerse físicamente según las estaciones. Cuando llega la primavera y es hora de cantar, el centro del canto de su cerebro se reconstruye y vuelve a encogerse en invierno."
   },
   "ar": {
-    "headline": "حياة أسماك قرش غرينلاند الممتدة لقرون",
-    "body": "تسبح أسماك قرش غرينلاند في أبرد مياه المحيطات وتنمو ببطء شديد. تحطم هذه الكائنات الضخمة الأرقام القياسية بين الفقاريات بعمر يقارب 400 عام، ولا تصل إلى النضج الجنسي إلا بعد سن المئة والخمسين."
+    "headline": "الحقيقة المذهلة حول الطيور: أدمغة تتغير بتغير الأغاني",
+    "body": "يمكن لأدمغة بعض الطيور المغردة أن تنمو وتتقلص جسدياً اعتماداً على الفصول. عندما يأتي الربيع ويحين وقت الغناء، يُعاد بناء مركز الأغنية في أماغهم، ليتقلص مرة أخرى في الشتاء."
   },
   "reel_hook": {
-    "tr": "150 yaşından önce yetişkin olamayan bir canlı hayal edin.",
-    "en": "Imagine a creature that cannot reach adulthood before the age of 150.",
-    "es": "Imagina una criatura que no puede alcanzar la edad adulta antes de los 150 años.",
-    "ar": "تخيل كائناً لا يمكنه بلوغ سن الرشد قبل سن المئة والخمسين."
+    "tr": "Biliyor musun, bazı kuşların beyni her yıl gerçekten yeniden inşa ediliyor.",
+    "en": "Did you know that some birds' brains are actually rebuilt every single year?",
+    "es": "¿Sabías que los cerebros de algunas aves se reconstruyen literalmente cada año?",
+    "ar": "هل تعلم أن أدمغة بعض الطيور تُعاد بناءها بالفعل كل عام؟"
   },
   "story_question": {
-    "tr": "Grönland köpekbalıklarının ortalama ömrü yaklaşık kaç yıldır?",
-    "en": "What is the approximate average lifespan of a Greenland shark?",
-    "es": "¿Cuál es la esperanza de vida media aproximada de un tiburón de Groenlandia?",
-    "ar": "ما هو متوسط العمر التقريبي لقرش غرينلاند؟"
+    "tr": "Sence bu beyin değişimi en çok hangi mevsimde en üst seviyeye uçar?",
+    "en": "Which season do you think triggers the peak of this brain transformation?",
+    "es": "¿En qué estación crees que alcanza su punto máximo esta transformación cerebral?",
+    "ar": "في أي فصل تعتقد أن هذا التحول في الدماغ يبلغ ذروته؟"
   },
   "story_options": [
-    "100 yıl",
-    "250 yıl",
-    "400 yıl"
+    "Bahar (Üreme ve Şarkı)",
+    "Kış (Dinlenme Dönemi)",
+    "Yaz (Göç Zamanı)"
   ],
   "hashtags": [
     "#FactBite",
-    "#köpekbalığı",
     "#bilim",
-    "#okyanus",
     "#doğa",
-    "#keşfet",
-    "#biliyormusunuz"
+    "#kuşlar",
+    "#biyoloji",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçeği kaçırmamak için takip et!",
-    "en": "Follow so you don't miss more interesting facts like this!",
-    "es": "¡Síguenos para no perderte más datos interesantes como este!",
-    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Benzer şaşırtıcı doğa sırları için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising nature secrets!",
+    "es": "¡No olvides seguirnos para más secretos sorprendentes de la naturaleza!",
+    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "Science Advances",
-    "url": "https://www.science.org"
+    "name": "Audubon Society / Avian Brain Plasticity Studies",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Camgöz Köpekbalıklarının Yüzyıllık Yaşamı",
+  "_topic": "Kuşların Zihnini Değiştiren Gerçek: Şarkı Söyleyen Diller",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-20T17:38:29.396614+00:00",
+  "generated_at": "2026-08-20T19:29:25.861323+00:00",
   "topic_guard_days": 180
 }

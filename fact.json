@@ -1,75 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kargaların Yüzleri Asla Unutmadığı Biliniyor, Peki Ya Diğer Hayvanlar?",
-    "body": "Denizlerin en zeki sakinlerinden biri olan yunuslar, birbirlerine isimle seslenirler. Her yunus, annesinin karnındayken veya doğumdan hemen sonra kendisine özel bir ıslık tonu seçer. Sürünün diğer üyeleri de bu tonu taklit ederek o yunusa doğrudan seslenir. Yani yunuslar dünyasında isimler sadece insanlara ait değildir; her bireyin kendine has bir imzası vardır."
+    "headline": "Karasinekleri Yakalamak Neden Bu Kadar Zor?",
+    "body": "Sineklerin zamanı bizden çok daha yavaş algıladığını biliyor muydunuz? Bizim bir saniyede gördüğümüz kareyi onlar neredeyse dört kat daha hızlı işler. Bu yüzden onlara yaklaşan eliniz, adeta ağır çekimde bir film gibi görünür ve kaçmak için fazlasıyla vakitleri olur."
   },
   "en": {
-    "headline": "Dolphins Choose Their Own Names at Birth",
-    "body": "One of the ocean's smartest residents, dolphins actually call each other by name. Every dolphin picks a unique whistle tone shortly after birth. The rest of the pod mimics this specific tone to address that individual directly. In the dolphin world, names aren't just for humans; every single one has its own personal signature."
+    "headline": "Why Is It So Hard to Catch Houseflies?",
+    "body": "Did you know that flies perceive time much slower than we do? They process visual information nearly four times faster than humans. That's why your approaching hand looks like slow motion to them, giving them plenty of time to escape."
   },
   "es": {
-    "headline": "Los delfines eligen sus propios nombres al nacer",
-    "body": "Como uno de los residentes más inteligentes del océano, los delfines se llaman entre sí por su nombre. Cada delfín elige un tono de silbido único poco después de nacer. El resto de la manada imita este tono específico para dirigirse a ese individuo directamente. En el mundo de los delfines, los nombres no son solo para humanos."
+    "headline": "Por qué es tan difícil atrapar moscas domésticas?",
+    "body": "¿Sabías que las moscas perciben el tiempo mucho más lento que nosotros? Procesan la información visual casi cuatro veces más rápido. Por eso, tu mano acercándose les parece una película en cámara lenta y tienen tiempo de sobra para escapar."
   },
   "ar": {
-    "headline": "الدلافين تختار أسماءها بنفسها عند الولادة",
-    "body": "تعتبر الدلافين من أذكى كائنات المحيط، وهي تنادي بعضها البعض بالأسماء حقاً. يختار كل دلفين نغمة صفير فريدة بعد وقت قصير من ولادته، وبقية القطيع تحاكي هذه النغمة لمخاطبة ذلك الفرد مباشرة. في عالم الدلافين، الأسماء ليست للبشر وحدهم."
-  },
-  "reel__hook": {
-    "tr": "Yunusların birbirine isimleriyle seslendiğini biliyor muydunuz?",
-    "en": "Did you know dolphins actually call each other by name?",
-    "es": "¿Sabías que los delfines se llaman entre sí por su nombre?",
-    "ar": "هل تعلم أن الدلافين تنادي بعضها البعض بأسمائها حقاً؟"
+    "headline": "لماذا من الصعب جداً الإمساك بالذباب المنزلي؟",
+    "body": "هل تعلم أن الذباب يدرك الوقت بشكل أبطأ بكثير منا؟ فهو يعالج المعلومات البصرية بسرعة أكبر بخرات عديدة. ولهذا السبب تبدو يدك المقتربة وكأنها في تصوير بطيء، مما يمنحه متسعاً من الوقت للهروب."
   },
   "reel_hook": {
-    "tr": "Yunusların birbirine isimleriyle seslendiğini biliyor muydunuz?",
-    "en": "Did you know dolphins actually call each other by name?",
-    "es": "¿Sabías que los delfines se llaman entre sí por su nombre?",
-    "ar": "هل تعلم أن الدلافين تنادي بعضها البعض بأسمائها حقاً؟"
+    "tr": "Sinekler neden her hamlenizi önceden biliyor gibi hareket eder?",
+    "en": "Why do flies always seem to move as if they know your next move?",
+    "es": "¿Por qué las moscas siempre parecen saber cuál será tu próximo movimiento?",
+    "ar": "لماذا يبدو الذباب دائماً وكأنه يعرف حركتك التالية؟"
   },
   "story_question": {
-    "tr": "Yunuslar kendilerine özel isimleri ne zaman seçer?",
-    "en": "When do dolphins choose their unique names?",
-    "es": "¿Cuándo eligen los delfines sus nombres únicos?",
-    "ar": "متى تختار الدلافين أسمائها الفريدة؟"
+    "tr": "Sineklerin dünyayı bizimle aynı hızda algıladığını mı düşünüyordunuz?",
+    "en": "Did you think flies perceive the world at the same speed as us?",
+    "es": "¿Pensabas que las moscas percibían el mundo a la misma velocidad que nosotros?",
+    "ar": "هل كنت تعتقد أن الذباب يدرك العالم بنفس سرعتنا؟"
   },
   "story_options": [
-    "Doğumdan hemen sonra",
-    "Yetişkinlik döneminde",
-    "Sadece lider yunuslar seçer"
+    "Evet, aynı hızda",
+    "Hayır, daha yavaş",
+    "Çok daha hızlı"
   ],
   "hashtags": [
     "#FactBite",
-    "#yunuslar",
     "#bilim",
     "#doğa",
     "#ilginçbilgiler",
-    "#okyanus",
+    "#biyoloji",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more fascinating facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Animal Vision and Temporal Resolution Studies",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kargaların Yüzleri Asla Unutmadığı Biliniyor, Peki Ya Diğer Hayvanlar?",
+  "_topic": "Karasinekleri Yakalamak Neden Bu Kadar Zor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-20T07:05:05.781640+00:00",
+  "generated_at": "2026-08-20T08:57:03.315314+00:00",
   "topic_guard_days": 180
 }

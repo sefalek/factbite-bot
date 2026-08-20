@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yunuslar Uyurken Bile Neden Batmaz?",
-    "body": "Yunusların nefes almak için su yüzeyine çıkması gerekir. Bu yüzden uyurken beyinlerinin sadece yarısını kapatırlar; diğer yarısı uyanık kalıp hem yüzmeyi hem de nefes almayı kontrol eder."
+    "headline": "Kedilere Katip Olun",
+    "body": "Kedilerin klavyenizin üzerine oturmasının sebebi sadece sıcaklık aramaları değil. Yazı yazarken parmaklarınızın çıkardığı ritmik hareketler, avlarının çıkardığı tıkırtılara çok benziyor. Yani klavyenize yattıklarında aslında sizinle avlanıyorlar."
   },
   "en": {
-    "headline": "Why Dolphins Never Sink While Sleeping",
-    "body": "Dolphins need to surface to breathe. Therefore, when they sleep, they shut down only half of their brain while the other half stays awake to control swimming and breathing."
+    "headline": "Why Cats Sit on Keyboards",
+    "body": "The reason cats sit on your keyboard isn't just about warmth. The rhythmic clicking of your typing sounds remarkably like the rustling of prey, meaning they think they are hunting alongside you."
   },
   "es": {
-    "headline": "Por qué los delfines nunca se hunden al dormir",
-    "body": "Los delfines necesitan salir a la superficie para respirar. Por eso, al dormir, apagan solo la mitad de su cerebro mientras la otra mitad permanece despierta para controlar la natación y la respiración."
+    "headline": "Por Qué Los Gatos Se Sientan en el Teclado",
+    "body": "La razón por la que los gatos se sientan en tu teclado no es solo por el calor. El clic rítmico de tus dedos se parece al sonido de una presa, por lo que creen que están cazando contigo."
   },
   "ar": {
-    "headline": "لماذا لا تغرق الدلافين أبداً أثناء النوم",
-    "body": "تحتاج الدلافين للوصول إلى السطح للتنفس. لذلك، عندما تنام، فإنها تغلق نصف دماغها فقط بينما يظل النصف الآخر مستيقظاً للتحكم في السباحة والتنفس."
+    "headline": "لماذا تجلس القطط على لوحة المفاتيح",
+    "body": "السبب وراء جلوس القطط على لوحة المفاتيح ليس الدفء فقط. فالصوت الإيقاعي لنقرات أصابعك يشبه تماماً أصوات الفرائس، مما يجعلها تشعر أنها تصطاد معك."
   },
   "reel_hook": {
-    "tr": "Uyurken boğulmamayı nasıl başarıyorlar?",
-    "en": "How do they manage not to drown while sleeping?",
-    "es": "Cómo se las arreglan para no ahogarse mientras duermen?",
-    "ar": "كيف يتمكنون من عدم الغرق أثناء النوم؟"
+    "tr": "Kediniz neden sürekli bilgisayarınızın klavyesine yatıyor sanıyorsunuz?",
+    "en": "Why do you think your cat constantly lies on your computer keyboard?",
+    "es": "¿Por qué crees que tu gato se acuesta constantemente en el teclado?",
+    "br": "لماذا تعتقد أن قطتك تستلقي باستمرار على لوحة المفاتيح؟"
   },
   "story_question": {
-    "tr": "Yunuslar uyurken beyinlerinin kaçta kaçını kullanır?",
-    "en": "How much of their brain do dolphins use while sleeping?",
-    "es": "Qué parte de su cerebro usan los delfines al dormir?",
-    "ar": "كم نسبة الدماغ التي تستخدمها الدلافين أثناء النوم؟"
+    "tr": "Kediniz klavyenize yattığında ne yaparsınız?",
+    "en": "What do you do when your cat lies on your keyboard?",
+    "es": "¿Qué haces cuando tu gato se acuesta en tu teclado?",
+    "ar": "ماذا تفعل عندما تستلقي قطتك على لوحة مفاتيحك؟"
   },
   "story_options": [
-    "Yarısını",
-    "Tamamını",
-    "Hiçbirini"
+    "Hemen kucaklarım",
+    "Klavyeden uzaklaştırırım",
+    "İşime onunla devam ederim"
   ],
   "hashtags": [
     "#FactBite",
-    "#yunuslar",
-    "#bilgi",
-    "#doğa",
-    "#deniz",
+    "#kedi",
+    "#bilim",
     "#ilginçbilgiler",
-    "#bilim"
+    "#hayvanlar",
+    "#teknoloji",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Sigue para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Cat Behavior and Evolution Studies",
+    "url": "https://www.nationalgeographic.com/animals/article/cats-computers-keyboards-behavior-pets"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yunuslar Uyurken Bile Neden Batmaz?",
+  "_topic": "Kedilere Katip Olun",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-20T11:48:12.737421+00:00",
+  "generated_at": "2026-08-20T13:42:57.960833+00:00",
   "topic_guard_days": 180
 }

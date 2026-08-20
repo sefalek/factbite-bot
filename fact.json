@@ -1,56 +1,57 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzi Olan Tek Sürüngen",
-    "body": "Biliyor musunuz, koalalardan sonra kendine has parmak izi olan tek canlı bir sürüngendir. Su altında yaşayan bu hayvanların parmak izleri, insan parmak izlerine o kadar çok benzer ki, olay yerinde polisin kafasını karıştırabilirler."
+    "headline": "Solucanların Beş Kalbi Var!",
+    "body": "Toprağın altında sessizce yaşayan solucanların, tek bir kalbi olmadığını biliyor muydunuz? Vücutlarında kanı pompalamak için tam beş adet aort yayı, yani işlevsel kalp bulunur. Bu sayede toprak altındaki dar ve zorlu yolculuklarında hayatta kalırlar."
   },
   "en": {
-    "headline": "The Only Reptile with Fingerprints",
-    "body": "Did you know that after koalas, the only creature with unique fingerprints is a reptile? Living underwater, their fingerprints are so similar to human ones that they can confuse police at a crime scene."
+    "headline": "Earthworms Have Five Hearts!",
+    "body": "Did you know that earthworms don't just have one heart? They actually have five aortic arches that act as hearts to pump blood through their bodies, helping them survive underground."
   },
   "es": {
-    "headline": "El único reptil con huellas dactilares",
-    "body": "¿Sabías que, después de los koalas, la única criatura con huellas dactilares únicas es un reptil? Al vivir bajo el agua, sus huellas son tan similares a las humanas que pueden confundir a la policía en una escena del crimen."
+    "headline": "¡Las lombrices tienen cinco corazones!",
+    "body": "¿Sabías que las lombrices no tienen un solo corazón? En realidad, cuentan con cinco arcos aórticos que funcionan como corazones para bombear sangre por todo su cuerpo."
   },
   "ar": {
-    "headline": "الزاحف الوحيد بصمات أصابع",
-    "body": "هل تعلم أنه بعد الكوالا، المخلوق الوحيد الذي لديه بصمات أصابع فريدة هو زاحف؟ تعيش تحت الماء، وتتشابه بصمات أصابعها مع البصمات البشرية لدرجة أنها قد تربك الشرطة في مسرح الجريمة."
+    "headline": "ديدان الأرض تمتلك خمسة قلوب!",
+    "body": "هل تعلم أن دidان الأرض لا تمتلك قلباً واحداً فقط؟ بل تحتوي على خمسة أقواس أورطية تعمل كقلوب لضخ الدم في أجسادها."
   },
   "reel_hook": {
-    "tr": "Su altında yaşayan bu hayvanın parmak izi neredeyse insanla aynı!",
-    "en": "This underwater animal's fingerprint is almost identical to a human's!",
-    "es": "¡La huella digital de este animal subacuático es casi idéntica a la humana!",
-    "ar": "بصمة إصبع هذا الحيوان تحت الماء تكاد تكون مطابقة لبصمة الإنسان!"
+    "tr": "Tek bir kalbiniz olduğunu düşünüyorsanız, yanılıyorsunuz... en azından bir solucan olsaydınız.",
+    "en": "If you think you only have one heart, you're wrong... at least if you were an earthworm.",
+    "es": "Si crees que solo tienes un corazón, estás equivocado... al menos si fueras una lombriz.",
+    "ar": "إذا كنت تعتقد أنك تمتلك قلباً واحداً فقط، فأنت مخطئ... على الأقل لو كنت دودة أرض."
   },
   "story_question": {
-    "tr": "Sence bu benzersiz parmak izine sahip sürüngen hangisidir?",
-    "en": "Which reptile do you think has this unique fingerprint?",
-    "es": "¿Qué reptil crees que tiene esta huella dactilar única?",
-    "ar": "ما هو الزاحف الذي تعتقد أنه يمتلك بصمة الإصبع الفريدة هذه؟"
+    "tr": "Sizce bir solucanın kaç tane kalbi vardır?",
+    "en": "How many hearts do you think an earthworm has?",
+    "es": "¿Cuántos corazones crees que tiene una lombriz?",
+    "ar": "كم قلباً تعتقد أن دودة الأرض تمتلك؟"
   },
   "story_options": [
-    "Timsah",
-    "Deniz Kaplumbağası",
-    "Bukalemun"
+    "1",
+    "3",
+    "5"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#doğa",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#hayvanlar",
-    "#gerçekler"
+    "#solucan",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takip et!",
-    "en": "Follow for more surprising facts!",
-    "es": "¡Sígueme para más datos sorprendentes!",
-    "ar": "اتبع لمزيد من الحقائق المدهشة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
@@ -60,9 +61,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzi Olan Tek Sürüngen",
+  "_topic": "Solucanların Beş Kalbi Var!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-19T19:26:36.975112+00:00",
+  "generated_at": "2026-08-20T05:45:52.147123+00:00",
   "topic_guard_days": 180
 }

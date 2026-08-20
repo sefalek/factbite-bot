@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilere Katip Olun",
-    "body": "Kedilerin klavyenizin üzerine oturmasının sebebi sadece sıcaklık aramaları değil. Yazı yazarken parmaklarınızın çıkardığı ritmik hareketler, avlarının çıkardığı tıkırtılara çok benziyor. Yani klavyenize yattıklarında aslında sizinle avlanıyorlar."
+    "headline": "Çilek Aslında Bir Meyve Değildir",
+    "body": "Manavda çilek diye aldığımız o kırmızı lezzet, botanik açısından teknik olarak bir meyve değil, büyümüş bir çiçek tablasıdır. Gerçek meyveler ise üzerindeki o minik sarı çekirdeklerin her biridir!"
   },
   "en": {
-    "headline": "Why Cats Sit on Keyboards",
-    "body": "The reason cats sit on your keyboard isn't just about warmth. The rhythmic clicking of your typing sounds remarkably like the rustling of prey, meaning they think they are hunting alongside you."
+    "headline": "Strawberries Are Not Actually Berries",
+    "body": "That red treat we buy as a fruit is botanically not a fruit at all, but an enlarged flower receptacle. The actual fruits are each of those tiny yellow seeds on the outside!"
   },
   "es": {
-    "headline": "Por Qué Los Gatos Se Sientan en el Teclado",
-    "body": "La razón por la que los gatos se sientan en tu teclado no es solo por el calor. El clic rítmico de tus dedos se parece al sonido de una presa, por lo que creen que están cazando contigo."
+    "headline": "Las fresas en realidad no son frutas",
+    "body": "Esa delicia roja que compramos como fruta no es botánicamente una fruta, sino un receptáculo floral agrandado. ¡Los frutos reales son cada una de esas pequeñas semillas amarillas en el exterior!"
   },
   "ar": {
-    "headline": "لماذا تجلس القطط على لوحة المفاتيح",
-    "body": "السبب وراء جلوس القطط على لوحة المفاتيح ليس الدفء فقط. فالصوت الإيقاعي لنقرات أصابعك يشبه تماماً أصوات الفرائس، مما يجعلها تشعر أنها تصطاد معك."
+    "headline": "الفراولة ليست في الواقع فواكه",
+    "body": "تلك الفاكهة الحمراء التي نشتريها ليست في الواقع فاكهة من الناحية النباتية، بل هي وعاء زهرة متضخم. الفاكهة الحقيقية هي كل حبوب صفراء صغيرة على سطحها!"
   },
   "reel_hook": {
-    "tr": "Kediniz neden sürekli bilgisayarınızın klavyesine yatıyor sanıyorsunuz?",
-    "en": "Why do you think your cat constantly lies on your computer keyboard?",
-    "es": "¿Por qué crees que tu gato se acuesta constantemente en el teclado?",
-    "br": "لماذا تعتقد أن قطتك تستلقي باستمرار على لوحة المفاتيح؟"
+    "tr": "Çilek hakkında bildiğiniz her şeyi unutun.",
+    "en": "Forget everything you know about strawberries.",
+    "es": "Olvida todo lo que sabes sobre las fresas.",
+    "ar": "انسا كل ما تعرفه عن الفراولة."
   },
   "story_question": {
-    "tr": "Kediniz klavyenize yattığında ne yaparsınız?",
-    "en": "What do you do when your cat lies on your keyboard?",
-    "es": "¿Qué haces cuando tu gato se acuesta en tu teclado?",
-    "ar": "ماذا تفعل عندما تستلقي قطتك على لوحة مفاتيحك؟"
+    "tr": "Botanikte çileğin üzerindeki o minik sarı noktalar aslında nedir?",
+    "en": "What are those tiny yellow dots on a strawberry in botany?",
+    "es": "¿Qué son esos pequeños puntos amarillos en una fresa en la botánica?",
+    "ar": "ما هي تلك النقاط الصفراء الصغيرة على الفراولة في علم النبات؟"
   },
   "story_options": [
-    "Hemen kucaklarım",
-    "Klavyeden uzaklaştırırım",
-    "İşime onunla devam ederim"
+    "Gerçek meyveleridir",
+    "Sadece çekirdektir",
+    "Polen kalıntısıdır"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
+    "#çilek",
     "#bilim",
     "#ilginçbilgiler",
-    "#hayvanlar",
-    "#teknoloji",
-    "#keşfet"
+    "#botanik",
+    "#doğa",
+    "#öğrenme"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more fascinating facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Cat Behavior and Evolution Studies",
-    "url": "https://www.nationalgeographic.com/animals/article/cats-computers-keyboards-behavior-pets"
+    "name": "Encyclopædia Britannica",
+    "url": "https://www.britannica.com/story/is-a-strawberry-a-fruit"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilere Katip Olun",
+  "_topic": "Çilek Aslında Bir Meyve Değildir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-20T13:42:57.960833+00:00",
+  "generated_at": "2026-08-20T15:34:19.412787+00:00",
   "topic_guard_days": 180
 }

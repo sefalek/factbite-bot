@@ -1,37 +1,38 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Karasineklerin Zaman Algısı Bizden Farklı Mı?",
-    "body": "Saniyede yüzlerce görüntü işleyebilen karasinekler için dünya adeta yavaş çekimde akar. Bu yüzden onlara yaklaşmak neredeyse imkansızdır; çünkü hareketlerinizi çok daha önceden görürler."
+    "headline": "Karasineklerin Zaman Algısı",
+    "body": "Karasinekler hareket eden dünyayı adeta yavaş çekimde görürler. Bu yüzden onları yakalamak neredeyse imkansızdır; çünkü sinekler için sizin eliniz daha harekete başlamadan çok önce oradadır."
   },
   "en": {
-    "headline": "Do Houseflies Experience Time Differently?",
-    "body": "Capable of processing hundreds of images per second, houseflies see the world in slow motion. This is why it's nearly impossible to sneak up on them; they perceive your movements well in advance."
+    "headline": "Houseflies' Time Perception",
+    "body": "Houseflies see the moving world in slow motion. That's why catching them is almost impossible, because to a fly, your hand was already moving long before."
   },
   "es": {
-    "headline": "¿Perciben las Moscas el Tiempo de Forma Diferente?",
-    "body": "Capaces de procesar cientos de imágenes por segundo, las moscas ven el mundo en cámara lenta. Por eso es casi imposible cazarlas desprevenidas; perciben tus movimientos con mucha anticipación."
+    "headline": "La percepción del tiempo de las moscas",
+    "body": "Las moscas domésticas ven el mundo en movimiento en cámara lenta. Por eso es casi imposible atraparlas, ya que para una mosca, tu mano ya se estaba moviendo mucho antes."
   },
   "ar": {
-    "headline": "هل تدرك الذباب الوقت بشكل مختلف؟",
-    "body": "الذباب، القادر على معالجة مئات الصور في الثانية، يرى العالم حركة بطيئة. ولهذا السبب من المستحيل تقريبا الإمساك به، فهو يدرك حركاتك مسبقا."
+    "headline": "إراك الوقت لدى الذباب المنزلي",
+    "body": "ترى ذبابات المنازل العالم المتحرك بالحركة البطيئة. ولهذا السبب فإن اصطيادها يكاد يكون مستحيلاً، لأنه بالنسبة للذبابة، كانت يدك تتحرك بالفعل قبل فترة طويلة."
   },
   "reel_hook": {
-    "tr": "Siz elinizi uzatırken, o aslında bunu saniyeler öncesinden görüyor.",
-    "en": "As you reach out your hand, it actually saw it coming seconds ago.",
-    "es": "Mientras extiendes la mano, ella en realidad lo vio venir hace segundos.",
-    "ar": "بينما تمد يدك، رأت هي ذلك قادماً قبل ثوانٍ."
+    "tr": "Sinekleri yakalamak neden bu kadar imkansız görünür hiç düşündünüz mü?",
+    "en": "Have you ever wondered why catching a fly seems so impossible?",
+    "en_us": "Have you ever wondered why catching a fly seems so impossible?",
+    "es": "¿Alguna vez te has preguntado por qué atrapar una mosca parece tan imposible?",
+    "ar": "هل تمنيت يوماً أن تعرف لماذا يبدو اصطياد الذباب مستحيلاً جداً؟"
   },
   "story_question": {
-    "tr": "Karasineklerin zamanı bizden ne kadar yavaş algıladığını tahmin ederdiniz?",
-    "en": "How much slower do you think houseflies perceive time compared to us?",
-    "es": "¿Qué tan más lento crees que las moscas perciben el tiempo en comparación con nosotros?",
-    "ar": "برأيك، ما مدى بطء إدراك الذباب للوقت مقارنة بنا؟"
+    "tr": "Sizce bir karasinek saniyede insan gözüne göre kaç kat daha fazla görüntü işleyebilir?",
+    "en": "How many times more images per second do you think a housefly can process compared to a human eye?",
+    "es": "¿Cuántas más imágenes por segundo crees que puede procesar una mosca en comparación con el ojo humano?",
+    "ar": "برأيك، كم مرة أكثر يمكن للذبابة معالجة الصور في الثانية مقارنة بالعين البشرية؟"
   },
   "story_options": [
-    "2 kat daha yavaş",
-    "4 kat daha yavaş",
-    "Çok daha farklı bir sistem"
+    "2 katı",
+    "4 katı",
+    "7 katı"
   ],
   "hashtags": [
     "#FactBite",
@@ -39,14 +40,13 @@
     "#doğa",
     "#ilginçbilgiler",
     "#biyoloji",
-    "#keşfet",
-    "#hayvanlaralemi"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bu tarz büyüleyici bilim gerçekleri için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more fascinating science facts!",
-    "es": "¡No olvides seguirnos para más datos científicos fascinantes!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق العلمية الرائعة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -57,13 +57,13 @@
   },
   "source": {
     "name": "Animal Behaviour / Entomology Research",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3049053/"
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Karasineklerin Zaman Algısı Bizden Farklı Mı?",
+  "_topic": "Karasineklerin Zaman Algısı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-21T05:47:52.747246+00:00",
+  "generated_at": "2026-08-21T07:06:06.217244+00:00",
   "topic_guard_days": 180
 }

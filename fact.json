@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Flamingolar Neden Tek Ayak Üstünde Durur?",
-    "body": "Pembe tüyleriyle büyüleyen flamingoların bu tuhaf duruşunun sırrı aslında bacaklarındaki kaslarda saklı değil. Bilim insanları, bu kuşların tek ayak üzerinde dururken hiçbir kas enerjisi harcamadığını keşfetti. Kilitli bir mekanizma sayesinde yerçekimine karşı tamamen pasif bir şekilde dengede durabiliyorlar. Yani onlar için bu pozisyon, iki ayak üzerinde durmaktan çok daha kolay."
+    "headline": "Denizlerin Hayaletleri: Mürekkep Balıkları",
+    "body": "Mürekkep balıkları sadece renk değiştirmekle kalmaz; derilerindeki özel hücreler sayesinde çevrelerindeki dokuyu ve hatta ışığı birebir kopyalayabilirler. Saniyeler içinde tamamen görünmez hale gelebilirler."
   },
   "en": {
-    "headline": "Why Do Flamingos Stand on One Leg?",
-    "body": "The secret behind the strange posture of flamingos isn't actually hidden in their leg muscles. Scientists discovered that these birds expend zero muscle energy while standing on one leg. Thanks to a locking mechanism, they can balance against gravity completely passively. So for them, this position is much easier than standing on two."
+    "headline": "Ghosts of the Sea: Cuttlefish",
+    "body": "Cuttlefish don't just change color; thanks to specialized skin cells, they can precisely copy the texture and light of their surroundings, becoming completely invisible in seconds."
   },
   "es": {
-    "headline": "¿Por qué los flamencos se pararse en una sola pata?",
-    "body": "El secreto detrás de la extraña postura de los flamencos no se esconde en realidad en los músculos de sus patas. Los científicos descubrieron que estas aves no gastan energía muscular al pararse en una sola pata. Gracias a un mecanismo de bloqueo, pueden equilibrarse contra la gravedad de forma totalmente pasiva. Así que para ellos, esta posición es mucho más fácil que pararse en dos."
+    "headline": "Fantasmas del mar: Sepias",
+    "body": "Las sepias no solo cambian de color; gracias a células especiales en su piel, pueden imitar con precisión la textura y la luz de su entorno, volviéndose casi invisibles en segundos."
   },
   "ar": {
-    "headline": "لماذا تقف طيور النحام على ساق واحدة؟",
-    "body": "السر وراء هذه الوقفة الغريبة لطيور النحام ليس مخفياً في عضلات ساقيها. اكتشف العلماء أن هذه الطيور لا تبذل أي طاقة عضلية أثناء الوقوف على ساق واحدة. بفضل آلية قفل طبيعية، يمكنها الحفاظ على توازنها ضد الجاذبية بشكل سلبي تماماً. لذا، فإن هذا الوضع أسهل بكثير بالنسبة لها من الوقوف على ساقين."
+    "headline": "أشباح البحر: الحبار",
+    "body": "لا يكتفي الحبار بتغيير لونه؛ فبفضل خلايا الجلد المتخصصة، يمكنه نسخ ملمس الضوء والبيئة المحيطة بدقة، ليصبح غير مرئي تماماً في ثوانٍ."
   },
   "reel_hook": {
-    "tr": "Flamingoların tek ayak üstünde uyumasının fizik kurallarına meydan okuyan gerçek sebebi ne?",
-    "en": "What is the physics-defying real reason flamingos sleep on one leg?",
-    "es": "¿Cuál es la verdadera razón, que desafía la física, por la que los flamencos duermen en una pata?",
-    "ar": "ما هو السبب الحقيقي الذي يتحدى الفيزياء وراء نوم طيور النحام على ساق واحدة؟"
+    "tr": "Saniyeler içinde gözünüzün önünde tamamen yok olabilen bir canlıyı hayal edin...",
+    "en": "Imagine a creature that can completely vanish right in front of your eyes in seconds...",
+    "es": "Imagina una criatura que puede desaparecer por completo frente a tus ojos en segundos...",
+    "ar": "تخيل مخلوقاً يمكنه الاختفاء تماماً أمام عينيك في ثوانٍ..."
   },
   "story_question": {
-    "tr": "Flamingolar tek ayak üzerinde dururken sizce ne kadar yorulurlar?",
-    "en": "How tired do you think flamingos get while standing on one leg?",
-    "es": "¿Qué tão cansados crees que se ponen los flamencos al pararse en una pata?",
-    "ar": "برأيك، ما مدى تعب طيور النحام أثناء الوقوف على ساق واحدة؟"
+    "tr": "Mürekkep balıkları bu inanılmaz kamufle yeteneğini hangi amaçla kullanır?",
+    "en": "For what purpose do cuttlefish use this incredible camouflage ability?",
+    "es": "¿Con qué propósito utilizan las sepias esta increíble capacidad de camuflaje?",
+    "ar": "لأي غرض يستخدم الحبار قدرة التمويه المذهلة هذه؟"
   },
   "story_options": [
-    "Hiç yorulmazlar, sıfır enerji",
-    "Çok yorulurlar, kasları kasılır",
-    "Sadece rüzgarlı havada yorulurlar"
+    "A) Sadece avlanmak için",
+    "B) Avlanmak ve avcılardan korunmak için",
+    "C) Sadece iletişim kurmak için"
   ],
   "hashtags": [
     "#FactBite",
-    "#flamingo",
-    "#bilim",
     "#doğa",
-    "#ilginçbilgiler",
-    "#hayvanlaralemi",
-    "#biliyormusunuz"
+    "#bilim",
+    "#deniz",
+    "#hayvanlar",
+    "#keşif",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع بهذا لأول مرة!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts!",
+    "es": "¡No olvides seguirnos para más datos increíbles!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Biology Letters",
-    "url": "https://royalsocietypublishing.org/journal/rsbl"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Flamingolar Neden Tek Ayak Üstünde Durur?",
+  "_topic": "Denizlerin Hayaletleri: Mürekkep Balıkları",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-21T17:37:33.483818+00:00",
+  "generated_at": "2026-08-21T19:24:31.556548+00:00",
   "topic_guard_days": 180
 }

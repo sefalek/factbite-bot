@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Hayaletleri: Mürekkep Balıkları",
-    "body": "Mürekkep balıkları sadece renk değiştirmekle kalmaz; derilerindeki özel hücreler sayesinde çevrelerindeki dokuyu ve hatta ışığı birebir kopyalayabilirler. Saniyeler içinde tamamen görünmez hale gelebilirler."
+    "headline": "Kedi Mırıltısının Gizli İyileştirici Gücü",
+    "body": "Kedilerin çıkardığı o huzurlu mırıltı sadece mutluluktan ibaret değil. Araştırmalar, 20 ila 140 Hz arasındaki bu titreşim frekansının kemik yoğunluğunu artırabildiğini ve doku iyileşmesini hızlandırabildiğini gösteriyor."
   },
   "en": {
-    "headline": "Ghosts of the Sea: Cuttlefish",
-    "body": "Cuttlefish don't just change color; thanks to specialized skin cells, they can precisely copy the texture and light of their surroundings, becoming completely invisible in seconds."
+    "headline": "The Hidden Healing Power of Cat Purrs",
+    "body": "The peaceful purr of a cat isn't just about happiness. Research shows that this vibration frequency, between 20 and 140 Hz, can increase bone density and accelerate tissue healing."
   },
   "es": {
-    "headline": "Fantasmas del mar: Sepias",
-    "body": "Las sepias no solo cambian de color; gracias a células especiales en su piel, pueden imitar con precisión la textura y la luz de su entorno, volviéndose casi invisibles en segundos."
+    "headline": "El poder curativo oculto del ronroneo felino",
+    "body": "El tranquilo ronroneo de un gato no es solo felicidad. Las investigaciones muestran que esta frecuencia de vibración, entre 20 y 140 Hz, puede aumentar la densidad ósea y acelerar la curación de tejidos."
   },
   "ar": {
-    "headline": "أشباح البحر: الحبار",
-    "body": "لا يكتفي الحبار بتغيير لونه؛ فبفضل خلايا الجلد المتخصصة، يمكنه نسخ ملمس الضوء والبيئة المحيطة بدقة، ليصبح غير مرئي تماماً في ثوانٍ."
+    "headline": "قوة الشفاء الخفية لخرخرة القطط",
+    "body": "خرخرة القط الهادئة ليست مجرد تعبير عن السعادة. تُظهر الأبحاث أن تردد الاهتزاز هذا، بين 20 و 140 هرتز، يمكن أن يزيد من كثافة العظام ويسرع شفاء الأنسجة."
   },
   "reel_hook": {
-    "tr": "Saniyeler içinde gözünüzün önünde tamamen yok olabilen bir canlıyı hayal edin...",
-    "en": "Imagine a creature that can completely vanish right in front of your eyes in seconds...",
-    "es": "Imagina una criatura que puede desaparecer por completo frente a tus ojos en segundos...",
-    "ar": "تخيل مخلوقاً يمكنه الاختفاء تماماً أمام عينيك في ثوانٍ..."
+    "tr": "Kedilerin mırıldanması aslında sadece sevgi gösterisi değilmiş...",
+    "en": "A cat's purr isn't actually just a sign of affection...",
+    "es": "El ronroneo de un gato no es en realidad solo una muestra de afecto...",
+    "ar": "خرخرة القط ليست في الواقع مجرد علامة على المودة..."
   },
   "story_question": {
-    "tr": "Mürekkep balıkları bu inanılmaz kamufle yeteneğini hangi amaçla kullanır?",
-    "en": "For what purpose do cuttlefish use this incredible camouflage ability?",
-    "es": "¿Con qué propósito utilizan las sepias esta increíble capacidad de camuflaje?",
-    "ar": "لأي غرض يستخدم الحبار قدرة التمويه المذهلة هذه؟"
+    "tr": "Kedilerin mırıltı frekansı hangi insan tedavisinde de kullanılan aralıktadır?",
+    "en": "What human therapy range does a cat's purr frequency fall into?",
+    "es": "¿En qué rango de terapia humana se encuentra la frecuencia del ronroneo de un gato?",
+    "ar": "ما هو نطاق العلاج البشري الذي يقع فيه تردد خرخرة القط؟"
   },
   "story_options": [
-    "A) Sadece avlanmak için",
-    "B) Avlanmak ve avcılardan korunmak için",
-    "C) Sadece iletişim kurmak için"
+    "Fizik Tedavi ve Kemik İyileşmesi",
+    "Uyku Bozukluğu Giderme",
+    "Göz Tansiyonu Düşürme"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
+    "#kedi",
     "#bilim",
-    "#deniz",
-    "#hayvanlar",
-    "#keşif",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#doğa",
+    "#sağlık",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos increíbles!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة!"
+    "tr": "Benzer şaşırtıcı gerçekler için takip et!",
+    "en": "Follow for more surprising facts!",
+    "es": "¡Sígueme para más datos sorprendentes!",
+    "ar": "تابعنا للمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com/article/why-do-cats-purr/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Hayaletleri: Mürekkep Balıkları",
+  "_topic": "Kedi Mırıltısının Gizli İyileştirici Gücü",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-21T19:24:31.556548+00:00",
+  "generated_at": "2026-08-21T20:58:01.406489+00:00",
   "topic_guard_days": 180
 }

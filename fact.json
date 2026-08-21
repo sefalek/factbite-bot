@@ -1,57 +1,57 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sincapların Unuttukları Meşe Palamutlarından Ormanlar Büyür",
-    "body": "Sincaplar kış için sakladıkları binlerce meşe palamudunun yerini her zaman hatırlayamaz. Toprağın altında unutulan bu tohumlar zamanla filizlenir ve yepyeni ağaçlara dönüşür. Yani sincaplar aslında bilmeden doğanın en başarılı ağaçlandırma işçileridir."
+    "headline": "Kunduzların Su Altında Nefes Almasını Sağlayan Gizli Silahı",
+    "body": "Kunduzlar su altında çalışırken su yutmamak ve nefessiz kalmamak için harika bir anatomik avantaja sahiptir. Dudakları, ön dişlerinin arkasından kapanarak ağızlarını tamamen yalıtır. Böylece su altında dalarken veya ağaç kemirirken içeriye tek bir damla bile su kaçmaz."
   },
   "en": {
-    "headline": "Forests Grow From Acorns Squirrels Forget",
-    "body": "Squirrels can't always remember where they hid thousands of acorns for the winter. These forgotten seeds sprout underground over time and grow into brand new trees. So, squirrels are actually nature's most successful reforestation workers without even knowing it."
+    "headline": "The Secret Weapon That Lets Beavers Breathe Underwater",
+    "body": "Beavers have an amazing anatomical advantage to prevent swallowing water while working underwater. Their lips close behind their front teeth, completely sealing their mouth. This way, not a single drop of water gets in while they dive or chew wood."
   },
   "es": {
-    "headline": "Los bosques crecen a partir de las bellotas que olvidan las ardillas",
-    "body": "Las ardillas no siempre recuerdan dónde escondieron miles de bellotas para el invierno. Estas semillas olvidadas germinan bajo tierra con el tiempo y se convierten en árboles nuevos. Así que las ardillas son, sin saberlo, los trabajadores de reforestación más exitosos de la naturaleza."
+    "headline": "El arma secreta que permite a los castores respirar bajo el agua",
+    "body": "Los castores tienen una ventaja anatómica increíble para evitar tragar agua mientras trabajan bajo el agua. Sus labios se cierran detrás de sus dientes frontales, sellando completamente su boca. De esta manera, ni una sola gota de agua entra mientras bucean o mastican madera."
   },
   "ar": {
-    "headline": "الغابات تنمو من البلوط الذي تنساه السناجب",
-    "body": "لا تستطيع السناجب دائماً تذكر مكان إخفاء آلاف حبات البلوط لفصل الشتاء. هذه البذور المنسية تنبت تحت الأرض ب مرور الوقت وتحول إلى أشجار جديدة تماماً. لذا، فإن السناجب هي في الواقع عمال إعادة التشجير الأكثر نجاحاً في الطبيعة دون أن تدري."
+    "headline": "السلاح السرّي الذي يسمح للقنادس بالتنفس تحت الماء",
+    "body": "تمتلك القنادس ميزة تشريحية مذهلة تمنعها من ابتلاع الماء أثناء العمل تحت الماء. تغلق شفاهها خلف أسنانها الأمامية لتغلق فمها تماماً. وبهذه الطريقة، لا تدخل قطرة ماء واحدة أثناء الغوص أو قضم الخشب."
   },
   "reel_hook": {
-    "tr": "Milyonlarca ağaç nasıl tek bir unutkanlık yüzünden büyür?",
-    "en": "How do millions of trees grow just because of a single act of forgetfulness?",
-    "es": "¿Cómo crecen millones de árboles debido a un solo acto de olvido?",
-    "ar": "كيف تنمو ملايين الأشجار بسبب نسيان بسيط؟"
+    "tr": "Kunduzlar suyun altında ağaçları kemirirken ağızlarına neden hiç su kaçmaz?",
+    "en": "Why do beavers never get water in their mouths while chewing wood underwater?",
+    "es": "¿Por qué a los castores nunca les entra agua en la boca mientras mastican madera bajo el agua?",
+    "ar": "لماذا لا يدخل الماء أبداً إلى فم القنادس أثناء قضم الخشب تحت الماء؟"
   },
   "story_question": {
-    "tr": "Sincapların her yıl ortalama kaç meşe palamudunu unuttuğunu tahmin edersiniz?",
-    "en": "How many acorns do you think squirrels forget on average each year?",
-    "es": "¿Cuántas bellotas crees que olvidan las ardillas en promedio cada año?",
-    "ar": "كم عدد حبات البلوط التي تعتقد أن السناجب تنساه في المتوسط كل عام؟"
+    "tr": "Kunduzların su altında ağızlarına su girmesini engelleyen özel yapı neresindedir?",
+    "en": "Where is the special structure that prevents water from entering beavers' mouths underwater?",
+    "es": "¿Dónde está la estructura especial que evita que entre agua en la boca de los castores bajo el agua?",
+    "ar": "أين تقع البنية الخاصة التي تمنع دخول الماء إلى فم القنادس تحت الماء؟"
   },
   "story_options": [
-    "Yüzlerce",
-    "Binlerce",
-    "On binlerce"
+    "Dişlerinin arkasından kapanan dudakları",
+    "Boğazlarındaki kapanabilen özel kapak",
+    "Burunlarını tamamen tıkަމayan kaslar"
   ],
   "hashtags": [
     "#FactBite",
-    "#sincap",
+    "#kunduz",
     "#doğa",
-    "#orman",
-    "#bilgi",
+    "#bilim",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#ekoloji"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos de la naturaleza como este!",
+    "ar": "لا تنس متابعة المزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
@@ -61,9 +61,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Sincapların Unuttukları Meşe Palamutlarından Ormanlar Büyür",
+  "_topic": "Kunduzların Su Altında Nefes Almasını Sağlayan Gizli Silahı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-21T08:58:04.902173+00:00",
+  "generated_at": "2026-08-21T11:47:44.488593+00:00",
   "topic_guard_days": 180
 }

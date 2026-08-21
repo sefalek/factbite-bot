@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kelebeklerin Tat Alma Duyusu Nerededir?",
-    "body": "Bir kelebek çiçeğin nektarını tatmak için burnunu veya dilini kullanmaz. Tam aksine, ayaklarıyla yürürken o bitkinin tadını doğrudan algılarlar. Üzerine kondukları yaprağın veya çiçeğin kimyasal içeriğini ayaklarındaki özel reseptörler sayesinde hemen anlarlar."
+    "headline": "Karasineklerin Zaman Algısı Bizden Farklı Mı?",
+    "body": "Saniyede yüzlerce görüntü işleyebilen karasinekler için dünya adeta yavaş çekimde akar. Bu yüzden onlara yaklaşmak neredeyse imkansızdır; çünkü hareketlerinizi çok daha önceden görürler."
   },
   "en": {
-    "headline": "Where Do Butterflies Taste Their Food?",
-    "body": "A butterfly doesn't use its nose or tongue to taste the nectar of a flower. Instead, they sense the taste directly through their feet as they walk. They instantly recognize the chemical content of the leaf or flower they land on using special receptors on their legs."
+    "headline": "Do Houseflies Experience Time Differently?",
+    "body": "Capable of processing hundreds of images per second, houseflies see the world in slow motion. This is why it's nearly impossible to sneak up on them; they perceive your movements well in advance."
   },
   "es": {
-    "headline": "¿Dónde tienen el sentido del gusto las mariposas?",
-    "body": "Una mariposa no utiliza su nariz o lengua para probar el néctar de una flor. Al contrario, perciben el sabor directamente con sus patas mientras caminan. Reconocen al instante el contenido químico de la hoja o flor donde se posan gracias a receptores especiales en sus patas."
+    "headline": "¿Perciben las Moscas el Tiempo de Forma Diferente?",
+    "body": "Capaces de procesar cientos de imágenes por segundo, las moscas ven el mundo en cámara lenta. Por eso es casi imposible cazarlas desprevenidas; perciben tus movimientos con mucha anticipación."
   },
   "ar": {
-    "headline": "أين تملك الفراشات حاسة التذوق؟",
-    "body": "لا تستخدم الفراشة أنفها أو لسانها لتذوق رحيق الزهرة. بل على العكس تماماً، فهي تشعر بالمذاق مباشرة عبر أقدامها أثناء المشي. وهي تتعرف فوراً على المحتوى الكيميائي للورقة أو الزهرة التي تقف عليها بفضل مستشعرات خاصة في أرجلها."
+    "headline": "هل تدرك الذباب الوقت بشكل مختلف؟",
+    "body": "الذباب، القادر على معالجة مئات الصور في الثانية، يرى العالم حركة بطيئة. ولهذا السبب من المستحيل تقريبا الإمساك به، فهو يدرك حركاتك مسبقا."
   },
   "reel_hook": {
-    "tr": "Kelebekler tat alma duyusunu nerede taşır hiç düşündünüz mü?",
-    "en": "Have you ever wondered where butterflies carry their sense of taste?",
-    "es": "¿Alguna vez te has preguntado dónde llevan las mariposas su sentido del gusto?",
-    "ar": "هل فكرت من قبل أين تحمل الفراشات حاسة التذوق لديها؟"
+    "tr": "Siz elinizi uzatırken, o aslında bunu saniyeler öncesinden görüyor.",
+    "en": "As you reach out your hand, it actually saw it coming seconds ago.",
+    "es": "Mientras extiendes la mano, ella en realidad lo vio venir hace segundos.",
+    "ar": "بينما تمد يدك، رأت هي ذلك قادماً قبل ثوانٍ."
   },
   "story_question": {
-    "tr": "Sizce bir kelebek konduğu çiçeğin tadını hangi organıyla alır?",
-    "en": "Which body part do you think a butterfly uses to taste the flower it lands on?",
-    "es": "¿Qué parte del cuerpo crees que usa una mariposa para saborear la flor en la que se posa?",
-    "ar": "برأيك، أي جزء من جسم تستخدمه الفراشة لتذوق الزهرة التي تقف عليها؟"
+    "tr": "Karasineklerin zamanı bizden ne kadar yavaş algıladığını tahmin ederdiniz?",
+    "en": "How much slower do you think houseflies perceive time compared to us?",
+    "es": "¿Qué tan más lento crees que las moscas perciben el tiempo en comparación con nosotros?",
+    "ar": "برأيك، ما مدى بطء إدراك الذباب للوقت مقارنة بنا؟"
   },
   "story_options": [
-    "A) Antenleriyle",
-    "B) Hortumuyla",
-    "C) Ayaklarıyla"
+    "2 kat daha yavaş",
+    "4 kat daha yavaş",
+    "Çok daha farklı bir sistem"
   ],
   "hashtags": [
     "#FactBite",
-    "#kelebek",
-    "#doğa",
     "#bilim",
+    "#doğa",
     "#ilginçbilgiler",
     "#biyoloji",
-    "#canlılar"
+    "#keşfet",
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "En şaşırtıcı doğa gerçekleri için takip etmeyi unutma!",
-    "en": "Don't forget to follow for the most surprising nature facts!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes sobre la naturaleza!",
-    "ar": "لا تنس المتابعة لمعرفة أكثر حقائق الطبيعة إثارة للدهشة!"
+    "tr": "Bu tarz büyüleyici bilim gerçekleri için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more fascinating science facts!",
+    "es": "¡No olvides seguirnos para más datos científicos fascinantes!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق العلمية الرائعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Animal Behaviour / Entomology Research",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3049053/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kelebeklerin Tat Alma Duyusu Nerededir?",
+  "_topic": "Karasineklerin Zaman Algısı Bizden Farklı Mı?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-20T21:02:08.841955+00:00",
+  "generated_at": "2026-08-21T05:47:52.747246+00:00",
   "topic_guard_days": 180
 }

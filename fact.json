@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kunduzların Su Altında Nefes Almasını Sağlayan Gizli Silahı",
-    "body": "Kunduzlar su altında çalışırken su yutmamak ve nefessiz kalmamak için harika bir anatomik avantaja sahiptir. Dudakları, ön dişlerinin arkasından kapanarak ağızlarını tamamen yalıtır. Böylece su altında dalarken veya ağaç kemirirken içeriye tek bir damla bile su kaçmaz."
+    "headline": "Kibritin Asıl İcadı",
+    "body": "Bugün kullandığımız modern kibritler hemen yanar gibi görünür ama tarihleri oldukça şaşırtıcıdır. İlk sürtünmeli kibritler John Walker tarafından icat edildiğinde, ateş yakmak için onları sert bir yüzeye sürtmek yeterliydi ancak bu ilk denemelerde kıvılcımlar beklenmedik şekilde patlayabiliyor ve etrafa tehlikeli saçılmalar yapabiliyordu."
   },
   "en": {
-    "headline": "The Secret Weapon That Lets Beavers Breathe Underwater",
-    "body": "Beavers have an amazing anatomical advantage to prevent swallowing water while working underwater. Their lips close behind their front teeth, completely sealing their mouth. This way, not a single drop of water gets in while they dive or chew wood."
+    "headline": "The Real Invention of Matches",
+    "body": "Modern matches seem to light instantly, but their history is quite surprising. When the first friction matches were invented by John Walker, striking them against a rough surface was enough to create fire, but these early versions could spark unexpectedly and scatter dangerously."
   },
   "es": {
-    "headline": "El arma secreta que permite a los castores respirar bajo el agua",
-    "body": "Los castores tienen una ventaja anatómica increíble para evitar tragar agua mientras trabajan bajo el agua. Sus labios se cierran detrás de sus dientes frontales, sellando completamente su boca. De esta manera, ni una sola gota de agua entra mientras bucean o mastican madera."
+    "headline": "La verdadera invención de las cerillas",
+    "body": "Las cerillas modernas parecen encenderse al instante, pero su historia es bastante sorprendente. Cuando John Walker inventó las primeras cerillas de fricción, bastaba con frotarlas contra una superficie rugosa, pero estas primeras versiones podían chispear de forma inesperada."
   },
   "ar": {
-    "headline": "السلاح السرّي الذي يسمح للقنادس بالتنفس تحت الماء",
-    "body": "تمتلك القنادس ميزة تشريحية مذهلة تمنعها من ابتلاع الماء أثناء العمل تحت الماء. تغلق شفاهها خلف أسنانها الأمامية لتغلق فمها تماماً. وبهذه الطريقة، لا تدخل قطرة ماء واحدة أثناء الغوص أو قضم الخشب."
+    "headline": "الاختراع الحقيقي للكبريت",
+    "body": "تبدو أعواد الكبريت الحديثة وكأنها تشتعل فوراً، لكن تاريخها مفاجئ للغاية. عندما اخترع جون ووكر أول أعواد كبريت احتكاكية، كان حكها على سطح خشن كافياً لإشعال النار، لكن هذه الإصدارات المبكرة كانت قد تشرارة بشكل غير متوقع."
   },
   "reel_hook": {
-    "tr": "Kunduzlar suyun altında ağaçları kemirirken ağızlarına neden hiç su kaçmaz?",
-    "en": "Why do beavers never get water in their mouths while chewing wood underwater?",
-    "es": "¿Por qué a los castores nunca les entra agua en la boca mientras mastican madera bajo el agua?",
-    "ar": "لماذا لا يدخل الماء أبداً إلى فم القنادس أثناء قضم الخشب تحت الماء؟"
+    "tr": "İlk kibritler ilk yakıldığında patlıyordu!",
+    "en": "The very first matches used to explode when lit!",
+    "es": "¡Las primeras cerillas explotaban al encenderse!",
+    "ar": "كانت أعواد الكبريت الأولى تنفجر عند إشعالها!"
   },
   "story_question": {
-    "tr": "Kunduzların su altında ağızlarına su girmesini engelleyen özel yapı neresindedir?",
-    "en": "Where is the special structure that prevents water from entering beavers' mouths underwater?",
-    "es": "¿Dónde está la estructura especial que evita que entre agua en la boca de los castores bajo el agua?",
-    "ar": "أين تقع البنية الخاصة التي تمنع دخول الماء إلى فم القنادس تحت الماء؟"
+    "tr": "İlk kibrit hangi yıl icat edilmiştir?",
+    "en": "In which year was the first friction match invented?",
+    "es": "¿En qué año se inventó la primera cerilla?",
+    "ar": "في أي سنة تم اختراع أول عود كبريت؟"
   },
   "story_options": [
-    "Dişlerinin arkasından kapanan dudakları",
-    "Boğazlarındaki kapanabilen özel kapak",
-    "Burunlarını tamamen tıkަމayan kaslar"
+    "1826",
+    "1901",
+    "1750"
   ],
   "hashtags": [
     "#FactBite",
-    "#kunduz",
-    "#doğa",
-    "#bilim",
-    "#hayvanlar",
+    "#bilgi",
+    "#tarih",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#keşfet",
+    "#science",
+    "#fyi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos de la naturaleza como este!",
-    "ar": "لا تنس متابعة المزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Historic UK",
+    "url": "https://www.historic-uk.com/CultureUK/The-Match-Box/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kunduzların Su Altında Nefes Almasını Sağlayan Gizli Silahı",
+  "_topic": "Kibritin Asıl İcadı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-21T11:47:44.488593+00:00",
+  "generated_at": "2026-08-21T13:42:15.494163+00:00",
   "topic_guard_days": 180
 }

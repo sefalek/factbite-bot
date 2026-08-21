@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritin Asıl İcadı",
-    "body": "Bugün kullandığımız modern kibritler hemen yanar gibi görünür ama tarihleri oldukça şaşırtıcıdır. İlk sürtünmeli kibritler John Walker tarafından icat edildiğinde, ateş yakmak için onları sert bir yüzeye sürtmek yeterliydi ancak bu ilk denemelerde kıvılcımlar beklenmedik şekilde patlayabiliyor ve etrafa tehlikeli saçılmalar yapabiliyordu."
+    "headline": "Peynir Böcekleri Neden Zıplar?",
+    "body": "İtalyanların ünlü Casu Marzu peynirinin içinde yaşayan peynir sineği larvaları, tehlike anında kendilerini yay gibi bükerek tam 15 santim yükseğe zıplayabilirler. Bu yüzden bu peyniri yerken gözlerinizi korumanız gerekir."
   },
   "en": {
-    "headline": "The Real Invention of Matches",
-    "body": "Modern matches seem to light instantly, but their history is quite surprising. When the first friction matches were invented by John Walker, striking them against a rough surface was enough to create fire, but these early versions could spark unexpectedly and scatter dangerously."
+    "headline": "Why Cheese Maggots Jump",
+    "body": "The cheese fly larvae living inside Italy's famous Casu Marzu cheese can bend themselves like a spring and jump up to 15 centimeters high when threatened. That's why you need to protect your eyes while eating this cheese."
   },
   "es": {
-    "headline": "La verdadera invención de las cerillas",
-    "body": "Las cerillas modernas parecen encenderse al instante, pero su historia es bastante sorprendente. Cuando John Walker inventó las primeras cerillas de fricción, bastaba con frotarlas contra una superficie rugosa, pero estas primeras versiones podían chispear de forma inesperada."
+    "headline": "Por qué saltan las larvas de queso",
+    "body": "Las larvas de la mosca del queso que viven dentro del famoso queso Casu Marzu de Italia pueden doblarse como un resorte y saltar hasta 15 centímetros de altura cuando se sienten amenazadas."
   },
   "ar": {
-    "headline": "الاختراع الحقيقي للكبريت",
-    "body": "تبدو أعواد الكبريت الحديثة وكأنها تشتعل فوراً، لكن تاريخها مفاجئ للغاية. عندما اخترع جون ووكر أول أعواد كبريت احتكاكية، كان حكها على سطح خشن كافياً لإشعال النار، لكن هذه الإصدارات المبكرة كانت قد تشرارة بشكل غير متوقع."
+    "headline": "لماذا تقفز يرقات الجبن",
+    "body": "يمكن يرقات ذبابة الجبن التي تعيش داخل جبن كاسُو مَارزُو الشهير في إيطاليا أن تنثني مثل الزنبرك وتقفز حتى ارتفاع 15 سنتيمتراً عندما تشعر بالتهديد."
   },
   "reel_hook": {
-    "tr": "İlk kibritler ilk yakıldığında patlıyordu!",
-    "en": "The very first matches used to explode when lit!",
-    "es": "¡Las primeras cerillas explotaban al encenderse!",
-    "ar": "كانت أعواد الكبريت الأولى تنفجر عند إشعالها!"
+    "tr": "Tabağınızdaki bu peynir neden kendi kendine zıplıyor?",
+    "en": "Why is this cheese on your plate jumping by itself?",
+    "es": "¿Por qué este queso en tu plato salta solo?",
+    "ar": "لماذا يقفز هذا الجبن في طبقك بمفرده؟"
   },
   "story_question": {
-    "tr": "İlk kibrit hangi yıl icat edilmiştir?",
-    "en": "In which year was the first friction match invented?",
-    "es": "¿En qué año se inventó la primera cerilla?",
-    "ar": "في أي سنة تم اختراع أول عود كبريت؟"
+    "tr": "Bu peynir çeşidi hangi ülkeye aittir?",
+    "en": "Which country does this type of cheese belong to?",
+    "es": "¿A qué país pertenece este tipo de queso?",
+    "ar": "إلى أي دولة ينتمي هذا النوع من الجبن؟"
   },
   "story_options": [
-    "1826",
-    "1901",
-    "1750"
+    "İtalya",
+    "Fransa",
+    "İspanya"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#tarih",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#science",
-    "#fyi"
+    "#bilim",
+    "#doğa",
+    "#yemek",
+    "#dünyadan"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için bizi takip et!",
+    "en": "Follow us not to miss more surprising facts like this!",
+    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
+    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Historic UK",
-    "url": "https://www.historic-uk.com/CultureUK/The-Match-Box/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritin Asıl İcadı",
+  "_topic": "Peynir Böcekleri Neden Zıplar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-21T13:42:15.494163+00:00",
+  "generated_at": "2026-08-21T15:33:52.335317+00:00",
   "topic_guard_days": 180
 }

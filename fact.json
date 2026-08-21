@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Peynir Böcekleri Neden Zıplar?",
-    "body": "İtalyanların ünlü Casu Marzu peynirinin içinde yaşayan peynir sineği larvaları, tehlike anında kendilerini yay gibi bükerek tam 15 santim yükseğe zıplayabilirler. Bu yüzden bu peyniri yerken gözlerinizi korumanız gerekir."
+    "headline": "Flamingolar Neden Tek Ayak Üstünde Durur?",
+    "body": "Pembe tüyleriyle büyüleyen flamingoların bu tuhaf duruşunun sırrı aslında bacaklarındaki kaslarda saklı değil. Bilim insanları, bu kuşların tek ayak üzerinde dururken hiçbir kas enerjisi harcamadığını keşfetti. Kilitli bir mekanizma sayesinde yerçekimine karşı tamamen pasif bir şekilde dengede durabiliyorlar. Yani onlar için bu pozisyon, iki ayak üzerinde durmaktan çok daha kolay."
   },
   "en": {
-    "headline": "Why Cheese Maggots Jump",
-    "body": "The cheese fly larvae living inside Italy's famous Casu Marzu cheese can bend themselves like a spring and jump up to 15 centimeters high when threatened. That's why you need to protect your eyes while eating this cheese."
+    "headline": "Why Do Flamingos Stand on One Leg?",
+    "body": "The secret behind the strange posture of flamingos isn't actually hidden in their leg muscles. Scientists discovered that these birds expend zero muscle energy while standing on one leg. Thanks to a locking mechanism, they can balance against gravity completely passively. So for them, this position is much easier than standing on two."
   },
   "es": {
-    "headline": "Por qué saltan las larvas de queso",
-    "body": "Las larvas de la mosca del queso que viven dentro del famoso queso Casu Marzu de Italia pueden doblarse como un resorte y saltar hasta 15 centímetros de altura cuando se sienten amenazadas."
+    "headline": "¿Por qué los flamencos se pararse en una sola pata?",
+    "body": "El secreto detrás de la extraña postura de los flamencos no se esconde en realidad en los músculos de sus patas. Los científicos descubrieron que estas aves no gastan energía muscular al pararse en una sola pata. Gracias a un mecanismo de bloqueo, pueden equilibrarse contra la gravedad de forma totalmente pasiva. Así que para ellos, esta posición es mucho más fácil que pararse en dos."
   },
   "ar": {
-    "headline": "لماذا تقفز يرقات الجبن",
-    "body": "يمكن يرقات ذبابة الجبن التي تعيش داخل جبن كاسُو مَارزُو الشهير في إيطاليا أن تنثني مثل الزنبرك وتقفز حتى ارتفاع 15 سنتيمتراً عندما تشعر بالتهديد."
+    "headline": "لماذا تقف طيور النحام على ساق واحدة؟",
+    "body": "السر وراء هذه الوقفة الغريبة لطيور النحام ليس مخفياً في عضلات ساقيها. اكتشف العلماء أن هذه الطيور لا تبذل أي طاقة عضلية أثناء الوقوف على ساق واحدة. بفضل آلية قفل طبيعية، يمكنها الحفاظ على توازنها ضد الجاذبية بشكل سلبي تماماً. لذا، فإن هذا الوضع أسهل بكثير بالنسبة لها من الوقوف على ساقين."
   },
   "reel_hook": {
-    "tr": "Tabağınızdaki bu peynir neden kendi kendine zıplıyor?",
-    "en": "Why is this cheese on your plate jumping by itself?",
-    "es": "¿Por qué este queso en tu plato salta solo?",
-    "ar": "لماذا يقفز هذا الجبن في طبقك بمفرده؟"
+    "tr": "Flamingoların tek ayak üstünde uyumasının fizik kurallarına meydan okuyan gerçek sebebi ne?",
+    "en": "What is the physics-defying real reason flamingos sleep on one leg?",
+    "es": "¿Cuál es la verdadera razón, que desafía la física, por la que los flamencos duermen en una pata?",
+    "ar": "ما هو السبب الحقيقي الذي يتحدى الفيزياء وراء نوم طيور النحام على ساق واحدة؟"
   },
   "story_question": {
-    "tr": "Bu peynir çeşidi hangi ülkeye aittir?",
-    "en": "Which country does this type of cheese belong to?",
-    "es": "¿A qué país pertenece este tipo de queso?",
-    "ar": "إلى أي دولة ينتمي هذا النوع من الجبن؟"
+    "tr": "Flamingolar tek ayak üzerinde dururken sizce ne kadar yorulurlar?",
+    "en": "How tired do you think flamingos get while standing on one leg?",
+    "es": "¿Qué tão cansados crees que se ponen los flamencos al pararse en una pata?",
+    "ar": "برأيك، ما مدى تعب طيور النحام أثناء الوقوف على ساق واحدة؟"
   },
   "story_options": [
-    "İtalya",
-    "Fransa",
-    "İspanya"
+    "Hiç yorulmazlar, sıfır enerji",
+    "Çok yorulurlar, kasları kasılır",
+    "Sadece rüzgarlı havada yorulurlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#ilginçbilgiler",
+    "#flamingo",
     "#bilim",
     "#doğa",
-    "#yemek",
-    "#dünyadan"
+    "#ilginçbilgiler",
+    "#hayvanlaralemi",
+    "#biliyormusunuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için bizi takip et!",
-    "en": "Follow us not to miss more surprising facts like this!",
-    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
-    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع بهذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Biology Letters",
+    "url": "https://royalsocietypublishing.org/journal/rsbl"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Peynir Böcekleri Neden Zıplar?",
+  "_topic": "Flamingolar Neden Tek Ayak Üstünde Durur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-21T15:33:52.335317+00:00",
+  "generated_at": "2026-08-21T17:37:33.483818+00:00",
   "topic_guard_days": 180
 }

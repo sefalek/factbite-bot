@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Camdan Hayaletleri",
-    "body": "Deniz analarının vücudunun yüzde doksanı sudan oluşur. Bu yüzden kumsala vurduklarında güneş altında adeta buharlaşıp kaybolurlar. Onların ne beyinleri ne de kemikleri vardır, ancak milyonlarca yıldır okyanuslarda hayatta kalmayı başarmışlardır."
+    "headline": "Kuşların Göz Kapakları",
+    "body": "Gözlerini kırptıklarında dışarıyı görmeye devam ettiklerini biliyor muydunuz? Kuşların şeffaf bir üçüncü göz kapağı vardır. Bu kapak, uçuş sırasında gözlerini rüzgardan ve tozdan korurken aynı zamanda görüşlerini de engellemez."
   },
   "en": {
-    "headline": "The Glass Ghosts of the Seas",
-    "body": "Jellyfish bodies are ninety percent water. That's why when they wash ashore, they practically evaporate and disappear under the sun. They have neither brains nor bones, yet they have managed to survive in the oceans for millions of years."
+    "headline": "Birds' Eyelids",
+    "body": "Did you know they can still see outside when they blink? Birds have a transparent third eyelid. This lid protects their eyes from wind and dust during flight without obstructing their vision."
   },
   "es": {
-    "headline": "Los Fantasmas de Cristal de los Mares",
-    "body": "Los cuerpos de las medusas están compuestos en un noventa por ciento de agua. Por eso, cuando llegan a la orilla, prácticamente se evaporan y desaparecen bajo el sol. No tienen cerebros ni huesos, pero han logrado sobrevivir en los océanos durante millones de años."
+    "headline": "Párpados de las Aves",
+    "body": "¿Sabías que pueden seguir viendo afuera cuando parpadean? Las aves tienen un tercer párpado transparente. Este párpado protege sus ojos del viento y el polvo durante el vuelo sin bloquear su visión."
   },
   "ar": {
-    "headline": "أشباح البحار الزجاجية",
-    "body": "تتكون أجسام قنديل البحر من تسعين بالمائة من الماء. ولهذا السبب عندما تنحسر على الشواطئ، فإنها تتبخر وتختفي تحت الشمس. ليس لديها أدمغة أو عظام، ومع ذلك فقد تمكنت من البقاء على قيد الحياة في المحيطات لملايين السنين."
+    "headline": "جفون الطيور",
+    "body": "هل تعلم أن بإمكانها رؤية ما حولها حتى أثناء رمش عيونها؟ تمتلك الطيور جفنًا ثالثًا شفافًا. يحمي هذا الجفن عيونها من الرياح والغبار أثناء الطيران دون أن يحجب رؤيتها."
   },
   "reel_hook": {
-    "tr": "Kumsala vuran o canlılar güneş altında neden tamamen yok oluyor?",
-    "en": "Why do those creatures washed ashore completely disappear under the sun?",
-    "es": "¿Por qué esas criaturas varadas en la orilla desaparecen por completo bajo el sol?",
-    "ar": "لماذا تختفي تلك الكائنات التي ترفضها الأمواج تماماً تحت أشعة الشمس؟"
+    "tr": "Gözlerini kırptıkları halde çevrelerini görmeye devam eden canlılar hangileridir?",
+    "en": "Which animals continue to see their surroundings even while blinking?",
+    "es": "¿Qué animales siguen viendo su entorno incluso al parpadear?",
+    "ar": "ما هي الحيوانات التي تستمر في رؤية محيطها حتى أثناء رمش عيونها؟"
   },
   "story_question": {
-    "tr": "Deniz analarının vücudunun yüzde kaçı sudan oluşur?",
-    "en": "What percentage of a jellyfish's body is made of water?",
-    "es": "¿Qué porcentaje del cuerpo de una medusa está compuesto de agua?",
-    "ar": "ما هي النسبة المئوية لجسم قنديل البحر المكونة من الماء؟"
+    "tr": "Kuşların uçarken gözlerini koruyan şeffaf üçüncü göz kapağının adı nedir?",
+    "en": "What is the name of the transparent third eyelid that protects birds' eyes while flying?",
+    "es": "¿Cómo se llama el tercer párpado transparente que protege los ojos de las aves mientras vuelan?",
+    "ar": "ما هي اسم الجفن الثالث الشفاف الذي يحمي عيون الطيور أثناء الطيران؟"
   },
   "story_options": [
-    "Yüzde 50",
-    "Yüzde 75",
-    "Yüzde 90"
+    "Niktitans",
+    "Retina",
+    "Kornea"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
-    "#okyanus",
-    "#ilginçbilgiler",
-    "#canlılar"
+    "#Kuşlar",
+    "#Doğa",
+    "#Bilim",
+    "#Hayvanlar",
+    "#İlginçBilgiler",
+    "#Biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more fascinating facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/jellyfish"
+    "name": "Ornithology Research",
+    "url": "https://www.audubon.org/news/birds-have-built-goggles"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Camdan Hayaletleri",
+  "_topic": "Kuşların Göz Kapakları",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-22T17:29:36.474603+00:00",
+  "generated_at": "2026-08-22T19:21:59.651688+00:00",
   "topic_guard_days": 180
 }

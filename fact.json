@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ağaçlar Aslında Birbirini Uyarıyor",
-    "body": "Ormanda yürürken her şey sessiz görünür ama altımızda devasa bir internet ağı var. Mantarlar ve kökler aracılığıyla kurulan bu yeraltı ağı sayesinde, bir ağaca böcek saldırdığında, o ağaç kimyasal sinyaller göndererek komşularını önceden uyarıyor. Yanındaki ağaçlar tehlikeyi hissedip hemen yapraklarının tadını acılaştırarak kendilerini korumaya alıyor."
+    "headline": "Kuşların Gözlerindeki Gizli Perde",
+    "body": "Biliyor musunuz, martılar ve pek çok kuş türü okyanus sularını içerken tuzdan zarar görmez. Gözlerinin hemen arkasında bulunan özel tuz bezleri, aldıkları fazla tuzu doğrudan gagalarından dışarı atar. Yani aslında deniz suyu içerken aynı zamanda 'ağlıyor' gibi görünseler de, bu tamamen dahili bir arıtma sistemidir."
   },
   "en": {
-    "headline": "Trees Actually Warn Each Other",
-    "body": "Walking in the woods seems quiet, but a vast internet network exists beneath us. Through this underground network of fungi and roots, when insects attack a tree, it sends chemical signals to warn its neighbors in advance. The surrounding trees sense the danger and immediately make their leaves bitter to protect themselves."
+    "headline": "The Hidden Salt Glands of Seabirds",
+    "body": "Did you know that gulls and many seabirds can drink ocean water without harm? Special salt glands located right behind their eyes filter out excess salt and flush it out through their beaks. So when they seem to be crying while drinking seawater, it's actually just their built-in desalination system at work."
   },
   "es": {
-    "headline": "Los árboles realmente se advierten entre sí",
-    "body": "Caminar por el bosque parece tranquilo, pero bajo nosotros existe una gran red de internet. A través de esta red subterránea de hongos y raíces, cuando los insectos atacan a un árbol, este envía señales químicas para advertir a sus vecinos con anticipación. Los árboles circundantes sienten el peligro y amargan sus hojas para protegerse."
+    "headline": "Las Glándulas Ocultas de las Aves Marinas",
+    "body": "¿Sabías que las gaviotas y muchas aves marinas pueden beber agua de mar sin dañarse? Unas glándulas de sal especiales detrás de sus ojos filtran el exceso y lo expulsan por el pico. Así que cuando parecen llorar al beber agua salada, en realidad es su sistema de desalinización interno."
   },
   "ar": {
-    "headline": "الأشجار تحذر بعضها البعض في الواقع",
-    "body": "يبدو المشي في الغابة هادئاً، لكن شبكة إنترنت ضخمة توجد تحتنا. من خلال هذه الشبكة تحت الأرض من الفطريات والجذور، عندما تهاجم الحشرات شجرة ما، ترسل إشارات كيميائية لتحذير جيرانها مسبقاً. تشعر الأشجار المحيطة بالخطر وتجعل أوراقها مرة فوراً لحماية نفسها."
+    "headline": "الغدد الخفية للطيور البحرية",
+    "body": "هل تعلم أن النورس والعديد من الطيور البحرية يمكنها شرب مياه المحيط دون أن تتضرر؟ توجد غدد ملحية خاصة خلف أعينها تصفّى الملح الزائد وتطرده عبر مناقيرها، لذا عندما تبدو كأنها تبكي أثناء شرب الماء المالح، فهو في الواقع نظام تحلية داخلي."
   },
   "reel_hook": {
-    "tr": "Ormanda yürürken aslında sessizce konuşan devasa bir ağ var...",
-    "en": "Walking in the woods, there is actually a giant network talking quietly...",
-    "es": "Caminando por el bosque, en realidad hay una red gigante hablando en silencio...",
-    "ar": "المشي في الغابة، هناك في الواقع شبكة عملاقة تتحدث بصمت..."
+    "tr": "Deniz suyu içen bu kuşlar neden ağlıyor sanıyorsunuz?",
+    "en": "Why do you think these birds drinking seawater are crying?",
+    "es": "¿Por qué crees que estas aves que beben agua de mar están llorando?",
+    "ar": "لماذا تعتقد أن هذه الطيور التي تشرب ماء البحر تبكي؟"
   },
   "story_question": {
-    "tr": "Ağaçların bu yeraltı iletişim ağına bilim insanları ne ad veriyor?",
-    "en": "What do scientists call this underground communication network of trees?",
-    "es": "¿Cómo llaman los científicos a esta red de comunicación subterránea de los árboles?",
-    "ar": "ماذا يطلق العلماء على شبكة الاتصالات تحت الأرض هذه للأشجار؟"
+    "tr": "Sizce kuşların bu tuz bezleri başka hangi hayvanda bulunur?",
+    "en": "Which other animal do you think has these salt glands?",
+    "es": "¿Qué otro animal crees que tiene estas glándulas de sal?",
+    "ar": "برأيك، ما هو الحيوان الآخر الذي يمتلك هذه الغدد الملحية؟"
   },
   "story_options": [
-    "Wood Wide Web",
-    "Yeşil Bağlantı",
-    "Kök Sistemi"
+    "Timsahlar",
+    "İnekler",
+    "Kargalar"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#bilim",
-    "#ağaçlar",
-    "#orman",
-    "#biyoloji",
-    "#ilginçbilgiler"
+    "#Kuşlar",
+    "#Doğa",
+    "#Bilim",
+    "#İlginçBilgiler",
+    "#HayvanlarlarAlemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Stay tuned for more facts like this!",
-    "es": "¡Mantente atento a más datos como este!",
-    "ar": "ابق على تطلع لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Simard, S. W. et al. (Nature) / The Wood Wide Web",
-    "url": "https://www.nature.com/articles/388398a0"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ağaçlar Aslında Birbirini Uyarıyor",
+  "_topic": "Kuşların Gözlerindeki Gizli Perde",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-22T13:28:49.018946+00:00",
+  "generated_at": "2026-08-22T15:21:03.706380+00:00",
   "topic_guard_days": 180
 }

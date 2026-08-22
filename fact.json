@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Akıllı Mühendisleri",
-    "body": "Kunduzların barajları sadece su akışını değiştirmekle kalmaz, aynı zamanda uzaydan bile görülebilen devasa su ekosistemleri yaratır. Bu yapılar o kadar sağlamdır ki, doğadaki en büyük biyolojik mühendislik harikalarından biri olarak kabul edilir."
+    "headline": "Bal Arıları Matematik Dahisi Mi?",
+    "body": "Peteklerini inşa ederken en az balmumu harcayıp en çok alanı kaplamak için kusursuz altıgenler yaparlar. Bu geometrik harikayı insan müdahalesi olmadan nasıl hesaplıyorlar?"
   },
   "en": {
-    "headline": "The Smart Engineers of the Seas",
-    "body": "Beaver dams don't just change water flow; they create massive water ecosystems visible even from space. These structures are so durable that they are considered one of the greatest biological engineering marvels in nature."
+    "headline": "Are Honeybees Mathematical Geniuses?",
+    "body": "They build flawless hexagons to use the least wax and cover the most space. How do they calculate this geometric wonder without human intervention?"
   },
   "es": {
-    "headline": "Los Ingenieros Inteligentes de los Mares",
-    "body": "Las presas de los castores no solo cambian el flujo del agua; crean ecosistemas acuáticos masivos visibles incluso desde el espacio. Estas estructuras son tan duraderas que se consideran una de las mayores maravillas de la ingeniería biológica."
+    "headline": "¿Son las abejas genios matemáticos?",
+    "body": "Construyen hexágonos perfectos para usar la mínima cera y cubrir el máximo espacio. ¿Cómo calculan esta maravilla geométrica sin intervención humana?"
   },
   "ar": {
-    "headline": "مهندسو البحار الأذكياء",
-    "body": "لا تتسبب سدود القندس في تغيير تدفق المياه فحسب، بل تخلق أنظمة بيئية مائية ضخمة مرئية من الفضاء. هذه الهياكل متينة لدرجة أنها تعتبر واحدة من أعظم عجائب الهندسة البيولوجية في الطبيعة."
+    "headline": "هل نحل العسل عباقرة رياضيات؟",
+    "body": "يبنون خلايا سداسية مثالية لاستخدام أقل قدر من الشمع وتغطية أكبر مساحة. كيف يحسبون هذه الأعجوبة الهندسية بدون تدخل بشري؟"
   },
   "reel_hook": {
-    "tr": "Hangi hayvanın yaptığı inşaatlar uzaydan bile görünüyor?",
-    "en": "Which animal's constructions can be seen even from space?",
-    "es": "¿Las construcciones de qué animal se pueden ver incluso desde el espacio?",
-    "ar": "ما هو الحيوان الذي يمكن رؤية بناءاته من الفضاء؟"
+    "tr": "Arıların cetvel kullanmadan bu kusursuzluğu nasıl başardığını biliyor musun?",
+    "en": "Do you know how bees achieve this perfection without using a ruler?",
+    "es": "¿Sabes cómo las abejas logran esta perfección sin usar una regla?",
+    "ar": "هل تعلم كيف يحقق النحل هذا الكمال دون استخدام مسطرة؟"
   },
   "story_question": {
-    "tr": "Dünyanın bilinen en uzun kunduz barajı kaç metre uzunluğundadır?",
-    "en": "How many meters long is the world's known longest beaver dam?",
-    "es": "¿Cuántos metros de largo tiene la presa de castor más larga conocida del mundo?",
-    "ar": "ما هو طول أطول سد قندس معروف في العالم بالمتر؟"
+    "tr": "Bal arılarının petekleri neden daire veya üçgen değil de altıgendir?",
+    "en": "Why are honeybee combs hexagons instead of circles or triangles?",
+    "es": "¿Por qué los panales de abejas son hexágonos en lugar de círculos o triángulos?",
+    "ar": "لماذا خلايا النحل سداسية وليست دوائر أو مثلثات؟"
   },
   "story_options": [
-    "150 metre",
-    "850 metre",
-    "1200 metre"
+    "Maksimum alan, minimum malzeme",
+    "Sadece göze güzel görünmesi için",
+    "Rüzgardan etkilenmemek için"
   ],
   "hashtags": [
     "#FactBite",
-    "#kunduz",
-    "#doğa",
     "#bilim",
-    "#hayvanlar",
-    "#keşfet",
-    "#biyoloji"
+    "#doğa",
+    "#arılar",
+    "#ilginçbilgiler",
+    "#matematik",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Stay tuned for more nature secrets like this!",
-    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
-    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos increíbles como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -57,13 +57,13 @@
   },
   "source": {
     "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/mammals/facts/beavers"
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Akıllı Mühendisleri",
+  "_topic": "Bal Arıları Matematik Dahisi Mi?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-22T08:47:52.143844+00:00",
+  "generated_at": "2026-08-22T11:40:50.272921+00:00",
   "topic_guard_days": 180
 }

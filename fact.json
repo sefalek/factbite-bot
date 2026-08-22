@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Bal Arıları Matematik Dahisi Mi?",
-    "body": "Peteklerini inşa ederken en az balmumu harcayıp en çok alanı kaplamak için kusursuz altıgenler yaparlar. Bu geometrik harikayı insan müdahalesi olmadan nasıl hesaplıyorlar?"
+    "headline": "Ağaçlar Aslında Birbirini Uyarıyor",
+    "body": "Ormanda yürürken her şey sessiz görünür ama altımızda devasa bir internet ağı var. Mantarlar ve kökler aracılığıyla kurulan bu yeraltı ağı sayesinde, bir ağaca böcek saldırdığında, o ağaç kimyasal sinyaller göndererek komşularını önceden uyarıyor. Yanındaki ağaçlar tehlikeyi hissedip hemen yapraklarının tadını acılaştırarak kendilerini korumaya alıyor."
   },
   "en": {
-    "headline": "Are Honeybees Mathematical Geniuses?",
-    "body": "They build flawless hexagons to use the least wax and cover the most space. How do they calculate this geometric wonder without human intervention?"
+    "headline": "Trees Actually Warn Each Other",
+    "body": "Walking in the woods seems quiet, but a vast internet network exists beneath us. Through this underground network of fungi and roots, when insects attack a tree, it sends chemical signals to warn its neighbors in advance. The surrounding trees sense the danger and immediately make their leaves bitter to protect themselves."
   },
   "es": {
-    "headline": "¿Son las abejas genios matemáticos?",
-    "body": "Construyen hexágonos perfectos para usar la mínima cera y cubrir el máximo espacio. ¿Cómo calculan esta maravilla geométrica sin intervención humana?"
+    "headline": "Los árboles realmente se advierten entre sí",
+    "body": "Caminar por el bosque parece tranquilo, pero bajo nosotros existe una gran red de internet. A través de esta red subterránea de hongos y raíces, cuando los insectos atacan a un árbol, este envía señales químicas para advertir a sus vecinos con anticipación. Los árboles circundantes sienten el peligro y amargan sus hojas para protegerse."
   },
   "ar": {
-    "headline": "هل نحل العسل عباقرة رياضيات؟",
-    "body": "يبنون خلايا سداسية مثالية لاستخدام أقل قدر من الشمع وتغطية أكبر مساحة. كيف يحسبون هذه الأعجوبة الهندسية بدون تدخل بشري؟"
+    "headline": "الأشجار تحذر بعضها البعض في الواقع",
+    "body": "يبدو المشي في الغابة هادئاً، لكن شبكة إنترنت ضخمة توجد تحتنا. من خلال هذه الشبكة تحت الأرض من الفطريات والجذور، عندما تهاجم الحشرات شجرة ما، ترسل إشارات كيميائية لتحذير جيرانها مسبقاً. تشعر الأشجار المحيطة بالخطر وتجعل أوراقها مرة فوراً لحماية نفسها."
   },
   "reel_hook": {
-    "tr": "Arıların cetvel kullanmadan bu kusursuzluğu nasıl başardığını biliyor musun?",
-    "en": "Do you know how bees achieve this perfection without using a ruler?",
-    "es": "¿Sabes cómo las abejas logran esta perfección sin usar una regla?",
-    "ar": "هل تعلم كيف يحقق النحل هذا الكمال دون استخدام مسطرة؟"
+    "tr": "Ormanda yürürken aslında sessizce konuşan devasa bir ağ var...",
+    "en": "Walking in the woods, there is actually a giant network talking quietly...",
+    "es": "Caminando por el bosque, en realidad hay una red gigante hablando en silencio...",
+    "ar": "المشي في الغابة، هناك في الواقع شبكة عملاقة تتحدث بصمت..."
   },
   "story_question": {
-    "tr": "Bal arılarının petekleri neden daire veya üçgen değil de altıgendir?",
-    "en": "Why are honeybee combs hexagons instead of circles or triangles?",
-    "es": "¿Por qué los panales de abejas son hexágonos en lugar de círculos o triángulos?",
-    "ar": "لماذا خلايا النحل سداسية وليست دوائر أو مثلثات؟"
+    "tr": "Ağaçların bu yeraltı iletişim ağına bilim insanları ne ad veriyor?",
+    "en": "What do scientists call this underground communication network of trees?",
+    "es": "¿Cómo llaman los científicos a esta red de comunicación subterránea de los árboles?",
+    "ar": "ماذا يطلق العلماء على شبكة الاتصالات تحت الأرض هذه للأشجار؟"
   },
   "story_options": [
-    "Maksimum alan, minimum malzeme",
-    "Sadece göze güzel görünmesi için",
-    "Rüzgardan etkilenmemek için"
+    "Wood Wide Web",
+    "Yeşil Bağlantı",
+    "Kök Sistemi"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
     "#doğa",
-    "#arılar",
-    "#ilginçbilgiler",
-    "#matematik",
-    "#keşfet"
+    "#bilim",
+    "#ağaçlar",
+    "#orman",
+    "#biyoloji",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos increíbles como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Stay tuned for more facts like this!",
+    "es": "¡Mantente atento a más datos como este!",
+    "ar": "ابق على تطلع لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Simard, S. W. et al. (Nature) / The Wood Wide Web",
+    "url": "https://www.nature.com/articles/388398a0"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Bal Arıları Matematik Dahisi Mi?",
+  "_topic": "Ağaçlar Aslında Birbirini Uyarıyor",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-22T11:40:50.272921+00:00",
+  "generated_at": "2026-08-22T13:28:49.018946+00:00",
   "topic_guard_days": 180
 }

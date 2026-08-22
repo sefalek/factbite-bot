@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Göz Kapakları",
-    "body": "Gözlerini kırptıklarında dışarıyı görmeye devam ettiklerini biliyor muydunuz? Kuşların şeffaf bir üçüncü göz kapağı vardır. Bu kapak, uçuş sırasında gözlerini rüzgardan ve tozdan korurken aynı zamanda görüşlerini de engellemez."
+    "headline": "Kuşlar Neden Şimşeği Önceden Sezer?",
+    "body": "Gökyüzündeki fırtınayı, henüz daha bulutlar bile toplanmadan hisseden canlılar var. Kuşlar, insan kulaklığının duyamadığı çok düşük frekanslı ses dalgalarını, yani infrasesleri algılayabilir. Fırtınaların ve depremlerin yarattığı bu derin uğultular yüzlerce kilometre öteden gelir. Bu yüzden onlar tehlikeyi sizden çok önce fark edip rotalarını değiştirirler."
   },
   "en": {
-    "headline": "Birds' Eyelids",
-    "body": "Did you know they can still see outside when they blink? Birds have a transparent third eyelid. This lid protects their eyes from wind and dust during flight without obstructing their vision."
+    "headline": "Why Birds Sense Lightning in Advance",
+    "body": "There are creatures that sense a storm in the sky before clouds even gather. Birds can perceive infrasound, which are very low-frequency sound waves that human ears cannot hear. These deep rumbles created by storms and earthquakes travel from hundreds of miles away. That's why they notice danger long before you do and change their course."
   },
   "es": {
-    "headline": "Párpados de las Aves",
-    "body": "¿Sabías que pueden seguir viendo afuera cuando parpadean? Las aves tienen un tercer párpado transparente. Este párpado protege sus ojos del viento y el polvo durante el vuelo sin bloquear su visión."
+    "headline": "Por qué las aves anticipan los rayos",
+    "body": "Hay criaturas que presienten una tormenta en el cielo antes de que las nubes se junten. Las aves pueden percibir infrasonidos, ondas sonoras de baja frecuencia que los oídos humanos no pueden escuchar. Estos profundos retumbos creados por tormentas y terremotos viajan desde cientos de kilómetros de distancia. Por eso notan el peligro mucho antes que tú y cambian su rumbo."
   },
   "ar": {
-    "headline": "جفون الطيور",
-    "body": "هل تعلم أن بإمكانها رؤية ما حولها حتى أثناء رمش عيونها؟ تمتلك الطيور جفنًا ثالثًا شفافًا. يحمي هذا الجفن عيونها من الرياح والغبار أثناء الطيران دون أن يحجب رؤيتها."
+    "headline": "لماذا تشعر الطيور بالصواعق مسبقاً",
+    "body": "هناك كائنات تشعر بالعاصفة في السماء قبل تجمع الغيوم حتى. تستطيع الطيور إدراك الموجات دون الصوتية، وهي موجات صوتية منخفضة التردد للغاية لا تستطيع الأذن البشرية سماعها. تأتي هذه الأصوات العميقة التي تسببها العواصف والزلازل من مسافات تبعد مئات الأميال. ولهذا السبب تلاحظ الخطر قبل وقت طويل وتغير مسارها."
   },
   "reel_hook": {
-    "tr": "Gözlerini kırptıkları halde çevrelerini görmeye devam eden canlılar hangileridir?",
-    "en": "Which animals continue to see their surroundings even while blinking?",
-    "es": "¿Qué animales siguen viendo su entorno incluso al parpadear?",
-    "ar": "ما هي الحيوانات التي تستمر في رؤية محيطها حتى أثناء رمش عيونها؟"
+    "tr": "Fırtına kopmadan saatler önce gökyüzündeki kimler bunu çoktan biliyor?",
+    "en": "Who in the sky already knows hours before a storm breaks?",
+    "es": "¿Quiénes en el cielo ya lo saben horas antes de que se desate una tormenta?",
+    "ar": "من في السماء يعرف بالفعل قبل ساعات من حدوث العاصفة؟"
   },
   "story_question": {
-    "tr": "Kuşların uçarken gözlerini koruyan şeffaf üçüncü göz kapağının adı nedir?",
-    "en": "What is the name of the transparent third eyelid that protects birds' eyes while flying?",
-    "es": "¿Cómo se llama el tercer párpado transparente que protege los ojos de las aves mientras vuelan?",
-    "ar": "ما هي اسم الجفن الثالث الشفاف الذي يحمي عيون الطيور أثناء الطيران؟"
+    "tr": "Kuşların fırtınayı kilometrelerce öteden hissetmesini sağlayan dalga türü hangisidir?",
+    "en": "What type of wave allows birds to sense a storm from miles away?",
+    "es": "¿Qué tipo de onda permite a las aves sentir una tormenta a kilómetros de distancia?",
+    "ar": "ما هو نوع الموجة الذي يسمح للطيور بالاستشعار بالعاصفة من أميال بعيدة؟"
   },
   "story_options": [
-    "Niktitans",
-    "Retina",
-    "Kornea"
+    "Ultrases",
+    "İnfrases",
+    "Elektromanyetik dalgalar"
   ],
   "hashtags": [
     "#FactBite",
-    "#Kuşlar",
-    "#Doğa",
-    "#Bilim",
-    "#Hayvanlar",
-    "#İlginçBilgiler",
-    "#Biyoloji"
+    "#bilim",
+    "#kuşlar",
+    "#doğa",
+    "#fırtına",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos de la naturaleza como este!",
+    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Ornithology Research",
-    "url": "https://www.audubon.org/news/birds-have-built-goggles"
+    "name": "National Geographic & Cornell Lab of Ornithology",
+    "url": "https://www.birds.cornell.edu"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Göz Kapakları",
+  "_topic": "Kuşlar Neden Şimşeği Önceden Sezer?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-22T19:21:59.651688+00:00",
+  "generated_at": "2026-08-22T20:57:30.305157+00:00",
   "topic_guard_days": 180
 }

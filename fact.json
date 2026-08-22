@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedi Mırıltısının Gizli İyileştirici Gücü",
-    "body": "Kedilerin çıkardığı o huzurlu mırıltı sadece mutluluktan ibaret değil. Araştırmalar, 20 ila 140 Hz arasındaki bu titreşim frekansının kemik yoğunluğunu artırabildiğini ve doku iyileşmesini hızlandırabildiğini gösteriyor."
+    "headline": "Kuğuların Aslında Dişleri Var Mı?",
+    "body": "Görünüşte son derece zarif ve masum olan kuğular, aslında gagalarının içinde tırtıklı çıkıntılara sahiptir. Bu sert yapıları gerçek birer diş gibi kullanarak su bitkilerini ve hatta küçük balıkları yakalayabilirler."
   },
   "en": {
-    "headline": "The Hidden Healing Power of Cat Purrs",
-    "body": "The peaceful purr of a cat isn't just about happiness. Research shows that this vibration frequency, between 20 and 140 Hz, can increase bone density and accelerate tissue healing."
+    "headline": "Do Swans Actually Have Teeth?",
+    "body": "Despite their elegant and innocent appearance, swans actually have serrated edges inside their beaks. They use these hard structures almost like real teeth to catch water plants and even small fish."
   },
   "es": {
-    "headline": "El poder curativo oculto del ronroneo felino",
-    "body": "El tranquilo ronroneo de un gato no es solo felicidad. Las investigaciones muestran que esta frecuencia de vibración, entre 20 y 140 Hz, puede aumentar la densidad ósea y acelerar la curación de tejidos."
+    "headline": "¿Los cisnes realmente tienen dientes?",
+    "body": "A pesar de su apariencia elegante e inocente, los cisnes tienen bordes serrados dentro de sus picos. Utilizan estas estructuras duras como dientes reales para atrapar plantas acuáticas y pequeños peces."
   },
   "ar": {
-    "headline": "قوة الشفاء الخفية لخرخرة القطط",
-    "body": "خرخرة القط الهادئة ليست مجرد تعبير عن السعادة. تُظهر الأبحاث أن تردد الاهتزاز هذا، بين 20 و 140 هرتز، يمكن أن يزيد من كثافة العظام ويسرع شفاء الأنسجة."
+    "headline": "هل تمتلك البجع أطناناً حقيقية؟",
+    "body": "على الرغم من مظهرها الأنيق والبريء، إلا أن البجع يمتلك حواف مسننة داخل مناقيرها تستخدمها لتقطيع النباتات المائية."
   },
   "reel_hook": {
-    "tr": "Kedilerin mırıldanması aslında sadece sevgi gösterisi değilmiş...",
-    "en": "A cat's purr isn't actually just a sign of affection...",
-    "es": "El ronroneo de un gato no es en realidad solo una muestra de afecto...",
-    "ar": "خرخرة القط ليست في الواقع مجرد علامة على المودة..."
+    "tr": "Zarif görünen bu kuşun aslında gizli dişleri olduğunu biliyor musunuz?",
+    "en": "Did you know this elegant bird actually has hidden teeth?",
+    "es": "¿Sabías que esta elegante ave realmente tiene dientes ocultos?",
+    "ar": "هل تعلم أن هذا الطائر الأنيق لديه أسنان مخفية حقاً؟"
   },
   "story_question": {
-    "tr": "Kedilerin mırıltı frekansı hangi insan tedavisinde de kullanılan aralıktadır?",
-    "en": "What human therapy range does a cat's purr frequency fall into?",
-    "es": "¿En qué rango de terapia humana se encuentra la frecuencia del ronroneo de un gato?",
-    "ar": "ما هو نطاق العلاج البشري الذي يقع فيه تردد خرخرة القط؟"
+    "tr": "Kuğuların bu gizli yapıları ne için kullandığını tahmin edebilir misin?",
+    "en": "Can you guess what swans use these hidden structures for?",
+    "es": "¿Puedes adivinar para qué usan los cisnes estas estructuras ocultas?",
+    "ar": "هل يمكنك تخمين ما يستخدم البجع هذه الهياكل المخفية لأجله؟"
   },
   "story_options": [
-    "Fizik Tedavi ve Kemik İyileşmesi",
-    "Uyku Bozukluğu Giderme",
-    "Göz Tansiyonu Düşürme"
+    "Sadece savunma için",
+    "Su bitkilerini kavramak için",
+    "Avlarını çiğnemek için"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#bilim",
-    "#ilginçbilgiler",
+    "#kuğu",
     "#doğa",
-    "#sağlık",
-    "#keşfet"
+    "#bilim",
+    "#hayvanlar",
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için takip et!",
-    "en": "Follow for more surprising facts!",
-    "es": "¡Sígueme para más datos sorprendentes!",
-    "ar": "تابعنا للمزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more surprising nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos sorprendentes de la naturaleza!",
+    "ar": "لا تنس متابعتنا لمزيد من أسرار الطبيعة المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Scientific American",
-    "url": "https://www.scientificamerican.com/article/why-do-cats-purr/"
+    "name": "Ornithology and Waterfowl Behavior Studies",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedi Mırıltısının Gizli İyileştirici Gücü",
+  "_topic": "Kuğuların Aslında Dişleri Var Mı?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-21T20:58:01.406489+00:00",
+  "generated_at": "2026-08-22T05:41:27.475475+00:00",
   "topic_guard_days": 180
 }

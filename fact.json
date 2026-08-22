@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Bukalemunların Renk Değiştirme Sırrı",
-    "body": "Bukalemunlar renklerini sadece kamufle olmak için değiştirmez. Aslında bu değişim, onların ruh halini ve vücut ısılarını kontrol etmelerini sağlayan özel nanoteknolojik hücreler sayesinde gerçekleşir."
+    "headline": "Denizlerin Akıllı Mühendisleri",
+    "body": "Kunduzların barajları sadece su akışını değiştirmekle kalmaz, aynı zamanda uzaydan bile görülebilen devasa su ekosistemleri yaratır. Bu yapılar o kadar sağlamdır ki, doğadaki en büyük biyolojik mühendislik harikalarından biri olarak kabul edilir."
   },
   "en": {
-    "headline": "The Secret Behind Chameleons' Color Change",
-    "body": "Chameleons don't just change color to camouflage. This shift actually happens thanks to special nanotechnological cells that allow them to control their mood and body temperature."
+    "headline": "The Smart Engineers of the Seas",
+    "body": "Beaver dams don't just change water flow; they create massive water ecosystems visible even from space. These structures are so durable that they are considered one of the greatest biological engineering marvels in nature."
   },
   "es": {
-    "headline": "El secreto detrás del cambio de color de los camaleones",
-    "body": "Los camaleones no solo cambian de color para camuflarse. Este cambio ocurre gracias a células nanotecnológicas especiales que les permiten controlar su estado de ánimo y temperatura corporal."
+    "headline": "Los Ingenieros Inteligentes de los Mares",
+    "body": "Las presas de los castores no solo cambian el flujo del agua; crean ecosistemas acuáticos masivos visibles incluso desde el espacio. Estas estructuras son tan duraderas que se consideran una de las mayores maravillas de la ingeniería biológica."
   },
   "ar": {
-    "headline": "سر تغير لون الحرباء",
-    "body": "لا تغير الحرباء لونها من أجل التمويه فقط. يحدث هذا التحول بفضل خلايا تكنولوجية دقيقة خاصة تسمح لها بالتحكم في مزاجها ودرجة حرارة جسمها."
+    "headline": "مهندسو البحار الأذكياء",
+    "body": "لا تتسبب سدود القندس في تغيير تدفق المياه فحسب، بل تخلق أنظمة بيئية مائية ضخمة مرئية من الفضاء. هذه الهياكل متينة لدرجة أنها تعتبر واحدة من أعظم عجائب الهندسة البيولوجية في الطبيعة."
   },
   "reel_hook": {
-    "tr": "Bukalemunlar renk değiştirirken aslında ne saklıyor?",
-    "en": "What are chameleons really hiding when they change color?",
-    "es": "¿Qué ocultan realmente los camaleones cuando cambian de color?",
-    "ar": "ما الذي تخفيه الحرباء حقاً عندما تتغير ألوانها؟"
+    "tr": "Hangi hayvanın yaptığı inşaatlar uzaydan bile görünüyor?",
+    "en": "Which animal's constructions can be seen even from space?",
+    "es": "¿Las construcciones de qué animal se pueden ver incluso desde el espacio?",
+    "ar": "ما هو الحيوان الذي يمكن رؤية بناءاته من الفضاء؟"
   },
   "story_question": {
-    "tr": "Bukalemunlar renk değiştirme yeteneğini ilk olarak ne için kullanır?",
-    "en": "What do chameleons primarily use their color-changing ability for?",
-    "es": "¿Para qué utilizan principalmente los camaleones su capacidad de cambiar de color?",
-    "ar": "ما الذي تستخدمه الحرباء في المقام الأول قدرتها على تغيير اللون من أجله؟"
+    "tr": "Dünyanın bilinen en uzun kunduz barajı kaç metre uzunluğundadır?",
+    "en": "How many meters long is the world's known longest beaver dam?",
+    "es": "¿Cuántos metros de largo tiene la presa de castor más larga conocida del mundo?",
+    "ar": "ما هو طول أطول سد قندس معروف في العالم بالمتر؟"
   },
   "story_options": [
-    "Sıcaklık ve iletişim",
-    "Sadece avlanmak",
-    "Yüzmek"
+    "150 metre",
+    "850 metre",
+    "1200 metre"
   ],
   "hashtags": [
     "#FactBite",
-    "#bukalemun",
+    "#kunduz",
     "#doğa",
     "#bilim",
     "#hayvanlar",
-    "#ilginçbilgiler",
-    "#gerçekler"
+    "#keşfet",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı doğa sırrı için takip et!",
-    "en": "Follow for more surprising nature secrets!",
-    "es": "¡Sígueme para más secretos sorprendentes de la naturaleza!",
-    "ar": "اتبع لمزيد من أسرار الطبيعة المدهشة!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Stay tuned for more nature secrets like this!",
+    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
+    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -57,13 +57,13 @@
   },
   "source": {
     "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/beavers"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Bukalemunların Renk Değiştirme Sırrı",
+  "_topic": "Denizlerin Akıllı Mühendisleri",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-22T06:57:50.678850+00:00",
+  "generated_at": "2026-08-22T08:47:52.143844+00:00",
   "topic_guard_days": 180
 }

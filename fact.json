@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözlerindeki Gizli Perde",
-    "body": "Biliyor musunuz, martılar ve pek çok kuş türü okyanus sularını içerken tuzdan zarar görmez. Gözlerinin hemen arkasında bulunan özel tuz bezleri, aldıkları fazla tuzu doğrudan gagalarından dışarı atar. Yani aslında deniz suyu içerken aynı zamanda 'ağlıyor' gibi görünseler de, bu tamamen dahili bir arıtma sistemidir."
+    "headline": "Denizlerin Camdan Hayaletleri",
+    "body": "Deniz analarının vücudunun yüzde doksanı sudan oluşur. Bu yüzden kumsala vurduklarında güneş altında adeta buharlaşıp kaybolurlar. Onların ne beyinleri ne de kemikleri vardır, ancak milyonlarca yıldır okyanuslarda hayatta kalmayı başarmışlardır."
   },
   "en": {
-    "headline": "The Hidden Salt Glands of Seabirds",
-    "body": "Did you know that gulls and many seabirds can drink ocean water without harm? Special salt glands located right behind their eyes filter out excess salt and flush it out through their beaks. So when they seem to be crying while drinking seawater, it's actually just their built-in desalination system at work."
+    "headline": "The Glass Ghosts of the Seas",
+    "body": "Jellyfish bodies are ninety percent water. That's why when they wash ashore, they practically evaporate and disappear under the sun. They have neither brains nor bones, yet they have managed to survive in the oceans for millions of years."
   },
   "es": {
-    "headline": "Las Glándulas Ocultas de las Aves Marinas",
-    "body": "¿Sabías que las gaviotas y muchas aves marinas pueden beber agua de mar sin dañarse? Unas glándulas de sal especiales detrás de sus ojos filtran el exceso y lo expulsan por el pico. Así que cuando parecen llorar al beber agua salada, en realidad es su sistema de desalinización interno."
+    "headline": "Los Fantasmas de Cristal de los Mares",
+    "body": "Los cuerpos de las medusas están compuestos en un noventa por ciento de agua. Por eso, cuando llegan a la orilla, prácticamente se evaporan y desaparecen bajo el sol. No tienen cerebros ni huesos, pero han logrado sobrevivir en los océanos durante millones de años."
   },
   "ar": {
-    "headline": "الغدد الخفية للطيور البحرية",
-    "body": "هل تعلم أن النورس والعديد من الطيور البحرية يمكنها شرب مياه المحيط دون أن تتضرر؟ توجد غدد ملحية خاصة خلف أعينها تصفّى الملح الزائد وتطرده عبر مناقيرها، لذا عندما تبدو كأنها تبكي أثناء شرب الماء المالح، فهو في الواقع نظام تحلية داخلي."
+    "headline": "أشباح البحار الزجاجية",
+    "body": "تتكون أجسام قنديل البحر من تسعين بالمائة من الماء. ولهذا السبب عندما تنحسر على الشواطئ، فإنها تتبخر وتختفي تحت الشمس. ليس لديها أدمغة أو عظام، ومع ذلك فقد تمكنت من البقاء على قيد الحياة في المحيطات لملايين السنين."
   },
   "reel_hook": {
-    "tr": "Deniz suyu içen bu kuşlar neden ağlıyor sanıyorsunuz?",
-    "en": "Why do you think these birds drinking seawater are crying?",
-    "es": "¿Por qué crees que estas aves que beben agua de mar están llorando?",
-    "ar": "لماذا تعتقد أن هذه الطيور التي تشرب ماء البحر تبكي؟"
+    "tr": "Kumsala vuran o canlılar güneş altında neden tamamen yok oluyor?",
+    "en": "Why do those creatures washed ashore completely disappear under the sun?",
+    "es": "¿Por qué esas criaturas varadas en la orilla desaparecen por completo bajo el sol?",
+    "ar": "لماذا تختفي تلك الكائنات التي ترفضها الأمواج تماماً تحت أشعة الشمس؟"
   },
   "story_question": {
-    "tr": "Sizce kuşların bu tuz bezleri başka hangi hayvanda bulunur?",
-    "en": "Which other animal do you think has these salt glands?",
-    "es": "¿Qué otro animal crees que tiene estas glándulas de sal?",
-    "ar": "برأيك، ما هو الحيوان الآخر الذي يمتلك هذه الغدد الملحية؟"
+    "tr": "Deniz analarının vücudunun yüzde kaçı sudan oluşur?",
+    "en": "What percentage of a jellyfish's body is made of water?",
+    "es": "¿Qué porcentaje del cuerpo de una medusa está compuesto de agua?",
+    "ar": "ما هي النسبة المئوية لجسم قنديل البحر المكونة من الماء؟"
   },
   "story_options": [
-    "Timsahlar",
-    "İnekler",
-    "Kargalar"
+    "Yüzde 50",
+    "Yüzde 75",
+    "Yüzde 90"
   ],
   "hashtags": [
     "#FactBite",
-    "#Kuşlar",
-    "#Doğa",
-    "#Bilim",
-    "#İlginçBilgiler",
-    "#HayvanlarlarAlemi"
+    "#bilim",
+    "#doğa",
+    "#okyanus",
+    "#ilginçbilgiler",
+    "#canlılar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza como este!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/jellyfish"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözlerindeki Gizli Perde",
+  "_topic": "Denizlerin Camdan Hayaletleri",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-22T15:21:03.706380+00:00",
+  "generated_at": "2026-08-22T17:29:36.474603+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Deniz Yıldızlarının Beyni Yoktur",
-    "body": "Deniz yıldızları oldukça şaşırtıcı canlılardır; çünkü onların ne bir beyni ne de bir kalbi vardır. Vücutlarında kan yerine deniz suyu dolaşır ve çevrelerini derilerindeki özel algılayıcılarla hissederler. Buna rağmen avlanabilir ve kolları koparsa yenileyebilirler."
+    "headline": "Denizlerin Hayaletleri: Ahtapotların Kalbi Neden Üç Tanedir?",
+    "body": "Ahtapotlar sadece zekalarıyla değil, dolaşım sistemleriyle de büyüleyicidir. Bu canlıların tam üç tane kalbi bulunur. Bunlardan ikisi solungaçlara kan pompalarken, üçüncü kalp ise vücudun geri kalanına kan sağlar. Ancak işin en ilginç kısmı, bu üçüncü kalp yüzdüklerinde tamamen atmayı durdurur. Bu yüzden ahtapotlar yüzmek yerine sürünmeyi tercih ederler çünkü yüzmek onları çok daha çabuk yorar."
   },
   "en": {
-    "headline": "Starfish Have No Brains",
-    "body": "Starfish are fascinating creatures because they have neither a brain nor a heart. Instead of blood, sea water circulates through their bodies, and they sense their environment with special receptors in their skin. Despite this, they can hunt and regenerate lost arms."
+    "headline": "Ghosts of the Sea: Why Do Octopuses Have Three Hearts?",
+    "body": "Octopuses are fascinating not only for their intelligence but also for their circulatory system. These creatures have a total of three hearts. Two of them pump blood to the gills, while the third provides blood to the rest of the body. However, the most interesting part is that this third heart completely stops beating when they swim. That is why octopuses prefer crawling over swimming, as swimming tires them out much faster."
   },
   "es": {
-    "headline": "Las estrellas de mar no tienen cerebro",
-    "body": "Las estrellas de mar son criaturas fascinantes porque no tienen cerebro ni corazón. En lugar de sangre, el agua de mar circula por sus cuerpos y perciben su entorno con receptores especiales en su piel. A pesar de esto, pueden cazar y regenerar brazos perdidos."
+    "headline": "Fantasmas del mar: ¿Por qué los pulpos tienen tres corazones?",
+    "body": "Los pulpos son fascinantes no solo por su inteligencia, sino también por su sistema circulatorio. Estas criaturas tienen un total de tres corazones. Dos de ellos bombean sangre a las branquias, mientras que el tercero suministra sangre al resto del cuerpo. Sin embargo, lo más interesante es que este tercer corazón deja de latir por completo cuando nadan. Por eso los pulpos prefieren arrastrarse en lugar de nadar, ya que nadar los cansa mucho más rápido."
   },
   "ar": {
-    "headline": "نجم البحر ليس لديه دماغ",
-    "body": "نجوم البحر كائنات مذهلة لكونها لا تمتلك لا دماغاً ولا قلباً. بدلاً من الدم، يتدفق مياه البحر عبر أجزاء أجسامهم، ويشعرون ببيئتهم عبر مستشعرات خاصة في جلودهم. ورغم ذلك، يمكنهم الصيانة وتجديد الأذرع المفقودة."
+    "headline": "أشباح البحر: لماذا تمتلك الأخطبوطات ثلاثة قلوب؟",
+    "body": "تعتبر الأخطبوطات رائعة ليس فقط بسبب ذكائها، بل أيضاً بسبب جهازها الدوري. تمتلك هذه الكائنات ثلاثة قلوب إجمالاً. يضخ اثنان منها الدم إلى الخياشيم، بينما يوفر القلب الثالث الدم لبقية الجسم. ومع ذلك، فإن الجزء الأكثر إثارة للاهتمام هو أن هذا القلب الثالث يتوقف عن النبض تماماً عندما تسبح. ولهذا السبب تفضل الأخطبوطات الزحف على السباحة، لأن السباحة ترهقها بسرعة أكبر بكثير."
   },
   "reel_hook": {
-    "tr": "Beyni ve kalbi olmayan bu canlı nasıl hayatta kalıyor?",
-    "en": "How does this creature survive without a brain or heart?",
-    "es": "¿Cómo sobrevive esta criatura sin cerebro ni corazón?",
-    "ar": "كيف ينجو هذا الكائن الحي بدون دماغ أو قلب؟"
+    "tr": "Yüzdüklerinde kalbi duran bir canlı biliyor musunuz?",
+    "en": "Do you know a creature whose heart stops when it swims?",
+    "es": "¿Conoces a una criatura cuyo corazón se detiene cuando nada?",
+    "ar": "هل تعرف كائناً يتوقف قلبه عن نبض عندما يسبح؟"
   },
   "story_question": {
-    "tr": "Sence deniz yıldızları yönlerini nasıl bulur?",
-    "en": "How do you think starfish find their way?",
-    "es": "¿Cómo crees que las estrellas de mar encuentran su camino?",
-    "ar": "كيف تعتقد أن نجوم البحر تجد طريقها؟"
+    "tr": "Yüzerken kalbi durduğu için sürünmeyi tercih eden bu akıllı deniz canlısı hangisidir?",
+    "en": "Which smart marine creature prefers crawling because its heart stops while swimming?",
+    "es": "¿Qué criatura marina inteligente prefiere arrastrarse porque su corazón se detiene al nadar?",
+    "ar": "ما هو الكائن البحري الذكي الذي يفضل الزحف لأن قلبه يتوقف أثناء السباحة؟"
   },
   "story_options": [
-    "Gözleriyle",
-    "Derilerindeki algılayıcılarla",
-    "Manyetik alanla"
+    "Ahtapot",
+    "Mürekkep Balığı",
+    "Deniz Anası"
   ],
   "hashtags": [
     "#FactBite",
-    "#denizyıldızı",
     "#bilim",
-    "#ilginçbilgiler",
     "#doğa",
+    "#ilginçbilgiler",
+    "#deniz",
     "#keşfet",
-    "#canlılar"
+    "#eğitim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip et!",
-    "en": "Follow us for more interesting facts like this!",
-    "es": "¡Síguenos para más datos interesantes como este!",
-    "ar": "تابعنا لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts!",
+    "es": "¡Mantente atento a más datos sorprendentes!",
+    "ar": "ابق على متابعة للمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Marine Biology Conservation Society",
+    "url": "https://www.marineconservation.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Deniz Yıldızlarının Beyni Yoktur",
+  "_topic": "Denizlerin Hayaletleri: Ahtapotların Kalbi Neden Üç Tanedir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-23T17:29:04.426793+00:00",
+  "generated_at": "2026-08-23T19:21:17.477711+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kurbağalar Kulakları Olmadan Nasıl Duyar?",
-    "body": "Kurbağaların dış kulakları yoktur ama sesleri kafatasları aracılığıyla doğrudan iç kulaklarına iletebilirler. Zeminle temas ettiklerinde çene kemikleri titreşimi yakalar ve beyne ulaştırır."
+    "headline": "Kuşlar Nezle Olur Mu?",
+    "body": "Biz insanlar kışın hemen nezle oluruz, peki ya gökyüzünün sakinleri kuşlar? İlginç bir şekilde, kuşlar da bizimki gibi üst solunum yolu enfeksiyonlarına yakalanabilirler. Ancak işin en şaşırtıcı kısmı, vahşi doğada hasta bir kuşa neredeyse hiç rastlamamanızdır. Bunun nedeni, hasta kuşların avcılara kolay yem olmamak için zayıflıklarını ustalıkla gizlemesidir."
   },
   "en": {
-    "headline": "How Do Frogs Hear Without Ears?",
-    "body": "Frogs do not have external ears, but they can transmit sounds directly to their inner ears through their skulls. When in contact with the ground, their jawbones catch vibrations and send them to the brain."
+    "headline": "Do Birds Get Colds?",
+    "body": "We humans easily catch colds in winter, but what about the rulers of the sky? Interestingly, birds can indeed suffer from respiratory infections similar to ours. However, the most surprising part is that you almost never encounter a sick bird in the wild. This is because sick birds expertly hide their weakness to avoid becoming easy prey for predators."
   },
   "es": {
-    "headline": "¿Cómo oyen las ranas sin orejas?",
-    "body": "Las ranas no tienen orejas externas, pero pueden transmitir sonidos directamente a sus oídos internos a través de sus cráneos. Al estar en contacto con el suelo, los huesos de su mandíbula capturan las vibraciones."
+    "headline": "¿Se resfrían las aves?",
+    "body": "Los humanos nos resfriamos fácilmente en invierno, ¿pero qué pasa con los reyes del cielo? Curiosamente, las aves pueden sufrir infecciones respiratorias similares a las nuestras. Sin embargo, lo más sorprendente es que casi nunca te encuentras con un ave enferma en la naturaleza. Esto se debe a que las aves enfermas ocultan hábilmente su debilidad para no ser presas fáciles."
   },
   "ar": {
-    "headline": "كيف تسمع الضفادع بدون آذان؟",
-    "body": "لا تمتلك الضفادع آذانًا خارجية، ولكن يمكنها نقل الأصوات مباشرة إلى أذنها الداخلية من خلال جماجمها. عندما تلامس الأرض، تلتقط عظام فكها الاهتزازات."
+    "headline": "هل تصاب الطيور بالبرد؟",
+    "body": "نحن البشر نصاب بالبرد بسهولة في الشتاء، فماذا عن حكام السماء؟ من المثير للاهتمام أن الطيور يمكن أن تعاني بالفعل من التهابات الجهاز التنفسي المشابهة لتلك التي تصيبنا. ومع ذلك، فإن الجزء الأكثر إثارة للدهشة هو أنك لا تكاد تقابل طائراً مريضاً في البرية أبداً. ويرجع ذلك إلى أن الطيور المريضة تخفي ضعفها ببراعة لتجنب أن تصبح فرسة سهلة."
   },
   "reel_hook": {
-    "tr": "Kulakları olmayan bir hayvan, sesleri nasıl bu kadar net duyar?",
-    "en": "How can an animal without ears hear sounds so clearly?",
-    "es": "¿Cómo puede un animal sin orejas escuchar los sonidos tan claramente?",
-    "ar": "كيف يمكن لحيوان ليس لديه آذان أن يسمع الأصوات بوضوح شديد؟"
+    "tr": "Gökyüzünde hiç hasta bir kuşa denk geldiniz mi?",
+    "en": "Have you ever encountered a sick bird in the sky?",
+    "es": "¿Alguna vez te has cruzado con un ave enferma en el cielo?",
+    "ar": "هل صادفت يوماً طائراً مريضاً في السماء؟"
   },
   "story_question": {
-    "tr": "Kurbağalar sesleri hangi vücut kısmı ile hisseder?",
-    "en": "Which body part do frogs use to feel sounds?",
-    "es": "¿Qué parte del cuerpo usan las ranas para sentir los sonidos?",
-    "ar": "ما هي جزء الجسم الذي تستخدمه الضفادع لتبعات الأصوات؟"
+    "tr": "Vahşi doğada hasta kuşları neden neredeyse hiç görmeyiz?",
+    "en": "Why do we almost never see sick birds in the wild?",
+    "es": "¿Por qué casi nunca vemos aves enfermas en la naturaleza?",
+    "ar": "لماذا لا نكاد نرى طيوراً مريضة في البرية أبداً؟"
   },
   "story_options": [
-    "Kafatası ve çene kemikleri",
-    "Göz kapakları",
-    "Parmak uçları"
+    "Çok hızlı iyileşirler",
+    "Zayıflıklarını gizlerler",
+    "Hemen göç ederler"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
+    "#kuşlar",
     "#doğa",
-    "#kurbağa",
-    "#biyoloji",
+    "#bilim",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu biliyor muydunuz? Yorumlarda buluşalım!",
+    "en": "Did you know this? Let's meet in the comments!",
+    "es": "¿Sabías esto? ¡Nos vemos en los comentarios!",
+    "ar": "هل كنت تعرف هذا؟ لنلتقي في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Ornithology and Avian Health Studies",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-disease"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kurbağalar Kulakları Olmadan Nasıl Duyar?",
+  "_topic": "Kuşlar Nezle Olur Mu?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-23T06:59:30.342070+00:00",
+  "generated_at": "2026-08-23T08:48:37.336589+00:00",
   "topic_guard_days": 180
 }

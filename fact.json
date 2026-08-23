@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Kalbi Uçarken Nasıl Dayanıyor?",
-    "body": "Uçmak inanılmaz bir enerji gerektirir. Öyle ki, küçük kuşların kalbi dakikada bin kezden fazla atabilir. Ancak asıl mucize, bu yoğun tempoda bile kasların oksijensiz kalmaması için vücutlarındaki özel hava kesesi sistemidir."
+    "headline": "Papatyalar Aslında Tek Bir Çiçek Değil!",
+    "body": "Bahçe papatyalarını tek bir çiçek sanıyorsanız yanılıyorsunuz. Bir papatya, aslında yüzlerce küçük çiçeğin bir araya gelmesiyle oluşan muazzam bir kolonidir. Ortasındaki sarı diskler ve kenardaki beyaz taç yaprakların her biri, ayrı birer bireysel çiçektir."
   },
   "en": {
-    "headline": "How Do Birds' Hearts Endure While Flying?",
-    "body": "Flying requires incredible energy. So much so that a small bird's heart can beat over a thousand times a minute. But the real miracle is the special air sac system in their bodies that ensures muscles never run out of oxygen even at this intense pace."
+    "headline": "Daisies Are Not Actually a Single Flower!",
+    "body": "If you think garden daisies are a single flower, you are mistaken. A daisy is actually a magnificent colony made up of hundreds of tiny flowers. Each of the yellow discs in the center and the white petals on the edge is an individual flower."
   },
   "es": {
-    "headline": "¿Cómo resiste el corazón de las aves al volar?",
-    "body": "Volar requiere una energía increíble. Tanto es así que el corazón de un pájaro pequeño puede latir más de mil veces por minuto. Pero el verdadero milagro es el sistema especial de sacos de aire en sus cuerpos que asegura que los músculos nunca se queden sin oxígeno."
+    "headline": "¡Las margaritas no son en realidad una sola flor!",
+    "body": "Si crees que las margaritas de jardín son una sola flor, te equivocas. Una margarita es en realidad una magnífica colonia formada por cientos de pequeñas flores. Cada uno de los discos amarillos del centro y los pétalos blancos del borde son flores individuales."
   },
   "ar": {
-    "headline": "كيف يتحمل قلب الطيور أثناء الطيران؟",
-    "body": "الطيران يتطلب طاقة هائلة. لدرجة أن قلب الطائر الصغير يمكن أن ينبض أكثر من ألف مرة في الدقيقة. لكن المعجزة الحقيقية هي نظام الأكياس الهوائية الخاص في أجسامهم والذي يضمن عدم نفاد الأكسجين من العضلات."
+    "headline": "الأقحوان ليس في الواقع زهرة واحدة!",
+    "body": "إذا كنت تعتقد أن أزهار الأقحوان في الحديقة هي زهرة واحدة، فأنت مخطئ. الأقحوان هو في الواقع مستعمرة رائعة تتكون من مئات الزهور الصغيرة. كل قرص أصف في المركز بتلات بيضاء على الحافة هو زهرة فردية."
   },
   "reel_hook": {
-    "tr": "Dakikada bin kez atan bir kalple uçmak sizce nasıl bir hissiyat?",
-    "en": "What do you think it feels like to fly with a heart beating a thousand times a minute?",
-    "es": "¿Cómo crees que se siente volar con un corazón que late mil veces por minuto?",
-    "ar": "كيف تعتقد أنه شعور الطيران بقلب يننبض ألف مرة في الدقيقة؟"
+    "tr": "Bahçede her gün gördüğünüz o masum çiçeğin aslında bir aldatmaca olduğunu biliyor musunuz?",
+    "en": "Did you know that innocent flower you see in the garden every day is actually a hoax?",
+    "es": "¿Sabías que esa flor inocente que ves en el jardín todos los días es en realidad un engaño?",
+    "ar": "هل تعلم أن تلك الزهرة البريئة التي تراها في الحديقة كل يوم هي في الواقع خدعة؟"
   },
   "story_question": {
-    "tr": "Sizce en yüksek kalpli kuş dakikada kaç kez atar?",
-    "en": "How many beats per minute do you think the fastest bird heart has?",
-    "es": "¿Cuántos latidos por minuto crees que tiene el corazón de ave más rápido?",
-    "ar": "كم عدد نبضات القلب في الدقيقة التي تعتقد أن أسرع قلب طائر يمتلكها؟"
+    "tr": "Sizce bir papatanın içinde ortalama kaç adet minik çiçek bulunur?",
+    "en": "How many tiny flowers do you think are inside an average daisy?",
+    "es": "¿Cuántas florecitas crees que hay dentro de una margarita promedio?",
+    "ar": "كم عدد الزهور الصغيرة برأيك داخل زهرة أقحوان عادية؟"
   },
   "story_options": [
-    "500",
-    "1000",
-    "1200"
+    "10 - 50",
+    "100 - 300'den fazla",
+    "Yalnızca 1"
   ],
   "hashtags": [
     "#FactBite",
-    "#Kuşlar",
-    "#Doğa",
-    "#Bilim",
-    "#Hayvanlar",
-    "#İlginçBilgiler",
-    "#Biyoloji"
+    "#papatya",
+    "#doğa",
+    "#bilim",
+    "#çiçekler",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos de la naturaleza como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Avian Physiology Studies",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-physiology"
+    "name": "Botanical Society of America",
+    "url": "https://www.botany.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Kalbi Uçarken Nasıl Dayanıyor?",
+  "_topic": "Papatyalar Aslında Tek Bir Çiçek Değil!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-23T11:40:37.128617+00:00",
+  "generated_at": "2026-08-23T13:29:43.589954+00:00",
   "topic_guard_days": 180
 }

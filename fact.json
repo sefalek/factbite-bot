@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Hayaletleri: Ahtapotların Kalbi Neden Üç Tanedir?",
-    "body": "Ahtapotlar sadece zekalarıyla değil, dolaşım sistemleriyle de büyüleyicidir. Bu canlıların tam üç tane kalbi bulunur. Bunlardan ikisi solungaçlara kan pompalarken, üçüncü kalp ise vücudun geri kalanına kan sağlar. Ancak işin en ilginç kısmı, bu üçüncü kalp yüzdüklerinde tamamen atmayı durdurur. Bu yüzden ahtapotlar yüzmek yerine sürünmeyi tercih ederler çünkü yüzmek onları çok daha çabuk yorar."
+    "headline": "Denizlerin Derinliklerindeki Gizli Vokalistler",
+    "body": "Denizlerde yaşayan bazı balık türleri, su altında tıpkı kuşlar gibi şafak vakti 'şarkı söyler'. Bilim insanları, bu seslerin sadece iletişim için değil, aynı zamanda üreme alanlarını belirlemek için kullanıldığını keşfetti. Okyanusun altındaki bu senfoni, kulağımıza gelmese de devasa bir ekosistemin işleyişini yönetiyor."
   },
   "en": {
-    "headline": "Ghosts of the Sea: Why Do Octopuses Have Three Hearts?",
-    "body": "Octopuses are fascinating not only for their intelligence but also for their circulatory system. These creatures have a total of three hearts. Two of them pump blood to the gills, while the third provides blood to the rest of the body. However, the most interesting part is that this third heart completely stops beating when they swim. That is why octopuses prefer crawling over swimming, as swimming tires them out much faster."
+    "headline": "The Hidden Vocalists of the Deep Sea",
+    "body": "Certain fish species living in the seas 'sing' at dawn underwater, much like birds. Scientists have discovered that these sounds are used not only for communication but also to establish breeding grounds. Though inaudible to our ears, this underwater symphony governs the functioning of a massive ecosystem."
   },
   "es": {
-    "headline": "Fantasmas del mar: ¿Por qué los pulpos tienen tres corazones?",
-    "body": "Los pulpos son fascinantes no solo por su inteligencia, sino también por su sistema circulatorio. Estas criaturas tienen un total de tres corazones. Dos de ellos bombean sangre a las branquias, mientras que el tercero suministra sangre al resto del cuerpo. Sin embargo, lo más interesante es que este tercer corazón deja de latir por completo cuando nadan. Por eso los pulpos prefieren arrastrarse en lugar de nadar, ya que nadar los cansa mucho más rápido."
+    "headline": "Los vocalistas ocultos de las profundidades marinas",
+    "body": "Ciertas especies de peces que viven en los mares 'cantan' al amanecer bajo el agua, muy similar a las aves. Los científicos han descubierto que estos sonidos se usan no solo para comunicarse, aunque inaudibles para nuestros oídos, sino también para establecer zonas de reproducción."
   },
   "ar": {
-    "headline": "أشباح البحر: لماذا تمتلك الأخطبوطات ثلاثة قلوب؟",
-    "body": "تعتبر الأخطبوطات رائعة ليس فقط بسبب ذكائها، بل أيضاً بسبب جهازها الدوري. تمتلك هذه الكائنات ثلاثة قلوب إجمالاً. يضخ اثنان منها الدم إلى الخياشيم، بينما يوفر القلب الثالث الدم لبقية الجسم. ومع ذلك، فإن الجزء الأكثر إثارة للاهتمام هو أن هذا القلب الثالث يتوقف عن النبض تماماً عندما تسبح. ولهذا السبب تفضل الأخطبوطات الزحف على السباحة، لأن السباحة ترهقها بسرعة أكبر بكثير."
+    "headline": "المغنون الخفيون في أعماق البحار",
+    "body": "بعض أنواع الأسماك التي تعيش في البحار \"تغني\" عند الفجر تحت الماء، مثل الطيور تماماً. لقد اكتشف العلماء أن هذه الأصوات لا تستخدم للتواصل فحسب، بل لتحديد مناطق التكاثر أيضاً، ورغم أنها لا تُسمع بأذننا، إلا أنها تدير نظاماً بيئياً ضخماً."
   },
   "reel_hook": {
-    "tr": "Yüzdüklerinde kalbi duran bir canlı biliyor musunuz?",
-    "en": "Do you know a creature whose heart stops when it swims?",
-    "es": "¿Conoces a una criatura cuyo corazón se detiene cuando nada?",
-    "ar": "هل تعرف كائناً يتوقف قلبه عن نبض عندما يسبح؟"
+    "tr": "Okyanusun dibinde her sabah dev bir koro konser veriyor.",
+    "en": "Every morning at the bottom of the ocean, a giant choir gives a concert.",
+    "es": "Cada mañana en el fondo del océano, un coro gigante da un concierto.",
+    "ar": "في كل صباح في قاع المحيط، يقدم كورال عملاق حفلة موسيقية."
   },
   "story_question": {
-    "tr": "Yüzerken kalbi durduğu için sürünmeyi tercih eden bu akıllı deniz canlısı hangisidir?",
-    "en": "Which smart marine creature prefers crawling because its heart stops while swimming?",
-    "es": "¿Qué criatura marina inteligente prefiere arrastrarse porque su corazón se detiene al nadar?",
-    "ar": "ما هو الكائن البحري الذكي الذي يفضل الزحف لأن قلبه يتوقف أثناء السباحة؟"
+    "tr": "Sence su altındaki bu balık korosu en çok hangi saatte en yüksek sesle 'şarkı söyler'?",
+    "en": "At what time do you think this underwater fish choir 'sings' the loudest?",
+    "es": "¿A qué hora crees que este coro de peces bajo el agua 'canta' más fuerte?",
+    "ar": "في أي وقت برأيك \"تغني\" جوقة الأسماك تحت الماء بصوت أعلى؟"
   },
   "story_options": [
-    "Ahtapot",
-    "Mürekkep Balığı",
-    "Deniz Anası"
+    "Şafak vakti",
+    "Gün ortası",
+    "Gece yarısı"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
+    "#okyanus",
     "#doğa",
-    "#ilginçbilgiler",
-    "#deniz",
-    "#keşfet",
-    "#eğitim"
+    "#balıklar",
+    "#keşif",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts!",
-    "es": "¡Mantente atento a más datos sorprendentes!",
-    "ar": "ابق على متابعة للمزيد من الحقائق المدهشة!"
+    "tr": "Bunu daha önce duymuş muydun? Yorumlarda buluşalım!",
+    "en": "Have you ever heard of this before? Let's meet in the comments!",
+    "es": "¿Habías oído hablar de esto antes? ¡Nos vemos en los comentarios!",
+    "ar": "هل سمعت بهذا من قبل؟ لنلتقي في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Marine Biology Conservation Society",
-    "url": "https://www.marineconservation.org"
+    "name": "Marine Biology & Science Daily",
+    "url": "https://www.sciencedaily.com/releases/fish_acoustic_communication"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Hayaletleri: Ahtapotların Kalbi Neden Üç Tanedir?",
+  "_topic": "Denizlerin Derinliklerindeki Gizli Vokalistler",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-23T19:21:17.477711+00:00",
+  "generated_at": "2026-08-23T20:57:29.538983+00:00",
   "topic_guard_days": 180
 }

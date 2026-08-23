@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Neden Şimşeği Önceden Sezer?",
-    "body": "Gökyüzündeki fırtınayı, henüz daha bulutlar bile toplanmadan hisseden canlılar var. Kuşlar, insan kulaklığının duyamadığı çok düşük frekanslı ses dalgalarını, yani infrasesleri algılayabilir. Fırtınaların ve depremlerin yarattığı bu derin uğultular yüzlerce kilometre öteden gelir. Bu yüzden onlar tehlikeyi sizden çok önce fark edip rotalarını değiştirirler."
+    "headline": "Kunduzların Su Altında Nasıl Nefes Almadığı",
+    "body": "Kunduzlar su altında nefes almazlar, ama tam 15 dakika boyunca su altında kalabilirler. Bunu nasıl başarıyorlar? Dudaklarını dişlerinin arkasından kapatarak suyun ağızlarına girmesini engellerler ve dalış sırasında kalp atış hızlarını dakikada sadece 10 vuruşa kadar düşürerek oksijen tüketimini minimuma indirirler."
   },
   "en": {
-    "headline": "Why Birds Sense Lightning in Advance",
-    "body": "There are creatures that sense a storm in the sky before clouds even gather. Birds can perceive infrasound, which are very low-frequency sound waves that human ears cannot hear. These deep rumbles created by storms and earthquakes travel from hundreds of miles away. That's why they notice danger long before you do and change their course."
+    "headline": "How Beavers Stay Underwater",
+    "body": "Beavers don't breathe underwater, but they can stay submerged for up to 15 minutes. How do they pull this off? They seal their lips behind their teeth to keep water out of their mouths and drastically slow their heart rate down to just 10 beats per minute during a dive to minimize oxygen consumption."
   },
   "es": {
-    "headline": "Por qué las aves anticipan los rayos",
-    "body": "Hay criaturas que presienten una tormenta en el cielo antes de que las nubes se junten. Las aves pueden percibir infrasonidos, ondas sonoras de baja frecuencia que los oídos humanos no pueden escuchar. Estos profundos retumbos creados por tormentas y terremotos viajan desde cientos de kilómetros de distancia. Por eso notan el peligro mucho antes que tú y cambian su rumbo."
+    "headline": "Cómo los castores permanecen bajo el agua",
+    "body": "Los castores no respiran bajo el agua, pero pueden permanecer sumergidos hasta 15 minutos. ¿Cómo lo logran? Sestan sus labios detrás de los dientes para evitar que el agua entre en su boca y reducen drásticamente su ritmo cardíaco a solo 10 latidos por minuto durante una inmersión."
   },
   "ar": {
-    "headline": "لماذا تشعر الطيور بالصواعق مسبقاً",
-    "body": "هناك كائنات تشعر بالعاصفة في السماء قبل تجمع الغيوم حتى. تستطيع الطيور إدراك الموجات دون الصوتية، وهي موجات صوتية منخفضة التردد للغاية لا تستطيع الأذن البشرية سماعها. تأتي هذه الأصوات العميقة التي تسببها العواصف والزلازل من مسافات تبعد مئات الأميال. ولهذا السبب تلاحظ الخطر قبل وقت طويل وتغير مسارها."
+    "headline": "كيف تبقى القندس تحت الماء",
+    "body": "لا تنفس القندس تحت الماء، ولكن يمكنها البقاء مغمورة لمدة تصل إلى 15 دقيقة. كيف يحققون ذلك؟ يغلقون شفاههم خلف أسنانهم لمنع دخول الماء إلى أفواههم ويقللون بشكل كبير من معدل ضربات قلبهم."
   },
   "reel_hook": {
-    "tr": "Fırtına kopmadan saatler önce gökyüzündeki kimler bunu çoktan biliyor?",
-    "en": "Who in the sky already knows hours before a storm breaks?",
-    "es": "¿Quiénes en el cielo ya lo saben horas antes de que se desate una tormenta?",
-    "ar": "من في السماء يعرف بالفعل قبل ساعات من حدوث العاصفة؟"
+    "tr": "Kunduzlar su altında tam 15 dakika boyunca nefes almadan nasıl kalabiliyor?",
+    "en": "How can beavers stay underwater for a full 15 minutes without breathing?",
+    "es": "¿Cómo pueden los castores permanecer bajo el agua durante 15 minutos sin respirar?",
+    "ar": "كيف يمكن للقندس البقاء تحت الماء لمدة 15 دقيقة كاملة دون تنفس؟"
   },
   "story_question": {
-    "tr": "Kuşların fırtınayı kilometrelerce öteden hissetmesini sağlayan dalga türü hangisidir?",
-    "en": "What type of wave allows birds to sense a storm from miles away?",
-    "es": "¿Qué tipo de onda permite a las aves sentir una tormenta a kilómetros de distancia?",
-    "ar": "ما هو نوع الموجة الذي يسمح للطيور بالاستشعار بالعاصفة من أميال بعيدة؟"
+    "tr": "Sizce bir kunduz dalış sırasında kalp atışını dakikada kaç vuruşa düşürür?",
+    "en": "How many beats per minute do you think a beaver's heart drops to during a dive?",
+    "es": "¿A cuántas latidos por minuto crees que baja el ritmo cardíaco de un castor al sumergirse?",
+    "ar": "برأيك، إلى كم نبضة في الدقيقة ينخفض معدل ضربات قلب القندس أثناء الغوص؟"
   },
   "story_options": [
-    "Ultrases",
-    "İnfrases",
-    "Elektromanyetik dalgalar"
+    "Dakikada 10 vuruş",
+    "Dakikada 30 vuruş",
+    "Dakikada 50 vuruş"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#kuşlar",
     "#doğa",
-    "#fırtına",
-    "#ilginçbilgiler"
+    "#hayvanlar",
+    "#bilim",
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#biyoloji"
   ],
   "cta": {
     "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
     "en": "Don't forget to follow for more nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos de la naturaleza como este!",
+    "es": "¡No olvides seguir para más secretos de la naturaleza como este!",
     "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic & Cornell Lab of Ornithology",
-    "url": "https://www.birds.cornell.edu"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/beaver"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Neden Şimşeği Önceden Sezer?",
+  "_topic": "Kunduzların Su Altında Nasıl Nefes Almadığı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-22T20:57:30.305157+00:00",
+  "generated_at": "2026-08-23T05:43:53.013127+00:00",
   "topic_guard_days": 180
 }

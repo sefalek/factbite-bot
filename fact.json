@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedi Mırıltısının Gizli Frekansı",
-    "body": "Kedilerin çıkardığı o huzurlu mırıltı sadece mutluluktan ibaret değil. Araştırmalar, bu mırıltının tam 25 ile 150 hertz arasında bir frekansa sahip olduğunu gösteriyor. Bu özel frekans, insan kemiklerinin ve dokularının iyileşmesini hızlandırabilecek titreşim aralığıyla birebir örtüşüyor."
+    "headline": "Deniz Yıldızlarının Beyni Yoktur",
+    "body": "Deniz yıldızları oldukça şaşırtıcı canlılardır; çünkü onların ne bir beyni ne de bir kalbi vardır. Vücutlarında kan yerine deniz suyu dolaşır ve çevrelerini derilerindeki özel algılayıcılarla hissederler. Buna rağmen avlanabilir ve kolları koparsa yenileyebilirler."
   },
   "en": {
-    "headline": "The Hidden Frequency of Cat Purrs",
-    "body": "The peaceful purr of a cat is not just about happiness. Research shows this purr has a frequency between 25 and 150 hertz. This specific frequency matches the vibration range known to accelerate bone and tissue healing in humans."
+    "headline": "Starfish Have No Brains",
+    "body": "Starfish are fascinating creatures because they have neither a brain nor a heart. Instead of blood, sea water circulates through their bodies, and they sense their environment with special receptors in their skin. Despite this, they can hunt and regenerate lost arms."
   },
   "es": {
-    "headline": "La frecuencia oculta del ronroneo felino",
-    "body": "El ronroneo pacífico de un gato no es solo felicidad. Las investigaciones muestran que este ronroneo tiene una frecuencia entre 25 y 150 hercios. Esta frecuencia específica coincide con el rango de vibración que puede acelerar la curación de huesos y tejidos."
+    "headline": "Las estrellas de mar no tienen cerebro",
+    "body": "Las estrellas de mar son criaturas fascinantes porque no tienen cerebro ni corazón. En lugar de sangre, el agua de mar circula por sus cuerpos y perciben su entorno con receptores especiales en su piel. A pesar de esto, pueden cazar y regenerar brazos perdidos."
   },
   "ar": {
-    "headline": "التردد الخفي لخرخرة القطط",
-    "body": "خرخرة القط الهادئة لا تتعلق بالسعادة فقط. تُظهر الأبحاث أن هذه الخرخرة لها تردد يتراوح بين 25 و150 هرتز. يتطابق هذا التردد المحدد مع نطاق الاهتزاز المعروف بتسريع شفاء العظام والأنسجة."
+    "headline": "نجم البحر ليس لديه دماغ",
+    "body": "نجوم البحر كائنات مذهلة لكونها لا تمتلك لا دماغاً ولا قلباً. بدلاً من الدم، يتدفق مياه البحر عبر أجزاء أجسامهم، ويشعرون ببيئتهم عبر مستشعرات خاصة في جلودهم. ورغم ذلك، يمكنهم الصيانة وتجديد الأذرع المفقودة."
   },
   "reel_hook": {
-    "tr": "Kedinizin mırıltısı sadece sizi sakinleştirmiyor, aynı zamanda iyileştiriyor olabilir mi?",
-    "en": "Could your cat's purr not only calm you down, but actually heal you?",
-    "es": "¿Podría el ronroneo de tu gato no solo calmarte, sino curarte?",
-    "ar": "هل يمكن لخرخرة قطتك ألا تهدئك فحسب، بل تعالجك أيضاً؟"
+    "tr": "Beyni ve kalbi olmayan bu canlı nasıl hayatta kalıyor?",
+    "en": "How does this creature survive without a brain or heart?",
+    "es": "¿Cómo sobrevive esta criatura sin cerebro ni corazón?",
+    "ar": "كيف ينجو هذا الكائن الحي بدون دماغ أو قلب؟"
   },
   "story_question": {
-    "tr": "Kedilerin mırıltı frekansı hangi tıbbi sürece benzer bir etki gösterebilir?",
-    "en": "Which medical process can a cat's purr frequency resemble in effect?",
-    "es": "¿Qué proceso médico puede parecerse en efecto a la frecuencia de ronroneo de un gato?",
-    "ar": "ما هي العملية الطبية التي يمكن أن يشابه تأثيرها تردد خرخرة القطط؟"
+    "tr": "Sence deniz yıldızları yönlerini nasıl bulur?",
+    "en": "How do you think starfish find their way?",
+    "es": "¿Cómo crees que las estrellas de mar encuentran su camino?",
+    "ar": "كيف تعتقد أن نجوم البحر تجد طريقها؟"
   },
   "story_options": [
-    "Kemik ve doku onarımı",
-    "Kan basıncını yükseltme",
-    "Kasları tamamen dondurma"
+    "Gözleriyle",
+    "Derilerindeki algılayıcılarla",
+    "Manyetik alanla"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
+    "#denizyıldızı",
     "#bilim",
     "#ilginçbilgiler",
     "#doğa",
-    "#sağlık"
+    "#keşfet",
+    "#canlılar"
   ],
   "cta": {
-    "tr": "Kediniz kucağınızdayken bunu hissettiniz mi? Yorumlarda buluşalım!",
-    "en": "Did you feel this while your cat was on your lap? Let us know in the comments!",
-    "es": "¿Sentiste esto mientras tu gato estaba en tu regazo? ¡Cuéntanos en los comentarios!",
-    "ar": "هل شعرت بهذا بينما كانت قطتك في حضنك؟ أخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip et!",
+    "en": "Follow us for more interesting facts like this!",
+    "es": "¡Síguenos para más datos interesantes como este!",
+    "ar": "تابعنا لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Scientific American",
-    "url": "https://www.scientificamerican.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedi Mırıltısının Gizli Frekansı",
+  "_topic": "Deniz Yıldızlarının Beyni Yoktur",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-23T15:23:05.196283+00:00",
+  "generated_at": "2026-08-23T17:29:04.426793+00:00",
   "topic_guard_days": 180
 }

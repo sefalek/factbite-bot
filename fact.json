@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözleri Neden Hiç Kapanmaz Gibidir?",
-    "body": "Biliyor musunuz, kuşların gözlerini korumak için bizimkilerden tamamen farklı bir mekanizması var. Üçüncü göz kapağı dediğimiz bu şeffaf perde, gözü kurutmadan kırpmaya gerek kalmadan nemli tutar."
+    "headline": "Kuşların Kalbi Dakikada Bin Kez Atabilir",
+    "body": "Uçmak inanılmaz bir enerji gerektirir. Örneğin sinek kuşlarının kalbi, uçarken dakikada binin üzerinde atabilir. Bu kadar küçük bir bedende bu devasa enerji üretimi, doğanın en büyük mucizelerinden biridir."
   },
   "en": {
-    "headline": "Why Birds Seem to Never Close Their Eyes",
-    "body": "Did you know birds have a completely different mechanism to protect their eyes? This transparent membrane, called the third eyelid, keeps the eye moist without needing to blink."
+    "headline": "A Bird's Heart Can Beat Over a Thousand Times a Minute",
+    "body": "Flying requires incredible energy. For example, a hummingbird's heart can beat over a thousand times per minute while in flight. This massive energy production in such a tiny body is one of nature's greatest marvels."
   },
   "es": {
-    "headline": "Por qué los pájaros parecen nunca cerrar los ojos",
-    "body": "¿Sabías que las aves tienen un mecanismo completamente diferente para proteger sus ojos? Esta membrana transparente, llamada tercer párpado, mantiene el ojo húmedo sin necesidad de parpadear."
+    "headline": "El corazón de un pájaro puede latir más de mil veces por minuto",
+    "body": "Volar requiere una energía increíble. Por ejemplo, el corazón de un colibrí puede latir más de mil veces por minuto mientras vuela. Esta producción masiva de energía en un cuerpo tan pequeño es una de las mayores maravillas de la naturaleza."
   },
   "ar": {
-    "headline": "لماذا تبدو الطيور وكأنها لا تغلق عيونها أبداً",
-    "body": "هل تعلم أن الطيور تمتلك آلية مختلفة تماماً لحماية عيونها؟ هذا الغشاء الشفاف، الذي يسمى الجفن الثالث، يحافظ على رطوبة العين دون الحاجة للرمش."
+    "headline": "يمكن لقلب الطائر أن ينبض أكثر من ألف مرة في الدقيقة",
+    "body": "الطيران يتطلب طاقة مذهلة. على سبيل المثال، يمكن لقلب الطائر الطنان أن ينبض أكثر من ألف مرة في الدقيقة أثناء الطيران. هذا الإنتاج الهائل للطاقة في جسم صغير جدًا هو أحد أعظم عجائب الطبيعة."
   },
   "reel_hook": {
-    "tr": "Kuşlar neden neredeyse hiç göz kırpmazlar?",
-    "en": "Why do birds almost never blink?",
-    "es": "¿Por qué las aves casi nunca parpadean?",
-    "ar": "لماذا لا ترف الطيور عيونها تقريباً أبداً؟"
+    "tr": "Dakikada bin kez atan bir kalbe sahip olmak nasıl bir hissiyat olurdu?",
+    "en": "What would it feel like to have a heart that beats a thousand times a minute?",
+    "es": "¿Cómo se sentiría tener un corazón que late mil veces por minuto?",
+    "ar": "كيف سيكون الشعور بأن يكون لديك قلب يننبض ألف مرة في الدقيقة؟"
   },
   "story_question": {
-    "tr": "Kuşların gözlerini koruyan şeffaf üçüncü göz kapağına ne ad verilir?",
-    "en": "What is the transparent third eyelid that protects birds' eyes called?",
-    "es": "¿Cómo se llama el tercer párpado transparente que protege los ojos de las aves?",
-    "ar": "ما هو اسم الجفن الثالث الشفاف الذي يحمي عيون الطيور؟"
+    "tr": "Hangi hayvanın kalbi dakikada bin kez atabilir?",
+    "en": "Which animal's heart can beat a thousand times a minute?",
+    "es": "¿El corazón de qué animal puede latir mil veces por minuto?",
+    "ar": "قلب أي حيوان يمكن أن ينبض ألف مرة في الدقيقة؟"
   },
   "story_options": [
-    "Niktitan Membran",
-    "Retina Kalkanı",
-    "Kornea Perdesi"
+    "Sinek Kuşu",
+    "Çita",
+    "Arı"
   ],
   "hashtags": [
     "#FactBite",
+    "#doğa",
     "#bilim",
     "#kuşlar",
-    "#doğa",
     "#ilginçbilgiler",
+    "#hayvanlaralemi",
     "#biyoloji"
   ],
   "cta": {
     "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
     "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
     "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Avian Biology and Anatomy",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/nictitating-membrane"
+    "name": "Ornithology Research Data",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-physiology"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözleri Neden Hiç Kapanmaz Gibidir?",
+  "_topic": "Kuşların Kalbi Dakikada Bin Kez Atabilir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-24T11:48:47.039431+00:00",
+  "generated_at": "2026-08-24T13:47:52.084680+00:00",
   "topic_guard_days": 180
 }

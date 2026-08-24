@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Uçarken Uyur?",
-    "body": "Yorulmak bilmeyen göçmen kuşların okyanusları aşarken nasıl günlerce hiç inmeden uyuduğunu biliyor musunuz? Cevap beyinlerinde gizli: Uçuş sırasında kuşlar beyinlerinin yalnızca tek yarım küresini uyuturlar. Diğer yarısı açık kalır, böylece hem uçmaya devam ederler hem de yönlerini bulurlar. Açık olan gözleri ise hep karşıya, sürüye bakar."
+    "headline": "Denizlerin Derinliklerindeki Vampir Kalamar",
+    "body": "Denizlerin 1000 metre derinliğinde yaşayan vampir kalamar, adının aksine kan emmez. Tehlike anında kollarını yukarı kıvırarak kendi üzerine bir pelerin gibi kapatır ve karanlıkta parlayan mavi ışıklar saçarak avcılarını şaşırtır."
   },
   "en": {
-    "headline": "How Do Birds Sleep While Flying?",
-    "body": "Do you know how migratory birds cross oceans without landing for days? The answer lies in their brains: during flight, birds sleep with only one hemisphere of their brain at a time. The other half stays awake, allowing them to keep flying and navigating, while keeping one eye open on the flock."
+    "headline": "The Vampire Squid of the Deep Sea",
+    "body": "Living 1,000 meters deep in the ocean, the vampire squid doesn't actually drink blood despite its name. When threatened, it wraps its arms over itself like a cape and emits glowing blue light to confuse predators in the darkness."
   },
   "es": {
-    "headline": "¿Cómo duermen las aves mientras vuelan?",
-    "body": "¿Sabes cómo las aves migratorias cruzan océanos sin aterrizar durante días? La respuesta está en sus cerebros: durante el vuelo, duermen con un solo hemisferio cerebral a la vez. La otra mitad permanece despierta, lo que les permite seguir volando y vigilando."
+    "headline": "El Calamar Vampiro de las Profundidades",
+    "body": "Viviendo a 1,000 metros de profundidad en el océano, el calamar vampiro no bebe sangre a pesar de su nombre. Cuando se siente amenazado, envuelve sus brazos sobre sí mismo como una capa y emite una luz azul brillante para confundir a los depredadores en la oscuridad."
   },
   "ar": {
-    "headline": "كيف تن الطيور أثناء الطيران؟",
-    "body": "هل تعلم كيف تقطع الطيور المهاجرة المحيطات دون أن تهبط لأيام؟ تكمن الإجابة في أدمغتها: أثناء الطيران، تنام الطيور بنصف دماغ واحد في كل مرة بينما يظل النصف الآخر مستيقظاً لمواصلة الطيران والملاحة."
+    "headline": "حبار مصاص الدماء في أعماق البحار",
+    "body": "عيش حبار مصاص الدماء على عمق 1000 متر في المحيط، ولا يشرب الدم رغم اسمه. وعندما يشعر بالتهديد، يلف أذرعه حول نفسه مثل العباءة ويطلق ضوءاً أزرق متوهجاً لإرباك الحيوانات المفترسة في الظلام."
   },
   "reel_hook": {
-    "tr": "Günlerce hiç durmadan uçan bu kuşlar, havada uyumanın inanılmaz bir yolunu buldu.",
-    "en": "These birds fly non-stop for days and have found an incredible way to sleep mid-air.",
-    "es": "Estas aves vuelan sin parar durante días y han encontrado una forma increíble de dormir en pleno vuelo.",
-    "ar": "تطير هذه الطيور دون توقف لأيام وقد وجدت طريقة مذهلة للنوم في الهواء."
+    "tr": "Bu korkunç isimli deniz canlısı asla kan emmiyor, peki ne yapıyor?",
+    "en": "This terrifyingly named sea creature never drinks blood, so what does it do?",
+    "es": "Esta criatura marina con un nombre aterrador nunca bebe sangre, ¿entonces qué hace?",
+    "ar": "هذا المخلوق البحري المرعب الاسم لا يشرب الدم أبداً، فماذا يفعل إذن؟"
   },
   "story_question": {
-    "tr": "Uçarken uyuyan kuşlar, açık kalan gözleriyle neyi takip eder?",
-    "en": "What do birds track with their open eye while sleeping in flight?",
-    "es": "¿Qué siguen las aves con su ojo abierto mientras duermen en pleno vuelo?",
-    "ar": "ماذا تراقب الطيور بعينها المفتوحة أثناء النوم في الطيران؟"
+    "tr": "Vampir kalamar tehlike anında pelerinini kapattığında ne saklar?",
+    "en": "What does the vampire squid hide when it closes its cape during danger?",
+    "es": "¿Qué oculta el calamar vampiro cuando cierra su capa en caso de peligro?",
+    "ar": "ماذا يخفي حبار مصاص الدماء عندما يغلق عباءته عند الخطر؟"
   },
   "story_options": [
-    "Diğer sürü üyelerini ve yönü",
-    "Avcıları ve yiyecekleri",
-    "Hava sıcaklığını ve bulutları"
+    "Dikenli kollarını",
+    "Parlayan vantuzlarını",
+    "Korkunç dişlerini"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
     "#bilim",
-    "#biyoloji",
+    "#okyanus",
+    "#doğa",
     "#keşfet",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#canlilar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Benzeri görülmemiş bu doğa harikalarını kaçırmamak için takipte kal!",
+    "en": "Stay tuned not to miss unprecedented wonders of nature like this!",
+    "es": "¡Mantente atento para no perderte maravillas naturales sin precedentes como esta!",
+    "ar": "ابق على تواصل لكي لا تفوت عجائب الطبيعة غير المسبوقة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Avian Sleep Behavior Studies",
-    "url": "https://www.sciencedaily.com"
+    "name": "Monterey Bay Aquarium Research Institute (MBARI)",
+    "url": "https://www.mbari.org/animal/vampire-squid/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Uçarken Uyur?",
+  "_topic": "Denizlerin Derinliklerindeki Vampir Kalamar",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-24T07:19:17.960055+00:00",
+  "generated_at": "2026-08-24T09:05:13.274886+00:00",
   "topic_guard_days": 180
 }

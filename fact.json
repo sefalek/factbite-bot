@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Derinliklerindeki Gizli Vokalistler",
-    "body": "Denizlerde yaşayan bazı balık türleri, su altında tıpkı kuşlar gibi şafak vakti 'şarkı söyler'. Bilim insanları, bu seslerin sadece iletişim için değil, aynı zamanda üreme alanlarını belirlemek için kullanıldığını keşfetti. Okyanusun altındaki bu senfoni, kulağımıza gelmese de devasa bir ekosistemin işleyişini yönetiyor."
+    "headline": "Kuşlar Nasıl Rüya Görür?",
+    "body": "Geceleri derin bir uykuya dalan kuşlar, tıpkı memeliler gibi rüya görürler. Özellikle şarkı söyleyen kuşların beyin aktiviteleri, gündüz melodi pratik yaparken gösterdikleri aktiviteyle birebir aynıdır. Yani uyurken şarkı söylemeye devam ederler."
   },
   "en": {
-    "headline": "The Hidden Vocalists of the Deep Sea",
-    "body": "Certain fish species living in the seas 'sing' at dawn underwater, much like birds. Scientists have discovered that these sounds are used not only for communication but also to establish breeding grounds. Though inaudible to our ears, this underwater symphony governs the functioning of a massive ecosystem."
+    "headline": "How Do Birds Dream?",
+    "body": "Birds falling into a deep sleep at night dream just like mammals. Especially for songbirds, their brain activity during sleep is identical to the activity they show while practicing melodies during the day. This means they keep singing in their sleep."
   },
   "es": {
-    "headline": "Los vocalistas ocultos de las profundidades marinas",
-    "body": "Ciertas especies de peces que viven en los mares 'cantan' al amanecer bajo el agua, muy similar a las aves. Los científicos han descubierto que estos sonidos se usan no solo para comunicarse, aunque inaudibles para nuestros oídos, sino también para establecer zonas de reproducción."
+    "headline": "¿Cómo sueñan las aves?",
+    "body": "Las aves que caen en un sueño profundo por la noche sueñan igual que los mamíferos. Especialmente en las aves cantoras, su actividad cerebral durante el sueño es idéntica a la que muestran al practicar melodías durante el día. Es decir, siguen cantando mientras duermen."
   },
   "ar": {
-    "headline": "المغنون الخفيون في أعماق البحار",
-    "body": "بعض أنواع الأسماك التي تعيش في البحار \"تغني\" عند الفجر تحت الماء، مثل الطيور تماماً. لقد اكتشف العلماء أن هذه الأصوات لا تستخدم للتواصل فحسب، بل لتحديد مناطق التكاثر أيضاً، ورغم أنها لا تُسمع بأذننا، إلا أنها تدير نظاماً بيئياً ضخماً."
+    "headline": "كيف تحلم الطيور؟",
+    "body": "الطيور التي تغرق في نوم عميق ليلاً تحلم تماماً مثل الثدييات. وخاصة الطيور المغردة، يكون نشاطها الدماغي أثناء النوم مطابخاً تماماً للنشاط الذي تظهره أثناء التدرب على الألحان خلال النهار. وهذا يعني أنها تستمر في الغناء وهي نائمة."
   },
   "reel_hook": {
-    "tr": "Okyanusun dibinde her sabah dev bir koro konser veriyor.",
-    "en": "Every morning at the bottom of the ocean, a giant choir gives a concert.",
-    "es": "Cada mañana en el fondo del océano, un coro gigante da un concierto.",
-    "ar": "في كل صباح في قاع المحيط، يقدم كورال عملاق حفلة موسيقية."
+    "tr": "Geceleri uyurken aslında şarkı söylemeye devam eden bir canlı biliyor musunuz?",
+    "en": "Do you know a creature that actually keeps singing while sleeping at night?",
+    "es": "¿Conoces a una criatura que en realidad sigue cantando mientras duerme por la noche?",
+    "ar": "هل تعرف مخلوقاً يستمر حقاً في الغناء أثناء نومه ليلاً؟"
   },
   "story_question": {
-    "tr": "Sence su altındaki bu balık korosu en çok hangi saatte en yüksek sesle 'şarkı söyler'?",
-    "en": "At what time do you think this underwater fish choir 'sings' the loudest?",
-    "es": "¿A qué hora crees que este coro de peces bajo el agua 'canta' más fuerte?",
-    "ar": "في أي وقت برأيك \"تغني\" جوقة الأسماك تحت الماء بصوت أعلى؟"
+    "tr": "Sizce hangi hayvanlar rüya görür?",
+    "en": "Which animals do you think dream?",
+    "es": "¿Qué animales crees que sueñan?",
+    "ar": "ما هي الحيوانات برأيك التي تحلم؟"
   },
   "story_options": [
-    "Şafak vakti",
-    "Gün ortası",
-    "Gece yarısı"
+    "Sadece memeliler",
+    "Kuşlar ve memeliler",
+    "Tüm hayvanlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#okyanus",
+    "#kuşlar",
     "#doğa",
-    "#balıklar",
-    "#keşif",
-    "#ilginçbilgiler"
+    "#bilim",
+    "#ilginçbilgiler",
+    "#hayvanlaralemi",
+    "#uyku"
   ],
   "cta": {
-    "tr": "Bunu daha önce duymuş muydun? Yorumlarda buluşalım!",
-    "en": "Have you ever heard of this before? Let's meet in the comments!",
-    "es": "¿Habías oído hablar de esto antes? ¡Nos vemos en los comentarios!",
-    "ar": "هل سمعت بهذا من قبل؟ لنلتقي في التعليقات!"
+    "tr": "Bunu bildiğini sandığın arkadaşına gönder!",
+    "en": "Send this to a friend who you think knew this!",
+    "es": "¡Envíaselo a un amigo que creas que sabía esto!",
+    "ar": "أرسل هذا إلى صديق تعتقد أنه كان يعلم هذا!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Marine Biology & Science Daily",
-    "url": "https://www.sciencedaily.com/releases/fish_acoustic_communication"
+    "name": "Avian Sleep and Song Learning Studies",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Derinliklerindeki Gizli Vokalistler",
+  "_topic": "Kuşlar Nasıl Rüya Görür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-23T20:57:29.538983+00:00",
+  "generated_at": "2026-08-24T05:52:46.891911+00:00",
   "topic_guard_days": 180
 }

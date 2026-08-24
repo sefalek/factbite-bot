@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Rüya Görür?",
-    "body": "Geceleri derin bir uykuya dalan kuşlar, tıpkı memeliler gibi rüya görürler. Özellikle şarkı söyleyen kuşların beyin aktiviteleri, gündüz melodi pratik yaparken gösterdikleri aktiviteyle birebir aynıdır. Yani uyurken şarkı söylemeye devam ederler."
+    "headline": "Kuşlar Nasıl Uçarken Uyur?",
+    "body": "Yorulmak bilmeyen göçmen kuşların okyanusları aşarken nasıl günlerce hiç inmeden uyuduğunu biliyor musunuz? Cevap beyinlerinde gizli: Uçuş sırasında kuşlar beyinlerinin yalnızca tek yarım küresini uyuturlar. Diğer yarısı açık kalır, böylece hem uçmaya devam ederler hem de yönlerini bulurlar. Açık olan gözleri ise hep karşıya, sürüye bakar."
   },
   "en": {
-    "headline": "How Do Birds Dream?",
-    "body": "Birds falling into a deep sleep at night dream just like mammals. Especially for songbirds, their brain activity during sleep is identical to the activity they show while practicing melodies during the day. This means they keep singing in their sleep."
+    "headline": "How Do Birds Sleep While Flying?",
+    "body": "Do you know how migratory birds cross oceans without landing for days? The answer lies in their brains: during flight, birds sleep with only one hemisphere of their brain at a time. The other half stays awake, allowing them to keep flying and navigating, while keeping one eye open on the flock."
   },
   "es": {
-    "headline": "¿Cómo sueñan las aves?",
-    "body": "Las aves que caen en un sueño profundo por la noche sueñan igual que los mamíferos. Especialmente en las aves cantoras, su actividad cerebral durante el sueño es idéntica a la que muestran al practicar melodías durante el día. Es decir, siguen cantando mientras duermen."
+    "headline": "¿Cómo duermen las aves mientras vuelan?",
+    "body": "¿Sabes cómo las aves migratorias cruzan océanos sin aterrizar durante días? La respuesta está en sus cerebros: durante el vuelo, duermen con un solo hemisferio cerebral a la vez. La otra mitad permanece despierta, lo que les permite seguir volando y vigilando."
   },
   "ar": {
-    "headline": "كيف تحلم الطيور؟",
-    "body": "الطيور التي تغرق في نوم عميق ليلاً تحلم تماماً مثل الثدييات. وخاصة الطيور المغردة، يكون نشاطها الدماغي أثناء النوم مطابخاً تماماً للنشاط الذي تظهره أثناء التدرب على الألحان خلال النهار. وهذا يعني أنها تستمر في الغناء وهي نائمة."
+    "headline": "كيف تن الطيور أثناء الطيران؟",
+    "body": "هل تعلم كيف تقطع الطيور المهاجرة المحيطات دون أن تهبط لأيام؟ تكمن الإجابة في أدمغتها: أثناء الطيران، تنام الطيور بنصف دماغ واحد في كل مرة بينما يظل النصف الآخر مستيقظاً لمواصلة الطيران والملاحة."
   },
   "reel_hook": {
-    "tr": "Geceleri uyurken aslında şarkı söylemeye devam eden bir canlı biliyor musunuz?",
-    "en": "Do you know a creature that actually keeps singing while sleeping at night?",
-    "es": "¿Conoces a una criatura que en realidad sigue cantando mientras duerme por la noche?",
-    "ar": "هل تعرف مخلوقاً يستمر حقاً في الغناء أثناء نومه ليلاً؟"
+    "tr": "Günlerce hiç durmadan uçan bu kuşlar, havada uyumanın inanılmaz bir yolunu buldu.",
+    "en": "These birds fly non-stop for days and have found an incredible way to sleep mid-air.",
+    "es": "Estas aves vuelan sin parar durante días y han encontrado una forma increíble de dormir en pleno vuelo.",
+    "ar": "تطير هذه الطيور دون توقف لأيام وقد وجدت طريقة مذهلة للنوم في الهواء."
   },
   "story_question": {
-    "tr": "Sizce hangi hayvanlar rüya görür?",
-    "en": "Which animals do you think dream?",
-    "es": "¿Qué animales crees que sueñan?",
-    "ar": "ما هي الحيوانات برأيك التي تحلم؟"
+    "tr": "Uçarken uyuyan kuşlar, açık kalan gözleriyle neyi takip eder?",
+    "en": "What do birds track with their open eye while sleeping in flight?",
+    "es": "¿Qué siguen las aves con su ojo abierto mientras duermen en pleno vuelo?",
+    "ar": "ماذا تراقب الطيور بعينها المفتوحة أثناء النوم في الطيران؟"
   },
   "story_options": [
-    "Sadece memeliler",
-    "Kuşlar ve memeliler",
-    "Tüm hayvanlar"
+    "Diğer sürü üyelerini ve yönü",
+    "Avcıları ve yiyecekleri",
+    "Hava sıcaklığını ve bulutları"
   ],
   "hashtags": [
     "#FactBite",
     "#kuşlar",
     "#doğa",
     "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlaralemi",
-    "#uyku"
+    "#biyoloji",
+    "#keşfet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu bildiğini sandığın arkadaşına gönder!",
-    "en": "Send this to a friend who you think knew this!",
-    "es": "¡Envíaselo a un amigo que creas que sabía esto!",
-    "ar": "أرسل هذا إلى صديق تعتقد أنه كان يعلم هذا!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Avian Sleep and Song Learning Studies",
+    "name": "Avian Sleep Behavior Studies",
     "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Rüya Görür?",
+  "_topic": "Kuşlar Nasıl Uçarken Uyur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-24T05:52:46.891911+00:00",
+  "generated_at": "2026-08-24T07:19:17.960055+00:00",
   "topic_guard_days": 180
 }

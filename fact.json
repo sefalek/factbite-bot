@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Kalbi Dakikada Bin Kez Atabilir",
-    "body": "Uçmak inanılmaz bir enerji gerektirir. Örneğin sinek kuşlarının kalbi, uçarken dakikada binin üzerinde atabilir. Bu kadar küçük bir bedende bu devasa enerji üretimi, doğanın en büyük mucizelerinden biridir."
+    "headline": "Bukalemunlar Neden Renk Değiştirir?",
+    "body": "Bukalemunların renk değiştirmesinin asıl sebebi gizlenmek değil, duygularını ve vücut ısılarını yönetmektir."
   },
   "en": {
-    "headline": "A Bird's Heart Can Beat Over a Thousand Times a Minute",
-    "body": "Flying requires incredible energy. For example, a hummingbird's heart can beat over a thousand times per minute while in flight. This massive energy production in such a tiny body is one of nature's greatest marvels."
+    "headline": "Why Do Chameleons Change Color?",
+    "body": "The real reason chameleons change color isn't just to hide, but to manage their emotions and body temperature."
   },
   "es": {
-    "headline": "El corazón de un pájaro puede latir más de mil veces por minuto",
-    "body": "Volar requiere una energía increíble. Por ejemplo, el corazón de un colibrí puede latir más de mil veces por minuto mientras vuela. Esta producción masiva de energía en un cuerpo tan pequeño es una de las mayores maravillas de la naturaleza."
+    "headline": "¿Por qué los camaleones cambian de color?",
+    "body": "La verdadera razón por la que los camaleones cambian de color no es para esconderse, sino para gestionar sus emociones y temperatura corporal."
   },
   "ar": {
-    "headline": "يمكن لقلب الطائر أن ينبض أكثر من ألف مرة في الدقيقة",
-    "body": "الطيران يتطلب طاقة مذهلة. على سبيل المثال، يمكن لقلب الطائر الطنان أن ينبض أكثر من ألف مرة في الدقيقة أثناء الطيران. هذا الإنتاج الهائل للطاقة في جسم صغير جدًا هو أحد أعظم عجائب الطبيعة."
+    "headline": "لماذا تتغير ألوان الحرباء؟",
+    "body": "السبب الحقيقي لتغير لون الحرباء ليس فقط للاختباء، بل لإدارة مشاعرهم ودرجة حرارة أجسادهم."
   },
   "reel_hook": {
-    "tr": "Dakikada bin kez atan bir kalbe sahip olmak nasıl bir hissiyat olurdu?",
-    "en": "What would it feel like to have a heart that beats a thousand times a minute?",
-    "es": "¿Cómo se sentiría tener un corazón que late mil veces por minuto?",
-    "ar": "كيف سيكون الشعور بأن يكون لديك قلب يننبض ألف مرة في الدقيقة؟"
+    "tr": "Bukalemunların renk değiştirme sebebi bildiğiniz şey değil.",
+    "en": "The reason chameleons change color isn't what you think.",
+    "es": "La razón por la que los camaleones cambian de color no es la que crees.",
+    "ar": "السبب وراء تغير لون الحرباء ليس ما تعتقده."
   },
   "story_question": {
-    "tr": "Hangi hayvanın kalbi dakikada bin kez atabilir?",
-    "en": "Which animal's heart can beat a thousand times a minute?",
-    "es": "¿El corazón de qué animal puede latir mil veces por minuto?",
-    "ar": "قلب أي حيوان يمكن أن ينبض ألف مرة في الدقيقة؟"
+    "tr": "Bukalemunlar renk değiştirirken asıl hangi faktör en büyük etkiye sahiptir?",
+    "en": "Which factor has the biggest influence when chameleons change color?",
+    "es": "¿Qué factor tiene la mayor influencia cuando los camaleones cambian de color?",
+    "ar": "ما هو العامل الأكثر تأثيرًا عندما تتغير ألوان الحرباء؟"
   },
   "story_options": [
-    "Sinek Kuşu",
-    "Çita",
-    "Arı"
+    "Duygular ve sıcaklık",
+    "Sadece tehlike anı",
+    "Geceleri uyku düzeni"
   ],
   "hashtags": [
     "#FactBite",
+    "#bukalemun",
     "#doğa",
     "#bilim",
-    "#kuşlar",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#hayvanlaralemi",
-    "#biyoloji"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu kimin bilmesi gerekiyor? Yorumlarda buluşalım!",
+    "en": "Who needs to know this? Let us know in the comments!",
+    "es": "¿Quién necesita saber esto? ¡Háznoslo saber en los comentarios!",
+    "ar": "من يحتاج إلى معرفة هذا؟ أخبرنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology Research Data",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-physiology"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Kalbi Dakikada Bin Kez Atabilir",
+  "_topic": "Bukalemunlar Neden Renk Değiştirir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-24T13:47:52.084680+00:00",
+  "generated_at": "2026-08-24T15:40:08.484781+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balinaların Derileri Neden Soyulur?",
-    "body": "Dev okyanus sakinleri olan balinalar, sıcak sularda derilerini yenilemek için kumlu kıyılara sürünürler. Bu devasa peeling seansı, üzerlerindeki parazitlerden kurtulmalarını sağlar."
+    "headline": "Kuşların Kalbi Uçarken Neden Patlamaz?",
+    "body": "Kilometrelerce yükseklikte saatlerce uçan göçmen kuşların kalbi dakikada binlerce kez atar. Bu inanılmaz eforun sırrı, kalplerinin kas yapısında ve vücutlarındaki özel oksijen depolama sisteminde gizlidir. Onları gökyüzünün maratoncuları yapan bu biyolojik mucize, insan sınırlarının çok ötesindedir."
   },
   "en": {
-    "headline": "Why Do Whales Shed Their Skin?",
-    "body": "Gentle giants of the ocean, whales rub against sandy shores in warm waters to renew their skin. This massive peeling session helps them get rid of parasites."
+    "headline": "Why Don't Birds' Hearts Explode While Flying?",
+    "body": "Migratory birds flying at high altitudes for hours have hearts that beat at incredible rates. The secret to this immense effort lies in their unique cardiac muscle structure and special oxygen storage systems, making them the true marathon runners of the sky."
   },
   "es": {
-    "headline": "¿Por qué las ballenas se desprenden de su piel?",
-    "body": "Gigantes apacibles del océano, las ballenas se frotan contra costas arenosas en aguas cálidas para renovar su piel. Esta enorme sesión de exfoliación les ayuda a deshacerse de los parásitos."
+    "headline": "¿Por qué no explota el corazón de las aves al volar?",
+    "body": "Las aves migratorias que vuelan a gran altura durante horas tienen corazones que laten a un ritmo increíble. El secreto de este enorme esfuerzo radica en la estructura de su músculo cardíaco y sistemas especiales de oxígeno."
   },
   "ar": {
-    "headline": "لماذا تسلخ الحيتان جلودها؟",
-    "body": "عمالقة المحيط اللطفاء، تفرك الحيتان نفسها بالشواطئ الرملية في الدافئة لتجديد جلودها. تساعدهم هذه الجلسة الهائلة على التخلص من الطفيلية."
+    "headline": "لماذا لا تنفجر قلوب الطيور أثناء الطيران؟",
+    "body": "الطيور المهاجرة التي تحلق على ارتفاعات عالية لساعات تمتلك قلوباً تنبض بمعدلات مذهلة. يكمن سر هذا الجهد الهائل في بنية عضلاتها القلبية الفريدة وأنظمة تخزين الأكسجين الخاصة بها."
   },
   "reel_hook": {
-    "tr": "Okyanusun ortasında devasa bir peeling seansı yapıldığını biliyor muydunuz?",
-    "en": "Did you know a massive peeling session takes place in the middle of the ocean?",
-    "es": "¿Sabías que se realiza una sesión de exfoliación masiva en medio del océano?",
-    "ar": "هل تعلم أن هناك جلسة تقشير ضخمة تقام في منتصف المحيط؟"
+    "tr": "Kilometrelerce yukarıda, kalbi durmaksızın dakikada bin kez atan bir canlı hayal edin...",
+    "en": "Imagine a creature flying miles high with a heart beating a thousand times a minute...",
+    "es": "Imagina una criatura volando alto con un corazón que late mil veces por minuto...",
+    "ar": "تخيل مخلوقاً يطير على ارتفاع أميال بقلب يننبض ألف مرة في الدقيقة..."
   },
   "story_question": {
-    "tr": "Sizce balinalar derilerini yenilemek için ne yapar?",
-    "en": "What do you think whales do to renew their skin?",
-    "es": "¿Quécrees que hacen las ballenas para renovar su piel?",
-    "ar": "برأيك، ماذا تفعل الحيتان لتجديد جلودها؟"
+    "tr": "Göçmen kuşların bu devasa enerjiyi sağlayan gizli silahı sizce nedir?",
+    "en": "What do you think is the secret weapon providing migratory birds with this massive energy?",
+    "es": "¿Cuál crees que es el arma secreta que proporciona esta energía masiva a las aves migratorias?",
+    "ar": "ماذا تعتقد أنه السلاح السرّي الذي يمنح الطيور المهاجرة هذه الطاقة الهائلة؟"
   },
   "story_options": [
-    "Kumsallara sürünürler",
-    "Derin sularda donarlar",
-    "Güneşte kuruturlar"
+    "Özel akciğer keseleri",
+    "Ekstra kas dokusu",
+    "Yüksek yağ depolama"
   ],
   "hashtags": [
     "#FactBite",
-    "#balina",
-    "#okyanus",
     "#doğa",
     "#bilim",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#kuşlar",
+    "#biyoloji",
+    "#mucize",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Stay tuned for more nature secrets like this!",
-    "es": "¡Mantente atento para más secretos de la naturaleza como este!",
-    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Benzer şaşırtıcı gerçekler için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more surprising facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Marine Mammal Science",
-    "url": "https://www.marinemammalscience.org"
+    "name": "Ornithology & Avian Physiology Journal",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balinaların Derileri Neden Soyulur?",
+  "_topic": "Kuşların Kalbi Uçarken Neden Patlamaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-25T05:47:15.400588+00:00",
+  "generated_at": "2026-08-25T07:08:15.093879+00:00",
   "topic_guard_days": 180
 }

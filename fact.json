@@ -1,70 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sincaplar Toprağın Altında Unuttukları Meşe Palamutlarını Nasıl Buluyor?",
-    "body": "Ormanların yeşermesindeki en büyük kahramanlar olan sincaplar, gömdükleri binlerce meşe palamudunun önemli bir kısmını unuturlar. Ancak onları hafızalarıyla değil, çok güçlü koku alma duyularıyla toprağın metrelerce altından bile bulup çıkarabilirler."
+    "headline": "Atların Ayakta Uyumasını Sağlayan Gizli Kilit",
+    "body": "Atların devasa vücutlarını ayakta taşımak için harika bir mekanizması var. Bacaklarındaki özel tendon ve bağ sistemleri, birer kilit gibi kenetlenerek tek bir kas bile yormadan uyumalarını sağlar. Yani ayakta uyurken aslında kilitlenmiş olurlar."
   },
   "en": {
-    "headline": "How Do Squirrels Find Acorns They Bury Underground?",
-    "body": "Squirrels, the unsung heroes of forest growth, forget a significant portion of the thousands of acorns they bury. However, they don't find them through memory, but rather through an extraordinary sense of smell that can detect them meters below the ground."
+    "headline": "The Hidden Lock That Lets Horses Sleep Standing Up",
+    "body": "Horses have an amazing mechanism to support their massive bodies while standing. Special tendon and ligament systems in their legs lock into place, allowing them to sleep without straining a single muscle. So when they sleep standing up, they are actually locked."
   },
   "es": {
-    "headline": "Cómo encuentran las ardillas las bellotas que entierran bajo tierra",
-    "body": "Las ardillas, las grandes heroínas del crecimiento de los bosques, olvidan una gran parte de las miles de bellotas que entierran. Sin embargo, no las encuentran gracias a su memoria, sino a un potente olfato capaz de detectarlas bajo tierra."
+    "headline": "El cerrojo oculto que permite a los caballos dormir de pie",
+    "body": "Los caballos tienen un mecanismo increíble para sostener sus enormes cuerpos mientras están de pie. Los sistemas especiales de tendones y ligamentos en sus patas se bloquean en su lugar, permitiéndoles dormir sin esforzar un solo músculo. Así que cuando duermen de pie, en realidad están bloqueados."
   },
   "ar": {
-    "headline": "كيف تجد السناجب الجوز الذي تدفنه تحت الأرض؟",
-    "body": "السناجب، الأبطال المجهولون في نمو الغابات، تنسى جزءاً كبير من آلاف حبات الجوز التي تدفنها. ومع ذلك، فهي لا تجدها بذاكرتها بل بحاسة شم قوية جداً تمكنها من رصدها."
+    "headline": "القفل الخفي الذي يسمح للخيول بالوقوف أثناء النوم",
+    "body": "تمتلك الخيول آلية مذهلة لدعم أجسامها الضخمة أثناء الوقوف. تقفل أنظمة الأوتار والأربطة الخاصة في أرجلها في مكانها، مما يسمح لها بالنام دون إجهاد أي عضلة واحدة. لذا عندما تنام وهي واقفة، فهي مقفلة بالفعل."
   },
   "reel_hook": {
-    "tr": "Milyonlarca ağacın büyümesini sağlayan o unutkan sevimli hırsızları biliyor musunuz?",
-    "tr_alt": "Sincapların gömdükleri fındıkları nasıl bulduğunu biliyor musunuz?",
-    "en": "Do you know how squirrels find what they bury?",
-    "es": "¿Sabes cómo encuentran las ardillas lo que entierran?",
-    "ar": "هل تعلم كيف تجد السناجب ما دفنته؟"
+    "tr": "Bir at tonlarca ağırlığıyla nasıl düşmeden ayakta uyuyabilir?",
+    "en": "How can a horse sleep standing up with all its weight without falling?",
+    "es": "¿Cómo puede un caballo dormir de pie con todo su peso sin caerse?",
+    "ar": "كيف يمكن للحصان أن ينام واقفاً بكل وزنه دون أن يسقط؟"
   },
   "story_question": {
-    "tr": "Sincaplar gömdükleri fındık ve palamutların yerini genellikle neye dayanarak bulur?",
-    "en": "What do squirrels mostly rely on to find their buried nuts?",
-    "es": "¿En qué se basan principalmente las ardillas para encontrar sus nueces enterradas?",
-    "ar": "على ماذا تعتمد السناجب أساساً للعثور على المكسرات المدفونة؟"
+    "tr": "Sizce atlar rüya görürken de bu kilit sistemini kullanmaya devam eder mi?",
+    "en": "Do you think horses continue to use this locking system while dreaming?",
+    "es": "¿Crees que los caballos siguen usando este sistema de bloqueo mientras sueñan?",
+    "ar": "هل تعتقد أن الخيول تستمر في استخدام نظام القفل هذا أثناء الحلم؟"
   },
   "story_options": [
-    "Görsel hafıza",
-    "Güçlü koku alma duyusu",
-    "Rastgele kazma"
+    "Evet, kilit hiç açılmaz",
+    "Hayır, yere yatarlar",
+    "Bazen kilit açık kalır"
   ],
   "hashtags": [
     "#FactBite",
-    "#sincap",
-    "#doğa",
+    "#at",
     "#bilim",
-    "#orman",
-    "#hayvanlaralemi",
-    "#ilginçbilgiler"
+    "#doğa",
+    "#hayvanlar",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos de la naturaleza!",
-    "ar": "لا تنس المتابعة للمزيد من أسرار الطبيعة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos asombrosos de la naturaleza como este!",
+    "ar": "لا تنس متابعة المزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Equine Anatomy and Physiology",
+    "url": "https://extension.umn.edu/horse-health-and-management/horse-behavior-and-learning"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Sincaplar Toprağın Altında Unuttukları Meşe Palamutlarını Nasıl Buluyor?",
+  "_topic": "Atların Ayakta Uyumasını Sağlayan Gizli Kilit",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-25T13:48:29.950795+00:00",
+  "generated_at": "2026-08-25T15:44:24.462615+00:00",
   "topic_guard_days": 180
 }

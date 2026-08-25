@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kutupyıldızı Aslında Tek Bir Yıldız Değil",
-    "body": "Geceleri yönümüzü bulmak için baktığımız Kutupyıldızı, çıplak gözle tek gibi görünse de aslında birbirinin etrafında dönen üç farklı yıldızdan oluşan bir sistemdir."
+    "headline": "Balinaların Derileri Neden Soyulur?",
+    "body": "Dev okyanus sakinleri olan balinalar, sıcak sularda derilerini yenilemek için kumlu kıyılara sürünürler. Bu devasa peeling seansı, üzerlerindeki parazitlerden kurtulmalarını sağlar."
   },
   "en": {
-    "headline": "The North Star Is Actually Not Just One Star",
-    "body": "The North Star we use for navigation at night may look like a single star to the naked eye, but it is actually a system of three different stars orbiting each other."
+    "headline": "Why Do Whales Shed Their Skin?",
+    "body": "Gentle giants of the ocean, whales rub against sandy shores in warm waters to renew their skin. This massive peeling session helps them get rid of parasites."
   },
   "es": {
-    "headline": "La Estrella Polar En Realidad No Es Una Sola Estrella",
-    "body": "La Estrella Polar que usamos para guiarnos por la noche puede parecer una sola estrella a simple vista, pero en realidad es un sistema de tres estrellas diferentes que orbitan entre sí."
+    "headline": "¿Por qué las ballenas se desprenden de su piel?",
+    "body": "Gigantes apacibles del océano, las ballenas se frotan contra costas arenosas en aguas cálidas para renovar su piel. Esta enorme sesión de exfoliación les ayuda a deshacerse de los parásitos."
   },
   "ar": {
-    "headline": "النجم القُطبي ليس نجماً واحداً في الواقع",
-    "body": "النجم القُطبي الذي نستخدمه للاهتداء ليلاً قد يبدو نجماً واحداً بالعين المجردة، لكنه في الواقع نظام مكون من ثلاثة نجوم مختلفة تدور حول بعضها البعض."
+    "headline": "لماذا تسلخ الحيتان جلودها؟",
+    "body": "عمالقة المحيط اللطفاء، تفرك الحيتان نفسها بالشواطئ الرملية في الدافئة لتجديد جلودها. تساعدهم هذه الجلسة الهائلة على التخلص من الطفيلية."
   },
   "reel_hook": {
-    "tr": "Geceleri yönümüzü bulduğumuz Kutupyıldızı hakkında bildiğiniz her şeyi unutun.",
-    "en": "Forget everything you know about the North Star we use to navigate at night.",
-    "es": "Olvida todo lo que sabes sobre la Estrella Polar que usamos para navegar por la noche.",
-    "ar": "انسا كل ما تعرفه عن النجم القُطبي الذي نستخدمه للاهتداء ليلاً."
+    "tr": "Okyanusun ortasında devasa bir peeling seansı yapıldığını biliyor muydunuz?",
+    "en": "Did you know a massive peeling session takes place in the middle of the ocean?",
+    "es": "¿Sabías que se realiza una sesión de exfoliación masiva en medio del océano?",
+    "ar": "هل تعلم أن هناك جلسة تقشير ضخمة تقام في منتصف المحيط؟"
   },
   "story_question": {
-    "tr": "Kutupyıldızı'nın aslında kaç yıldızdan oluşan bir sistem olduğunu biliyor muydunuz?",
-    "en": "Did you know how many stars actually make up the North Star system?",
-    "es": "¿Sabías cuántas estrellas forman en realidad el sistema de la Estrella Polar?",
-    "ar": "هل كنت تعرف عدد النجوم التي يتكون منها نظام النجم القُطبي حقاً؟"
+    "tr": "Sizce balinalar derilerini yenilemek için ne yapar?",
+    "en": "What do you think whales do to renew their skin?",
+    "es": "¿Quécrees que hacen las ballenas para renovar su piel?",
+    "ar": "برأيك، ماذا تفعل الحيتان لتجديد جلودها؟"
   },
   "story_options": [
-    "Tek bir yıldız",
-    "İki yıldız",
-    "Üç yıldız"
+    "Kumsallara sürünürler",
+    "Derin sularda donarlar",
+    "Güneşte kuruturlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
+    "#balina",
+    "#okyanus",
+    "#doğa",
     "#bilim",
-    "#astronomi",
-    "#yıldızlar",
     "#keşfet",
-    "#bilgi"
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "If this is your first time hearing this, don't forget to like!",
-    "es": "¡Si es la primera vez que escuchas esto, no olvides dar me gusta!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، فلا تنس الإعجاب!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Stay tuned for more nature secrets like this!",
+    "es": "¡Mantente atento para más secretos de la naturaleza como este!",
+    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "NASA",
-    "url": "https://science.nasa.gov"
+    "name": "Marine Mammal Science",
+    "url": "https://www.marinemammalscience.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kutupyıldızı Aslında Tek Bir Yıldız Değil",
+  "_topic": "Balinaların Derileri Neden Soyulur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-24T21:04:37.326328+00:00",
+  "generated_at": "2026-08-25T05:47:15.400588+00:00",
   "topic_guard_days": 180
 }

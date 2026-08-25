@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözleri Neden Başlarından Büyüktür?",
-    "body": "Bir baykuşun gözlerini kafasından çıkarsanız, göz yuvaları beyninden daha büyük olurdu! Baykuşlar gözlerini hareket ettiremezler; bu yüzden etrafı görmek için tüm kafalarını 270 derece çevirmek zorunda kalırlar."
+    "headline": "Denizlerin Hayaletleri: Mürekkep Balıklarının Gözleri Neden W Şeklindedir?",
+    "body": "Denizlerin derinliklerinde yaşayan mürekkep balıklarının göz bebekleri insanlardan çok farklı olarak 'W' şeklindedir. Bilim insanları bu tuhaf göz yapısının, hayvanın etraftaki renkleri algılayamamasına rağmen ışığın kontrastını ve polarizasyonunu olağanüstü bir şekilde yakalamasını sağladığını keşfetti. Bu sayede karanlık sularda avlarını ve düşmanlarını kusursuzca görebiliyorlar."
   },
   "en": {
-    "headline": "Why Are Birds' Eyes Bigger Than Their Heads?",
-    "body": "If you could remove an owl's eyes from its head, the eyeballs would be larger than its brain! Owls cannot move their eyes, which is why they have to turn their entire heads up to 270 degrees to see around."
+    "headline": "Ghosts of the Deep: Why Do Cuttlefish Have W-Shaped Pupils?",
+    "body": "Living in the deep sea, cuttlefish have pupils shaped like a 'W', unlike humans. Scientists discovered that this strange eye structure allows the animal to capture light contrast and polarization exceptionally well, even though it cannot perceive colors. This helps them perfectly spot prey and predators in dark waters."
   },
   "es": {
-    "headline": "¿Por qué los ojos de las aves son más grandes que sus cabezas?",
-    "body": "Si pudieras sacar los ojos de un búho de su cabeza, ¡los globos oculares serían más grandes que su cerebro! Los búhos no pueden mover los ojos, por lo que tienen que girar toda la cabeza hasta 270 grados para ver a su alrededor."
+    "headline": "Fantasmas de las profundidades: ¿Por qué las sepias tienen pupilas en forma de W?",
+    "body": "Al vivir en las profundidades marinas, las sepias tienen pupilas con forma de 'W', a diferencia de los humanos. Los científicos descubrieron que esta extraña estructura ocular permite al animal capturar el contraste de la luz y la polarización excepcionalmente bien, a pesar de no percibir colores. Esto les ayuda a detectar perfectamente a presas y depredadores en aguas oscuras."
   },
   "ar": {
-    "headline": "لماذا عيون الطيور أكبر من رؤوسها؟",
-    "body": "لو استطعت إخراج عيون البومة من رأسها، لكانت مقل العيون أكبر من دماغها! لا تستطيع البوم تحريك عيونها، ولهذا السبب يتعين عليها إدارة رؤوسها بالكامل حتى 270 درجة لرؤية ما حولها."
+    "headline": "أشباح الأعماق: لماذا تمتلك الحبارات بؤبؤ عين على شكل حرف W؟",
+    "body": "تعيش الحبارات في أعماق البحار ولها بؤبؤ عين على شكل حرف W، على عكس البشر. اكتشف العلماء أن هذا التركيب العين الغريب يسمح للحيوان بالتقاط تباين الضوء والاستقطاب بشكل استثنائي، على الرغم من أنه لا يستطيع إدراك الألوان. هذا يساعدهم على رصد الفرائس والحيوانات المفترسة بشكل مثالي في المياه المظلمة."
   },
   "reel_hook": {
-    "tr": "Bir baykuşun beyninden daha büyük olan tek şeyin ne olduğunu biliyor musunuz?",
-    "en": "Do you know what the only thing bigger than an owl's brain is?",
-    "es": "¿Sabes qué es lo único más grande que el cerebro de un búho?",
-    "ar": "هل تعلم ما هو الشيء الوحيد الأكبر من دماغ البومة؟"
+    "tr": "Denizlerin en akıllı avcılarından birinin gözlerine yakından baktınız mı?",
+    "en": "Have you ever looked closely at the eyes of one of the smartest hunters in the sea?",
+    "es": "¿Alguna vez has mirado de cerca los ojos de uno de los cazadores más inteligentes del mar?",
+    "ar": "هل نظرت عن قرب من قبل إلى عيون أحد أذكى الصيادين في البحر؟"
   },
   "story_question": {
-    "tr": "Baykuşlar gözlerini yuvalarında hangi yöne hareket ettirebilir?",
-    "en": "In which direction can owls move their eyes in their sockets?",
-    "es": "¿En qué dirección pueden los búhos mover sus ojos en sus órbitas?",
-    "ar": "في أي اتجاه تستطيع البوم تحريك عيونها في محاجرها؟"
+    "tr": "Mürekkep balıklarının 'W' şeklindeki göz bebekleri hangi avantajı sağlar?",
+    "en": "What advantage do the 'W'-shaped pupils of cuttlefish provide?",
+    "es": "¿Qué ventaja proporcionan las pupilas en forma de 'W' de las sepias?",
+    "ar": "ما هي الميزة التي توفرها بؤبؤ العين على شكل حرف W في الحبار؟"
   },
   "story_options": [
-    "Sadece sağa ve sola",
-    "Yukarı ve aşağı",
-    "Hiçbir yöne hareket ettiremezler"
+    "Renkleri çok net görürler",
+    "Işık kontrastını mükemmel yakalarlar",
+    "Gözlerini tamamen kapatabilirler"
   ],
   "hashtags": [
     "#FactBite",
-    "#baykuş",
-    "#doğa",
     "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler"
+    "#doğa",
+    "#deniz",
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için takip et!",
-    "en": "Follow for more surprising facts!",
-    "es": "¡Sígueme para más datos sorprendentes!",
-    "ar": "تابعنا للمزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için takipte kal!",
+    "en": "Stay tuned for more fascinating facts like this!",
+    "es": "¡Mantente atento a más datos fascinantes como este!",
+    "ar": "ترقبوا المزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "Marine Biology Research & Smithsonian Ocean",
+    "url": "https://ocean.si.edu"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözleri Neden Başlarından Büyüktür?",
+  "_topic": "Denizlerin Hayaletleri: Mürekkep Balıklarının Gözleri Neden W Şeklindedir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-25T17:42:28.586150+00:00",
+  "generated_at": "2026-08-25T19:30:35.366379+00:00",
   "topic_guard_days": 180
 }

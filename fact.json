@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Atların Ayakta Uyumasını Sağlayan Gizli Kilit",
-    "body": "Atların devasa vücutlarını ayakta taşımak için harika bir mekanizması var. Bacaklarındaki özel tendon ve bağ sistemleri, birer kilit gibi kenetlenerek tek bir kas bile yormadan uyumalarını sağlar. Yani ayakta uyurken aslında kilitlenmiş olurlar."
+    "headline": "Kuşların Gözleri Neden Başlarından Büyüktür?",
+    "body": "Bir baykuşun gözlerini kafasından çıkarsanız, göz yuvaları beyninden daha büyük olurdu! Baykuşlar gözlerini hareket ettiremezler; bu yüzden etrafı görmek için tüm kafalarını 270 derece çevirmek zorunda kalırlar."
   },
   "en": {
-    "headline": "The Hidden Lock That Lets Horses Sleep Standing Up",
-    "body": "Horses have an amazing mechanism to support their massive bodies while standing. Special tendon and ligament systems in their legs lock into place, allowing them to sleep without straining a single muscle. So when they sleep standing up, they are actually locked."
+    "headline": "Why Are Birds' Eyes Bigger Than Their Heads?",
+    "body": "If you could remove an owl's eyes from its head, the eyeballs would be larger than its brain! Owls cannot move their eyes, which is why they have to turn their entire heads up to 270 degrees to see around."
   },
   "es": {
-    "headline": "El cerrojo oculto que permite a los caballos dormir de pie",
-    "body": "Los caballos tienen un mecanismo increíble para sostener sus enormes cuerpos mientras están de pie. Los sistemas especiales de tendones y ligamentos en sus patas se bloquean en su lugar, permitiéndoles dormir sin esforzar un solo músculo. Así que cuando duermen de pie, en realidad están bloqueados."
+    "headline": "¿Por qué los ojos de las aves son más grandes que sus cabezas?",
+    "body": "Si pudieras sacar los ojos de un búho de su cabeza, ¡los globos oculares serían más grandes que su cerebro! Los búhos no pueden mover los ojos, por lo que tienen que girar toda la cabeza hasta 270 grados para ver a su alrededor."
   },
   "ar": {
-    "headline": "القفل الخفي الذي يسمح للخيول بالوقوف أثناء النوم",
-    "body": "تمتلك الخيول آلية مذهلة لدعم أجسامها الضخمة أثناء الوقوف. تقفل أنظمة الأوتار والأربطة الخاصة في أرجلها في مكانها، مما يسمح لها بالنام دون إجهاد أي عضلة واحدة. لذا عندما تنام وهي واقفة، فهي مقفلة بالفعل."
+    "headline": "لماذا عيون الطيور أكبر من رؤوسها؟",
+    "body": "لو استطعت إخراج عيون البومة من رأسها، لكانت مقل العيون أكبر من دماغها! لا تستطيع البوم تحريك عيونها، ولهذا السبب يتعين عليها إدارة رؤوسها بالكامل حتى 270 درجة لرؤية ما حولها."
   },
   "reel_hook": {
-    "tr": "Bir at tonlarca ağırlığıyla nasıl düşmeden ayakta uyuyabilir?",
-    "en": "How can a horse sleep standing up with all its weight without falling?",
-    "es": "¿Cómo puede un caballo dormir de pie con todo su peso sin caerse?",
-    "ar": "كيف يمكن للحصان أن ينام واقفاً بكل وزنه دون أن يسقط؟"
+    "tr": "Bir baykuşun beyninden daha büyük olan tek şeyin ne olduğunu biliyor musunuz?",
+    "en": "Do you know what the only thing bigger than an owl's brain is?",
+    "es": "¿Sabes qué es lo único más grande que el cerebro de un búho?",
+    "ar": "هل تعلم ما هو الشيء الوحيد الأكبر من دماغ البومة؟"
   },
   "story_question": {
-    "tr": "Sizce atlar rüya görürken de bu kilit sistemini kullanmaya devam eder mi?",
-    "en": "Do you think horses continue to use this locking system while dreaming?",
-    "es": "¿Crees que los caballos siguen usando este sistema de bloqueo mientras sueñan?",
-    "ar": "هل تعتقد أن الخيول تستمر في استخدام نظام القفل هذا أثناء الحلم؟"
+    "tr": "Baykuşlar gözlerini yuvalarında hangi yöne hareket ettirebilir?",
+    "en": "In which direction can owls move their eyes in their sockets?",
+    "es": "¿En qué dirección pueden los búhos mover sus ojos en sus órbitas?",
+    "ar": "في أي اتجاه تستطيع البوم تحريك عيونها في محاجرها؟"
   },
   "story_options": [
-    "Evet, kilit hiç açılmaz",
-    "Hayır, yere yatarlar",
-    "Bazen kilit açık kalır"
+    "Sadece sağa ve sola",
+    "Yukarı ve aşağı",
+    "Hiçbir yöne hareket ettiremezler"
   ],
   "hashtags": [
     "#FactBite",
-    "#at",
-    "#bilim",
+    "#baykuş",
     "#doğa",
+    "#bilim",
     "#hayvanlar",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos asombrosos de la naturaleza como este!",
-    "ar": "لا تنس متابعة المزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Benzer şaşırtıcı gerçekler için takip et!",
+    "en": "Follow for more surprising facts!",
+    "es": "¡Sígueme para más datos sorprendentes!",
+    "ar": "تابعنا للمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Equine Anatomy and Physiology",
-    "url": "https://extension.umn.edu/horse-health-and-management/horse-behavior-and-learning"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Atların Ayakta Uyumasını Sağlayan Gizli Kilit",
+  "_topic": "Kuşların Gözleri Neden Başlarından Büyüktür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-25T15:44:24.462615+00:00",
+  "generated_at": "2026-08-25T17:42:28.586150+00:00",
   "topic_guard_days": 180
 }

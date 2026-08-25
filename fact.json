@@ -1,68 +1,70 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Tat Duyusu Hakkında Bilmediğiniz Şey",
-    "body": "Biliyor musunuz, kuşların neredeyse hiç tat alma duyusu yoktur! İnsanlarda on binlerce tat tomurcuğu bulunurken, kuşların çoğunda bu sayı sadece birkaç düzinedir. Bu yüzden ne yediklerinin pek de bir farkında olmazlar; onlar için önemli olan sadece besinin boyutu ve enerjisidir."
+    "headline": "Sincaplar Toprağın Altında Unuttukları Meşe Palamutlarını Nasıl Buluyor?",
+    "body": "Ormanların yeşermesindeki en büyük kahramanlar olan sincaplar, gömdükleri binlerce meşe palamudunun önemli bir kısmını unuturlar. Ancak onları hafızalarıyla değil, çok güçlü koku alma duyularıyla toprağın metrelerce altından bile bulup çıkarabilirler."
   },
   "en": {
-    "headline": "What You Don't Know About Birds' Sense of Taste",
-    "body": "Did you know that birds have almost no sense of taste? While humans have tens of thousands of taste buds, most birds have only a few dozen. That's why they aren't really aware of what they eat; what matters to them is just the size and energy of the food."
+    "headline": "How Do Squirrels Find Acorns They Bury Underground?",
+    "body": "Squirrels, the unsung heroes of forest growth, forget a significant portion of the thousands of acorns they bury. However, they don't find them through memory, but rather through an extraordinary sense of smell that can detect them meters below the ground."
   },
   "es": {
-    "headline": "Lo que no sabes sobre el sentido del gusto de las aves",
-    "body": "¿Sabías que las aves casi no tienen sentido del gusto? Mientras que los humanos tienen decenas de miles de papilas gustativas, la mayoría de las aves solo tienen unas pocas docenas. Por eso no son muy conscientes de lo que comen; para ellas, lo único que importa es el tamaño y la energía del alimento."
+    "headline": "Cómo encuentran las ardillas las bellotas que entierran bajo tierra",
+    "body": "Las ardillas, las grandes heroínas del crecimiento de los bosques, olvidan una gran parte de las miles de bellotas que entierran. Sin embargo, no las encuentran gracias a su memoria, sino a un potente olfato capaz de detectarlas bajo tierra."
   },
   "ar": {
-    "headline": "ما لا تعرفه عن حاسة التذوق لدى الطيور",
-    "body": "هل تعلم أن الطيور ليس لديها حاسة تذوق تقريباً؟ بينما يمتلك البشر عشرات الآلاف من براعم التذوق، فإن معظم الطيور تمتلك بضع عشرات فقط. ولهذا السبب فهي لست على دراية بما تأكله؛ وما يهمها حقاً هو حجم الطعام وطاقته فقط."
+    "headline": "كيف تجد السناجب الجوز الذي تدفنه تحت الأرض؟",
+    "body": "السناجب، الأبطال المجهولون في نمو الغابات، تنسى جزءاً كبير من آلاف حبات الجوز التي تدفنها. ومع ذلك، فهي لا تجدها بذاكرتها بل بحاسة شم قوية جداً تمكنها من رصدها."
   },
   "reel_hook": {
-    "tr": "Yedikleri yemeğin tadını aslında hiç almıyorlar!",
-    "en": "They actually can't taste the food they eat at all!",
-    "es": "¡En realidad no pueden saborear la comida que comen!",
-    "ar": "إنهم في الواقع لا يستطيعون تذوق الطعام الذي يأكلونه على الإطلاق!"
+    "tr": "Milyonlarca ağacın büyümesini sağlayan o unutkan sevimli hırsızları biliyor musunuz?",
+    "tr_alt": "Sincapların gömdükleri fındıkları nasıl bulduğunu biliyor musunuz?",
+    "en": "Do you know how squirrels find what they bury?",
+    "es": "¿Sabes cómo encuentran las ardillas lo que entierran?",
+    "ar": "هل تعلم كيف تجد السناجب ما دفنته؟"
   },
   "story_question": {
-    "tr": "Sizce evcil kuşlar en çok hangi tür yiyecekleri sever?",
-    "en": "What kind of food do you think pet birds like the most?",
-    "es": "¿Qué tipo de comida crees que les gusta más a las aves domesticadas?",
-    "ar": "ما نوع الطعام الذي تعتقد أن الطيور الأليفة تحبه أكثر؟"
+    "tr": "Sincaplar gömdükleri fındık ve palamutların yerini genellikle neye dayanarak bulur?",
+    "en": "What do squirrels mostly rely on to find their buried nuts?",
+    "es": "¿En qué se basan principalmente las ardillas para encontrar sus nueces enterradas?",
+    "ar": "على ماذا تعتمد السناجب أساساً للعثور على المكسرات المدفونة؟"
   },
   "story_options": [
-    "Tatlı meyveler",
-    "Parlak renkli tohumlar",
-    "Protein açısından zengin böcekler"
+    "Görsel hafıza",
+    "Güçlü koku alma duyusu",
+    "Rastgele kazma"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#bilim",
-    "#ilginçbilgiler",
+    "#sincap",
     "#doğa",
-    "#biyoloji"
+    "#bilim",
+    "#orman",
+    "#hayvanlaralemi",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu bildiğin bir arkadaşına gönder!",
-    "en": "Send this to a friend who should know this!",
-    "es": "¡Envíaselo a un amigo que deba saber esto!",
-    "ar": "أرسل هذا إلى صديق يجب أن يعرف هذا!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos de la naturaleza!",
+    "ar": "لا تنس المتابعة للمزيد من أسرار الطبيعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology and Avian Taste Receptor Studies",
-    "url": "https://www.sciencedirect.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Tat Duyusu Hakkında Bilmediğiniz Şey",
+  "_topic": "Sincaplar Toprağın Altında Unuttukları Meşe Palamutlarını Nasıl Buluyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-25T11:49:52.220964+00:00",
+  "generated_at": "2026-08-25T13:48:29.950795+00:00",
   "topic_guard_days": 180
 }

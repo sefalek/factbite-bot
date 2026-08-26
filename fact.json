@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilere Neden Kutu Verirseniz Hemen İçine Girer?",
-    "body": "Kedilerin karton kutulara olan sevgisi sadece bir oyun değil, hayatta kalma içgüdüsüdür. Dar alanlar onlara güvende hissettirir, stresi azaltır ve çevrelerini mükemmel bir şekilde gözlemlemelerini sağlar."
+    "headline": "İncilerin Aslında Nasıl Oluştuğunu Biliyor musunuz?",
+    "body": "Midye ve istiridyeler, kabuklarının içine kaçan parazit ve kum gibi yabancı maddelerden kendilerini korumak için etrafını sedef tabakasıyla kaplar. Yani gördüğümüz o parlak inci, aslında canlıların bir savunma mekanizmasıdır."
   },
   "en": {
-    "headline": "Why Do Cats Immediately Sit in Any Box You Give Them?",
-    "body": "A cat's love for cardboard boxes isn't just a game; it's a survival instinct. Tight spaces make them feel secure, reduce stress, and allow them to observe their surroundings perfectly."
+    "headline": "Do You Know How Pearls Are Actually Formed?",
+    "body": "To protect themselves from foreign particles like parasites and sand entering their shells, clams and oysters coat them with layers of nacre. That shiny pearl we see is actually a defense mechanism."
   },
   "es": {
-    "headline": "¿Por qué los gatos se meten inmediatamente en cualquier caja?",
-    "body": "El amor de los gatos por las cajas de cartón no es solo un juego; es un instinto de supervivencia. Los espacios cerrados los hacen sentir seguros, reducen el estrés y les permiten observar su entorno perfectamente."
+    "headline": "¿Sabes cómo se forman realmente las perlas?",
+    "body": "Para protegerse de partículas extrañas como parásitos y arena que entran en sus conchas, las almejas y ostras las recubren con capas de nácar. Esa perla brillante que vemos es en realidad un mecanismo de defensa."
   },
   "ar": {
-    "headline": "لماذا تدخل القطط فوراً في أي صندوق كرتوني تراه؟",
-    "body": "حب القطط للصناديق الكرتونية ليس مجرد لعبة، بل هو غريزة بقاء. المساحات الضيقة تجعلها تشعر بالأمان، وتقلل من توترها، وتتيح لها مراقبة محيطها بشكل مثالي."
+    "headline": "هل تعرف كيف تشكل اللآلئ حقاً؟",
+    "body": "لحماية نفسها من الجسيمات الغريبة كالطفيليات والرمال التي تدخل أصدافها، تغطي المحار والرخويات هذه الأجسام بطبقات من الصدف. تلك اللؤلؤة اللامعة التي نراها هي في الواقع وسيلة دفاعية."
   },
   "reel_hook": {
-    "tr": "Evdeki en pahalı yatağı alırsınız ama kediniz yine de o karton kutuyu seçer, neden mi?",
-    "en": "You buy the most expensive bed, but your cat still chooses the cardboard box—why?",
-    "es": "Le compras la cama más cara, pero tu gato sigue eligiendo la caja de cartón, ¿por qué?",
-    "ar": "تشتري أغلى سرير، ومع ذلك يختار قطتك صندوق الكرتون البسيط، لماذا؟"
+    "tr": "O parlak inciyi çok güzel sanıyorsunuz ama arkasındaki gerçek tamamen bir savunma taktiği!",
+    "en": "You think that shiny pearl is just pretty, but the truth behind it is pure defense!",
+    "es": "Crees que esa perla brillante es hermosa, ¡pero la verdad detrás de ella es pura defensa!",
+    "ar": "تظن أن تلك اللؤلؤة اللامعة جميلة فقط، لكن الحقيقة وراءها هي وسيلة دفاعية بحتة!"
   },
   "story_question": {
-    "tr": "Sence kedilerin kutu sevgisinin temel sebebi nedir?",
-    "en": "What do you think is the main reason cats love boxes?",
-    "es": "¿Cuál crees que es la razón principal por la que a los gatos les encantan las cajas?",
-    "ar": "برأيك، ما هو السبب الرئيسي لحب القطط للصناديق؟"
+    "tr": "İnciler hangi hayvanlar tarafından üretilir?",
+    "en": "Which animals produce pearls?",
+    "es": "¿Qué animales producen las perlas?",
+    "ar": "ما هي الحيوانات التي تنتج اللآلئ؟"
   },
   "story_options": [
-    "Güvenlik ve Stres Azaltma",
-    "Sadece oyun oynamak istemeleri",
-    "Sıcak tutması"
+    "İstiridye ve Midyeler",
+    "Deniz Salyangozları",
+    "Mercanlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlar",
-    "#kedipsikolojisi",
-    "#keşfet"
+    "#inci",
+    "#doğa",
+    "#bilgi",
+    "#deniz",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Kedisi olan bir arkadaşına gönder, kesin hak verecektir!",
-    "en": "Send this to a cat owner, they will totally agree!",
-    "es": "¡Envíaselo a alguien que tenga gatos, estará totalmente de acuerdo!",
-    "ar": "أرسلها لصديق لديه قطة، سيوافقك الرأي تماماً!"
+    "tr": "Bu tarz şaşırtıcı gerçekler için bizi takip et!",
+    "en": "Follow us for more surprising facts like this!",
+    "es": "¡Síguenos para más datos sorprendentes como este!",
+    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Wired / Utrecht University Study on Shelter Cats",
-    "url": "https://www.wired.com/2014/10/whats-up-with-cats-and-boxes/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilere Neden Kutu Verirseniz Hemen İçine Girer?",
+  "_topic": "İncilerin Aslında Nasıl Oluştuğunu Biliyor musunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-26T13:52:19.804684+00:00",
+  "generated_at": "2026-08-26T16:18:37.467015+00:00",
   "topic_guard_days": 180
 }

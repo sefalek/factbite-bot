@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Bukalemunların Şaşırtıcı Sırrı",
-    "body": "Bukalemunlar renk değiştirirken bunu saklanmak için yaptıklarını sanıyorsanız, yanılıyorsunuz. Onlar aslında duygularını, sıcaklıklarını ve hatta birbirleriyle olan iletişimlerini bu deri değişimleriyle dışa vururlar. Yani bir bukalemun öfkelendiğinde ya da eş aradığında, üzerindeki renk patlaması onun ne hissettiğini ele verir."
+    "headline": "Kedilere Neden Kutu Verirseniz Hemen İçine Girer?",
+    "body": "Kedilerin karton kutulara olan sevgisi sadece bir oyun değil, hayatta kalma içgüdüsüdür. Dar alanlar onlara güvende hissettirir, stresi azaltır ve çevrelerini mükemmel bir şekilde gözlemlemelerini sağlar."
   },
   "en": {
-    "headline": "The Surprising Secret of Chameleons",
-    "body": "If you think chameleons change color just to hide, you are mistaken. They actually express their emotions, body temperature, and social interactions through these rapid skin transformations. When a chameleon gets angry or looks for a mate, a sudden burst of color completely gives away its feelings."
+    "headline": "Why Do Cats Immediately Sit in Any Box You Give Them?",
+    "body": "A cat's love for cardboard boxes isn't just a game; it's a survival instinct. Tight spaces make them feel secure, reduce stress, and allow them to observe their surroundings perfectly."
   },
   "es": {
-    "headline": "El Sorprendente Secreto de los Camaleones",
-    "body": "Si crees que los camaleones cambian de color solo para esconderse, te equivocas. En realidad, expresan sus emociones, temperatura corporal y comunicación a través de estos cambios en la piel. Cuando un camaleón se enoja o busca pareja, un estallido de color delata lo que siente."
+    "headline": "¿Por qué los gatos se meten inmediatamente en cualquier caja?",
+    "body": "El amor de los gatos por las cajas de cartón no es solo un juego; es un instinto de supervivencia. Los espacios cerrados los hacen sentir seguros, reducen el estrés y les permiten observar su entorno perfectamente."
   },
   "ar": {
-    "headline": "السر المدهش للحرباء",
-    "body": "إذا كنت تعتقد أن الحرباء تغير لونها فقط للاختباء، فأنت مخطئ. فهي تعبر في الواقع عن مشاعرها، درجات حرارة أجسادها، وتواصلها من خلال تغيرات الجلد هذه. عندما تغضب الحرباء أو تبحث عن شريك، فإن تدفقاً مفاجئاً للألوان يكشف عما تشعر به تماماً."
+    "headline": "لماذا تدخل القطط فوراً في أي صندوق كرتوني تراه؟",
+    "body": "حب القطط للصناديق الكرتونية ليس مجرد لعبة، بل هو غريزة بقاء. المساحات الضيقة تجعلها تشعر بالأمان، وتقلل من توترها، وتتيح لها مراقبة محيطها بشكل مثالي."
   },
   "reel_hook": {
-    "tr": "Bukalemunlar neden renk değiştirir? Cevap bildiğiniz gibi değil...",
-    "en": "Why do chameleons change color? The answer is not what you think...",
-    "es": "¿Por qué los camaleones cambian de color? La respuesta no es la que crees...",
-    "ar": "لماذا تغير الحرباء لونها؟ الإجابة ليست كما تعتقد..."
+    "tr": "Evdeki en pahalı yatağı alırsınız ama kediniz yine de o karton kutuyu seçer, neden mi?",
+    "en": "You buy the most expensive bed, but your cat still chooses the cardboard box—why?",
+    "es": "Le compras la cama más cara, pero tu gato sigue eligiendo la caja de cartón, ¿por qué?",
+    "ar": "تشتري أغلى سرير، ومع ذلك يختار قطتك صندوق الكرتون البسيط، لماذا؟"
   },
   "story_question": {
-    "tr": "Bukalemunların renk değiştirmesinin asıl ana sebebi nedir?",
-    "en": "What is the primary reason chameleons change color?",
-    "es": "¿Cuál es la razón principal por la que los camaleones cambian de color?",
-    "ar": "ما هو السبب الرئيسي لتغيير الحرباء لجلودها؟"
+    "tr": "Sence kedilerin kutu sevgisinin temel sebebi nedir?",
+    "en": "What do you think is the main reason cats love boxes?",
+    "es": "¿Cuál crees que es la razón principal por la que a los gatos les encantan las cajas?",
+    "ar": "برأيك، ما هو السبب الرئيسي لحب القطط للصناديق؟"
   },
   "story_options": [
-    "Sadece kamufle olmak",
-    "Duygu ve iletişim",
-    "Güneşten korunmak"
+    "Güvenlik ve Stres Azaltma",
+    "Sadece oyun oynamak istemeleri",
+    "Sıcak tutması"
   ],
   "hashtags": [
     "#FactBite",
-    "#bukalemun",
-    "#doğa",
+    "#kedi",
     "#bilim",
-    "#hayvanlar",
     "#ilginçbilgiler",
+    "#hayvanlar",
+    "#kedipsikolojisi",
     "#keşfet"
   ],
   "cta": {
-    "tr": "En şaşırtıcı doğa sırlarını kaçırmamak için takip et!",
-    "en": "Follow so you don't miss the most surprising secrets of nature!",
-    "es": "¡Síguete para no perderte los secretos más sorprendentes de la naturaleza!",
-    "ar": "تابعنا لكي لا تفوتك أكثر أسرار الطبيعة إثارة للدهشة!"
+    "tr": "Kedisi olan bir arkadaşına gönder, kesin hak verecektir!",
+    "en": "Send this to a cat owner, they will totally agree!",
+    "es": "¡Envíaselo a alguien que tenga gatos, estará totalmente de acuerdo!",
+    "ar": "أرسلها لصديق لديه قطة، سيوافقك الرأي تماماً!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "surprise": 8,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Wired / Utrecht University Study on Shelter Cats",
+    "url": "https://www.wired.com/2014/10/whats-up-with-cats-and-boxes/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Bukalemunların Şaşırtıcı Sırrı",
+  "_topic": "Kedilere Neden Kutu Verirseniz Hemen İçine Girer?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-26T11:53:01.086937+00:00",
+  "generated_at": "2026-08-26T13:52:19.804684+00:00",
   "topic_guard_days": 180
 }

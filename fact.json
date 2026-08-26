@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritin Asıl İcadı ve Zaman Çizgisi",
-    "body": "Bugün hayatımızın bir parçası olan sürtünmeli kibritler, aslında çakmaktan çok daha sonra icat edilmiştir. İlk pratik kibritler ateşten ziyade kükürt ve potasyum klorat karışımıyla çalışıyordu ve yakmak için oldukça sert bir yüzeye sürtülmeleri gerekiyordu."
+    "headline": "Kuşların Tat Alma Sırrı",
+    "body": "Evdeki tüylü dostlarımız kuşların, yiyeceklerin tadını bizim gibi aldığını mı sanıyorsunuz? Aslında papağanlar ve diğer birçok kuş türünün damaklarında tat tomurcukları neredeyse hiç yoktur. Bunun yerine tat alma hücreleri dillerinin ucunda değil, gagalarının iç kısmında ve hatta boğazlarının derinliklerindedir. Yani onlar için yemek yemek, bizim için olduğundan çok farklı bir dokunma ve mekanik deneyimdir."
   },
   "en": {
-    "headline": "The True Invention of the Match",
-    "body": "Friction matches, a part of our daily lives today, were actually invented much later than you might think. Early practical matches relied on a mixture of sulfur and potassium chlorate, requiring a very rough surface to ignite."
+    "headline": "The Secret of Birds' Sense of Taste",
+    "body": "Do you think our feathered friends taste food just like we do? Actually, parrots and many other bird species have almost no taste buds on their palates. Instead, their taste cells are located not at the tip of their tongues, but inside their beaks and even deep in their throats. So for them, eating is a very different tactile and mechanical experience compared to us."
   },
   "es": {
-    "headline": "La verdadera invención de la cerilla",
-    "body": "Las cerillas de fricción, parte de nuestra vida diaria hoy en día, se inventaron en realidad mucho más tarde de lo que se piensa. Las primeras cerillas prácticas dependían de una mezcla de azufre y clorato de potasio."
+    "headline": "El secreto del sentido del gusto de las aves",
+    "body": "¿Crees que nuestros amigos emplumados saborean la comida igual que nosotros? En realidad, los loros y muchas otras especies de aves casi no tienen papilas gustativas en el paladar. En su lugar, sus células gustativas no están en la punta de la lengua, sino dentro del pico e incluso en lo profundo de la garganta. Así que para ellos, comer es una experiencia táctil y mecánica muy diferente a la nuestra."
   },
   "ar": {
-    "headline": "الاختراع الحقيقي لعود الثقاب",
-    "body": "أعواد الكبريت الاحتكاكية، وهي جزء من حياتنا اليومية اليوم، تم اختراعها في الواقع متأخرًا جدًا عما تعتقد. كانت أعواد الكبريت العملية المبكرة تعتمد على مزيج من الكبريت وكلورات البوتاسيوم."
+    "headline": "سر حاسة التذوق لدى الطيور",
+    "body": "هل تعتقد أن أصدقاءنا الريشيين يتذوقون الطعام تماماً مثلنا؟ في الواقع، لا تمتلك الببغاوات والعديد من أنواع الطيور الأخرى براعم تذوق تقريباً في سقف الحلق. بدلاً من ذلك، تقع خلايا التذوق لديهم ليس في ألسنتهم، بل داخل مناقيرهم وحتى في أعماق حلوقهم. لذا بالنسبة لهم، يعد الأكل تجربة لمسية وميكانيكية مختلفة تماماً عن تجربتنا."
   },
   "reel_hook": {
-    "tr": "Çakmaklar kibritlerden daha mı eski sanıyorsun?",
-    "en": "Do you think lighters are older than matches?",
-    "es": "¿Crees que los encendedores son más antiguos que las cerillas?",
-    "ar": "هل تعتقد أن الولاعات أقدم من أعواد الكبريت؟"
+    "tr": "Kuşlar yemeğin tadını diliyle değil, nereden alıyor?",
+    "en": "Where do birds taste their food if not with their tongues?",
+    "es": "¿Dónde saborean las aves su comida si no es con la lengua?",
+    "ar": "أين تذوق الطيور طعامها إن لم يكن بألسنتها؟"
   },
   "story_question": {
-    "tr": "Sürtünmeli kibrit hangi yüzyılda icat edilmiştir?",
-    "en": "In which century was the friction match invented?",
-    "es": "¿En qué siglo se inventó la cerilla de fricción?",
-    "ar": "في أي قرن تم اختراع عود الكبريت الاحتكاكي؟"
+    "tr": "Sence kuşlar yiyeceklerin tuzlu veya tatlı olduğunu nasıl hisseder?",
+    "en": "How do you think birds sense if food is salty or sweet?",
+    "es": "¿Cómo crees que las aves sienten si la comida es salada o dulce?",
+    "ar": "كيف تعتقد أن الطيور تشعر بما إذا كان الطعام مالكاً أو حلواً؟"
   },
   "story_options": [
-    "17. Yüzyıl",
-    "19. Yüzyıl",
-    "20. Yüzyıl"
+    "Gagalarındaki özel dokunma reseptörleriyle",
+    "Sadece koku duyularını kullanarak",
+    "Midelerindeki asit seviyesiyle"
   ],
   "hashtags": [
     "#FactBite",
-    "#tarih",
-    "#bilim",
-    "#keşfet",
+    "#bilgi",
+    "#kuşlar",
+    "#doğa",
     "#ilginçbilgiler",
-    "#teknoloji"
+    "#bilim",
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu bildiğini muhtemelen unutmazsın, arkadaşına gönder!",
+    "en": "You probably won't forget this, send it to a friend!",
+    "es": "Probablemente no olvides esto, ¡envíaselo a un amigo!",
+    "ar": "لن تنسى هذا على الأرجح، أرسله إلى صديق!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.5
+    "overall": 9
   },
   "source": {
-    "name": "History of Matches - Britannica",
-    "url": "https://www.britannica.com/technology/match-fire-making-device"
+    "name": "Ornithology and Avian Biology Studies",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-taste"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritin Asıl İcadı ve Zaman Çizgisi",
+  "_topic": "Kuşların Tat Alma Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-26T19:13:11.978955+00:00",
+  "generated_at": "2026-08-26T21:39:59.390985+00:00",
   "topic_guard_days": 180
 }

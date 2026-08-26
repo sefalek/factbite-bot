@@ -1,58 +1,58 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Su Ayılarına Hiçbir Şey Olmuyor",
-    "body": "Dünyanın en dayanıklı canlısı olarak bilinen su ayıları, yani tardigradlar; uzayın boşluğuna, aşırı sıcaklara ve radyasyona meydan okuyabiliyor. Sırrı ise susuz kaldıklarında vücutlarındaki tüm suyu çekip metabolizmalarını neredeyse tamamen durdurarak 'anabihoz' adı verilen kusursuz bir uyku moduna geçmeleri."
+    "headline": "Bukalemunların Şaşırtıcı Sırrı",
+    "body": "Bukalemunlar renk değiştirirken bunu saklanmak için yaptıklarını sanıyorsanız, yanılıyorsunuz. Onlar aslında duygularını, sıcaklıklarını ve hatta birbirleriyle olan iletişimlerini bu deri değişimleriyle dışa vururlar. Yani bir bukalemun öfkelendiğinde ya da eş aradığında, üzerindeki renk patlaması onun ne hissettiğini ele verir."
   },
   "en": {
-    "headline": "Tardigrades Can Survive Anything",
-    "body": "Known as the most resilient creature on Earth, tardigrades can withstand the vacuum of space, extreme heat, and radiation. Their secret is entering a state called 'cryptobiosis' by expelling almost all water from their bodies and halting their metabolism completely."
+    "headline": "The Surprising Secret of Chameleons",
+    "body": "If you think chameleons change color just to hide, you are mistaken. They actually express their emotions, body temperature, and social interactions through these rapid skin transformations. When a chameleon gets angry or looks for a mate, a sudden burst of color completely gives away its feelings."
   },
   "es": {
-    "headline": "Los Tardígrados Sobreviven a Todo",
-    "body": "Conocidos como los animales más resistentes de la Tierra, los tardígrados pueden soportar el vacío del espacio, el calor extremo y la radiación. Su secreto es entrar en un estado llamado 'criptobiosis' expulsando casi toda el agua de sus cuerpos."
+    "headline": "El Sorprendente Secreto de los Camaleones",
+    "body": "Si crees que los camaleones cambian de color solo para esconderse, te equivocas. En realidad, expresan sus emociones, temperatura corporal y comunicación a través de estos cambios en la piel. Cuando un camaleón se enoja o busca pareja, un estallido de color delata lo que siente."
   },
   "ar": {
-    "headline": "بطيء المთي لا يُقهر",
-    "body": "تعتبر بطيئات المشی الكائنات الأكثر مرونة على الأرض، حيث يمكنها تحمل فراغ الفضاء والحرارة الشديدة والإشعاع. سرها يكمن في دخول حالة تسمى 'الشفاء التام' عن طريق إخراج الماء."
+    "headline": "السر المدهش للحرباء",
+    "body": "إذا كنت تعتقد أن الحرباء تغير لونها فقط للاختباء، فأنت مخطئ. فهي تعبر في الواقع عن مشاعرها، درجات حرارة أجسادها، وتواصلها من خلال تغيرات الجلد هذه. عندما تغضب الحرباء أو تبحث عن شريك، فإن تدفقاً مفاجئاً للألوان يكشف عما تشعر به تماماً."
   },
   "reel_hook": {
-    "tr": "Uzayın boşluğunda bile hayatta kalabilen bu minik canlıyı daha önce duydunuz mu?",
-    "en": "Have you ever heard of this tiny creature that can survive even in the vacuum of space?",
-    "es": "¿Has oído hablar de esta diminuta criatura que puede sobrevivir incluso en el vacío del espacio?",
-    "ar": "هل سمعت من قبل عن هذا المخلوق الصغير الذي يمكنه البقاء على قيد الحياة في فراغ الفضاء؟"
+    "tr": "Bukalemunlar neden renk değiştirir? Cevap bildiğiniz gibi değil...",
+    "en": "Why do chameleons change color? The answer is not what you think...",
+    "es": "¿Por qué los camaleones cambian de color? La respuesta no es la que crees...",
+    "ar": "لماذا تغير الحرباء لونها؟ الإجابة ليست كما تعتقد..."
   },
   "story_question": {
-    "tr": "Su ayıları ekstrem koşullardan kurtulmak için ne yapar?",
-    "en": "What do tardigrades do to survive extreme conditions?",
-    "es": "¿Qué hacen los tardígrados para sobrevivir a condiciones extremas?",
-    "ar": "ماذا تفعل بطيئات المشی للبقاء على قيد الحياة في الظروف القاسية؟"
+    "tr": "Bukalemunların renk değiştirmesinin asıl ana sebebi nedir?",
+    "en": "What is the primary reason chameleons change color?",
+    "es": "¿Cuál es la razón principal por la que los camaleones cambian de color?",
+    "ar": "ما هو السبب الرئيسي لتغيير الحرباء لجلودها؟"
   },
   "story_options": [
-    "Vücutlarındaki suyu dondururlar",
-    "Metabolizmalarını durdurup uykuya geçerler",
-    "Yerin metrelerce altına kazarlar"
+    "Sadece kamufle olmak",
+    "Duygu ve iletişim",
+    "Güneşten korunmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#SuAyısı",
-    "#Tardigrade",
-    "#Bilim",
-    "#Doğa",
-    "#Uzay",
-    "#İlginçBilgiler"
+    "#bukalemun",
+    "#doğa",
+    "#bilim",
+    "#hayvanlar",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos increíbles como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "En şaşırtıcı doğa sırlarını kaçırmamak için takip et!",
+    "en": "Follow so you don't miss the most surprising secrets of nature!",
+    "es": "¡Síguete para no perderte los secretos más sorprendentes de la naturaleza!",
+    "ar": "تابعنا لكي لا تفوتك أكثر أسرار الطبيعة إثارة للدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
@@ -61,9 +61,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Su Ayılarına Hiçbir Şey Olmuyor",
+  "_topic": "Bukalemunların Şaşırtıcı Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-26T09:04:46.740366+00:00",
+  "generated_at": "2026-08-26T11:53:01.086937+00:00",
   "topic_guard_days": 180
 }

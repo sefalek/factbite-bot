@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Deniz Kestanelerinin Gizli Feneri",
-    "body": "Yunan filozof Aristoteles, milattan önce beşinci yüzyılda deniz kestanelerinin ağız yapısını incelemiş ve bunu beş parçalı fenerlere benzetmiştir. Günümüzde bile modern denizaltı kameraları, engebeli yüzeyleri rahatça kavrayabilmek ve temizleyebilmek için bu eşsiz mekanizmadan ilham alınarak tasarlanmaktadır."
+    "headline": "Kuşların Gözleri Neden Sabittir?",
+    "body": "Baykuşların kafalarını neredeyse tamamen çevirebildiğini biliyoruz. Peki neden? Çünkü göz yuvaları kafatasına tamamen kilitlenmiştir; yani gözlerini bir taraftan diğerine hareket ettiremezler. Etrafı görebilmek için bütün kafalarını hareket ettirmek zorundadırlar."
   },
   "en": {
-    "headline": "The Hidden Lantern of Sea Urchins",
-    "body": "In the fifth century BCE, Greek philosopher Aristotle studied the mouth structure of sea urchins and compared it to a five-part lantern. Even today, modern submersible cameras are designed inspired by this unique mechanism to easily grip and clean uneven surfaces."
+    "headline": "Why Are Birds' Eyes Fixed?",
+    "body": "We know owls can rotate their heads almost all the way around. But why? Because their eyeballs are completely locked into their skulls, meaning they cannot move their eyes from side to side. To look around, they have to move their entire heads."
   },
   "es": {
-    "headline": "La linterna oculta de los erizos de mar",
-    "body": "En el siglo V a. C., el filósofo griego Aristóteles estudió la estructura bucal de los erizos de mar y la comparó con una linterna de cinco partes. Aún hoy, las cámaras submarinas modernas se diseñan inspiradas en este mecanismo único para agarrar y limpiar fácilmente superficies irregulares."
+    "headline": "¿Por qué los ojos de las aves son fijos?",
+    "body": "Sabemos que los búhos pueden girar la cabeza casi por completo. ¿Pero por qué? Porque sus globos oculares están completamente bloqueados en sus cráneos, lo que significa que no pueden mover los ojos de un lado a otro. Para mirar alrededor, deben mover toda la cabeza."
   },
   "ar": {
-    "headline": "فانوس قنافذ البحر الخفي",
-    "body": "في القرن الخامس Before الميلاد، درس الفيلسوف اليوناني أرسطو بنية فم قنافذ البحر وشبهها بفانوس مكون من خمسة أجزاء. وحتى اليوم، يتم تصميم كاميرات الغواصات الحديثة مستوحاة من هذه الآلية الفريدة للإمساك بالسطوح غير المستوية وتنشيفها بسهولة."
+    "headline": "لماذا عيون الطيور ثابتة؟",
+    "body": "نعلم أن البومة يمكنها إدارة رأسها بالكامل تقريبًا. ولكن لماذا؟ لأن مقل عيونها مثبتة تمامًا في جمجمتها، مما يعني أنها لا تستطيع تحريك عيونها من جانب إلى آخر. لكي تنظر حولها، يجب عليها تحريك رؤوسها بالكامل."
   },
   "reel_hook": {
-    "tr": "Deniz kestanelerinin ağzında binlerce yıldır çalışan gizli bir fener olduğunu biliyor muydunuz?",
-    "en": "Did you know there is a hidden lantern working in the mouths of sea urchins for thousands of years?",
-    "es": "¿Sabías que hay una linterna oculta trabajando en la boca de los erizos de mar durante miles de años?",
-    "ar": "هل كنت تعلم أن هناك فانوساً خفياً يعمل في فم قنافذ البحر منذ آلاف السنين؟"
+    "tr": "Gözlerini asla hareket ettiremeyen bir hayvan biliyor musunuz?",
+    "en": "Do you know an animal that can never move its eyes?",
+    "es": "¿Conoces un animal que nunca puede mover sus ojos?",
+    "ar": "هل تعرف حيوانًا لا يستطيع تحريك عينيه أبداً؟"
   },
   "story_question": {
-    "tr": "Deniz kestanelerinin bu özel ağız yapısı kime ilham olmuştur?",
-    "en": "Whom did this special mouth structure of sea urchins inspire?",
-    "es": "¿A quién inspiró esta estructura bucal especial de los erizos de mar?",
-    "ar": "من الذي ألهمته بنية الفم الخاصة هذه لقنافذ البحر؟"
+    "tr": "Baykuşlar kafalarını en fazla kaç derece çevirebilir?",
+    "en": "How many degrees can owls rotate their heads at most?",
+    "es": "¿Cuántos grados pueden girar los búhos su cabeza como máximo?",
+    "ar": "ما هي أقصى درجة يمكن للبومة أن تدير رأسها إليها؟"
   },
   "story_options": [
-    "Aristoteles",
-    "Leonardo da Vinci",
-    "Arşimet"
+    "180 derece",
+    "270 derece",
+    "360 derece"
   ],
   "hashtags": [
     "#FactBite",
-    "#denizkestanesi",
     "#bilim",
-    "#ilginçbilgiler",
     "#doğa",
-    "#aristoteles",
-    "#teknnoloji"
+    "#kuşlar",
+    "#baykuş",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı bilim gerçeği için takip et!",
-    "en": "Follow for more surprising science facts!",
-    "es": "¡Síguenos para más datos científicos sorprendentes!",
-    "ar": "تابعنا للمزيد من الحقائق العلمية المدهشة!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 9,
-    "overall": 9.0
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Aristotle, History of Animals",
-    "url": "https://plato.stanford.edu/entries/aristotle-biology/"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Deniz Kestanelerinin Gizli Feneri",
+  "_topic": "Kuşların Gözleri Neden Sabittir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-26T05:50:20.667794+00:00",
+  "generated_at": "2026-08-26T07:07:24.958759+00:00",
   "topic_guard_days": 180
 }

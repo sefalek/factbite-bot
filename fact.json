@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İncilerin Aslında Nasıl Oluştuğunu Biliyor musunuz?",
-    "body": "Midye ve istiridyeler, kabuklarının içine kaçan parazit ve kum gibi yabancı maddelerden kendilerini korumak için etrafını sedef tabakasıyla kaplar. Yani gördüğümüz o parlak inci, aslında canlıların bir savunma mekanizmasıdır."
+    "headline": "Kibritin Asıl İcadı ve Zaman Çizgisi",
+    "body": "Bugün hayatımızın bir parçası olan sürtünmeli kibritler, aslında çakmaktan çok daha sonra icat edilmiştir. İlk pratik kibritler ateşten ziyade kükürt ve potasyum klorat karışımıyla çalışıyordu ve yakmak için oldukça sert bir yüzeye sürtülmeleri gerekiyordu."
   },
   "en": {
-    "headline": "Do You Know How Pearls Are Actually Formed?",
-    "body": "To protect themselves from foreign particles like parasites and sand entering their shells, clams and oysters coat them with layers of nacre. That shiny pearl we see is actually a defense mechanism."
+    "headline": "The True Invention of the Match",
+    "body": "Friction matches, a part of our daily lives today, were actually invented much later than you might think. Early practical matches relied on a mixture of sulfur and potassium chlorate, requiring a very rough surface to ignite."
   },
   "es": {
-    "headline": "¿Sabes cómo se forman realmente las perlas?",
-    "body": "Para protegerse de partículas extrañas como parásitos y arena que entran en sus conchas, las almejas y ostras las recubren con capas de nácar. Esa perla brillante que vemos es en realidad un mecanismo de defensa."
+    "headline": "La verdadera invención de la cerilla",
+    "body": "Las cerillas de fricción, parte de nuestra vida diaria hoy en día, se inventaron en realidad mucho más tarde de lo que se piensa. Las primeras cerillas prácticas dependían de una mezcla de azufre y clorato de potasio."
   },
   "ar": {
-    "headline": "هل تعرف كيف تشكل اللآلئ حقاً؟",
-    "body": "لحماية نفسها من الجسيمات الغريبة كالطفيليات والرمال التي تدخل أصدافها، تغطي المحار والرخويات هذه الأجسام بطبقات من الصدف. تلك اللؤلؤة اللامعة التي نراها هي في الواقع وسيلة دفاعية."
+    "headline": "الاختراع الحقيقي لعود الثقاب",
+    "body": "أعواد الكبريت الاحتكاكية، وهي جزء من حياتنا اليومية اليوم، تم اختراعها في الواقع متأخرًا جدًا عما تعتقد. كانت أعواد الكبريت العملية المبكرة تعتمد على مزيج من الكبريت وكلورات البوتاسيوم."
   },
   "reel_hook": {
-    "tr": "O parlak inciyi çok güzel sanıyorsunuz ama arkasındaki gerçek tamamen bir savunma taktiği!",
-    "en": "You think that shiny pearl is just pretty, but the truth behind it is pure defense!",
-    "es": "Crees que esa perla brillante es hermosa, ¡pero la verdad detrás de ella es pura defensa!",
-    "ar": "تظن أن تلك اللؤلؤة اللامعة جميلة فقط، لكن الحقيقة وراءها هي وسيلة دفاعية بحتة!"
+    "tr": "Çakmaklar kibritlerden daha mı eski sanıyorsun?",
+    "en": "Do you think lighters are older than matches?",
+    "es": "¿Crees que los encendedores son más antiguos que las cerillas?",
+    "ar": "هل تعتقد أن الولاعات أقدم من أعواد الكبريت؟"
   },
   "story_question": {
-    "tr": "İnciler hangi hayvanlar tarafından üretilir?",
-    "en": "Which animals produce pearls?",
-    "es": "¿Qué animales producen las perlas?",
-    "ar": "ما هي الحيوانات التي تنتج اللآلئ؟"
+    "tr": "Sürtünmeli kibrit hangi yüzyılda icat edilmiştir?",
+    "en": "In which century was the friction match invented?",
+    "es": "¿En qué siglo se inventó la cerilla de fricción?",
+    "ar": "في أي قرن تم اختراع عود الكبريت الاحتكاكي؟"
   },
   "story_options": [
-    "İstiridye ve Midyeler",
-    "Deniz Salyangozları",
-    "Mercanlar"
+    "17. Yüzyıl",
+    "19. Yüzyıl",
+    "20. Yüzyıl"
   ],
   "hashtags": [
     "#FactBite",
-    "#inci",
-    "#doğa",
-    "#bilgi",
-    "#deniz",
-    "#ilginçbilgiler"
+    "#tarih",
+    "#bilim",
+    "#keşfet",
+    "#ilginçbilgiler",
+    "#teknoloji"
   ],
   "cta": {
-    "tr": "Bu tarz şaşırtıcı gerçekler için bizi takip et!",
-    "en": "Follow us for more surprising facts like this!",
-    "es": "¡Síguenos para más datos sorprendentes como este!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla bilgi için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "surprise": 8,
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.5
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "History of Matches - Britannica",
+    "url": "https://www.britannica.com/technology/match-fire-making-device"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İncilerin Aslında Nasıl Oluştuğunu Biliyor musunuz?",
+  "_topic": "Kibritin Asıl İcadı ve Zaman Çizgisi",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-26T16:18:37.467015+00:00",
+  "generated_at": "2026-08-26T19:13:11.978955+00:00",
   "topic_guard_days": 180
 }

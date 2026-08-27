@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Tat Alma Sırrı",
-    "body": "Evdeki tüylü dostlarımız kuşların, yiyeceklerin tadını bizim gibi aldığını mı sanıyorsunuz? Aslında papağanlar ve diğer birçok kuş türünün damaklarında tat tomurcukları neredeyse hiç yoktur. Bunun yerine tat alma hücreleri dillerinin ucunda değil, gagalarının iç kısmında ve hatta boğazlarının derinliklerindedir. Yani onlar için yemek yemek, bizim için olduğundan çok farklı bir dokunma ve mekanik deneyimdir."
+    "headline": "Balıkların da Koklama Duyusu Var",
+    "body": "Denizlerin altında yaşayan bazı balıklar, aslında suyu tıpkı karadaki memeliler gibi 'koklayabilir'. Özellikle köpekbalıkları ve yılan balıkları, kilometrelerce ötedeki tek bir damla kanı veya avın kokusunu suya giren burun delikleri sayesinde kusursuz bir şekilde takip edebilir."
   },
   "en": {
-    "headline": "The Secret of Birds' Sense of Taste",
-    "body": "Do you think our feathered friends taste food just like we do? Actually, parrots and many other bird species have almost no taste buds on their palates. Instead, their taste cells are located not at the tip of their tongues, but inside their beaks and even deep in their throats. So for them, eating is a very different tactile and mechanical experience compared to us."
+    "headline": "Fish Also Have a Sense of Smell",
+    "body": "Some fish living under the sea can actually 'smell' water much like land mammals. Especially sharks and eels can flawlessly track a single drop of blood or the scent of prey miles away thanks to their nostrils."
   },
   "es": {
-    "headline": "El secreto del sentido del gusto de las aves",
-    "body": "¿Crees que nuestros amigos emplumados saborean la comida igual que nosotros? En realidad, los loros y muchas otras especies de aves casi no tienen papilas gustativas en el paladar. En su lugar, sus células gustativas no están en la punta de la lengua, sino dentro del pico e incluso en lo profundo de la garganta. Así que para ellos, comer es una experiencia táctil y mecánica muy diferente a la nuestra."
+    "headline": "Los peces también tienen sentido del olfato",
+    "body": "Algunos peces que viven bajo el agua pueden realmente 'oler' el agua casi como los mamíferos terrestres. Especialmente los tiburones y las anguilas pueden rastrear perfectamente una sola gota de sangre o el aroma de una presa a kilómetros de distancia gracias a sus fosas nasales."
   },
   "ar": {
-    "headline": "سر حاسة التذوق لدى الطيور",
-    "body": "هل تعتقد أن أصدقاءنا الريشيين يتذوقون الطعام تماماً مثلنا؟ في الواقع، لا تمتلك الببغاوات والعديد من أنواع الطيور الأخرى براعم تذوق تقريباً في سقف الحلق. بدلاً من ذلك، تقع خلايا التذوق لديهم ليس في ألسنتهم، بل داخل مناقيرهم وحتى في أعماق حلوقهم. لذا بالنسبة لهم، يعد الأكل تجربة لمسية وميكانيكية مختلفة تماماً عن تجربتنا."
+    "headline": "الأسماك لديها حاسة شم أيضاً",
+    "body": "بعض الأسماك التي تعيش تحت البحر يمكنها في الواقع \"شم\" الماء تماماً مثل الثدييات البرية. خاصة سمك القرش والثعابين المائية يمكنها تتبع قطرة دم واحدة أو رائحة الفريسة على مسافة أميال بفضل فتحات أنفها."
   },
   "reel_hook": {
-    "tr": "Kuşlar yemeğin tadını diliyle değil, nereden alıyor?",
-    "en": "Where do birds taste their food if not with their tongues?",
-    "es": "¿Dónde saborean las aves su comida si no es con la lengua?",
-    "ar": "أين تذوق الطيور طعامها إن لم يكن بألسنتها؟"
+    "tr": "Su altında nefes alamıyorlar ama kokuyu kusursuz alıyorlar!",
+    "en": "They can't breathe underwater, but they smell perfectly!",
+    "es": "¡No pueden respirar bajo el agua, pero huelen perfectamente!",
+    "ar": "لا يمكنهم التنفس تحت الماء، لكنهم يشمون بشكل مثالي!"
   },
   "story_question": {
-    "tr": "Sence kuşlar yiyeceklerin tuzlu veya tatlı olduğunu nasıl hisseder?",
-    "en": "How do you think birds sense if food is salty or sweet?",
-    "es": "¿Cómo crees que las aves sienten si la comida es salada o dulce?",
-    "ar": "كيف تعتقد أن الطيور تشعر بما إذا كان الطعام مالكاً أو حلواً؟"
+    "tr": "Sizce hangi balık türü en keskin koku alma duyusuna sahiptir?",
+    "en": "Which fish species do you think has the sharpest sense of smell?",
+    "es": "¿Qué especie de pez crees que tiene el sentido del olfato más agudo?",
+    "ar": "ما هي برأيك نوع الأسماك التي تمتلك أقوى حاسة شم؟"
   },
   "story_options": [
-    "Gagalarındaki özel dokunma reseptörleriyle",
-    "Sadece koku duyularını kullanarak",
-    "Midelerindeki asit seviyesiyle"
+    "Köpekbalığı",
+    "Yılan Balığı",
+    "Somon Balığı"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#kuşlar",
-    "#doğa",
-    "#ilginçbilgiler",
     "#bilim",
-    "#hayvanlar"
+    "#doğa",
+    "#deniz",
+    "#balıklar",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu bildiğini muhtemelen unutmazsın, arkadaşına gönder!",
-    "en": "You probably won't forget this, send it to a friend!",
-    "es": "Probablemente no olvides esto, ¡envíaselo a un amigo!",
-    "ar": "لن تنسى هذا على الأرجح، أرسله إلى صديق!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.5
   },
   "source": {
-    "name": "Ornithology and Avian Biology Studies",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-taste"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Tat Alma Sırrı",
+  "_topic": "Balıkların da Koklama Duyusu Var",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-26T21:39:59.390985+00:00",
+  "generated_at": "2026-08-27T00:04:39.466377+00:00",
   "topic_guard_days": 180
 }

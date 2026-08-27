@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Tat Duyusu Hakkında Şaşırtıcı Gerçek",
-    "body": "İnsanların dillerinde binlerce tat tomurcuğu varken, kuşların neredeyse hiç tat alma duyusu yoktur. Örneğin tavukların sadece birkaç yüz tat tomurcuğu bulunur ve bu yüzden yedikleri şeylerin lezzetini neredeyse hiç alamazlar; onlar için önemli olan sadece besinlerin dokusu ve boyuttur."
+    "headline": "Kuşların Şarkıları Aslında Harita Gibidir",
+    "body": "Göçmen kuşların çıkardığı o güzel sesler sadece birer nağme değil. Genç kuşlar, bu sesleri ve yankılarını kullanarak uçuş rotalarındaki dağları ve vadileri birer akustik harita gibi zihinlerine kazırlar."
   },
   "en": {
-    "headline": "The Surprising Truth About Birds' Sense of Taste",
-    "body": "While humans have thousands of taste buds, birds have almost no sense of taste. For example, chickens have only a few hundred taste buds, meaning they barely taste what they eat; for them, texture and size are what matter most."
+    "headline": "Bird Songs Are Actually Acoustic Maps",
+    "body": "The beautiful sounds made by migratory birds are not just melodies. Young birds use these sounds and their echoes to mentally map mountains and valleys along their flight routes."
   },
   "es": {
-    "headline": "La sorprendente verdad sobre el sentido del gusto de las aves",
-    "body": "Mientras que los humanos tienen miles de papilas gustativas, las aves casi no tienen sentido del gusto. Por ejemplo, los pollos tienen solo unos cientos de papilas gustativas, lo que significa que apenas sienten el sabor de lo que comen."
+    "headline": "El Canto de las Aves es un Mapa Acústico",
+    "body": "Los hermosos sonidos que hacen las aves migratorias no son solo melodías. Las aves jóvenes usan estos sonidos y sus eco para mapear mentalmente montañas y valles en sus rutas de vuelo."
   },
   "ar": {
-    "headline": "الحقيقة المذهلة حول حاسة التذوق لدى الطيور",
-    "body": "بينما يمتلك البشر آلاف براعم التذوق، لا تكاد توجد لدى الطيور أي حاسة تذوق تقريباً. على سبيل المثال، تمتلك الدجاج ممثلة ببضع مئات فقط من براعم التذوق."
+    "headline": "أغاني الطيور هي في الواقع خرائط صوتية",
+    "body": "الأصوات الجميلة التي تصدرها الطيور المهاجرة ليست مجرد ألحان. تستخدم الطيور الصغيرة هذه الأصوات وصدى أصواتها لرسم خريطة ذهنية للجبال والوديان على طول مسارات طيرانها."
   },
   "reel_hook": {
-    "tr": "Yediğiniz en lezzetli yemeğin tadını kuşlar neden asla alamaz?",
-    "en": "Why can birds never taste the most delicious food you eat?",
-    "es": "¿Por qué las aves nunca pueden saborear la comida más deliciosa que comes?",
-    "ar": "لماذا لا تستطيع الطيور أبداً تذوق أشهى الأطعمة التي تأكلها؟"
+    "tr": "Kuşların şarkıları sadece iletişim kurmak için mi söyleniyor sanıyorsunuz?",
+    "en": "Do you think birds sing only to communicate?",
+    "es": "¿Crees que las aves cantan solo para comunicarse?",
+    "ar": "هل تعتقد أن الطيور تغني فقط للتواصل؟"
   },
   "story_question": {
-    "tr": "Sence bir papağan en çok hangi yemeğin tadını almayı sever?",
-    "en": "Which food do you think a parrot would love to taste the most?",
-    "es": "¿Qué comida crees que a un loro le encantaría saborear más?",
-    "ar": "ما هو الطعام برأيك الذي يحب الببغاء تذوقه أكثر؟"
+    "tr": "Göçmen kuşlar yönlerini bulmak için en çok neyi kullanır?",
+    "en": "What do migratory birds rely on the most to find their direction?",
+    "es": "¿En qué confían más las aves migratorias para encontrar su dirección?",
+    "ar": "على ماذا تعتمد الطيور المهاجرة أكثر للعثور على اتجاهها؟"
   },
   "story_options": [
-    "Tatlı meyveler",
-    "Acı tohumlar",
-    "Hiçbiri, tat almıyorlar"
+    "Akustik Yankılar ve Sesler",
+    "Sadece Güneşin Konumu",
+    "Rüzgarın Akışı"
   ],
   "hashtags": [
     "#FactBite",
-    "#ilginçbilgiler",
-    "#kuşlar",
-    "#bilim",
     "#doğa",
-    "#biliyormusunuz",
-    "#keşfet"
+    "#bilim",
+    "#kuşlar",
+    "#biyoloji",
+    "#keşfet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu bildiğini muhtemelen arkadaşın bilmiyor, hemen etiketle!",
-    "en": "Your friend probably didn't know this, tag them now!",
-    "es": "Tu amigo probablemente no sabía esto, ¡etiqtalo ahora!",
-    "ar": "صديقك على الأرجح لم يكن يعلم هذا، قم بإشارة له الآن!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
+    "en": "Follow for more amazing nature secrets like this!",
+    "es": "¡Síguenos para más secretos sorprendentes de la naturaleza!",
+    "ar": "اتبع لمزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Ornithology and Avian Biology Studies",
-    "url": "https://www.sciencedirect.com"
+    "name": "Ornithology and Acoustic Navigation Studies",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Tat Duyusu Hakkında Şaşırtıcı Gerçek",
+  "_topic": "Kuşların Şarkıları Aslında Harita Gibidir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-27T19:09:08.914137+00:00",
+  "generated_at": "2026-08-27T21:05:21.505926+00:00",
   "topic_guard_days": 180
 }

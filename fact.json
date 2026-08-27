@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzi Olan Tek Balık",
-    "body": "Köpekbalıklarının derisi, zannedilenin aksine pürüzsüz değildir. Mikroskobik dişçiklerle kaplıdır ve şaşırtıcı bir şekilde, tıpkı insan parmak izi gibi her türün kendine has benzersiz bir dermal dentisit deseni vardır."
+    "headline": "Kuşların Tat Duyusu Hakkında Şaşırtıcı Gerçek",
+    "body": "İnsanların dillerinde binlerce tat tomurcuğu varken, kuşların neredeyse hiç tat alma duyusu yoktur. Örneğin tavukların sadece birkaç yüz tat tomurcuğu bulunur ve bu yüzden yedikleri şeylerin lezzetini neredeyse hiç alamazlar; onlar için önemli olan sadece besinlerin dokusu ve boyuttur."
   },
   "en": {
-    "headline": "The Only Fish With a Fingerprint",
-    "body": "Contrary to popular belief, shark skin is not smooth. It is covered in microscopic teeth, and surprisingly, just like human fingerprints, every species has its own unique dermal denticle pattern."
+    "headline": "The Surprising Truth About Birds' Sense of Taste",
+    "body": "While humans have thousands of taste buds, birds have almost no sense of taste. For example, chickens have only a few hundred taste buds, meaning they barely taste what they eat; for them, texture and size are what matter most."
   },
   "es": {
-    "headline": "El único pez con huella dactilar",
-    "body": "Al contrario de la creencia popular, la piel de los tiburones no es lisa. Está cubierta de dientes microscópicos y, sorprendentemente, al igual que las huellas dactilares humanas, cada especie tiene su propio patrón único."
+    "headline": "La sorprendente verdad sobre el sentido del gusto de las aves",
+    "body": "Mientras que los humanos tienen miles de papilas gustativas, las aves casi no tienen sentido del gusto. Por ejemplo, los pollos tienen solo unos cientos de papilas gustativas, lo que significa que apenas sienten el sabor de lo que comen."
   },
   "ar": {
-    "headline": "السمكة الوحيدة التي تمتلك بصمة إصبع",
-    "body": "على عكس اعتقاد الشائع، جلد أسماك القرش ليس أملساً. إنه مغطى بأسنان مجهرية، وتماماً مثل بصمات أصابع البشر، تمتلك كل نوع نمطاً فريداً خاصاً به."
+    "headline": "الحقيقة المذهلة حول حاسة التذوق لدى الطيور",
+    "body": "بينما يمتلك البشر آلاف براعم التذوق، لا تكاد توجد لدى الطيور أي حاسة تذوق تقريباً. على سبيل المثال، تمتلك الدجاج ممثلة ببضع مئات فقط من براعم التذوق."
   },
   "reel_hook": {
-    "tr": "Su altında parmak izi bırakabilen bir canlı olduğunu biliyor musunuz?",
-    "en": "Did you know there is a creature that can leave fingerprints underwater?",
-    "es": "¿Sabías que hay una criatura que puede dejar huellas dactilares bajo el agua?",
-    "ar": "هل تعلم أن هناك مخلوقاً يمكنه ترك بصمات أصابع تحت الماء؟"
+    "tr": "Yediğiniz en lezzetli yemeğin tadını kuşlar neden asla alamaz?",
+    "en": "Why can birds never taste the most delicious food you eat?",
+    "es": "¿Por qué las aves nunca pueden saborear la comida más deliciosa que comes?",
+    "ar": "لماذا لا تستطيع الطيور أبداً تذوق أشهى الأطعمة التي تأكلها؟"
   },
   "story_question": {
-    "tr": "Köpekbalığı derisinin asıl amacı sence nedir?",
-    "en": "What do you think is the main purpose of shark skin?",
-    "es": "¿Cuál crees que es el propósito principal de la piel de tiburón?",
-    "ar": "ماذا تعتقد هو الغرض الرئيسي من جلد سمك القرش؟"
+    "tr": "Sence bir papağan en çok hangi yemeğin tadını almayı sever?",
+    "en": "Which food do you think a parrot would love to taste the most?",
+    "es": "¿Qué comida crees que a un loro le encantaría saborear más?",
+    "ar": "ما هو الطعام برأيك الذي يحب الببغاء تذوقه أكثر؟"
   },
   "story_options": [
-    "Hız ve sürtünmeyi azaltmak",
-    "Güneşten korunmak",
-    "Avı korkutmak"
+    "Tatlı meyveler",
+    "Acı tohumlar",
+    "Hiçbiri, tat almıyorlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#köpekbalığı",
+    "#ilginçbilgiler",
+    "#kuşlar",
     "#bilim",
     "#doğa",
-    "#keşfet",
-    "#ilginçbilgiler",
-    "#okyanus"
+    "#biliyormusunuz",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Stay tuned for more facts like this!",
-    "es": "¡Mantente atento a más datos como este!",
-    "ar": "ترقبوا المزيد من الحقائق مثل هذه!"
+    "tr": "Bunu bildiğini muhtemelen arkadaşın bilmiyor, hemen etiketle!",
+    "en": "Your friend probably didn't know this, tag them now!",
+    "es": "Tu amigo probablemente no sabía esto, ¡etiqtalo ahora!",
+    "ar": "صديقك على الأرجح لم يكن يعلم هذا، قم بإشارة له الآن!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Marine Biology Conservation Society",
-    "url": "https://www.marineconservation.org"
+    "name": "Ornithology and Avian Biology Studies",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzi Olan Tek Balık",
+  "_topic": "Kuşların Tat Duyusu Hakkında Şaşırtıcı Gerçek",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-27T17:39:01.234960+00:00",
+  "generated_at": "2026-08-27T19:09:08.914137+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıkların da Koklama Duyusu Var",
-    "body": "Denizlerin altında yaşayan bazı balıklar, aslında suyu tıpkı karadaki memeliler gibi 'koklayabilir'. Özellikle köpekbalıkları ve yılan balıkları, kilometrelerce ötedeki tek bir damla kanı veya avın kokusunu suya giren burun delikleri sayesinde kusursuz bir şekilde takip edebilir."
+    "headline": "Kuşların Gözlerini Koruyan Üçüncü Bir Kapak Var",
+    "body": "Biliyor musunuz, kuşların gözlerini koruyan ve 'niktit zar' adı verilen şeffaf üçüncü bir göz kapakları vardır. Uçarken rüzgardan ve kurumaktan korunmak için gözlerini bu şeffaf perdeyle kapatırlar, yani uçarken aslında gözleri açık ama korunmaktadır."
   },
   "en": {
-    "headline": "Fish Also Have a Sense of Smell",
-    "body": "Some fish living under the sea can actually 'smell' water much like land mammals. Especially sharks and eels can flawlessly track a single drop of blood or the scent of prey miles away thanks to their nostrils."
+    "headline": "Birds Have a Third Eyelid That Protects Their Eyes",
+    "body": "Did you know that birds have a transparent third eyelid called a nictitating membrane? They close this clear curtain to protect their eyes from wind and dryness while flying, meaning their eyes are technically open yet fully protected."
   },
   "es": {
-    "headline": "Los peces también tienen sentido del olfato",
-    "body": "Algunos peces que viven bajo el agua pueden realmente 'oler' el agua casi como los mamíferos terrestres. Especialmente los tiburones y las anguilas pueden rastrear perfectamente una sola gota de sangre o el aroma de una presa a kilómetros de distancia gracias a sus fosas nasales."
+    "headline": "Las aves tienen un tercer párpado que protege sus ojos",
+    "body": "¿Sabías que las aves tienen un tercer párpado transparente llamado membrana nictitante? Cierran esta cortina translúcida para proteger sus ojos del viento y la sequedad mientras vuelan, lo que significa que sus ojos están abiertos pero protegidos."
   },
   "ar": {
-    "headline": "الأسماك لديها حاسة شم أيضاً",
-    "body": "بعض الأسماك التي تعيش تحت البحر يمكنها في الواقع \"شم\" الماء تماماً مثل الثدييات البرية. خاصة سمك القرش والثعابين المائية يمكنها تتبع قطرة دم واحدة أو رائحة الفريسة على مسافة أميال بفضل فتحات أنفها."
+    "headline": "تمتلك الطيور جفناً ثالثاً يحمي عيونها",
+    "body": "هل تعلم أن الطيور تمتلك جفناً ثالثاً شفافاً يسمى الغشاء الرامش؟ إنهم يغلقون هذا الستار الشفاف حمايةً لأعينهم من الرياح والجفاف أثناء الطيران، مما يعني أن أعينهم مفتوحة تقنياً ولكنها محمية تماماً."
   },
   "reel_hook": {
-    "tr": "Su altında nefes alamıyorlar ama kokuyu kusursuz alıyorlar!",
-    "en": "They can't breathe underwater, but they smell perfectly!",
-    "es": "¡No pueden respirar bajo el agua, pero huelen perfectamente!",
-    "ar": "لا يمكنهم التنفس تحت الماء، لكنهم يشمون بشكل مثالي!"
+    "tr": "Uçarken gözleri açık uyuyorlar mı sanıyorsunuz?",
+    "en": "Do you think they sleep with their eyes open while flying?",
+    "es": "¿Crees que vuelan con los ojos abiertos sin protección?",
+    "ar": "هل تعتقد أنهم يطيرون وعيونهم مفتوحة دون حماية؟"
   },
   "story_question": {
-    "tr": "Sizce hangi balık türü en keskin koku alma duyusuna sahiptir?",
-    "en": "Which fish species do you think has the sharpest sense of smell?",
-    "es": "¿Qué especie de pez crees que tiene el sentido del olfato más agudo?",
-    "ar": "ما هي برأيك نوع الأسماك التي تمتلك أقوى حاسة شم؟"
+    "tr": "Uçan kuşların gözlerini koruyan şeffaf perdenin adı nedir?",
+    "en": "What is the name of the transparent curtain protecting flying birds' eyes?",
+    "es": "¿Cómo se llama la cortina transparente que protege los ojos de las aves?",
+    "ar": "ما هو اسم الغشاء الشفاف الذي يحمي عيون الطيور أثناء الطيران؟"
   },
   "story_options": [
-    "Köpekbalığı",
-    "Yılan Balığı",
-    "Somon Balığı"
+    "Niktit Zar",
+    "Retina Perdesi",
+    "Kornea Kalkanı"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
-    "#deniz",
-    "#balıklar",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#Kuşlar",
+    "#Doğa",
+    "#Bilim",
+    "#İlginçBilgiler",
+    "#HayvanlarlarAlemi",
+    "#Biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takipte kalın!",
+    "en": "Stay tuned for more amazing nature secrets like this!",
+    "es": "¡Sigue atento para más secretos asombrosos de la naturaleza!",
+    "ar": "ترقبوا المزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.5
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Ornithology and Bird Biology Studies",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıkların da Koklama Duyusu Var",
+  "_topic": "Kuşların Gözlerini Koruyan Üçüncü Bir Kapak Var",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-27T00:04:39.466377+00:00",
+  "generated_at": "2026-08-27T16:30:25.967738+00:00",
   "topic_guard_days": 180
 }

@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözlerini Koruyan Üçüncü Bir Kapak Var",
-    "body": "Biliyor musunuz, kuşların gözlerini koruyan ve 'niktit zar' adı verilen şeffaf üçüncü bir göz kapakları vardır. Uçarken rüzgardan ve kurumaktan korunmak için gözlerini bu şeffaf perdeyle kapatırlar, yani uçarken aslında gözleri açık ama korunmaktadır."
+    "headline": "Parmak İzi Olan Tek Balık",
+    "body": "Köpekbalıklarının derisi, zannedilenin aksine pürüzsüz değildir. Mikroskobik dişçiklerle kaplıdır ve şaşırtıcı bir şekilde, tıpkı insan parmak izi gibi her türün kendine has benzersiz bir dermal dentisit deseni vardır."
   },
   "en": {
-    "headline": "Birds Have a Third Eyelid That Protects Their Eyes",
-    "body": "Did you know that birds have a transparent third eyelid called a nictitating membrane? They close this clear curtain to protect their eyes from wind and dryness while flying, meaning their eyes are technically open yet fully protected."
+    "headline": "The Only Fish With a Fingerprint",
+    "body": "Contrary to popular belief, shark skin is not smooth. It is covered in microscopic teeth, and surprisingly, just like human fingerprints, every species has its own unique dermal denticle pattern."
   },
   "es": {
-    "headline": "Las aves tienen un tercer párpado que protege sus ojos",
-    "body": "¿Sabías que las aves tienen un tercer párpado transparente llamado membrana nictitante? Cierran esta cortina translúcida para proteger sus ojos del viento y la sequedad mientras vuelan, lo que significa que sus ojos están abiertos pero protegidos."
+    "headline": "El único pez con huella dactilar",
+    "body": "Al contrario de la creencia popular, la piel de los tiburones no es lisa. Está cubierta de dientes microscópicos y, sorprendentemente, al igual que las huellas dactilares humanas, cada especie tiene su propio patrón único."
   },
   "ar": {
-    "headline": "تمتلك الطيور جفناً ثالثاً يحمي عيونها",
-    "body": "هل تعلم أن الطيور تمتلك جفناً ثالثاً شفافاً يسمى الغشاء الرامش؟ إنهم يغلقون هذا الستار الشفاف حمايةً لأعينهم من الرياح والجفاف أثناء الطيران، مما يعني أن أعينهم مفتوحة تقنياً ولكنها محمية تماماً."
+    "headline": "السمكة الوحيدة التي تمتلك بصمة إصبع",
+    "body": "على عكس اعتقاد الشائع، جلد أسماك القرش ليس أملساً. إنه مغطى بأسنان مجهرية، وتماماً مثل بصمات أصابع البشر، تمتلك كل نوع نمطاً فريداً خاصاً به."
   },
   "reel_hook": {
-    "tr": "Uçarken gözleri açık uyuyorlar mı sanıyorsunuz?",
-    "en": "Do you think they sleep with their eyes open while flying?",
-    "es": "¿Crees que vuelan con los ojos abiertos sin protección?",
-    "ar": "هل تعتقد أنهم يطيرون وعيونهم مفتوحة دون حماية؟"
+    "tr": "Su altında parmak izi bırakabilen bir canlı olduğunu biliyor musunuz?",
+    "en": "Did you know there is a creature that can leave fingerprints underwater?",
+    "es": "¿Sabías que hay una criatura que puede dejar huellas dactilares bajo el agua?",
+    "ar": "هل تعلم أن هناك مخلوقاً يمكنه ترك بصمات أصابع تحت الماء؟"
   },
   "story_question": {
-    "tr": "Uçan kuşların gözlerini koruyan şeffaf perdenin adı nedir?",
-    "en": "What is the name of the transparent curtain protecting flying birds' eyes?",
-    "es": "¿Cómo se llama la cortina transparente que protege los ojos de las aves?",
-    "ar": "ما هو اسم الغشاء الشفاف الذي يحمي عيون الطيور أثناء الطيران؟"
+    "tr": "Köpekbalığı derisinin asıl amacı sence nedir?",
+    "en": "What do you think is the main purpose of shark skin?",
+    "es": "¿Cuál crees que es el propósito principal de la piel de tiburón?",
+    "ar": "ماذا تعتقد هو الغرض الرئيسي من جلد سمك القرش؟"
   },
   "story_options": [
-    "Niktit Zar",
-    "Retina Perdesi",
-    "Kornea Kalkanı"
+    "Hız ve sürtünmeyi azaltmak",
+    "Güneşten korunmak",
+    "Avı korkutmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#Kuşlar",
-    "#Doğa",
-    "#Bilim",
-    "#İlginçBilgiler",
-    "#HayvanlarlarAlemi",
-    "#Biyoloji"
+    "#köpekbalığı",
+    "#bilim",
+    "#doğa",
+    "#keşfet",
+    "#ilginçbilgiler",
+    "#okyanus"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takipte kalın!",
-    "en": "Stay tuned for more amazing nature secrets like this!",
-    "es": "¡Sigue atento para más secretos asombrosos de la naturaleza!",
-    "ar": "ترقبوا المزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Stay tuned for more facts like this!",
+    "es": "¡Mantente atento a más datos como este!",
+    "ar": "ترقبوا المزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Bird Biology Studies",
-    "url": "https://www.audubon.org"
+    "name": "Marine Biology Conservation Society",
+    "url": "https://www.marineconservation.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözlerini Koruyan Üçüncü Bir Kapak Var",
+  "_topic": "Parmak İzi Olan Tek Balık",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-27T16:30:25.967738+00:00",
+  "generated_at": "2026-08-27T17:39:01.234960+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İncirler Aslında Birer Çiçektir!",
-    "body": "Marketten aldığımız incirler aslında dışarı açılan çiçek yaprakları değil, tersine dönmüş etli birer çiçek kümesidir. İçinde yetişen minik arılar olmadan tozlaşamazlar, bu yüzden incir yediğimizde aslında doğanın şaşırtıcı bir ekosistem ortaklığına tanık oluruz."
+    "headline": "Denizlerin Sakin Gücü: Istakozların İşitme Sistemi",
+    "body": "Istakozların kulakları kafalarında değil, ayaklarının üzerindedir. Vücutlarının bu özel bölgeleri sayesinde su altındaki en hafif titreşimleri bile hissedebilirler."
   },
   "en": {
-    "headline": "Figs Are Actually Flowers!",
-    "body": "The figs we buy from the market are not just fruit, but inverted clusters of flowers. They cannot pollinate without tiny wasps growing inside them, meaning eating a fig is witnessing nature's fascinating ecosystem partnership."
+    "headline": "The Silent Power of the Sea: Lobster Hearing",
+    "body": "Lobsters do not have ears on their heads, but on their legs. Thanks to these special areas of their bodies, they can sense even the slightest vibrations underwater."
   },
   "es": {
-    "headline": "¡Los higos son en realidad flores!",
-    "body": "Los higos que compramos en el mercado no son frutas comunes, sino racimos florales invertidos. No pueden polinizarse sin pequeñas avispas que crecen en su interior."
+    "headline": "El Poder Oculto del Mar: El Oído de las Langostas",
+    "body": "Las langostas no tienen orejas en la cabeza, sino en las patas. Gracias a estas zonas especiales de su cuerpo, pueden sentir hasta las vibraciones más leves bajo el agua."
   },
   "ar": {
-    "headline": "التين هو في الواقع زهور!",
-    "body": "التين الذي نشتريه من السوق ليس مجرد ثمار، بل هو عناقيد زهرية مقلوبة. لا يمكنها التلقيح بدون دبابير صغيرة تنمو بداخله."
+    "headline": "القوة الخفية للبحار: سمع الكركند",
+    "body": "لا يمتلك الكركند أذنين على رأسه، بل على ساقيه. بفضل هذه المناطق الخاصة في أجسامهم، يمكنهم استشعار حتى أخف الأهتزازات تحت الماء."
   },
   "reel_hook": {
-    "tr": "Bildiğin bütün meyveleri unut, incir aslında bir meyve değil!",
-    "en": "Forget every fruit you know, figs are actually not a fruit!",
-    "es": "Olvídate de todas las frutas que conoces, ¡el higo no es una fruta!",
-    "ar": "انسَ كل فاكهة تعرفها، التين ليس فاكهة في الواقع!"
+    "tr": "Istakozların kulakları nerede biliyor musunuz? Başınızda arıyorsanız yanılıyorsunuz.",
+    "en": "Do you know where lobsters' ears are? If you are looking on their head, you are wrong.",
+    "es": "¿Sabes dónde tienen las orejas las langostas? Si las buscas en la cabeza, te equivocas.",
+    "ar": "هل تعلم أين أذنا الكركند؟ إذا كنت تبحث عنهما في رأسه، فأنت مخطئ."
   },
   "story_question": {
-    "tr": "İncirin içinde arı kalıntısı olduğunu biliyor muydunuz?",
-    "en": "Did you know there is wasp residue inside a fig?",
-    "es": "¿Sabías que hay restos de avispa dentro de un higo?",
-    "ar": "هل كنت تعلم أن هناك بقايا دبور داخل التين؟"
+    "tr": "Sizce ıstakozlar kulakları olmadan sesleri nasıl algılar?",
+    "en": "How do you think lobsters perceive sounds without ears?",
+    "es": "¿Cómo crees que las langostas perciben los sonidos sin orejas?",
+    "ar": "كيف تعتقد أن الكركند يستشعر الأصوات بدون آذان؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Hayır, ilk defa duydum",
-    "İnanmak istemiyorum"
+    "Antenleriyle",
+    "Ayaklarındaki tüylerle",
+    "Kıskaçlarıyla"
   ],
   "hashtags": [
     "#FactBite",
-    "#DoğaMucizesi",
-    "#İlginçBilgiler",
-    "#Bilim",
-    "#YemekSırları",
-    "#Doğa",
-    "#Keşfet"
+    "#bilim",
+    "#ilginçbilgiler",
+    "#doğa",
+    "#deniz",
+    "#keşfet",
+    "#öğrenme"
   ],
   "cta": {
-    "tr": "Bunu kiminle paylaşardın? Yoruma yaz!",
-    "en": "Who would you share this with? Let us know in the comments!",
-    "es": "¿Con quién compartirías esto? ¡Déjalo en los comentarios!",
-    "ar": "مع من تشارك هذا؟ أخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق الممتعة مثله!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/environment/article/the-fig-mystery-plant-Wasp"
+    "name": "Marine Biological Laboratory",
+    "url": "https://www.mbl.edu"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İncirler Aslında Birer Çiçektir!",
+  "_topic": "Denizlerin Sakin Gücü: Istakozların İşitme Sistemi",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-28T22:53:10.332341+00:00",
+  "generated_at": "2026-08-28T23:53:46.274549+00:00",
   "topic_guard_days": 180
 }

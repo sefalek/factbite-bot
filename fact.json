@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Baykuşların Gözleri Neden Hiç Oynamaz?",
-    "body": "Baykuşların gözleri yuva içinde hareket etmez; tıpkı birer mercek gibi sabittir. Bu yüzden etrafı görebilmek için kafalarını neredeyse 270 derece döndürmek zorunda kalırlar."
+    "headline": "Panda'nın Yalancı Başparmağı",
+    "body": "Dev pandaların ellerine baktığınızda altı parmaklı gibi görünürler. Ancak bu altıncı parmak aslında gerçek bir parmak değil; bambuları sıkıca kavrayabilmelerini sağlayan özelleşmiş bir bilek kemiğidir."
   },
   "en": {
-    "headline": "Why Owls' Eyes Never Move",
-    "body": "An owl's eyes are fixed in their sockets like rigid tubes. To look around, they have to turn their entire heads up to 270 degrees."
+    "headline": "The Panda's False Thumb",
+    "body": "When you look at giant pandas' hands, they seem to have six digits. However, this sixth finger is not actually a real finger, but a specialized wrist bone that helps them grip bamboo tightly."
   },
   "es": {
-    "headline": "Por qué los ojos de los búhos nunca se mueven",
-    "body": "Los ojos de los búhos están fijos en sus cuencas como tubos rígidos. Para mirar alrededor, tienen que girar toda su cabeza hasta 270 grados."
+    "headline": "El Falso Pulgar del Panda",
+    "body": "Cuando miras las manos de los pandas gigantes, parecen tener seis dígitos. Sin embargo, este sexto dedo no es en realidad un dedo real, sino un hueso de la muñeca especializado que les ayuda a agarrar el bambú con fuerza."
   },
   "ar": {
-    "headline": "لماذا لا تتحرك عيون البوم أبداً",
-    "body": "عيون البوم ثابتة في محاجرها مثل الأنابيب الصلبة. ولكي يراقبوا محيطهم، عليهم إدارة رؤوسهم بالكامل حتى 270 درجة."
+    "headline": "إهام الباندا الكاذب",
+    "body": "عندما تنظر إلى أيدي الباندا العملاقة، تبدو وكأنها تمتلك ستة أصابع. ومع ذلك، فإن هذا الإصبع السادس ليس في الواقع إصبعًا حقيقيًا، بل هو عظمة معصم متخصصة تساعدهم على الإمساك بالخيزران بإحكام."
   },
   "reel_hook": {
-    "tr": "Gözleri kafasına sabitlenmiş tek bir canlı olsaydı bu kim olurdu?",
-    "en": "If there was one creature whose eyes were permanently fixed in place, who would it be?",
-    "es": "Si hubiera una criatura cuyos ojos estuvieran fijos en su lugar, ¿quién sería?",
-    "ar": "لو كان هناك مخلوق واحد عيناه مثبتتان في مكانهما، فمن يكون؟"
+    "tr": "Pandaların aslında bildiğiniz gibi altı parmağı yok, peki o çıkıntı ne?",
+    "en": "Pandas don't actually have six fingers like you think, so what is that bump?",
+    "es": "Los pandas no tienen realmente seis dedos como crees, entonces, ¿qué es esa protuberancia?",
+    "ar": "لا تمتلك الباندا في الواقع ستة أصابع كما تعتقد، فما هذا النتوء إذن؟"
   },
   "story_question": {
-    "tr": "Baykuşlar kafalarını en fazla kaç derece döndürebilir?",
-    "en": "What is the maximum angle an owl can turn its head?",
-    "es": "¿Cuál es el ángulo máximo que un búho puede girar su cabeza?",
-    "ar": "ما هي أقصى زاوية يمكن للبومة أن تدير رأسها فيها؟"
+    "tr": "Dev pandaların bu fazladan çıkıntısı asıl hangi amaçla evrimleşmiştir?",
+    "en": "For what primary purpose did this extra projection in giant pandas evolve?",
+    "es": "¿Con qué propósito principal evolucionó esta protuberancia adicional en los pandas gigantes?",
+    "ar": "ما هو الغرض الأساسي الذي تطور من أجله هذا النتوء الإضافي في الباندا العملاقة؟"
   },
   "story_options": [
-    "180 derece",
-    "270 derece",
-    "360 derece"
+    "Bambu tutmak",
+    "Ağaca tırmanmak",
+    "Yürümeyi dengelemek"
   ],
   "hashtags": [
     "#FactBite",
-    "#baykuş",
-    "#doğa",
+    "#panda",
     "#bilim",
+    "#doğa",
     "#hayvanlar",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu bildiğini sandığın bir arkadaşına gönder!",
-    "en": "Send this to a friend who needs to know this!",
-    "es": "¡Envíaselo a un amigo que necesite saber esto!",
-    "ar": "أرسل هذا إلى صديق يحتاج إلى معرفة ذلك!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "San Diego Zoo Wildlife Alliance",
+    "url": "https://animals.sandiegozoo.org/animals/giant-panda"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Baykuşların Gözleri Neden Hiç Oynamaz?",
+  "_topic": "Panda'nın Yalancı Başparmağı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-28T20:12:55.517360+00:00",
+  "generated_at": "2026-08-28T21:28:22.802381+00:00",
   "topic_guard_days": 180
 }

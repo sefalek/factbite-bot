@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Üçüncü Göz Kapağı",
-    "body": "Gözlerini kırpmadan uçabilen tüylü dostlarımızın aslında çok akıllıca bir sırrı var. Kuşların gözlerini koruyan ve nemli tutan şeffaf üçüncü bir göz kapakları bulunur. Bu özel perde, uçuş sırasında tozdan ve rüzgardan zarar görmelerini engeller."
+    "headline": "Baykuşların Gözleri Neden Hiç Oynamaz?",
+    "body": "Baykuşların gözleri yuva içinde hareket etmez; tıpkı birer mercek gibi sabittir. Bu yüzden etrafı görebilmek için kafalarını neredeyse 270 derece döndürmek zorunda kalırlar."
   },
   "en": {
-    "headline": "Birds' Third Eyelid",
-    "body": "Our feathered friends who can fly without blinking actually have a very smart secret. Birds have a transparent third eyelid that protects and moistens their eyes. This special membrane prevents dust and wind damage during flight."
+    "headline": "Why Owls' Eyes Never Move",
+    "body": "An owl's eyes are fixed in their sockets like rigid tubes. To look around, they have to turn their entire heads up to 270 degrees."
   },
   "es": {
-    "headline": "El tercer párpado de las aves",
-    "body": "Nuestros amigos emplumados que pueden volar sin parpadear tienen un secreto muy inteligente. Las aves tienen un tercer párpado transparente que protege y humedece sus ojos. Esta membrana especial previene daños por polvo y viento durante el vuelo."
+    "headline": "Por qué los ojos de los búhos nunca se mueven",
+    "body": "Los ojos de los búhos están fijos en sus cuencas como tubos rígidos. Para mirar alrededor, tienen que girar toda su cabeza hasta 270 grados."
   },
   "ar": {
-    "headline": "الجفن الثالث للطيور",
-    "body": "أصدقاؤنا الريشيون القادرون على الطيران دون أن يطرفوا أجفانهم لديهم سر ذكي للغاية. تمتلك الطيور جفنًا ثالثًا شفافًا يحمي عيونها ويرطبها. تمنع هذه الغشاء الخاص أضرار الغبار والرياح أثناء الطيران."
+    "headline": "لماذا لا تتحرك عيون البوم أبداً",
+    "body": "عيون البوم ثابتة في محاجرها مثل الأنابيب الصلبة. ولكي يراقبوا محيطهم، عليهم إدارة رؤوسهم بالكامل حتى 270 درجة."
   },
   "reel_hook": {
-    "tr": "Gözlerini hiç kırpmadan uçabilen bir canlı gördün mü?",
-    "en": "Have you ever seen a creature that can fly without ever blinking?",
-    "es": "¿Alguna vez has visto una criatura que puede volar sin parpadear?",
-    "ar": "هل رأيت من قبل مخلوقًا يمكنه الطيران دون أن يطرف جفنه أبدًا؟"
+    "tr": "Gözleri kafasına sabitlenmiş tek bir canlı olsaydı bu kim olurdu?",
+    "en": "If there was one creature whose eyes were permanently fixed in place, who would it be?",
+    "es": "Si hubiera una criatura cuyos ojos estuvieran fijos en su lugar, ¿quién sería?",
+    "ar": "لو كان هناك مخلوق واحد عيناه مثبتتان في مكانهما، فمن يكون؟"
   },
   "story_question": {
-    "tr": "Kuşların uçarken gözlerini koruyan bu şeffaf üçüncü kapağın adı nedir?",
-    "en": "What is the name of this transparent third lid that protects birds' eyes while flying?",
-    "es": "¿Cómo se llama este tercer párpado transparente que protege los ojos de las aves mientras vuelan?",
-    "ar": "ما هو اسم هذا الجفن الثالث الشفاف الذي يحمي عيون الطيور أثناء الطيران؟"
+    "tr": "Baykuşlar kafalarını en fazla kaç derece döndürebilir?",
+    "en": "What is the maximum angle an owl can turn its head?",
+    "es": "¿Cuál es el ángulo máximo que un búho puede girar su cabeza?",
+    "ar": "ما هي أقصى زاوية يمكن للبومة أن تدير رأسها فيها؟"
   },
   "story_options": [
-    "Niktitans",
-    "Retina",
-    "Kornea"
+    "180 derece",
+    "270 derece",
+    "360 derece"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
+    "#baykuş",
     "#doğa",
     "#bilim",
-    "#biyoloji",
-    "#hayvanlaralemi",
-    "#ilginçbilgiler"
+    "#hayvanlar",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza como este!",
-    "ar": "تابعنا لمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunu bildiğini sandığın bir arkadaşına gönder!",
+    "en": "Send this to a friend who needs to know this!",
+    "es": "¡Envíaselo a un amigo que necesite saber esto!",
+    "ar": "أرسل هذا إلى صديق يحتاج إلى معرفة ذلك!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "Ornithology and Bird Biology Studies",
+    "name": "Audubon Society",
     "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Üçüncü Göz Kapağı",
+  "_topic": "Baykuşların Gözleri Neden Hiç Oynamaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-28T18:38:42.603576+00:00",
+  "generated_at": "2026-08-28T20:12:55.517360+00:00",
   "topic_guard_days": 180
 }

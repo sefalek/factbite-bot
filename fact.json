@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Mantar Pano Değil, Canlı Mantarların Elektrik Sinyalleri",
-    "body": "Ormanda yürürken ayak basıp geçtiğiniz mantarlar aslında kelimenin tam anlamıyla birbiriyle konuşuyor. Bilim insanları, mantarların kök sistemi olan miseller aracılığıyla birbirlerine elektrik sinyalleri gönderdiğini keşfetti. Bu sinyaller, tıpkı insan sinir sistemindeki uyarılar gibi çalışıyor ve bazı durumlarda kelimelere benzer bir dil yapısı bile sergiliyor."
+    "headline": "Dev Pandaların Parmak Sırrı",
+    "body": "Dev pandaların aslında altı parmağı olduğunu biliyor musunuz? Bambuları çok daha rahat kavramalarını sağlayan bu ekstra parmak, aslında gerçek bir parmak değil; bambuları sıkıca tutabilmek için zamanla evrimleşmiş modifiye olmuş bir bilek kemiğidir."
   },
   "en": {
-    "headline": "Mushroom Networks Use Electrical Signals to Communicate",
-    "body": "The mushrooms you walk past in the forest are actually talking to each other. Scientists discovered that fungi send electrical signals through their root system, known as mycelium. These signals work remarkably like human nerve impulses, displaying patterns that closely resemble human vocabulary."
+    "headline": "The Panda's Finger Secret",
+    "body": "Did you know giant pandas actually have six fingers? This extra digit, which helps them grip bamboo much easier, isn't a real finger at all; it's actually a modified wrist bone that evolved over time to hold bamboo tightly."
   },
   "es": {
-    "headline": "Las Redes de Hongos Utilizan Señales Eléctricas",
-    "body": "Los hongos que pisas en el bosque en realidad se están comunicando entre sí. Los científicos descubrieron que los hongos envían señales eléctricas a través de su sistema de raíces, llamado micelio, imitando patrones similares al lenguaje humano."
+    "headline": "El secreto de los dedos del panda",
+    "body": "¿Sabías que los pandas gigantes en realidad tienen seis dedos? Este dígito adicional, que les ayuda a agarrar el bambú mucho más fácilmente, no es un dedo real en absoluto; en realidad es un hueso de la muñeca modificado que evolucionó con el tiempo para sostener el bambú con fuerza."
   },
   "ar": {
-    "headline": "شبكات الفطر تستخدم إشارات كهربائية للتواصل",
-    "body": "الفطر الذي تمشي بجانبه في الغابة يتحدث مع بعضه البعض. اكتشف العلماء أن الفطريات ترسل إشارات كهربائية عبر شبكة جذورها، مما يشبه إلى حد كبير الجهاز العصبي البشري."
+    "headline": "سر أصابع البندا",
+    "body": "هل تعلم أن البندا العملاقة تمتلك في الواقع ستة أصابع؟ هذا الإصبع الإضافي، الذي يساعدها على الإمساك الخيزران بسهولة أكبر، ليس إصبعاً حقيقياً على الإطلاق؛ بل هو في الواقع عظمة معصم معدلة تطورت بمرور الوقت لتثقيف الخيزران بقوة."
   },
   "reel_hook": {
-    "tr": "Ormanda yürürken bastığınız o mantarların aslında birbiriyle konuştuğunu biliyor muydunuz?",
-    "en": "Did you know the mushrooms you step on in the forest are actually talking to each other?",
-    "es": "¿Sabías que los hongos que pisas en el bosque en realidad se están comunicando?",
-    "ar": "هل كنت تعلم أن الفطر الذي تدوس عليه في الغابة يتحدث مع بعضه حقاً؟"
+    "tr": "Pandaların eline hiç dikkatli baktınız mı? Çünkü bildiğimizden çok daha farklılar.",
+    "en": "Have you ever looked closely at a panda's hand? Because they are very different from what we know.",
+    "es": "¿Alguna vez has mirado de cerca la mano de un panda? Porque son muy diferentes de lo que sabemos.",
+    "ar": "هل نظرت عن قرب إلى يد البندا من قبل؟ لأنها مختلفة جداً عما نعرفه."
   },
   "story_question": {
-    "tr": "Mantarlar birbirleriyle iletişim kurmak için ne kullanır?",
-    "en": "What do fungi use to communicate with each اللهother?",
-    "es": "¿Qué utilizan los hongos para comunicarse entre sí?",
-    "ar": "ماذا تستخدم الفطريات للتواصل مع بعضها البعض؟"
+    "tr": "Pandaların bu fazladan parmağı aslında hangi kemikten evrimleşmiştir?",
+    "en": "Which bone did the panda's extra finger actually evolve from?",
+    "es": "¿De qué hueso evolucionó realmente el dedo extra del panda?",
+    "ar": "من أي عظمة تطور الإصبع الإضافي للبندا بالفعل؟"
   },
   "story_options": [
-    "Elektrik sinyalleri",
-    "Kimyasal kokular",
-    "Ses dalgaları"
+    "Bilek kemiği",
+    "Ön kol kemiği",
+    "Dirsek kemiği"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
+    "#panda",
     "#doğa",
-    "#mantar",
-    "#biyoloji",
-    "#keşfet",
-    "#İlginçBilgiler"
+    "#bilim",
+    "#hayvanlar",
+    "#evrim",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza!",
-    "ar": "اتبع للمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Royal Society Open Science",
-    "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.191926"
+    "name": "San Diego Zoo Wildlife Alliance",
+    "url": "https://animals.sandiegozoo.org/animals/giant-panda"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Mantar Pano Değil, Canlı Mantarların Elektrik Sinyalleri",
+  "_topic": "Dev Pandaların Parmak Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-28T00:16:45.473239+00:00",
+  "generated_at": "2026-08-28T02:27:00.151489+00:00",
   "topic_guard_days": 180
 }

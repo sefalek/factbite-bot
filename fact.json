@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritin İcadı Yanıltıcı",
-    "body": "Bugün hayatımızın en sıradan araçlarından biri olan kibrit, aslında insanlık tarihinin en geç keşfedilen pratik buluşlarından biridir. Matbaa, buharlı makine ve hatta tekerlekten çok sonra, 19. yüzyılın başlarında icat edilmiştir. İnsanlar binlerce yıl ateşi çakmaktaşlarıyla yakarken, güvenli ve kolay yanan bir kibrit üretmek chemistler için uzun süre çözülemeyen tehlikeli bir bulmaca olmuştur."
+    "headline": "Mantar Pano Değil, Canlı Mantarların Elektrik Sinyalleri",
+    "body": "Ormanda yürürken ayak basıp geçtiğiniz mantarlar aslında kelimenin tam anlamıyla birbiriyle konuşuyor. Bilim insanları, mantarların kök sistemi olan miseller aracılığıyla birbirlerine elektrik sinyalleri gönderdiğini keşfetti. Bu sinyaller, tıpkı insan sinir sistemindeki uyarılar gibi çalışıyor ve bazı durumlarda kelimelere benzer bir dil yapısı bile sergiliyor."
   },
   "en": {
-    "headline": "The Surprising History of Matches",
-    "body": "One of the most ordinary tools of our daily lives, the match, is actually one of the latest practical inventions in human history. Invented in the early 19th century, long after the printing press and the steam engine, creating a safe and easy-to-light match was a dangerous puzzle for chemists for centuries."
+    "headline": "Mushroom Networks Use Electrical Signals to Communicate",
+    "body": "The mushrooms you walk past in the forest are actually talking to each other. Scientists discovered that fungi send electrical signals through their root system, known as mycelium. These signals work remarkably like human nerve impulses, displaying patterns that closely resemble human vocabulary."
   },
   "es": {
-    "headline": "La Sorprendente Historia de los Fósforos",
-    "body": "Una de las herramientas más comunes de nuestra vida diaria, el fósforo o cerilla, es en realidad uno de los inventos prácticos más tardíos de la historia humana. Inventado a principios del siglo XIX, mucho después de la imprenta y la máquina de vapor, crear un fósforo seguro y fácil de encender fue un peligroso rompecabezas para los químicos durante siglos."
+    "headline": "Las Redes de Hongos Utilizan Señales Eléctricas",
+    "body": "Los hongos que pisas en el bosque en realidad se están comunicando entre sí. Los científicos descubrieron que los hongos envían señales eléctricas a través de su sistema de raíces, llamado micelio, imitando patrones similares al lenguaje humano."
   },
   "ar": {
-    "headline": "التاريخ المفاجئ لعود الكبريت",
-    "body": "أحد أكثر الأدوات عادية في حياتنا اليومية، عود الكبريت، هو في الواقع أحد آخر الاختراعات العملية في تاريخ البشرية. تم اختراعه في أوائل القرن التاسع عشر، بعد فترة طويلة من المطابع والمحرك البخاري، وكان صنع عود كبريت آمن وسهل الاشتعال لغزاً خطيراً للكيميائيين لقرون."
+    "headline": "شبكات الفطر تستخدم إشارات كهربائية للتواصل",
+    "body": "الفطر الذي تمشي بجانبه في الغابة يتحدث مع بعضه البعض. اكتشف العلماء أن الفطريات ترسل إشارات كهربائية عبر شبكة جذورها، مما يشبه إلى حد كبير الجهاز العصبي البشري."
   },
   "reel_hook": {
-    "tr": "İnsanlık uzaya gidip matbaayı buldu ama ateşi yakacak bu basit şeyi bulması neden yüzyıllar sürdü?",
-    "en": "Humanity reached space and invented the printing press, but why did it take centuries to invent this simple way to make fire?",
-    "es": "La humanidad llegó al espacio y creó la imprenta, ¿pero por qué tardó siglos en inventar esta simple forma de hacer fuego?",
-    "ar": "وصلت البشرية إلى الفضاء واختترعت المطبعة، فلماذا استغرق الأمر قروناً لاختراع هذه الطريقة البسيطة لإشعال النار؟"
+    "tr": "Ormanda yürürken bastığınız o mantarların aslında birbiriyle konuştuğunu biliyor muydunuz?",
+    "en": "Did you know the mushrooms you step on in the forest are actually talking to each other?",
+    "es": "¿Sabías que los hongos que pisas en el bosque en realidad se están comunicando?",
+    "ar": "هل كنت تعلم أن الفطر الذي تدوس عليه في الغابة يتحدث مع بعضه حقاً؟"
   },
   "story_question": {
-    "tr": "Sence ilk güvenli sürtünme kibriti hangi yüzyılda icat edilmiştir?",
-    "en": "In which century do you think the first safe friction match was invented?",
-    "es": "¿En qué siglo crees que se inventó el primer fósforo de fricción seguro?",
-    "ar": "في أي قرن برأيك تم اختراع أول عود كبريت احتكاكي آمن؟"
+    "tr": "Mantarlar birbirleriyle iletişim kurmak için ne kullanır?",
+    "en": "What do fungi use to communicate with each اللهother?",
+    "es": "¿Qué utilizan los hongos para comunicarse entre sí?",
+    "ar": "ماذا تستخدم الفطريات للتواصل مع بعضها البعض؟"
   },
   "story_options": [
-    "15. Yüzyıl",
-    "17. Yüzyıl",
-    "19. Yüzyıl"
+    "Elektrik sinyalleri",
+    "Kimyasal kokular",
+    "Ses dalgaları"
   ],
   "hashtags": [
     "#FactBite",
-    "#kibrit",
-    "#tarih",
     "#bilim",
-    "#ilginçbilgiler",
-    "#icatlar",
-    "#keşfet"
+    "#doğa",
+    "#mantar",
+    "#biyoloji",
+    "#keşfet",
+    "#İlginçBilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı tarihi gerçeği kaçırmamak için bizi takip et!",
-    "en": "Follow us not to miss more surprising historical facts like this!",
-    "es": "¡Síguenos para no perderte más datos históricos sorprendentes como este!",
-    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق التاريخية المفاجئة مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza!",
+    "ar": "اتبع للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "History of Matches - Britannica",
-    "url": "https://www.britannica.com/technology/match-pyrotechnics"
+    "name": "Royal Society Open Science",
+    "url": "https://royalsocietypublishing.org/doi/10.1098/rsos.191926"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritin İcadı Yanıltıcı",
+  "_topic": "Mantar Pano Değil, Canlı Mantarların Elektrik Sinyalleri",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-27T22:45:34.991276+00:00",
+  "generated_at": "2026-08-28T00:16:45.473239+00:00",
   "topic_guard_days": 180
 }

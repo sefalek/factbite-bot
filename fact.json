@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dev Pandaların Parmak Sırrı",
-    "body": "Dev pandaların aslında altı parmağı olduğunu biliyor musunuz? Bambuları çok daha rahat kavramalarını sağlayan bu ekstra parmak, aslında gerçek bir parmak değil; bambuları sıkıca tutabilmek için zamanla evrimleşmiş modifiye olmuş bir bilek kemiğidir."
+    "headline": "Köpekbalıklarının Dişleri Aslında Nereden Çıkıyor?",
+    "body": "Köpekbalıkları hayatları boyunca binlerce diş değiştirir. Peki bu dişlerin derilerinin üzerinden, tıpkı birer pul gibi vücutlarının her yerinden çıkabildiğini biliyor muydunuz? Derilerini kaplayan bu özel yapılar, onların suda çok daha hızlı ve sessiz yüzmesini sağlar."
   },
   "en": {
-    "headline": "The Panda's Finger Secret",
-    "body": "Did you know giant pandas actually have six fingers? This extra digit, which helps them grip bamboo much easier, isn't a real finger at all; it's actually a modified wrist bone that evolved over time to hold bamboo tightly."
+    "headline": "Where Do Shark Teeth Actually Come From?",
+    "body": "Sharks go through thousands of teeth in a lifetime. But did you know their teeth can actually grow all over their bodies, functioning just like scales? These specialized structures covering their skin help them swim much faster and quieter in the water."
   },
   "es": {
-    "headline": "El secreto de los dedos del panda",
-    "body": "¿Sabías que los pandas gigantes en realidad tienen seis dedos? Este dígito adicional, que les ayuda a agarrar el bambú mucho más fácilmente, no es un dedo real en absoluto; en realidad es un hueso de la muñeca modificado que evolucionó con el tiempo para sostener el bambú con fuerza."
+    "headline": "¿De dónde salen realmente los dientes de los tiburones?",
+    "body": "Los tiburones cambian miles de dientes a lo largo de su vida. ¿Pero sabías que estos dientes pueden crecer en todo su cuerpo, funcionando exactamente igual que las escamas? Estas estructuras especiales que cubren su piel les ayudan a nadar mucho más rápido y en silencio."
   },
   "ar": {
-    "headline": "سر أصابع البندا",
-    "body": "هل تعلم أن البندا العملاقة تمتلك في الواقع ستة أصابع؟ هذا الإصبع الإضافي، الذي يساعدها على الإمساك الخيزران بسهولة أكبر، ليس إصبعاً حقيقياً على الإطلاق؛ بل هو في الواقع عظمة معصم معدلة تطورت بمرور الوقت لتثقيف الخيزران بقوة."
+    "headline": "من أين تأتي أسنان أسماك القرش حقاً؟",
+    "body": "تستبدل أسماك القرش آلاف الأسنان طوال حياتها. ولكن هل تعلم أن هذه الأسنان يمكن أن تنمو في جميع أنحاء أجسامها، تماماً مثل الحراشف؟ هذه الهياكل الخاصة التي تغطي جلدها تساعدها على السباحة بشكل أسرع وأكثر هدوءاً في الماء."
   },
   "reel_hook": {
-    "tr": "Pandaların eline hiç dikkatli baktınız mı? Çünkü bildiğimizden çok daha farklılar.",
-    "en": "Have you ever looked closely at a panda's hand? Because they are very different from what we know.",
-    "es": "¿Alguna vez has mirado de cerca la mano de un panda? Porque son muy diferentes de lo que sabemos.",
-    "ar": "هل نظرت عن قرب إلى يد البندا من قبل؟ لأنها مختلفة جداً عما نعرفه."
+    "tr": "Köpekbalığı dişleri sadece ağzından mı çıkar zannediyorsun?",
+    "body": "",
+    "es": "¿Crees que los dientes de tiburón solo salen de su boca?",
+    "ar": "هل تعتقد أن أسنان القرش تخرج من فمه فقط؟"
   },
   "story_question": {
-    "tr": "Pandaların bu fazladan parmağı aslında hangi kemikten evrimleşmiştir?",
-    "en": "Which bone did the panda's extra finger actually evolve from?",
-    "es": "¿De qué hueso evolucionó realmente el dedo extra del panda?",
-    "ar": "من أي عظمة تطور الإصبع الإضافي للبندا بالفعل؟"
+    "tr": "Köpekbalıklarının vücutlarını kaplayan pulların aslı nedir?",
+    "en": "What are the scales covering shark bodies actually made of?",
+    "es": "¿De qué están hechas realmente las escamas que cubren el cuerpo de los tiburones?",
+    "ar": "مم تتكون الحراشف التي تغطي أجسام أسماك القرش حقاً؟"
   },
   "story_options": [
-    "Bilek kemiği",
-    "Ön kol kemiği",
-    "Dirsek kemiği"
+    "Minik dişler",
+    "Sert kemikler",
+    "Esnek kıkırdaklar"
   ],
   "hashtags": [
     "#FactBite",
-    "#panda",
-    "#doğa",
+    "#köpekbalığı",
     "#bilim",
-    "#hayvanlar",
-    "#evrim",
-    "#ilginçbilgiler"
+    "#okyanus",
+    "#doğa",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip et!",
+    "en": "Follow for more surprising facts like this!",
+    "es": "¡Sígueme para más datos sorprendentes como este!",
+    "ar": "تابعنا لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "San Diego Zoo Wildlife Alliance",
-    "url": "https://animals.sandiegozoo.org/animals/giant-panda"
+    "name": "Natural History Museum",
+    "url": "https://www.nhm.ac.uk/discover/shark-teeth.html"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dev Pandaların Parmak Sırrı",
+  "_topic": "Köpekbalıklarının Dişleri Aslında Nereden Çıkıyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-28T02:27:00.151489+00:00",
+  "generated_at": "2026-08-28T17:27:09.712408+00:00",
   "topic_guard_days": 180
 }

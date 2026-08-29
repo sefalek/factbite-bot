@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Neden Düz Uçmaz?",
-    "body": "Gökyüzünde V şeklinde uçan kuşları mutlaka görmüşsünüzdür. Bu sadece rastgele bir grup hareketi değil, saf bir aerodinamik mucizesidir. Öndeki kuşun kanat uçlarında oluşan hava girdabı, arkasındaki kuşa bir 'asansör' etkisi yaratarak yukarı doğru iter. Bu sayede arkadaki kuşlar neredeyse yüzde yetmiş oranında daha az enerji harcar. Uzun göç yollarında lider sürekli değişir çünkü en öndeki kuş müthiş bir rüzgar direnciyle savaşır. Yani o kusursuz V formasyonu, doğanın yarattığı en akıllı enerji ortaklığıdır."
+    "headline": "Çikolata Neden Eridiğinde Tadı Değişir?",
+    "body": "Aynı çikolatayı hem katı hem de erimiş halde yediniz mi? Tadı size de farklı gelmiş olabilir. Bunun sebebi dilimizdeki tat alıcılarının sıcaklığa duyarlı olmasıdır. Çikolata eridiğinde yayılan aromatik moleküller ısı sayesinde burnumuza ve tat tomurcuklarımıza daha hızlı ulaşır."
   },
   "en": {
-    "headline": "Why Birds Don't Fly in Straight Lines",
-    "body": "You've definitely seen birds flying in a V-shape across the sky. This isn't just random group movement, but pure aerodynamic genius. The vortex created at the wingtips of the lead bird creates an 'elevator' effect, pushing the bird behind it upward. Because of this, the trailing birds use nearly seventy percent less energy. During long migrations, the leader constantly changes because the front bird fights immense wind resistance. That flawless V formation is nature's smartest energy-sharing network."
+    "headline": "Why Does Chocolate Taste Different When Melted?",
+    "body": "Have you ever eaten the same chocolate both solid and melted? It might have tasted different to you. This is because the taste receptors on our tongue are sensitive to temperature. The aromatic molecules released when chocolate melts reach our nose and taste buds faster thanks to the heat."
   },
   "es": {
-    "headline": "Por qué las aves no vuelan en línea recta",
-    "body": "Seguro que has visto aves volar en formación de V en el cielo. Esto no es un movimiento de grupo aleatorio, sino pura genialidad aerodinámica. El vórtice creado en las puntas de las alas del ave líder crea un efecto de 'ascensor' que empuja hacia arriba al ave que va detrás. Debido a esto, las aves seguidoras gastan casi un setenta por ciento menos energía. Durante las migraciones largas, el líder cambia constantemente porque el ave del frente lucha contra una enorme resistencia al viento. Esa formación en V es la red de energía más inteligente de la naturaleza."
+    "headline": "¿Por qué el chocolate sabe diferente cuando se derrite?",
+    "body": "¿Alguna vez has comido el mismo chocolate sólido y derretido? Puede que te haya sabido diferente. Esto se debe a que los receptores gustativos de nuestra lengua son sensibles a la temperatura. Las moléculas aromáticas liberadas cuando el chocolate se derrite llegan más rápido a nuestra nariz y papilas gustativas gracias al calor."
   },
   "ar": {
-    "headline": "لماذا لا تطير الطيور في خطوط مستقيمة؟",
-    "body": "لقد رأيت بالتأكيد طيوراً تطير على شكل حرف V في السماء. هذه ليست مجرد حركة جماعية عشوائية، بل هي عبقرية ديناميكية هوائية خالصة. الدوامة المتشكلة عند أطراف أجنحة الطائر المقدم تخلق تأثير 'المصعد'، مما يدفع الطائر خلفه إلى الأعلى. ولهذا السبب، تستخدم الطيور اللاحقة طاقة أقل بنسبة سبعين بالمائة تقريباً. خلال الهجرات الطويلة، يتغير القائد باستمرار لأن الطائر الأمامي يواجه مقاومة رياح هائلة. إن تشكيل V الخالي من العيوب هو أذكى شبكة مشاركة للطاقة في الطبيعة."
+    "headline": "لماذا يختلف طعم الشوكولاتة عندما تذوب؟",
+    "body": "هل أكلت نفس الشوكولاتة صلبة ومذابة؟ ربما تبدو لك مختلفة في الطعم. والسبب في ذلك هو أن مستقبلات التذوق في لساننا حساسة للدرجات الحرارة. الجزيئات العطرية التي تنطلق عندما تذوب الشوكولاتة تصل إلى أنفنا وبراعم التذوق بشكل أسرع بفضل الحرارة."
   },
   "reel_hook": {
-    "tr": "Gökyüzündeki o ünlü V formasyonu aslında dev bir hile!",
-    "en": "That famous V formation in the sky is actually a giant cheat code!",
-    "es": "¡Esa famosa formación en V en el cielo es en realidad un gran truco!",
-    "ar": "تشكيل V الشهير في السماء هو في الواقع خدعة ضخمة!"
+    "tr": "Aynı çikolata, eridiğinde neden tamamen farklı bir lezzete dönüşür?",
+    "en": "Why does the exact same chocolate turn into a completely different flavor when melted?",
+    "es": "¿Por qué exactamente el mismo chocolate se convierte en un sabor completamente diferente cuando se derrite?",
+    "ar": "لماذا تتحول نفس الشوكولاتة تماماً إلى نكهة مختلفة تماماً عندما تذوب؟"
   },
   "story_question": {
-    "tr": "V şeklinde uçan göçmen kuşlarda lider kuş yorulunca ne olur?",
-    "en": "What happens when the lead bird gets tired in a migrating V-formation?",
-    "es": "¿Qué sucede cuando el ave líder se cansa en una formación en V migratoria?",
-    "ar": "ماذا يحدث عندما يتعب الطائر القائد في تشكيل الهجرة على شكل V؟"
+    "tr": "Dilimizdeki tat alıcıları sıcaklığa karşı duyarlı mıdır?",
+    "en": "Are the taste receptors on our tongue sensitive to temperature?",
+    "es": "¿Son sensibles a la temperatura los receptores gustativos de nuestra lengua?",
+    "ar": "هل مستقبلات التذوق في لساننا حساسة لدرجة الحرارة؟"
   },
   "story_options": [
-    "Uçuşu bırakıp yere iner",
-    "Arkaya geçip dinlenir",
-    "Gruptan tamamen ayrılır"
+    "Evet, kesinlikle",
+    "Hayır, sadece tuza duyarlı",
+    "Sadece sıvı gıdalarda"
   ],
   "hashtags": [
     "#FactBite",
+    "#çikolata",
     "#bilim",
-    "#doğa",
-    "#kuşlar",
-    "#biyoloji",
     "#ilginçbilgiler",
-    "#seyahat"
+    "#gıda",
+    "#keşfet",
+    "#merak"
   ],
   "cta": {
-    "tr": "En öndeki yerin kime kalacağını öğrenmek için takip et!",
-    "en": "Follow to find out who takes the front spot next!",
-    "es": "¡Sígueme para descubrir quién toma el lugar delantero!",
-    "ar": "تابع لمعرفة من سيأخذ المركز الأمامي بعد ذلك!"
+    "tr": "Benzer şaşırtıcı gerçekler için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society & Aerodynamics of Avian Flight",
-    "url": "https://www.audubon.org/news/why-do-birds-fly-v-formation"
+    "name": "ScienceDirect & Taste Studies",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Neden Düz Uçmaz?",
+  "_topic": "Çikolata Neden Eridiğinde Tadı Değişir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-29T16:58:25.857279+00:00",
+  "generated_at": "2026-08-29T19:41:09.243563+00:00",
   "topic_guard_days": 180
 }

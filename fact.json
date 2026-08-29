@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmaklarımız Neden Buruşur?",
-    "body": "Banyoda veya havuzda uzun süre kalındığında parmaklarımızın buruşması, cildin suya doymasıyla oluşan pasif bir şişme değildir. Sinir sistemimizin kontrol ettiği aktif bir evrimsel tepkidir. Islak nesneleri daha rahat kavrayabilmemiz için parmak derimiz büzüşerek bir tür lastik diş profili oluşturur."
+    "headline": "Kuşlar Neden Düz Uçmaz?",
+    "body": "Gökyüzünde V şeklinde uçan kuşları mutlaka görmüşsünüzdür. Bu sadece rastgele bir grup hareketi değil, saf bir aerodinamik mucizesidir. Öndeki kuşun kanat uçlarında oluşan hava girdabı, arkasındaki kuşa bir 'asansör' etkisi yaratarak yukarı doğru iter. Bu sayede arkadaki kuşlar neredeyse yüzde yetmiş oranında daha az enerji harcar. Uzun göç yollarında lider sürekli değişir çünkü en öndeki kuş müthiş bir rüzgar direnciyle savaşır. Yani o kusursuz V formasyonu, doğanın yarattığı en akıllı enerji ortaklığıdır."
   },
   "en": {
-    "headline": "Why Do Our Fingers Wrinkle?",
-    "body": "When staying in water for a long time, the wrinkling of our fingers is not a passive swelling caused by water absorption. It is an active evolutionary response controlled by our nervous system. To grip wet objects better, our skin wrinkles, forming a tread-like pattern."
+    "headline": "Why Birds Don't Fly in Straight Lines",
+    "body": "You've definitely seen birds flying in a V-shape across the sky. This isn't just random group movement, but pure aerodynamic genius. The vortex created at the wingtips of the lead bird creates an 'elevator' effect, pushing the bird behind it upward. Because of this, the trailing birds use nearly seventy percent less energy. During long migrations, the leader constantly changes because the front bird fights immense wind resistance. That flawless V formation is nature's smartest energy-sharing network."
   },
   "es": {
-    "headline": "¿Por qué se arrugan nuestros dedos?",
-    "body": "Cuando pasamos mucho tiempo en el agua, la arruga en los dedos no es una hinchazón pasiva por absorción. Es una respuesta evolutiva activa controlada por el sistema nervioso. Para agarrar mejor objetos mojados, la piel se arruga formando un patrón de surcos."
+    "headline": "Por qué las aves no vuelan en línea recta",
+    "body": "Seguro que has visto aves volar en formación de V en el cielo. Esto no es un movimiento de grupo aleatorio, sino pura genialidad aerodinámica. El vórtice creado en las puntas de las alas del ave líder crea un efecto de 'ascensor' que empuja hacia arriba al ave que va detrás. Debido a esto, las aves seguidoras gastan casi un setenta por ciento menos energía. Durante las migraciones largas, el líder cambia constantemente porque el ave del frente lucha contra una enorme resistencia al viento. Esa formación en V es la red de energía más inteligente de la naturaleza."
   },
   "ar": {
-    "headline": "لماذا تنكمش أصابعنا؟",
-    "body": "عند البقاء في الماء لفترة طويلة، فإن انكماش الأصابع ليس تورماً سلبياً بسبب امتصاص الماء، بل هو استجابة تطورية نشطة يتحكم فيها الجهاز العصبي. لكي نتمكن من الإمساك بالأشياء المبللة بشكل أفضل، تنكمش بشرتنا مشكلة نمطاً يشبه الإطارات."
+    "headline": "لماذا لا تطير الطيور في خطوط مستقيمة؟",
+    "body": "لقد رأيت بالتأكيد طيوراً تطير على شكل حرف V في السماء. هذه ليست مجرد حركة جماعية عشوائية، بل هي عبقرية ديناميكية هوائية خالصة. الدوامة المتشكلة عند أطراف أجنحة الطائر المقدم تخلق تأثير 'المصعد'، مما يدفع الطائر خلفه إلى الأعلى. ولهذا السبب، تستخدم الطيور اللاحقة طاقة أقل بنسبة سبعين بالمائة تقريباً. خلال الهجرات الطويلة، يتغير القائد باستمرار لأن الطائر الأمامي يواجه مقاومة رياح هائلة. إن تشكيل V الخالي من العيوب هو أذكى شبكة مشاركة للطاقة في الطبيعة."
   },
   "reel_hook": {
-    "tr": "Parmaklarımız suda neden buruşur? Cevap tamamen yanlış biliniyor!",
-    "en": "Why do our fingers wrinkle in water? The answer is totally misunderstood!",
-    "es": "¿Por qué se arrugan nuestros dedos en el agua? ¡La respuesta es totalmente distinta!",
-    "ar": "لماذا تنكمش أصابعنا في الماء؟ الإجابة خاطئة تماماً مما تعتقد!"
+    "tr": "Gökyüzündeki o ünlü V formasyonu aslında dev bir hile!",
+    "en": "That famous V formation in the sky is actually a giant cheat code!",
+    "es": "¡Esa famosa formación en V en el cielo es en realidad un gran truco!",
+    "ar": "تشكيل V الشهير في السماء هو في الواقع خدعة ضخمة!"
   },
   "story_question": {
-    "tr": "Parmaklarımızın suda buruşması sizce neyin sonucudur?",
-    "en": "What do you think causes our fingers to wrinkle in water?",
-    "es": "¿A qué crees que se debe que se arruguen los dedos en el agua?",
-    "ar": "ما برأيك سبب انكماش الأصابع في الماء؟"
+    "tr": "V şeklinde uçan göçmen kuşlarda lider kuş yorulunca ne olur?",
+    "en": "What happens when the lead bird gets tired in a migrating V-formation?",
+    "es": "¿Qué sucede cuando el ave líder se cansa en una formación en V migratoria?",
+    "ar": "ماذا يحدث عندما يتعب الطائر القائد في تشكيل الهجرة على شكل V؟"
   },
   "story_options": [
-    "Cildin su emmesi",
-    "Sinirsel bir refleks",
-    "Derinin kuruması"
+    "Uçuşu bırakıp yere iner",
+    "Arkaya geçip dinlenir",
+    "Gruptan tamamen ayrılır"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
+    "#doğa",
+    "#kuşlar",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#vücudumuz",
-    "#keşfet",
-    "#evrim"
+    "#seyahat"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que escuche esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "En öndeki yerin kime kalacağını öğrenmek için takip et!",
+    "en": "Follow to find out who takes the front spot next!",
+    "es": "¡Sígueme para descubrir quién toma el lugar delantero!",
+    "ar": "تابع لمعرفة من سيأخذ المركز الأمامي بعد ذلك!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.25
+    "overall": 9
   },
   "source": {
-    "name": "National Institutes of Health",
-    "url": "https://www.nih.gov/"
+    "name": "Audubon Society & Aerodynamics of Avian Flight",
+    "url": "https://www.audubon.org/news/why-do-birds-fly-v-formation"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmaklarımız Neden Buruşur?",
+  "_topic": "Kuşlar Neden Düz Uçmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-29T15:41:25.209675+00:00",
+  "generated_at": "2026-08-29T16:58:25.857279+00:00",
   "topic_guard_days": 180
 }

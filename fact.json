@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çikolatanın Tarihindeki Para Birimi",
-    "body": "Bir zamanlar kakao çekirdekleri o kadar değerliydi ki antik Maya ve Aztek medeniyetlerinde doğrudan para birimi olarak kullanılıyordu. Öyle ki, bir tavşan satın almak ya da bir köle azat etmek için keselerce kakao çekirdeği ödemeniz gerekiyordu. Hatta sahte kakao çekirdeği üreten dolandırıcılar bile vardı."
+    "headline": "Kurşun Kalemler Aslında Kurşun İçermez!",
+    "body": "Yıllardır kullandığımız kurşun kalemlerin içinde zehirli kurşun olduğunu sanırız, değil mi? Aslında tamamen saf karbondan, yani grafit ve kil karışımından oluşurlar. Adının 'kurşun' kalması ise 16. yüzyılda İngiltere'de bulunan grafit yataklarının kurşun sanılmasından kaynaklanıyor."
   },
   "en": {
-    "headline": "Chocolate Used as Currency",
-    "body": "Cocoa beans were once so valuable that ancient Maya and Aztec civilizations used them as a direct currency. You needed bags of cocoa beans to buy a rabbit or free a slave. There were even counterfeiters making fake cocoa beans."
+    "headline": "Pencils Don't Actually Contain Lead!",
+    "body": "We often think the pencils we've used for years contain toxic lead, right? They are actually made entirely of pure carbon, a mixture of graphite and clay. The name stuck because when massive graphite deposits were found in England in the 16th century, people mistook it for lead."
   },
   "es": {
-    "headline": "El Chocolate como Moneda",
-    "body": "Los granos de cacao eran tan valiosos que las antiguas civilizaciones maya y azteca los usaban como moneda directa. Necesitabas bolsas de cacao para comprar un conejo o liberar a un esclavo. Incluso había falsificadores."
+    "headline": "¡Los Lápices En Realidad No Contienen Plomo!",
+    "body": "A menudo pensamos que los lápices que usamos contienen plomo tóxico, ¿verdad? En realidad están hechos de carbono puro, una mezcla de arcilla y grafito. El nombre se quedó porque en el siglo XVI en Inglaterra, la gente confundió los depósitos de grafito con plomo."
   },
   "ar": {
-    "headline": "الشوكولاتة كعملة رسمية",
-    "body": "كانت حبوب الكاكاو ذات قيمة عالية لدرجة أن حضارات المايا والآزتك القديمة استخدمتها كعملة مباشرة. كنت بحاجة إلى أكياس من الحبوب لشراء أرنب أو تحرير عبد، وكان هناك مزورون يصنعون حبوباً مزيفة."
+    "headline": "أقلام الرصاص لا تحتوي في الواقع على الرصاص!",
+    "body": "غالبًا ما نعتقد أن أقلام الرصاص تحتوي على الرصاص السام، أليس كذلك؟ إنها مصنوعة في الواقع بالكامل من الكربون النقي، وهو مزيج من الجرافيت والصلصال. وقد جاء الاسم لأن الناس في القرن السادس عشر في إنجلترا ظنوا خطأً أن رواسب الجرافيت هي رصاص."
   },
   "reel_hook": {
-    "tr": "Bir zamanlar cüzdanınızda çikolata taşıdığınızı hayal edin...",
-    "en": "Imagine carrying chocolate in your wallet instead of cash...",
-    "es": "Imagina llevar chocolate en tu billetera en lugar de dinero...",
-    "ar": "تخيل أنك تحمل الشوكولاتة في محفظتك بدلاً من النقود..."
+    "tr": "Her gün kullandığımız bu nesne aslında hiç zannettiğimiz madenden yapılmadı.",
+    "en": "This object we use every day is actually not made of the metal we think.",
+    "es": "Este objeto que usamos todos los días en realidad no está hecho del metal que creemos.",
+    "ar": "هذا الشيء الذي نستخدمه كل يوم ليس مصنوعًا في الواقع من المعدن الذي نعتقده."
   },
   "story_question": {
-    "tr": "Antik dönemde bir tavşan satın almak sizce kaç kakao çekirdeği ediyordu?",
-    "en": "How many cocoa beans do you think a rabbit cost in ancient times?",
-    "es": "¿Cuántos granos de cacao crees que costaba un conejo en la antigüedad?",
-    "ar": "برأيك، كم عدد حبوب الكاكاو التي كان يكلفها شراء أرنب في العصور القديمة؟"
+    "tr": "Kurşun kalemlerin içindeki ana madde olan grafit hangi elementin bir formudur?",
+    "en": "Graphite, the main substance inside pencils, is a form of which element?",
+    "es": "¿El grafito, la sustancia principal dentro de los lápices, es una forma de qué elemento?",
+    "ar": "الجرافيت، المادة الأساسية داخل أقلام الرصاص، هو شكل من أشكال أي عنصر؟"
   },
   "story_options": [
-    "10 çekirdek",
-    "100 çekirdek",
-    "1000 çekirdek"
+    "Karbon",
+    "Demir",
+    "Bakır"
   ],
   "hashtags": [
     "#FactBite",
-    "#çikolata",
-    "#tarih",
-    "#aztek",
-    "#maya",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#ekonomi"
+    "#bilim",
+    "#tarih",
+    "#keşfet",
+    "#öğren"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı tarih gerçekleri için takip etmeyi unutma!",
-    "en": "Follow for more surprising history facts!",
-    "es": "¡Sígueme para más datos históricos sorprendentes!",
-    "ar": "تابعنا لمزيد من الحقائق التاريخية المدهشة!"
+    "tr": "Bunu ilk defa duyuyorsan çift tıkla ve takip et!",
+    "en": "Double tap and follow if this is your first time hearing this!",
+    "es": "¡Toca dos veces y síguenos si es la primera vez que escuchas esto!",
+    "ar": "اضغط مرتين وتابعنا إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "World History Encyclopedia",
-    "url": "https://www.worldhistory.org/article/1660/chocolate-in-mesoamerica/"
+    "name": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/technology/pencil"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çikolatanın Tarihindeki Para Birimi",
+  "_topic": "Kurşun Kalemler Aslında Kurşun İçermez!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-29T12:40:21.484381+00:00",
+  "generated_at": "2026-08-29T13:52:58.349202+00:00",
   "topic_guard_days": 180
 }

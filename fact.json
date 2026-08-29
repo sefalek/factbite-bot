@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Solucanların Hiç Gözü Olmadığı Halde Işığı Nasıl Gördüğü",
-    "body": "Toprak solucanlarının aynalara bakacak gözleri yoktur ama güneşin doğduğunu hemen hissederler. Derilerinin hemen altında bulunan özel ışığa duyarlı hücreler sayesinde, yerin metrelerce altındayken bile karanlıkla aydınlığı ayırt edebilirler."
+    "headline": "Kuşlar Neden V Şeklinde Uçar?",
+    "body": "Gökyüzünde V harfi yaparak uçan göçmen kuşları sıkça görürüz. Bunun nedeni sadece estetik değil, saf fizik! Öndeki kuşun kanat çırparak arkasında oluşturduğu hava akımı, arkasındaki kuş için müthiş bir kaldırma kuvveti sağlar. Böylece sürüdekiler enerji tasarrufu yapar ve çok daha uzun mesafeleri yorulmadan kat edebilirler."
   },
   "en": {
-    "headline": "How Earthworms Sense Light Without Any Eyes",
-    "body": "Earthworms don't have eyes to look in mirrors, but they instantly know when the sun rises. Thanks to special light-sensitive cells right beneath their skin, they can tell dark from light even meters underground."
+    "headline": "Why Do Birds Fly in a V Formation?",
+    "body": "We often see migratory birds flying in a V shape in the sky. This is not just for looks, it's pure physics! The updraft created by the leading bird's flapping wings provides massive lift for the bird right behind it. This way, the flock saves energy and can travel much longer distances without getting exhausted."
   },
   "es": {
-    "headline": "Cómo las lombrices de tierra detectan la luz sin ojos",
-    "body": "Las lombrices de tierra no tienen ojos para mirarse al espejo, pero saben al instante cuándo sale el sol. Gracias a células especiales sensibles a la luz justo bajo su piel, pueden distinguir la oscuridad de la luz incluso a metros bajo tierra."
+    "headline": "¿Por qué vuelan las aves en formación de V?",
+    "body": "A menudo vemos aves migratorias volando en formación de V en el cielo. ¡No es solo estética, es pura física! La corriente de aire ascendente creada por el aleteo del ave líder proporciona una gran sustentación para la que va detrás. Así, la bandada ahorra energía y puede recorrer distancias mucho mayores sin agotarse."
   },
   "ar": {
-    "headline": "كيف تشعر ديدان الأرض بالضوء دون أي عيون",
-    "body": "ديدان الأرض ليس لديها عيون لتنظر في المرآة، لكنها تعرف فوراً متى تشرق الشمس. بفضل خلايا حساسة للضوء تحت جلدها مباشرة، يمكنها التمييز بين الظلام والضوء حتى على عمق أمتار تحت الأرض."
+    "headline": "لماذا تطير الطيور على شكل حرف V؟",
+    "body": "غالبًا ما نرى الطيور المهاجرة تطير على شكل حرف V في السماء. هذا ليس مجرد مظهر جمالي، بل هو فيزياء بحتة! التيار الهوائي الصاعد الذي يخلقه الجناح الخافق للطير المتقدم يوفر قوة رفع هائلة للطير الذي خلفه مباشِّرة. بهذه الطريقة، يوفر السرب الطاقة ويمكنه قطع مسافات أطول بكثير دون إرهاق."
   },
   "reel_hook": {
-    "tr": "Gözleri olmayan bir canlı, karanlıkta ışığı nasıl hisseder?",
-    "en": "How does a creature without eyes sense light in the dark?",
-    "es": "¿Cómo una criatura sin ojos siente la luz en la oscuridad?",
-    "ar": "كيف تشعر مخلوقات بلا عيون بالضوء في الظلام؟"
+    "tr": "Göçmen kuşların o meşhur V uçuşunun arkasındaki inanılmaz sırrı biliyor musunuz?",
+    "en": "Do you know the incredible secret behind migratory birds' famous V formation?",
+    "es": "¿Conoces el increíble secreto detrás de la famosa formación en V de las aves migratorias?",
+    "ar": "هل تعلم السر المذهل وراء طيران الطيور المهاجرة الشهير على شكل حرف V؟"
   },
   "story_question": {
-    "tr": "Toprak solucanları ışığı hangi organlarıyla algılar?",
-    "en": "Which body part do earthworms use to perceive light?",
-    "es": "¿Qué parte del cuerpo usan las lombrices para percibir la luz?",
-    "ar": "أي جزء من الجسم تستخدمه ديدان الأرض لإدراك الضوء؟"
+    "tr": "V şeklindeki uçuş sırasında en çok yorulan kuş sence hangisidir?",
+    "en": "Which bird do you think gets the most tired during V-formation flight?",
+    "es": "¿Qué ave crees que se cansa más durante el vuelo en formación V?",
+    "ar": "برأيك، أي طير يتعب أكثر أثناء الطيران على شكل حرف V؟"
   },
   "story_options": [
-    "Özel deri hücreleriyle",
-    "Minik baş dokunaçlarıyla",
-    "Ağız içindeki sensörlerle"
+    "En öndeki kuş",
+    "En arkadaki kuş",
+    "Sürenin ortasındaki kuşlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#solucan",
     "#doğa",
+    "#kuşlar",
     "#bilim",
-    "#biyoloji",
-    "#ilginçbilgiler",
+    "#hayvanlar",
+    "#fizik",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos de la naturaleza como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
     "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/earthworms"
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Solucanların Hiç Gözü Olmadığı Halde Işığı Nasıl Gördüğü",
+  "_topic": "Kuşlar Neden V Şeklinde Uçar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-29T21:31:47.274211+00:00",
+  "generated_at": "2026-08-29T22:48:09.189834+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Muzların Aslında Meyve Olmadığını Biliyor muydunuz?",
-    "body": "Botanikte muz, ağaçta yetişmesine rağmen aslında dev bir otsu bitkidir. Ve daha da ilginci, sahip olduğu o kıvrımlı şekil güneşe doğru büyüme çabasından kaynaklanır."
+    "headline": "Camların Aslında Sıvı Olduğu Yalanı",
+    "body": "Eski binalardaki camların altta kalın, üstte ince olması 'camlar yavaşça akar' mitini doğurdu. Ama gerçek şu ki cam, ne katı ne de sıvı; o amorf bir katı. Pencerelerdeki kalınlaşma ise eski üretim tekniklerindeki dalgalanmalardan kaynaklanıyor."
   },
   "en": {
-    "headline": "Did You Know Bananas Aren't Actually Fruits?",
-    "body": "In botany, despite growing on trees, a banana plant is actually a giant herb. And even more interesting, that curved shape comes from striving to grow toward the sun."
+    "headline": "The Myth That Glass Is Actually a Slow Liquid",
+    "body": "Thicker glass at the bottom of old windows sparked the myth that glass slowly flows. But glass is an amorphous solid, neither a strict liquid nor crystal. That thickness just comes from uneven ancient manufacturing methods."
   },
   "es": {
-    "headline": "¿Sabías que los plátanos no son frutas en realidad?",
-    "body": "En botánica, a pesar de crecer en árboles, la planta del plátano es en realidad una hierba gigante. Y lo más interesante es que su forma curvada se debe a su esfuerzo por crecer hacia el sol."
+    "headline": "El mito de que el vidrio es un líquido lento",
+    "body": "El vidrio más grueso en la base de ventanas antiguas creó el mito de que fluye lentamente. Pero el vidrio es un sólido amoroso, ni un líquido ni un cristal estricto. Ese grosor proviene de métodos de fabricación antiguos."
   },
   "ar": {
-    "headline": "هل كنت تعلم أن الموز ليس فاكهة في الواقع؟",
-    "body": "في علم النبات، على الرغم من نموه على الأشجار، إلا أن نبتة الموز هي في الواقع عشب عملاق. والأكثر إثارة للاهتمام أن هذا الشكل المنحني ناتج عن محاولته النمو نحو الشمس."
+    "headline": "أسطورة أن الزجاج سائل يتحرك ببطء",
+    "body": "الزجاج السميك في أسفل النوافذ القديمة أثار أسطورة أنه يتدفق ببطء. لكن الزجاج مادة صلبة غير بلورية، وليست سائلاً حقيقياً. هذا السمك ناتج فقط عن طرق التصنيع القديمة."
   },
   "reel_hook": {
-    "tr": "Her gün yediğimiz muz hakkında bildiğimiz her şey yanlış olabilir.",
-    "en": "Everything we know about the banana we eat every day might be wrong.",
-    "es": "Todo lo que sabemos sobre el plátano que comemos todos los días podría estar mal.",
-    "ar": "كل ما نعرفه عن الموز الذي نأكله كل يوم قد يكون خاطئاً."
+    "tr": "Eski pencerelerdeki camlar gerçekten aşağıya doğru akıyor mu?",
+    "en": "Are the glass panes in old windows actually flowing downward?",
+    "es": "¿Los vidrios de las ventanas antiguas realmente fluyen hacia abajo?",
+    "ar": "هل ألواح الزجاج في النوافذ القديمة تتدفق نحو الأسفل حقاً؟"
   },
   "story_question": {
-    "tr": "Muz bitkisi odunsu bir gövdeye mi sahiptir?",
-    "en": "Does the banana plant have a woody stem?",
-    "es": "¿La planta de plátano tiene un tallo leñoso?",
-    "ar": "هل نبتة الموز لها ساق خشبية؟"
+    "tr": "Eski pencerelerdeki camların altta kalın olması neye bağlıdır?",
+    "en": "What causes the glass in old windows to be thicker at the bottom?",
+    "es": "¿A qué se debe que el vidrio en ventanas antiguas sea más grueso abajo?",
+    "ar": "ما الذي يجعل الزجاج في النوافذ القديمة أكثر سمكاً في الأسفل؟"
   },
   "story_options": [
-    "Evet, sert bir gövdesi var",
-    "Hayır, tamamen otsu",
-    "Sadece kökü odunsu"
+    "Yavaşça akmasına",
+    "Üretim hatalarına",
+    "Yer çekimi etkisine"
   ],
   "hashtags": [
     "#FactBite",
-    "#muz",
     "#bilim",
-    "#botanik",
+    "#gerçekler",
+    "#fizik",
     "#ilginçbilgiler",
-    "#doğa",
-    "#keşfet"
+    "#tarih"
   ],
   "cta": {
     "tr": "Bunu ilk kez duyan arkadaşına gönder!",
     "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "es": "¡Envíaselo a un amigo que escuche esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "Kew Royal Botanic Gardens",
-    "url": "https://www.kew.org"
+    "name": "Corning Museum of Glass",
+    "url": "https://www.cmog.org/article/window-glass-flows"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Muzların Aslında Meyve Olmadığını Biliyor muydunuz?",
+  "_topic": "Camların Aslında Sıvı Olduğu Yalanı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-29T00:57:18.197948+00:00",
+  "generated_at": "2026-08-29T02:55:34.968940+00:00",
   "topic_guard_days": 180
 }

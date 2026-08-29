@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Sakin Gücü: Istakozların İşitme Sistemi",
-    "body": "Istakozların kulakları kafalarında değil, ayaklarının üzerindedir. Vücutlarının bu özel bölgeleri sayesinde su altındaki en hafif titreşimleri bile hissedebilirler."
+    "headline": "Muzların Aslında Meyve Olmadığını Biliyor muydunuz?",
+    "body": "Botanikte muz, ağaçta yetişmesine rağmen aslında dev bir otsu bitkidir. Ve daha da ilginci, sahip olduğu o kıvrımlı şekil güneşe doğru büyüme çabasından kaynaklanır."
   },
   "en": {
-    "headline": "The Silent Power of the Sea: Lobster Hearing",
-    "body": "Lobsters do not have ears on their heads, but on their legs. Thanks to these special areas of their bodies, they can sense even the slightest vibrations underwater."
+    "headline": "Did You Know Bananas Aren't Actually Fruits?",
+    "body": "In botany, despite growing on trees, a banana plant is actually a giant herb. And even more interesting, that curved shape comes from striving to grow toward the sun."
   },
   "es": {
-    "headline": "El Poder Oculto del Mar: El Oído de las Langostas",
-    "body": "Las langostas no tienen orejas en la cabeza, sino en las patas. Gracias a estas zonas especiales de su cuerpo, pueden sentir hasta las vibraciones más leves bajo el agua."
+    "headline": "¿Sabías que los plátanos no son frutas en realidad?",
+    "body": "En botánica, a pesar de crecer en árboles, la planta del plátano es en realidad una hierba gigante. Y lo más interesante es que su forma curvada se debe a su esfuerzo por crecer hacia el sol."
   },
   "ar": {
-    "headline": "القوة الخفية للبحار: سمع الكركند",
-    "body": "لا يمتلك الكركند أذنين على رأسه، بل على ساقيه. بفضل هذه المناطق الخاصة في أجسامهم، يمكنهم استشعار حتى أخف الأهتزازات تحت الماء."
+    "headline": "هل كنت تعلم أن الموز ليس فاكهة في الواقع؟",
+    "body": "في علم النبات، على الرغم من نموه على الأشجار، إلا أن نبتة الموز هي في الواقع عشب عملاق. والأكثر إثارة للاهتمام أن هذا الشكل المنحني ناتج عن محاولته النمو نحو الشمس."
   },
   "reel_hook": {
-    "tr": "Istakozların kulakları nerede biliyor musunuz? Başınızda arıyorsanız yanılıyorsunuz.",
-    "en": "Do you know where lobsters' ears are? If you are looking on their head, you are wrong.",
-    "es": "¿Sabes dónde tienen las orejas las langostas? Si las buscas en la cabeza, te equivocas.",
-    "ar": "هل تعلم أين أذنا الكركند؟ إذا كنت تبحث عنهما في رأسه، فأنت مخطئ."
+    "tr": "Her gün yediğimiz muz hakkında bildiğimiz her şey yanlış olabilir.",
+    "en": "Everything we know about the banana we eat every day might be wrong.",
+    "es": "Todo lo que sabemos sobre el plátano que comemos todos los días podría estar mal.",
+    "ar": "كل ما نعرفه عن الموز الذي نأكله كل يوم قد يكون خاطئاً."
   },
   "story_question": {
-    "tr": "Sizce ıstakozlar kulakları olmadan sesleri nasıl algılar?",
-    "en": "How do you think lobsters perceive sounds without ears?",
-    "es": "¿Cómo crees que las langostas perciben los sonidos sin orejas?",
-    "ar": "كيف تعتقد أن الكركند يستشعر الأصوات بدون آذان؟"
+    "tr": "Muz bitkisi odunsu bir gövdeye mi sahiptir?",
+    "en": "Does the banana plant have a woody stem?",
+    "es": "¿La planta de plátano tiene un tallo leñoso?",
+    "ar": "هل نبتة الموز لها ساق خشبية؟"
   },
   "story_options": [
-    "Antenleriyle",
-    "Ayaklarındaki tüylerle",
-    "Kıskaçlarıyla"
+    "Evet, sert bir gövdesi var",
+    "Hayır, tamamen otsu",
+    "Sadece kökü odunsu"
   ],
   "hashtags": [
     "#FactBite",
+    "#muz",
     "#bilim",
+    "#botanik",
     "#ilginçbilgiler",
     "#doğa",
-    "#deniz",
-    "#keşfet",
-    "#öğrenme"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق الممتعة مثله!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Marine Biological Laboratory",
-    "url": "https://www.mbl.edu"
+    "name": "Kew Royal Botanic Gardens",
+    "url": "https://www.kew.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Sakin Gücü: Istakozların İşitme Sistemi",
+  "_topic": "Muzların Aslında Meyve Olmadığını Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-28T23:53:46.274549+00:00",
+  "generated_at": "2026-08-29T00:57:18.197948+00:00",
   "topic_guard_days": 180
 }

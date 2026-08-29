@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çikolata Neden Eridiğinde Tadı Değişir?",
-    "body": "Aynı çikolatayı hem katı hem de erimiş halde yediniz mi? Tadı size de farklı gelmiş olabilir. Bunun sebebi dilimizdeki tat alıcılarının sıcaklığa duyarlı olmasıdır. Çikolata eridiğinde yayılan aromatik moleküller ısı sayesinde burnumuza ve tat tomurcuklarımıza daha hızlı ulaşır."
+    "headline": "Solucanların Hiç Gözü Olmadığı Halde Işığı Nasıl Gördüğü",
+    "body": "Toprak solucanlarının aynalara bakacak gözleri yoktur ama güneşin doğduğunu hemen hissederler. Derilerinin hemen altında bulunan özel ışığa duyarlı hücreler sayesinde, yerin metrelerce altındayken bile karanlıkla aydınlığı ayırt edebilirler."
   },
   "en": {
-    "headline": "Why Does Chocolate Taste Different When Melted?",
-    "body": "Have you ever eaten the same chocolate both solid and melted? It might have tasted different to you. This is because the taste receptors on our tongue are sensitive to temperature. The aromatic molecules released when chocolate melts reach our nose and taste buds faster thanks to the heat."
+    "headline": "How Earthworms Sense Light Without Any Eyes",
+    "body": "Earthworms don't have eyes to look in mirrors, but they instantly know when the sun rises. Thanks to special light-sensitive cells right beneath their skin, they can tell dark from light even meters underground."
   },
   "es": {
-    "headline": "¿Por qué el chocolate sabe diferente cuando se derrite?",
-    "body": "¿Alguna vez has comido el mismo chocolate sólido y derretido? Puede que te haya sabido diferente. Esto se debe a que los receptores gustativos de nuestra lengua son sensibles a la temperatura. Las moléculas aromáticas liberadas cuando el chocolate se derrite llegan más rápido a nuestra nariz y papilas gustativas gracias al calor."
+    "headline": "Cómo las lombrices de tierra detectan la luz sin ojos",
+    "body": "Las lombrices de tierra no tienen ojos para mirarse al espejo, pero saben al instante cuándo sale el sol. Gracias a células especiales sensibles a la luz justo bajo su piel, pueden distinguir la oscuridad de la luz incluso a metros bajo tierra."
   },
   "ar": {
-    "headline": "لماذا يختلف طعم الشوكولاتة عندما تذوب؟",
-    "body": "هل أكلت نفس الشوكولاتة صلبة ومذابة؟ ربما تبدو لك مختلفة في الطعم. والسبب في ذلك هو أن مستقبلات التذوق في لساننا حساسة للدرجات الحرارة. الجزيئات العطرية التي تنطلق عندما تذوب الشوكولاتة تصل إلى أنفنا وبراعم التذوق بشكل أسرع بفضل الحرارة."
+    "headline": "كيف تشعر ديدان الأرض بالضوء دون أي عيون",
+    "body": "ديدان الأرض ليس لديها عيون لتنظر في المرآة، لكنها تعرف فوراً متى تشرق الشمس. بفضل خلايا حساسة للضوء تحت جلدها مباشرة، يمكنها التمييز بين الظلام والضوء حتى على عمق أمتار تحت الأرض."
   },
   "reel_hook": {
-    "tr": "Aynı çikolata, eridiğinde neden tamamen farklı bir lezzete dönüşür?",
-    "en": "Why does the exact same chocolate turn into a completely different flavor when melted?",
-    "es": "¿Por qué exactamente el mismo chocolate se convierte en un sabor completamente diferente cuando se derrite?",
-    "ar": "لماذا تتحول نفس الشوكولاتة تماماً إلى نكهة مختلفة تماماً عندما تذوب؟"
+    "tr": "Gözleri olmayan bir canlı, karanlıkta ışığı nasıl hisseder?",
+    "en": "How does a creature without eyes sense light in the dark?",
+    "es": "¿Cómo una criatura sin ojos siente la luz en la oscuridad?",
+    "ar": "كيف تشعر مخلوقات بلا عيون بالضوء في الظلام؟"
   },
   "story_question": {
-    "tr": "Dilimizdeki tat alıcıları sıcaklığa karşı duyarlı mıdır?",
-    "en": "Are the taste receptors on our tongue sensitive to temperature?",
-    "es": "¿Son sensibles a la temperatura los receptores gustativos de nuestra lengua?",
-    "ar": "هل مستقبلات التذوق في لساننا حساسة لدرجة الحرارة؟"
+    "tr": "Toprak solucanları ışığı hangi organlarıyla algılar?",
+    "en": "Which body part do earthworms use to perceive light?",
+    "es": "¿Qué parte del cuerpo usan las lombrices para percibir la luz?",
+    "ar": "أي جزء من الجسم تستخدمه ديدان الأرض لإدراك الضوء؟"
   },
   "story_options": [
-    "Evet, kesinlikle",
-    "Hayır, sadece tuza duyarlı",
-    "Sadece sıvı gıdalarda"
+    "Özel deri hücreleriyle",
+    "Minik baş dokunaçlarıyla",
+    "Ağız içindeki sensörlerle"
   ],
   "hashtags": [
     "#FactBite",
-    "#çikolata",
+    "#solucan",
+    "#doğa",
     "#bilim",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#gıda",
-    "#keşfet",
-    "#merak"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos de la naturaleza como este!",
+    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
+    "surprise": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "ScienceDirect & Taste Studies",
-    "url": "https://www.sciencedirect.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/earthworms"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çikolata Neden Eridiğinde Tadı Değişir?",
+  "_topic": "Solucanların Hiç Gözü Olmadığı Halde Işığı Nasıl Gördüğü",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-29T19:41:09.243563+00:00",
+  "generated_at": "2026-08-29T21:31:47.274211+00:00",
   "topic_guard_days": 180
 }

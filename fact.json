@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Tüyleri Aslında Uçmaktan Çok Daha Ağır Bir Sırrı Saklar",
-    "body": "Bir kuşun tüylerinin toplam ağırlığı, genellikle iskeletinin tamamından daha ağırdır. Uçmalarını sağlayan bu hafif yapının ardında, vücut ağırlıklarının büyük bir kısmını oluşturan inanılmaz bir tüy yoğunluğu yatar."
+    "headline": "Çikolatanın Tarihindeki Para Birimi",
+    "body": "Bir zamanlar kakao çekirdekleri o kadar değerliydi ki antik Maya ve Aztek medeniyetlerinde doğrudan para birimi olarak kullanılıyordu. Öyle ki, bir tavşan satın almak ya da bir köle azat etmek için keselerce kakao çekirdeği ödemeniz gerekiyordu. Hatta sahte kakao çekirdeği üreten dolandırıcılar bile vardı."
   },
   "en": {
-    "headline": "Bird Feathers Actually Weigh More Than Their Entire Skeleton",
-    "body": "The total weight of a bird's feathers is often heavier than its entire skeleton. Behind this lightweight structure that enables flight lies an incredible feather density that makes up a large portion of their body weight."
+    "headline": "Chocolate Used as Currency",
+    "body": "Cocoa beans were once so valuable that ancient Maya and Aztec civilizations used them as a direct currency. You needed bags of cocoa beans to buy a rabbit or free a slave. There were even counterfeiters making fake cocoa beans."
   },
   "es": {
-    "headline": "Las plumas de las aves pesan en realidad más que todo su esqueleto",
-    "body": "El peso total de las plumas de un ave suele ser mayor que el de todo su esqueleto. Detrás de esta estructura ligera que permite el vuelo se esconde una increíble densidad de plumas."
+    "headline": "El Chocolate como Moneda",
+    "body": "Los granos de cacao eran tan valiosos que las antiguas civilizaciones maya y azteca los usaban como moneda directa. Necesitabas bolsas de cacao para comprar un conejo o liberar a un esclavo. Incluso había falsificadores."
   },
   "ar": {
-    "headline": "ريش الطيور في الواقع أثقل من هيكلها العظمي بأكمله",
-    "body": "الوزن الإجمالي لريش الطائر غالباً ما يكون أثقل من هيكله العظمي بأكمله. وراء هذا الهيكل الخفيف الذي يتيح الطيران تكمن كثافة ريش مذهلة."
+    "headline": "الشوكولاتة كعملة رسمية",
+    "body": "كانت حبوب الكاكاو ذات قيمة عالية لدرجة أن حضارات المايا والآزتك القديمة استخدمتها كعملة مباشرة. كنت بحاجة إلى أكياس من الحبوب لشراء أرنب أو تحرير عبد، وكان هناك مزورون يصنعون حبوباً مزيفة."
   },
   "reel_hook": {
-    "tr": "Bir kuşun tüyleri kemiklerinden daha mı ağırdır?",
-    "en": "Are a bird's feathers heavier than its bones?",
-    "es": "¿Las plumas de un ave son más pesadas que sus huesos?",
-    "ar": "هل ريش الطائر أثقل من عظامه؟"
+    "tr": "Bir zamanlar cüzdanınızda çikolata taşıdığınızı hayal edin...",
+    "en": "Imagine carrying chocolate in your wallet instead of cash...",
+    "es": "Imagina llevar chocolate en tu billetera en lugar de dinero...",
+    "ar": "تخيل أنك تحمل الشوكولاتة في محفظتك بدلاً من النقود..."
   },
   "story_question": {
-    "tr": "Sizce bir kuşun vücut ağırlığının ne kadarını tüyleri oluşturur?",
-    "en": "What percentage of a bird's body weight do you think comes from its feathers?",
-    "es": "¿Qué porcentaje del peso corporal de un ave crees que proviene de sus plumas?",
-    "ar": "برأيك ما هينسبة وزن جسم الطائر التي تأتي من ريشه؟"
+    "tr": "Antik dönemde bir tavşan satın almak sizce kaç kakao çekirdeği ediyordu?",
+    "en": "How many cocoa beans do you think a rabbit cost in ancient times?",
+    "es": "¿Cuántos granos de cacao crees que costaba un conejo en la antigüedad?",
+    "ar": "برأيك، كم عدد حبوب الكاكاو التي كان يكلفها شراء أرنب في العصور القديمة؟"
   },
   "story_options": [
-    "İskeletiyle aynı ağırlıkta",
-    "İskeletinden daha ağır",
-    "Çok hafif, ihmal edilebilir"
+    "10 çekirdek",
+    "100 çekirdek",
+    "1000 çekirdek"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#kuşlar",
-    "#doğa",
-    "#bilim",
+    "#çikolata",
+    "#tarih",
+    "#aztek",
+    "#maya",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#ekonomi"
   ],
   "cta": {
-    "tr": "Bunu bildiğin bir arkadaşına gönder!",
-    "en": "Send this to a friend who needs to know!",
-    "es": "¡Envíaselo a un amigo que necesite saber esto!",
-    "ar": "أرسل هذا لصديق يحتاج لمعرفة ذلك!"
+    "tr": "Daha fazla şaşırtıcı tarih gerçekleri için takip etmeyi unutma!",
+    "en": "Follow for more surprising history facts!",
+    "es": "¡Sígueme para más datos históricos sorprendentes!",
+    "ar": "تابعنا لمزيد من الحقائق التاريخية المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "World History Encyclopedia",
+    "url": "https://www.worldhistory.org/article/1660/chocolate-in-mesoamerica/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Tüyleri Aslında Uçmaktan Çok Daha Ağır Bir Sırrı Saklar",
+  "_topic": "Çikolatanın Tarihindeki Para Birimi",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-29T11:40:30.231364+00:00",
+  "generated_at": "2026-08-29T12:40:21.484381+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çin Tuzu Aslında Ne Renktedir?",
-    "body": "Yemeklerde lezzet artırıcı olarak bilinen monosodyum glutamat, yani halk adıyla Çin tuzu, toz formundayken bembeyaz kristallerden oluşur. Ancak bu maddenin kökeni ilk keşfedildiğinde tamamen saf sıvı bir özüt olarak ortaya çıkmıştır. Bilinenin aksine suni bir kimyasal değil, deniz yosunundan elde edilen doğal bir bileşiktir."
+    "headline": "Kuşların Tüylerindeki Şaşırtıcı Ağırlık Sırrı",
+    "body": "Hiç düşündünüz mü, bir kuşun tüyleri kendi kemiklerinden bile daha mı ağırdır? Cevap evet! Örneğin bir kartalın iskeleti, tüm tüylerinin toplam ağırlığından daha hafiftir. Uçabilmek için inanılmaz derecede hafif olmaları gerekir ama tüyler, aerodinamik ve sıcaklık dengesi için onlara hayatta kalma gücü verir."
   },
   "en": {
-    "headline": "What Color Is MSG Really?",
-    "body": "Monosodium glutamate, commonly known as MSG, appears as pure white crystals in its powdered form. However, its origin when first discovered was entirely a pure liquid extract. Contrary to popular belief, it is not a synthetic chemical, but a natural compound derived from seaweed."
+    "headline": "The Surprising Weight Secret of Bird Feathers",
+    "body": "Have you ever wondered if a bird's feathers weigh more than its actual bones? The answer is yes! For instance, an eagle's skeleton is lighter than the combined weight of all its feathers. They need to be incredibly light to fly, yet feathers provide the crucial aerodynamic and thermal power for survival."
   },
   "es": {
-    "headline": "¿De qué color es realmente el glutamato monosódico?",
-    "body": "El glutamato monosódico, conocido comúnmente como GMS, se presenta en forma de cristales blancos en polvo. Sin embargo, su origen cuando se descubrió por primera vez fue un extracto líquido puro. Al contrario de la creencia popular, no es un químico sintético, sino un compuesto natural derivado de las algas marinas."
+    "headline": "El Sorprendente Secreto del Peso de las Plumas",
+    "body": "¿Alguna vez te has preguntado si las plumas de un ave pesan más que sus propios huesos? ¡La respuesta es sí! Por ejemplo, el esqueleto de un águila es más ligero que el peso combinado de todas sus plumas. Deben ser increíblemente ligeras para volar, pero las plumas les dan el poder aerodinámico y térmico."
   },
   "ar": {
-    "headline": "ما هو لوني الحقيقي لغلوتامات أحادية الصوديوم؟",
-    "body": "تظهر غلوتامات أحادية الصوديوم، والمعروفة باسم MSG، بلورات بيضاء نقية في شكل مسحوق. ومع ذلك، كان أصلها عند اكتشافها لأول مرة مستخلصاً سائلًا نقيًا تمامًا. وخلافًا للاعتقاد السائد، فهي ليست مادة كيميائية اصطناعية، بل مركب طبيعي مستمد من الأعشاب البحرية."
+    "headline": "سر الوزن المدهش لريش الطيور",
+    "body": "هل فكرت يوماً ما إذا كان ريش الطائر أثقل من عظام نفسه؟ الإجابة هي نعم! على سبيل المثال، هيكل العقرب أو النسر أخف وزناً من مجموع كل ريشه. يجب أن تكون خفيفة بشكل لا يصدق لتطير، لكن الريش يوفر لها القوة الديناميكية الهوائية والحرارية اللازمة."
   },
   "reel_hook": {
-    "tr": "Mutfakta sıkça kullandığınız o beyaz tozun aslında denizden çıktığını biliyor muydunuz?",
-    "en": "Did you know that white powder you use in the kitchen actually comes from the sea?",
-    "es": "¿Sabías que ese polvo blanco que usas en la cocina en realidad viene del mar?",
-    "ar": "هل كنت تعلم أن هذا المسحوق الأبيض الذي تستخدمه في المطبخ يأتي في الواقع من البحر؟"
+    "tr": "Bir kuşun kemikleri mi daha ağırdır, yoksa tüyleri mi?",
+    "en": "Are a bird's bones heavier, or its feathers?",
+    "es": "¿Son más pesados los huesos de un pájaro o sus plumas?",
+    "ar": "هل عظام الطائر أثقل، أم ريشه؟"
   },
   "story_question": {
-    "tr": "Çin tuzu ilk olarak hangi gıdanın özütünden elde edilmiştir?",
-    "en": "From which food was MSG originally extracted?",
-    "es": "¿De qué alimento se extrajo originalmente el GMS?",
-    "ar": "من أي طعام تم استخراج غلوتامات أحادية الصوديوم في الأصل؟"
+    "tr": "Sizce bir kartalın iskeleti mi daha ağırdır, yoksa üzerindeki tüm tüyler mi?",
+    "en": "Do you think an eagle's skeleton is heavier, or all its feathers combined?",
+    "es": "¿Crees que el esqueleto de un águila es más pesado o todas sus plumas juntas?",
+    "ar": "برأيك، هل هيكل العقرب أثقل أم كل ريشه مجتمعاً؟"
   },
   "story_options": [
-    "Deniz Yosunu",
-    "Pirinç",
-    "Soya Fasulyesi"
+    "İskeleti daha ağır",
+    "Tüyleri daha ağır",
+    "İkisi de eşit ağırlıkta"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#yemek",
+    "#kuşlar",
     "#bilim",
+    "#doğa",
     "#ilginçbilgiler",
-    "#mutfak",
-    "#keşfet"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts like this!",
-    "es": "¡Mantente atento a más datos sorprendentes como este!",
-    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.5
+    "surprise": 9,
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Encyclopædia Britannica",
-    "url": "https://www.britannica.com/topic/monosodium-glutamate"
+    "name": "Ornithology and Bird Anatomy Studies",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çin Tuzu Aslında Ne Renktedir?",
+  "_topic": "Kuşların Tüylerindeki Şaşırtıcı Ağırlık Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-30T11:52:18.217441+00:00",
+  "generated_at": "2026-08-30T13:48:57.260901+00:00",
   "topic_guard_days": 180
 }

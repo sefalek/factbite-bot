@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yıldız Tozu Su",
-    "body": "Dünyadaki suyun büyük bir kısmı, Güneş Sistemi'miz daha kurulmadan önce uzayda süzülen buz tanelerinden geliyordu. İçtiğin su, aslında milyarlarca yıllık yıldızlararası bir yolcudur."
+    "headline": "Kibrit Çöpü Neden Kendi Kendine Yanmaz?",
+    "body": "Evinizde her gün kullandığınız o küçük kibrit çöpleri... Kutunun kenarına sürtmeden asla yanmazlar. Bunun sırrı üzerindeki kimyasalın havada değil, sadece kutudaki özel yüzeyle birleştiğinde tepkimeye girmesidir."
   },
   "en": {
-    "headline": "Stardust Water",
-    "body": "A large portion of Earth's water came from ice grains drifting in space even before our solar system was formed. The water you drink is actually a billion-year-old interstellar traveler."
+    "headline": "Why Doesn't a Matchstick Ignite by Itself?",
+    "body": "Those small matchsticks you use every day... they never ignite without striking the box. The secret is that the chemical on the head reacts only when combined with the special surface on the box."
   },
   "es": {
-    "headline": "Agua de Polvo Estelar",
-    "body": "Una gran parte del agua de la Tierra provino de granos de hielo que flotaban en el espacio incluso antes de que se formara nuestro sistema solar. El agua que bebes es en realidad una viajera interestelar de miles de millones de años."
+    "headline": "¿Por qué un cerillo no se enciende solo?",
+    "body": "Esos pequeños cerillos que usas todos los días... nunca se encienden sin raspar la caja. El secreto es que el químico de la cabeza solo reacciona al combinarse con la superficie especial de la caja."
   },
   "ar": {
-    "headline": "ماء غبار النجوم",
-    "body": "جزء كبير من مياه الأرض جاء من حبيبات الجليد العائمة في الفضاء قبل حتى تشكل نظامنا الشمسي. الماء الذي تشربه هو في الواقع مسافر بين النجوم يبلغ عمره مليارات السنين."
+    "headline": "لماذا لا تشتعل عود الثقاب بمفردها؟",
+    "body": "تلك أعواد الثقاب الصغيرة التي تستخدمها كل يوم... لا تشتعل أبدًا دون حكها بالعلبة. السر هو أن المواد الكيميائية الموجودة على الرأس تتفاعل فقط عند دمجها مع السطح الخاص على العلبة."
   },
   "reel_hook": {
-    "tr": "İçtiğin su, Dünya'dan bile daha yaşlı olabilir mi?",
-    "en": "Could the water you drink be older than Earth itself?",
-    "es": "¿Podría el agua que bebes ser más antigua que la propia Tierra?",
-    "ar": "هل يمكن أن يكون الماء الذي تشربه أقدم من الأرض نفسها؟"
+    "tr": "Cيبrit kutusu olmadan o çöpü asla yakamazsınız, peki neden?",
+    "en": "You can never ignite that match without its box, but why?",
+    "es": "Nunca puedes encender ese cerillo sin su caja, ¿pero por qué?",
+    "ar": "لا يمكنك أبداً إشعال تلك العود بدون علبتها، ولكن لماذا؟"
   },
   "story_question": {
-    "tr": "Dünyadaki suyun kaynağının uzaydan geldiğini biliyor muydunuz?",
-    "en": "Did you know that Earth's water source came from space?",
-    "es": "¿Sabías que la fuente del agua de la Tierra vino del espacio?",
-    "ar": "هل كنت تعلم أن مصدر ماء الأرض جاء من الفضاء؟"
+    "tr": "Kibritin başındaki asıl yanıcı madde nerededir?",
+    "en": "Where is the main flammable substance on a match?",
+    "es": "¿Dónde está la principal sustancia inflamable en un cerillo?",
+    "ar": "أين هي المواد القابلة للاشتعال الرئيسية على عود الثقاب؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Yeni öğrendim!",
-    "İnanılmaz..."
+    "Sadece kibritin ucunda",
+    "Sadece kutunun kenarında",
+    "İkisinin birleşiminde"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#uzay",
-    "#su",
-    "#keşfet",
     "#ilginçbilgiler",
-    "#evren"
+    "#teknoloji",
+    "#keşfet",
+    "#faydalıbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla bilgi için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Sígueme para más datos como este!",
+    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "NASA Science",
-    "url": "https://science.nasa.gov/"
+    "name": "Chemistry World",
+    "url": "https://www.chemistryworld.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yıldız Tozu Su",
+  "_topic": "Kibrit Çöpü Neden Kendi Kendine Yanmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-30T19:45:43.122744+00:00",
+  "generated_at": "2026-08-30T21:51:13.030134+00:00",
   "topic_guard_days": 180
 }

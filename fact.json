@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizatı Erkekleri Nasıl Doğurur?",
-    "body": "Doğa ana kuralları ters yazmayı sever. Denizatı dünyasında hamile kalan ve doğum yapanlar erkeklerdir! Dişi denizatı yumurtalarını erkeğin karnındaki özel bir keseye bırakır, erkek de bunları döller ve yavrular tamamen gelişene kadar güvenle taşır."
+    "headline": "Yıldız Tozu Su",
+    "body": "Dünyadaki suyun büyük bir kısmı, Güneş Sistemi'miz daha kurulmadan önce uzayda süzülen buz tanelerinden geliyordu. İçtiğin su, aslında milyarlarca yıllık yıldızlararası bir yolcudur."
   },
   "en": {
-    "headline": "How Male Seahorses Give Birth",
-    "body": "Mother Nature loves to reverse the rules. In the seahorse world, it is the males that get pregnant and give birth! The female deposits her eggs into a specialized pouch on the male's abdomen, where he fertilizes and carries them safely until they fully develop."
+    "headline": "Stardust Water",
+    "body": "A large portion of Earth's water came from ice grains drifting in space even before our solar system was formed. The water you drink is actually a billion-year-old interstellar traveler."
   },
   "es": {
-    "headline": "Cómo dan a luz los caballitos de mar macho",
-    "body": "A la madre naturaleza le encanta invertir las reglas. ¡En el mundo de los caballitos de mar, son los machos los que se quedan embarazados y dan a luz! La hembra deposita sus huevos en una bolsa especializada en el abdomen del macho, quien los fertiliza y los lleva de forma segura."
+    "headline": "Agua de Polvo Estelar",
+    "body": "Una gran parte del agua de la Tierra provino de granos de hielo que flotaban en el espacio incluso antes de que se formara nuestro sistema solar. El agua que bebes es en realidad una viajera interestelar de miles de millones de años."
   },
   "ar": {
-    "headline": "كيف تلد ذكور حصان البحر",
-    "body": "تحب الطبيعة عكس القواعد. في عالم حصان البحر، الذكور هي التي تحمل وتلد! تضع الأنثى بيضها في جيب خاص على بطن الذكر، يقوم بتخصيبه وحمله بأمان حتى يكتمل نموه تماماً."
+    "headline": "ماء غبار النجوم",
+    "body": "جزء كبير من مياه الأرض جاء من حبيبات الجليد العائمة في الفضاء قبل حتى تشكل نظامنا الشمسي. الماء الذي تشربه هو في الواقع مسافر بين النجوم يبلغ عمره مليارات السنين."
   },
   "reel_hook": {
-    "tr": "Hamile kalan tek erkek hayvanı biliyor musun?",
-    "en": "Do you know the only male animal that gets pregnant?",
-    "es": "¿Conoces al único animal macho que se queda embarazado?",
-    "ar": "هل تعلم الحيوان الذكر الوحيد الذي يحمل؟"
+    "tr": "İçtiğin su, Dünya'dan bile daha yaşlı olabilir mi?",
+    "en": "Could the water you drink be older than Earth itself?",
+    "es": "¿Podría el agua que bebes ser más antigua que la propia Tierra?",
+    "ar": "هل يمكن أن يكون الماء الذي تشربه أقدم من الأرض نفسها؟"
   },
   "story_question": {
-    "tr": "Denizatı yavruları doğduktan sonra anne ve babaları onlara bakar mı?",
-    "en": "Do seahorse parents care for their babies after birth?",
-    "es": "¿Los padres caballitos de mar cuidan a sus crías después de nacer?",
-    "ar": "هل يهتم والدا حصان البحر بصغارهما بعد الولادة؟"
+    "tr": "Dünyadaki suyun kaynağının uzaydan geldiğini biliyor muydunuz?",
+    "en": "Did you know that Earth's water source came from space?",
+    "es": "¿Sabías que la fuente del agua de la Tierra vino del espacio?",
+    "ar": "هل كنت تعلم أن مصدر ماء الأرض جاء من الفضاء؟"
   },
   "story_options": [
-    "Evet, sürü halinde gezerler",
-    "Hayır, hemen kendi başlarına kalırlar",
-    "Sadece baba bakar"
+    "Evet, biliyordum",
+    "Yeni öğrendim!",
+    "İnanılmaz..."
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
     "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlar",
+    "#uzay",
+    "#su",
     "#keşfet",
-    "#eğitim"
+    "#ilginçbilgiler",
+    "#evren"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع بهذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "NASA Science",
+    "url": "https://science.nasa.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizatı Erkekleri Nasıl Doğurur?",
+  "_topic": "Yıldız Tozu Su",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-30T18:28:06.549861+00:00",
+  "generated_at": "2026-08-30T19:45:43.122744+00:00",
   "topic_guard_days": 180
 }

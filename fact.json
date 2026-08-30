@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Tüylerindeki Şaşırtıcı Ağırlık Sırrı",
-    "body": "Hiç düşündünüz mü, bir kuşun tüyleri kendi kemiklerinden bile daha mı ağırdır? Cevap evet! Örneğin bir kartalın iskeleti, tüm tüylerinin toplam ağırlığından daha hafiftir. Uçabilmek için inanılmaz derecede hafif olmaları gerekir ama tüyler, aerodinamik ve sıcaklık dengesi için onlara hayatta kalma gücü verir."
+    "headline": "Penguenlerin Aslında Dizleri Vardır",
+    "body": "Dışarıdan bakıldığında paytak yürüyüşleriyle bacakları yokmuş gibi duran penguenlerin aslında tüy saklı uzun dizleri ve bacak kemikleri vardır. Sadece bacakları vücutlarının içinde gizlidir ve sürekli çömelmiş pozisyonda yaşarlar."
   },
   "en": {
-    "headline": "The Surprising Weight Secret of Bird Feathers",
-    "body": "Have you ever wondered if a bird's feathers weigh more than its actual bones? The answer is yes! For instance, an eagle's skeleton is lighter than the combined weight of all its feathers. They need to be incredibly light to fly, yet feathers provide the crucial aerodynamic and thermal power for survival."
+    "headline": "Penguins Actually Have Knees",
+    "body": "At first glance, penguins look like they don't have legs, but they actually have long knees and leg bones hidden beneath their feathers. Their legs remain tucked inside their bodies, making them look like they are constantly squatting."
   },
   "es": {
-    "headline": "El Sorprendente Secreto del Peso de las Plumas",
-    "body": "¿Alguna vez te has preguntado si las plumas de un ave pesan más que sus propios huesos? ¡La respuesta es sí! Por ejemplo, el esqueleto de un águila es más ligero que el peso combinado de todas sus plumas. Deben ser increíblemente ligeras para volar, pero las plumas les dan el poder aerodinámico y térmico."
+    "headline": "Los pingüinos en realidad tienen rodillas",
+    "body": "A primera vista, los pingüinos parecen no tener piernas, pero en realidad tienen rodillas largas y huesos en las patas escondidos bajo su plumaje. Sus extremidades permanecen ocultas dentro del cuerpo, lo que hace que parezca que siempre están en cuclillas."
   },
   "ar": {
-    "headline": "سر الوزن المدهش لريش الطيور",
-    "body": "هل فكرت يوماً ما إذا كان ريش الطائر أثقل من عظام نفسه؟ الإجابة هي نعم! على سبيل المثال، هيكل العقرب أو النسر أخف وزناً من مجموع كل ريشه. يجب أن تكون خفيفة بشكل لا يصدق لتطير، لكن الريش يوفر لها القوة الديناميكية الهوائية والحرارية اللازمة."
+    "headline": "البطاريق تمتلك ركباً في الواقع",
+    "body": "ل للوهلة الأولى، تبدو البطاريق وكأنها بلا أرجل، لكنها في الواقع تمتلك ركباً وعظام أرجل طويلة مخبأة تحت ريشها. تبقى أرجلها مخفية داخل أجسامها، مما يجعلها تبدو وكأنها في وضع القرفصاء دائمًا."
   },
   "reel_hook": {
-    "tr": "Bir kuşun kemikleri mi daha ağırdır, yoksa tüyleri mi?",
-    "en": "Are a bird's bones heavier, or its feathers?",
-    "es": "¿Son más pesados los huesos de un pájaro o sus plumas?",
-    "ar": "هل عظام الطائر أثقل، أم ريشه؟"
+    "tr": "Penguenlerin bacakları olduğunu biliyor muydunuz, ama saklılar?",
+    "en": "Did you know penguins have legs, but they're hidden?",
+    "es": "¿Sabías que los pingüinos tienen patas, pero están ocultas?",
+    "ar": "هل تعلم أن البطاريق لها أرجل، لكنها مخفية؟"
   },
   "story_question": {
-    "tr": "Sizce bir kartalın iskeleti mi daha ağırdır, yoksa üzerindeki tüm tüyler mi?",
-    "en": "Do you think an eagle's skeleton is heavier, or all its feathers combined?",
-    "es": "¿Crees que el esqueleto de un águila es más pesado o todas sus plumas juntas?",
-    "ar": "برأيك، هل هيكل العقرب أثقل أم كل ريشه مجتمعاً؟"
+    "tr": "Penguenlerin bacaklarının vücutlarının içinde gizli olduğunu biliyor musunuz?",
+    "en": "Did you know penguin legs are hidden inside their bodies?",
+    "es": "¿Sabías que las patas de los pingüinos están ocultas dentro de sus cuerpos?",
+    "ar": "هل كنت تعلم أن أرجل البطاريق مخفية داخل أجسامها؟"
   },
   "story_options": [
-    "İskeleti daha ağır",
-    "Tüyleri daha ağır",
-    "İkisi de eşit ağırlıkta"
+    "Evet, biliyordum",
+    "Hayır, yeni öğrendim",
+    "İnanılmaz!"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
+    "#penguen",
     "#bilim",
     "#doğa",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#hayvanlar",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts!",
+    "es": "¡No olvides seguirnos para más datos asombrosos!",
+    "ar": "لا تنس متابعة المزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Bird Anatomy Studies",
-    "url": "https://www.audubon.org"
+    "name": "San Diego Zoo",
+    "url": "https://animals.sandiegozoo.org/animals/penguin"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Tüylerindeki Şaşırtıcı Ağırlık Sırrı",
+  "_topic": "Penguenlerin Aslında Dizleri Vardır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-30T13:48:57.260901+00:00",
+  "generated_at": "2026-08-30T15:23:19.325258+00:00",
   "topic_guard_days": 180
 }

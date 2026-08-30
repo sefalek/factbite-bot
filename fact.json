@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Neden V Şeklinde Uçar?",
-    "body": "Gökyüzünde V harfi yaparak uçan göçmen kuşları sıkça görürüz. Bunun nedeni sadece estetik değil, saf fizik! Öndeki kuşun kanat çırparak arkasında oluşturduğu hava akımı, arkasındaki kuş için müthiş bir kaldırma kuvveti sağlar. Böylece sürüdekiler enerji tasarrufu yapar ve çok daha uzun mesafeleri yorulmadan kat edebilirler."
+    "headline": "Parmak İzi Sahibi Tek Primat Olmadığımızı Biliyor muydunuz?",
+    "body": "Sadece bizim ve diğer primatların parmak izi olduğunu sanıyorsanız yanılıyorsunuz! Koalalar da insanlara son derece benzeyen, hatta mikroskop altında bile ayırt edilmesi imkansız olan benzersiz parmak izlerine sahiptir."
   },
   "en": {
-    "headline": "Why Do Birds Fly in a V Formation?",
-    "body": "We often see migratory birds flying in a V shape in the sky. This is not just for looks, it's pure physics! The updraft created by the leading bird's flapping wings provides massive lift for the bird right behind it. This way, the flock saves energy and can travel much longer distances without getting exhausted."
+    "headline": "Did You Know We Aren't the Only Primates with Fingerprints?",
+    "body": "If you think only humans and other primates have fingerprints, think again! Koalas also have unique fingerprints that are remarkably similar to ours, making them nearly impossible to distinguish even under a microscope."
   },
   "es": {
-    "headline": "¿Por qué vuelan las aves en formación de V?",
-    "body": "A menudo vemos aves migratorias volando en formación de V en el cielo. ¡No es solo estética, es pura física! La corriente de aire ascendente creada por el aleteo del ave líder proporciona una gran sustentación para la que va detrás. Así, la bandada ahorra energía y puede recorrer distancias mucho mayores sin agotarse."
+    "headline": "¿Sabías que no somos los únicos primates con huellas dactilares?",
+    "body": "¡Si crees que solo los humanos y otros primates tienen huellas, piénsalo de nuevo! Los koalas también tienen huellas dactilares únicas sorprendentemente similares a las nuestras, casi imposibles de distinguir bajo un microscopio."
   },
   "ar": {
-    "headline": "لماذا تطير الطيور على شكل حرف V؟",
-    "body": "غالبًا ما نرى الطيور المهاجرة تطير على شكل حرف V في السماء. هذا ليس مجرد مظهر جمالي، بل هو فيزياء بحتة! التيار الهوائي الصاعد الذي يخلقه الجناح الخافق للطير المتقدم يوفر قوة رفع هائلة للطير الذي خلفه مباشِّرة. بهذه الطريقة، يوفر السرب الطاقة ويمكنه قطع مسافات أطول بكثير دون إرهاق."
+    "headline": "هل كنت تعلم أننا لسنا الرئيسيات الوحيدة التي تمتلك بصمات أصابع؟",
+    "body": "إذا كنت تعتقد أن البشر وحدههم من يمتلكون بصمات أصابع، فإليك الحقيقة: فالكوالا تمتلك أيضاً بصمات فريدة تشبه بصماتنا لدرجة يصعب جداً التمييز بينها حتى تحت المجهر."
   },
   "reel_hook": {
-    "tr": "Göçmen kuşların o meşhur V uçuşunun arkasındaki inanılmaz sırrı biliyor musunuz?",
-    "en": "Do you know the incredible secret behind migratory birds' famous V formation?",
-    "es": "¿Conoces el increíble secreto detrás de la famosa formación en V de las aves migratorias?",
-    "ar": "هل تعلم السر المذهل وراء طيران الطيور المهاجرة الشهير على شكل حرف V؟"
+    "tr": "Bu sevimli hayvanın insanla paylaştığı gizli bir detayı olduğunu biliyor muydunuz?",
+    "en": "Did you know this adorable animal shares a hidden detail with humans?",
+    "es": "¿Sabías que este adorable animal comparte un detalle oculto con los humanos?",
+    "ar": "هل كنت تعلم أن هذا الحيوان اللطيف يشارك البشر تفصيلاً خفياً؟"
   },
   "story_question": {
-    "tr": "V şeklindeki uçuş sırasında en çok yorulan kuş sence hangisidir?",
-    "en": "Which bird do you think gets the most tired during V-formation flight?",
-    "es": "¿Qué ave crees que se cansa más durante el vuelo en formación V?",
-    "ar": "برأيك، أي طير يتعب أكثر أثناء الطيران على شكل حرف V؟"
+    "tr": "Hangi hayvanın parmak izi insanunkine birebir benzer?",
+    "en": "Which animal's fingerprints are almost identical to human fingerprints?",
+    "es": "¿Las huellas de qué animal son casi idénticas a las humanas?",
+    "ar": "بصمات أي حيوان تشبه بصمات البشر تماماً؟"
   },
   "story_options": [
-    "En öndeki kuş",
-    "En arkadaki kuş",
-    "Sürenin ortasındaki kuşlar"
+    "Koala",
+    "Kanguru",
+    "Tembel Hayvan"
   ],
   "hashtags": [
     "#FactBite",
+    "#koala",
+    "#ilginçbilgiler",
     "#doğa",
-    "#kuşlar",
     "#bilim",
-    "#hayvanlar",
-    "#fizik",
-    "#keşfet"
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunu ilk kez duyuyorsan beğenmeyi ve takip etmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like and follow!",
+    "es": "¡Si es la primera vez que lo escuchas, no olvides dar me gusta y seguir!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، فلا تنس الإعجاب والمتابعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Australian Koala Foundation",
+    "url": "https://www.savethekoala.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Neden V Şeklinde Uçar?",
+  "_topic": "Parmak İzi Sahibi Tek Primat Olmadığımızı Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-29T22:48:09.189834+00:00",
+  "generated_at": "2026-08-30T10:29:44.573888+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerdeki Canlı Saatler",
-    "body": "Deniz kestanesinin vücudunu kaplayan binlerce minik göz var. Ayrı ayrı bakmak yerine, bütün olarak dev bir bileşik göz gibi çalışıyorlar."
+    "headline": "Çikolata Neden Buzdolabında Beyazlar?",
+    "body": "Çikolatayı buzdolabına koyduğunuzda üzerinde oluşan o beyaz tabaka küf veya bozulma değildir. Soğuk hava, çikolatanın içindeki kakao yağının eriyip yüzeye çıkmasına ve kristalleşmesine neden olur. Çikolata hâlâ güvenle yenebilir, sadece dokusu biraz değişmiştir."
   },
   "en": {
-    "headline": "Living Clocks of the Sea",
-    "body": "Sea urchins have thousands of tiny eyes covering their bodies. Instead of looking separately, they work together like one giant compound eye."
+    "headline": "Why Does Chocolate Turn White in the Fridge?",
+    "body": "That white coating on chocolate in the fridge isn't mold. Cold air causes the cocoa butter inside to melt, rise to the surface, and recrystallize. It is still safe to eat, just with a slightly altered texture."
   },
   "es": {
-    "headline": "Relojes Vivos del Mar",
-    "body": "Los erizos de mar tienen miles de ojos diminutos cubriendo sus cuerpos. En lugar de mirar por separado, funcionan juntos como un ojo compuesto gigante."
+    "headline": "¿Por qué el chocolate se pone blanco en la nevera?",
+    "body": "Esa capa blanca en el chocolate de la nevera no es moho. El aire frío hace que la manteca de cacao se derrita, suba a la superficie y se recristalice. Todavía es seguro comerlo, solo cambia un poco su textura."
   },
   "ar": {
-    "headline": "ساعات البحر الحية",
-    "body": "تحتوي قنافذ البحر على آلاف العيون الصغيرة التي تغطي أجسامها. بدلاً من النظر بشكل منفصل، تعمل معًا مثل عين مركبة عملاقة."
+    "headline": "لماذا يبتل الشوكولاتة باللون الأبيض في الثلاجة؟",
+    "body": "هذه الطبقة البيضاء على الشوكولاتة في الثلاجة ليست عفناً. الهواء البارد يتسبب في ذوبان زبدة الكاكاو وصعودها إلى السطح وإعادة بلورتها. لا يزال آمنًا للأكل، فقط بملمس مختلف قليلاً."
   },
   "reel_hook": {
-    "tr": "Bütün vücudu tek bir dev göz gibi çalışan bir deniz canlısı olduğunu biliyor muydunuz?",
-    "en": "Did you know there is a sea creature whose whole body works like one giant eye?",
-    "es": "¿Sabías que hay una criatura marina cuyo cuerpo entero funciona como un ojo gigante?",
-    "ar": "هل كنت تعلم أن هناك مخلوقاً بحرياً يعمل جسمه بالكامل كعين عملاقة واحدة؟"
+    "tr": "Buzdolabından çıkan o çikolatanın üzerindeki beyazlık aslında ne biliyor musunuz?",
+    "en": "Do you know what that white stuff on chocolate from the fridge actually is?",
+    "es": "¿Sabes qué es en realidad esa capa blanca en el chocolate de la nevera?",
+    "ar": "هل تعلم ما هي تلك الطبقة البيضاء حقًا على الشوكولاتة من الثلاجة؟"
   },
   "story_question": {
-    "tr": "Deniz kestanelerinin vücutlarındaki bu binlerce küçük gözün ana görevi sizce nedir?",
-    "en": "What do you think is the main function of these thousands of tiny eyes on a sea urchin's body?",
-    "es": "¿Cuálcrees que es la función principal de estos miles de ojos diminutos en el cuerpo de un erizo de mar?",
-    "ar": "ماذا تعتقد أن الوظيفة الرئيسية لهذه الآلاف من العيون الصغيرة على جسم قنفذ البحر؟"
+    "tr": "Buzdolabında beyazlayan çikolata bozulmuş demektir.",
+    "en": "Chocolate that turns white in the fridge is spoiled.",
+    "es": "El chocolate que se pone blanco en la nevera está echado a perder.",
+    "ar": "الشوكولاتة التي تصبح بيضاء في الثلاجة تكون فاسدة."
   },
   "story_options": [
-    "Avını uzaktan avlamak",
-    "Tehlikeyi ve ışığı sezmek",
-    "Renk değiştirmek"
+    "Doğru",
+    "Yanlış"
   ],
   "hashtags": [
     "#FactBite",
-    "#DenizKestanesi",
-    "#Doğa",
-    "#Bilim",
-    "#İlginçBilgiler",
-    "#Okyanus",
-    "#Biyoloji"
+    "#çikolata",
+    "#bilim",
+    "#ilginçbilgiler",
+    "#mutfak",
+    "#keşfet",
+    "#faydalıbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos asombrosos de la naturaleza como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunu kimin yapacağını biliyorsun! Kaydet ve arkadaşına gönder.",
+    "en": "You know who does this! Save and share with a friend.",
+    "es": "¡Sabes quién hace esto! Guarda y compártelo con un amigo.",
+    "ar": "أنت تعلم من يفعل هذا! احفظه وشاركه مع صديق."
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Marine Biological Laboratory",
-    "url": "https://www.mbl.edu"
+    "name": "Confectionery Science",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerdeki Canlı Saatler",
+  "_topic": "Çikolata Neden Buzdolabında Beyazlar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-30T22:56:51.192861+00:00",
+  "generated_at": "2026-08-31T11:36:38.196974+00:00",
   "topic_guard_days": 180
 }

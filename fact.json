@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudundaki En Güçlü Kas",
-    "body": "Vücudumuzdaki en güçlü kasın bacaklarımızdaki veya kollarımızdaki kaslar olduğunu düşünüyorsanız, yanılıyorsunuz. Boyutuna oranla en güçlü kasımız, çiğneme kasımız olan maseterdir! Bu kas, çeneye 90 kilonun üzerinde bir basınç uygulayabilir."
+    "headline": "Kedi Balıklarının Tadı Dışarıdadır",
+    "body": "Kedi balıkları, yani yayın balıkları sadece ağızlarıyla tat almazlar. Bütün vücutları tat alma hücreleriyle kaplıdır. Suya girdiklerinde adeta yüzen birer tat tomurcuğu olurlar ve çevrelerindeki lezzetleri derileriyle hissederler."
   },
   "en": {
-    "headline": "The Strongest Muscle in the Human Body",
-    "body": "If you think the strongest muscle in our body is in our legs or arms, you are wrong. Pound for pound, our strongest muscle is the masseter, our jaw muscle! It can apply over 200 pounds of pressure to the molars."
+    "headline": "Catfish Taste With Their Skin",
+    "body": "Catfish do not just taste with their mouths. Their entire bodies are covered in taste buds. When they enter the water, they become swimming taste receptors and feel flavors through their skin."
   },
   "es": {
-    "headline": "El músculo más fuerte del cuerpo humano",
-    "body": "Si piensas que el músculo más fuerte está en tus piernas o brazos, te equivocas. ¡Kilo por kilo, nuestro músculo más fuerte es el masetero, el músculo de la mandíbula! Puede ejercer una presión de más de 90 kilos."
+    "headline": "Los peces gato saborean con su piel",
+    "body": "Los peces gato no solo saborean con la boca. Todo su cuerpo está cubierto de papilas gustativas. Al entrar en el agua, se convierten en receptores de sabor vivientes y sienten los sabores a través de su piel."
   },
   "ar": {
-    "headline": "أقوى عضلة في جسم الإنسان",
-    "body": "إذا كنت تعتقد أن أقوى عضلة في جسمنا موجودة في ساقيك أو ذراعيك، فأنت مخطئ.وزناً بوزن، أقوى عضلة لدينا هي العضلة الماضغة! يمكنها تطبيق ضغط يزيد عن 90 كغ."
+    "headline": "أسماك السلور تتذوق بجلدها",
+    "body": "أسماك السلور لا تتذوق بفمها فقط. أجسامها بالكامل مغطاة ببراعم التذوق. عندما تدخل الماء، تصبح وكأنها براعم تذوق سباحة وتشعر بالنكهات من خلال جلدها."
   },
   "reel_hook": {
-    "tr": "Vücudunuzdaki en güçlü kasın nerede olduğunu biliyor musunuz?",
-    "en": "Do you know where the strongest muscle in your body is?",
-    "es": "¿Sabes dónde está el músculo más fuerte de tu cuerpo?",
-    "ar": "هل تعرف أين توجد أقوى عضلة في جسمك؟"
+    "tr": "Bu balık yemeği ağzıyla değil, derisiyle tadıyor!",
+    "en": "This fish doesn't taste its food with its mouth, but with its skin!",
+    "es": "¡Este pez no saborea su comida con la boca, sino con la piel!",
+    "ar": "هذه السمكة لا تتذوق طعامها بفمها بل بجلدها!"
   },
   "story_question": {
-    "tr": "Sizce insan vücudundaki en güçlü kas nerededir?",
-    "en": "Where do you think the strongest muscle in the human body is located?",
-    "es": "¿Dónde crees que se encuentra el músculo más fuerte del cuerpo humano?",
-    "ar": "برأيك، أين تقع أقوى عضلة في جسم الإنسان؟"
+    "tr": "Hangi hayvanın tüm vücudu tat alma hücreleriyle kaplıdır?",
+    "en": "Which animal's entire body is covered in taste cells?",
+    "es": "¿Qué animal tiene todo su cuerpo cubierto de células gustativas?",
+    "ar": "أي حيوان تغطى خلايا التذوق جسمه بالكامل؟"
   },
   "story_options": [
-    "Çene (Maseter)",
-    "Bacak (Quadriceps)",
-    "Kalp"
+    "Yayın Balığı",
+    "Köpekbalığı",
+    "Yunus"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#insan",
-    "#anatomivebilim",
+    "#bilim",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#tıp"
+    "#doğa",
+    "#hayvanlar",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip et!",
+    "en": "Follow so you don't miss more amazing facts like this!",
+    "es": "¡Síguenos para no perderte más datos fascinantes como este!",
+    "ar": "اتبعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Library of Congress Science Reference Services",
-    "url": "https://www.loc.gov/everyday-mysteries/item/what-is-the-strongest-muscle-in-the-human-body/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudundaki En Güçlü Kas",
+  "_topic": "Kedi Balıklarının Tadı Dışarıdadır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-31T19:23:14.951991+00:00",
+  "generated_at": "2026-08-31T20:43:33.429067+00:00",
   "topic_guard_days": 180
 }

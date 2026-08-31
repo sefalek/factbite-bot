@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Yuvaları Neden Aslında Ev Değil?",
-    "body": "Kuşların harika mimari eserler olarak inşa ettiği yuvalar, çoğu kişinin sandığı gibi yavruları büyütmek veya kışı geçirmek için kalıcı birer 'ev' değildir. Kuşlar üreme dönemi biter bitmez yuvalarını tamamen terk ederler. Çünkü bu yapılar parazitlerle dolar ve bir sonraki yıl aynı yuvayı kullanmak hayatta kalma şanslarını tehlikeye atar. Yani kuşlar her yıl her şeyi sıfırdan başlar."
+    "headline": "Denizlerin Akıllı Mimarının Şaşırtıcı Detayı",
+    "body": "Salyangozlar ve midyeler gibi kabuklular dünyasında bazen inanılmaz simetriler görülür. Özellikle bazı deniz kabuklarının spiral yapısı, doğadaki en kusursuz matematiksel oranlardan biri olan Fibonacci dizilimini takip eder. Bu kusursuz kıvrımlar, kabuğun dışarıdan gelen basınçlara karşı maksimum direnç göstermesini sağlayan doğal bir mühendislik harikasıdır."
   },
   "en": {
-    "headline": "Why Bird Nests Are Actually Not Homes",
-    "body": "Bird nests, built as marvelous architectural works, are not permanent 'homes' to raise chicks or spend the winter, contrary to popular belief. Birds completely abandon their nests as soon as the breeding season ends. Because these structures become filled with parasites, using the same nest next year would endanger their survival. So birds start from scratch every single year."
+    "headline": "The Surprising Detail of Nature's Smart Architect",
+    "body": "In the world of shelled creatures like snails and clams, incredible symmetries sometimes appear. The spiral structure of certain seashells follows the Fibonacci sequence, one of the most flawless mathematical ratios in nature. These perfect curves form a natural engineering marvel that provides maximum resistance against external pressure."
   },
   "es": {
-    "headline": "Por Qué los Nidos de Aves No Son Hogares",
-    "body": "Los nidos de aves, construidos como obras arquitectónicas maravillosas, no son 'hogares' permanentes para criar polluelos o pasar el invierno, al contrario de lo que muchos creen. Las aves abandonan por completo sus nidos tan pronto termina la temporada de reproducción. Debido a que estas estructuras se llenan de parásitos, usar el mismo nido el próximo año pondría en peligro su supervivencia."
+    "headline": "El sorprendente detalle del arquitecto inteligente de la naturaleza",
+    "body": "En el mundo de los crustáceos y moluscos, a veces aparecen simetrías increíbles. La estructura en espiral de ciertas conchas marinas sigue la secuencia de Fibonacci, una de las proporciones matemáticas más perfectas de la naturaleza. Estas curvas impecables crean una maravilla de la ingeniería natural que ofrece la máxima resistencia contra la presión externa."
   },
   "ar": {
-    "headline": "لماذا لا تعتبر أعشاش الطيور منازلاً في الواقع؟",
-    "body": "أعشاش الطيور، التي تُبنى كتحف معمارية مذهلة، ليست 'منازل' دائمة لتربية الصغار أو قضاء الشتاء كما يعتقد الكثيرون. تترك الطيور أعشاشها تماماً بمجرد انتهاء موسم التكاثر. ونظراً لأن هذه الهياكل تمتليء بالطفيليات، فإن استخدام نفس العشو في العام القادم يهدد فرص بقائها على قيد الحياة."
+    "headline": "التفصيل المدهش لمهندس الطبيعة الذكي",
+    "body": "في عالم الكائنات ذات الصدف مثل القواقع، تظهر أحياناً تناظرات مذهلة. تتبع البنية الحلزونية لبعض أصداف البحر متتالية فيبوناتشي، وهي واحدة من أصح النسب الرياضية في الطبيعة. تشكل هذه المنحنيات المثالية أعجوبة هندسية طبيعية توفر أقصى مقاومة ضد الضغط الخارجي."
   },
   "reel_hook": {
-    "tr": "Kuşların yuvalarını neden asla ikinci kez kullanmadığını biliyor musun?",
-    "en": "Do you know why birds never use their nests a second time?",
-    "es": "¿Sabes por qué las aves nunca usan sus nidos por segunda vez?",
-    "ar": "هل تعلم لماذا لا تستخدم الطيور أعشاشها للمرة الثانية أبداً؟"
+    "tr": "Deniz kabuklarının içindeki bu kusursuz kıvrım sence neyi saklıyor?",
+    "en": "What do you think this flawless curve inside seashells is hiding?",
+    "es": "¿Qué crees que oculta esta curva perfecta dentro de las conchas marinas?",
+    "ar": "ماذا تعتقد أن يخفي هذا المنحنى المثالي داخل أصداف البحر؟"
   },
   "story_question": {
-    "tr": "Kuşlar terk ettikleri eski yuvalarına ne yaparlar?",
-    "en": "What do birds do to their abandoned old nests?",
-    "es": "¿Qué hacen las aves con sus viejos nidos abandonados?",
-    "ar": "ماذا تفعل الطيور بأعشاشها القديمة المهجورة؟"
+    "tr": "Deniz kabuklarındaki bu spiral yapı hangi matematiksel oranı takip eder?",
+    "en": "Which mathematical ratio does this spiral structure in seashells follow?",
+    "es": "¿Qué proporción matemática sigue esta estructura en espiral en las conchas marinas?",
+    "ar": "ما هي النسبة الرياضية التي تتبعها هذه البنية الحلزونية في أصداف البحر؟"
   },
   "story_options": [
-    "Temizleyip tekrar kullanırlar",
-    "Asla geri dönmezler ve yenisini yaparlar",
-    "Başka kuşlara kiraya verirler"
+    "Fibonacci Dizilimi",
+    "Altın Oran Kareleri",
+    "Pi Sabiti"
   ],
   "hashtags": [
     "#FactBite",
     "#doğa",
-    "#kuşlar",
     "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlaralemi",
-    "#keşfet"
+    "#matematik",
+    "#deniz",
+    "#keşfet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyuyorsan beğenmeyi ve takip etmeyi unutma!",
-    "en": "If this is your first time hearing this, don't forget to like and follow!",
-    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a me gusta y seguir!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، فلا تنس الإعجاب والمتابعة!"
+    "tr": "Doğadaki matematiği fark etmek için kaydırmaya devam et!",
+    "en": "Keep swiping to notice the math in nature!",
+    "es": "¡Sigue deslizando para notar las matemáticas en la naturaleza!",
+    "ar": "تابع التمرير لملاحظة الرياضيات في الطبيعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Ornithology and Bird Behavior Studies",
-    "url": "https://www.audubon.org/news/do-birds-reuse-their-nests"
+    "name": "Natural History Museum",
+    "url": "https://www.nhm.ac.uk"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Yuvaları Neden Aslında Ev Değil?",
+  "_topic": "Denizlerin Akıllı Mimarının Şaşırtıcı Detayı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-31T16:10:54.907796+00:00",
+  "generated_at": "2026-08-31T18:03:31.366693+00:00",
   "topic_guard_days": 180
 }

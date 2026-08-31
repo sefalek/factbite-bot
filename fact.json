@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Akıllı Mimarının Şaşırtıcı Detayı",
-    "body": "Salyangozlar ve midyeler gibi kabuklular dünyasında bazen inanılmaz simetriler görülür. Özellikle bazı deniz kabuklarının spiral yapısı, doğadaki en kusursuz matematiksel oranlardan biri olan Fibonacci dizilimini takip eder. Bu kusursuz kıvrımlar, kabuğun dışarıdan gelen basınçlara karşı maksimum direnç göstermesini sağlayan doğal bir mühendislik harikasıdır."
+    "headline": "İnsan Vücudundaki En Güçlü Kas",
+    "body": "Vücudumuzdaki en güçlü kasın bacaklarımızdaki veya kollarımızdaki kaslar olduğunu düşünüyorsanız, yanılıyorsunuz. Boyutuna oranla en güçlü kasımız, çiğneme kasımız olan maseterdir! Bu kas, çeneye 90 kilonun üzerinde bir basınç uygulayabilir."
   },
   "en": {
-    "headline": "The Surprising Detail of Nature's Smart Architect",
-    "body": "In the world of shelled creatures like snails and clams, incredible symmetries sometimes appear. The spiral structure of certain seashells follows the Fibonacci sequence, one of the most flawless mathematical ratios in nature. These perfect curves form a natural engineering marvel that provides maximum resistance against external pressure."
+    "headline": "The Strongest Muscle in the Human Body",
+    "body": "If you think the strongest muscle in our body is in our legs or arms, you are wrong. Pound for pound, our strongest muscle is the masseter, our jaw muscle! It can apply over 200 pounds of pressure to the molars."
   },
   "es": {
-    "headline": "El sorprendente detalle del arquitecto inteligente de la naturaleza",
-    "body": "En el mundo de los crustáceos y moluscos, a veces aparecen simetrías increíbles. La estructura en espiral de ciertas conchas marinas sigue la secuencia de Fibonacci, una de las proporciones matemáticas más perfectas de la naturaleza. Estas curvas impecables crean una maravilla de la ingeniería natural que ofrece la máxima resistencia contra la presión externa."
+    "headline": "El músculo más fuerte del cuerpo humano",
+    "body": "Si piensas que el músculo más fuerte está en tus piernas o brazos, te equivocas. ¡Kilo por kilo, nuestro músculo más fuerte es el masetero, el músculo de la mandíbula! Puede ejercer una presión de más de 90 kilos."
   },
   "ar": {
-    "headline": "التفصيل المدهش لمهندس الطبيعة الذكي",
-    "body": "في عالم الكائنات ذات الصدف مثل القواقع، تظهر أحياناً تناظرات مذهلة. تتبع البنية الحلزونية لبعض أصداف البحر متتالية فيبوناتشي، وهي واحدة من أصح النسب الرياضية في الطبيعة. تشكل هذه المنحنيات المثالية أعجوبة هندسية طبيعية توفر أقصى مقاومة ضد الضغط الخارجي."
+    "headline": "أقوى عضلة في جسم الإنسان",
+    "body": "إذا كنت تعتقد أن أقوى عضلة في جسمنا موجودة في ساقيك أو ذراعيك، فأنت مخطئ.وزناً بوزن، أقوى عضلة لدينا هي العضلة الماضغة! يمكنها تطبيق ضغط يزيد عن 90 كغ."
   },
   "reel_hook": {
-    "tr": "Deniz kabuklarının içindeki bu kusursuz kıvrım sence neyi saklıyor?",
-    "en": "What do you think this flawless curve inside seashells is hiding?",
-    "es": "¿Qué crees que oculta esta curva perfecta dentro de las conchas marinas?",
-    "ar": "ماذا تعتقد أن يخفي هذا المنحنى المثالي داخل أصداف البحر؟"
+    "tr": "Vücudunuzdaki en güçlü kasın nerede olduğunu biliyor musunuz?",
+    "en": "Do you know where the strongest muscle in your body is?",
+    "es": "¿Sabes dónde está el músculo más fuerte de tu cuerpo?",
+    "ar": "هل تعرف أين توجد أقوى عضلة في جسمك؟"
   },
   "story_question": {
-    "tr": "Deniz kabuklarındaki bu spiral yapı hangi matematiksel oranı takip eder?",
-    "en": "Which mathematical ratio does this spiral structure in seashells follow?",
-    "es": "¿Qué proporción matemática sigue esta estructura en espiral en las conchas marinas?",
-    "ar": "ما هي النسبة الرياضية التي تتبعها هذه البنية الحلزونية في أصداف البحر؟"
+    "tr": "Sizce insan vücudundaki en güçlü kas nerededir?",
+    "en": "Where do you think the strongest muscle in the human body is located?",
+    "es": "¿Dónde crees que se encuentra el músculo más fuerte del cuerpo humano?",
+    "ar": "برأيك، أين تقع أقوى عضلة في جسم الإنسان؟"
   },
   "story_options": [
-    "Fibonacci Dizilimi",
-    "Altın Oran Kareleri",
-    "Pi Sabiti"
+    "Çene (Maseter)",
+    "Bacak (Quadriceps)",
+    "Kalp"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#bilim",
-    "#matematik",
-    "#deniz",
+    "#bilgi",
+    "#insan",
+    "#anatomivebilim",
+    "#ilginçbilgiler",
     "#keşfet",
-    "#ilginçbilgiler"
+    "#tıp"
   ],
   "cta": {
-    "tr": "Doğadaki matematiği fark etmek için kaydırmaya devam et!",
-    "en": "Keep swiping to notice the math in nature!",
-    "es": "¡Sigue deslizando para notar las matemáticas en la naturaleza!",
-    "ar": "تابع التمرير لملاحظة الرياضيات في الطبيعة!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Natural History Museum",
-    "url": "https://www.nhm.ac.uk"
+    "name": "Library of Congress Science Reference Services",
+    "url": "https://www.loc.gov/everyday-mysteries/item/what-is-the-strongest-muscle-in-the-human-body/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Akıllı Mimarının Şaşırtıcı Detayı",
+  "_topic": "İnsan Vücudundaki En Güçlü Kas",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-31T18:03:31.366693+00:00",
+  "generated_at": "2026-08-31T19:23:14.951991+00:00",
   "topic_guard_days": 180
 }

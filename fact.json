@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Flamingolar Neden Pembe Doğmaz?",
-    "body": "O muhteşem pembe tüyleriyle bildiğimiz flamingolar aslında dünyaya gri tüylerle gelir. Bu renklerini doğduklarında değil, yedikleri besinlerden alırlar. Tükettikleri su yosunları ve küçük karidesler, içerdikleri karotenoid pigmentler sayesinde zamanla tüylerinin o ikonik pembe renge dönüşmesini sağlar."
+    "headline": "Kibritin Yanma Sırrı",
+    "body": "Biliyor musunuz, kibrit kutusunun yanındaki o kahverengi şerit aslında sadece sürtünme için değil. O şerit, kibrit başının yanmasını sağlayan kritik kimyasal maddelerden birini içerir. Yani kibrit çöpü tek başına sürtünse bile, kutudaki o kimyasal olmadan asla alev almaz."
   },
   "en": {
-    "headline": "Why Flamingos Aren't Born Pink",
-    "body": "Flamingos known for their magnificent pink feathers actually hatch with gray feathers. They don't get this color at birth, but from the food they eat. The algae and tiny shrimp they consume contain carotenoid pigments that gradually turn their feathers that iconic pink over time."
+    "headline": "The Secret to How Matches Burn",
+    "body": "Did you know that the brown strip on the side of a matchbox isn't just for friction? That strip actually contains a critical chemical needed for the match head to ignite. Without it, the match won't catch fire, even when struck."
   },
   "es": {
-    "headline": "Por qué los flamencos no nacen rosados",
-    "body": "Los flamencos conocidos por sus magníficas plumas rosadas en realidad nacen con plumas grises. No obtienen este color al nacer, sino de los alimentos que consumen. Las algas y pequeños camarones que comen contienen pigmentos carotenoides que poco a poco tiñen sus plumas de ese icónico color rosado."
+    "headline": "El secreto detrás de las cerillas",
+    "body": "¿Sabías que la tira marrón al lado de la caja de cerillas no es solo para la fricción? Esa tira contiene un químico crucial para que la cabeza de la cerilla se encienda. Sin él, la cerilla no prenderá fuego, por mucho que la frotes."
   },
   "ar": {
-    "headline": "لماذا لا يولد طائر الفلامنكو وردياً؟",
-    "body": "يولد طائر الفلامنكو المعروف بريشه الوردي الرائع بريش رمادي في الواقع. فهو لا يكتسب هذا اللون عند الولادة، بل من الطعام الذي يتناوله. فالطحالب والروبيان الصغير الذي يأكله يحتوي على أصباغ الكاروتينويد التي تحول ريشه تدريجياً إلى ذلك اللون الوردي الشهير مع مرور الوقت."
+    "headline": "سر اشتعال أعواد الثقاب",
+    "body": "هل تعلم أن الشريط البني على جانب علبة الكبريت ليس مجرد سطح للاحتكاك؟ يحتوي هذا الشريط في الواقع على مادة كيميائية أساسية لاشتعال رأس عود الكبريت، وبدونها لن يشتعل العود أبداً."
   },
   "reel_hook": {
-    "tr": "Flamingoların aslında pembe doğmadığını biliyor muydunuz?",
-    "en": "Did you know flamingos aren't actually born pink?",
-    "es": "¿Sabías que los flamencos en realidad no nacen rosados?",
-    "ar": "هل كنت تعلم أن طيور الفلامنكو لا تولد وردية حقاً؟"
+    "tr": "Kibrit çöpünü kutu olmadan neden yakamazsınız?",
+    "en": "Why can't you light a match without its box?",
+    "es": "¿Por qué no puedes encender una cerilla sin su caja?",
+    "ar": "لماذا لا يمكنك إشعال عود ثقاب بدون علبته؟"
   },
   "story_question": {
-    "tr": "Flamingoların tüylerinin pembeleşmesini sağlayan ana etken nedir?",
-    "en": "What is the main factor that turns flamingos' feathers pink?",
-    "es": "¿Cuál es el factor principal que hace que las plumas de los flamencos se vuelvan rosadas?",
-    "ar": "ما هو العامل الرئيسي الذي يجعل ريش الفلامنكو وردياً؟"
+    "tr": "Kibrit çöpünün başındaki kimyasal sürtünmeyle tek başına yanabilir mi?",
+    "en": "Can the chemical on a match head ignite on its own with friction alone?",
+    "es": "¿Puede el químico de la cabeza de la cerilla encenderse solo con la fricción?",
+    "ar": "هل يمكن للمادة الكيميائية الموجودة على رأس عود الثقاب أن تشتعل وحدها بالاحتكاك فقط؟"
   },
   "story_options": [
-    "Beslendikleri karides ve yosunlar",
-    "Güneş ışığına maruz kalmaları",
-    "Genetik mutasyonlar"
+    "Evet, her yerde yanar",
+    "Hayır, kutudaki kimyasal şart",
+    "Sadece tahta yüzeylerde"
   ],
   "hashtags": [
     "#FactBite",
-    "#flamingo",
-    "#doğa",
     "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#tarih",
+    "#faydalibilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Stay tuned for more facts like this!",
-    "es": "¡Sigue atento para más datos como este!",
-    "ar": "ترقب المزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "San Diego Zoo Wildlife Alliance",
-    "url": "https://animals.sandiegozoo.org/animals/greater-flamingo"
+    "name": "Chemical Heritage Foundation",
+    "url": "https://www.sciencehistory.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Flamingolar Neden Pembe Doğmaz?",
+  "_topic": "Kibritin Yanma Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-31T21:53:22.136557+00:00",
+  "generated_at": "2026-08-31T23:07:38.982139+00:00",
   "topic_guard_days": 180
 }

@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Derinliklerindeki 'Ölümsüz' Canlı",
-    "body": "Biyolojik olarak yaşlanmayan ve teorik olarak sonsuza kadar yaşayabilen bir canlı olduğunu biliyor muydunuz? Turritopsis dohrnii adı verilen bu küçük denizanası, tehlikeyle veya yaşlılıkla karşılaştığında hücrelerini başa sarabiliyor. Yani yaşam döngüsünü tersine çevirip yeniden polip evresine dönüyor. Bu döngüyü sürekli tekrarlayabildiği için ölümden kaçabiliyor."
+    "headline": "Balıkların Aslında Göz Kapakları Yoktur",
+    "body": "Deniz altında yaşayan kemikli balıkların çoğunun göz kapakları yoktur. Gözlerinde koruyucu bir mukoza tabakası bulunur ve sürekli açık olan bu gözlerle uyurlar."
   },
   "en": {
-    "headline": "The 'Immortal' Creature of the Depths",
-    "body": "Did you know there is a creature that does not biologically age and can theoretically live forever? This tiny jellyfish, called Turritopsis dohrnii, can rewind its cells when facing danger or old age. It reverses its life cycle and returns to the polyp stage. Because it can repeat this cycle indefinitely, it effectively cheats death."
+    "headline": "Fish Actually Do Not Have Eyelids",
+    "body": "Most bony fish living underwater do not have eyelids. They have a protective mucous layer over their eyes and sleep with their eyes open all the time."
   },
   "es": {
-    "headline": "La criatura 'inmortal' de las profundidades",
-    "body": "¿Sabías que existe una criatura que no envejece biológicamente y puede vivir teóricamente para siempre? Esta pequeña medusa, llamada Turritopsis dohrnii, puede rebobinar sus células cuando se enfrenta al peligro o la vejez. Revierte su ciclo de vida y regresa a la etapa de pólipo. Como puede repetir este ciclo indefinidamente, evita la muerte."
+    "headline": "Los Peces Realmente No Tienen Párpados",
+    "body": "La mayoría de los peces óseos que viven bajo el agua no tienen párpados. Tienen una capa mucosa protectora en los ojos y duermen con los ojos abiertos todo el tiempo."
   },
   "ar": {
-    "headline": "المخلوق 'الخالد' في أعماق البحار",
-    "body": "هل تعلم أن هناك مخلوقاً لا يتقدم في العمر بيولوجياً ويمكنه العيش إلى الأبد نظرياً؟ هذا النوع الصغير من قنديل البحر، المسمى Turritopsis dohrnii، يمكنه إعادة ضبط خلاياه عندما يواجه الخطر أو الشيخوخة. إنه يعكس دورة حياته ويعود إلى مرحلة البوليب. وبسبب قدرته على تكرار هذه الدورة بلا حدود، يمكنه الهروب من الموت."
+    "headline": "الأسماك لا تمتلك جفوناً في الواقع",
+    "body": "معظم الأسماك العظمية التي تعيش تحت الماء ليس لها جفون. لديهم طبقة مخاطية واقية على عيونهم ويقضون نومهم وأعينهم مفتوحة طوال الوقت."
   },
   "reel_hook": {
-    "tr": "Ölmeyi reddeden tek bir canlı var.",
-    "en": "There is a single creature that refuses to die.",
-    "es": "Hay una sola criatura que se niega a morir.",
-    "ar": "هناك مخلوق واحد يرفض الموت."
+    "tr": "Su altında yaşayan bu canlılar, uyurken bile gözlerini neden hiç kapatamaz?",
+    "en": "Why can these underwater creatures never close their eyes, even when sleeping?",
+    "es": "¿Por qué estas criaturas submarinas nunca pueden cerrar los ojos, ni siquiera cuando duermen?",
+    "ar": "لماذا لا تستطيع هذه الكائنات تحت الماء إغلاق عيونها أبداً، حتى أثناء النوم؟"
   },
   "story_question": {
-    "tr": "Sizce bu ölümsüz denizanası nasıl başa dönüyor?",
-    "en": "How do you think this immortal jellyfish resets its life?",
-    "es": "¿Cómo crees que esta medusa inmortal reinicia su vida?",
-    "ar": "كيف تعتقد أن قنديل البحر الخالد هذا يعيد ضبط حياته؟"
+    "tr": "Göz kapakları olmayan balıklar uyurken ne yapar?",
+    "en": "What do fish without eyelids do when they sleep?",
+    "es": "¿Qué hacen los peces sin párpados cuando duermen?",
+    "ar": "ماذا تفعل الأسماك التي ليس لها جفون عندما تنام؟"
   },
   "story_options": [
-    "Hücrelerini gençleştirerek",
-    "Bölünmeyi durdurarak",
-    "DNA'sını yenileyerek"
+    "Gözleri açık uyurlar",
+    "Suları bulandırıp saklanırlar",
+    "Sırtüstü yüzerler"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#doğa",
     "#deniz",
+    "#balıklar",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس متابعة المزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -60,9 +61,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Derinliklerindeki 'Ölümsüz' Canlı",
+  "_topic": "Balıkların Aslında Göz Kapakları Yoktur",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-01T18:12:40.717144+00:00",
+  "generated_at": "2026-09-01T19:52:21.000497+00:00",
   "topic_guard_days": 180
 }

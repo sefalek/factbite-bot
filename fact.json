@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çikolata Neden Sıcakta Erirken Elinizi Kirletmez?",
-    "body": "Çikolatanın ağzınızda eriyip tezgahta erimemesinin sırrı, tam otuz dört derecelik özel erime noktasında saklıdır."
+    "headline": "Balıkların da Dil Dışında Tat Alabildiğini Biliyor muydunuz?",
+    "body": "Bizler tat almak için çenemizi ve dilimizi kullanırız ama bazı balıklar için durum çok farklı! Örneğin yayın balıklarının tat alma organları tüm vücut yüzeylerine, hatta dış derilerine yayılmıştır. Yüzdükleri her an, çevrelerindeki lezzetleri adeta tenleriyle hissederler."
   },
   "en": {
-    "headline": "Why Doesn't Chocolate Melt in Your Hands?",
-    "body": "The secret behind why chocolate melts in your mouth but not on the counter lies in its precise thirty-four degree melting point."
+    "headline": "Did You Know Fish Can Taste Things Without Their Tongues?",
+    "body": "We use our mouths to taste, but for some fish, it is entirely different! Catfish, for instance, have taste buds spread all across their outer skin. As they swim, they literally feel flavors with their entire bodies."
   },
   "es": {
-    "headline": "¿Por qué el chocolate no se derrite en tus manos?",
-    "body": "El secreto de por qué el chocolate se derrite en tu boca pero no en el mostrador radica en su preciso punto de fusión de treinta y cuatro grados."
+    "headline": "¿Sabías que los peces pueden saborear sin usar la lengua?",
+    "body": "Nosotros usamos la boca para saborear, ¡pero para algunos peces es muy diferente! Los bagres, por ejemplo, tienen papilas gustativas repartidas por toda su piel exterior. Mientras nadan, literalmente sienten los sabores con todo el cuerpo."
   },
   "ar": {
-    "headline": "لماذا لا تذوب الشوكولاتة في يديك؟",
-    "body": "السر وراء ذوبان الشوكولاتة في فمك وليس على المنضدة يكمن في نقطة انصهارها الدقيقة البالغة أربع وثلاثين درجة."
+    "headline": "هل كنت تعلم أن الأسماك تتذوق بدون ألسنتها؟",
+    "body": "نحن نستخدم ألسنتنا للتذوق، لكن الأمر مختلف تماماً لدى بعض الأسماك! على سبيل المثال، تمتلك سمك السلور براعم تذوق منتشرة في جميع أنحاء جلدها الخارجي. أثناء سباحتها، تشعر بالنكهات بكل جسدها حرفياً."
   },
   "reel_hook": {
-    "tr": "Çikolatanın vücut sıcaklığınızla olan bu gizli savaşını biliyor muydunuz?",
-    "en": "Did you know about this secret battle between chocolate and your body temperature?",
-    "es": "¿Conocías esta batalla secreta entre el chocolate y la temperatura de tu cuerpo?",
-    "ar": "هل كنت تعرف عن هذه المعركة السرية بين الشوكولاتة ودرجة حرارة جسمك؟"
+    "tr": "Bu balıklar yemeği ağızlarıyla değil, tenleriyle tatsalar ne olurdu?",
+    "en": "What if these fish tasted their food with their skin instead of their mouths?",
+    "es": "¿Qué pasaría si estos peces probaran la comida con su piel en lugar de su boca?",
+    "ar": "ماذا لو كانت هذه الأسماك تتذوق طعامها بجلدها بدلاً من أجوائها؟"
   },
   "story_question": {
-    "tr": "Çikolatanın erime noktası insan vücut sıcaklığından yüksek midir, yoksa düşük mü?",
-    "en": "Is the melting point of chocolate higher or lower than human body temperature?",
-    "es": "¿El punto de fusión del chocolate es mayor o menor que la temperatura del cuerpo humano?",
-    "ar": "هل نقطة انصهار الشوكولاتة أعلى أم أقل من درجة حرارة جسم الإنسان؟"
+    "tr": "Yayın balıklarının tat alma hücreleri vücutlarının neresindedir?",
+    "en": "Where are the taste buds of catfish located on their bodies?",
+    "es": "¿Dónde se encuentran las papilas gustativas de los bagres en sus cuerpos?",
+    "ar": "أين توجد براعم التذوق لدى سمك السلور على أجسامها؟"
   },
   "story_options": [
-    "Daha yüksek",
-    "Neredeyse aynı",
-    "Daha düşük"
+    "Sadece kuyruklarında",
+    "Tüm dış derilerinde",
+    "Yalnızca yüzgeçlerinde"
   ],
   "hashtags": [
     "#FactBite",
-    "#çikolata",
     "#bilim",
+    "#doğa",
+    "#balıklar",
     "#ilginçbilgiler",
-    "#yemekbilimi",
-    "#keşfet"
+    "#keşfet",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس متابعة المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için bizi takip et!",
+    "en": "Follow us for more surprising facts like this!",
+    "es": "¡Síguenos para más datos sorprendentes como este!",
+    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 8.7
   },
   "source": {
-    "name": "Confectionery Science",
-    "url": "https://www.sciencedirect.com"
+    "name": "National Geographic & Ichthyology Research",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çikolata Neden Sıcakta Erirken Elinizi Kirletmez?",
+  "_topic": "Balıkların da Dil Dışında Tat Alabildiğini Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-01T00:05:08.743324+00:00",
+  "generated_at": "2026-09-01T10:06:31.027886+00:00",
   "topic_guard_days": 180
 }

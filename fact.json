@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Uçarken Donmaz?",
-    "body": "Kilometrelerce yüksekte, dondurucu soğukta uçan kuşlar bunu nasıl başarıyor? Sırları ayaklarında saklı. Bacaklarındaki damar ağı, soğuk kanı kalbe gitmeden önce ısıtan kusursuz bir ısı eşanjörü olarak çalışır."
+    "headline": "Denizlerin Asıl Hırsızı",
+    "body": "Kargaların ve maymunların eşya çaldığını biliyoruz, Peki ya sevimli yüzleriyle bilinen su samurlarının gizli birer hırsız olduğunu? Deniz su samurları, turistlerin kayıklarından ve hatta ellerinden yiyecekleri çalmakla kalmaz; oltalardan balıkları da ustalıkla aşırtır."
   },
   "en": {
-    "headline": "How Birds Don't Freeze While Flying?",
-    "body": "How do birds flying at high altitudes in freezing cold manage it? Their secret lies in their legs. A network of blood vessels acts as a perfect heat exchanger, warming cold blood before it reaches the heart."
+    "headline": "The True Thieves of the Sea",
+    "body": "We know crows and monkeys steal things, but what about sea otters, known for their cute faces, being secret thieves? Sea otters don't just steal food from tourists' boats and hands; they also skillfully snatch fish right off fishing lines."
   },
   "es": {
-    "headline": "¿Cómo las aves no se congelan volando?",
-    "body": "¿Cómo lo logran las aves que vuelan a gran altura con frío glacial? Su secreto está en sus patas. Una red de vasos sanguíneos actúa como un intercambiador de calor perfecto, calentando la sangre antes de que llegue al corazón."
+    "headline": "Los Verdaderos Ladrones del Mar",
+    "body": "Sabemos que los cuervos y los monos roban cosas, ¿pero sabías que las nutrias marinas, conocidas por sus caras tiernas, son ladronas secretas? Las nutrias marinas no solo roban comida de los botes y manos de los turistas; también quitan hábilmente los peces de los anzuelos."
   },
   "ar": {
-    "headline": "كيف لا تتجمد الطيور أثناء الطيران؟",
-    "body": "كيف تفعل الطيور التي تطير على ارتفاعات عالية في البرد القارس ذلك؟ سرها يكمن في أرجلها. تعمل شبكة الأوعية الدموية كمبادل حراري مثالي، حيث تدفئ الدم البارد قبل أن يصل إلى القلب."
+    "headline": "اللصوص الحقيقيون في البحر",
+    "body": "نعلم أن الغربان والقرود تسرق الأشياء، ولكن ماذا عن ثعالب البحر المعروفة بوجوهها اللطيفة كونها لصوصاً سرية؟ لا يقتصر ثعالب البحر على سرقة الطعام من قوارب السياح وأيديهم فحسب، بل تنتزع الأسماك بمهارة من خيوط الصيد أيضاً."
   },
   "reel_hook": {
-    "tr": "Kilometrelerce yüksekte uçan bir kuş neden donmaz?",
-    "en": "Why doesn't a bird flying miles high freeze?",
-    "es": "¿Por qué no se congela un ave que vuela a gran altura?",
-    "ar": "لماذا لا يتجمد الطير الذي يحلق على ارتفاعات عالية؟"
+    "tr": "O tatlı yüzün arkasında devasa bir hırsız yatıyor.",
+    "en": "Behind that cute face lies a master thief.",
+    "es": "Detrás de esa cara tierna se esconde un ladrón maestro.",
+    "ar": "وراء هذا الوجه اللطيف يكمن لص محترف."
   },
   "story_question": {
-    "tr": "Kuşların ayaklarındaki bu özel ısı sisteminin adı nedir?",
-    "en": "What is this special heat system in birds' legs called?",
-    "es": "¿Cómo se llama este sistema de calor especial en las patas de las aves?",
-    "ar": "ما اسم نظام الحرارة الخاص هذا في أرجل الطيور؟"
+    "tr": "Sizce bu sevimli deniz canlıları çaldıkları eşyaları nereye saklar?",
+    "en": "Where do you think these cute sea creatures hide the items they steal?",
+    "es": "¿Dónde crees que estas tiernas criaturas marinas esconden lo que roban?",
+    "ar": "برأيك أين تخفي هذه الكائنات البحرية اللطيفة ما تسرقه؟"
   },
   "story_options": [
-    "Isı Eşanjörü",
-    "Termal Tüy",
-    "Kan Pompası"
+    "Özel ceplerinde",
+    "Kaya altındaki yuvalarında",
+    "Deniz tabanına gömerler"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#bilim",
-    "#kuşlar",
+    "#suusamuru",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#denizcanlıları",
+    "#bilim",
+    "#doğa",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Benzer bilim gerçekleri için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more science facts!",
-    "es": "¡No olvides seguirnos para más datos científicos!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق العلمية!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Animal Physiology Research",
-    "url": "https://www.sciencedirect.com"
+    "name": "Marine Mammal Center",
+    "url": "https://www.marinemammalcenter.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Uçarken Donmaz?",
+  "_topic": "Denizlerin Asıl Hırsızı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-01T15:30:45.524837+00:00",
+  "generated_at": "2026-09-01T17:09:21.580179+00:00",
   "topic_guard_days": 180
 }

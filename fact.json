@@ -1,51 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerdeki Gizli Işık Şovunun Sırrı",
-    "body": "Geceleri okyanusta yürüyen dalgaların mavi mavi parladığını hiç gördünüz mü? Bu büyüleyici olayın arkasında romantizm değil, tamamen hayatta kalma mücadelesi var. Fitoplankton adı verilen mikroskobik canlılar, tehlike hissettiklerinde luciferin adı verilen bir molekülü oksijenle tepkimeye sokarak bu ışığı üretirler. Amaçları, onları yemek isteyen balıkları avcılara hedef göstermektir."
+    "headline": "Kuşlar Nasıl Uçarken Donmaz?",
+    "body": "Kilometrelerce yüksekte, dondurucu soğukta uçan kuşlar bunu nasıl başarıyor? Sırları ayaklarında saklı. Bacaklarındaki damar ağı, soğuk kanı kalbe gitmeden önce ısıtan kusursuz bir ısı eşanjörü olarak çalışır."
   },
   "en": {
-    "headline": "The Secret Behind the Ocean's Hidden Glow",
-    "body": "Have you ever seen waves glowing neon blue at night? Behind this magical phenomenon isn't romance, but a fierce survival tactic. Microscopic organisms called phytoplankton react a molecule called luciferin with oxygen when threatened, creating this light. Their goal is to make the fish eating them visible to bigger predators."
+    "headline": "How Birds Don't Freeze While Flying?",
+    "body": "How do birds flying at high altitudes in freezing cold manage it? Their secret lies in their legs. A network of blood vessels acts as a perfect heat exchanger, warming cold blood before it reaches the heart."
   },
   "es": {
-    "headline": "El secreto detrás del brillo oculto del océano",
-    "body": "¿Alguna vez has visto olas brillando en azul neón por la noche? Detrás de este fenómeno mágico no hay romanticismo, sino una feroz táctica de supervivencia. Organismos microscópicos llamados fitoplancton hacen reaccionar luciferina con oxígeno cuando se sienten amenazados, creando esta luz para delatar a sus depredadores."
+    "headline": "¿Cómo las aves no se congelan volando?",
+    "body": "¿Cómo lo logran las aves que vuelan a gran altura con frío glacial? Su secreto está en sus patas. Una red de vasos sanguíneos actúa como un intercambiador de calor perfecto, calentando la sangre antes de que llegue al corazón."
   },
   "ar": {
-    "headline": "سر الوهج الخفي في المحيطات",
-    "body": "هل رأيت من قبل أمواجاً تتوهج باللون الأزرق النيون ليلاً؟ وراء هذه الظاهرة السحرية ليس رومانسية، بل تكتيك بقاء شرس. الكائنات الدقيقة المسمى بالهائمات النباتية تتفاعل مادة اللوسيفيرين مع الأكسجين عند الشعور بالخطر لتنتج هذا الضوء، بهدف جعل الأسماك التي تأكلها مرئية للمفترسات الأكبر."
+    "headline": "كيف لا تتجمد الطيور أثناء الطيران؟",
+    "body": "كيف تفعل الطيور التي تطير على ارتفاعات عالية في البرد القارس ذلك؟ سرها يكمن في أرجلها. تعمل شبكة الأوعية الدموية كمبادل حراري مثالي، حيث تدفئ الدم البارد قبل أن يصل إلى القلب."
   },
   "reel_hook": {
-    "tr": "Geceleri okyanusun neden mavi parladığını biliyor musunuz?",
-    "en": "Do you know why the ocean glows blue at night?",
-    "es": "¿Sabes por qué el océano brilla en azul por la noche?",
-    "ar": "هل تعلم لماذا يتوهج المحيط باللون الأزرق ليلاً؟"
+    "tr": "Kilometrelerce yüksekte uçan bir kuş neden donmaz?",
+    "en": "Why doesn't a bird flying miles high freeze?",
+    "es": "¿Por qué no se congela un ave que vuela a gran altura?",
+    "ar": "لماذا لا يتجمد الطير الذي يحلق على ارتفاعات عالية؟"
   },
   "story_question": {
-    "tr": "Okyanustaki bu mavi parıltıyı hangi canlılar üretir?",
-    "en": "Which organisms produce this blue glow in the ocean?",
-    "es": "¿Qué organismos producen este brillo azul en el océano?",
-    "ar": "ما هي الكائنات التي تنتج هذا الوهج الأزرق في المحيط؟"
+    "tr": "Kuşların ayaklarındaki bu özel ısı sisteminin adı nedir?",
+    "en": "What is this special heat system in birds' legs called?",
+    "es": "¿Cómo se llama este sistema de calor especial en las patas de las aves?",
+    "ar": "ما اسم نظام الحرارة الخاص هذا في أرجل الطيور؟"
   },
   "story_options": [
-    "Fitoplanktonlar",
-    "Mercanlar",
-    "Derin deniz yengeçleri"
+    "Isı Eşanjörü",
+    "Termal Tüy",
+    "Kan Pompası"
   ],
   "hashtags": [
     "#FactBite",
-    "#biyoloji",
-    "#okyanus",
     "#doğa",
     "#bilim",
-    "#keşfet"
+    "#kuşlar",
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Daha fazla doğa sırrı için takip et!",
-    "en": "Follow for more nature secrets!",
-    "es": "¡Sígueme para más secretos de la naturaleza!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة!"
+    "tr": "Benzer bilim gerçekleri için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more science facts!",
+    "es": "¡No olvides seguirnos para más datos científicos!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق العلمية!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/environment/article/bioluminescence"
+    "name": "Ornithology and Animal Physiology Research",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerdeki Gizli Işık Şovunun Sırrı",
+  "_topic": "Kuşlar Nasıl Uçarken Donmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-01T13:31:20.733918+00:00",
+  "generated_at": "2026-09-01T15:30:45.524837+00:00",
   "topic_guard_days": 180
 }

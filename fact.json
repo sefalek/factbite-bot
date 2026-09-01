@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıkların da Dil Dışında Tat Alabildiğini Biliyor muydunuz?",
-    "body": "Bizler tat almak için çenemizi ve dilimizi kullanırız ama bazı balıklar için durum çok farklı! Örneğin yayın balıklarının tat alma organları tüm vücut yüzeylerine, hatta dış derilerine yayılmıştır. Yüzdükleri her an, çevrelerindeki lezzetleri adeta tenleriyle hissederler."
+    "headline": "İneklerin En Yakın Arkadaşları Vardır",
+    "body": "İneklerin sosyal hayvanlar olduğunu biliyor muydunuz? Bilimsel araştırmalar, ineklerin sıkı dostluklar kurduğunu ve hatta bu bağlar koptuğunda ciddi şekilde stres yaşadıklarını gösteriyor."
   },
   "en": {
-    "headline": "Did You Know Fish Can Taste Things Without Their Tongues?",
-    "body": "We use our mouths to taste, but for some fish, it is entirely different! Catfish, for instance, have taste buds spread all across their outer skin. As they swim, they literally feel flavors with their entire bodies."
+    "headline": "Cows Have Best Friends",
+    "body": "Did you know cows are highly social animals? Scientific studies show they form close friendships and experience significant stress when separated from their bonded partners."
   },
   "es": {
-    "headline": "¿Sabías que los peces pueden saborear sin usar la lengua?",
-    "body": "Nosotros usamos la boca para saborear, ¡pero para algunos peces es muy diferente! Los bagres, por ejemplo, tienen papilas gustativas repartidas por toda su piel exterior. Mientras nadan, literalmente sienten los sabores con todo el cuerpo."
+    "headline": "Las Vacas Tienen Mejores Amigos",
+    "body": "¿Sabías que las vacas son animales muy sociales? Los estudios científicos demuestran que forman amistades cercanas y sufren un estrés significativo cuando se separan de sus compañeras."
   },
   "ar": {
-    "headline": "هل كنت تعلم أن الأسماك تتذوق بدون ألسنتها؟",
-    "body": "نحن نستخدم ألسنتنا للتذوق، لكن الأمر مختلف تماماً لدى بعض الأسماك! على سبيل المثال، تمتلك سمك السلور براعم تذوق منتشرة في جميع أنحاء جلدها الخارجي. أثناء سباحتها، تشعر بالنكهات بكل جسدها حرفياً."
+    "headline": "للبقر أصدقاء مقربون",
+    "body": "هل تعلم أن البقر حيوانات اجتماعية جداً؟ تظهر الدراسات العلمية أنها تكوين صداقات وثيقة وتعيش توتراً كبيراً عند انفصالها عن رفيقاتها."
   },
   "reel_hook": {
-    "tr": "Bu balıklar yemeği ağızlarıyla değil, tenleriyle tatsalar ne olurdu?",
-    "en": "What if these fish tasted their food with their skin instead of their mouths?",
-    "es": "¿Qué pasaría si estos peces probaran la comida con su piel en lugar de su boca?",
-    "ar": "ماذا لو كانت هذه الأسماك تتذوق طعامها بجلدها بدلاً من أجوائها؟"
+    "tr": "İneklerin de en yakın arkadaşı olduğunu ve onlardan ayrılnca üzüldüklerini biliyor muydunuz?",
+    "en": "Did you know cows have best friends and get stressed when separated?",
+    "es": "¿Sabías que las vacas tienen mejores amigos y se estresan si las separan?",
+    "ar": "هل كنت تعلم أن للبقر أصدقاء مقربين ويحزنون عند فراقهم؟"
   },
   "story_question": {
-    "tr": "Yayın balıklarının tat alma hücreleri vücutlarının neresindedir?",
-    "en": "Where are the taste buds of catfish located on their bodies?",
-    "es": "¿Dónde se encuentran las papilas gustativas de los bagres en sus cuerpos?",
-    "ar": "أين توجد براعم التذوق لدى سمك السلور على أجسامها؟"
+    "tr": "İneklerin en yakın arkadaşlarıyla ayrıldıklarında ne hissettikleri araştırıldı. Sizce nasıl tepki verirler?",
+    "en": "Researchers studied how cows react when separated from their best friend. How do you think they react?",
+    "es": "Se investigó qué sienten las vacas al separarse de su mejor amigo. ¿Cómo crees que reaccionan?",
+    "ar": "تمت دراسة شعور البقر عند انفصالهم عن صديقهم المقرب. برأيك كيف تكون ردة فعلهم؟"
   },
   "story_options": [
-    "Sadece kuyruklarında",
-    "Tüm dış derilerinde",
-    "Yalnızca yüzgeçlerinde"
+    "Yüksek stres ve kalp atış hızı",
+    "Hiçbir şey umurlarında olmaz",
+    "Hemen yeni arkadaş bulurlar"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#doğa",
-    "#balıklar",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#biyoloji"
+    "#doğa",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için bizi takip et!",
-    "en": "Follow us for more surprising facts like this!",
-    "es": "¡Síguenos para más datos sorprendentes como este!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunu bildiğiniz ilk kişi olmak için takip edin!",
+    "en": "Follow to be the first to know this!",
+    "es": "¡Síguenos para ser el primero en saberlo!",
+    "ar": "تابعنا لتكون أول من يعلم!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "National Geographic & Ichthyology Research",
-    "url": "https://www.nationalgeographic.com"
+    "name": "ScienceDaily & Animal Behavior Studies",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıkların da Dil Dışında Tat Alabildiğini Biliyor muydunuz?",
+  "_topic": "İneklerin En Yakın Arkadaşları Vardır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-01T10:06:31.027886+00:00",
+  "generated_at": "2026-09-01T11:36:25.316347+00:00",
   "topic_guard_days": 180
 }

@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritin Yanma Sırrı",
-    "body": "Biliyor musunuz, kibrit kutusunun yanındaki o kahverengi şerit aslında sadece sürtünme için değil. O şerit, kibrit başının yanmasını sağlayan kritik kimyasal maddelerden birini içerir. Yani kibrit çöpü tek başına sürtünse bile, kutudaki o kimyasal olmadan asla alev almaz."
+    "headline": "Çikolata Neden Sıcakta Erirken Elinizi Kirletmez?",
+    "body": "Çikolatanın ağzınızda eriyip tezgahta erimemesinin sırrı, tam otuz dört derecelik özel erime noktasında saklıdır."
   },
   "en": {
-    "headline": "The Secret to How Matches Burn",
-    "body": "Did you know that the brown strip on the side of a matchbox isn't just for friction? That strip actually contains a critical chemical needed for the match head to ignite. Without it, the match won't catch fire, even when struck."
+    "headline": "Why Doesn't Chocolate Melt in Your Hands?",
+    "body": "The secret behind why chocolate melts in your mouth but not on the counter lies in its precise thirty-four degree melting point."
   },
   "es": {
-    "headline": "El secreto detrás de las cerillas",
-    "body": "¿Sabías que la tira marrón al lado de la caja de cerillas no es solo para la fricción? Esa tira contiene un químico crucial para que la cabeza de la cerilla se encienda. Sin él, la cerilla no prenderá fuego, por mucho que la frotes."
+    "headline": "¿Por qué el chocolate no se derrite en tus manos?",
+    "body": "El secreto de por qué el chocolate se derrite en tu boca pero no en el mostrador radica en su preciso punto de fusión de treinta y cuatro grados."
   },
   "ar": {
-    "headline": "سر اشتعال أعواد الثقاب",
-    "body": "هل تعلم أن الشريط البني على جانب علبة الكبريت ليس مجرد سطح للاحتكاك؟ يحتوي هذا الشريط في الواقع على مادة كيميائية أساسية لاشتعال رأس عود الكبريت، وبدونها لن يشتعل العود أبداً."
+    "headline": "لماذا لا تذوب الشوكولاتة في يديك؟",
+    "body": "السر وراء ذوبان الشوكولاتة في فمك وليس على المنضدة يكمن في نقطة انصهارها الدقيقة البالغة أربع وثلاثين درجة."
   },
   "reel_hook": {
-    "tr": "Kibrit çöpünü kutu olmadan neden yakamazsınız?",
-    "en": "Why can't you light a match without its box?",
-    "es": "¿Por qué no puedes encender una cerilla sin su caja?",
-    "ar": "لماذا لا يمكنك إشعال عود ثقاب بدون علبته؟"
+    "tr": "Çikolatanın vücut sıcaklığınızla olan bu gizli savaşını biliyor muydunuz?",
+    "en": "Did you know about this secret battle between chocolate and your body temperature?",
+    "es": "¿Conocías esta batalla secreta entre el chocolate y la temperatura de tu cuerpo?",
+    "ar": "هل كنت تعرف عن هذه المعركة السرية بين الشوكولاتة ودرجة حرارة جسمك؟"
   },
   "story_question": {
-    "tr": "Kibrit çöpünün başındaki kimyasal sürtünmeyle tek başına yanabilir mi?",
-    "en": "Can the chemical on a match head ignite on its own with friction alone?",
-    "es": "¿Puede el químico de la cabeza de la cerilla encenderse solo con la fricción?",
-    "ar": "هل يمكن للمادة الكيميائية الموجودة على رأس عود الثقاب أن تشتعل وحدها بالاحتكاك فقط؟"
+    "tr": "Çikolatanın erime noktası insan vücut sıcaklığından yüksek midir, yoksa düşük mü?",
+    "en": "Is the melting point of chocolate higher or lower than human body temperature?",
+    "es": "¿El punto de fusión del chocolate es mayor o menor que la temperatura del cuerpo humano?",
+    "ar": "هل نقطة انصهار الشوكولاتة أعلى أم أقل من درجة حرارة جسم الإنسان؟"
   },
   "story_options": [
-    "Evet, her yerde yanar",
-    "Hayır, kutudaki kimyasal şart",
-    "Sadece tahta yüzeylerde"
+    "Daha yüksek",
+    "Neredeyse aynı",
+    "Daha düşük"
   ],
   "hashtags": [
     "#FactBite",
+    "#çikolata",
     "#bilim",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#tarih",
-    "#faydalibilgiler"
+    "#yemekbilimi",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس متابعة المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "Chemical Heritage Foundation",
-    "url": "https://www.sciencehistory.org"
+    "name": "Confectionery Science",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritin Yanma Sırrı",
+  "_topic": "Çikolata Neden Sıcakta Erirken Elinizi Kirletmez?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-08-31T23:07:38.982139+00:00",
+  "generated_at": "2026-09-01T00:05:08.743324+00:00",
   "topic_guard_days": 180
 }

@@ -1,59 +1,59 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıkların Aslında Göz Kapakları Yoktur",
-    "body": "Deniz altında yaşayan kemikli balıkların çoğunun göz kapakları yoktur. Gözlerinde koruyucu bir mukoza tabakası bulunur ve sürekli açık olan bu gözlerle uyurlar."
+    "headline": "Deniz Atlarının Asıl Gizemi",
+    "body": "Deniz atları hakkında bildiğiniz her şeyi unutun! Bu minik canlılar akıntıya karşı zayıf yüzücülerdir ve okyanusta hayatta kalabilmek için kendilerini deniz otlarına kuyruklarıyla sıkıca kilitlerler. Üstelik gözleri birbirinden tamamen bağımsız olarak aynı anda hem öne hem arkaya bakabilir."
   },
   "en": {
-    "headline": "Fish Actually Do Not Have Eyelids",
-    "body": "Most bony fish living underwater do not have eyelids. They have a protective mucous layer over their eyes and sleep with their eyes open all the time."
+    "headline": "The True Mystery of Seahorses",
+    "body": "Forget everything you know about seahorses! These tiny creatures are weak swimmers against currents and lock themselves tightly to seagrass with their tails to survive in the ocean. Moreover, their eyes can look both forward and backward completely independently at the same time."
   },
   "es": {
-    "headline": "Los Peces Realmente No Tienen Párpados",
-    "body": "La mayoría de los peces óseos que viven bajo el agua no tienen párpados. Tienen una capa mucosa protectora en los ojos y duermen con los ojos abiertos todo el tiempo."
+    "headline": "El Verdadero Misterio de los Caballitos de Mar",
+    "body": "¡Olvida todo lo que sabes sobre los caballitos de mar! Estas diminutas criaturas son nadadoras débiles contra las corrientes y se aferran fuertemente al pasto marino con sus colas para sobrevivir en el océano. Además, sus ojos pueden mirar hacia adelante y hacia atrás de forma totalmente independiente al mismo tiempo."
   },
   "ar": {
-    "headline": "الأسماك لا تمتلك جفوناً في الواقع",
-    "body": "معظم الأسماك العظمية التي تعيش تحت الماء ليس لها جفون. لديهم طبقة مخاطية واقية على عيونهم ويقضون نومهم وأعينهم مفتوحة طوال الوقت."
+    "headline": "السر الحقيقي لفرس البحر",
+    "body": "انس كل ما تعرفه عن فرس البحر! هذه الكائنات الصغيرة سباحة ضعيفة في مواجهة التيار، وتشبث نفسها بقوة بالأعشاب البحرية بأذنابها للبقاء على قيد الحياة في المحيط. علاوة على ذلك، يمكن لأعينها أن تنظر إلى الأمام والخلف بشكل مستقل تماماً في نفس الوقت."
   },
   "reel_hook": {
-    "tr": "Su altında yaşayan bu canlılar, uyurken bile gözlerini neden hiç kapatamaz?",
-    "en": "Why can these underwater creatures never close their eyes, even when sleeping?",
-    "es": "¿Por qué estas criaturas submarinas nunca pueden cerrar los ojos, ni siquiera cuando duermen?",
-    "ar": "لماذا لا تستطيع هذه الكائنات تحت الماء إغلاق عيونها أبداً، حتى أثناء النوم؟"
+    "tr": "Okyanusun bu tuhaf canlısı aynı anda iki farklı yöne nasıl bakabiliyor?",
+    "en": "How can this weird ocean creature look in two different directions at the same time?",
+    "es": "¿Cómo puede esta extraña criatura del océano mirar en dos direcciones diferentes al mismo tiempo?",
+    "ar": "كيف يمكن لهذا الكائن المحيطي الغريب أن ينظر في اتجاهين مختلفين في نفس الوقت؟"
   },
   "story_question": {
-    "tr": "Göz kapakları olmayan balıklar uyurken ne yapar?",
-    "en": "What do fish without eyelids do when they sleep?",
-    "es": "¿Qué hacen los peces sin párpados cuando duermen?",
-    "ar": "ماذا تفعل الأسماك التي ليس لها جفون عندما تنام؟"
+    "tr": "Deniz atlarının gözleri hakkında bu ilginç gerçeği biliyor muydunuz?",
+    "en": "Did you know this interesting fact about seahorse eyes?",
+    "es": "¿Conocías este interesante dato sobre los ojos de los caballitos de mar?",
+    "ar": "هل كنت تعرف هذه الحقيقة المريحة حول عيون فرس البحر؟"
   },
   "story_options": [
-    "Gözleri açık uyurlar",
-    "Suları bulandırıp saklanırlar",
-    "Sırtüstü yüzerler"
+    "Evet, biliyordum",
+    "İlk defa duydum",
+    "İnanılmaz!"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#doğa",
     "#deniz",
-    "#balıklar",
     "#ilginçbilgiler",
+    "#okyanus",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için kaydetmeyi unutma!",
+    "en": "Don't forget to save for more facts like this!",
+    "es": "¡No olvides guardar para más datos como este!",
+    "ar": "لا تنس حفظ المزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
     "name": "National Geographic",
@@ -61,9 +61,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıkların Aslında Göz Kapakları Yoktur",
+  "_topic": "Deniz Atlarının Asıl Gizemi",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-01T19:52:21.000497+00:00",
+  "generated_at": "2026-09-01T22:49:53.269100+00:00",
   "topic_guard_days": 180
 }

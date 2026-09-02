@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Yuvaları Aslında Ev Değil Birer Beşikten Ötedir",
-    "body": "Birçok kuş yuvasını yaşamak için değil, sadece yumurtlayıp yavruları büyütmek için geçici bir kuluçka merkezi olarak kullanır. İşleri bitince terk ederler."
+    "headline": "Kibrit Çöpü Neden Kutusundan Çıkınca Yanmaz?",
+    "body": "Cebinizde birbirine sürtünen kibritler neden kendi kendine alev almaz? Sır, sadece çöpün ucunda değil, kutunun kenarındaki o sihirli şeritte saklıdır. Uçtaki potasyum klorat ile şeritteki kırmızı fosfor bir araya gelmeden ateş oluşmaz."
   },
   "en": {
-    "headline": "Birds' Nests Are Actually Nurseries, Not Permanent Homes",
-    "body": "Many birds do not use their nests as permanent living spaces, but simply as temporary nurseries to hatch and raise their chicks before abandoning them."
+    "headline": "Why Matches Don't Ignite Inside the Box",
+    "body": "Why don't matches catch fire when rubbing against each other in your pocket? The secret lies not just in the tip, but in the striking strip on the box. Fire only happens when the potassium chlorate on the tip meets the red phosphorus on the strip."
   },
   "es": {
-    "headline": "Los Nidos de las Aves No Son Hogares, Son Nurias Temporales",
-    "body": "Muchas aves no usan sus nidos para vivir permanentemente, sino como centros temporales para incubar y criar a sus polluelos antes de abandonarlos."
+    "headline": "Por qué las cerillas no se encienden en la caja",
+    "body": "¿Por qué las cerillas no se prenden al rozarse en el bolsillo? El secreto no está solo en la cabeza, sino en la tira de la caja. El fuego solo se crea cuando el clorato de potasio de la punta se encuentra con el fósforo rojo de la tira."
   },
   "ar": {
-    "headline": "أعشاش الطيور ليست منازل دائمة بل حاضنات مؤقتة",
-    "body": "لا تستخدم العديد من الطيور أعشاشها كمساكن دائمة، بل كمحضنات مؤقتة فقط لتفقيس وتربية صغارها قبل تركها نهائياً."
+    "headline": "لماذا لا تشتعل أعواد الثقاب داخل العلبة",
+    "body": "لماذا لا تشتعل أعواد الثقاب عندما تحتك ببعضها في جيبك؟ السر لا يكمن في الرأس فحسب، بل في الشريط الموجود على العلبة. لا يحدث الاشتعال إلا عندما يلتقي كلورات البوتاسيوم الموجود على الرأس بالفوسفور الأحمر على الشريط."
   },
   "reel_hook": {
-    "tr": "Kuşların o süslü yuvalarını aslında asla ev olarak kullanmadığını biliyor muydunuz?",
-    "en": "Did you know birds actually never use their fancy nests as homes?",
-    "es": "¿Sabías que las aves nunca usan sus nidos como hogares?",
-    "ar": "هل تعلم أن الطيور لا تستخدم أعشاشها كمنازل أبداً؟"
+    "tr": "Cebinizdeki kibritler neden kendi kendine yanmıyor?",
+    "en": "Why don't the matches in your pocket catch fire by themselves?",
+    "es": "¿Por qué las cerillas de tu bolsillo no se encienden solas?",
+    "ar": "لماذا لا تشتعل أعواد الثقاب في جيبك من تلقاء نفسها؟"
   },
   "story_question": {
-    "tr": "Sizce kuşlar terk ettikleri eski yuvalarına bir daha geri döner mi?",
-    "en": "Do you think birds ever return to the old nests they abandoned?",
-    "es": "¿Crees que las aves vuelven a los viejos nidos que abandonaron?",
-    "ar": "برأيك، هل تعود الطيور إلى الأعشاش القديمة التي هجرتها؟"
+    "tr": "Kibritin yanmasını sağlayan ana element kutunun neresindedir?",
+    "en": "Where is the main element that makes a match burn located?",
+    "es": "¿Dónde se encuentra el elemento principal que hace arder una cerilla?",
+    "ar": "أين يقع العنصر الأساسي الذي يجعل عود الثقاب يحترق؟"
   },
   "story_options": [
-    "Evet, her yıl onarırlar",
-    "Hayır, asla geri dönmezler",
-    "Sadece bazı türler kullanır"
+    "Sadece kibritin ucunda",
+    "Sadece kutunun kenarında",
+    "İkisinin birleşiminde"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#kuşlar",
-    "#bilgi",
+    "#bilim",
     "#ilginçbilgiler",
-    "#hayvanlaralemi",
-    "#keşfet"
+    "#teknoloji",
+    "#keşfet",
+    "#fвича",
+    "#gündem"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "Chemical Heritage Foundation",
+    "url": "https://www.sciencehistory.org/education/scientific-biographies/safety-match/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Yuvaları Aslında Ev Değil Birer Beşikten Ötedir",
+  "_topic": "Kibrit Çöpü Neden Kutusundan Çıkınca Yanmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-02T15:10:13.893091+00:00",
+  "generated_at": "2026-09-02T17:00:06.565594+00:00",
   "topic_guard_days": 180
 }

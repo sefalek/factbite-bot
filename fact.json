@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ayılar Neden Kış Uykusundayken Doğurur?",
-    "body": "Biliyor musunuz, bozayılar kış uykusunun en derin ve karanlık anında, resmen derin bir komadayken yavrularını dünyaya getirirler. Anne ayı karlar altındaki sıcak yuvasında uyumaya devam ederken, yavrular annelerinin sütünü emmek için adeta uykuda oldukları bir dönemde doğar ve büyürler."
+    "headline": "İneklerin En Yakın Arkadaşları Vardır ve Ayrıldıklarında Strese Girerler",
+    "body": "Sürüler halinde yaşayan inekler, aralarında güçlü sosyal bağlar kurarlar. Araştırmalar, bu sakin hayvanların en sevdikleri 'en iyi arkadaşları' olduğunu ve bu arkadaşlarından ayrı kaldıklarında kalp atışlarının hızlanıp ciddi stres yaşadıklarını gösteriyor."
   },
   "en": {
-    "headline": "Why Do Bears Give Birth While Hibernating?",
-    "body": "Did you know that grizzly bears give birth to their cubs during the deepest, darkest moment of hibernation, while in a profound sleep? The mother bear continues to rest in her warm den beneath the snow while the cubs are born and nurse."
+    "headline": "Cows Have Best Friends and Get Stressed When Separated",
+    "body": "Living in herds, cows form strong social bonds with each other. Research shows that these calm animals have favorite 'best friends' and experience increased heart rates and severe stress when separated from them."
   },
   "es": {
-    "headline": "¿Por qué los osos dan a luz mientras hibernan?",
-    "body": "¿Sabías que los osos pardos dan a luz a sus cachorros durante el momento más profundo y oscuro de la hibernación, mientras están en un sueño profundo? La madre oso continúa descansando en su cálida guarida bajo la nieve."
+    "headline": "Las vacas tienen mejores amigos y se estresan cuando se separan",
+    "body": "Viviendo en manadas, las vacas forman fuertes lazos sociales entre sí. Las investigaciones muestran que estos animales tranquilos tienen 'mejores amigos' favoritos y experimentan un aumento en el ritmo cardíaco y estrés severo cuando se separan de ellos."
   },
   "ar": {
-    "headline": "لماذا تلد الدببة أثناء فترة السبات الشتوي؟",
-    "body": "هل تعلم أن الدببة الرمادية تلد صغارها خلال أعمق وأظلم لحظة من السبات الشتوي بينما تكون في نوم عمق؟ تستمر الأم في الراحة داخل عرينها الدافئ تحت الثلج بينما يولد الصغار."
+    "headline": "للبقر أصدقاء مقربون ويصابون بالتوتر عند انفصالهم",
+    "body": "تعيش الأبقر في قطيع وتكون روابط اجتماعية قوية بينها. تظهر الأبحاث أن هذه الحيوانات الهدوء لديها 'أفضل أصدقاء' مفضلين وتمر بزيادة في معدل ضربات القلب وتوتر شديد عند انفصالها عنهم."
   },
   "reel_hook": {
-    "tr": "Ayılar kış uykusundayken doğum yapabilir mi?",
-    "en": "Can bears give birth while sleeping?",
-    "es": "¿Pueden los osos dar a luz mientras duermen?",
-    "ar": "هل تستطيع الدببة الولادة أثناء نومها؟"
+    "tr": "Birlikte otlayan iki inekten biri ayrıldığında kalbi neden hızla çarpmaya başlar?",
+    "en": "Why does the heart of one of two grazing cows start beating fast when separated?",
+    "es": "¿Por qué el corazón de una de las dos vacas que pastan comienza a latir rápido cuando se separan?",
+    "ar": "لماذا يبدأ قلب إحدى بقرتين تتغذيان بالنبض بسرعة عند انفصالها؟"
   },
   "story_question": {
-    "tr": "Anne ayı kış uykusundayken yavrularını nasıl besler?",
-    "en": "How does the mother bear feed her cubs during hibernation?",
-    "es": "¿Cómo alimenta la madre oso a sus cachorros durante la hibernación?",
-    "ar": "كيف تغذي أم الدب صغارها أثناء السبات؟"
+    "tr": "İneklerin en yakın arkadaşından ayrıldığında gösterdiği en yaygın belirti nedir?",
+    "en": "What is the most common sign cows show when separated from their best friend?",
+    "es": "¿Cuál es el signo más común que muestran las vacas cuando se separan de su mejor amigo?",
+    "ar": "ما هي العلامة الأكثر شيوعاً التي تظهرها الأبقر عند انفصالها عن صديقها المقرب؟"
   },
   "story_options": [
-    "Uykusunda süt üretir",
-    "Kış uykusundan uyanır",
-    "Yavrular uyandırır"
+    "Kalp atış hızının artması",
+    "Sürekli ses çıkararak ağlaması",
+    "Yem yemeyi tamamen kesmesi"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#hayvanlar",
-    "#bilim",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#İnekler",
+    "#Doğa",
+    "#HayvanlarAlemi",
+    "#Bilim",
+    "#İlginçBilgiler",
+    "#Hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more amazing facts!",
+    "es": "¡Mantente atento a más datos asombrosos!",
+    "ar": "تابعنا للمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Applied Animal Behaviour Science",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S016815911100295X"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ayılar Neden Kış Uykusundayken Doğurur?",
+  "_topic": "İneklerin En Yakın Arkadaşları Vardır ve Ayrıldıklarında Strese Girerler",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-02T09:36:56.428696+00:00",
+  "generated_at": "2026-09-02T11:14:48.932660+00:00",
   "topic_guard_days": 180
 }

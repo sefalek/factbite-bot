@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çilek Aslında Botanik Olarak Bir Meyve Değildir",
-    "body": "Manavda meyve olarak bildiğimiz çilek, botanik bilimine göre aslında bir meyve değil, aksine çiçeğin etli kısmının büyüdüğü sahte bir meyvedir. Gerçek meyveler ise çileğin dış yüzeyinde minik tanecikler olarak gördüğünüz o sert tohumlardır!"
+    "headline": "İneklerin En Yakın Arkadaşı Olur Mu?",
+    "body": "Bilim insanları ineklerin sıkı dostluklar kurduğunu ve hatta en yakın arkadaşlarından ayrıldıklarında derin bir stres yaşadıklarını kanıtladı."
   },
   "en": {
-    "headline": "Strawberries Are Not Actually Botanically Fruits",
-    "body": "The strawberry we know as fruit in the market is actually not a fruit according to botany, but rather an aggregate accessory fruit where the plant's flower receptacle enlarges. The true fruits are those tiny hard seeds on the outer surface!"
+    "headline": "Do Cows Have Best Friends?",
+    "body": "Scientists have proven that cows form close friendships and experience deep stress when separated from their best friends."
   },
   "es": {
-    "headline": "Las Fresas No Son Realmente Frutas Botánicamente",
-    "body": "La fresa que conocemos como fruta en el mercado no es en realidad una fruta según la botánica, sino un fruto agregado donde se engrosa el receptáculo de la flor. ¡Los frutos verdaderos son esas pequeñas semillas duras de la superficie!"
+    "headline": "¿Tienen las vacas mejores amigas?",
+    "body": "Los científicos han demostrado que las vacas forman amistades cercanas y experimentan un profundo estrés cuando se separan de sus mejores amigas."
   },
   "ar": {
-    "headline": "الفراولة ليست في الواقع فاكهة من الناحية النباتية",
-    "body": "الفراولة التي نعرفها كفاكهة في السوق ليست في الواقع فاكهة وفقاً لعلم النبات، بل هي ثمرة كاذبة حيث يتضخم وعاء زهرة النبتة. الثمار الحقيقية هي تلك البذور الصغيرة الصلبة على السطح الخارجي!"
+    "headline": "هل تمتلك الأبقار أصدقاء مقربين؟",
+    "body": "أثبت العلماء أن الأبقار تكوين صداقات وثيقة وتعيش توتراً شديداً عند انفصالها عن أصدقائها المقربين."
   },
   "reel_hook": {
-    "tr": "Manavdan aldığınız o kırmızı çilekler var ya... Aslında bildiğiniz anlamda bir meyve değil!",
-    "en": "Those red strawberries you buy from the market... They are actually not a fruit in the way you know!",
-    "es": "Esas fresas rojas que compras en el mercado... ¡En realidad no son una fruta como crees!",
-    "ar": "تلك الفراولة الحمراء التي تشتريها من السوق... هي في الواقع ليست فاكهة بالمعنى الذي تعرفه!"
+    "tr": "İneklerin en yakın arkadaşından ayrıldığında ne hissettiğini biliyor musun?",
+    "en": "Do you know how cows feel when separated from their best friend?",
+    "es": "¿Sabes cómo se sienten las vacas cuando se separan de su mejor amiga?",
+    "ar": "هل تعلم بما تشعر الأبقار عند انفصالها عن صديقها المقرب؟"
   },
   "story_question": {
-    "tr": "Çileğin dış yüzeyindeki minik sert yapılar aslında nedir?",
-    "en": "What are those tiny hard structures on the outer surface of a strawberry actually?",
-    "es": "¿Qué son en realidad esas pequeñas estructuras duras en la superficie de la fresa?",
-    "ar": "ما هي تلك التراكيب الصلبة الصغيرة على السطح الخارجي للفراولة في الواقع؟"
+    "tr": "İnekler en yakın arkadaşlarından ayrıldıklarında ne yaşar?",
+    "en": "What do cows experience when separated from their best friends?",
+    "es": "¿Qué experimentan las vacas cuando se separan de sus mejores amigas?",
+    "ar": "ماذا تشعر الأبقار عند انفصالها عن أصدقائها المقربين؟"
   },
   "story_options": [
-    "Gerçek meyvelerin kendisidir",
-    "Bitkinin dikenleridir",
-    "Sadece polen kalıntısıdır"
+    "Stres ve kalp atış hızında artış",
+    "Hiçbir şey umurlarında olmaz",
+    "Hemen yeni arkadaş bulurlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#çilek",
-    "#botanik",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#meyve",
-    "#gerçekler"
+    "#İnekler",
+    "#Doğa",
+    "#Hayvanlaralemi",
+    "#Bilim",
+    "#İlginçbilgiler",
+    "#Hayvanlar"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için takip et!",
+    "en": "Follow for more interesting facts like this!",
+    "es": "¡Sigue para más datos interesantes como este!",
+    "ar": "تابع للمزيد من الحقائق الشيقة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "Encyclopædia Britannica",
-    "url": "https://www.britannica.com/science/strawberry"
+    "name": "Applied Animal Behaviour Science",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S016815910100187X"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çilek Aslında Botanik Olarak Bir Meyve Değildir",
+  "_topic": "İneklerin En Yakın Arkadaşı Olur Mu?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-02T21:37:17.042004+00:00",
+  "generated_at": "2026-09-02T22:51:29.473663+00:00",
   "topic_guard_days": 180
 }

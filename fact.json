@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Gökyüzünde Neden Asimetrik Uçar?",
-    "body": "Gökyüzünde süzülen kuş sürülerini izlediğinizde her şey kusursuz bir uyum içinde görünür. Ancak bilim insanları, kuşların sürünün yönünü belirlerken sadece lideri değil, en yakınlarındaki tek bir komşunun hareketlerini baz aldığını keşfetti. Milyonlarca yıllık bu doğa harikası, havada çarpışmadan binlerce kilometre yol almalarını sağlıyor."
+    "headline": "Kuşların Yuvaları Aslında Ev Değil Birer Beşikten Ötedir",
+    "body": "Birçok kuş yuvasını yaşamak için değil, sadece yumurtlayıp yavruları büyütmek için geçici bir kuluçka merkezi olarak kullanır. İşleri bitince terk ederler."
   },
   "en": {
-    "headline": "Why Birds Fly Asymmetrically in the Sky",
-    "body": "When you watch flocks of birds gliding through the sky, everything looks in perfect harmony. However, scientists discovered that when determining direction, birds rely not just on the leader, but specifically on the movements of a single nearest neighbor. This millions-of-years-old wonder of nature allows them to travel thousands of kilometers without mid-air collisions."
+    "headline": "Birds' Nests Are Actually Nurseries, Not Permanent Homes",
+    "body": "Many birds do not use their nests as permanent living spaces, but simply as temporary nurseries to hatch and raise their chicks before abandoning them."
   },
   "es": {
-    "headline": "Por qué las aves vuelan de forma asimétrica en el cielo",
-    "body": "Cuando observas bandadas de aves planeando en el cielo, todo parece estar en perfecta armonía. Sin embargo, los científicos descubrieron que al determinar la dirección, las aves no solo siguen al líder, sino específicamente los movimientos de un solo vecino más cercano. Esta maravilla natural de millones de años les permite viajar miles de kilómetros sin colisiones."
+    "headline": "Los Nidos de las Aves No Son Hogares, Son Nurias Temporales",
+    "body": "Muchas aves no usan sus nidos para vivir permanentemente, sino como centros temporales para incubar y criar a sus polluelos antes de abandonarlos."
   },
   "ar": {
-    "headline": "لماذا تطير الطيور بشكل غير متماثل في السماء؟",
-    "body": "عندما تشاهد أسراب الطيور تحلق في السماء، تبدو كل الأمور في تناغم تام. ومع ذلك، اكتشف العلماء أنه عند تحديد الاتجاه، لا تعتمد الطيور على القائد فحسب، بل على وجه التحديد على حركات أقرب جار واحد فقط. هذه المعجزة الطبيعية التي تعود لملايين السنين تمكنها من قطع آلاف الكيلومترات دون اصطدام."
+    "headline": "أعشاش الطيور ليست منازل دائمة بل حاضنات مؤقتة",
+    "body": "لا تستخدم العديد من الطيور أعشاشها كمساكن دائمة، بل كمحضنات مؤقتة فقط لتفقيس وتربية صغارها قبل تركها نهائياً."
   },
   "reel_hook": {
-    "tr": "Gökyüzündeki o muazzam sürü hareketinin arkasında aslında tek bir kural var...",
-    "en": "Behind that massive flock movement in the sky, there is actually just one rule...",
-    "es": "Detrás de ese movimiento masivo de la bandada en el cielo, en realidad hay una sola regla...",
-    "ar": "وراء حركة السرب الهائلة تلك في السماء، توجد في الواقع قاعدة واحدة فقط..."
+    "tr": "Kuşların o süslü yuvalarını aslında asla ev olarak kullanmadığını biliyor muydunuz?",
+    "en": "Did you know birds actually never use their fancy nests as homes?",
+    "es": "¿Sabías que las aves nunca usan sus nidos como hogares?",
+    "ar": "هل تعلم أن الطيور لا تستخدم أعشاشها كمنازل أبداً؟"
   },
   "story_question": {
-    "tr": "Kuş sürüleri yön değiştirirken kararı kim verir?",
-    "en": "Who decides when flocks of birds change direction?",
-    "es": "¿Quién decide cuándo las bandadas de aves cambian de dirección?",
-    "ar": "من يقرر متى تغير أسراب الطيور اتجاهها؟"
+    "tr": "Sizce kuşlar terk ettikleri eski yuvalarına bir daha geri döner mi?",
+    "en": "Do you think birds ever return to the old nests they abandoned?",
+    "es": "¿Crees que las aves vuelven a los viejos nidos que abandonaron?",
+    "ar": "برأيك، هل تعود الطيور إلى الأعشاش القديمة التي هجرتها؟"
   },
   "story_options": [
-    "Sadece en öndeki lider kuş",
-    "Sürünün tamamı aynı anda ortak bir kararla",
-    "Her kuş yalnızca en yakınındaki tek komşuyu takip eder"
+    "Evet, her yıl onarırlar",
+    "Hayır, asla geri dönmezler",
+    "Sadece bazı türler kullanır"
   ],
   "hashtags": [
     "#FactBite",
     "#doğa",
-    "#bilim",
     "#kuşlar",
-    "#biyoloji",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#bilgi",
+    "#ilginçbilgiler",
+    "#hayvanlaralemi",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Doğanın bu kusursuz matematiğini ilk defa mı duydun? Arkadaşına gönder!",
-    "en": "Hearing this perfect mathematics of nature for the first time? Send it to a friend!",
-    "es": "¿Es la primera vez que oyes esta matemática perfecta de la naturaleza? ¡Envíaselo a un amigo!",
-    "ar": "هل تسمع هذه الرياضيات الطبيعية المثالية لأول مرة؟ أرسلها لصديقك!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Journal of Statistical Physics",
-    "url": "https://link.springer.com/journal/10955"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Gökyüzünde Neden Asimetrik Uçar?",
+  "_topic": "Kuşların Yuvaları Aslında Ev Değil Birer Beşikten Ötedir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-02T12:49:05.597702+00:00",
+  "generated_at": "2026-09-02T15:10:13.893091+00:00",
   "topic_guard_days": 180
 }

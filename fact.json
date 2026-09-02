@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibrit Çöpü Neden Kutusundan Çıkınca Yanmaz?",
-    "body": "Cebinizde birbirine sürtünen kibritler neden kendi kendine alev almaz? Sır, sadece çöpün ucunda değil, kutunun kenarındaki o sihirli şeritte saklıdır. Uçtaki potasyum klorat ile şeritteki kırmızı fosfor bir araya gelmeden ateş oluşmaz."
+    "headline": "Bukalemunlar Renk Değiştirmeden Önce Ne Yapar?",
+    "body": "Bukalemunların sadece kamufle olmak için renk değiştirdiğini düşünüyorsanız, yanılıyorsunuz. Aslında bu muazzam değişim, onların birbirleriyle anlaşma yöntemidir. Üstelik bunu derilerindeki özel kristallerin mesafesini değiştirerek yaparlar."
   },
   "en": {
-    "headline": "Why Matches Don't Ignite Inside the Box",
-    "body": "Why don't matches catch fire when rubbing against each other in your pocket? The secret lies not just in the tip, but in the striking strip on the box. Fire only happens when the potassium chlorate on the tip meets the red phosphorus on the strip."
+    "headline": "What Do Chameleons Do Before Changing Color?",
+    "body": "If you think chameleons change color only to camouflage, you are wrong. This amazing transformation is actually their way of communicating with each other. They do this by altering the spacing of special crystals in their skin."
   },
   "es": {
-    "headline": "Por qué las cerillas no se encienden en la caja",
-    "body": "¿Por qué las cerillas no se prenden al rozarse en el bolsillo? El secreto no está solo en la cabeza, sino en la tira de la caja. El fuego solo se crea cuando el clorato de potasio de la punta se encuentra con el fósforo rojo de la tira."
+    "headline": "¿Qué hacen los camaleones antes de cambiar de color?",
+    "body": "Si crees que los camaleones cambian de color solo para camuflarse, te equivocas. En realidad, esta asombrosa transformación es su forma de comunicarse entre sí. Lo hacen alterando el espacio entre cristales especiales en su piel."
   },
   "ar": {
-    "headline": "لماذا لا تشتعل أعواد الثقاب داخل العلبة",
-    "body": "لماذا لا تشتعل أعواد الثقاب عندما تحتك ببعضها في جيبك؟ السر لا يكمن في الرأس فحسب، بل في الشريط الموجود على العلبة. لا يحدث الاشتعال إلا عندما يلتقي كلورات البوتاسيوم الموجود على الرأس بالفوسفور الأحمر على الشريط."
+    "headline": "ماذا تفعل الحرباء قبل تغيير لونها؟",
+    "body": "إذا كنت تعتقد أن الحرباء تتغير لونها فقط للتخفي، فأنت مخطئ. هذا التحول المذهل هو في الواقع طريقتهم للتواصل مع بعضهم البعض، وهم يفعلون ذلك عن طريق تغيير مسافات بلورات خاصة في جلدهم."
   },
   "reel_hook": {
-    "tr": "Cebinizdeki kibritler neden kendi kendine yanmıyor?",
-    "en": "Why don't the matches in your pocket catch fire by themselves?",
-    "es": "¿Por qué las cerillas de tu bolsillo no se encienden solas?",
-    "ar": "لماذا لا تشتعل أعواد الثقاب في جيبك من تلقاء نفسها؟"
+    "tr": "Bukalemunların renk değiştirmesinin tek sebebi kamufle olmak değil...",
+    "en": "Camouflage isn't the only reason chameleons change color...",
+    "es": "El camuflaje no es la única razón por la que los camaleones cambian de color...",
+    "ar": "التخفي ليس السبب الوحيد لتغيير الحرباء لونها..."
   },
   "story_question": {
-    "tr": "Kibritin yanmasını sağlayan ana element kutunun neresindedir?",
-    "en": "Where is the main element that makes a match burn located?",
-    "es": "¿Dónde se encuentra el elemento principal que hace arder una cerilla?",
-    "ar": "أين يقع العنصر الأساسي الذي يجعل عود الثقاب يحترق؟"
+    "tr": "Bukalemunlar derilerindeki kristalleri nasıl hareket ettirir?",
+    "en": "How do chameleons move the crystals in their skin?",
+    "es": "¿Cómo mueven los camaleones los cristales de su piel?",
+    "ar": "كيف تحرك الحرباء البلورات الموجودة في جلدها؟"
   },
   "story_options": [
-    "Sadece kibritin ucunda",
-    "Sadece kutunun kenarında",
-    "İkisinin birleşiminde"
+    "Kas gerginliğiyle",
+    "Kan akışıyla",
+    "Hormonlarla"
   ],
   "hashtags": [
     "#FactBite",
+    "#bukalemun",
+    "#doğa",
     "#bilim",
-    "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#fвича",
-    "#gündem"
+    "#hayvanlar",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Stay tuned for more nature secrets like this!",
+    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
+    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.5
   },
   "source": {
-    "name": "Chemical Heritage Foundation",
-    "url": "https://www.sciencehistory.org/education/scientific-biographies/safety-match/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibrit Çöpü Neden Kutusundan Çıkınca Yanmaz?",
+  "_topic": "Bukalemunlar Renk Değiştirmeden Önce Ne Yapar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-02T17:00:06.565594+00:00",
+  "generated_at": "2026-09-02T18:29:07.189235+00:00",
   "topic_guard_days": 180
 }

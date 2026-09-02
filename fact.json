@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Deniz Atlarının Asıl Gizemi",
-    "body": "Deniz atları hakkında bildiğiniz her şeyi unutun! Bu minik canlılar akıntıya karşı zayıf yüzücülerdir ve okyanusta hayatta kalabilmek için kendilerini deniz otlarına kuyruklarıyla sıkıca kilitlerler. Üstelik gözleri birbirinden tamamen bağımsız olarak aynı anda hem öne hem arkaya bakabilir."
+    "headline": "Ayılar Neden Kış Uykusundayken Doğurur?",
+    "body": "Biliyor musunuz, bozayılar kış uykusunun en derin ve karanlık anında, resmen derin bir komadayken yavrularını dünyaya getirirler. Anne ayı karlar altındaki sıcak yuvasında uyumaya devam ederken, yavrular annelerinin sütünü emmek için adeta uykuda oldukları bir dönemde doğar ve büyürler."
   },
   "en": {
-    "headline": "The True Mystery of Seahorses",
-    "body": "Forget everything you know about seahorses! These tiny creatures are weak swimmers against currents and lock themselves tightly to seagrass with their tails to survive in the ocean. Moreover, their eyes can look both forward and backward completely independently at the same time."
+    "headline": "Why Do Bears Give Birth While Hibernating?",
+    "body": "Did you know that grizzly bears give birth to their cubs during the deepest, darkest moment of hibernation, while in a profound sleep? The mother bear continues to rest in her warm den beneath the snow while the cubs are born and nurse."
   },
   "es": {
-    "headline": "El Verdadero Misterio de los Caballitos de Mar",
-    "body": "¡Olvida todo lo que sabes sobre los caballitos de mar! Estas diminutas criaturas son nadadoras débiles contra las corrientes y se aferran fuertemente al pasto marino con sus colas para sobrevivir en el océano. Además, sus ojos pueden mirar hacia adelante y hacia atrás de forma totalmente independiente al mismo tiempo."
+    "headline": "¿Por qué los osos dan a luz mientras hibernan?",
+    "body": "¿Sabías que los osos pardos dan a luz a sus cachorros durante el momento más profundo y oscuro de la hibernación, mientras están en un sueño profundo? La madre oso continúa descansando en su cálida guarida bajo la nieve."
   },
   "ar": {
-    "headline": "السر الحقيقي لفرس البحر",
-    "body": "انس كل ما تعرفه عن فرس البحر! هذه الكائنات الصغيرة سباحة ضعيفة في مواجهة التيار، وتشبث نفسها بقوة بالأعشاب البحرية بأذنابها للبقاء على قيد الحياة في المحيط. علاوة على ذلك، يمكن لأعينها أن تنظر إلى الأمام والخلف بشكل مستقل تماماً في نفس الوقت."
+    "headline": "لماذا تلد الدببة أثناء فترة السبات الشتوي؟",
+    "body": "هل تعلم أن الدببة الرمادية تلد صغارها خلال أعمق وأظلم لحظة من السبات الشتوي بينما تكون في نوم عمق؟ تستمر الأم في الراحة داخل عرينها الدافئ تحت الثلج بينما يولد الصغار."
   },
   "reel_hook": {
-    "tr": "Okyanusun bu tuhaf canlısı aynı anda iki farklı yöne nasıl bakabiliyor?",
-    "en": "How can this weird ocean creature look in two different directions at the same time?",
-    "es": "¿Cómo puede esta extraña criatura del océano mirar en dos direcciones diferentes al mismo tiempo?",
-    "ar": "كيف يمكن لهذا الكائن المحيطي الغريب أن ينظر في اتجاهين مختلفين في نفس الوقت؟"
+    "tr": "Ayılar kış uykusundayken doğum yapabilir mi?",
+    "en": "Can bears give birth while sleeping?",
+    "es": "¿Pueden los osos dar a luz mientras duermen?",
+    "ar": "هل تستطيع الدببة الولادة أثناء نومها؟"
   },
   "story_question": {
-    "tr": "Deniz atlarının gözleri hakkında bu ilginç gerçeği biliyor muydunuz?",
-    "en": "Did you know this interesting fact about seahorse eyes?",
-    "es": "¿Conocías este interesante dato sobre los ojos de los caballitos de mar?",
-    "ar": "هل كنت تعرف هذه الحقيقة المريحة حول عيون فرس البحر؟"
+    "tr": "Anne ayı kış uykusundayken yavrularını nasıl besler?",
+    "en": "How does the mother bear feed her cubs during hibernation?",
+    "es": "¿Cómo alimenta la madre oso a sus cachorros durante la hibernación?",
+    "ar": "كيف تغذي أم الدب صغارها أثناء السبات؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "İlk defa duydum",
-    "İnanılmaz!"
+    "Uykusunda süt üretir",
+    "Kış uykusundan uyanır",
+    "Yavrular uyandırır"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
     "#doğa",
-    "#deniz",
-    "#ilginçbilgiler",
-    "#okyanus",
-    "#keşfet"
+    "#hayvanlar",
+    "#bilim",
+    "#keşfet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için kaydetmeyi unutma!",
-    "en": "Don't forget to save for more facts like this!",
-    "es": "¡No olvides guardar para más datos como este!",
-    "ar": "لا تنس حفظ المزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة!"
   },
   "quality": {
     "curiosity": 9,
@@ -61,9 +60,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Deniz Atlarının Asıl Gizemi",
+  "_topic": "Ayılar Neden Kış Uykusundayken Doğurur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-01T22:49:53.269100+00:00",
+  "generated_at": "2026-09-02T09:36:56.428696+00:00",
   "topic_guard_days": 180
 }

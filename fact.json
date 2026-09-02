@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İneklerin En Yakın Arkadaşları Vardır ve Ayrıldıklarında Strese Girerler",
-    "body": "Sürüler halinde yaşayan inekler, aralarında güçlü sosyal bağlar kurarlar. Araştırmalar, bu sakin hayvanların en sevdikleri 'en iyi arkadaşları' olduğunu ve bu arkadaşlarından ayrı kaldıklarında kalp atışlarının hızlanıp ciddi stres yaşadıklarını gösteriyor."
+    "headline": "Kuşlar Gökyüzünde Neden Asimetrik Uçar?",
+    "body": "Gökyüzünde süzülen kuş sürülerini izlediğinizde her şey kusursuz bir uyum içinde görünür. Ancak bilim insanları, kuşların sürünün yönünü belirlerken sadece lideri değil, en yakınlarındaki tek bir komşunun hareketlerini baz aldığını keşfetti. Milyonlarca yıllık bu doğa harikası, havada çarpışmadan binlerce kilometre yol almalarını sağlıyor."
   },
   "en": {
-    "headline": "Cows Have Best Friends and Get Stressed When Separated",
-    "body": "Living in herds, cows form strong social bonds with each other. Research shows that these calm animals have favorite 'best friends' and experience increased heart rates and severe stress when separated from them."
+    "headline": "Why Birds Fly Asymmetrically in the Sky",
+    "body": "When you watch flocks of birds gliding through the sky, everything looks in perfect harmony. However, scientists discovered that when determining direction, birds rely not just on the leader, but specifically on the movements of a single nearest neighbor. This millions-of-years-old wonder of nature allows them to travel thousands of kilometers without mid-air collisions."
   },
   "es": {
-    "headline": "Las vacas tienen mejores amigos y se estresan cuando se separan",
-    "body": "Viviendo en manadas, las vacas forman fuertes lazos sociales entre sí. Las investigaciones muestran que estos animales tranquilos tienen 'mejores amigos' favoritos y experimentan un aumento en el ritmo cardíaco y estrés severo cuando se separan de ellos."
+    "headline": "Por qué las aves vuelan de forma asimétrica en el cielo",
+    "body": "Cuando observas bandadas de aves planeando en el cielo, todo parece estar en perfecta armonía. Sin embargo, los científicos descubrieron que al determinar la dirección, las aves no solo siguen al líder, sino específicamente los movimientos de un solo vecino más cercano. Esta maravilla natural de millones de años les permite viajar miles de kilómetros sin colisiones."
   },
   "ar": {
-    "headline": "للبقر أصدقاء مقربون ويصابون بالتوتر عند انفصالهم",
-    "body": "تعيش الأبقر في قطيع وتكون روابط اجتماعية قوية بينها. تظهر الأبحاث أن هذه الحيوانات الهدوء لديها 'أفضل أصدقاء' مفضلين وتمر بزيادة في معدل ضربات القلب وتوتر شديد عند انفصالها عنهم."
+    "headline": "لماذا تطير الطيور بشكل غير متماثل في السماء؟",
+    "body": "عندما تشاهد أسراب الطيور تحلق في السماء، تبدو كل الأمور في تناغم تام. ومع ذلك، اكتشف العلماء أنه عند تحديد الاتجاه، لا تعتمد الطيور على القائد فحسب، بل على وجه التحديد على حركات أقرب جار واحد فقط. هذه المعجزة الطبيعية التي تعود لملايين السنين تمكنها من قطع آلاف الكيلومترات دون اصطدام."
   },
   "reel_hook": {
-    "tr": "Birlikte otlayan iki inekten biri ayrıldığında kalbi neden hızla çarpmaya başlar?",
-    "en": "Why does the heart of one of two grazing cows start beating fast when separated?",
-    "es": "¿Por qué el corazón de una de las dos vacas que pastan comienza a latir rápido cuando se separan?",
-    "ar": "لماذا يبدأ قلب إحدى بقرتين تتغذيان بالنبض بسرعة عند انفصالها؟"
+    "tr": "Gökyüzündeki o muazzam sürü hareketinin arkasında aslında tek bir kural var...",
+    "en": "Behind that massive flock movement in the sky, there is actually just one rule...",
+    "es": "Detrás de ese movimiento masivo de la bandada en el cielo, en realidad hay una sola regla...",
+    "ar": "وراء حركة السرب الهائلة تلك في السماء، توجد في الواقع قاعدة واحدة فقط..."
   },
   "story_question": {
-    "tr": "İneklerin en yakın arkadaşından ayrıldığında gösterdiği en yaygın belirti nedir?",
-    "en": "What is the most common sign cows show when separated from their best friend?",
-    "es": "¿Cuál es el signo más común que muestran las vacas cuando se separan de su mejor amigo?",
-    "ar": "ما هي العلامة الأكثر شيوعاً التي تظهرها الأبقر عند انفصالها عن صديقها المقرب؟"
+    "tr": "Kuş sürüleri yön değiştirirken kararı kim verir?",
+    "en": "Who decides when flocks of birds change direction?",
+    "es": "¿Quién decide cuándo las bandadas de aves cambian de dirección?",
+    "ar": "من يقرر متى تغير أسراب الطيور اتجاهها؟"
   },
   "story_options": [
-    "Kalp atış hızının artması",
-    "Sürekli ses çıkararak ağlaması",
-    "Yem yemeyi tamamen kesmesi"
+    "Sadece en öndeki lider kuş",
+    "Sürünün tamamı aynı anda ortak bir kararla",
+    "Her kuş yalnızca en yakınındaki tek komşuyu takip eder"
   ],
   "hashtags": [
     "#FactBite",
-    "#İnekler",
-    "#Doğa",
-    "#HayvanlarAlemi",
-    "#Bilim",
-    "#İlginçBilgiler",
-    "#Hayvanlar"
+    "#doğa",
+    "#bilim",
+    "#kuşlar",
+    "#biyoloji",
+    "#keşfet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more amazing facts!",
-    "es": "¡Mantente atento a más datos asombrosos!",
-    "ar": "تابعنا للمزيد من الحقائق المذهلة!"
+    "tr": "Doğanın bu kusursuz matematiğini ilk defa mı duydun? Arkadaşına gönder!",
+    "en": "Hearing this perfect mathematics of nature for the first time? Send it to a friend!",
+    "es": "¿Es la primera vez que oyes esta matemática perfecta de la naturaleza? ¡Envíaselo a un amigo!",
+    "ar": "هل تسمع هذه الرياضيات الطبيعية المثالية لأول مرة؟ أرسلها لصديقك!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Applied Animal Behaviour Science",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S016815911100295X"
+    "name": "Journal of Statistical Physics",
+    "url": "https://link.springer.com/journal/10955"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İneklerin En Yakın Arkadaşları Vardır ve Ayrıldıklarında Strese Girerler",
+  "_topic": "Kuşlar Gökyüzünde Neden Asimetrik Uçar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-02T11:14:48.932660+00:00",
+  "generated_at": "2026-09-02T12:49:05.597702+00:00",
   "topic_guard_days": 180
 }

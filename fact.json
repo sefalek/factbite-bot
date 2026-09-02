@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gagalarındaki Gizli Pusula",
-    "body": "Gökyüzünde kusursuz bir uyumla uçan göçmen kuşlar, binlerce kilometrelik yollarda yönlerini asla kaybetmezler. Bilim insanları, bu muazzam yeteneğin sadece gözlerle ilgili olmadığını, kuşların gagalarındaki özel hücrelerin Dünya'nın manyetik alanını adeta bir GPS gibi algıladığını keşfetti."
+    "headline": "Çilek Aslında Botanik Olarak Bir Meyve Değildir",
+    "body": "Manavda meyve olarak bildiğimiz çilek, botanik bilimine göre aslında bir meyve değil, aksine çiçeğin etli kısmının büyüdüğü sahte bir meyvedir. Gerçek meyveler ise çileğin dış yüzeyinde minik tanecikler olarak gördüğünüz o sert tohumlardır!"
   },
   "en": {
-    "headline": "The Hidden Compass in Birds' Beaks",
-    "body": "Migratory birds flying in perfect harmony across the sky never lose their way on journeys spanning thousands of miles. Scientists have discovered that this incredible ability isn't just about eyesight; special cells in their beaks detect the Earth's magnetic field like a built-in GPS."
+    "headline": "Strawberries Are Not Actually Botanically Fruits",
+    "body": "The strawberry we know as fruit in the market is actually not a fruit according to botany, but rather an aggregate accessory fruit where the plant's flower receptacle enlarges. The true fruits are those tiny hard seeds on the outer surface!"
   },
   "es": {
-    "headline": "La brújula oculta en los picos de las aves",
-    "body": "Las aves migratorias que vuelan en perfecta armonía por el cielo nunca pierden el rumbo en viajes de miles de kilómetros. Los científicos han descubierto que esta increíble habilidad no se debe solo a la vista; unas células especiales en sus picos detectan el campo magnético de la Tierra como un GPS integrado."
+    "headline": "Las Fresas No Son Realmente Frutas Botánicamente",
+    "body": "La fresa que conocemos como fruta en el mercado no es en realidad una fruta según la botánica, sino un fruto agregado donde se engrosa el receptáculo de la flor. ¡Los frutos verdaderos son esas pequeñas semillas duras de la superficie!"
   },
   "ar": {
-    "headline": "البوصلة الخفية في مناقير الطيور",
-    "body": "الطيور المهاجرة التي تطير بانسجام تام عبر السماء لا تضيع أبداً في رحلات تمتد لمسافات طويلة. اكتشف العلماء أن هذه القدرة المذهلة لا تتعلق فقط بالبصر، بل إن خلايا خاصة في مناقيرها تستشعر المجال المغناطيسي للأرض تماماً مثل نظام تحديد الموقع المدمج."
+    "headline": "الفراولة ليست في الواقع فاكهة من الناحية النباتية",
+    "body": "الفراولة التي نعرفها كفاكهة في السوق ليست في الواقع فاكهة وفقاً لعلم النبات، بل هي ثمرة كاذبة حيث يتضخم وعاء زهرة النبتة. الثمار الحقيقية هي تلك البذور الصغيرة الصلبة على السطح الخارجي!"
   },
   "reel_hook": {
-    "tr": "Göçmen kuşlar binlerce kilometrede yönlerini nasıl asla kaybetmiyor?",
-    "en": "How do migratory birds never lose their way across thousands of miles?",
-    "es": "¿Cómo hacen las aves migratorias para nunca perder el rumbo a lo largo de miles de kilómetros?",
-    "ar": "كيف لا تضيع الطيور المهاجرة أبداً طوال آلاف الأميال؟"
+    "tr": "Manavdan aldığınız o kırmızı çilekler var ya... Aslında bildiğiniz anlamda bir meyve değil!",
+    "en": "Those red strawberries you buy from the market... They are actually not a fruit in the way you know!",
+    "es": "Esas fresas rojas que compras en el mercado... ¡En realidad no son una fruta como crees!",
+    "ar": "تلك الفراولة الحمراء التي تشتريها من السوق... هي في الواقع ليست فاكهة بالمعنى الذي تعرفه!"
   },
   "story_question": {
-    "tr": "Sence göçmen kuşlar yönlerini bulurken en çok hangi duyularına güvenir?",
-    "en": "Which sense do you think migratory birds rely on the most to find their way?",
-    "es": "¿En cuál de sus sentidos crees que confían más las aves migratorias para orientarse?",
-    "ar": "برأيك، ما هي حاسة التي تعتمد عليها الطيور المهاجرة أكثر لتحديد اتجاهاتها؟"
+    "tr": "Çileğin dış yüzeyindeki minik sert yapılar aslında nedir?",
+    "en": "What are those tiny hard structures on the outer surface of a strawberry actually?",
+    "es": "¿Qué son en realidad esas pequeñas estructuras duras en la superficie de la fresa?",
+    "ar": "ما هي تلك التراكيب الصلبة الصغيرة على السطح الخارجي للفراولة في الواقع؟"
   },
   "story_options": [
-    "Güneşin konumu",
-    "Manyetik alan algısı",
-    "Güçlü hafızaları"
+    "Gerçek meyvelerin kendisidir",
+    "Bitkinin dikenleridir",
+    "Sadece polen kalıntısıdır"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#bilim",
-    "#kuşlar",
+    "#çilek",
+    "#botanik",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#meyve",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Encyclopædia Britannica",
+    "url": "https://www.britannica.com/science/strawberry"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gagalarındaki Gizli Pusula",
+  "_topic": "Çilek Aslında Botanik Olarak Bir Meyve Değildir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-02T19:43:29.721070+00:00",
+  "generated_at": "2026-09-02T21:37:17.042004+00:00",
   "topic_guard_days": 180
 }

@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Derin Sırrı",
-    "body": "Gökyüzünde süzülen kuşların nefes sistemi, insanlardan ve memelilerden çok farklı çalışır. Onlar nefes aldıklarında hava, vücutlarındaki özel hava keselerinde tek bir yönde sürekli akar. Bu sayede hem nefes alırken hem de verirken oksijen almaya devam ederler ve havada hiç kesintisiz güç üretirler."
+    "headline": "Denizlerin En Şaşırtıcı Sırrı: Ahtapotların Kalpleri Neden Durur?",
+    "body": "Ahtapotların üç kalbi vardır ancak yüzmeye başladıklarında bunlardan biri tamamen durur. Bu yüzden ahtapotlar yüzmekten çok sürünmeyi tercih ederler çünkü yüzmek onları fiziksel olarak çok çabuk yorar."
   },
   "en": {
-    "headline": "The Deep Secret of Birds",
-    "body": "The respiratory system of birds soaring in the sky works very differently from humans and mammals. When they breathe, air flows continuously in one direction through special air sacs in their bodies. This allows them to keep taking in oxygen both when inhaling and exhaling, generating uninterrupted power in the air."
+    "headline": "The Ocean's Most Surprising Secret: Why Octopus Hearts Stop",
+    "body": "Octopuses have three hearts, but when they start swimming, one of them completely stops. This is why octopuses prefer crawling over swimming, as swimming exhausts them physically very quickly."
   },
   "es": {
-    "headline": "El profundo secreto de las aves",
-    "body": "El sistema respiratorio de las aves que surcan el cielo funciona de muy distinta manera al de los humanos y mamíferos. Cuando respiran, el aire fluye continuamente en una sola dirección a través de sacos de aire especiales en sus cuerpos. Esto les permite seguir tomando oxígeno tanto al inhalar como al exhalar, generando energía ininterrumpida en el aire."
+    "headline": "El secreto más sorprendente del océano: por qué se detienen los corazones de los pulpos",
+    "body": "Los pulpos tienen tres corazones, pero cuando empiezan a nadar, uno de ellos se detiene por completo. Por eso prefieren arrastrarse antes que nadar, ya que nadar los agota físicamente muy rápido."
   },
   "ar": {
-    "headline": "السر العميق للطيور",
-    "body": "يعمل الجهاز التنفسي للطيور التي تحلق في السماء بشكل مختلف تماماً عن البشر والثدييات. فعندما تتنفس، يتدفق الهواء بشكل مستمر في اتجاه واحد عبر أكياس هوائية خاصة في أجسادها. وهذا يتيح لها الاستمرار في امتصاص الأكسجين عند الشهيق والزفير، مما يولد طاقة مستمرة في الهواء."
+    "headline": "السر الأكثر إدهاشاً في المحيط: لماذا تتوقف قلوب الأخطبوط؟",
+    "body": "يملك الأخطبوط ثلاثة قلوب، ولكن عندما يبدأ في السباحة، يتوقف أحدها تماماً. ولهذا السبب يفضل الأخطبوط الزحف على السباحة، لأن السباحة ترهقه جسدياً بسرعة كبيرة."
   },
   "reel_hook": {
-    "tr": "Neden hiçbir kuş havada nefessiz kalıp yorulmaz?",
-    "en": "Why do birds never run out of breath and get tired in the air?",
-    "es": "¿Por qué las aves nunca se quedan sin aliento ni se cansan en el aire?",
-    "ar": "لماذا لا تبتعد الطيور أبداً عن أنفاسها وتتعب في الهواء؟"
+    "tr": "Biliyor musunuz, ahtapotlar yüzerken kalplerinden biri durur!",
+    "en": "Did you know that when octopuses swim, one of their hearts stops?",
+    "es": "¿Sabías que cuando los pulpos nadan, uno de sus corazones se detiene?",
+    "ar": "هل تعلم أنه عندما يسبح الأخطبوط، يتوقف أحد قلوبه عن العمل؟"
   },
   "story_question": {
-    "tr": "Kuşların akciğerleri memeliler gibi mi çalışır?",
-    "en": "Do bird lungs work like those of mammals?",
-    "es": "¿Los pulmones de las aves funcionan como los de los mamíferos?",
-    "ar": "هل تعمل رئات الطيور مثل الثدييات؟"
+    "tr": "Sizce bir ahtapotun toplam kaç kalbi vardır?",
+    "en": "How many hearts do you think an octopus has in total?",
+    "es": "¿Cuántos corazones crees que tiene un pulpo en total?",
+    "ar": "برأيك، كم قلباً يمتلك الأخطبوط في المجموع؟"
   },
   "story_options": [
-    "Evet, aynı şekilde",
-    "Hayır, tek yönlü akar",
-    "Hiç nefes almazlar"
+    "1 Kalp",
+    "3 Kalp",
+    "5 Kalp"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
+    "#ilginçbilgiler",
     "#doğa",
-    "#kuşlar",
-    "#biyoloji",
-    "#ilginçbilgiler"
+    "#deniz",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için bizi takip et!",
-    "en": "Follow us not to miss more surprising facts like this!",
-    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
-    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Avian Respiratory System - Ornithology",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-respiratory-system"
+    "name": "Marine Biological Association",
+    "url": "https://www.mba.ac.uk"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Derin Sırrı",
+  "_topic": "Denizlerin En Şaşırtıcı Sırrı: Ahtapotların Kalpleri Neden Durur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-03T09:47:46.274938+00:00",
+  "generated_at": "2026-09-03T12:52:25.893550+00:00",
   "topic_guard_days": 180
 }

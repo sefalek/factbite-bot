@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritler Aslında Kendiliğinden Yanabilir mi?",
-    "body": "Cebinizdeki ya da mutfaktaki kibrit çöpü, sadece kutunun kenarındaki sürtünme yüzeyiyle temas ettiğinde yanar. Bunun sırrı, başındaki kimyasal ile kutudaki maddelerin ayrıştırılmış olmasıdır. Eğer hepsi tek bir yerde olsaydı, en ufak bir basınçta facia çıkabilirdi."
+    "headline": "Ateş Böcekleri Aslında Neden Yanıp Söner?",
+    "body": "Yaz gecelerinin o büyüleyici ışık saçan minik misafirleri ateş böcekleri, sadece rastgele parlamıyor. Her yanıp sönüş, aslında türlerine özel karmaşık bir Mors alfabesi gibi çalışıyor. Erkekler havada belirli bir ritimle uçarken, dişiler çimenlerin arasından sadece kendi türlerine ait o özel frekansa cevap veriyorlar. Yani o ışık şöleni, doğanın en eski ve en romantik buluşma davetinden başka bir şey değil."
   },
   "en": {
-    "headline": "Can Matches Actually Ignite on Their Own?",
-    "body": "The match in your pocket only lights when rubbed against the specific strip on the box. This separation of chemicals prevents accidental ignition from everyday friction."
+    "headline": "Why Fireflies Actually Flash",
+    "body": "Those magical glowing guests of summer nights aren't just flashing randomly. Every blink actually works like a complex Morse code specific to their species. While males fly with a specific rhythm in the air, females respond from the grass only to the special frequency of their own kind. So that light show is nothing less than nature's oldest and most romantic dating invitation."
   },
   "es": {
-    "headline": "¿Pueden los cerillos encenderse solos?",
-    "body": "El cerillo de tu bolsillo solo se enciende al frotarlo contra la tira de la caja. Esta separación de químicos evita incendios accidentales por fricción."
+    "headline": "Por Qué Brillan Realmente Las Luciérnagas",
+    "body": "Esos mágicos visitantes luminosos de las noches de verano no parpadean al azar. Cada destello funciona en realidad como un código Morse complejo específico de su especie. Mientras los machos vuelan con un ritmo específico en el aire, las hembras responden desde el pasto solo a la frecuencia especial de su propia especie. Así que ese espectáculo de luces no es otra cosa que la invitación de citas más antigua y romántica de la naturaleza."
   },
   "ar": {
-    "headline": "هل يمكن لأعواد الثقاب أن تشتعل من تلقاء نفسها؟",
-    "body": "عود الثقاب في جيبك يشتعل فقط عند احتكاكه بالشريط المخصص على العلبة. هذا الفصل بين المواد الكيميائية يمنع الاشتعال العرضي."
+    "headline": "لماذا تضيء اليراعات حقاً",
+    "body": "هؤلاء الضيوف المضيئون السحريون ليالي الصيف لا يضيئون بشكل عشوائي. كل ومضة تعمل في الواقع مثل شفرة مورس معقدة خاصة بنوعهم. بينما يطير الذكور بإيقاع معين في الهواء، تستجيب الإناث من بين العشب فقط للتردد الخاص بنوعهم. لذا فإن عرض الضوء هذا ليس سوى أقدم وأرقى دعوة مواعدة رومانسية في الطبيعة."
   },
-  "reel_hook": {
-    "tr": "Cebinizdeki o kibrit çöpü, aslında her an patlamaya hazır bir bomba gibi duruyor ama...",
-    "en": "That match in your pocket is basically waiting to explode, but...",
-    "es": "Ese cerillo en tu bolsillo está prácticamente esperando explotar, pero...",
-    "ar": "عود الثقاب في جيبك يكاد ينفجر في أي لحظة، ولكن..."
+  "reel__hook": {
+    "tr": "Ateş böceklerinin o ışığı saçma sebebini duyunca yaz gecelerine bakışınız tamamen değişecek.",
+    "en": "Once you hear why fireflies give off that light, your view of summer nights will completely change.",
+    "es": "Una vez que escuches por qué las luciérnagas emiten esa luz, tu perspectiva de las noches de verano cambiará por completo.",
+    "ar": "بمجرد أن تسمع سبب إصدار اليراعات لهذا الضوء، ستتغير نظرتك ليالي الصيف تماماً."
   },
   "story_question": {
-    "tr": "Kibritin başındaki kimyasal neden kutunun üzerindekiyle ayrıdır?",
-    "en": "Why is the chemical on the match head separated from the box?",
-    "es": "¿Por qué el químico de la cabeza del cerillo está separado de la caja?",
-    "ar": "لماذا يتم فصل المادة الكيميائية الموجودة على رأس عود الثقاب عن العلبة؟"
+    "tr": "Ateş böceklerinin bu ışık oyununu ne amaçla yaptığını biliyor muydunuz?",
+    "en": "Did you know what purpose fireflies use this light game for?",
+    "es": "¿Sabías con qué propósito hacen las luciérnagas este juego de luces?",
+    "ar": "هل كنت تعلم الغرض الذي تفعله اليراعات لعبة الضوء هذه لأجله؟"
   },
   "story_options": [
-    "Sürtünme ısısını artırmak için",
-    "Yanmayı kontrol altında tutmak ve kazaları önlemek için",
-    "Üretim maliyetini düşürmek için"
+    "Avlanmak için",
+    "Eş bulmak için",
+    "Yön bulmak için"
   ],
   "hashtags": [
     "#FactBite",
+    "#ateşböceği",
+    "#doğa",
     "#bilim",
     "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#fвича",
-    "#gündem"
+    "#canlılar",
+    "#yaz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla doğa sırrını kaçırmamak için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us not to miss more nature secrets like this!",
+    "es": "¡No olvides seguirnos para no perderte más secretos de la naturaleza como este!",
+    "ar": "لا تنس متابعتنا لكي لا تفوتك المزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.8
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Chemistry World",
-    "url": "https://www.chemistryworld.com"
+    "name": "National Geographic & Entomoloji Araştırmaları",
+    "url": "https://www.nationalgeographic.com/animals/insects/facts/fireflies"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritler Aslında Kendiliğinden Yanabilir mi?",
+  "_topic": "Ateş Böcekleri Aslında Neden Yanıp Söner?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-03T16:54:52.207151+00:00",
+  "generated_at": "2026-09-03T18:23:54.522057+00:00",
   "topic_guard_days": 180
 }

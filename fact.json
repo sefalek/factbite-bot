@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Isınan Kalbi: Mürekkep Balıklarının Mavi Kanı",
-    "body": "İnsan kanı kırmızıdır çünkü demir içerir. Ancak mürekkep balıklarının damarlarında mavi kan akar. Bunun sırrı ise demir yerine bakır bazlı bir solunum proteini kullanmalarıdır. Bu mavi kan, okyanusun soğuk ve oksijeni az derinliklerinde hayatta kalmalarını sağlar."
+    "headline": "Zürafaların Boynu Neden Uzundur?",
+    "body": "Zürafaların uzun boyunları hakkındaki bilinen en yaygın yanlış, onların bu boyunları sadece yüksek ağaçlardaki yapraklara ulaşmak için evrimleştiğidir. Ancak bilim insanları, bu devasa boyunların aslında en çok eş seçimindeki üstünlük ve kavgalar için kullanıldığını keşfetti."
   },
   "en": {
-    "headline": "The Warming Heart of the Seas: Blue Blood of Squids",
-    "body": "Human blood is red because it contains iron. However, squids have blue blood flowing through their veins. The secret is that they use a copper-based respiratory protein instead of iron. This blue blood helps them survive in the cold, low-oxygen depths of the ocean."
+    "headline": "Why Do Giraffes Have Long Necks?",
+    "body": "The most common misconception about giraffes' long necks is that they evolved solely to reach leaves on tall trees. However, scientists discovered that these massive necks are actually used mostly for dominance and combat in mating."
   },
   "es": {
-    "headline": "El corazón cálido de los mares: La sangre azul de los calamares",
-    "body": "La sangre humana es roja porque contiene hierro. Sin embargo, los calamares tienen sangre azul fluyendo por sus venas. El secreto es que usan una proteína respiratoria a base de cobre en lugar de hierro. Esta sangre azul les ayuda a sobrevivir en las profundidades frías y con poco oxígeno del océano."
+    "headline": "¿Por qué las jirafas tienen el cuello largo?",
+    "body": "La idea errónea más común sobre el largo cuello de las jirafas es que evolucionó únicamente para alcanzar las hojas de los árboles altos. Sin embargo, los científicos descubrieron que estos enormes cuellos se usan en realidad para la dominación y los combates de apareamiento."
   },
   "ar": {
-    "headline": "قلب البحار الدافئ: دم الحبار الأزرق",
-    "body": "دم الإنسان أحمر لأنه يحتوي على الحديد. ومع ذلك، يتدفق الدم الأزرق في عروق الحبار. السر هو أنها تستخدم بروتينات تنفسية يعتمد تركيبها على النحاس بدلاً من الحديد. يساعدها هذا الدم الأزرق على البقاء على قيد الحياة في أعماق المحيط الباردة وقليلة الأكسجين."
+    "headline": "لماذا تمتلك الزرافات رقاباً طويلة؟",
+    "body": "الاعتقاد الخاطئ الأكثر شيوعاً حول رقاب الزرافات الطويلة هو أنها تطورت فقط للوصول إلى أوراق الأشجار العالية. ومع ذلك، اكتشف العلماء أن هذه الرقاب الضخمة تستخدم في الغالب للسيادة والقتال من أجل التزاوج."
   },
   "reel_hook": {
-    "tr": "Damarlarında kırmızı değil, masmavi bir sıvı akıyor deseydim?",
-    "en": "What if I told you that a blue fluid flows through their veins instead of red?",
-    "es": "¿Y si te dijera que por sus venas fluye un líquido azul en lugar de rojo?",
-    "ar": "ماذا لو أخبرتك أن سائلًا أزرق يتدفق في عروقها بدلاً من الأحمر؟"
+    "tr": "Zürafaların boyunları neden uzar sandınız? Cevap bildiğiniz gibi değil.",
+    "en": "Why did you think giraffes' necks are long? The answer isn't what you think.",
+    "es": "¿Por qué creías que las jirafas tienen el cuello largo? La respuesta no es la que piensas.",
+    "ar": "لماذا اعتقدت أن رقاب الزرافات طويلة؟ الإجابة ليست كما تتوقع."
   },
   "story_question": {
-    "tr": "Mürekkep balıklarının kanının mavi olmasının temel sebebi nedir?",
-    "en": "What is the main reason why squids' blood is blue?",
-    "es": "¿Cuál es la principal razón por la cual la sangre de los calamares es azul?",
-    "ar": "ما هو السبب الرئيسي لكون دم الحبار أزرق؟"
+    "tr": "Zürafalar günlük uykularını ortalama kaç dakikada tamamlarlar?",
+    "en": "How many minutes on average do giraffes sleep a day?",
+    "es": "¿Cuántos minutos en promedio duermen las jirafas al día?",
+    "ar": "كم دقيقة في المتوسط تنام الزرافات في اليوم؟"
   },
   "story_options": [
-    "Bakır bazlı protein",
-    "Özel bir mürekkep türü",
-    "Soğuk deniz suyu"
+    "30 dakika",
+    "10 dakika",
+    "2 saat"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#deniz",
-    "#ilginçbilgiler",
     "#doğa",
-    "#keşfet",
-    "#biyoloji"
+    "#hayvanlar",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
     "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Smithsonian Ocean",
-    "url": "https://ocean.si.edu/ocean-life/invertebrates/cephalopods"
+    "name": "Journal of Zoology",
+    "url": "https://www.zsl.org/publications/journal-of-zoology"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Isınan Kalbi: Mürekkep Balıklarının Mavi Kanı",
+  "_topic": "Zürafaların Boynu Neden Uzundur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-03T19:44:28.321330+00:00",
+  "generated_at": "2026-09-03T21:34:10.616392+00:00",
   "topic_guard_days": 180
 }

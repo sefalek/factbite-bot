@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İneklerin En Yakın Arkadaşı Olur Mu?",
-    "body": "Bilim insanları ineklerin sıkı dostluklar kurduğunu ve hatta en yakın arkadaşlarından ayrıldıklarında derin bir stres yaşadıklarını kanıtladı."
+    "headline": "Kuşların Derin Sırrı",
+    "body": "Gökyüzünde süzülen kuşların nefes sistemi, insanlardan ve memelilerden çok farklı çalışır. Onlar nefes aldıklarında hava, vücutlarındaki özel hava keselerinde tek bir yönde sürekli akar. Bu sayede hem nefes alırken hem de verirken oksijen almaya devam ederler ve havada hiç kesintisiz güç üretirler."
   },
   "en": {
-    "headline": "Do Cows Have Best Friends?",
-    "body": "Scientists have proven that cows form close friendships and experience deep stress when separated from their best friends."
+    "headline": "The Deep Secret of Birds",
+    "body": "The respiratory system of birds soaring in the sky works very differently from humans and mammals. When they breathe, air flows continuously in one direction through special air sacs in their bodies. This allows them to keep taking in oxygen both when inhaling and exhaling, generating uninterrupted power in the air."
   },
   "es": {
-    "headline": "¿Tienen las vacas mejores amigas?",
-    "body": "Los científicos han demostrado que las vacas forman amistades cercanas y experimentan un profundo estrés cuando se separan de sus mejores amigas."
+    "headline": "El profundo secreto de las aves",
+    "body": "El sistema respiratorio de las aves que surcan el cielo funciona de muy distinta manera al de los humanos y mamíferos. Cuando respiran, el aire fluye continuamente en una sola dirección a través de sacos de aire especiales en sus cuerpos. Esto les permite seguir tomando oxígeno tanto al inhalar como al exhalar, generando energía ininterrumpida en el aire."
   },
   "ar": {
-    "headline": "هل تمتلك الأبقار أصدقاء مقربين؟",
-    "body": "أثبت العلماء أن الأبقار تكوين صداقات وثيقة وتعيش توتراً شديداً عند انفصالها عن أصدقائها المقربين."
+    "headline": "السر العميق للطيور",
+    "body": "يعمل الجهاز التنفسي للطيور التي تحلق في السماء بشكل مختلف تماماً عن البشر والثدييات. فعندما تتنفس، يتدفق الهواء بشكل مستمر في اتجاه واحد عبر أكياس هوائية خاصة في أجسادها. وهذا يتيح لها الاستمرار في امتصاص الأكسجين عند الشهيق والزفير، مما يولد طاقة مستمرة في الهواء."
   },
   "reel_hook": {
-    "tr": "İneklerin en yakın arkadaşından ayrıldığında ne hissettiğini biliyor musun?",
-    "en": "Do you know how cows feel when separated from their best friend?",
-    "es": "¿Sabes cómo se sienten las vacas cuando se separan de su mejor amiga?",
-    "ar": "هل تعلم بما تشعر الأبقار عند انفصالها عن صديقها المقرب؟"
+    "tr": "Neden hiçbir kuş havada nefessiz kalıp yorulmaz?",
+    "en": "Why do birds never run out of breath and get tired in the air?",
+    "es": "¿Por qué las aves nunca se quedan sin aliento ni se cansan en el aire?",
+    "ar": "لماذا لا تبتعد الطيور أبداً عن أنفاسها وتتعب في الهواء؟"
   },
   "story_question": {
-    "tr": "İnekler en yakın arkadaşlarından ayrıldıklarında ne yaşar?",
-    "en": "What do cows experience when separated from their best friends?",
-    "es": "¿Qué experimentan las vacas cuando se separan de sus mejores amigas?",
-    "ar": "ماذا تشعر الأبقار عند انفصالها عن أصدقائها المقربين؟"
+    "tr": "Kuşların akciğerleri memeliler gibi mi çalışır?",
+    "en": "Do bird lungs work like those of mammals?",
+    "es": "¿Los pulmones de las aves funcionan como los de los mamíferos?",
+    "ar": "هل تعمل رئات الطيور مثل الثدييات؟"
   },
   "story_options": [
-    "Stres ve kalp atış hızında artış",
-    "Hiçbir şey umurlarında olmaz",
-    "Hemen yeni arkadaş bulurlar"
+    "Evet, aynı şekilde",
+    "Hayır, tek yönlü akar",
+    "Hiç nefes almazlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#İnekler",
-    "#Doğa",
-    "#Hayvanlaralemi",
-    "#Bilim",
-    "#İlginçbilgiler",
-    "#Hayvanlar"
+    "#bilim",
+    "#doğa",
+    "#kuşlar",
+    "#biyoloji",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için takip et!",
-    "en": "Follow for more interesting facts like this!",
-    "es": "¡Sigue para más datos interesantes como este!",
-    "ar": "تابع للمزيد من الحقائق الشيقة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için bizi takip et!",
+    "en": "Follow us not to miss more surprising facts like this!",
+    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
+    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Applied Animal Behaviour Science",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S016815910100187X"
+    "name": "Avian Respiratory System - Ornithology",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-respiratory-system"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İneklerin En Yakın Arkadaşı Olur Mu?",
+  "_topic": "Kuşların Derin Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-02T22:51:29.473663+00:00",
+  "generated_at": "2026-09-03T09:47:46.274938+00:00",
   "topic_guard_days": 180
 }

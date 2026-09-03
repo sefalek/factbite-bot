@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin En Şaşırtıcı Sırrı: Ahtapotların Kalpleri Neden Durur?",
-    "body": "Ahtapotların üç kalbi vardır ancak yüzmeye başladıklarında bunlardan biri tamamen durur. Bu yüzden ahtapotlar yüzmekten çok sürünmeyi tercih ederler çünkü yüzmek onları fiziksel olarak çok çabuk yorar."
+    "headline": "Kuşların Yuvaları Yuva Değil Aslında...",
+    "body": "Çoğumuz kuş yuvalarının onların evleri olduğunu sanırız ama yanılıyoruz. Kuşlar yuvalarını orada yaşamak ya da uyumak için yapmazlar. Yuva, sadece yumurtlamak ve yavruları büyütmek için geçici bir doğumhanedir. İşleri bitince orayı tamamen terk ederler."
   },
   "en": {
-    "headline": "The Ocean's Most Surprising Secret: Why Octopus Hearts Stop",
-    "body": "Octopuses have three hearts, but when they start swimming, one of them completely stops. This is why octopuses prefer crawling over swimming, as swimming exhausts them physically very quickly."
+    "headline": "Bird Nests Aren't Actually Homes...",
+    "body": "Most of us think bird nests are their permanent homes, but we're wrong. Birds don't build nests to live or sleep in. A nest is simply a temporary maternity ward used only for laying eggs and raising chicks. Once done, they abandon it completely."
   },
   "es": {
-    "headline": "El secreto más sorprendente del océano: por qué se detienen los corazones de los pulpos",
-    "body": "Los pulpos tienen tres corazones, pero cuando empiezan a nadar, uno de ellos se detiene por completo. Por eso prefieren arrastrarse antes que nadar, ya que nadar los agota físicamente muy rápido."
+    "headline": "Los Nidos de Aves No Son Hogares...",
+    "body": "La mayoría pensamos que los nidos son sus hogares permanentes, pero nos equivocamos. Las aves no construyen nidos para vivir o dormir. Un nido es simplemente una sala de maternidad temporal utilizada solo para criar polluelos. Una vez terminada la temporada, lo abandonan por completo."
   },
   "ar": {
-    "headline": "السر الأكثر إدهاشاً في المحيط: لماذا تتوقف قلوب الأخطبوط؟",
-    "body": "يملك الأخطبوط ثلاثة قلوب، ولكن عندما يبدأ في السباحة، يتوقف أحدها تماماً. ولهذا السبب يفضل الأخطبوط الزحف على السباحة، لأن السباحة ترهقه جسدياً بسرعة كبيرة."
+    "headline": "عشور الطيور ليست منازل في الواقع...",
+    "body": "يعتقد معظمنا أن أعشاش الطيور هي منازلها الدائمة، لكننا مخطئون. لا تبني الطيور الأعشاش لتعيش أو تنام فيها. العش هو ببساطة وحدة أمومة مؤقتة تُستخدم فقط لفقس البيض وتربية الصغار، وبمجرد انتهاء الموسم، تتركه تماماً."
   },
   "reel_hook": {
-    "tr": "Biliyor musunuz, ahtapotlar yüzerken kalplerinden biri durur!",
-    "en": "Did you know that when octopuses swim, one of their hearts stops?",
-    "es": "¿Sabías que cuando los pulpos nadan, uno de sus corazones se detiene?",
-    "ar": "هل تعلم أنه عندما يسبح الأخطبوط، يتوقف أحد قلوبه عن العمل؟"
+    "tr": "Kuşların yuvaları hakkında bildiğiniz her şeyi unutun, çünkü onlar ev değil...",
+    "en": "Forget everything you know about bird nests, because they aren't actually homes...",
+    "es": "Olvida todo lo que sabes sobre los nidos de aves, porque en realidad no son hogares...",
+    "ar": "انسا كل ما تعرفه عن أعشاش الطيور، لأنها ليست منازل في الواقع..."
   },
   "story_question": {
-    "tr": "Sizce bir ahtapotun toplam kaç kalbi vardır?",
-    "en": "How many hearts do you think an octopus has in total?",
-    "es": "¿Cuántos corazones crees que tiene un pulpo en total?",
-    "ar": "برأيك، كم قلباً يمتلك الأخطبوط في المجموع؟"
+    "tr": "Kuşlar üreme sezonu bittikten sonra eski yuvalarına ne yapar?",
+    "en": "What do birds do with their old nests after breeding season?",
+    "es": "¿Qué hacen las aves con sus viejos nidos después de la temporada de reproducción?",
+    "ar": "ماذا تفعل الطيور بأعشاشها القديمة بعد موسم التكاثر؟"
   },
   "story_options": [
-    "1 Kalp",
-    "3 Kalp",
-    "5 Kalp"
+    "Tamamen terk ederler",
+    "Genişletip kışlık ev yaparlar",
+    "Başka kuşlara kiralarlar"
   ],
   "hashtags": [
     "#FactBite",
+    "#doğa",
+    "#kuşlar",
     "#bilim",
     "#ilginçbilgiler",
-    "#doğa",
-    "#deniz",
+    "#hayvanlaralemi",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more fascinating facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Bunu ilk defa duyan bir arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Marine Biological Association",
-    "url": "https://www.mba.ac.uk"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin En Şaşırtıcı Sırrı: Ahtapotların Kalpleri Neden Durur?",
+  "_topic": "Kuşların Yuvaları Yuva Değil Aslında...",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-03T12:52:25.893550+00:00",
+  "generated_at": "2026-09-03T15:04:05.308030+00:00",
   "topic_guard_days": 180
 }

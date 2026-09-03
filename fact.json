@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ateş Böcekleri Aslında Neden Yanıp Söner?",
-    "body": "Yaz gecelerinin o büyüleyici ışık saçan minik misafirleri ateş böcekleri, sadece rastgele parlamıyor. Her yanıp sönüş, aslında türlerine özel karmaşık bir Mors alfabesi gibi çalışıyor. Erkekler havada belirli bir ritimle uçarken, dişiler çimenlerin arasından sadece kendi türlerine ait o özel frekansa cevap veriyorlar. Yani o ışık şöleni, doğanın en eski ve en romantik buluşma davetinden başka bir şey değil."
+    "headline": "Denizlerin Isınan Kalbi: Mürekkep Balıklarının Mavi Kanı",
+    "body": "İnsan kanı kırmızıdır çünkü demir içerir. Ancak mürekkep balıklarının damarlarında mavi kan akar. Bunun sırrı ise demir yerine bakır bazlı bir solunum proteini kullanmalarıdır. Bu mavi kan, okyanusun soğuk ve oksijeni az derinliklerinde hayatta kalmalarını sağlar."
   },
   "en": {
-    "headline": "Why Fireflies Actually Flash",
-    "body": "Those magical glowing guests of summer nights aren't just flashing randomly. Every blink actually works like a complex Morse code specific to their species. While males fly with a specific rhythm in the air, females respond from the grass only to the special frequency of their own kind. So that light show is nothing less than nature's oldest and most romantic dating invitation."
+    "headline": "The Warming Heart of the Seas: Blue Blood of Squids",
+    "body": "Human blood is red because it contains iron. However, squids have blue blood flowing through their veins. The secret is that they use a copper-based respiratory protein instead of iron. This blue blood helps them survive in the cold, low-oxygen depths of the ocean."
   },
   "es": {
-    "headline": "Por Qué Brillan Realmente Las Luciérnagas",
-    "body": "Esos mágicos visitantes luminosos de las noches de verano no parpadean al azar. Cada destello funciona en realidad como un código Morse complejo específico de su especie. Mientras los machos vuelan con un ritmo específico en el aire, las hembras responden desde el pasto solo a la frecuencia especial de su propia especie. Así que ese espectáculo de luces no es otra cosa que la invitación de citas más antigua y romántica de la naturaleza."
+    "headline": "El corazón cálido de los mares: La sangre azul de los calamares",
+    "body": "La sangre humana es roja porque contiene hierro. Sin embargo, los calamares tienen sangre azul fluyendo por sus venas. El secreto es que usan una proteína respiratoria a base de cobre en lugar de hierro. Esta sangre azul les ayuda a sobrevivir en las profundidades frías y con poco oxígeno del océano."
   },
   "ar": {
-    "headline": "لماذا تضيء اليراعات حقاً",
-    "body": "هؤلاء الضيوف المضيئون السحريون ليالي الصيف لا يضيئون بشكل عشوائي. كل ومضة تعمل في الواقع مثل شفرة مورس معقدة خاصة بنوعهم. بينما يطير الذكور بإيقاع معين في الهواء، تستجيب الإناث من بين العشب فقط للتردد الخاص بنوعهم. لذا فإن عرض الضوء هذا ليس سوى أقدم وأرقى دعوة مواعدة رومانسية في الطبيعة."
+    "headline": "قلب البحار الدافئ: دم الحبار الأزرق",
+    "body": "دم الإنسان أحمر لأنه يحتوي على الحديد. ومع ذلك، يتدفق الدم الأزرق في عروق الحبار. السر هو أنها تستخدم بروتينات تنفسية يعتمد تركيبها على النحاس بدلاً من الحديد. يساعدها هذا الدم الأزرق على البقاء على قيد الحياة في أعماق المحيط الباردة وقليلة الأكسجين."
   },
-  "reel__hook": {
-    "tr": "Ateş böceklerinin o ışığı saçma sebebini duyunca yaz gecelerine bakışınız tamamen değişecek.",
-    "en": "Once you hear why fireflies give off that light, your view of summer nights will completely change.",
-    "es": "Una vez que escuches por qué las luciérnagas emiten esa luz, tu perspectiva de las noches de verano cambiará por completo.",
-    "ar": "بمجرد أن تسمع سبب إصدار اليراعات لهذا الضوء، ستتغير نظرتك ليالي الصيف تماماً."
+  "reel_hook": {
+    "tr": "Damarlarında kırmızı değil, masmavi bir sıvı akıyor deseydim?",
+    "en": "What if I told you that a blue fluid flows through their veins instead of red?",
+    "es": "¿Y si te dijera que por sus venas fluye un líquido azul en lugar de rojo?",
+    "ar": "ماذا لو أخبرتك أن سائلًا أزرق يتدفق في عروقها بدلاً من الأحمر؟"
   },
   "story_question": {
-    "tr": "Ateş böceklerinin bu ışık oyununu ne amaçla yaptığını biliyor muydunuz?",
-    "en": "Did you know what purpose fireflies use this light game for?",
-    "es": "¿Sabías con qué propósito hacen las luciérnagas este juego de luces?",
-    "ar": "هل كنت تعلم الغرض الذي تفعله اليراعات لعبة الضوء هذه لأجله؟"
+    "tr": "Mürekkep balıklarının kanının mavi olmasının temel sebebi nedir?",
+    "en": "What is the main reason why squids' blood is blue?",
+    "es": "¿Cuál es la principal razón por la cual la sangre de los calamares es azul?",
+    "ar": "ما هو السبب الرئيسي لكون دم الحبار أزرق؟"
   },
   "story_options": [
-    "Avlanmak için",
-    "Eş bulmak için",
-    "Yön bulmak için"
+    "Bakır bazlı protein",
+    "Özel bir mürekkep türü",
+    "Soğuk deniz suyu"
   ],
   "hashtags": [
     "#FactBite",
-    "#ateşböceği",
-    "#doğa",
     "#bilim",
+    "#deniz",
     "#ilginçbilgiler",
-    "#canlılar",
-    "#yaz"
+    "#doğa",
+    "#keşfet",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrını kaçırmamak için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us not to miss more nature secrets like this!",
-    "es": "¡No olvides seguirnos para no perderte más secretos de la naturaleza como este!",
-    "ar": "لا تنس متابعتنا لكي لا تفوتك المزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic & Entomoloji Araştırmaları",
-    "url": "https://www.nationalgeographic.com/animals/insects/facts/fireflies"
+    "name": "Smithsonian Ocean",
+    "url": "https://ocean.si.edu/ocean-life/invertebrates/cephalopods"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ateş Böcekleri Aslında Neden Yanıp Söner?",
+  "_topic": "Denizlerin Isınan Kalbi: Mürekkep Balıklarının Mavi Kanı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-03T18:23:54.522057+00:00",
+  "generated_at": "2026-09-03T19:44:28.321330+00:00",
   "topic_guard_days": 180
 }

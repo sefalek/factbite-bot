@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çikolata Neden Eridiğinde Elinizi Kirletmez?",
-    "body": "Çikolatanın bu kadar sevilmesinin sırrı sadece tadı değil, erime noktasıdır. Çikolata tam olarak 34 derecede erimeye başlar, yani insan vücut sıcaklığının hemen altındadır. Bu yüzden ağzınıza attığınızda anında erir ancak elinizde hemen sıvılaşmaz."
+    "headline": "Kuşların Kalbi Uçarken Dakikada Kaç Kez Atar?",
+    "body": "Sinek kuşları o kadar hızlı kanat çırpar ki, kalpleri dakikada 1200 kez atabilir. Üstelik dinlenirken bile bu hız inanılmaz seviyelerdedir."
   },
   "en": {
-    "headline": "Why Doesn't Chocolate Melt in Your Hands?",
-    "body": "The secret to chocolate isn't just its taste, but its melting point. Chocolate starts melting at exactly 34 degrees Celsius, just below human body temperature. That's why it melts instantly in your mouth, but doesn't instantly liquefy in your hand."
+    "headline": "How Fast Does a Bird's Heart Beat in Flight?",
+    "body": "Hummingbirds flap their wings so fast that their hearts can beat up to 1,200 times per minute. Even at rest, their heart rate remains incredibly high."
   },
   "es": {
-    "headline": "¿Por qué el chocolate no se derrite en tus manos?",
-    "body": "El secreto del chocolate no es solo su sabor, sino su punto de fusión. El chocolate comienza a derretirse exactamente a los 34 grados Celsius, justo por debajo de la temperatura corporal humana. Por eso se derrite al instante en tu boca, pero no se licúa de inmediato en tu mano."
+    "headline": "¿A qué velocidad late el corazón de un ave en vuelo?",
+    "body": "Los colibríes aletean tan rápido que sus corazones pueden latir hasta 1200 veces por minuto. Incluso en reposo, su ritmo cardíaco es increíblemente alto."
   },
   "ar": {
-    "headline": "لماذا لا تذوب الشوكولاتة في يديك؟",
-    "body": "سر الشوكولاتة ليس طعمها فحسب، بل نقطة ذوبانها. تبدأ الشوكولاتة في الذوبان عند 34 درجة مئوية تقريباً، وهي أقل بقليل من درجة حرارة جسم الإنسان. ولهذا السبب تذوب فوراً في فمك، ولكنها لا تذوب بسرعة في يدك."
+    "headline": "ما سر نبضات قلب الطائر أثناء الطيران؟",
+    "body": "تخفق الطيور الطنانة أجنحتها بسرعة كبيرة لدرجة أن دقات قلبها قد تصل إلى 1200 نبضة في الدقيقة. وحتى في حالة الراحة، يظل معدل ضربات قلبها مرتفعاً بشكل مذهل."
   },
   "reel_hook": {
-    "tr": "Çikolata neden ağzınızda anında erirken elinizde hemen kalıp gibi kalır?",
-    "en": "Why does chocolate melt instantly in your mouth but hold its shape in your hand?",
-    "es": "¿Por qué el chocolate se derrite al instante en tu boca pero mantiene su forma en tu mano?",
-    "ar": "لماذا تذوب الشوكولاتة فوراً في فمك بينما تحافظ على شكلها في يدك؟"
+    "tr": "Dakikada bin iki yüz kez atan bir kalp hayal edebiliyor musunuz?",
+    "en": "Can you imagine a heart beating twelve hundred times a minute?",
+    "es": "¿Puedes imaginar un corazón latiendo mil doscientas veces por minuto?",
+    "ar": "هل يمكنك تخيل قلب ينبض ألف ومائتي مرة في الدقيقة؟"
   },
   "story_question": {
-    "tr": "Çikolatanın erimeye başladığı tam sıcaklık insan vücut sıcaklığından kaç derece düşüktür?",
-    "en": "How many degrees below human body temperature does chocolate start to melt?",
-    "es": "¿Cuántos grados por debajo de la temperatura corporal humana empieza a derretirse el chocolate?",
-    "ar": "بكم درجة تحت حرارة جسم الإنسان تبدأ الشوكولاتة في الذوبان؟"
+    "tr": "Sence doğadaki en yüksek kalp atış hızına sahip canlı hangisidir?",
+    "en": "Which creature do you think has the highest heart rate in nature?",
+    "es": "¿Qué criatura crees que tiene la frecuencia cardíaca más alta en la naturaleza?",
+    "ar": "برأيك، ما هو المخلوق الذي تمتلك أعلى معدل ضربات قلب في الطبيعة؟"
   },
   "story_options": [
-    "1 derece",
-    "3 derece",
-    "5 derece"
+    "Sinek Kuşu",
+    "Çita",
+    "Fare"
   ],
   "hashtags": [
     "#FactBite",
-    "#çikolata",
     "#bilim",
+    "#doğa",
+    "#kuşlar",
     "#ilginçbilgiler",
-    "#yemek",
-    "#keşfet",
-    "#faydalibilgiler"
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "If you're hearing this for the first time, don't forget to like!",
-    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a Me gusta!",
-    "ar": "إذا كنت تسمع هذا لأول مرة، فلا تنس الإعجاب!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Mantente atento a más datos sorprendentes como este!",
+    "ar": "ابق على متابعة لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Confectionery Science Insights",
-    "url": "https://www.sciencedirect.com"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çikolata Neden Eridiğinde Elinizi Kirletmez?",
+  "_topic": "Kuşların Kalbi Uçarken Dakikada Kaç Kez Atar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-04T21:15:03.003622+00:00",
+  "generated_at": "2026-09-04T22:31:43.378984+00:00",
   "topic_guard_days": 180
 }

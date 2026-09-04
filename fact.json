@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Gökyüzünde Neden Asla Çarpışmaz?",
-    "body": "Yüzlerce kuşun yer aldığı devasa sürüler, hiçbir trafik kuralı olmadan okyanus dalgaları gibi saniyede yön değiştirir. Sırrı gözlerinde değil, yanındaki kuşun kanat sesindedir; her birey sadece en yakınındaki yedi komşusunun hareketini anlık olarak takip eder."
+    "headline": "Balıkların da Sesi Var, Ama Biz Duyamayız",
+    "body": "Deniz altı sessiz sanılır ama aslında tam bir gürültü patırtıdır. Balıklar, tıpkı kuşlar gibi gün doğumunda ve batımında 'koro' halinde ses çıkarır. Sadece suyun yoğunluğu ve sesin havaya geçişindeki fiziksel engeller yüzünden kulaklarımız bunu doğrudan duyamaz; özel hidrofonlar gerekir."
   },
   "en": {
-    "headline": "Why Birds Never Crash in the Sky?",
-    "body": "Massive flocks of hundreds of birds change direction like ocean waves in a second without any traffic rules. The secret is not in their eyes, but in the sound of the wings next to them; each individual instantly tracks the movement of only its seven closest neighbors."
+    "headline": "Fish Actually Make Sounds, But We Can't Hear Them",
+    "body": "The underwater world is thought to be silent, but it's actually quite noisy. Fish form choruses at dawn and dusk, much like birds. We can't hear them directly because of the density of water and acoustic barriers; specialized hydrophones are needed."
   },
   "es": {
-    "headline": "¿Por qué las aves nunca chocan en el cielo?",
-    "body": "Enormes bandadas de cientos de aves cambian de dirección como olas oceánicas en un segundo sin reglas de tráfico. El secreto no está en sus ojos, sino en el sonido de las alas de al lado; cada individuo sigue instantáneamente el movimiento de sus siete vecinos más cercanos."
+    "headline": "Los peces hacen sonidos, pero no podemos oírlos",
+    "body": "Se cree que el mundo submarino es silencioso, pero en realidad es ruidoso. Los peces forman coros al amanecer y al atardecer, muy parecido a las aves. No podemos oírlos directamente debido a la densidad del agua; se necesitan hidrófonos especializados."
   },
   "ar": {
-    "headline": "لماذا لا تصطدم الطيور أبداً في السماء؟",
-    "body": "تغير أسراب ضخمة من مئات الطيور اتجاهها مثل أمواج المحيط في ثانية واحدة دون أي قواعد مرور. السر ليس في عيونها، بل في صوت الأجنحة المجاورة لها؛ يتتبع كل فرد حركة أقرب سبعة جيران إليه فوراً."
+    "headline": "للأسماك أصوات، لكننا لا نستطيع سماعها",
+    "body": "يُعتقد أن عالم ما تحت الماء صامت، لكنه في الواقع صاخب جداً. تشكل الأسماك جوقات عند الفجر والغسق، تماماً مثل الطيور. لا يمكننا سماعها مباشرة بسبب كثافة الماء؛ بل يتطلب الأمر ميكروفونات مائية مخصصة."
   },
   "reel_hook": {
-    "tr": "Yüzlerce kuş aynı anda yön değiştiriyor ama hiçbiri asla birbirine çarpmıyor. Nasıl mı?",
-    "en": "Hundreds of birds change direction at the same time, but none of them ever crash into each other. How?",
-    "es": "Cientos de aves cambian de dirección al mismo tiempo, pero ninguna choca jamás entre sí. ¿Cómo?",
-    "ar": "تغير مئات الطيور اتجاهها في نفس الوقت، لكن لا يصطدم أي منها بالآخر أبداً. كيف؟"
+    "tr": "Deniz altının sessiz olduğunu sanıyorsanız, çok yanılıyorsunuz.",
+    "en": "If you think the underwater world is silent, you are very wrong.",
+    "es": "Si crees que el mundo submarino es silencioso, estás muy equivocado.",
+    "ar": "إذا كنت تعتقد أن عالم ما تحت الماء صامت، فأنت مخطئ جداً."
   },
   "story_question": {
-    "tr": "Sizce devasa kuş sürüleri bu kusursuz uyumu kime bakarak sağlar?",
-    "en": "Who do you think huge bird flocks look at to achieve this flawless harmony?",
-    "es": "¿A quién crees que miran las enormes bandadas de aves para lograr esta armonía perfecta?",
-    "ar": "برأيك، إلى من تنظر أسراب الطيور الضخمة لتحقيق هذا التناغم المثالي؟"
+    "tr": "Balıkların günün hangi saatinde daha sesli olduğunu tahmin edersiniz?",
+    "en": "At what time of day do you think fish are loudest?",
+    "es": "¿A qué hora del día crees que los peces hacen más ruido?",
+    "ar": "في أي وقت من اليوم تعتقد أن الأسماك تكون أعلى صوتاً؟"
   },
   "story_options": [
-    "Sürüdeki lider kuşa",
-    "En yakınındaki yedi komşuya",
-    "Yeryüzündeki manyetik alana"
+    "Gün doğumunda",
+    "Gece yarısı",
+    "Öğle saatlerinde"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
     "#bilim",
-    "#kuşlar",
+    "#doğa",
+    "#deniz",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla büyüleyici doğa sırrı için takip et!",
-    "en": "Follow for more fascinating nature secrets like this!",
-    "es": "¡Sígueme para más secretos fascinantes de la naturaleza como este!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة الرائعة مثل هذه!"
+    "tr": "Bunu bildiğinizi muhtemel tahmin etmiyorduk. Arkadaşına gönder, o da bilsin!",
+    "en": "You probably didn't know this. Send it to a friend so they know too!",
+    "es": "Probablemente no sabías esto. ¡Envíaselo a un amigo para que también lo sepa!",
+    "ar": "ربما لم تكن تعرف هذا. أرسله إلى صديق لكي يعرف هو أيضاً!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.75
+    "overall": 9
   },
   "source": {
-    "name": "Behavioral Ecology - Starling Flocking Dynamics",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/starling-flock"
+    "name": "Discovery Science & Marine Biology Journals",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Gökyüzünde Neden Asla Çarpışmaz?",
+  "_topic": "Balıkların da Sesi Var, Ama Biz Duyamayız",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-04T11:14:30.104819+00:00",
+  "generated_at": "2026-09-04T16:43:18.194656+00:00",
   "topic_guard_days": 180
 }

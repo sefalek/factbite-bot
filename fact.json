@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıkların da Dişleri Nerededir?",
-    "body": "Su altında yaşayan bazı balık türlerinin, özellikle de sazanların ve mürenlerin dişleri sadece ağızlarında değildir. Bu canlıların dişleri, boğazlarının derinliklerinde, solungaçlarının hemen arkasında yer alır. 'Faringeal diş' adı verilen bu özel yapı, yedikleri sert kabuklu avları öğütmek için adeta ikinci bir çene gibi çalışır."
+    "headline": "Kuşlar Gökyüzünde Neden Asla Çarpışmaz?",
+    "body": "Yüzlerce kuşun yer aldığı devasa sürüler, hiçbir trafik kuralı olmadan okyanus dalgaları gibi saniyede yön değiştirir. Sırrı gözlerinde değil, yanındaki kuşun kanat sesindedir; her birey sadece en yakınındaki yedi komşusunun hareketini anlık olarak takip eder."
   },
   "en": {
-    "headline": "Where are a fish's teeth located?",
-    "body": "Some underwater fish species, especially carp and moray eels, don't just have teeth in their mouths. Their teeth are located deep in their throats, right behind their gills. Called 'pharyngeal teeth', this special structure works almost like a second jaw to grind up hard-shelled prey."
+    "headline": "Why Birds Never Crash in the Sky?",
+    "body": "Massive flocks of hundreds of birds change direction like ocean waves in a second without any traffic rules. The secret is not in their eyes, but in the sound of the wings next to them; each individual instantly tracks the movement of only its seven closest neighbors."
   },
   "es": {
-    "headline": "¿Dónde están los dientes de los peces?",
-    "body": "Algunas especies de peces submarinos, especialmente las carpas y las morenas, no solo tienen dientes en la boca. Sus dientes se encuentran en lo profundo de la garganta, justo detrás de las branquias. Llamada 'dientes faríngeos', esta estructura especial funciona casi como una segunda mandíbula."
+    "headline": "¿Por qué las aves nunca chocan en el cielo?",
+    "body": "Enormes bandadas de cientos de aves cambian de dirección como olas oceánicas en un segundo sin reglas de tráfico. El secreto no está en sus ojos, sino en el sonido de las alas de al lado; cada individuo sigue instantáneamente el movimiento de sus siete vecinos más cercanos."
   },
   "ar": {
-    "headline": "أين توجد أسنان الأسماك؟",
-    "body": "بعض أنواع الأسماك تحت الماء، وخاصة أسماك الشبوط والموراي، لا تمتلك أسنانًا في فمها فقط. بل توجد أسنانها في عمق الحلق خلف الخياشم مباشرة. تعمل هذه البنية، التي تسمى الأسنان البلعومية، تقريبًا كفك ثانٍ لطحن الفرائس ذات القشور الصلبة."
+    "headline": "لماذا لا تصطدم الطيور أبداً في السماء؟",
+    "body": "تغير أسراب ضخمة من مئات الطيور اتجاهها مثل أمواج المحيط في ثانية واحدة دون أي قواعد مرور. السر ليس في عيونها، بل في صوت الأجنحة المجاورة لها؛ يتتبع كل فرد حركة أقرب سبعة جيران إليه فوراً."
   },
   "reel_hook": {
-    "tr": "Balıkların dişlerinin ağızlarında olmadığını biliyor muydunuz?",
-    "en": "Did you know that fish don't have teeth in their mouths?",
-    "es": "¿Sabías que los peces no tienen dientes en la boca?",
-    "ar": "هل كنت تعلم أن الأسماك لا تمتلك أسنانًا في أفواهها؟"
+    "tr": "Yüzlerce kuş aynı anda yön değiştiriyor ama hiçbiri asla birbirine çarpmıyor. Nasıl mı?",
+    "en": "Hundreds of birds change direction at the same time, but none of them ever crash into each other. How?",
+    "es": "Cientos de aves cambian de dirección al mismo tiempo, pero ninguna choca jamás entre sí. ¿Cómo?",
+    "ar": "تغير مئات الطيور اتجاهها في نفس الوقت، لكن لا يصطدم أي منها بالآخر أبداً. كيف؟"
   },
   "story_question": {
-    "tr": "Sizce balıkların bu boğaz dişleri en çok neyi kırar?",
-    "en": "What do you think these throat teeth break the most?",
-    "es": "¿QuéCrees que rompen más estos dientes de garganta?",
-    "ar": "برأيك، ما أكثر ما تكسره أسنان الحلق هذه؟"
+    "tr": "Sizce devasa kuş sürüleri bu kusursuz uyumu kime bakarak sağlar?",
+    "en": "Who do you think huge bird flocks look at to achieve this flawless harmony?",
+    "es": "¿A quién crees que miran las enormes bandadas de aves para lograr esta armonía perfecta?",
+    "ar": "برأيك، إلى من تنظر أسراب الطيور الضخمة لتحقيق هذا التناغم المثالي؟"
   },
   "story_options": [
-    "Sert kabuklu deniz canlılarını",
-    "Mercan kayalıklarını",
-    "Büyük avların kemiklerini"
+    "Sürüdeki lider kuşa",
+    "En yakınındaki yedi komşuya",
+    "Yeryüzündeki manyetik alana"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
     "#doğa",
-    "#keşfet",
-    "#canlılar",
-    "#öğrenme"
+    "#bilim",
+    "#kuşlar",
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts like this!",
-    "es": "¡Sigue atento para más datos sorprendentes como este!",
-    "ar": "ترقبوا المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla büyüleyici doğa sırrı için takip et!",
+    "en": "Follow for more fascinating nature secrets like this!",
+    "es": "¡Sígueme para más secretos fascinantes de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.75
   },
   "source": {
-    "name": "National Geographic & Ichthyology Research",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Behavioral Ecology - Starling Flocking Dynamics",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/starling-flock"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıkların da Dişleri Nerededir?",
+  "_topic": "Kuşlar Gökyüzünde Neden Asla Çarpışmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-04T09:37:39.783668+00:00",
+  "generated_at": "2026-09-04T11:14:30.104819+00:00",
   "topic_guard_days": 180
 }

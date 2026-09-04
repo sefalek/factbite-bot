@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Zihnindeki Gizli Şehir Haritası",
-    "body": "Göçmen kuşlar binlerce kilometrelik yolları nasıl şaşmadan buluyor sanıyorsunuz? Sadece yönlerini değil, Dünya'nın görünmeyen manyetik alan çizgilerini zihinlerinde birer görsel harita gibi hissederek uçarlar. Yani GPS teknolojisinden çok önce, doğanın kendi navigasyon sistemi gökyüzündeydi."
+    "headline": "Balıkların da Dişleri Nerededir?",
+    "body": "Su altında yaşayan bazı balık türlerinin, özellikle de sazanların ve mürenlerin dişleri sadece ağızlarında değildir. Bu canlıların dişleri, boğazlarının derinliklerinde, solungaçlarının hemen arkasında yer alır. 'Faringeal diş' adı verilen bu özel yapı, yedikleri sert kabuklu avları öğütmek için adeta ikinci bir çene gibi çalışır."
   },
   "en": {
-    "headline": "The Hidden City Map in Birds' Minds",
-    "body": "How do migratory birds never lose their way across thousands of kilometers? They fly by sensing not just directions, but the Earth's invisible magnetic field lines as a visual map in their minds. Long before GPS, nature's own navigation system was already in the skies."
+    "headline": "Where are a fish's teeth located?",
+    "body": "Some underwater fish species, especially carp and moray eels, don't just have teeth in their mouths. Their teeth are located deep in their throats, right behind their gills. Called 'pharyngeal teeth', this special structure works almost like a second jaw to grind up hard-shelled prey."
   },
   "es": {
-    "headline": "El mapa oculto en la mente de las aves",
-    "body": "¿Cómo hacen las aves migratorias para no perderse en miles de kilómetros? Vuelan sintiendo las líneas invisibles del campo magnético de la Tierra como un mapa visual. Mucho antes del GPS, el sistema de navegación de la naturaleza ya estaba en los cielos."
+    "headline": "¿Dónde están los dientes de los peces?",
+    "body": "Algunas especies de peces submarinos, especialmente las carpas y las morenas, no solo tienen dientes en la boca. Sus dientes se encuentran en lo profundo de la garganta, justo detrás de las branquias. Llamada 'dientes faríngeos', esta estructura especial funciona casi como una segunda mandíbula."
   },
   "ar": {
-    "headline": "خريطة المدينة الخفية في عقول الطيور",
-    "body": "كيف لا تضيع الطيور المهاجرة أبداً عبر آلاف الكيلومترات؟ إنها تطير من خلال استشعار خطوط المجال المغناطيسي للأرض كخريطة بصرية في أذهانها، لتكون نظام الملاحة الخاص بالطبيعة في السماء قبل تقنية نظام تحديد الموقع بكثير."
+    "headline": "أين توجد أسنان الأسماك؟",
+    "body": "بعض أنواع الأسماك تحت الماء، وخاصة أسماك الشبوط والموراي، لا تمتلك أسنانًا في فمها فقط. بل توجد أسنانها في عمق الحلق خلف الخياشم مباشرة. تعمل هذه البنية، التي تسمى الأسنان البلعومية، تقريبًا كفك ثانٍ لطحن الفرائس ذات القشور الصلبة."
   },
   "reel_hook": {
-    "tr": "Göçmen kuşlar binlerce kilometrelik yolu pusula olmadan nasıl buluyor?",
-    "en": "How do migratory birds find their way for thousands of kilometers without a compass?",
-    "es": "¿Cómo encuentran las aves migratorias su camino sin brújula?",
-    "ar": "كيف تجد الطيور المهاجرة طريقها لمسافات طويلة بدون بوصلة؟"
+    "tr": "Balıkların dişlerinin ağızlarında olmadığını biliyor muydunuz?",
+    "en": "Did you know that fish don't have teeth in their mouths?",
+    "es": "¿Sabías que los peces no tienen dientes en la boca?",
+    "ar": "هل كنت تعلم أن الأسماك لا تمتلك أسنانًا في أفواهها؟"
   },
   "story_question": {
-    "tr": "Göçmen kuşların yönlerini bulmasını sağlayan ana faktör sizce nedir?",
-    "en": "What do you think is the main factor that helps migratory birds find their way?",
-    "es": "¿Cuál crees que es el factor principal que ayuda a las aves migratorias a orientarse?",
-    "ar": "ما هو العامل الرئيسي برأيك الذي يساعد الطيور المهاجرة على إيجاد طريقها؟"
+    "tr": "Sizce balıkların bu boğaz dişleri en çok neyi kırar?",
+    "en": "What do you think these throat teeth break the most?",
+    "es": "¿QuéCrees que rompen más estos dientes de garganta?",
+    "ar": "برأيك، ما أكثر ما تكسره أسنان الحلق هذه؟"
   },
   "story_options": [
-    "Güneşin konumu",
-    "Dünyanın manyetik alanı",
-    "Koku duyusu"
+    "Sert kabuklu deniz canlılarını",
+    "Mercan kayalıklarını",
+    "Büyük avların kemiklerini"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
     "#bilim",
+    "#ilginçbilgiler",
+    "#doğa",
     "#keşfet",
-    "#biliyormusunuz"
+    "#canlılar",
+    "#öğrenme"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثلة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Sigue atento para más datos sorprendentes como este!",
+    "ar": "ترقبوا المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
+    "name": "National Geographic & Ichthyology Research",
     "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Zihnindeki Gizli Şehir Haritası",
+  "_topic": "Balıkların da Dişleri Nerededir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-03T22:48:37.964318+00:00",
+  "generated_at": "2026-09-04T09:37:39.783668+00:00",
   "topic_guard_days": 180
 }

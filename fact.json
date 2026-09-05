@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Kalbi Uçarken Dakikada Kaç Kez Atar?",
-    "body": "Sinek kuşları o kadar hızlı kanat çırpar ki, kalpleri dakikada 1200 kez atabilir. Üstelik dinlenirken bile bu hız inanılmaz seviyelerdedir."
+    "headline": "Kedilere Verilen Lazer İşaretçileri Neden Tehlikeli Olabilir?",
+    "body": "Kediniz lazer ışığının peşinden ne kadar koşarsa koşsun, onu asla 'yakalayamaz'. Bu durum avlanma tatminsizliği yaratarak stres ve kaygıya yol açabilir."
   },
   "en": {
-    "headline": "How Fast Does a Bird's Heart Beat in Flight?",
-    "body": "Hummingbirds flap their wings so fast that their hearts can beat up to 1,200 times per minute. Even at rest, their heart rate remains incredibly high."
+    "headline": "Why Laser Pointers Can Be Frustrating for Cats",
+    "body": "No matter how much your cat chases the laser dot, they can never 'catch' it. This creates a lack of completion in their hunting cycle, leading to stress and anxiety."
   },
   "es": {
-    "headline": "¿A qué velocidad late el corazón de un ave en vuelo?",
-    "body": "Los colibríes aletean tan rápido que sus corazones pueden latir hasta 1200 veces por minuto. Incluso en reposo, su ritmo cardíaco es increíblemente alto."
+    "headline": "Por qué los punteros láser pueden estresar a los gatos",
+    "body": "No importa cuánto corra tu gato detrás del punto láser, nunca podrá 'atraparlo'. Esto crea una falta de satisfacción en su instinto de caza, generando estrés."
   },
   "ar": {
-    "headline": "ما سر نبضات قلب الطائر أثناء الطيران؟",
-    "body": "تخفق الطيور الطنانة أجنحتها بسرعة كبيرة لدرجة أن دقات قلبها قد تصل إلى 1200 نبضة في الدقيقة. وحتى في حالة الراحة، يظل معدل ضربات قلبها مرتفعاً بشكل مذهل."
+    "headline": "لماذا قد تضر مؤشرات الليزر بالقطط؟",
+    "body": "مهما ركضت قطتك خلف ضوء الليزر، فلن تستطيع أبداً \"الإمساك\" به. هذا يمنع اكتمال دورة الصيد لديها، مما يسبب لها التوتر والقلق."
   },
   "reel_hook": {
-    "tr": "Dakikada bin iki yüz kez atan bir kalp hayal edebiliyor musunuz?",
-    "en": "Can you imagine a heart beating twelve hundred times a minute?",
-    "es": "¿Puedes imaginar un corazón latiendo mil doscientas veces por minuto?",
-    "ar": "هل يمكنك تخيل قلب ينبض ألف ومائتي مرة في الدقيقة؟"
+    "tr": "Kediniz o kırmızı noktayı neden asla yakalayamaz?",
+    "en": "Why your cat can never catch that red dot?",
+    "es": "¿Por qué tu gato nunca puede atrapar ese punto rojo?",
+    "ar": "لماذا لا تستطيع قطتك إمساك تلك النقطة الحمراء أبداً؟"
   },
   "story_question": {
-    "tr": "Sence doğadaki en yüksek kalp atış hızına sahip canlı hangisidir?",
-    "en": "Which creature do you think has the highest heart rate in nature?",
-    "es": "¿Qué criatura crees que tiene la frecuencia cardíaca más alta en la naturaleza?",
-    "ar": "برأيك، ما هو المخلوق الذي تمتلك أعلى معدل ضربات قلب في الطبيعة؟"
+    "tr": "Lazerle oynayan kedinize oyun sonunda ne vermelisiniz?",
+    "en": "What should you give your cat after playing with a laser?",
+    "es": "¿Qué debes darle a tu gato después de jugar con el láser?",
+    "ar": "ماذا يجب أن تعطي قطتك بعد اللعب بالليزر؟"
   },
   "story_options": [
-    "Sinek Kuşu",
-    "Çita",
-    "Fare"
+    "Gerçek bir oyuncak veya ödül maması",
+    "Sadece su",
+    "Hiçbir şey gerekmez"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
-    "#kuşlar",
+    "#kedi",
+    "#kedipsikolojisi",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#hayvanlar"
+    "#evcilhayvan",
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts like this!",
-    "es": "¡Mantente atento a más datos sorprendentes como este!",
-    "ar": "ابق على متابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Kedisi olan bir arkadaşına gönder, bunu mutlaka bilsin!",
+    "en": "Send this to a friend with a cat!",
+    "es": "¡Envíaselo a un amigo con gato!",
+    "ar": "أرسل هذا لصديق لديه قطة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.8
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "Cat Behavior and Veterinary Science Journals",
+    "url": ""
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Kalbi Uçarken Dakikada Kaç Kez Atar?",
+  "_topic": "Kedilere Verilen Lazer İşaretçileri Neden Tehlikeli Olabilir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-04T22:31:43.378984+00:00",
+  "generated_at": "2026-09-05T09:04:22.900372+00:00",
   "topic_guard_days": 180
 }

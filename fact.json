@@ -1,69 +1,70 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Cam Gibi Saydam Yaratık",
-    "body": "Bazen doğada öyle canlılarla karşılaşırız ki, onlara bakarken içlerini görürüz. Cam kurbağalar tam olarak böyle; karın bölgeleri tamamen şeffaftır ve kalplerinin nasıl attığını, iç organlarının nasıl çalıştığını dışarıdan net bir şekilde izleyebilirsiniz. Bu şeffaflık, onların doğadaki yırtıcılardan saklanmasını sağlayan mükemmel bir kamufle yöntemidir."
+    "headline": "Denizlerdeki Gizli Depremler",
+    "body": "Biliyor musunuz, balinaların çıkardığı o derin ve devasa sesler okyanus tabanını adeta şekillendiriyor. Bilim insanları, bu dev ses dalgalarının okyanus zeminindeki çökeltileri ve tortuları hareket ettirerek jeolojik süreçlere bile etki ettiğini keşfetti. Dünyanın en büyük hayvanları sadece şarkı söylemiyor, aynı zamanda yer kabuğunu da yankılatıyor."
   },
   "en": {
-    "headline": "The Glass Frog Mystery",
-    "body": "Sometimes nature presents creatures so translucent that you can literally see right through them. Glass frogs are exactly like this; their abdominal skin is completely transparent, allowing you to watch their hearts beat and organs function in real time. This incredible transparency acts as a brilliant camouflage against predators in the rainforest."
+    "headline": "Hidden Earthquakes in the Seas",
+    "body": "Did you know that the deep, massive sounds made by whales are actually shaping the ocean floor? Scientists have discovered that these giant sound waves move sediments and debris on the ocean floor, even influencing geological processes. The world's largest animals do not just sing; they make the Earth's crust resonate."
   },
   "es": {
-    "headline": "La Rana de Cristal",
-    "body": "A veces la naturaleza nos muestra criaturas tan translúcidas que se puede ver a través de ellas. Las ranas de cristal son exactamente así; su piel ventral es completamente transparente, lo que permite ver latir sus corazones y funcionar sus órganos en vivo. Esta transparencia actúa como un camuflaje perfecto contra los depredadores."
+    "headline": "Terremotos ocultos en los mares",
+    "body": "¿Sabías que los sonidos profundos y masivos que hacen las ballenas están dando forma al fondo del océano? Los científicos han descubierto que estas ondas de sonido gigantes mueven sedimentos y escombros en el lecho marino, influyendo incluso en los procesos geológicos. Los animales más grandes del mundo no solo cantan; también hacen resonar la corteza terrestre."
   },
   "ar": {
-    "headline": "سر الضفادع الزجاجية",
-    "body": "أحياناً تقدم لنا الطبيعة مخلوقات شفافة لدرجة أننا نستطيع رؤية ما بداخلها تماماً. الضفادع الزجاجية هي بالضبط هكذا؛ جلد بطنها شفاف تماماً، مما يتيح لك مشاهدة دقات قلبها وأعضائها وهي تعمل بوضوح. تعمل هذه الشفافية كتمويه مذهل ضد الحيوانات المفترسة."
+    "headline": "الزلازل الخفية في البحار",
+    "body": "هل تعلم أن الأصوات العميقة الهائلة التي تصدرها الحيتان تشكل قاع المحيط فعلياً؟ اكتشف العلماء أن موجات الصوت العملاقة هذه تحرك الرواسب في قاع البحر، بل وتؤثر على العمليات الجيولوجية. أكبر حيوانات العالم لا تغني فحسب، بل تجعل القشرة الأرضية تتصدى وتتردد."
   },
   "reel_hook": {
-    "tr": "Bu kurbağanın kalbinin nasıl attığını dışarıdan görebildiğinizi biliyor muydunuz?",
-    "en": "Did you know you can actually watch this frog's heart beating from the outside?",
-    "es": "¿Sabías que puedes ver latir el corazón de esta rana desde el exterior?",
-    "ar": "هل كنت تعلم أنه يمكنك رؤية نبض قلب هذا من الخارج؟"
+    "tr": "Okyanusun en derinindeki bu sesler, deprem etkisi yaratıyor!",
+    "en": "These sounds deep in the ocean create an earthquake effect!",
+    "es": "¡Estos sonidos en lo más profundo del océano crean un efecto de terremoto!",
+    "ar": "هذه الأصوات في عمق المحيط تخلق تأثير الزلزال!"
   },
   "story_question": {
-    "tr": "Cam kurbağaların karınlerinin şeffaf olması temel olarak ne işe yarar?",
-    "en": "What is the main purpose of the glass frog's transparent belly?",
-    "es": "¿Cuál es el propósito principal del vientre transparente de la rana de cristal?",
-    "ar": "ما هو الغرض الأساسي من بطن الضفدع الزجاجي الشفاف؟"
+    "tr": "Balinaların sesleri okyanus tabanını gerçekten etkileyebilir mi?",
+    "en": "Can whale sounds really affect the ocean floor?",
+    "es": "¿Pueden los sonidos de las ballenas afectar realmente el fondo del océano?",
+    "ar": "هل يمكن لأصوات الحيتان أن تؤثر حقاً على قاع المحيط؟"
   },
   "story_options": [
-    "Kamufle olmak",
-    "Güneş enerjisi toplamak",
-    "Su depolamak"
+    "Evet, jeolojik etki yaratıyor",
+    "Hayır, sadece bir ses",
+    "Sadece sığ sularda geçerli"
   ],
   "hashtags": [
     "#FactBite",
-    "#camkurbağa",
-    "#doğa",
+    "#balina",
+    "#okyanus",
     "#bilim",
-    "#hayvanlar",
-    "#biyoloji",
-    "#keşfet"
+    "#doğa",
+    "#keşif",
+    "#deniz",
+    "#uzay"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza como este!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Mantente atento a más datos sorprendentes como este!",
+    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Marine Geophysical Research",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Cam Gibi Saydam Yaratık",
+  "_topic": "Denizlerdeki Gizli Depremler",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-05T15:45:53.426982+00:00",
+  "generated_at": "2026-09-05T17:11:25.272045+00:00",
   "topic_guard_days": 180
 }

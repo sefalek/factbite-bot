@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Görünmez Mimarları",
-    "body": "Mercanlar cansız birer kaya gibi görünür ama aslında koloniler halinde yaşayan hayvanlardır. Üstelik büyüme hızları öyle yavaştır ki, bazı türler yılda sadece birkaç milimetre uzar. Buna rağmen uzaydan görülebilecek kadar büyük yapılar inşa edebilirler."
+    "headline": "Cam Gibi Saydam Yaratık",
+    "body": "Bazen doğada öyle canlılarla karşılaşırız ki, onlara bakarken içlerini görürüz. Cam kurbağalar tam olarak böyle; karın bölgeleri tamamen şeffaftır ve kalplerinin nasıl attığını, iç organlarının nasıl çalıştığını dışarıdan net bir şekilde izleyebilirsiniz. Bu şeffaflık, onların doğadaki yırtıcılardan saklanmasını sağlayan mükemmel bir kamufle yöntemidir."
   },
   "en": {
-    "headline": "The Invisible Architects of the Seas",
-    "body": "Corals look like lifeless rocks, but they are actually animals living in colonies. Their growth rate is so slow that some species grow only a few millimeters a year. Despite this, they can build structures large enough to be seen from space."
+    "headline": "The Glass Frog Mystery",
+    "body": "Sometimes nature presents creatures so translucent that you can literally see right through them. Glass frogs are exactly like this; their abdominal skin is completely transparent, allowing you to watch their hearts beat and organs function in real time. This incredible transparency acts as a brilliant camouflage against predators in the rainforest."
   },
   "es": {
-    "headline": "Los arquitectos invisibles de los mares",
-    "body": "Los corales parecen rocas sin vida, pero en realidad son animales que viven en colonias. Su tasa de crecimiento es tan lenta que algunas especies crecen solo unos milímetros al año. A pesar de esto, pueden construir estructuras lo suficientemente grandes como para ser vistas desde el espacio."
+    "headline": "La Rana de Cristal",
+    "body": "A veces la naturaleza nos muestra criaturas tan translúcidas que se puede ver a través de ellas. Las ranas de cristal son exactamente así; su piel ventral es completamente transparente, lo que permite ver latir sus corazones y funcionar sus órganos en vivo. Esta transparencia actúa como un camuflaje perfecto contra los depredadores."
   },
   "ar": {
-    "headline": "مهندسو البحار غير المرئيون",
-    "body": "تبدو المرجانات صخوراً بلا حياة، لكنها في الواقع حيوانات تعيش في مستعمرات. معدل نمو بعض الأنواع بطيء لدرجة أنها تنمو بضعة ملليمترات فقط في السنة. ورغم ذلك، يمكنها بناء هياكل كبيرة بما يكفي لرؤيتها من الفضاء."
+    "headline": "سر الضفادع الزجاجية",
+    "body": "أحياناً تقدم لنا الطبيعة مخلوقات شفافة لدرجة أننا نستطيع رؤية ما بداخلها تماماً. الضفادع الزجاجية هي بالضبط هكذا؛ جلد بطنها شفاف تماماً، مما يتيح لك مشاهدة دقات قلبها وأعضائها وهي تعمل بوضوح. تعمل هذه الشفافية كتمويه مذهل ضد الحيوانات المفترسة."
   },
   "reel_hook": {
-    "tr": "Uzaydan görülebilen bu devasa yapıyı taşlar değil, canlılar inşa etti.",
-    "en": "This massive structure visible from space wasn't built by stones, but by living creatures.",
-    "es": "Esta enorme estructura visible desde el espacio no fue construida por piedras, sino por seres vivos.",
-    "ar": "هذا الهيكل الضخم المرئي من الفضاء لم تبنه الحجارة، بل الكائنات الحية."
+    "tr": "Bu kurbağanın kalbinin nasıl attığını dışarıdan görebildiğinizi biliyor muydunuz?",
+    "en": "Did you know you can actually watch this frog's heart beating from the outside?",
+    "es": "¿Sabías que puedes ver latir el corazón de esta rana desde el exterior?",
+    "ar": "هل كنت تعلم أنه يمكنك رؤية نبض قلب هذا من الخارج؟"
   },
   "story_question": {
-    "tr": "Mercanlar bitki mi, kaya mı, yoksa hayvan mı?",
-    "en": "Are corals plants, rocks, or animals?",
-    "es": "¿Los corales son plantas, rocas o animales?",
-    "ar": "هل المرجان نباتات أم صخور أم حيوانات؟"
+    "tr": "Cam kurbağaların karınlerinin şeffaf olması temel olarak ne işe yarar?",
+    "en": "What is the main purpose of the glass frog's transparent belly?",
+    "es": "¿Cuál es el propósito principal del vientre transparente de la rana de cristal?",
+    "ar": "ما هو الغرض الأساسي من بطن الضفدع الزجاجي الشفاف؟"
   },
   "story_options": [
-    "Bitki",
-    "Kaya",
-    "Hayvan"
+    "Kamufle olmak",
+    "Güneş enerjisi toplamak",
+    "Su depolamak"
   ],
   "hashtags": [
     "#FactBite",
-    "#mercan",
-    "#bilim",
-    "#okyanus",
+    "#camkurbağa",
     "#doğa",
-    "#uzay",
+    "#bilim",
+    "#hayvanlar",
+    "#biyoloji",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -57,13 +57,13 @@
   },
   "source": {
     "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/invertebrates-facts/corals/"
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Görünmez Mimarları",
+  "_topic": "Cam Gibi Saydam Yaratık",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-05T13:54:50.603174+00:00",
+  "generated_at": "2026-09-05T15:45:53.426982+00:00",
   "topic_guard_days": 180
 }

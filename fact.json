@@ -1,53 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerdeki Gizli Depremler",
-    "body": "Biliyor musunuz, balinaların çıkardığı o derin ve devasa sesler okyanus tabanını adeta şekillendiriyor. Bilim insanları, bu dev ses dalgalarının okyanus zeminindeki çökeltileri ve tortuları hareket ettirerek jeolojik süreçlere bile etki ettiğini keşfetti. Dünyanın en büyük hayvanları sadece şarkı söylemiyor, aynı zamanda yer kabuğunu da yankılatıyor."
+    "headline": "Kuşların Gözlerindeki Muazzam Güç",
+    "body": "Göz kırpmak bizim için nem dengesini korumanın basit bir yoludur. Peki ya saatlerce hiç göz kırpmadan uçabilen göçmen kuşlar? Onlar kurumamak için gizli bir silaha sahip: Şeffaf üçüncü göz kapakları. Nictitating membrane adı verilen bu özel zar, uçuş sırasında gözü korurken görüşü de engellemez."
   },
   "en": {
-    "headline": "Hidden Earthquakes in the Seas",
-    "body": "Did you know that the deep, massive sounds made by whales are actually shaping the ocean floor? Scientists have discovered that these giant sound waves move sediments and debris on the ocean floor, even influencing geological processes. The world's largest animals do not just sing; they make the Earth's crust resonate."
+    "headline": "The Incredible Power in Birds' Eyes",
+    "body": "Blinking is a simple way for us to maintain moisture balance. But what about migratory birds that fly for hours without blinking? They have a secret weapon to avoid drying out: transparent third eyelids. This special membrane, called the nictitating membrane, protects the eye during flight without obstructing vision."
   },
   "es": {
-    "headline": "Terremotos ocultos en los mares",
-    "body": "¿Sabías que los sonidos profundos y masivos que hacen las ballenas están dando forma al fondo del océano? Los científicos han descubierto que estas ondas de sonido gigantes mueven sedimentos y escombros en el lecho marino, influyendo incluso en los procesos geológicos. Los animales más grandes del mundo no solo cantan; también hacen resonar la corteza terrestre."
+    "headline": "El increíble poder en los ojos de las aves",
+    "body": "Parpadear es una forma sencilla para nosotros de mantener el equilibrio de humedad. ¿Pero qué pasa con las aves migratorias que vuelan durante horas sin parpadear? Tienen un arma secreta para evitar secarse: unos terceros párpados transparentes. Esta membrana especial protege el ojo durante el vuelo sin bloquear la visión."
   },
   "ar": {
-    "headline": "الزلازل الخفية في البحار",
-    "body": "هل تعلم أن الأصوات العميقة الهائلة التي تصدرها الحيتان تشكل قاع المحيط فعلياً؟ اكتشف العلماء أن موجات الصوت العملاقة هذه تحرك الرواسب في قاع البحر، بل وتؤثر على العمليات الجيولوجية. أكبر حيوانات العالم لا تغني فحسب، بل تجعل القشرة الأرضية تتصدى وتتردد."
+    "headline": "القوة المذهلة في عيون الطيور",
+    "body": "الرمش هو طريقة بسيطة لنا للحفاظ على توازن الرطوبة. ولكن ماذا عن الطيور المهاجرة التي تطير لساعات دون أن ترمش؟ لديهم سلاح سري لمنع الجفاف: جفون ثالثة شفافة تحمي العين أثناء الطيران دون حجب الرؤية."
   },
   "reel_hook": {
-    "tr": "Okyanusun en derinindeki bu sesler, deprem etkisi yaratıyor!",
-    "en": "These sounds deep in the ocean create an earthquake effect!",
-    "es": "¡Estos sonidos en lo más profundo del océano crean un efecto de terremoto!",
-    "ar": "هذه الأصوات في عمق المحيط تخلق تأثير الزلزال!"
+    "tr": "Saatlerce hiç göz kırpmadan uçan bir canlı hayal edin, peki gözleri nasıl kurümuyor?",
+    "en": "Imagine a creature flying for hours without blinking, so how do its eyes not dry out?",
+    "es": "Imagina una criatura volando durante horas sin parpadear, ¿cómo es que sus ojos no se secan?",
+    "ar": "تخيل مخلوقاً يطير لساعات دون أن يرمش، فكيف لا جف عيناه؟"
   },
   "story_question": {
-    "tr": "Balinaların sesleri okyanus tabanını gerçekten etkileyebilir mi?",
-    "en": "Can whale sounds really affect the ocean floor?",
-    "es": "¿Pueden los sonidos de las ballenas afectar realmente el fondo del océano?",
-    "ar": "هل يمكن لأصوات الحيتان أن تؤثر حقاً على قاع المحيط؟"
+    "tr": "Göçmen kuşların uçarken gözlerinin kurumasını ne önler?",
+    "en": "What prevents migratory birds' eyes from drying out while flying?",
+    "es": "¿Qué evita que los ojos de las aves migratorias se sequen mientras vuelan?",
+    "ar": "ما الذي يمنع عيون الطيور المهاجرة من الجفاف أثناء الطيران؟"
   },
   "story_options": [
-    "Evet, jeolojik etki yaratıyor",
-    "Hayır, sadece bir ses",
-    "Sadece sığ sularda geçerli"
+    "Özel gözyaşı bezleri",
+    "Şeffaf üçüncü göz kapağı",
+    "Sürekli havaya bakmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#balina",
-    "#okyanus",
-    "#bilim",
     "#doğa",
-    "#keşif",
-    "#deniz",
-    "#uzay"
+    "#kuşlar",
+    "#bilim",
+    "#biyoloji",
+    "#ilginçbilgiler",
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts like this!",
-    "es": "¡Mantente atento a más datos sorprendentes como este!",
-    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos asombrosos de la naturaleza como este!",
+    "ar": "لا تنس المتابعة للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -57,14 +56,14 @@
     "overall": 8.7
   },
   "source": {
-    "name": "Marine Geophysical Research",
-    "url": "https://www.sciencedirect.com"
+    "name": "Avian Biology & Ornithology Research",
+    "url": "https://www.audubon.org/news/birds-have-third-eyelid-and-its-awesome"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerdeki Gizli Depremler",
+  "_topic": "Kuşların Gözlerindeki Muazzam Güç",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-05T17:11:25.272045+00:00",
+  "generated_at": "2026-09-05T18:58:56.185924+00:00",
   "topic_guard_days": 180
 }

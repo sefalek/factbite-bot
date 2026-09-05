@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilere Verilen Lazer İşaretçileri Neden Tehlikeli Olabilir?",
-    "body": "Kediniz lazer ışığının peşinden ne kadar koşarsa koşsun, onu asla 'yakalayamaz'. Bu durum avlanma tatminsizliği yaratarak stres ve kaygıya yol açabilir."
+    "headline": "Kuşlar Neden Şekil Değiştirir?",
+    "body": "Gökyüzünde süzülen kuş sürüleri aniden şekil değiştirir, peki bu nasıl olur? Aslında her kuş sadece en yakınındaki yedi komşusunun hareketini takip eder."
   },
   "en": {
-    "headline": "Why Laser Pointers Can Be Frustrating for Cats",
-    "body": "No matter how much your cat chases the laser dot, they can never 'catch' it. This creates a lack of completion in their hunting cycle, leading to stress and anxiety."
+    "headline": "Why Birds Change Shape",
+    "body": "Flocks of birds suddenly change shape in the sky, but how does this happen? Actually, each bird simply follows the movement of its seven closest neighbors."
   },
   "es": {
-    "headline": "Por qué los punteros láser pueden estresar a los gatos",
-    "body": "No importa cuánto corra tu gato detrás del punto láser, nunca podrá 'atraparlo'. Esto crea una falta de satisfacción en su instinto de caza, generando estrés."
+    "headline": "Por qué las aves cambian de forma",
+    "body": "Las bandadas de pájaros cambian de forma repentinamente en el cielo, ¿cómo ocurre esto? En realidad, cada ave simplemente sigue el movimiento de sus siete vecinos más cercanos."
   },
   "ar": {
-    "headline": "لماذا قد تضر مؤشرات الليزر بالقطط؟",
-    "body": "مهما ركضت قطتك خلف ضوء الليزر، فلن تستطيع أبداً \"الإمساك\" به. هذا يمنع اكتمال دورة الصيد لديها، مما يسبب لها التوتر والقلق."
+    "headline": "لماذا تغير الطيور شكلها",
+    "body": "تغير أسراب الطيور شكلها فجأة في السماء، فكيف يحدث ذلك؟ في الواقع، يتبع كل طير حركة أقرب سبعة جيران إليه فقط."
   },
   "reel_hook": {
-    "tr": "Kediniz o kırmızı noktayı neden asla yakalayamaz?",
-    "en": "Why your cat can never catch that red dot?",
-    "es": "¿Por qué tu gato nunca puede atrapar ese punto rojo?",
-    "ar": "لماذا لا تستطيع قطتك إمساك تلك النقطة الحمراء أبداً؟"
+    "tr": "Gökyüzündeki bu dev bulutlar aslında tek bir beyin gibi hareket ediyor.",
+    "en": "These giant clouds in the sky actually move like a single brain.",
+    "es": "Estas nubes gigantes en el cielo en realidad se mueven como un solo cerebro.",
+    "ar": "هذه الغيوم العملاقة في السماء تتحرك في الواقع وكأنها دماغ واحد."
   },
   "story_question": {
-    "tr": "Lazerle oynayan kedinize oyun sonunda ne vermelisiniz?",
-    "en": "What should you give your cat after playing with a laser?",
-    "es": "¿Qué debes darle a tu gato después de jugar con el láser?",
-    "ar": "ماذا يجب أن تعطي قطتك بعد اللعب بالليزر؟"
+    "tr": "Sürünün hareketini başlatan bir lider var mıdır?",
+    "en": "Is there a leader that initiates the flock's movement?",
+    "es": "¿Hay un líder que inicie el movimiento de la bandada?",
+    "ar": "هل يوجد قائد يبدأ حركة السرب؟"
   },
   "story_options": [
-    "Gerçek bir oyuncak veya ödül maması",
-    "Sadece su",
-    "Hiçbir şey gerekmez"
+    "Evet, en yaşlı kuş",
+    "Hayır, lider yok",
+    "Sırayla değişir"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#kedipsikolojisi",
-    "#bilgi",
+    "#bilim",
+    "#doğa",
+    "#kuşlar",
     "#ilginçbilgiler",
-    "#evcilhayvan",
-    "#hayvanlaralemi"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Kedisi olan bir arkadaşına gönder, bunu mutlaka bilsin!",
-    "en": "Send this to a friend with a cat!",
-    "es": "¡Envíaselo a un amigo con gato!",
-    "ar": "أرسل هذا لصديق لديه قطة!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.8
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Cat Behavior and Veterinary Science Journals",
-    "url": ""
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilere Verilen Lazer İşaretçileri Neden Tehlikeli Olabilir?",
+  "_topic": "Kuşlar Neden Şekil Değiştirir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-05T09:04:22.900372+00:00",
+  "generated_at": "2026-09-05T11:50:47.191936+00:00",
   "topic_guard_days": 180
 }

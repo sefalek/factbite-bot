@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Neden Şekil Değiştirir?",
-    "body": "Gökyüzünde süzülen kuş sürüleri aniden şekil değiştirir, peki bu nasıl olur? Aslında her kuş sadece en yakınındaki yedi komşusunun hareketini takip eder."
+    "headline": "Denizlerin Görünmez Mimarları",
+    "body": "Mercanlar cansız birer kaya gibi görünür ama aslında koloniler halinde yaşayan hayvanlardır. Üstelik büyüme hızları öyle yavaştır ki, bazı türler yılda sadece birkaç milimetre uzar. Buna rağmen uzaydan görülebilecek kadar büyük yapılar inşa edebilirler."
   },
   "en": {
-    "headline": "Why Birds Change Shape",
-    "body": "Flocks of birds suddenly change shape in the sky, but how does this happen? Actually, each bird simply follows the movement of its seven closest neighbors."
+    "headline": "The Invisible Architects of the Seas",
+    "body": "Corals look like lifeless rocks, but they are actually animals living in colonies. Their growth rate is so slow that some species grow only a few millimeters a year. Despite this, they can build structures large enough to be seen from space."
   },
   "es": {
-    "headline": "Por qué las aves cambian de forma",
-    "body": "Las bandadas de pájaros cambian de forma repentinamente en el cielo, ¿cómo ocurre esto? En realidad, cada ave simplemente sigue el movimiento de sus siete vecinos más cercanos."
+    "headline": "Los arquitectos invisibles de los mares",
+    "body": "Los corales parecen rocas sin vida, pero en realidad son animales que viven en colonias. Su tasa de crecimiento es tan lenta que algunas especies crecen solo unos milímetros al año. A pesar de esto, pueden construir estructuras lo suficientemente grandes como para ser vistas desde el espacio."
   },
   "ar": {
-    "headline": "لماذا تغير الطيور شكلها",
-    "body": "تغير أسراب الطيور شكلها فجأة في السماء، فكيف يحدث ذلك؟ في الواقع، يتبع كل طير حركة أقرب سبعة جيران إليه فقط."
+    "headline": "مهندسو البحار غير المرئيون",
+    "body": "تبدو المرجانات صخوراً بلا حياة، لكنها في الواقع حيوانات تعيش في مستعمرات. معدل نمو بعض الأنواع بطيء لدرجة أنها تنمو بضعة ملليمترات فقط في السنة. ورغم ذلك، يمكنها بناء هياكل كبيرة بما يكفي لرؤيتها من الفضاء."
   },
   "reel_hook": {
-    "tr": "Gökyüzündeki bu dev bulutlar aslında tek bir beyin gibi hareket ediyor.",
-    "en": "These giant clouds in the sky actually move like a single brain.",
-    "es": "Estas nubes gigantes en el cielo en realidad se mueven como un solo cerebro.",
-    "ar": "هذه الغيوم العملاقة في السماء تتحرك في الواقع وكأنها دماغ واحد."
+    "tr": "Uzaydan görülebilen bu devasa yapıyı taşlar değil, canlılar inşa etti.",
+    "en": "This massive structure visible from space wasn't built by stones, but by living creatures.",
+    "es": "Esta enorme estructura visible desde el espacio no fue construida por piedras, sino por seres vivos.",
+    "ar": "هذا الهيكل الضخم المرئي من الفضاء لم تبنه الحجارة، بل الكائنات الحية."
   },
   "story_question": {
-    "tr": "Sürünün hareketini başlatan bir lider var mıdır?",
-    "en": "Is there a leader that initiates the flock's movement?",
-    "es": "¿Hay un líder que inicie el movimiento de la bandada?",
-    "ar": "هل يوجد قائد يبدأ حركة السرب؟"
+    "tr": "Mercanlar bitki mi, kaya mı, yoksa hayvan mı?",
+    "en": "Are corals plants, rocks, or animals?",
+    "es": "¿Los corales son plantas, rocas o animales?",
+    "ar": "هل المرجان نباتات أم صخور أم حيوانات؟"
   },
   "story_options": [
-    "Evet, en yaşlı kuş",
-    "Hayır, lider yok",
-    "Sırayla değişir"
+    "Bitki",
+    "Kaya",
+    "Hayvan"
   ],
   "hashtags": [
     "#FactBite",
+    "#mercan",
     "#bilim",
+    "#okyanus",
     "#doğa",
-    "#kuşlar",
-    "#ilginçbilgiler",
-    "#biyoloji"
+    "#uzay",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more fascinating facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
     "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "url": "https://www.nationalgeographic.com/animals/invertebrates/invertebrates-facts/corals/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Neden Şekil Değiştirir?",
+  "_topic": "Denizlerin Görünmez Mimarları",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-05T11:50:47.191936+00:00",
+  "generated_at": "2026-09-05T13:54:50.603174+00:00",
   "topic_guard_days": 180
 }

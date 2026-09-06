@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balinaların Nefes Alma Sırrı",
-    "body": "Dev okyanus memelileri olan balinalar su altında nefes alamazlar, bu yüzden oksijen depolamak için inanılmaz bir fizyolojiye sahiptirlər."
+    "headline": "Denizlerin Şaşırtıcı Dokunma Duyusu",
+    "body": "Balıkların elleri yoktur ama aslında tüm vücutlarıyla tat alabilirler! Vücutlarına yayılmış özel tat alıcı hücresel yapılar sayesinde, çevrelerindeki kimyasalları doğrudan derileriyle hissederler."
   },
   "en": {
-    "headline": "The Secret of Whale Breathing",
-    "body": "Giant ocean mammals cannot breathe underwater, so they have an incredible physiology to store oxygen."
+    "headline": "The Surprising Sense of Touch in the Seas",
+    "body": "Fish don't have hands, but they can actually taste with their entire bodies! Thanks to specialized sensory cells spread across their skin, they can directly detect chemicals in their environment."
   },
   "es": {
-    "headline": "El secreto de la respiración de las ballenas",
-    "body": "Los mamíferos marinos gigantes no pueden respirar bajo el agua, por lo que tienen una fisiología increíble para almacenar oxígeno."
+    "headline": "El sorprendente sentido del tacto en los mares",
+    "body": "Los peces no tienen manos, ¡pero en realidad pueden saborear con todo su cuerpo! Gracias a células sensoriales especiales repartidas por su piel, pueden detectar directamente los químicos en su entorno."
   },
   "ar": {
-    "headline": "سر تنفس الحيتان",
-    "body": "لا تستطيع ثدييات المحيط العملاقة التنفس تحت الماء، لذا فهي تمتلك فسيولوجيا مذهلة لتخزين الأكسجين."
+    "headline": "حاسة اللمس المدهشة في البحار",
+    "body": "لا تمتلك الأسماك أيدي، ولكن يمكنها في الواقع التذوق بأجسامها بأكملها! بفضل خلايا حسية متخصصة منتشرة في جميع أنحاء جلدها، يمكنها استشعار المواد الكيميائية في بيئتها مباشرة."
   },
   "reel_hook": {
-    "tr": "Okyanusun en büyük canlısı saatlerce nefes almadan nasıl kalabiliyor?",
-    "en": "How can the largest creature in the ocean stay without breathing for hours?",
-    "es": "¿Cómo puede la criatura más grande del océano pasar horas sin respirar?",
-    "ar": "كيف يمكن لأكبر مخلوق في المحيط البقاء دون تنفس لعدة ساعات؟"
+    "tr": "Balıklar yiyeceklerin tadını çıkarmak için ağızlarını kullanmak zorunda değildir, çünkü...",
+    "en": "Fish don't have to use their mouths to enjoy food because...",
+    "es": "Los peces no tienen que usar su boca para disfrutar de la comida porque...",
+    "ar": "لا اضطرار للأسماك لاستخدام أفواهها للاستمتاع بالطعام لأن..."
   },
   "story_question": {
-    "tr": "Sizce bir mavi balina su altında ne kadar süre kalabilir?",
-    "en": "How long do you think a blue whale can stay underwater?",
-    "es": "¿Cuánto tiempo crees que una ballena azul puede permanecer bajo el agua?",
-    "ar": "كم تعتقد أن الحوت الأزرق يمكن أن يبقى تحت الماء؟"
+    "tr": "Balıklar tat alma duyusunu vücutlarının hangi kısmında yoğun olarak taşır?",
+    "en": "In which part of their body do fish predominantly have their sense of taste?",
+    "es": "¿En qué parte de su cuerpo los peces tienen predominantemente su sentido del gusto?",
+    "ar": "في اي جزء من أجسادهم تمتلك الأسماك حاسة التذوق بشكل أساسي؟"
   },
   "story_options": [
-    "30 Dakika",
-    "90 Dakika",
-    "3 Saat"
+    "Derilerinde",
+    "Yüzgeçlerinde",
+    "Solungaçlarında"
   ],
   "hashtags": [
     "#FactBite",
-    "#balina",
-    "#okyanus",
-    "#bilim",
-    "#doğa",
-    "#keşif",
-    "#ilginçbilgiler"
+    "#Balıklar",
+    "#DoğaMucizeleri",
+    "#DenizAltı",
+    "#BilimselGerçekler",
+    "#İlginçBilgiler",
+    "#Keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق المثيرة مثل هذه!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts!",
+    "es": "¡Mantente atento para más datos sorprendentes!",
+    "ar": "ابق على تواصل لمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 10,
+    "shareability": 9,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Marine Mammal Science",
-    "url": "https://www.marinemammalscience.org"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balinaların Nefes Alma Sırrı",
+  "_topic": "Denizlerin Şaşırtıcı Dokunma Duyusu",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-06T14:15:27.176628+00:00",
+  "generated_at": "2026-09-06T15:57:59.626051+00:00",
   "topic_guard_days": 180
 }

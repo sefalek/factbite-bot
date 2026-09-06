@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kanguruların İki Ayrı Karnı Vardır",
-    "body": "Kanguruların sadece yavrularını taşıdıkları bir keseleri yoktur; dişilerin iki ayrı rahmi ve buna bağlı olarak iki farklı vajinal kanalı bulunur. Bu biyolojik yapı, annenin neredeyse hiç durmaksızın hamile kalabilmesini ve farklı gelişim aşamalarındaki yavrulara aynı anda bakabilmesini sağlar."
+    "headline": "Kuşlar Nasıl Oluyor Da Ağaçlara Çarpmadan Uçabiliyor?",
+    "body": "Ormanda tam gaz uçan bir kuşun asla bir dala çarpmadığını hiç fark ettiniz mi? Bunun sırrı gözlerinde gizli. Kuşların gözleri kafalarına göre o kadar büyüktür ki neredeyse hiç hareket etmez. Bu yüzden kafalarını sürekli sağa sola çevirerek çevrelerini tararlar. Asıl büyü ise beyinlerindeki özel bir haritalama sisteminde saklı; uçarken gördükleri her nesnenin hızını ve mesafesini saniyenin çok küçük bir diliminde hesaplayıp rotalarını anında değiştirirler."
   },
   "en": {
-    "headline": "Kangaroos Have Two Separate Utteri",
-    "body": "Kangaroos don't just have a pouch for carrying their young; females have two separate uteri and correspondingly two distinct vaginal canals. This biological structure allows the mother to be pregnant almost continuously and care for young at different developmental stages simultaneously."
+    "headline": "How Do Birds Fly Through Forests Without Hitting Trees?",
+    "body": "Have you ever noticed how birds flying at full speed through a forest never seem to crash into a branch? The secret lies in their eyes. A bird's eyes are so large relative to its head that they barely move at all. Because of this, they constantly flick their heads to scan their surroundings. The real magic happens in a specialized mapping system in their brains, where they calculate the speed and distance of every object in milliseconds and adjust their flight path instantly."
   },
   "es": {
-    "headline": "Los canguros tienen dos úteros",
-    "body": "Los canguros no solo tienen una bolsa para llevar a sus crías; las hembras tienen dos úteros separados y, en consecuencia, dos canales vaginales distintos. Esta estructura biológica permite a la madre estar embarazada casi continuamente y cuidar crías en diferentes etapas de desarrollo."
+    "headline": "¿Cómo logran las aves volar entre los árboles sin chocarse?",
+    "body": "¿Alguna vez has notado que las aves que vuelan a toda velocidad por un bosque nunca chocan contra una rama? El secreto está en sus ojos. Los ojos de las aves son tan grandes en proporción a su cabeza que casi no se mueven. Por eso, mueven constantemente la cabeza para escanear su entorno. La verdadera magia ocurre en un sistema de mapeo especializado en sus cerebros, donde calculan la velocidad y distancia de cada objeto en milisegundos."
   },
   "ar": {
-    "headline": "تمتلك الكنغري رحمين منفصلين",
-    "body": "لا تمتلك الكناغر جيباً لحمل صغارها فحسب؛ بل تمتلك الإناث أيضاً رحمين منفصلين وما يقابلهما من قناتي مهبل منفصلتين. تتيح هذه البنية البيولوجية للأم أن تكون حاملًا بشكل شبه مستمر."
+    "headline": "كيف تستطيع الطيور الطيران بين الأشجار دون أن تصطدم بها؟",
+    "body": "هل لاحظت من قبل كيف أن الطيور التي تطير بسرعة فائقة في الغابة لا تصطدم أبداً بالأغصان؟ السر يكمن في عيونها. عيون الطيور كبيرة جداً لدرجة أنها بالكاد تتحرك داخل محاجرها، لذا فهي تحرك رؤوسها باستمرار لمسح محيطها. السحر الحقيقي يكمن في نظام رسم خرائط خاص في أدمغتها يحسب سرعة ومسافة كل شيء في جزء من الألف من الثانية."
   },
   "reel_hook": {
-    "tr": "Bir kangurunun aynı anda üç farklı gebelik yaşayabileceğini biliyor muydunuz?",
-    "en": "Did you know a kangaroo can experience three different pregnancies at the same time?",
-    "es": "¿Sabías que un canguro puede experimentar tres embarazos diferentes al mismo tiempo?",
-    "ar": "هل كنت تعلم أن الكنغر يمكنه تجربة ثلاثة أحمال مختلفة في نفس الوقت؟"
+    "tr": "Ormanda tam gaz uçan bir kuş neden asla ağaçlara çarpmaz?",
+    "en": "Why do birds flying at full speed never crash into trees?",
+    "es": "¿Por qué las aves que vuelan a toda velocidad nunca chocan contra los árboles?",
+    "ar": "لماذا لا تصطدم الطيور التي تطير بسرعة فائقة بالأشجار أبداً؟"
   },
   "story_question": {
-    "tr": "Dişi bir kangurunun kaç tane rahmi vardır?",
-    "en": "How many uteruses does a female kangaroo have?",
-    "es": "¿Cuántos úteros tiene una hembra de canguro?",
-    "ar": "كم عدد أرحام أنثى الكنغر؟"
+    "tr": "Kuşların gözleri kafalarının içinde neden neredeyse hiç hareket etmez?",
+    "en": "Why do birds' eyes barely move inside their heads?",
+    "es": "¿Por qué los ojos de las aves casi no se mueven dentro de sus cabezas?",
+    "ar": "لماذا بالكاد تتحرك عيون الطيور داخل رؤوسها؟"
   },
   "story_options": [
-    "1",
-    "2",
-    "3"
+    "Çok büyük oldukları için",
+    "Göz kasları olmadığı için",
+    "Görüş alanlarını genişletmek için"
   ],
   "hashtags": [
     "#FactBite",
-    "#kanguru",
-    "#biyoloji",
-    "#ilginçbilgiler",
+    "#bilim",
     "#doğa",
-    "#vahşiyaşam",
-    "#bilim"
+    "#kuşlar",
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Benzer biyolojik sırları kaçırmamak için bizi takip edin!",
-    "en": "Follow us so you don't miss similar biological secrets!",
-    "es": "¡Síguenos para no perderte secretos biológicos similares!",
-    "ar": "تابعنا لكي لا تفوتك الأسرار البيولوجية المماثلة!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 9,
+    "surprise": 8,
+    "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.5
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Ornithology and Avian Vision Studies",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kanguruların İki Ayrı Karnı Vardır",
+  "_topic": "Kuşlar Nasıl Oluyor Da Ağaçlara Çarpmadan Uçabiliyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-06T21:03:06.694818+00:00",
+  "generated_at": "2026-09-06T22:20:05.593566+00:00",
   "topic_guard_days": 180
 }

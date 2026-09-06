@@ -1,70 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Zürafaların Ses Telleri Yoktur",
-    "body": "Dünyanın en uzun boyunlu hayvanları olan zürafaların hiç ses teli olmadığını biliyor muydunuz? Çoğu insan onların tamamen sessiz olduğunu sanır, ancak zürafalar kükremez veya miyavlamaz; bunun yerine geceleri insan kulaklığının duyamayacağı kadar düşük frekansta, yani infrasound adı verilen derin seslerle birbirleriyle iletişim kurarlar."
+    "headline": "Balinaların Nefes Alma Sırrı",
+    "body": "Dev okyanus memelileri olan balinalar su altında nefes alamazlar, bu yüzden oksijen depolamak için inanılmaz bir fizyolojiye sahiptirlər."
   },
   "en": {
-    "headline": "Giraffes Have No Vocal Cords",
-    "body": "Did you know that giraffes, the tallest animals on Earth, have no vocal cords at all? Most people think they are completely silent, but giraffes don't roar or meow; instead, they communicate at night using ultra-low frequencies below human hearing, known as infrasound."
+    "headline": "The Secret of Whale Breathing",
+    "body": "Giant ocean mammals cannot breathe underwater, so they have an incredible physiology to store oxygen."
   },
   "es": {
-    "headline": "Las jirafas no tienen cuerdas vocales",
-    "body": "¿Sabías que las jirafas, los animales más altos de la Tierra, no tienen cuerdas vocales? La mayoría piensa que son totalmente silenciosas, pero se comunican de noche usando frecuencias ultrabajas inaudibles para los humanos, llamadas infrasonido."
+    "headline": "El secreto de la respiración de las ballenas",
+    "body": "Los mamíferos marinos gigantes no pueden respirar bajo el agua, por lo que tienen una fisiología increíble para almacenar oxígeno."
   },
   "ar": {
-    "headline": "الزرافات ليس لديهم أوتار صوتية",
-    "body": "هل تعلم أن الزرافات، أطول حيوانات على الأرض، ليس لها أوتار صوتية على الإطلاق؟ يعتقد معظم الناس أنها صامتة تماماً، لكنها تتواصل ليلاً باستخدام ترددات منخفضة جداً لا تذنها الأذن البشرية تسمى الموجات دون الصوتية."
+    "headline": "سر تنفس الحيتان",
+    "body": "لا تستطيع ثدييات المحيط العملاقة التنفس تحت الماء، لذا فهي تمتلك فسيولوجيا مذهلة لتخزين الأكسجين."
   },
   "reel_hook": {
-    "tr": "Zürafaların aslında hiç ses teli olmadığını biliyor muydunuz?",
-    "en": "Did you know giraffes actually have no vocal cords?",
-    "es": "¿Sabías que las jirafas en realidad no tienen cuerdas vocales?",
-    "ar": "هل تعلم أن الزرافات ليس لديهم أوتار صوتية حقاً؟"
+    "tr": "Okyanusun en büyük canlısı saatlerce nefes almadan nasıl kalabiliyor?",
+    "en": "How can the largest creature in the ocean stay without breathing for hours?",
+    "es": "¿Cómo puede la criatura más grande del océano pasar horas sin respirar?",
+    "ar": "كيف يمكن لأكبر مخلوق في المحيط البقاء دون تنفس لعدة ساعات؟"
   },
   "story_question": {
-    "tr": "Zürafalar birbirleriyle iletişim kurmak için hangi yöntemi kullanır?",
-    "en": "Which method do giraffes use to communicate with each other?",
-    "es": "¿Qué método usan las jirafas para comunicarse entre sí?",
-    "ar": "ما هي الطريقة التي تستخدمها الزرافات للتواصل مع بعضها البعض؟"
+    "tr": "Sizce bir mavi balina su altında ne kadar süre kalabilir?",
+    "en": "How long do you think a blue whale can stay underwater?",
+    "es": "¿Cuánto tiempo crees que una ballena azul puede permanecer bajo el agua?",
+    "ar": "كم تعتقد أن الحوت الأزرق يمكن أن يبقى تحت الماء؟"
   },
   "story_options": [
-    "İnsanların duyamayacağı düşük frekanslı sesler",
-    "Yüksek frekanslı ıslıklar",
-    "Boyunlarını birbirine vurarak çıkan titreşimler"
+    "30 Dakika",
+    "90 Dakika",
+    "3 Saat"
   ],
   "hashtags": [
     "#FactBite",
-    "#zürafa",
-    "#bilgi",
-    "#doğa",
-    "#hayvanlar",
+    "#balina",
+    "#okyanus",
     "#bilim",
-    "#ilgincbilgiler",
-    "#keşfet"
+    "#doğa",
+    "#keşif",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق المثيرة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "San Diego Zoo Wildlife Alliance",
-    "url": "https://animals.sandiegozoo.org/animals/giraffe"
+    "name": "Marine Mammal Science",
+    "url": "https://www.marinemammalscience.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Zürafaların Ses Telleri Yoktur",
+  "_topic": "Balinaların Nefes Alma Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-06T12:09:21.748454+00:00",
+  "generated_at": "2026-09-06T14:15:27.176628+00:00",
   "topic_guard_days": 180
 }

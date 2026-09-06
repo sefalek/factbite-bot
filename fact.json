@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Sakin Devleri: Balinalar Uyurken Neden Batmaz?",
-    "body": "Kilometrelerce derinliğe dalabilen devasa balinalar, okyanusun ortasında nasıl uyur? Su altında nefes almak zorunda olan bu memeliler, okyanus tabanına çökmemek için beyinlerinin yalnızca yarısını uyuturlar. Diğer yarı ise yüzmeye ve nefes almaya devam etmelerini sağlar."
+    "headline": "Kanguruların İki Ayrı Karnı Vardır",
+    "body": "Kanguruların sadece yavrularını taşıdıkları bir keseleri yoktur; dişilerin iki ayrı rahmi ve buna bağlı olarak iki farklı vajinal kanalı bulunur. Bu biyolojik yapı, annenin neredeyse hiç durmaksızın hamile kalabilmesini ve farklı gelişim aşamalarındaki yavrulara aynı anda bakabilmesini sağlar."
   },
   "en": {
-    "headline": "Gentle Giants of the Sea: Why Whales Don't Sink While Sleeping",
-    "body": "How do massive whales that dive to incredible depths sleep in the middle of the ocean? As mammals that need to breathe air, they put only half of their brain to sleep at a time to avoid sinking, keeping the other half active to swim and surface for air."
+    "headline": "Kangaroos Have Two Separate Utteri",
+    "body": "Kangaroos don't just have a pouch for carrying their young; females have two separate uteri and correspondingly two distinct vaginal canals. This biological structure allows the mother to be pregnant almost continuously and care for young at different developmental stages simultaneously."
   },
   "es": {
-    "headline": "Gigantes gentiles del mar: Por qué las ballenas no se hunden al dormir",
-    "body": "¿Cómo duermen en medio del océano las ballenas masivas que bucean a profundidades increíbles? Como mamíferos que necesitan respirar aire, duermen solo la mitad de su cerebro a la vez para evitar hundirse, manteniendo la otra mitad activa para nadar y salir a la superficie."
+    "headline": "Los canguros tienen dos úteros",
+    "body": "Los canguros no solo tienen una bolsa para llevar a sus crías; las hembras tienen dos úteros separados y, en consecuencia, dos canales vaginales distintos. Esta estructura biológica permite a la madre estar embarazada casi continuamente y cuidar crías en diferentes etapas de desarrollo."
   },
   "ar": {
-    "headline": "عمالقة البحر اللطفاء: لماذا لا تغرق الحيتان أثناء نومها؟",
-    "body": "كيف تنام الحيتان الضخمة التي تغوص لمسافات عميقة في وسط المحيط؟ وباعتبارها ثدييات تحتاج إلى تنفس الهواء، فإنها تنم نصف دماغها فقط في كل مرة لتجنب الغرق، مما يحافظ على النصف الآخر نشطًا للسباحة والصعود إلى السطح."
+    "headline": "تمتلك الكنغري رحمين منفصلين",
+    "body": "لا تمتلك الكناغر جيباً لحمل صغارها فحسب؛ بل تمتلك الإناث أيضاً رحمين منفصلين وما يقابلهما من قناتي مهبل منفصلتين. تتيح هذه البنية البيولوجية للأم أن تكون حاملًا بشكل شبه مستمر."
   },
   "reel_hook": {
-    "tr": "Okyanusun ortasında uyuyan tonlarca ağırlıktaki bir dev neden asla boğulmaz veya dibe batmaz?",
-    "en": "Why does a sleeping giant weighing tons in the middle of the ocean never drown or sink to the bottom?",
-    "es": "¿Por qué un gigante dormido que pesa toneladas en medio del océano nunca se ahoga ni se hunde hasta el fondo?",
-    "ar": "لماذا لا يغرق عملاق نائم يزن أطنانًا في وسط المحيط أبدًا أو يهبط إلى القاع؟"
+    "tr": "Bir kangurunun aynı anda üç farklı gebelik yaşayabileceğini biliyor muydunuz?",
+    "en": "Did you know a kangaroo can experience three different pregnancies at the same time?",
+    "es": "¿Sabías que un canguro puede experimentar tres embarazos diferentes al mismo tiempo?",
+    "ar": "هل كنت تعلم أن الكنغر يمكنه تجربة ثلاثة أحمال مختلفة في نفس الوقت؟"
   },
   "story_question": {
-    "tr": "Uykudayken bile yüzmeye devam eden bu devlerin beyinleri nasıl çalışır?",
-    "en": "How do the brains of these giants work so they keep swimming even while asleep?",
-    "es": "¿Cómo funcionan los cerebros de estos gigantes para seguir nadando incluso mientras duermen?",
-    "ar": "كيف تعمل أدمغة هؤلاء العمالقة لكي يستمروا في السباحة حتى أثناء النوم؟"
+    "tr": "Dişi bir kangurunun kaç tane rahmi vardır?",
+    "en": "How many uteruses does a female kangaroo have?",
+    "es": "¿Cuántos úteros tiene una hembra de canguro?",
+    "ar": "كم عدد أرحام أنثى الكنغر؟"
   },
   "story_options": [
-    "Beyinlerinin yarısı uyanık kalır",
-    "Sadece su yüzeyinde uyurlar",
-    "Özel bir hava kesesi kullanırlar"
+    "1",
+    "2",
+    "3"
   ],
   "hashtags": [
     "#FactBite",
-    "#balina",
-    "#okyanus",
-    "#bilim",
+    "#kanguru",
+    "#biyoloji",
+    "#ilginçbilgiler",
     "#doğa",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#vahşiyaşam",
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos asombrosos de la naturaleza como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Benzer biyolojik sırları kaçırmamak için bizi takip edin!",
+    "en": "Follow us so you don't miss similar biological secrets!",
+    "es": "¡Síguenos para no perderte secretos biológicos similares!",
+    "ar": "تابعنا لكي لا تفوتك الأسرار البيولوجية المماثلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "Marine Mammal Science",
-    "url": "https://onlinelibrary.wiley.com/journal/17487692"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Sakin Devleri: Balinalar Uyurken Neden Batmaz?",
+  "_topic": "Kanguruların İki Ayrı Karnı Vardır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-06T19:02:48.388553+00:00",
+  "generated_at": "2026-09-06T21:03:06.694818+00:00",
   "topic_guard_days": 180
 }

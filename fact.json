@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Görünmez Sesi",
-    "body": "Yunuslar birbirleriyle iletişim kurarken aslında sadece ses çıkarmazlar; çıkardıkları ses dalgaları o kadar güçlüdür ki, avlarının iç organlarını bir röntgen gibi görebilirler. Yani yunuslar, karşısındakini sadece duymakla kalmaz, aynı zamanda adeta kemiklerine kadar resmini çekerler."
+    "headline": "Kuşların Göz Kapakları Hakkında Şaşırtıcı Gerçek",
+    "body": "Gözlerini kırptıklarında ne olduğunu hiç merak ettiniz mi? Çoğu hayvanın aksine bazı kuşların göz kapakları dikey olarak kapanır ve tamamen şeffaftır. Bu sayede hem uçuş sırasında gözleri rüzgardan ve tozdan korunur hem de görüş açısı hiç kapanmaz."
   },
   "en": {
-    "headline": "The Invisible Voice of the Sea",
-    "body": "When dolphins communicate, they don't just make sounds; their sound waves are so powerful that they can see inside their prey's organs like an X-ray. This means dolphins don't just hear each other—they practically take an internal snapshot."
+    "headline": "The Surprising Truth About Bird Eyelids",
+    "body": "Have you ever wondered what happens when they blink? Unlike most animals, some birds have eyelids that close vertically and are completely transparent. This protects their eyes from wind and dust during flight while keeping their vision unobstructed."
   },
   "es": {
-    "headline": "La Voz Invisible del Mar",
-    "body": "Cuando los delfines se comunican, no solo emiten sonidos; sus ondas sonoras son tan potentes que pueden ver el interior de los órganos de sus presas como una radiografía. Es decir, los delfines no solo se escuchan, sino que prácticamente se escanean por dentro."
+    "headline": "La sorprendente verdad sobre los párpados de las aves",
+    "body": "¿Alguna vez te has preguntado qué pasa cuando parpadean? A diferencia de la mayoría de los animales, algunas aves tienen párpados que se cierran verticalmente y son completamente transparentes. Esto protege sus ojos del viento y el polvo durante el vuelo sin bloquear su visión."
   },
   "ar": {
-    "headline": "صوت البحر الخفي",
-    "body": "عندما تتواصل الدلافين، فهي لا تصدر أصواتاً فحسب؛ بل إن موجاتها الصوتية قوية لدرجة أنها تستطيع رؤية أعضاء فرائسها الداخلية وكأنها أشعة سينية. هذا يعني أن الدلافين لا تسمع بعضها البعض فقط، بل تلتقط صورة داخلية لبعضها."
+    "headline": "الحقيقة المدهشة حول جفون الطيور",
+    "body": "هل فكرت يوماً فيما يحدث عندما ترفرف أجفانها؟ على عكس معظم الحيوانات، تمتلك بعض الطيور أجفانًا تغلق عمودياً وهي شفافة تماماً. هذا يحمي عيونها من الرياح والغبار أثناء الطيران دون حجب رؤيتها."
   },
   "reel_hook": {
-    "tr": "Yunusların çıkardığı o sesler aslında ne anlama geliyor?",
-    "en": "What do those sounds made by dolphins actually mean?",
-    "es": "¿Qué significan realmente esos sonidos que hacen los delfines?",
-    "ar": "ماذا تعني حقاً تلك الأصوات التي تصدرها الدلافين؟"
+    "tr": "Uçarken gözleri tamamen açık ama aslında göz kırpıyorlar! Nasıl mı?",
+    "en": "Their eyes are wide open while flying, but they are actually blinking! How?",
+    "es": "¡Sus ojos están bien abiertos mientras vuelan, pero en realidad están parpadeando! ¿Cómo?",
+    "ar": "عيناهما مفتوحتان عريضتان أثناء الطيران، لكنهما ترفرفان بالفعل! كيف؟"
   },
   "story_question": {
-    "tr": "Yunusların bu özel yeteneği sizce ne olarak adlandırılır?",
-    "en": "What do you think this special ability of dolphins is called?",
-    "es": "¿Cómocrees que se llama esta habilidad especial de los delfines?",
-    "ar": "برأيك، ما هو اسم هذه القدرة الخاصة لدى الدلافين؟"
+    "tr": "Kuşların gözlerini koruyan şeffaf üçüncü göz kapağına ne ad verilir?",
+    "en": "What is the transparent third eyelid that protects birds' eyes called?",
+    "es": "¿Cómo se llama el tercer párpado transparente que protege los ojos de las aves?",
+    "ar": "ما هو اسم الجفن الثالث الشفاف الذي يحمي عيون الطيور؟"
   },
   "story_options": [
-    "Biyolojik Sonar (Ekolokasyon)",
-    "Su Altı Telepatisi",
-    "Manyetik Alan Algısı"
+    "Niktitan Zar",
+    "Kornea Perdesi",
+    "Retina Kalkanı"
   ],
   "hashtags": [
     "#FactBite",
-    "#yunuslar",
-    "#bilim",
-    "#deniz",
-    "#ilginçbilgiler",
-    "#doğa"
+    "#Kuşlar",
+    "#Biyoloji",
+    "#Doğa",
+    "#Bilim",
+    "#İlginçBilgiler",
+    "#Hayvanlarlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla büyüleyici gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fasinantes como este!",
+    "ar": "لا تنس متابعة المزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Ornithology Research & Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Görünmez Sesi",
+  "_topic": "Kuşların Göz Kapakları Hakkında Şaşırtıcı Gerçek",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-05T22:16:21.400638+00:00",
+  "generated_at": "2026-09-06T10:52:25.999055+00:00",
   "topic_guard_days": 180
 }

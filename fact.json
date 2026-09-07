@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıkların da Öksürdüğünü Biliyor muydunuz?",
-    "body": "Denizlerde yaşayan kemikli balıkların solungaçlarında solunum sırasında biriken yabancı maddeleri ve parazitleri atmak için kullandığı özel bir 'öksürük' mekanizması vardır. Su altındaki bu refleks, tıpkı insanlardaki gibi solunum yollarını temizler."
+    "headline": "Denizlerin Hayaletleri: Yengeçlerin Kalbi Nerededir?",
+    "body": "Omurgalıların aksine yengeçlerin kalbi göğsünde değil, tam arkalarında, kabuklarının hemen altındaki korunaklı bölgede yer alır. Bu şaşırtıcı konum, vücutlarındaki dolaşım sisteminin bizim bildiğimizden çok daha farklı çalışmasını sağlar."
   },
   "en": {
-    "headline": "Did You Know Fish Can Cough?",
-    "body": "Bony fish living in the oceans have a special 'coughing' mechanism used to expel foreign particles and parasites that accumulate in their gills during respiration. This underwater reflex cleans their respiratory tracts just like it does in humans."
+    "headline": "Ghosts of the Sea: Where is a Crab's Heart?",
+    "body": "Unlike vertebrates, a crab's heart is not in its chest, but right in its back, located in a protected area just beneath its shell. This surprising location allows their circulatory system to function quite differently from what we know."
   },
   "es": {
-    "headline": "¿Sabías que los peces también tosen?",
-    "body": "Los peces óseos que viven en los océanos tienen un mecanismo especial de 'tos' que utilizan para expulsar partículas extrañas y parásitos que se acumulan en sus branquias durante la respiración. Este reflejo subacuático limpia sus vías respiratorias al igual que en los humanos."
+    "headline": "Fantasmas del mar: ¿Dónde está el corazón de un cangrejo?",
+    "body": "A diferencia de los vertebrados, el corazón de un cangrejo no está en su pecho, sino justo en su espalda, ubicado en una zona protegida justo debajo de su caparazón. Esta sorprendente ubicación permite que su sistema circulatorio funcione de manera muy diferente a lo que conocemos."
   },
   "ar": {
-    "headline": "هل كنت تعلم أن الأسماك تسعل أيضاً؟",
-    "body": "تمتلك الأسماك العظمية التي تعيش في المحيطات آلية 'سعال' خاص تُستخدم طرد الجزيئات الغريبة والطفيليات التي تتراكم في خياشيمها أثناء التنفس. هذا الانعكاس تحت الماء ينظف مجاريها التنفسية تماماً كما يحدث لدى البشر."
+    "headline": "أشباح البحر: أين يقع قلب السلطعون؟",
+    "body": "على عكس الفقاريات، لا يقع قلب السلطعون في صدره، بل في ظهر مباشرة، في منطقة محمية تحت درقته مباشرة. يسمح هذا الموقع المدهش لجهازه الدوري بالعمل بشكل مختلف تماماً عما نعرفه."
   },
   "reel_hook": {
-    "tr": "Su altında öksüren bir canlı hayal edin...",
-    "en": "Imagine a creature coughing underwater...",
-    "es": "Imagina una criatura tosiendo bajo el agua...",
-    "ar": "تخيل مخلوقاً يسعل تحت الماء..."
+    "tr": "Vücudumuzdaki kalbin yerini çok iyi biliyoruz, peki ya yengeçlerin kalbinin nerede atığını hiç düşündünüz mü?",
+    "en": "We know very well where the heart is in our body, but have you ever wondered where a crab's heart beats?",
+    "es": "Sabemos muy bien dónde está el corazón en nuestro cuerpo, pero ¿alguna vez te has preguntado dónde late el corazón de un cangrejo?",
+    "ar": "نحن نعلم جيداً مكان القلب في أجسادنا، ولكن هل تساءلت يوماً أين ينبض قلب السلطعون؟"
   },
   "story_question": {
-    "tr": "Balıklar solungaçlarındaki artıkları temizlemek için hangi refleksi kullanır?",
-    "en": "What reflex do fish use to clean debris in their gills?",
-    "es": "¿Qué reflejo usan los peces para limpiar los restos en sus branquias?",
-    "ar": "ما هو الانعكاس الذي تستخدمه الأسماك لتنظيف البقايا في خياشيمها؟"
+    "tr": "Sizce yengeçlerin kalbi vücutlarının hangi bölgesindedir?",
+    "en": "In which part of their body do you think a crab's heart is located?",
+    "es": "¿En qué parte de su cuerpo crees que se encuentra el corazón de un cangrejo?",
+    "ar": "في أي جزء من جسمك تعتقد أن قلب السلطعون يقع؟"
   },
   "story_options": [
-    "Hapşırma",
-    "Öksürme",
-    "Kusma"
+    "Kıskaçlarında",
+    "Kabuğunun arkasında",
+    "Kuyruğunda"
   ],
   "hashtags": [
     "#FactBite",
-    "#balıklar",
-    "#denizaltı",
     "#bilim",
     "#ilginçbilgiler",
     "#doğa",
-    "#keşfet"
+    "#deniz",
+    "#keşfet",
+    "#biliyormusunuz"
   ],
   "cta": {
-    "tr": "Bunu daha önce duymuş muydun? Yorumlarda buluşalım!",
-    "en": "Had you ever heard of this before? Let us know in the comments!",
-    "es": "¿Habías oído hablar de esto antes? ¡Cuéntanos en los comentarios!",
-    "ar": "هل سمعت بهذا من قبل؟ شاركنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip etmeyi unutma!",
+    "en": "Don't forget to follow to not miss more surprising facts like this!",
+    "es": "¡No olvides seguirnos para no perderte más datos sorprendentes como este!",
+    "ar": "لا تنس المتابعة لكي لا تفوتك المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Journal of Experimental Biology",
-    "url": "https://jeb.biologists.org/"
+    "name": "Marine Biology Conservation Society",
+    "url": "https://www.marinebiology.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıkların da Öksürdüğünü Biliyor muydunuz?",
+  "_topic": "Denizlerin Hayaletleri: Yengeçlerin Kalbi Nerededir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-07T16:32:50.555494+00:00",
+  "generated_at": "2026-09-07T18:04:46.029468+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Hayaletleri: Yengeçlerin Kalbi Nerededir?",
-    "body": "Omurgalıların aksine yengeçlerin kalbi göğsünde değil, tam arkalarında, kabuklarının hemen altındaki korunaklı bölgede yer alır. Bu şaşırtıcı konum, vücutlarındaki dolaşım sisteminin bizim bildiğimizden çok daha farklı çalışmasını sağlar."
+    "headline": "Kuşlar Zıplayarak Değil, Neden Farklı Bir Yöntemle Yükselir?",
+    "body": "Gökyüzünün hakimleriyle ilgili bildiğiniz her şeyi unutun. Kuşlar dalgalardan havalanırken fizik kurallarını altüst eden inanılmaz bir aerodinamik sır kullanır. Kanatlarını çırparken oluşturdukları görünmez hava girdapları, gövde ağırlıklarını sıfıra indirir."
   },
   "en": {
-    "headline": "Ghosts of the Sea: Where is a Crab's Heart?",
-    "body": "Unlike vertebrates, a crab's heart is not in its chest, but right in its back, located in a protected area just beneath its shell. This surprising location allows their circulatory system to function quite differently from what we know."
+    "headline": "Why Birds Don't Just Jump to Take Flight",
+    "body": "Forget everything you know about rulers of the sky. Birds use an incredible aerodynamic secret that defies physics when taking off from waves. The invisible air vortices they create while flapping reduce their body weight to zero."
   },
   "es": {
-    "headline": "Fantasmas del mar: ¿Dónde está el corazón de un cangrejo?",
-    "body": "A diferencia de los vertebrados, el corazón de un cangrejo no está en su pecho, sino justo en su espalda, ubicado en una zona protegida justo debajo de su caparazón. Esta sorprendente ubicación permite que su sistema circulatorio funcione de manera muy diferente a lo que conocemos."
+    "headline": "Por qué las aves no solo saltan para volar",
+    "body": "Olvida todo lo que sabes sobre los reyes del cielo. Las aves usan un secreto aerodinámico increíble que desafía la física al despegar. Los vórtices de aire invisibles que crean al batir sus alas reducen su peso corporal a cero."
   },
   "ar": {
-    "headline": "أشباح البحر: أين يقع قلب السلطعون؟",
-    "body": "على عكس الفقاريات، لا يقع قلب السلطعون في صدره، بل في ظهر مباشرة، في منطقة محمية تحت درقته مباشرة. يسمح هذا الموقع المدهش لجهازه الدوري بالعمل بشكل مختلف تماماً عما نعرفه."
+    "headline": "لماذا لا تقفز الطيور فقط للإقلاع",
+    "body": "انسه كل ما تعرفه عن ملوك السماء. تستخدم الطيور سرًا ديناميكيًا هوائيًا مذهلاً يتحدى الفيزياء عند الإقلاع. الدوامات الهوائية غير المرئية التي تخفق بها تقلل من وزن أجسامها إلى الصفر."
   },
   "reel_hook": {
-    "tr": "Vücudumuzdaki kalbin yerini çok iyi biliyoruz, peki ya yengeçlerin kalbinin nerede atığını hiç düşündünüz mü?",
-    "en": "We know very well where the heart is in our body, but have you ever wondered where a crab's heart beats?",
-    "es": "Sabemos muy bien dónde está el corazón en nuestro cuerpo, pero ¿alguna vez te has preguntado dónde late el corazón de un cangrejo?",
-    "ar": "نحن نعلم جيداً مكان القلب في أجسادنا، ولكن هل تساءلت يوماً أين ينبض قلب السلطعون؟"
+    "tr": "Kuşların uçarken yer çekimine nasıl meydan okuduğunu biliyor musunuz?",
+    "en": "Do you know how birds defy gravity while flying?",
+    "es": "¿Sabes cómo las aves desafían la gravedad al volar?",
+    "ar": "هل تعلم كيف تتحدى الطيور الجاذبية أثناء الطيران؟"
   },
   "story_question": {
-    "tr": "Sizce yengeçlerin kalbi vücutlarının hangi bölgesindedir?",
-    "en": "In which part of their body do you think a crab's heart is located?",
-    "es": "¿En qué parte de su cuerpo crees que se encuentra el corazón de un cangrejo?",
-    "ar": "في أي جزء من جسمك تعتقد أن قلب السلطعون يقع؟"
+    "tr": "Kuşların havada kalmasını sağlayan temel aerodinamik güç nedir?",
+    "en": "What is the primary aerodynamic force keeping birds in the air?",
+    "es": "¿Cuál es la fuerza aerodinámica principal que mantiene a las aves en el aire?",
+    "ar": "ما هي القوة الديناميكية الهوائية الأساسية التي تبقي الطيور في الهواء؟"
   },
   "story_options": [
-    "Kıskaçlarında",
-    "Kabuğunun arkasında",
-    "Kuyruğunda"
+    "Hava girdapları",
+    "Güçlü kaslar",
+    "Hafif kemikler"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
     "#doğa",
-    "#deniz",
+    "#bilim",
+    "#kuşlar",
+    "#fizik",
     "#keşfet",
-    "#biliyormusunuz"
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip etmeyi unutma!",
-    "en": "Don't forget to follow to not miss more surprising facts like this!",
-    "es": "¡No olvides seguirnos para no perderte más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة لكي لا تفوتك المزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Benzer şaşırtıcı gerçekler için bizi takip etmeyi unutmayın!",
+    "en": "Don't forget to follow us for more amazing facts!",
+    "es": "¡No olvides seguirnos para más datos increíbles!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Marine Biology Conservation Society",
-    "url": "https://www.marinebiology.org"
+    "name": "Ornithology and Aerodynamics Research",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Hayaletleri: Yengeçlerin Kalbi Nerededir?",
+  "_topic": "Kuşlar Zıplayarak Değil, Neden Farklı Bir Yöntemle Yükselir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-07T18:04:46.029468+00:00",
+  "generated_at": "2026-09-07T19:02:29.360195+00:00",
   "topic_guard_days": 180
 }

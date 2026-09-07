@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Zıplayarak Değil, Neden Farklı Bir Yöntemle Yükselir?",
-    "body": "Gökyüzünün hakimleriyle ilgili bildiğiniz her şeyi unutun. Kuşlar dalgalardan havalanırken fizik kurallarını altüst eden inanılmaz bir aerodinamik sır kullanır. Kanatlarını çırparken oluşturdukları görünmez hava girdapları, gövde ağırlıklarını sıfıra indirir."
+    "headline": "Ağaçlar Aslında Birbirine Kimyasal Mesajlar Gönderir",
+    "body": "Ormanda bir ağaç böcekler tarafından yenmeye başladığında, köklerindeki mantar ağı aracılığıyla komşu ağaçlara acil durum sinyalleri gönderir. Bu uyarıyı alan diğer ağaçlar, yapraklarının tadını acılaştıran kimyasallar üreterek kendilerini savunmaya başlar."
   },
   "en": {
-    "headline": "Why Birds Don't Just Jump to Take Flight",
-    "body": "Forget everything you know about rulers of the sky. Birds use an incredible aerodynamic secret that defies physics when taking off from waves. The invisible air vortices they create while flapping reduce their body weight to zero."
+    "headline": "Trees Actually Send Chemical Messages to Each Other",
+    "body": "When a tree in the forest starts being eaten by insects, it sends emergency signals to neighboring trees through an underground fungal network. Upon receiving this warning, surrounding trees begin producing chemicals that make their leaves bitter to defend themselves."
   },
   "es": {
-    "headline": "Por qué las aves no solo saltan para volar",
-    "body": "Olvida todo lo que sabes sobre los reyes del cielo. Las aves usan un secreto aerodinámico increíble que desafía la física al despegar. Los vórtices de aire invisibles que crean al batir sus alas reducen su peso corporal a cero."
+    "headline": "Los árboles realmente se envían mensajes químicos entre sí",
+    "body": "Cuando un árbol en el bosque comienza a ser devorado por insectos, envía señales de emergencia a los árboles vecinos a través de una red subterránea de hongos. Al recibir esta advertencia, los árboles circundantes comienzan a producir químicos que amargan sus hojas para defenderse."
   },
   "ar": {
-    "headline": "لماذا لا تقفز الطيور فقط للإقلاع",
-    "body": "انسه كل ما تعرفه عن ملوك السماء. تستخدم الطيور سرًا ديناميكيًا هوائيًا مذهلاً يتحدى الفيزياء عند الإقلاع. الدوامات الهوائية غير المرئية التي تخفق بها تقلل من وزن أجسامها إلى الصفر."
+    "headline": "الأشجار ترسل في الواقع رسائل كيميائية لبعضها البعض",
+    "body": "عندما تبدأ شجرة في الغابة بالتعرض للهجوم من قبل الحشرات، فإنها ترسل إشارات طوارئ إلى الأشجار المجاورة عبر شبكة فطرية تحت الأرض. وعند تلقي هذا التحذير، تبدأ الأشجار المحيطة بإنتاج مواد كيميائية تجعل أوراقها طاردة للحشرات للدفاع عن نفسها."
   },
   "reel_hook": {
-    "tr": "Kuşların uçarken yer çekimine nasıl meydan okuduğunu biliyor musunuz?",
-    "en": "Do you know how birds defy gravity while flying?",
-    "es": "¿Sabes cómo las aves desafían la gravedad al volar?",
-    "ar": "هل تعلم كيف تتحدى الطيور الجاذبية أثناء الطيران؟"
+    "tr": "Ormandaki ağaçların birbirleriyle gizlice konuştuğunu biliyor muydunuz?",
+    "en": "Did you know that trees in the forest secretly talk to each other?",
+    "es": "¿Sabías que los árboles del bosque hablan en secreto entre sí?",
+    "ar": "هل تعلم أن الأشجار في الغابة تتحدث سرا مع بعضها البعض؟"
   },
   "story_question": {
-    "tr": "Kuşların havada kalmasını sağlayan temel aerodinamik güç nedir?",
-    "en": "What is the primary aerodynamic force keeping birds in the air?",
-    "es": "¿Cuál es la fuerza aerodinámica principal que mantiene a las aves en el aire?",
-    "ar": "ما هي القوة الديناميكية الهوائية الأساسية التي تبقي الطيور في الهواء؟"
+    "tr": "Ağaçlar bu tehlike sinyallerini hangi yolla birbirine ulaştırır?",
+    "en": "Through which medium do trees transmit these danger signals to each other?",
+    "es": "¿A través de qué medio transmiten los árboles estas señales de peligro entre sí?",
+    "ar": "من خلال أي وسيلة تنقل الأشجار إشارات الخطر هذه لبعضها البعض؟"
   },
   "story_options": [
-    "Hava girdapları",
-    "Güçlü kaslar",
-    "Hafif kemikler"
+    "Yeraltı mantar ağı",
+    "Rüzgar dalgaları",
+    "Köklerin teması"
   ],
   "hashtags": [
     "#FactBite",
     "#doğa",
     "#bilim",
-    "#kuşlar",
-    "#fizik",
-    "#keşfet",
+    "#ağaçlar",
+    "#orman",
+    "#biyoloji",
     "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için bizi takip etmeyi unutmayın!",
-    "en": "Don't forget to follow us for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos increíbles!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق المذهلة!"
+    "tr": "Benzer şaşırtıcı doğa gerçekleri için takipte kal!",
+    "en": "Follow for more surprising nature facts!",
+    "es": "¡Sígueme para más datos sorprendentes sobre la naturaleza!",
+    "ar": "تابعنا لمزيد من حقائق الطبيعة المدهشة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Aerodynamics Research",
-    "url": "https://www.sciencedaily.com"
+    "name": "The Hidden Life of Trees by Peter Wohlleben",
+    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Zıplayarak Değil, Neden Farklı Bir Yöntemle Yükselir?",
+  "_topic": "Ağaçlar Aslında Birbirine Kimyasal Mesajlar Gönderir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-07T19:02:29.360195+00:00",
+  "generated_at": "2026-09-07T20:29:11.607032+00:00",
   "topic_guard_days": 180
 }

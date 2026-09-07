@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ağaçlar Aslında Birbirine Kimyasal Mesajlar Gönderir",
-    "body": "Ormanda bir ağaç böcekler tarafından yenmeye başladığında, köklerindeki mantar ağı aracılığıyla komşu ağaçlara acil durum sinyalleri gönderir. Bu uyarıyı alan diğer ağaçlar, yapraklarının tadını acılaştıran kimyasallar üreterek kendilerini savunmaya başlar."
+    "headline": "Denizlerin Sakin Devleri Neden Karaya Vurur?",
+    "body": "Deniz analarının kalbi, kemikleri ve hatta beyni yoktur. Buna rağmen milyonlarca yıldır okyanuslarda hayatta kalmayı başarmışlardır. Vücutlarının yüzde doksanından fazlası sudan oluşur ve çevrelerindeki en ufak bir akıntıyı bile hissedebilirler."
   },
   "en": {
-    "headline": "Trees Actually Send Chemical Messages to Each Other",
-    "body": "When a tree in the forest starts being eaten by insects, it sends emergency signals to neighboring trees through an underground fungal network. Upon receiving this warning, surrounding trees begin producing chemicals that make their leaves bitter to defend themselves."
+    "headline": "Why Do Gentle Giants Beach Themselves?",
+    "body": "Jellyfish have no heart, bones, or even a brain. Yet, they have managed to survive in the oceans for millions of years. More than ninety percent of their bodies consist of water, and they can sense even the slightest current around them."
   },
   "es": {
-    "headline": "Los árboles realmente se envían mensajes químicos entre sí",
-    "body": "Cuando un árbol en el bosque comienza a ser devorado por insectos, envía señales de emergencia a los árboles vecinos a través de una red subterránea de hongos. Al recibir esta advertencia, los árboles circundantes comienzan a producir químicos que amargan sus hojas para defenderse."
+    "headline": "¿Por qué varan los gigantes gentiles?",
+    "body": "Las medusas no tienen corazón, huesos ni siquiera cerebro. Sin embargo, han logrado sobrevivir en los océanos durante millones de años. Más del noventa por ciento de sus cuerpos está compuesto de agua y pueden sentir hasta la corriente más leve a su alrededor."
   },
   "ar": {
-    "headline": "الأشجار ترسل في الواقع رسائل كيميائية لبعضها البعض",
-    "body": "عندما تبدأ شجرة في الغابة بالتعرض للهجوم من قبل الحشرات، فإنها ترسل إشارات طوارئ إلى الأشجار المجاورة عبر شبكة فطرية تحت الأرض. وعند تلقي هذا التحذير، تبدأ الأشجار المحيطة بإنتاج مواد كيميائية تجعل أوراقها طاردة للحشرات للدفاع عن نفسها."
+    "headline": "لماذا جنحت العمالقة اللطفاء على الشواطئ؟",
+    "body": "قناديل البحر ليس لها قلب أو عظام أو حتى دماغ. ومع ذلك، فقد تمكنت من البقاء على قيد الحياة في المحيطات لملايين السنين. يتكون أكثر من تسعين بالمائة من أجسامها من الماء، ويمكنها استشعار حتى أبسط تيار حولها."
   },
   "reel_hook": {
-    "tr": "Ormandaki ağaçların birbirleriyle gizlice konuştuğunu biliyor muydunuz?",
-    "en": "Did you know that trees in the forest secretly talk to each other?",
-    "es": "¿Sabías que los árboles del bosque hablan en secreto entre sí?",
-    "ar": "هل تعلم أن الأشجار في الغابة تتحدث سرا مع بعضها البعض؟"
+    "tr": "Beyni olmayan bir canlı, okyanusları nasıl ele geçirdi?",
+    "en": "How did a creature with no brain conquer the oceans?",
+    "es": "¿Cómo conquistó los océanos una criatura sin cerebro?",
+    "ar": "كيف استطاع مخلوق ليس لديه دماغ غزو المحيطات؟"
   },
   "story_question": {
-    "tr": "Ağaçlar bu tehlike sinyallerini hangi yolla birbirine ulaştırır?",
-    "en": "Through which medium do trees transmit these danger signals to each other?",
-    "es": "¿A través de qué medio transmiten los árboles estas señales de peligro entre sí?",
-    "ar": "من خلال أي وسيلة تنقل الأشجار إشارات الخطر هذه لبعضها البعض؟"
+    "tr": "Deniz analarının vücudunun yüzde kaçı sudan oluşur?",
+    "en": "What percentage of a jellyfish's body is water?",
+    "es": "¿Qué porcentaje del cuerpo de una medusa es agua?",
+    "ar": "ما هي النسبة المئوية لمياه جسم قنديل البحر؟"
   },
   "story_options": [
-    "Yeraltı mantar ağı",
-    "Rüzgar dalgaları",
-    "Köklerin teması"
+    "%50",
+    "%75",
+    "%90'dan fazla"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
     "#bilim",
-    "#ağaçlar",
-    "#orman",
-    "#biyoloji",
+    "#doğa",
+    "#okyanus",
+    "#denizanaları",
     "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı doğa gerçekleri için takipte kal!",
-    "en": "Follow for more surprising nature facts!",
-    "es": "¡Sígueme para más datos sorprendentes sobre la naturaleza!",
-    "ar": "تابعنا لمزيد من حقائق الطبيعة المدهشة!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts!",
+    "es": "¡No olvides seguirnos para más datos asombrosos!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "The Hidden Life of Trees by Peter Wohlleben",
-    "url": "https://www.smithsonianmag.com/science-nature/the-whispering-trees-180968084/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/jellyfish"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ağaçlar Aslında Birbirine Kimyasal Mesajlar Gönderir",
+  "_topic": "Denizlerin Sakin Devleri Neden Karaya Vurur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-07T20:29:11.607032+00:00",
+  "generated_at": "2026-09-07T21:55:39.256269+00:00",
   "topic_guard_days": 180
 }

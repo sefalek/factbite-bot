@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Sakin Devleri Neden Karaya Vurur?",
-    "body": "Deniz analarının kalbi, kemikleri ve hatta beyni yoktur. Buna rağmen milyonlarca yıldır okyanuslarda hayatta kalmayı başarmışlardır. Vücutlarının yüzde doksanından fazlası sudan oluşur ve çevrelerindeki en ufak bir akıntıyı bile hissedebilirler."
+    "headline": "Denizlerin Uykusu",
+    "body": "Deniz otellerinde veya akvaryumlarda yüzgeçleri kesilmiş gibi uyuyan balıklar görürsünüz. Ama açık denizdeki bazı köpekbalıkları, örneğin büyük beyazlar, nefes alabilmek için sürekli hareket etmek zorundadır. Solungaçlarından su geçmesi için yüzmeye devam etmeleri gerekir. Peki, durduklarında boğulacaklarını bilen bu devler uykuyu nasıl atlatır? Akıntıya karşı yüzerek yarı bilinçli bir şekilde, adeta uyurgezer gibi yüzmeye devam ederler."
   },
   "en": {
-    "headline": "Why Do Gentle Giants Beach Themselves?",
-    "body": "Jellyfish have no heart, bones, or even a brain. Yet, they have managed to survive in the oceans for millions of years. More than ninety percent of their bodies consist of water, and they can sense even the slightest current around them."
+    "headline": "Sleep of the Seas",
+    "body": "You might see fish resting motionless in tanks. But certain open-ocean sharks, like great whites, must keep moving to breathe. Water must flow over their gills constantly. So how do these giants sleep knowing they'll suffocate if they stop? They swim against currents in a semi-conscious state, essentially sleep-swimming."
   },
   "es": {
-    "headline": "¿Por qué varan los gigantes gentiles?",
-    "body": "Las medusas no tienen corazón, huesos ni siquiera cerebro. Sin embargo, han logrado sobrevivir en los océanos durante millones de años. Más del noventa por ciento de sus cuerpos está compuesto de agua y pueden sentir hasta la corriente más leve a su alrededor."
+    "headline": "El Sueño de los Mares",
+    "body": "Podías ver peces descansando quietos en peceras. Pero ciertos tiburones oceánicos, como el gran blanco, deben seguir moviéndose para respirar. El agua debe fluir sobre sus branquias constantemente. Entonces, ¿cómo duermen estos gigantes sabiendo que se sofocarán si se detienen? Nadan contra las corrientes en un estado semiconsciente."
   },
   "ar": {
-    "headline": "لماذا جنحت العمالقة اللطفاء على الشواطئ؟",
-    "body": "قناديل البحر ليس لها قلب أو عظام أو حتى دماغ. ومع ذلك، فقد تمكنت من البقاء على قيد الحياة في المحيطات لملايين السنين. يتكون أكثر من تسعين بالمائة من أجسامها من الماء، ويمكنها استشعار حتى أبسط تيار حولها."
+    "headline": "نوم البحار",
+    "body": "قد ترى أسماكاً تستريح بهدوء في الأحواض. لكن بعض أسماك القرش المحيطية، مثل القرش الأبيض الكبير، يجب أن تستمر في الحركة لكي تتنفس. يجب أن يتدفق الماء فوق خياشيمها باستمرار. إذن كيف تننام هذه العمالقة وهي تعلم أنها ستختنق إن توقفت؟ تسبح ضد التيار في حالة شبه واعية."
   },
   "reel_hook": {
-    "tr": "Beyni olmayan bir canlı, okyanusları nasıl ele geçirdi?",
-    "en": "How did a creature with no brain conquer the oceans?",
-    "es": "¿Cómo conquistó los océanos una criatura sin cerebro?",
-    "ar": "كيف استطاع مخلوق ليس لديه دماغ غزو المحيطات؟"
+    "tr": "Durdukları anda boğulan bu devler, okyanusta nasıl uyuyor?",
+    "en": "How do these giants that suffocate the moment they stop, sleep in the ocean?",
+    "es": "¿Cómo duermen en el océano estos gigantes que se ahogan en el momento en que se detienen?",
+    "ar": "كيف تنام هذه العمالقة التي تختنق بمجرد توقفها في المحيط؟"
   },
   "story_question": {
-    "tr": "Deniz analarının vücudunun yüzde kaçı sudan oluşur?",
-    "en": "What percentage of a jellyfish's body is water?",
-    "es": "¿Qué porcentaje del cuerpo de una medusa es agua?",
-    "ar": "ما هي النسبة المئوية لمياه جسم قنديل البحر؟"
+    "tr": "Sürekli hareket etmek zorunda olan bu köpekbalıkları uyurken ne yapar?",
+    "en": "What do these sharks that must constantly move do while sleeping?",
+    "es": "¿Qué hacen estos tiburones que deben moverse constantemente mientras duermen?",
+    "ar": "ماذا تفعل أسماك القرش التي يجب أن تتحرك باستمرار أثناء نومها؟"
   },
   "story_options": [
-    "%50",
-    "%75",
-    "%90'dan fazla"
+    "Akıntıya karşı yüzerek yarı bilinçli uyurlar",
+    "Oksijen maskesi takarlar",
+    "Sadece gündüzleri uyurlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
+    "#köpekbalığı",
     "#okyanus",
-    "#denizanaları",
+    "#bilim",
+    "#keşfet",
+    "#doğa",
     "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة!"
+    "tr": "Benzer gerçeği kaçırmamak için takip et!",
+    "en": "Follow so you don't miss similar facts!",
+    "es": "¡Síguete para no perderte datos similares!",
+    "ar": "اتبع حتى لا تفوتك الحقائق المماثلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/jellyfish"
+    "name": "Shark Research Institute",
+    "url": "https://www.sharks.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Sakin Devleri Neden Karaya Vurur?",
+  "_topic": "Denizlerin Uykusu",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-07T21:55:39.256269+00:00",
+  "generated_at": "2026-09-07T23:00:04.214624+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Yuvaları Aslında Birer Mimarlık Harikasıdır",
-    "body": "Kuşların inşa ettiği yuvalar sadece dalların bir araya gelmesiyle oluşmaz. Birçok kuş türü, malzemeleri birbirine kilitlemek için adeta bir örgü mühendisliği kullanır. Bazıları örümcek ağlarını yapıştırıcı olarak bile kullanır."
+    "headline": "Denizlerin Şaşırtıcı Sırrı: Yengeçlerin Kalbi Nerededir?",
+    "body": "Yengeçlerin kalbinin nerede attığını biliyor musunuz? Bu ilginç kabuklu deniz canlılarında kalp, kafatasının hemen arkasında, yani göğüs bölgesinde değil göğüs kafesinde değil, doğrudan kafasında yer alır. Vücut yapıları o kadar farklıdır ki, hayatta kalma mekanizmaları bizi her seferinde şaşırtmaya devam eder."
   },
   "en": {
-    "headline": "Bird Nests Are Actually Architectural Masterpieces",
-    "body": "Nests built by birds are not just random twigs thrown together. Many species use weaving engineering to lock materials in place, and some even use spider silk as glue."
+    "headline": "The Surprising Secret of the Seas: Where is a Crab's Heart?",
+    "body": "Do you know where a crab's heart beats? In these fascinating crustaceans, the heart is not located in the chest area, but directly in its head. Their body structures are so unique that their survival mechanisms continue to amaze us every time."
   },
   "es": {
-    "headline": "Los nidos de aves son auténticas obras maestras de la arquitectura",
-    "body": "Los nidos construidos por las aves no son solo ramas juntas al azar. Muchas especies usan ingeniería de tejido para entrelazar los materiales, e incluso algunas usan telarañas como pegamento."
+    "headline": "El sorprendente secreto de los mares: ¿Dónde está el corazón de un cangrejo?",
+    "body": "¿Sabes dónde late el corazón de un cangrejo? En estos fascinantes crustáceos, el corazón no se encuentra en el área del pecho, sino directamente en su cabeza. Sus estructuras corporales son tan únicas que sus mecanismos de supervivencia siguen asombrándomnos."
   },
   "ar": {
-    "headline": "أعشاش الطيور هي في الواقع تحف معماريّة",
-    "body": "الأعشاش التي تبنيها الطيور ليست مجرد أغصان عشوائية. تستخدم العديد من الأنواع هندسة النسيج لربط المواد ببعضها، بل إن بعضها يستخدم خيوط العنكبوت كصمغ."
+    "headline": "السر المذهل للبحار: أين يقع قلب السلطعون؟",
+    "body": "هل تعلم أين ينبض قلب السلطعون؟ في هذه القشريات الرائعة، لا يوجد القلب في منطقة الصدر، بل يوجد مباشرة في رأسه. هياكل أجسامهم فريدة لدرجة أن آليات بقائهم تستمر في إبهارنا."
   },
   "reel_hook": {
-    "tr": "Kuşların yuvalarını yaparken kullandığı gizli malzemeyi biliyor musun?",
-    "en": "Do you know the secret material birds use to build their nests?",
-    "es": "¿Conoces el material secreto que usan las aves para construir sus nidos?",
-    "ar": "هل تعرف المادة السرية التي تستخدمها الطيور لبناء أعشاشها؟"
+    "tr": "Yengeçlerin kalbinin nerede olduğunu duyunca çok şaşıracaksınız!",
+    "en": "You will be very surprised when you hear where a crab's heart is!",
+    "es": "¡Te sorprenderás mucho cuando sepas dónde está el corazón de un cangrejo!",
+    "ar": "ستتفاجأ جداً عندما تسمع أين يوجد قلب السلطعون!"
   },
   "story_question": {
-    "tr": "Bazı kuşların yuvalarını sabitlemek için kullandığı doğal 'yapıştırıcı' aşağıdakilerden hangisidir?",
-    "en": "Which of the following is used by some birds as a natural 'glue' to secure their nests?",
-    "es": "¿Cuál de los siguientes elementos usan algunas aves como 'pegamento' natural para asegurar sus nidos?",
-    "ar": "ما الذي تستخدمه بعض الطيور كـ \"صمغ\" طبيعي لتثبيت أعشاشها؟"
+    "tr": "Yengeçlerin kalbi vücutlarının hangi bölgesindedir?",
+    "en": "In which part of their body is a crab's heart located?",
+    "es": "¿En qué parte de su cuerpo se encuentra el corazón de un cangrejo?",
+    "ar": "في أي جزء من جسمه يقع قلب السلطعون؟"
   },
   "story_options": [
-    "Örümcek ağı",
-    "Ağaç reçinesi",
-    "Özel salya"
+    "Kafasında",
+    "Kuyruğunda",
+    "Kıskaçlarında"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#kuşlar",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlaralemi",
-    "#biyoloji"
+    "#Yengeç",
+    "#İlginçBilgiler",
+    "#DenizCanlıları",
+    "#Bilim",
+    "#Doğa",
+    "#Keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Stay tuned for more nature secrets like this!",
-    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
-    "ar": "ترقب المزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunu daha önce biliyor muydunuz? Yorumlarda buluşalım!",
+    "en": "Did you know this before? Let's meet in the comments!",
+    "es": "¿Sabías esto antes? ¡Nos vemos en los comentarios!",
+    "ar": "هل كنت تعلم هذا من قبل؟ لنلتقي في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.2
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology Science",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/bird-nest"
+    "name": "Marine Biology Foundation",
+    "url": "https://example.com/crab-heart"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Yuvaları Aslında Birer Mimarlık Harikasıdır",
+  "_topic": "Denizlerin Şaşırtıcı Sırrı: Yengeçlerin Kalbi Nerededir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-07T10:17:12.468344+00:00",
+  "generated_at": "2026-09-07T12:25:30.238834+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar V Uçuşunu Neden Yapar?",
-    "body": "Gökyüzünde V şeklinde uçan göçmen kuşları hepimiz görmüşüzdür. Bunun sadece düzenli görünmek için yapıldığını sanıyorsanız, yanılıyorsunuz. Kuşlar bu formasyonu tamamen fizik kurallarından faydalanmak için seçer. Öndeki kuşun kanatlarının ucunda oluşan hava akımı, arkadan gelen kuş için görünmez bir kaldırma kuvveti yaratır. Böylece arkadaki kuşlar çok daha az enerji harcar ve yüzlerce kilometre boyunca yorulmadan uçabilirler. Sürü lideri yorulduğunda ise hemen arkadaki kuşlardan biri öne geçer ve bu görev sürekli değişir."
+    "headline": "Balıkların da Öksürdüğünü Biliyor muydunuz?",
+    "body": "Denizlerde yaşayan kemikli balıkların solungaçlarında solunum sırasında biriken yabancı maddeleri ve parazitleri atmak için kullandığı özel bir 'öksürük' mekanizması vardır. Su altındaki bu refleks, tıpkı insanlardaki gibi solunum yollarını temizler."
   },
   "en": {
-    "headline": "Why Do Birds Fly in a V Shape?",
-    "body": "We've all seen migratory birds flying in a V formation. If you think this is just to look organized, you're wrong. Birds choose this formation entirely to take advantage of physics. The airflow created at the tip of the front bird's wings generates an invisible lift for the bird behind it. This allows the trailing birds to expend much less energy and fly tirelessly for hundreds of kilometers. When the leader gets tired, another bird takes the front, and this role constantly rotates."
+    "headline": "Did You Know Fish Can Cough?",
+    "body": "Bony fish living in the oceans have a special 'coughing' mechanism used to expel foreign particles and parasites that accumulate in their gills during respiration. This underwater reflex cleans their respiratory tracts just like it does in humans."
   },
   "es": {
-    "headline": "¿Por qué las aves vuelan en formación V?",
-    "body": "Todos hemos visto aves migratorias volando en formación de V. Si crees que esto es solo para verse organizadas, te equivocas. Las aves eligen esta formación para aprovechar la física. La corriente de aire en la punta de las alas del ave líder crea una fuerza de sustentación invisible para la que va detrás. Esto permite que las aves siguientes gasten mucha menos energía y vuelen sin cansarse por cientos de kilómetros. Cuando el líder se cansa, otra ave toma su lugar."
+    "headline": "¿Sabías que los peces también tosen?",
+    "body": "Los peces óseos que viven en los océanos tienen un mecanismo especial de 'tos' que utilizan para expulsar partículas extrañas y parásitos que se acumulan en sus branquias durante la respiración. Este reflejo subacuático limpia sus vías respiratorias al igual que en los humanos."
   },
   "ar": {
-    "headline": "لماذا تطير الطيور على شكل حرف V؟",
-    "body": "لقد رأينا جميعاً الطيور المهاجرة تطير في تشكيل على شكل حرف V. إذا كنت تعتقد أن هذا منظم فقط، فأنت مخطط. تختار الطيور هذا التشكيل للاستفادة من الفيزياء. تدفق الهواء الناتج عن أجنحة الطيور في المقدمة يخلق قوة رفع غير مرئية للطائر الخلفي، مما يسمح لها بتوفير الطاقة والطيران لمسافات طويلة."
+    "headline": "هل كنت تعلم أن الأسماك تسعل أيضاً؟",
+    "body": "تمتلك الأسماك العظمية التي تعيش في المحيطات آلية 'سعال' خاص تُستخدم طرد الجزيئات الغريبة والطفيليات التي تتراكم في خياشيمها أثناء التنفس. هذا الانعكاس تحت الماء ينظف مجاريها التنفسية تماماً كما يحدث لدى البشر."
   },
   "reel_hook": {
-    "tr": "Gökyüzündeki V şeklinin hayat kurtaran sırrını biliyor musunuz?",
-    "en": "Do you know the life-saving secret behind the V shape in the sky?",
-    "es": "¿Conoces el secreto detrás de la forma de V en el cielo?",
-    "ar": "هل تعرف السر وراء شكل حرف V في السماء؟"
+    "tr": "Su altında öksüren bir canlı hayal edin...",
+    "en": "Imagine a creature coughing underwater...",
+    "es": "Imagina una criatura tosiendo bajo el agua...",
+    "ar": "تخيل مخلوقاً يسعل تحت الماء..."
   },
   "story_question": {
-    "tr": "Sürü lideri yorulduğunda V formasyonunda ne olur?",
-    "en": "What happens in the V formation when the lead bird gets tired?",
-    "es": "¿Qué pasa en la formación en V cuando el líder se cansa?",
-    "ar": "ماذا يحدث في تشكيل V عندما يتعب الطائر القائد؟"
+    "tr": "Balıklar solungaçlarındaki artıkları temizlemek için hangi refleksi kullanır?",
+    "en": "What reflex do fish use to clean debris in their gills?",
+    "es": "¿Qué reflejo usan los peces para limpiar los restos en sus branquias?",
+    "ar": "ما هو الانعكاس الذي تستخدمه الأسماك لتنظيف البقايا في خياشيمها؟"
   },
   "story_options": [
-    "Sürüye arkadan devam eder",
-    "Sürünün en arkasına geçer",
-    "Uçmayı bırakıp konar"
+    "Hapşırma",
+    "Öksürme",
+    "Kusma"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#kuşlar",
+    "#balıklar",
+    "#denizaltı",
     "#bilim",
-    "#hayvanlaralemi",
-    "#göç",
+    "#ilginçbilgiler",
+    "#doğa",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu daha önce duymuş muydun? Yorumlarda buluşalım!",
+    "en": "Had you ever heard of this before? Let us know in the comments!",
+    "es": "¿Habías oído hablar de esto antes? ¡Cuéntanos en los comentarios!",
+    "ar": "هل سمعت بهذا من قبل؟ شاركنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "surprise": 9,
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org/news/why-do-birds-fly-v-formation"
+    "name": "Journal of Experimental Biology",
+    "url": "https://jeb.biologists.org/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar V Uçuşunu Neden Yapar?",
+  "_topic": "Balıkların da Öksürdüğünü Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-07T14:15:33.451249+00:00",
+  "generated_at": "2026-09-07T16:32:50.555494+00:00",
   "topic_guard_days": 180
 }

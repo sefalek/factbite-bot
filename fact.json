@@ -1,57 +1,57 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar neden suda batmaz?",
-    "body": "Su kuşlarının tüyleri asla ıslanmaz çünkü kuyruklarının hemen üstündeki özel bir bezden salgıladıkları yağı tüylerine sürerler. Bu doğal cila, suyu anında iter ve kuşun su üstünde zahmetsizce kaymasını sağlar."
+    "headline": "Kuşların Tüylerindeki Şaşırtıcı Güç",
+    "body": "Bir kuşun tüyleri, aslında kendisinden bile daha ağırdır! Şaka değil, birçok kuş türünde iskelet sistemi tüylerinin toplam ağırlığından daha hafiftir. Uçabilmek için inanılmaz derecede hafif tasarlanan bu kemikler, içi boş yapısıyla dayanıklılıktan ödün vermezken, tüyler aerodinamik ve izolasyon için adeta zırh görevi görür."
   },
   "en": {
-    "headline": "Why don't waterbirds sink?",
-    "body": "Waterbirds' feathers never get wet because they preen them with oil secreted from a special gland right above their tails. This natural polish instantly repels water and lets the bird glide effortlessly on the surface."
+    "headline": "The Surprising Weight of Feathers",
+    "body": "A bird's feathers actually weigh more than its entire skeleton! In many bird species, the bones are hollow and remarkably light—often weighing less than the plumage covering them. This ingenious design provides the strength needed for flight while keeping overall weight to an absolute minimum."
   },
   "es": {
-    "headline": "¿Por qué las aves acuáticas no se hunden?",
-    "body": "Las plumas de las aves acuáticas nunca se mojan porque las acicalan con aceite secretado por una glándula especial justo encima de sus colas. Este barniz natural repele el agua al instante."
+    "headline": "El Sorprendente Peso de las Plumas",
+    "body": "¡Las plumas de un ave pesan en realidad más que todo su esqueleto! En muchas especies, los huesos son huecos y sumamente ligeros, pesando menos que el plumaje que los cubre. Este ingenioso diseño proporciona la resistencia necesaria para volar manteniendo el peso al mínimo."
   },
   "ar": {
-    "headline": "لماذا لا تغرق الطيور المائية؟",
-    "body": "لا تبلل ريش الطيور المائية أبداً لأنها تفركه بالزيت المفرز من غدة خاصة فوق ذيولها مباشرة. هذا الطلاء الطبيعي يطرد الماء فوراً."
+    "headline": "الوزن المدهش للريش",
+    "body": "ريش الطائر في الواقع أثقل من هيكله العظمي بأكمله! في العديد من أنواع الطيور، تكون العظام مجوفة وخفيفة بشكل ملحوظ، وغالباً ما توزن أقل من الريش الذي يغطيها، مما يوفر القوة اللازمة للطيران بأقل وزن ممكن."
   },
   "reel_hook": {
-    "tr": "Su kuşları saatlerce dalıyor ama tüyleri neden bir damla bile su tutmuyor?",
-    "en": "Waterbirds dive for hours, but why don't their feathers hold a single drop of water?",
-    "es": "Las aves acuáticas bucean durante horas, ¿por qué sus plumas no retienen ni una gota de agua?",
-    "ar": "تغوص الطيور المائية لساعات، فلماذا لا يحتفظ ريشها بقطرة ماء واحدة؟"
+    "tr": "Bir kuşun tüylerinin, kemiklerinden daha ağır olduğunu biliyor muydunuz?",
+    "en": "Did you know a bird's feathers weigh more than its bones?",
+    "es": "¿Sabías que las plumas de un ave pesan más que sus huesos?",
+    "ar": "هل كنت تعلم أن ريش الطائر أثقل من عظامه؟"
   },
   "story_question": {
-    "tr": "Su kuşlarının tüylerini sudan koruyan bu yağ, hangi bölgedeki özel bir bezden salgılanır?",
-    "en": "Where is the special oil gland located that protects waterbirds' feathers?",
-    "es": "¿Dónde se encuentra la glándula de aceite especial que protege las plumas de las aves acuáticas?",
-    "ar": "أين تقع غدة الزيت الخاصة التي تحمي ريش الطيور المائية؟"
+    "tr": "Sizce ortalama bir kuşun vücut ağırlığının ne kadarını tüyleri oluşturur?",
+    "en": "What percentage of a bird's body weight do you think comes from its feathers?",
+    "es": "¿Qué porcentaje del peso corporal de un ave crees que representan sus plumas?",
+    "ar": "برأيك، ما هي النسبة التي يشكلها الريش من وزن جسم الطائر؟"
   },
   "story_options": [
-    "Kuyruğun hemen üstünde",
-    "Gaganın altında",
-    "Kanatların merkezinde"
+    "Yüzde 10 ila 20",
+    "Yüzde 30'dan fazla",
+    "Yalnızca yüzde 5"
   ],
   "hashtags": [
     "#FactBite",
+    "#kuşlar",
     "#doğa",
     "#bilim",
-    "#kuşlar",
     "#ilginçbilgiler",
-    "#hayvanlaralemi"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
-    "en": "Follow for more amazing nature secrets like this!",
-    "es": "¡Síguenos para más secretos sorprendentes de la naturaleza!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
@@ -60,9 +60,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar neden suda batmaz?",
+  "_topic": "Kuşların Tüylerindeki Şaşırtıcı Güç",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-08T12:53:27.953465+00:00",
+  "generated_at": "2026-09-08T17:04:12.068451+00:00",
   "topic_guard_days": 180
 }

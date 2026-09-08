@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilerin Pürüzlü Dilleri Aslında Ne İşe Yarar?",
-    "body": "Kedileri seven herkes bilir, dilleri zımpara gibi pürüzlüdür. Peki bunun sadece tüylerini temizlemek için olduğunu mu sanıyorsunuz? Aslında bu minik kancalar, su içerken yerçekimine meydan okumalarını sağlar."
+    "headline": "Kedi Bıyıkları Aslında Ne İşe Yarar?",
+    "body": "Kedilerin yüzündeki o uzun bıyıklar sadece sevimli bir detay değil. Aslında onlar, kedilerin vücut genişliklerini ölçmesini sağlayan hassas birer cetveldir. Bıyık köklerindeki sinirler en ufak bir hava akımını bile hissederek çevredeki nesneleri görmeden algılamalarını sağlar."
   },
   "en": {
-    "headline": "What Are Cats' Rough Tongues Actually For?",
-    "body": "Everyone who loves cats knows their tongues are rough like sandpaper. Do you think this is just for grooming? Actually, these tiny hooks allow them to defy gravity while drinking water."
+    "headline": "What Are Cat Whiskers Actually For?",
+    "body": "Those long whiskers on a cat's face are not just a cute detail. They actually act as precise rulers that help cats measure their body width. Nerves at the base of the whiskers sense even the slightest air current, allowing them to detect objects around them without seeing them."
   },
   "es": {
-    "headline": "¿Para qué sirven realmente las lenguas ásperas de los gatos?",
-    "body": "Todo amante de los gatos sabe que sus lenguas son ásperas como el papel de lija. ¿Crees que es solo para arreglarse? En realidad, estos pequeños ganchos les permiten desafiar la gravedad al beber agua."
+    "headline": "¿Para qué sirven realmente los bigotes de los gatos?",
+    "body": "Esos largos bigotes en la cara de un gato no son solo un detalle tierno. En realidad, actúan como reglas precisas que ayudan a los gatos a medir el ancho de su cuerpo. Los nervios en la base de los bigotes sienten hasta la más mínima corriente de aire, permitiéndoles detectar objetos a su alrededor sin verlos."
   },
   "ar": {
-    "headline": "ما هي الفائدة الحقيقية من لسان القطط الخشن؟",
-    "body": "كل محبي القطط يعلمون أن ألسنتهم خشنة مثل ورق الصنفرة. هل تعتقد أن هذا للتنظيف فقط؟ في الواقع، هذه الخطافات الصغيرة تمكنهم من تحدي الجاذبية أثناء شرب الماء."
+    "headline": "ما فائدة شارب القطط حقاً؟",
+    "body": "تلك الشوارب الطويلة على وجه القط لطيفة وليست مجرد شكل جمالي. إنها تعمل في الواقع كمسطرة دقيقة تساعد القطط على قياس عرض أجسامها. تستشعر الأعصاب في قاعدة الشوارب حتى أبسط تيار هوائي، مما يسمح لها بتحديد الأماكن والأشياء دون رؤيتها."
   },
   "reel_hook": {
-    "tr": "Kedinizin dili neden zımpara gibidir hiç düşündünüz mü?",
-    "en": "Have you ever wondered why a cat's tongue feels like sandpaper?",
-    "es": "¿Alguna vez te has preguntado por qué la lengua de un gato es como el papel de lija?",
-    "ar": "هل فكرت يومًا لماذا يشبه لسان القط ورق الصنفرة؟"
+    "tr": "Kedinizin bıyıklarını sakın kesmeyin, çünkü onlar aslında...",
+    "en": "Never cut a cat's whiskers, because they are actually...",
+    "es": "Nunca le cortes los bigotes a un gato, porque en realidad son...",
+    "ar": "لا تقص شوارب قطتك أبداً، لأنها في الواقع..."
   },
   "story_question": {
-    "tr": "Kediler su içerken dillerini suya nasıl batırır?",
-    "en": "How do cats dip their tongues into water when drinking?",
-    "es": "¿Cómo sumergen los gatos su lengua en el agua al beber?",
-    "ar": "كيف تغمس القطط ألسنتها في الماء عند الشرب؟"
+    "tr": "Kedilerin bıyıkları hangi insan uzvuyla aynı hassasiyete sahiptir?",
+    "en": "Which human body part has the same sensitivity as cat whiskers?",
+    "es": "¿Qué parte del cuerpo humano tiene la misma sensibilidad que los bigotes de los gatos?",
+    "ar": "أي جزء من جسم الإنسان يمتلك نفس حساسية شوارب القطط؟"
   },
   "story_options": [
-    "Suyu kaşık gibi şekillendirirler",
-    "Sadece suyun yüzeyine dokunup çekerler",
-    "Dillerini boru gibi kıvırırlar"
+    "Parmak uçları",
+    "Göz kapakları",
+    "Kulak memes"
   ],
   "hashtags": [
     "#FactBite",
     "#kedi",
     "#bilim",
-    "#hayvanlar",
     "#ilginçbilgiler",
+    "#hayvanlar",
     "#keşfet",
     "#eğlence"
   ],
   "cta": {
-    "tr": "Daha fazla ilginç bilgi için takip et!",
-    "en": "Follow for more interesting facts!",
-    "es": "¡Sígueme para más datos interesantes!",
-    "ar": "تابعنا للمزيد من الحقائق المثيرة للاهتمام!"
+    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Science Magazine",
-    "url": "https://www.sciencemag.org"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/article/cat-whiskers-function"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilerin Pürüzlü Dilleri Aslında Ne İşe Yarar?",
+  "_topic": "Kedi Bıyıkları Aslında Ne İşe Yarar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-08T09:41:00.114035+00:00",
+  "generated_at": "2026-09-08T11:13:17.451847+00:00",
   "topic_guard_days": 180
 }

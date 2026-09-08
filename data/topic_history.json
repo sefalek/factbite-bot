@@ -3607,5 +3607,21 @@
       "overall": 9
     },
     "generated_at": "2026-09-08T17:04:12.068451+00:00"
+  },
+  {
+    "language": "tr",
+    "category": "general",
+    "topic": "Kuşlar neden elektrik tellerinde çarpılmaz?",
+    "headline": "Kuşlar neden elektrik tellerinde çarpılmaz?",
+    "body": "Bir kuş yüksek voltajlı elektrik teline konduğunda neden çarpılmaz hiç düşündünüz mü? Cevap elektrik akımının çalışma mantığında gizli. Elektrik akımı her zaman en kolay yolu, yani direnci en düşük noktayı seçer. Kuş tek bir tele konduğunda vücudu telden daha yüksek bir dirence sahiptir. Akım, kuşun içinden geçmek yerine tel üzerinden akmaya devam eder. Ancak kuş aynı anda iki farklı tele dokunursa veya toprağa temas eden bir şeye değerse, işte o zaman devre tamamlanır ve ne yazık ki kaçınılmaz son gerçekleşir.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 9,
+      "clarity": 10,
+      "overall": 9
+    },
+    "generated_at": "2026-09-08T18:23:02.598702+00:00"
   }
 ]

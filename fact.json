@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Tüylerindeki Şaşırtıcı Güç",
-    "body": "Bir kuşun tüyleri, aslında kendisinden bile daha ağırdır! Şaka değil, birçok kuş türünde iskelet sistemi tüylerinin toplam ağırlığından daha hafiftir. Uçabilmek için inanılmaz derecede hafif tasarlanan bu kemikler, içi boş yapısıyla dayanıklılıktan ödün vermezken, tüyler aerodinamik ve izolasyon için adeta zırh görevi görür."
+    "headline": "Kuşlar neden elektrik tellerinde çarpılmaz?",
+    "body": "Bir kuş yüksek voltajlı elektrik teline konduğunda neden çarpılmaz hiç düşündünüz mü? Cevap elektrik akımının çalışma mantığında gizli. Elektrik akımı her zaman en kolay yolu, yani direnci en düşük noktayı seçer. Kuş tek bir tele konduğunda vücudu telden daha yüksek bir dirence sahiptir. Akım, kuşun içinden geçmek yerine tel üzerinden akmaya devam eder. Ancak kuş aynı anda iki farklı tele dokunursa veya toprağa temas eden bir şeye değerse, işte o zaman devre tamamlanır ve ne yazık ki kaçınılmaz son gerçekleşir."
   },
   "en": {
-    "headline": "The Surprising Weight of Feathers",
-    "body": "A bird's feathers actually weigh more than its entire skeleton! In many bird species, the bones are hollow and remarkably light—often weighing less than the plumage covering them. This ingenious design provides the strength needed for flight while keeping overall weight to an absolute minimum."
+    "headline": "Why don't birds get electrocuted on power lines?",
+    "body": "Have you ever wondered why birds don't get shocked when they land on high-voltage power lines? The answer lies in how electrical current works. Electricity always takes the path of least resistance. When a bird sits on a single wire, its body has a higher electrical resistance than the metal wire, so the current simply bypasses the bird. However, if it touches two wires at once, the circuit completes with dangerous consequences."
   },
   "es": {
-    "headline": "El Sorprendente Peso de las Plumas",
-    "body": "¡Las plumas de un ave pesan en realidad más que todo su esqueleto! En muchas especies, los huesos son huecos y sumamente ligeros, pesando menos que el plumaje que los cubre. Este ingenioso diseño proporciona la resistencia necesaria para volar manteniendo el peso al mínimo."
+    "headline": "¿Por qué las aves no se electrocutan en los cables de alta tensión?",
+    "body": "¿Alguna vez te has preguntado por qué los pájaros no se electrocutan al posarse en los cables eléctricos? La respuesta está en la física de la corriente. La electricidad siempre sigue el camino de menor resistencia. Cuando un ave se para en un solo cable, su cuerpo ofrece más resistencia que el metal, por lo que la corriente prefiere seguir por el cable. Pero si toca dos cables a la vez, el circuito se cierra."
   },
   "ar": {
-    "headline": "الوزن المدهش للريش",
-    "body": "ريش الطائر في الواقع أثقل من هيكله العظمي بأكمله! في العديد من أنواع الطيور، تكون العظام مجوفة وخفيفة بشكل ملحوظ، وغالباً ما توزن أقل من الريش الذي يغطيها، مما يوفر القوة اللازمة للطيران بأقل وزن ممكن."
+    "headline": "لماذا لا تصعق الطيور على أسلاك الكهرباء؟",
+    "body": "هل فكرت يومًا في سبب عدم تعرض الطيور لصعقة كهربائية عند الوقوف على أسلاك الضغط العالي؟ يكمن السر في كيفية تدفق التيار الكهربائي الذي يسلك دائماً طريق المقاومة الأقل. عندما يقف الطير على سلك واحد، فإن مقاومة جسمه أعلى من السلك، فيمر التيار عبر السلك متجاوزاً الطائر. لكن إذا لمس سلكين معاً، تكتمل الدائرة الكهربائية."
   },
   "reel_hook": {
-    "tr": "Bir kuşun tüylerinin, kemiklerinden daha ağır olduğunu biliyor muydunuz?",
-    "en": "Did you know a bird's feathers weigh more than its bones?",
-    "es": "¿Sabías que las plumas de un ave pesan más que sus huesos?",
-    "ar": "هل كنت تعلم أن ريش الطائر أثقل من عظامه؟"
+    "tr": "Binlerce voltluk elektrik telinde duran bir kuş neden çarpılmaz?",
+    "en": "Why doesn't a bird get shocked on a thousand-volt power line?",
+    "es": "¿Por qué un pájaro no se electrocuta en un cable de alta tensión?",
+    "ar": "لماذا لا يصعق طائر واقف على سلك كهربائي بآلاف الفولتات؟"
   },
   "story_question": {
-    "tr": "Sizce ortalama bir kuşun vücut ağırlığının ne kadarını tüyleri oluşturur?",
-    "en": "What percentage of a bird's body weight do you think comes from its feathers?",
-    "es": "¿Qué porcentaje del peso corporal de un ave crees que representan sus plumas?",
-    "ar": "برأيك، ما هي النسبة التي يشكلها الريش من وزن جسم الطائر؟"
+    "tr": "Bir kuş elektrik telinde çarpılmamak için hangi kurala güvenir?",
+    "en": "What rule does a bird rely on to avoid being shocked on a power line?",
+    "es": "¿En qué regla confía un ave para no electrocutarse en un cable?",
+    "ar": "ما هي القاعدة التي يعتمد عليها الطائر لتجنب الصعق على السلك؟"
   },
   "story_options": [
-    "Yüzde 10 ila 20",
-    "Yüzde 30'dan fazla",
-    "Yalnızca yüzde 5"
+    "Direnç ve devre mantığına",
+    "Tüylerinin yalıtkan özelliğine",
+    "Ayaklarındaki özel deriye"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
     "#bilim",
+    "#fizik",
+    "#doğa",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#teknoloji",
+    "#eğitim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "Fizik ve Elektrik Temelleri",
+    "url": "https://www.physicsclassroom.com/class/circuits/Lesson-3/Two-Types-of-Connections"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Tüylerindeki Şaşırtıcı Güç",
+  "_topic": "Kuşlar neden elektrik tellerinde çarpılmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-08T17:04:12.068451+00:00",
+  "generated_at": "2026-09-08T18:23:02.598702+00:00",
   "topic_guard_days": 180
 }

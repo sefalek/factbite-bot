@@ -1,70 +1,70 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Akıllı Hırsızı: Ahtapotlar",
-    "body": "Ahtapotların kolları vücutlarından bağımsız düşünebilir! Her kolda bulunan yüzlerce vantuz ve sinir hücresi, beyinden emir almadan kendi başına karar alabilir ve avlanabilir."
+    "headline": "Solucanlar Dünyayı Nasıl Değiştiriyor?",
+    "body": "Toprağın altında sessizce çalışan solucanların aslında dünyadaki tüm tarımı ayakta tuttuğunu biliyor musunuz? Charles Darwin, hayatının son yıllarını tamamen onlara adamış ve bu küçük canlıların, dünyadaki antik kalıntıları bile yavaşça yutarak toprak altına gömdüğünü kanıtlamıştı."
   },
   "en": {
-    "headline": "The Ocean's Smart Thief: Octopuses",
-    "body": "An octopus's arms can think independently of its body! Hundreds of suckers and nerve cells in each arm can make decisions and hunt on their own without orders from the brain."
+    "headline": "How Do Earthworms Change the World?",
+    "body": "Did you know that earthworms working silently underground actually sustain all agriculture on Earth? Charles Darwin spent the final years of his life entirely dedicated to them, proving that these tiny creatures slowly swallow and bury even ancient ruins underground."
   },
   "es": {
-    "headline": "El Ladrón Inteligente del Océano: Los Pulpos",
-    "body": "¡Los brazos de un pulpo pueden pensar independientemente de su cuerpo! Cientos de ventosas y células nerviosas en cada brazo pueden tomar decisiones y cazar por sí mismos sin órdenes del cerebro."
+    "headline": "¿Cómo cambian las lombrices de tierra el mundo?",
+    "body": "¿Sabías que las lombrices que trabajan silenciosamente bajo tierra sostienen toda la agricultura del planeta? Charles Darwin dedicó los últimos años de su vida a ellas, demostrando que estas pequeñas criaturas tragan y entierran lentamente incluso las ruinas antiguas."
   },
   "ar": {
-    "headline": "لص المحيط الذكي: الأقطاب",
-    "body": "أذرع الأخطبوط يمكنها التفكير بشكل مستقل عن جسده! مئات الماصات والخلايا العصبية في كل ذراع يمكنها اتخاذ القرارات والصيد بمفردها دون أوامر من الدماغ."
+    "headline": "كيف تغير د الأرض العالم؟",
+    "body": "هل تعلم أن ديدان الأرض التي تعمل بصمت تحت الأرض هي التي تدعم الزراعة بأكملها؟ لقد أمضى تشارلز داروين السنوات الأخيرة من حياته مكرسة لها تماماً، وأثبت أن هذه الكائنات الصغيرة تبتلع وتدفن ببطء حتى الآثار القديمة تحت الأرض."
   },
   "reel_hook": {
-    "tr": "Beyninizden bağımsız hareket eden sekiz kolunuz olsaydı ne yapardınız?",
-    "en": "What would you do if you had eight arms moving independently of your brain?",
-    "es": "¿Qué harías si tuvieras ocho brazos que se mueven independientemente de tu cerebro?",
-    "ar": "ماذا تفعل لو كان لديك ثراع تتحرك بشكل مستقل عن دماغك؟"
+    "tr": "Ayaklarımızın altındaki bu küçük canlılar olmasaydı, şu an açlıktan ölüyor olabilirdik.",
+    "en": "If it weren't for these tiny creatures beneath our feet, we might be starving right now.",
+    "es": "Si no fuera por estas pequeñas criaturas bajo nuestros pies, podríamos estar muriendo de hambre ahora mismo.",
+    "ar": "لو لم تكن هذه الكائنات الصغيرة تحت أقدامنا، لربما كنا نتضور جوعاً الآن."
   },
   "story_question": {
-    "tr": "Ahtapotların kollarında ne kadarlık bağımsız sinir hücresi bulunur?",
-    "en": "How many independent nerve cells are found in an octopus's arms?",
-    "es": "¿Cuántas células nerviosas independientes se encuentran en los brazos de un pulpo?",
-    "ar": "كم عدد الخلايا العصبية المستقلة الموجودة في أذرع الأخطبوط؟"
+    "tr": "Charles Darwin'in hayatının son yıllarını hangi canlıya adadığını biliyor muydunuz?",
+    "en": "Did you know which creature Charles Darwin dedicated the final years of his life to?",
+    "es": "¿Sabías a qué criatura dedicó Charles Darwin los últimos años de su vida?",
+    "ar": "هل كنت تعلم المخلوق الذي كرّس تشارلز داروين السنوات الأخيرة من حياته له؟"
   },
   "story_options": [
-    "Üçte ikisi",
-    "Yarısı",
-    "Beşte biri"
+    "Solucanlar",
+    "Karıncalar",
+    "Arılar"
   ],
   "hashtags": [
     "#FactBite",
-    "#ahtapot",
-    "#bilimnotları",
-    "#okyanus",
-    "#ilginçbilgiler",
+    "#toprak",
     "#doğa",
-    "#keşfet",
-    "#biyoloji"
+    "#bilim",
+    "#ilginçbilgiler",
+    "#charlesdarwin",
+    "#tarım",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس متابعة المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Darwin Online & Natural History Museum",
+    "url": "https://www.nhm.ac.uk/discover/charles-darwin-and-earthworms.html"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Akıllı Hırsızı: Ahtapotlar",
+  "_topic": "Solucanlar Dünyayı Nasıl Değiştiriyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-08T19:51:28.104558+00:00",
+  "generated_at": "2026-09-08T21:35:54.041121+00:00",
   "topic_guard_days": 180
 }

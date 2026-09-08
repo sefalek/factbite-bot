@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedi Bıyıkları Aslında Ne İşe Yarar?",
-    "body": "Kedilerin yüzündeki o uzun bıyıklar sadece sevimli bir detay değil. Aslında onlar, kedilerin vücut genişliklerini ölçmesini sağlayan hassas birer cetveldir. Bıyık köklerindeki sinirler en ufak bir hava akımını bile hissederek çevredeki nesneleri görmeden algılamalarını sağlar."
+    "headline": "Kuşlar neden suda batmaz?",
+    "body": "Su kuşlarının tüyleri asla ıslanmaz çünkü kuyruklarının hemen üstündeki özel bir bezden salgıladıkları yağı tüylerine sürerler. Bu doğal cila, suyu anında iter ve kuşun su üstünde zahmetsizce kaymasını sağlar."
   },
   "en": {
-    "headline": "What Are Cat Whiskers Actually For?",
-    "body": "Those long whiskers on a cat's face are not just a cute detail. They actually act as precise rulers that help cats measure their body width. Nerves at the base of the whiskers sense even the slightest air current, allowing them to detect objects around them without seeing them."
+    "headline": "Why don't waterbirds sink?",
+    "body": "Waterbirds' feathers never get wet because they preen them with oil secreted from a special gland right above their tails. This natural polish instantly repels water and lets the bird glide effortlessly on the surface."
   },
   "es": {
-    "headline": "¿Para qué sirven realmente los bigotes de los gatos?",
-    "body": "Esos largos bigotes en la cara de un gato no son solo un detalle tierno. En realidad, actúan como reglas precisas que ayudan a los gatos a medir el ancho de su cuerpo. Los nervios en la base de los bigotes sienten hasta la más mínima corriente de aire, permitiéndoles detectar objetos a su alrededor sin verlos."
+    "headline": "¿Por qué las aves acuáticas no se hunden?",
+    "body": "Las plumas de las aves acuáticas nunca se mojan porque las acicalan con aceite secretado por una glándula especial justo encima de sus colas. Este barniz natural repele el agua al instante."
   },
   "ar": {
-    "headline": "ما فائدة شارب القطط حقاً؟",
-    "body": "تلك الشوارب الطويلة على وجه القط لطيفة وليست مجرد شكل جمالي. إنها تعمل في الواقع كمسطرة دقيقة تساعد القطط على قياس عرض أجسامها. تستشعر الأعصاب في قاعدة الشوارب حتى أبسط تيار هوائي، مما يسمح لها بتحديد الأماكن والأشياء دون رؤيتها."
+    "headline": "لماذا لا تغرق الطيور المائية؟",
+    "body": "لا تبلل ريش الطيور المائية أبداً لأنها تفركه بالزيت المفرز من غدة خاصة فوق ذيولها مباشرة. هذا الطلاء الطبيعي يطرد الماء فوراً."
   },
   "reel_hook": {
-    "tr": "Kedinizin bıyıklarını sakın kesmeyin, çünkü onlar aslında...",
-    "en": "Never cut a cat's whiskers, because they are actually...",
-    "es": "Nunca le cortes los bigotes a un gato, porque en realidad son...",
-    "ar": "لا تقص شوارب قطتك أبداً، لأنها في الواقع..."
+    "tr": "Su kuşları saatlerce dalıyor ama tüyleri neden bir damla bile su tutmuyor?",
+    "en": "Waterbirds dive for hours, but why don't their feathers hold a single drop of water?",
+    "es": "Las aves acuáticas bucean durante horas, ¿por qué sus plumas no retienen ni una gota de agua?",
+    "ar": "تغوص الطيور المائية لساعات، فلماذا لا يحتفظ ريشها بقطرة ماء واحدة؟"
   },
   "story_question": {
-    "tr": "Kedilerin bıyıkları hangi insan uzvuyla aynı hassasiyete sahiptir?",
-    "en": "Which human body part has the same sensitivity as cat whiskers?",
-    "es": "¿Qué parte del cuerpo humano tiene la misma sensibilidad que los bigotes de los gatos?",
-    "ar": "أي جزء من جسم الإنسان يمتلك نفس حساسية شوارب القطط؟"
+    "tr": "Su kuşlarının tüylerini sudan koruyan bu yağ, hangi bölgedeki özel bir bezden salgılanır?",
+    "en": "Where is the special oil gland located that protects waterbirds' feathers?",
+    "es": "¿Dónde se encuentra la glándula de aceite especial que protege las plumas de las aves acuáticas?",
+    "ar": "أين تقع غدة الزيت الخاصة التي تحمي ريش الطيور المائية؟"
   },
   "story_options": [
-    "Parmak uçları",
-    "Göz kapakları",
-    "Kulak memes"
+    "Kuyruğun hemen üstünde",
+    "Gaganın altında",
+    "Kanatların merkezinde"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
+    "#doğa",
     "#bilim",
+    "#kuşlar",
     "#ilginçbilgiler",
-    "#hayvanlar",
-    "#keşfet",
-    "#eğlence"
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
+    "en": "Follow for more amazing nature secrets like this!",
+    "es": "¡Síguenos para más secretos sorprendentes de la naturaleza!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/article/cat-whiskers-function"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedi Bıyıkları Aslında Ne İşe Yarar?",
+  "_topic": "Kuşlar neden suda batmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-08T11:13:17.451847+00:00",
+  "generated_at": "2026-09-08T12:53:27.953465+00:00",
   "topic_guard_days": 180
 }

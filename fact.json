@@ -1,53 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Solucanlar Dünyayı Nasıl Değiştiriyor?",
-    "body": "Toprağın altında sessizce çalışan solucanların aslında dünyadaki tüm tarımı ayakta tuttuğunu biliyor musunuz? Charles Darwin, hayatının son yıllarını tamamen onlara adamış ve bu küçük canlıların, dünyadaki antik kalıntıları bile yavaşça yutarak toprak altına gömdüğünü kanıtlamıştı."
+    "headline": "Kargaların Maskeli Yüzleri Unutmama Sırrı",
+    "body": "Hiç kargaların sizi uzun süre izlediğini hissettiniz mi? Bilim insanları, bu zeki kuşların insan yüzlerini yıllarca hafızalarında tutabildiğini kanıtladı. Üstelik kötü bir hareketinizi onlara zarar vermeyen diğer kargalara bile nesiller boyu aktarıyorlar."
   },
   "en": {
-    "headline": "How Do Earthworms Change the World?",
-    "body": "Did you know that earthworms working silently underground actually sustain all agriculture on Earth? Charles Darwin spent the final years of his life entirely dedicated to them, proving that these tiny creatures slowly swallow and bury even ancient ruins underground."
+    "headline": "The Secret of Crows Remembering Masked Faces",
+    "body": "Have you ever felt like crows are watching you for a long time? Scientists have proven that these smart birds can retain human faces in their memory for years. Moreover, they pass on any bad deeds to other harmless crows for generations."
   },
   "es": {
-    "headline": "¿Cómo cambian las lombrices de tierra el mundo?",
-    "body": "¿Sabías que las lombrices que trabajan silenciosamente bajo tierra sostienen toda la agricultura del planeta? Charles Darwin dedicó los últimos años de su vida a ellas, demostrando que estas pequeñas criaturas tragan y entierran lentamente incluso las ruinas antiguas."
+    "headline": "El secreto de los cuervos que recuerdan rostros enmascarados",
+    "body": "¿Alguna vez has sentido que los cuervos te observan durante mucho tiempo? Los científicos han demostrado que estas inteligentes aves pueden retener rostros humanos en su memoria durante años. Además, transmiten cualquier mala acción a otros cuervos inofensivos durante generaciones."
   },
   "ar": {
-    "headline": "كيف تغير د الأرض العالم؟",
-    "body": "هل تعلم أن ديدان الأرض التي تعمل بصمت تحت الأرض هي التي تدعم الزراعة بأكملها؟ لقد أمضى تشارلز داروين السنوات الأخيرة من حياته مكرسة لها تماماً، وأثبت أن هذه الكائنات الصغيرة تبتلع وتدفن ببطء حتى الآثار القديمة تحت الأرض."
+    "headline": "سر تذكر الغربان للوجوه المقنعة",
+    "body": "هل شعرت يوما أن الغربان تراقبك لفترة طويلة؟ لقد أثبت العلماء أن هذه الطيور الذكية يمكنها الاحتفاظ بوجوه البشر في ذاكرتها لسنوات. علاوة على ذلك، فإنها تنقل أي تصرف سيء إلى الغربان الأخرى غير الضارة لأجيال متتالية."
   },
   "reel_hook": {
-    "tr": "Ayaklarımızın altındaki bu küçük canlılar olmasaydı, şu an açlıktan ölüyor olabilirdik.",
-    "en": "If it weren't for these tiny creatures beneath our feet, we might be starving right now.",
-    "es": "Si no fuera por estas pequeñas criaturas bajo nuestros pies, podríamos estar muriendo de hambre ahora mismo.",
-    "ar": "لو لم تكن هذه الكائنات الصغيرة تحت أقدامنا، لربما كنا نتضور جوعاً الآن."
+    "tr": "Sokaktaki bir karganın sizi asla unutmadığını biliyor muydunuz?",
+    "en": "Did you know that a crow on the street never forgets you?",
+    "es": "¿Sabías que un cuervo en la calle nunca te olvida?",
+    "ar": "هل تعلم أن غرابا في الشارع لا ينساه أبدا؟"
   },
   "story_question": {
-    "tr": "Charles Darwin'in hayatının son yıllarını hangi canlıya adadığını biliyor muydunuz?",
-    "en": "Did you know which creature Charles Darwin dedicated the final years of his life to?",
-    "es": "¿Sabías a qué criatura dedicó Charles Darwin los últimos años de su vida?",
-    "ar": "هل كنت تعلم المخلوق الذي كرّس تشارلز داروين السنوات الأخيرة من حياته له؟"
+    "tr": "Kargaların insan yüzlerini hafızalarında kaç yıl tutabildiğini tahmin edersiniz?",
+    "en": "How many years do you think crows can keep human faces in their memory?",
+    "es": "¿Cuántos años crees que los cuervos pueden mantener los rostros humanos en su memoria?",
+    "ar": "كم سنة برأيك تستطيع الغربان الاحتفاظ بوجوه البشر في ذاكرتها؟"
   },
   "story_options": [
-    "Solucanlar",
-    "Karıncalar",
-    "Arılar"
+    "1-2 Yıl",
+    "5 Yıl ve Üzeri",
+    "Sadece Birkaç Ay"
   ],
   "hashtags": [
     "#FactBite",
-    "#toprak",
-    "#doğa",
+    "#karga",
+    "#kuşlar",
     "#bilim",
+    "#hayvanlaralemi",
     "#ilginçbilgiler",
-    "#charlesdarwin",
-    "#tarım",
-    "#keşfet"
+    "#doğa"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için bizi takip etmeyi unutmayın!",
+    "en": "Don't forget to follow us for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -57,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Darwin Online & Natural History Museum",
-    "url": "https://www.nhm.ac.uk/discover/charles-darwin-and-earthworms.html"
+    "name": "Animal Behaviour / University of Washington",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S000334720900138X"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Solucanlar Dünyayı Nasıl Değiştiriyor?",
+  "_topic": "Kargaların Maskeli Yüzleri Unutmama Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-08T21:35:54.041121+00:00",
+  "generated_at": "2026-09-08T22:58:26.517687+00:00",
   "topic_guard_days": 180
 }

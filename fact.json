@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Uykusu",
-    "body": "Deniz otellerinde veya akvaryumlarda yüzgeçleri kesilmiş gibi uyuyan balıklar görürsünüz. Ama açık denizdeki bazı köpekbalıkları, örneğin büyük beyazlar, nefes alabilmek için sürekli hareket etmek zorundadır. Solungaçlarından su geçmesi için yüzmeye devam etmeleri gerekir. Peki, durduklarında boğulacaklarını bilen bu devler uykuyu nasıl atlatır? Akıntıya karşı yüzerek yarı bilinçli bir şekilde, adeta uyurgezer gibi yüzmeye devam ederler."
+    "headline": "Kedilerin Pürüzlü Dilleri Aslında Ne İşe Yarar?",
+    "body": "Kedileri seven herkes bilir, dilleri zımpara gibi pürüzlüdür. Peki bunun sadece tüylerini temizlemek için olduğunu mu sanıyorsunuz? Aslında bu minik kancalar, su içerken yerçekimine meydan okumalarını sağlar."
   },
   "en": {
-    "headline": "Sleep of the Seas",
-    "body": "You might see fish resting motionless in tanks. But certain open-ocean sharks, like great whites, must keep moving to breathe. Water must flow over their gills constantly. So how do these giants sleep knowing they'll suffocate if they stop? They swim against currents in a semi-conscious state, essentially sleep-swimming."
+    "headline": "What Are Cats' Rough Tongues Actually For?",
+    "body": "Everyone who loves cats knows their tongues are rough like sandpaper. Do you think this is just for grooming? Actually, these tiny hooks allow them to defy gravity while drinking water."
   },
   "es": {
-    "headline": "El Sueño de los Mares",
-    "body": "Podías ver peces descansando quietos en peceras. Pero ciertos tiburones oceánicos, como el gran blanco, deben seguir moviéndose para respirar. El agua debe fluir sobre sus branquias constantemente. Entonces, ¿cómo duermen estos gigantes sabiendo que se sofocarán si se detienen? Nadan contra las corrientes en un estado semiconsciente."
+    "headline": "¿Para qué sirven realmente las lenguas ásperas de los gatos?",
+    "body": "Todo amante de los gatos sabe que sus lenguas son ásperas como el papel de lija. ¿Crees que es solo para arreglarse? En realidad, estos pequeños ganchos les permiten desafiar la gravedad al beber agua."
   },
   "ar": {
-    "headline": "نوم البحار",
-    "body": "قد ترى أسماكاً تستريح بهدوء في الأحواض. لكن بعض أسماك القرش المحيطية، مثل القرش الأبيض الكبير، يجب أن تستمر في الحركة لكي تتنفس. يجب أن يتدفق الماء فوق خياشيمها باستمرار. إذن كيف تننام هذه العمالقة وهي تعلم أنها ستختنق إن توقفت؟ تسبح ضد التيار في حالة شبه واعية."
+    "headline": "ما هي الفائدة الحقيقية من لسان القطط الخشن؟",
+    "body": "كل محبي القطط يعلمون أن ألسنتهم خشنة مثل ورق الصنفرة. هل تعتقد أن هذا للتنظيف فقط؟ في الواقع، هذه الخطافات الصغيرة تمكنهم من تحدي الجاذبية أثناء شرب الماء."
   },
   "reel_hook": {
-    "tr": "Durdukları anda boğulan bu devler, okyanusta nasıl uyuyor?",
-    "en": "How do these giants that suffocate the moment they stop, sleep in the ocean?",
-    "es": "¿Cómo duermen en el océano estos gigantes que se ahogan en el momento en que se detienen?",
-    "ar": "كيف تنام هذه العمالقة التي تختنق بمجرد توقفها في المحيط؟"
+    "tr": "Kedinizin dili neden zımpara gibidir hiç düşündünüz mü?",
+    "en": "Have you ever wondered why a cat's tongue feels like sandpaper?",
+    "es": "¿Alguna vez te has preguntado por qué la lengua de un gato es como el papel de lija?",
+    "ar": "هل فكرت يومًا لماذا يشبه لسان القط ورق الصنفرة؟"
   },
   "story_question": {
-    "tr": "Sürekli hareket etmek zorunda olan bu köpekbalıkları uyurken ne yapar?",
-    "en": "What do these sharks that must constantly move do while sleeping?",
-    "es": "¿Qué hacen estos tiburones que deben moverse constantemente mientras duermen?",
-    "ar": "ماذا تفعل أسماك القرش التي يجب أن تتحرك باستمرار أثناء نومها؟"
+    "tr": "Kediler su içerken dillerini suya nasıl batırır?",
+    "en": "How do cats dip their tongues into water when drinking?",
+    "es": "¿Cómo sumergen los gatos su lengua en el agua al beber?",
+    "ar": "كيف تغمس القطط ألسنتها في الماء عند الشرب؟"
   },
   "story_options": [
-    "Akıntıya karşı yüzerek yarı bilinçli uyurlar",
-    "Oksijen maskesi takarlar",
-    "Sadece gündüzleri uyurlar"
+    "Suyu kaşık gibi şekillendirirler",
+    "Sadece suyun yüzeyine dokunup çekerler",
+    "Dillerini boru gibi kıvırırlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#köpekbalığı",
-    "#okyanus",
+    "#kedi",
     "#bilim",
+    "#hayvanlar",
+    "#ilginçbilgiler",
     "#keşfet",
-    "#doğa",
-    "#ilginçbilgiler"
+    "#eğlence"
   ],
   "cta": {
-    "tr": "Benzer gerçeği kaçırmamak için takip et!",
-    "en": "Follow so you don't miss similar facts!",
-    "es": "¡Síguete para no perderte datos similares!",
-    "ar": "اتبع حتى لا تفوتك الحقائق المماثلة!"
+    "tr": "Daha fazla ilginç bilgi için takip et!",
+    "en": "Follow for more interesting facts!",
+    "es": "¡Sígueme para más datos interesantes!",
+    "ar": "تابعنا للمزيد من الحقائق المثيرة للاهتمام!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Shark Research Institute",
-    "url": "https://www.sharks.org"
+    "name": "Science Magazine",
+    "url": "https://www.sciencemag.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Uykusu",
+  "_topic": "Kedilerin Pürüzlü Dilleri Aslında Ne İşe Yarar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-07T23:00:04.214624+00:00",
+  "generated_at": "2026-09-08T09:41:00.114035+00:00",
   "topic_guard_days": 180
 }

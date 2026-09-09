@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıklar Aslında Nasıl Su İçer?",
-    "body": "Denizde yaşayan balıkların suyu yutarak içtiğini düşünüyorsanız, yanılıyorsunuz! Çoğu tuzlu su balığı, suyu doğrudan içmek yerine solungaçları aracılığıyla sürekli bir osmoz süreciyle emer. Yani aslında suyu içmezler, su onların içinden akar."
+    "headline": "Uyurken Bile Göz Açık Kalabilen Tek Canlı",
+    "body": "Köpekbalıklarının göz kapakları yoktur. Gözlerini korumak için bazı türler 'nictitating' adı verilen şeffaf bir zara sahiptir, bazıları ise derinlere daldıklarında gözlerini korumak için doğrudan içeri doğru çeker. Yani okyanusların bu avcıları, tamamen savunmasız anlarında bile aslında etrafı izlemeye devam eder."
   },
   "en": {
-    "headline": "How Do Fish Actually Drink Water?",
-    "body": "If you think fish living in the ocean drink water by swallowing it, you're wrong! Most saltwater fish absorb water continuously through their gills via osmosis instead of drinking it directly."
+    "headline": "The Only Creature That Can Keep Its Eyes Open Even While Sleeping",
+    "body": "Sharks don't have eyelids. To protect their eyes, some species have a transparent membrane called a nictitating membrane, while others pull their eyes inward when diving deep. This means these ocean predators continue to watch their surroundings even in their most vulnerable moments."
   },
   "es": {
-    "headline": "¿Cómo Beben Agua Realmente los Peces?",
-    "body": "Si piensas que los peces que viven en el mar tragan agua para beber, ¡te equivocas! La mayoría de los peces de agua salada absorben agua continuamente a través de sus branquias mediante osmosis."
+    "headline": "La única criatura que puede mantener los ojos abiertos incluso mientras duerme",
+    "body": "Los tiburones no tienen párpados. Para proteger sus ojos, algunas especies tienen una membrana transparente llamada membrana nictitante, mientras que otras retraen los ojos hacia adentro al bucear profundo. Esto significa que estos depredadores del océano continúan observando su entorno incluso en sus momentos más vulnerables."
   },
   "ar": {
-    "headline": "كيف تشرب الأسماك الماء حقاً؟",
-    "body": "إذا كنت تعتقد أن الأسماك التي تعيش في البحر تشرب الماء عن طريق ابتلاعه، فأنت مخطئ! معظم أسماك المياه المالحة تمتص الماء باستمرار عبر خياشيمها من خلال التناضح."
+    "headline": "المخلوق الوحيد الذي يمكنه إبقاء عينيه مفتوحتين حتى أثناء النوم",
+    "body": "لا تمتلك سمكة القرش جفوناً. لحماية عيونها، تمتلك بعض الأنواع غشاءً شفافاً يسمى الغشاء الرموشي، بينما تسحب أنواع أخرى عيونها للداخل عند الغوص عميقاً. هذا يعني أن هؤلاء المفترسين في المحيط يستصلحون مراقبة محيطهم حتى في أكثر لحظاتهم ضعفاً."
   },
   "reel_hook": {
-    "tr": "Okyanusta yaşayan balıklar suyu asla böyle içmez!",
-    "en": "Fish living in the ocean never drink water like this!",
-    "es": "¡Los peces que viven en el océano nunca beben agua así!",
-    "ar": "الأسماك التي تعيش في المحيط لا تشرب الماء هكذا أبداً!"
+    "tr": "Köpekbalıkları uyurken neden asla gözlerini kapatmaz?",
+    "en": "Why do sharks never close their eyes when they sleep?",
+    "es": "¿Por qué los tiburones nunca cierran los ojos cuando duermen?",
+    "ar": "لماذا لا تغلق أسماك القرش عيونها أبداً عندما تنام؟"
   },
   "story_question": {
-    "tr": "Sizce tuzlu su balıkları vücutlarındaki fazla tuzu nasıl dışarı atar?",
-    "en": "How do you think saltwater fish get rid of excess salt in their bodies?",
-    "es": "¿Cómo crees que los peces de agua salada eliminan el exceso de sal?",
-    "ar": "كيف تعتقد أن أسماك المياه المالحة تتخلص من الملح الزائد في أجسامها؟"
+    "tr": "Köpekbalıklarının göz kapakları var mıdır?",
+    "en": "Do sharks have eyelids?",
+    "es": "¿Los tiburones tienen párpados?",
+    "ar": "هل تمتلك أسماك القرش جفوناً؟"
   },
   "story_options": [
-    "Solungaçlarıyla",
-    "Terleyerek",
-    "Derileriyle"
+    "Evet, var",
+    "Hayır, yok",
+    "Sadece bazı türlerde var"
   ],
   "hashtags": [
     "#FactBite",
+    "#köpekbalığı",
+    "#denizcanlıları",
     "#bilim",
-    "#deniz",
-    "#balıklar",
+    "#okyanus",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#doğa"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydunuz? Yorumlarda buluşalım!",
-    "en": "Did you know this before? Let us know in the comments!",
-    "es": "¿Sías esto antes? ¡Cuéntanos en los comentarios!",
-    "ar": "هل كنت تعرف هذا من قبل؟ أخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "National Oceanic and Atmospheric Administration",
-    "url": "https://www.noaa.gov"
+    "name": "Shark Research Institute",
+    "url": "https://www.sharks.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıklar Aslında Nasıl Su İçer?",
+  "_topic": "Uyurken Bile Göz Açık Kalabilen Tek Canlı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-09T15:12:13.183126+00:00",
+  "generated_at": "2026-09-09T17:02:00.319306+00:00",
   "topic_guard_days": 180
 }

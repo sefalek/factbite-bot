@@ -1,57 +1,57 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Kafalarını Neden Sallar?",
-    "body": "Yürürken kafalarını sürekli öne arkaya sallayan güvercinleri kesinlikle fark etmişsünüzdür. Aslında bu bir yürüyüş figürü değil, hareketli bir dünyada sabit kalabilmek için kullanılan kusursuz bir optik sabitleme yöntemidir. Güvercinler yürürken başlarını bir an için havada sabit tutar, vücutları arkadan yetiştiğinde başı hızla öne fırlatırlar. Eğer bunu yapmasalardı, her adımda çevrelerindeki tüm görüntü sürekli bulanıklaşır ve dünyayı sabit bir şekilde göremezlerdi."
+    "headline": "Kuşlar Kafalarını Neden Bu Kadar Garip Sallar?",
+    "body": "Yürürken kafalarını ileri geri sallayan güvercinleri sık sık görürüz. Aslında bu bir yürüyüş hareketi değil; dünya sabit dururken etrafı net görebilmek için kafalarını anlık olarak sabitleme refleksidir. Yani kafalarını ileri atıp bekletirler, gövde onları yakalar."
   },
   "en": {
     "headline": "Why Do Birds Bob Their Heads?",
-    "body": "You have definitely noticed pigeons bobbing their heads back and forth while walking. Actually, this is not a walking style, but a flawless optical stabilization method used to keep vision steady in a moving world. As they walk, pigeons hold their head still in the air for a fraction of a second, then quickly thrust it forward as their body catches up. If they didn't do this, the entire view around them would constantly blur with every step."
+    "body": "We often see pigeons bobbing their heads back and forth while walking. This isn't actually part of their walk; it's a reflex to keep their vision stable while the world moves. They push their head forward and hold it still while their body catches up."
   },
   "es": {
-    "headline": "¿Por qué las aves mueven la cabeza al caminar?",
-    "body": "Seguro que has notado que las palomas mueven la cabeza hacia adelante y hacia atrás al caminar. En realidad, esto no es un estilo al caminar, sino un método de estabilización óptica perfecto para mantener la visión fija en un mundo en movimiento. Mientras caminan, las palomas mantienen la cabeza quieta en el aire por un instante y luego la lanzan rápidamente hacia adelante."
+    "headline": "Por qué las aves mueven la cabeza al caminar",
+    "body": "A menudo vemos palomas moviendo la cabeza hacia adelante y hacia atrás al caminar. En realidad, no es parte de su paso, sino un reflejo para mantener la visión estable mientras el mundo se mueve. Avanzan la cabeza y la mantienen fija mientras el cuerpo los alcanza."
   },
   "ar": {
     "headline": "لماذا تحرك الطيور رؤوسها للأمام والخلف؟",
-    "body": "لقد لاحظت بالتأكيد الحمام وهو يحرك رؤوسه للأمام والخلف أثناء المشي. في الواقع، هذه ليست مجرد حركة عادية، بل هي طريقة تثبيت بصري مثالية تُستخدم للحفاظ على رؤية ثابتة في عالم متحرك. عندما تمشي الحمام، تثبت رأسها في الهواء لثانية، ثم تحركها بسرعة للأمام."
+    "body": "نرى غالباً الحمام يحرك رأسه للأمام والخلف أثناء المشي. في الواقع، هذه ليست حركة للمشي، بل هي رد فعل للحفاظ على رؤية ثابتة أثناء تحرك العالم. إنهم يدفعون رؤوسهم للأمام ويثبتونها بينما اللحاق بالجسم."
   },
   "reel_hook": {
-    "tr": "Güvercinler yürürken kafalarını neden sürekli sallar?",
-    "en": "Why do pigeons constantly bob their heads while walking?",
-    "es": "¿Por qué las palomas mueven constantemente la cabeza al caminar?",
-    "ar": "لماذا يحرك الحمام رأسه باستمرار أثناء المشي؟"
+    "tr": "Güvercinler yürürken kafalarını neden sürekli sallar hiç düşündünüz mü?",
+    "en": "Have you ever wondered why pigeons constantly bob their heads while walking?",
+    "es": "¿Alguna vez te has preguntado por qué las palomas mueven la cabeza constantemente al caminar?",
+    "ar": "هل تساؤلت يوماً لماذا يحرك الحمام رأسه باستمرار أثناء المشي؟"
   },
   "story_question": {
-    "tr": "Güvercinlerin bu kafa hareketinin asıl amacı nedir?",
-    "en": "What is the real purpose of this head movement in pigeons?",
+    "tr": "Güvercinlerin bu kafa hareketi asıl ne işe yarar?",
+    "en": "What is the actual purpose of this head movement in pigeons?",
     "es": "¿Cuál es el propósito real de este movimiento de cabeza en las palomas?",
     "ar": "ما هو الغرض الحقيقي من حركة الرأس هذه لدى الحمام؟"
   },
   "story_options": [
     "Görüntüyü sabitlemek",
-    "Dengeyi sağlamak",
-    "Yönü bulmak"
+    "Dengeyi korumak",
+    "Yön bulmak"
   ],
   "hashtags": [
     "#FactBite",
     "#kuşlar",
     "#güvercin",
+    "#doğa",
     "#bilim",
     "#ilginçbilgiler",
-    "#doğa",
-    "#hayvanlar"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu bildiğinizi muhtemel kimse bilmiyordu, arkadaşına gönder!",
-    "en": "Probably nobody knew this, send it to a friend!",
-    "es": "Probablemente nadie sabía esto, ¡envíaselo a un amigo!",
-    "ar": "ربما لم يكن أحد يعرف هذا، أرسله لصديق!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
@@ -61,9 +61,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Kafalarını Neden Sallar?",
+  "_topic": "Kuşlar Kafalarını Neden Bu Kadar Garip Sallar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-09T11:18:29.059566+00:00",
+  "generated_at": "2026-09-09T12:59:41.373731+00:00",
   "topic_guard_days": 180
 }

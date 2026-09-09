@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedi Bıyıkları Aslında Birer Cetvel Mi?",
-    "body": "Kedilerin yüzlerindeki o uzun tüyler sadece sevimli bir detay değil. Kedi bıyıkları, hayvanın vücut genişliğini kusursuzca ölçmesini sağlayan inanılmaz hassas birer mesafe sensörüdür."
+    "headline": "Kuşların Gözlerini Koruyan Görünmez Perde",
+    "body": "Biliyor musunuz, martılar ve dalgıç kuşları gibi bazı türler su altına dalarken gözlerini korumak için üçüncü bir göz kapağı kullanır. Nictitating membrane adı verilen bu şeffaf yapı, su altındayken adeta doğuştan takılmış bir dalış gözlüğü gibi çalışır; hem görüşü engellemez hem de hassas göz yüzeyini tamamen korur."
   },
   "en": {
-    "headline": "Are Cat Whiskers Actually Rulers?",
-    "body": "Those long hairs on a cat's face aren't just a cute detail. Cat whiskers act as incredibly sensitive distance sensors, allowing the animal to measure its body width perfectly."
+    "headline": "The Invisible Curtain Protecting Birds' Eyes",
+    "body": "Did you know that some species, like gulls and diving birds, use a third eyelid to protect their eyes while diving underwater? This transparent structure, called the nictitating membrane, acts almost like built-in diving goggles, keeping vision clear while fully protecting the sensitive eye surface."
   },
   "es": {
-    "headline": "¿Son los bigotes de los gatos en realidad reglas?",
-    "body": "Esos largos pelos en la cara de un gato no son solo un detalle tierno. Los bigotes actúan como sensores de distancia increíblemente sensibles, permitiéndole medir el ancho de su cuerpo a la perfección."
+    "headline": "La cortina invisible que protege los ojos de las aves",
+    "body": "¿Sabías que algunas especies, como las gaviotas y las aves buceadoras, usan un tercer párpado para proteger sus ojos al sumergirse? Esta estructura transparente, llamada membrana nictitante, actúa como unas gafas de baño incorporadas, manteniendo la visión clara y protegiendo la superficie ocular."
   },
   "ar": {
-    "headline": "هل شوارب القطط مساطر في الواقع؟",
-    "body": "تلك الشعيرات الطويلة على وجه القطة ليست مجرد تفصيل لطيف. تعمل شوارب القطط كحساسات مسافة حساسة بشكل لا يصدق، مما يسمح للحيوان بقياس عرض جسمه بشكل مثالي."
+    "headline": "الستار الخفي الذي يحمي عيون الطيور",
+    "body": "هل تعلم أن بعض الأنواع، مثل النورس والطيور الغواصة، تستخدم جفناً ثالثاً حماية لعيونها أثناء الغوص تحت الماء؟ هذه البنية الشفافة، المسمى بالغشاء الرافد، تعمل بمثابة نظارات غوص مدمجة تحافظ على وضوح الرؤية."
   },
   "reel_hook": {
-    "tr": "Kedilerin bıyıkları düşündüğünüzden çok daha fazla işe yarıyor...",
-    "en": "A cat's whiskers do way more than you think...",
-    "es": "Los bigotes de los gatos sirven para mucho más de lo que imaginas...",
-    "ar": "شوارب القطط تفعل أكثر بكثير مما تتخيل..."
+    "tr": "Su altına dalan bazı kuşların gözlerinde neden doğuştan bir 'dalış gözlüğü' var?",
+    "en": "Why do some diving birds have built-in 'diving goggles' over their eyes?",
+    "es": "¿Por qué algunas aves buceadoras tienen 'gafas de buceo' integradas en sus ojos?",
+    "ar": "لماذا تمتلك بعض الطيور الغواصة \"نظارات غوص\" مدمجة في عيونها؟"
   },
   "story_question": {
-    "tr": "Kediler bıyıklarını kaybederse ne olur?",
-    "en": "What happens if cats lose their whiskers?",
-    "es": "¿Qué pasa si los gatos pierden sus bigotes?",
-    "ar": "ماذا يحدث إذا فقدت القطط شواربها؟"
+    "tr": "Bu şeffaf üçüncü göz kapağı başka hangi hayvanlarda bulunur?",
+    "en": "In which other animals can this transparent third eyelid be found?",
+    "es": "¿En qué otros animales se puede encontrar este tercer párpado transparente?",
+    "ar": "في أي حيوانات أخرى يمكن العثور على هذا الجفن الثالث الشفاف؟"
   },
   "story_options": [
-    "Denge ve yön duyguları bozulur",
-    "Hiçbir şey değişmez",
-    "Sürekli uyumak isterler"
+    "Köpekbalıkları ve Kediler",
+    "Yalnızca Sürüngenler",
+    "Sadece Böcekler"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
+    "#doğa",
+    "#kuşlar",
     "#bilim",
-    "#hayvanlar",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#doğa"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu bilmesini istediğin bir kediciğe gönder!",
-    "en": "Send this to a cat lover who needs to know this!",
-    "es": "¡Envíaselo a un amante de los gatos que necesite saber esto!",
-    "ar": "أرسل هذا إلى صديق يحب القطط ليقرا هذه المعلومة!"
+    "tr": "Benzer şaşırtıcı doğa sırları için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising nature secrets!",
+    "es": "¡No olvides seguirnos para más secretos sorprendentes de la naturaleza!",
+    "ar": "لا تنس متابعة المزيد من أسرار الطبيعة المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "PetMD",
-    "url": "https://www.petmd.com/cat/behavior/evr_ct_why_do_cats_have_whiskers"
+    "name": "Ornithology and Animal Adaptation Studies",
+    "url": "https://www.audubon.org/news/birds-have-built-nearsightedness-goggles-and-more"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedi Bıyıkları Aslında Birer Cetvel Mi?",
+  "_topic": "Kuşların Gözlerini Koruyan Görünmez Perde",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-09T18:21:45.852030+00:00",
+  "generated_at": "2026-09-09T21:30:59.923687+00:00",
   "topic_guard_days": 180
 }

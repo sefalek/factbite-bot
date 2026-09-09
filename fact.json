@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Derinliklerindeki 'Cam' Balık",
-    "body": "Biliyor musun, bazı balıkların kafatası tamamen şeffaftır! Makropina mikrostoma adı verilen bu derin deniz balığı, yukarıyı görebilmek için gözlerini cam gibi saydam kafasının içinde döndürebilir. Karanlık sularda avını kaçırmamak için evrimin yarattığı bu mucizevi cam kask, kafasının içindeki yeşil gözlerin doğrudan yukarıdaki avların siluetini yakalamasını sağlar."
+    "headline": "Kuşlar Kafalarını Neden Sallar?",
+    "body": "Yürürken kafalarını sürekli öne arkaya sallayan güvercinleri kesinlikle fark etmişsünüzdür. Aslında bu bir yürüyüş figürü değil, hareketli bir dünyada sabit kalabilmek için kullanılan kusursuz bir optik sabitleme yöntemidir. Güvercinler yürürken başlarını bir an için havada sabit tutar, vücutları arkadan yetiştiğinde başı hızla öne fırlatırlar. Eğer bunu yapmasalardı, her adımda çevrelerindeki tüm görüntü sürekli bulanıklaşır ve dünyayı sabit bir şekilde göremezlerdi."
   },
   "en": {
-    "headline": "The 'Glass' Fish of the Deep Sea",
-    "body": "Did you know some fish have a completely transparent skull? Called Macropinna microstoma, this deep-sea fish can rotate its eyes inside its transparent, glass-like head to look upward. This miraculous glass helmet, created by evolution to ensure it never misses a prey in dark waters, allows the green eyes inside its head to directly catch the silhouettes of prey above."
+    "headline": "Why Do Birds Bob Their Heads?",
+    "body": "You have definitely noticed pigeons bobbing their heads back and forth while walking. Actually, this is not a walking style, but a flawless optical stabilization method used to keep vision steady in a moving world. As they walk, pigeons hold their head still in the air for a fraction of a second, then quickly thrust it forward as their body catches up. If they didn't do this, the entire view around them would constantly blur with every step."
   },
   "es": {
-    "headline": "El pez 'de cristal' de las profundidades marinas",
-    "body": "¿Sabías que algunos peces tienen el cráneo completamente transparente? Llamado Macropinna microstoma, este pez de aguas profundas puede rotar sus ojos dentro de su cabeza transparente y parecida al cristal para mirar hacia arriba. Este milagroso casco de cristal, creado por la evolución para asegurar que nunca pierda una presa en aguas oscuras, permite que los ojos verdes dentro de su cabeza capten directamente las siluetas de las presas de arriba."
+    "headline": "¿Por qué las aves mueven la cabeza al caminar?",
+    "body": "Seguro que has notado que las palomas mueven la cabeza hacia adelante y hacia atrás al caminar. En realidad, esto no es un estilo al caminar, sino un método de estabilización óptica perfecto para mantener la visión fija en un mundo en movimiento. Mientras caminan, las palomas mantienen la cabeza quieta en el aire por un instante y luego la lanzan rápidamente hacia adelante."
   },
   "ar": {
-    "headline": "سمكة 'الزجاج' في أعماق البحار",
-    "body": "هل تعلم أن بعض الأسماك تمتلك جمجمة شفافة تماماً؟ هذه السمكة التي تعيش في أعماق البحار وتدعى Macropinna microstoma، يمكنها إدارة عينيها داخل رأسها الشفاف الذي يشبه الزجاج لتنظر إلى الأعلى. هذه الخوذة الزجاجية المعجزة، التي أنشأتها الطبيعة لضمان عدم تفويت أي فريسة في المياه المظلمة، تتيح للعينين الخضراوين داخل رأسها رصد صور الفرائس العلوية مباشرة."
+    "headline": "لماذا تحرك الطيور رؤوسها للأمام والخلف؟",
+    "body": "لقد لاحظت بالتأكيد الحمام وهو يحرك رؤوسه للأمام والخلف أثناء المشي. في الواقع، هذه ليست مجرد حركة عادية، بل هي طريقة تثبيت بصري مثالية تُستخدم للحفاظ على رؤية ثابتة في عالم متحرك. عندما تمشي الحمام، تثبت رأسها في الهواء لثانية، ثم تحركها بسرعة للأمام."
   },
   "reel_hook": {
-    "tr": "Bu balığın kafasının içini doğrudan görebildiğinizi biliyor muydunuz?",
-    "en": "Did you know you can see right through this fish's head?",
-    "es": "¿Sabías que puedes ver a través de la cabeza de este pez?",
-    "ar": "هل كنت تعلم أنك تستطيع الرؤية من خلال رأس هذه السمكة مباشرة؟"
+    "tr": "Güvercinler yürürken kafalarını neden sürekli sallar?",
+    "en": "Why do pigeons constantly bob their heads while walking?",
+    "es": "¿Por qué las palomas mueven constantemente la cabeza al caminar?",
+    "ar": "لماذا يحرك الحمام رأسه باستمرار أثناء المشي؟"
   },
   "story_question": {
-    "tr": "Bu şeffaf kafalı derin deniz balığının gözleri kafasının neresindedir?",
-    "en": "Where are the eyes of this transparent-headed deep-sea fish located?",
-    "es": "¿Dónde se encuentran los ojos de este pez de aguas profundas con cabeza transparente?",
-    "ar": "أين تقع عينا هذه السمكة التي تمتلك رأساً شفافاً في أعماق البحار؟"
+    "tr": "Güvercinlerin bu kafa hareketinin asıl amacı nedir?",
+    "en": "What is the real purpose of this head movement in pigeons?",
+    "es": "¿Cuál es el propósito real de este movimiento de cabeza en las palomas?",
+    "ar": "ما هو الغرض الحقيقي من حركة الرأس هذه لدى الحمام؟"
   },
   "story_options": [
-    "Kafasının içinde, yukarı bakacak şekilde",
-    "Sırt yüzgecinin hemen altında",
-    "Ağzının her iki yanında"
+    "Görüntüyü sabitlemek",
+    "Dengeyi sağlamak",
+    "Yönü bulmak"
   ],
   "hashtags": [
     "#FactBite",
+    "#kuşlar",
+    "#güvercin",
     "#bilim",
-    "#doğa",
     "#ilginçbilgiler",
-    "#okyanus",
-    "#derindeniz",
-    "#biyoloji"
+    "#doğa",
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu bildiğinizi muhtemel kimse bilmiyordu, arkadaşına gönder!",
+    "en": "Probably nobody knew this, send it to a friend!",
+    "es": "Probablemente nadie sabía esto, ¡envíaselo a un amigo!",
+    "ar": "ربما لم يكن أحد يعرف هذا، أرسله لصديق!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Monterey Bay Aquarium Research Institute (MBARI)",
-    "url": "https://www.mbari.org"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org/news/why-do-pigeons-bob-their-heads-when-they-walk"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Derinliklerindeki 'Cam' Balık",
+  "_topic": "Kuşlar Kafalarını Neden Sallar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-09T09:44:05.022788+00:00",
+  "generated_at": "2026-09-09T11:18:29.059566+00:00",
   "topic_guard_days": 180
 }

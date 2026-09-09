@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Kafalarını Neden Bu Kadar Garip Sallar?",
-    "body": "Yürürken kafalarını ileri geri sallayan güvercinleri sık sık görürüz. Aslında bu bir yürüyüş hareketi değil; dünya sabit dururken etrafı net görebilmek için kafalarını anlık olarak sabitleme refleksidir. Yani kafalarını ileri atıp bekletirler, gövde onları yakalar."
+    "headline": "Balıklar Aslında Nasıl Su İçer?",
+    "body": "Denizde yaşayan balıkların suyu yutarak içtiğini düşünüyorsanız, yanılıyorsunuz! Çoğu tuzlu su balığı, suyu doğrudan içmek yerine solungaçları aracılığıyla sürekli bir osmoz süreciyle emer. Yani aslında suyu içmezler, su onların içinden akar."
   },
   "en": {
-    "headline": "Why Do Birds Bob Their Heads?",
-    "body": "We often see pigeons bobbing their heads back and forth while walking. This isn't actually part of their walk; it's a reflex to keep their vision stable while the world moves. They push their head forward and hold it still while their body catches up."
+    "headline": "How Do Fish Actually Drink Water?",
+    "body": "If you think fish living in the ocean drink water by swallowing it, you're wrong! Most saltwater fish absorb water continuously through their gills via osmosis instead of drinking it directly."
   },
   "es": {
-    "headline": "Por qué las aves mueven la cabeza al caminar",
-    "body": "A menudo vemos palomas moviendo la cabeza hacia adelante y hacia atrás al caminar. En realidad, no es parte de su paso, sino un reflejo para mantener la visión estable mientras el mundo se mueve. Avanzan la cabeza y la mantienen fija mientras el cuerpo los alcanza."
+    "headline": "¿Cómo Beben Agua Realmente los Peces?",
+    "body": "Si piensas que los peces que viven en el mar tragan agua para beber, ¡te equivocas! La mayoría de los peces de agua salada absorben agua continuamente a través de sus branquias mediante osmosis."
   },
   "ar": {
-    "headline": "لماذا تحرك الطيور رؤوسها للأمام والخلف؟",
-    "body": "نرى غالباً الحمام يحرك رأسه للأمام والخلف أثناء المشي. في الواقع، هذه ليست حركة للمشي، بل هي رد فعل للحفاظ على رؤية ثابتة أثناء تحرك العالم. إنهم يدفعون رؤوسهم للأمام ويثبتونها بينما اللحاق بالجسم."
+    "headline": "كيف تشرب الأسماك الماء حقاً؟",
+    "body": "إذا كنت تعتقد أن الأسماك التي تعيش في البحر تشرب الماء عن طريق ابتلاعه، فأنت مخطئ! معظم أسماك المياه المالحة تمتص الماء باستمرار عبر خياشيمها من خلال التناضح."
   },
   "reel_hook": {
-    "tr": "Güvercinler yürürken kafalarını neden sürekli sallar hiç düşündünüz mü?",
-    "en": "Have you ever wondered why pigeons constantly bob their heads while walking?",
-    "es": "¿Alguna vez te has preguntado por qué las palomas mueven la cabeza constantemente al caminar?",
-    "ar": "هل تساؤلت يوماً لماذا يحرك الحمام رأسه باستمرار أثناء المشي؟"
+    "tr": "Okyanusta yaşayan balıklar suyu asla böyle içmez!",
+    "en": "Fish living in the ocean never drink water like this!",
+    "es": "¡Los peces que viven en el océano nunca beben agua así!",
+    "ar": "الأسماك التي تعيش في المحيط لا تشرب الماء هكذا أبداً!"
   },
   "story_question": {
-    "tr": "Güvercinlerin bu kafa hareketi asıl ne işe yarar?",
-    "en": "What is the actual purpose of this head movement in pigeons?",
-    "es": "¿Cuál es el propósito real de este movimiento de cabeza en las palomas?",
-    "ar": "ما هو الغرض الحقيقي من حركة الرأس هذه لدى الحمام؟"
+    "tr": "Sizce tuzlu su balıkları vücutlarındaki fazla tuzu nasıl dışarı atar?",
+    "en": "How do you think saltwater fish get rid of excess salt in their bodies?",
+    "es": "¿Cómo crees que los peces de agua salada eliminan el exceso de sal?",
+    "ar": "كيف تعتقد أن أسماك المياه المالحة تتخلص من الملح الزائد في أجسامها؟"
   },
   "story_options": [
-    "Görüntüyü sabitlemek",
-    "Dengeyi korumak",
-    "Yön bulmak"
+    "Solungaçlarıyla",
+    "Terleyerek",
+    "Derileriyle"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#güvercin",
-    "#doğa",
     "#bilim",
+    "#deniz",
+    "#balıklar",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#keşfet",
+    "#doğa"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunu daha önce biliyor muydunuz? Yorumlarda buluşalım!",
+    "en": "Did you know this before? Let us know in the comments!",
+    "es": "¿Sías esto antes? ¡Cuéntanos en los comentarios!",
+    "ar": "هل كنت تعرف هذا من قبل؟ أخبرنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org/news/why-do-pigeons-bob-their-heads-when-they-walk"
+    "name": "National Oceanic and Atmospheric Administration",
+    "url": "https://www.noaa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Kafalarını Neden Bu Kadar Garip Sallar?",
+  "_topic": "Balıklar Aslında Nasıl Su İçer?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-09T12:59:41.373731+00:00",
+  "generated_at": "2026-09-09T15:12:13.183126+00:00",
   "topic_guard_days": 180
 }

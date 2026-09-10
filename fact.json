@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Oluyor Da Camları Göremiyor?",
-    "body": "Kuşlar yüksek hızda uçarken bazen camlara çarparlar. Bunun sebebi camın görünmez olması değil, arkasındaki manzarayı kusursuz bir şekilde yansıtmasıdır. Kuşlar önlerinde açık bir gökyüzü veya ağaç görürler, ancak bu aslında sadece bir aynadır."
+    "headline": "Kuşlar Uçarken Neden Asla Yönünü Şaşırmaz?",
+    "body": "Gökyüzünde kusursuz bir uyumla uçan kuşlar, pusulaya ihtiyaç duymadan binlerce kilometre yol alır. Sırrı gagalarındaki minik manyetik kristallerde saklıdır; bu kristaller Dünya'nın manyetik alanını adeta bir harita gibi okumalarını sağlar."
   },
   "en": {
-    "headline": "How Come Birds Can't See Glass?",
-    "body": "Birds sometimes crash into windows while flying at high speeds. This isn't because glass is invisible, but because it perfectly reflects the scenery behind it. Birds see an open sky or trees ahead, but it's actually just a mirror."
+    "headline": "Why Birds Never Lose Their Way While Flying",
+    "body": "Birds flying in perfect harmony travel thousands of miles without a compass. The secret lies in tiny magnetic crystals in their beaks that allow them to read Earth's magnetic field like a map."
   },
   "es": {
-    "headline": "¿Cómo es que los pájaros no pueden ver el vidrio?",
-    "body": "A veces los pájaros chocan contra las ventanas mientras vuelan a alta velocidad. Esto no se debe a que el vidrio sea invisible, sino a que refleja perfectamente el paisaje que tiene detrás. Los pájaros ven un cielo abierto o árboles al frente, pero en realidad es solo un espejo."
+    "headline": "Por qué las aves nunca pierden el rumbo al volar",
+    "body": "Las aves que vuelan en perfecta armonía viajan miles de kilómetros sin brújula. El secreto radica en diminutos cristales magnéticos en sus picos que les permiten leer el campo magnético de la Tierra como un mapa."
   },
   "ar": {
-    "headline": "كيف لا تستطيع الطيور رؤية الزجاج؟",
-    "body": "تصطدم الطيور أحياناً بالنوافذ أثناء طيرانها بسرعة عالية. لا يعود هذا لكون الزجاج غير مرئي، بل لأنه يعكس المشهد خلفه بشكل مثالي. ترى الطيور سماء مفتوحة أو أشجاراً أمامها، ولكنه في الحقيقة مجرد مرآة."
+    "headline": "لماذا لا تضيع الطيور طريقها أبداً أثناء الطيران",
+    "body": "الطيور التي تطير بتناغم تام تقطع آلاف الأميال دون بوصلة. يكمن السر في بلورات مغناطيسية دقيقة في مناقيرها تمكنها من قراءة المجال المغناطيسي للأرض كخريطة."
   },
   "reel_hook": {
-    "tr": "Uçarken binalara çarpan kuşların asıl sebebini biliyor musun?",
-    "en": "Do you know the real reason why birds crash into buildings while flying?",
-    "es": "¿Sabes la verdadera razón por la cual los pájaros chocan contra los edificios mientras vuelan?",
-    "ar": "هل تعرف السبب الحقيقي وراء اصطدام الطيور بالمبنى أثناء الطيران؟"
+    "tr": "Pusulanız yoksa binlerce kilometrelik yolu nasıl bulurdunuz?",
+    "en": "How would you find your way across thousands of miles without a compass?",
+    "es": "¿Cómo encontrarías tu camino a través de miles de kilómetros sin brújula?",
+    "ar": "كيف ستجد طريقك عبر آلاف الأميال بدون بوصلة؟"
   },
   "story_question": {
-    "tr": "Kuşların camları fark edememesinin temel sebebi nedir?",
-    "en": "What is the main reason birds fail to notice windows?",
-    "es": "¿Cuál es la razón principal por la que los pájaros no notan las ventanas?",
-    "ar": "ما هو السبب الرئيسي لعدم ملاحظة الطيور للنوافذ؟"
+    "tr": "Sizce kuşlar göç ederken yönlerini öncelikle neye göre bulur?",
+    "en": "What do you think guides birds primarily during migration?",
+    "es": "¿Qué crees que guía principalmente a las aves durante la migración?",
+    "ar": "ما الذي تعتقد أنه يوجه الطيور بشكل أساسي أثناء الهجرة؟"
   },
   "story_options": [
-    "Camın arkasını göstermesi",
-    "Yansıma yapması",
-    "Çok parlak olması"
+    "Güneş ve Yıldızlar",
+    "Dünyanın Manyetik Alanı",
+    "Koku Alma Duyusu"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
     "#kuşlar",
+    "#doğa",
     "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlar",
-    "#keşfet"
+    "#keşfet",
+    "#göç",
+    "#hayvanlaralemi"
   ],
   "cta": {
     "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
     "en": "Don't forget to follow for more facts like this!",
     "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.5
+    "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org/news/why-birds-hit-glass-and-how-you-can-help-stop-it"
+    "name": "Avian Navigation Science",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Oluyor Da Camları Göremiyor?",
+  "_topic": "Kuşlar Uçarken Neden Asla Yönünü Şaşırmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-10T19:33:32.884724+00:00",
+  "generated_at": "2026-09-10T21:25:05.589749+00:00",
   "topic_guard_days": 180
 }

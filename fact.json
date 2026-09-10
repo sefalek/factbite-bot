@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Gece Lambaları",
-    "body": "Bazı kalamar türleri, karınlarında taşıdıkları özel organlar sayesinde ışık üretebilir. Bu yetenek, avcılarının yukarıdan baktıklarında gölgelerini fark etmesini engeller. Işık miktarını suyun yüzeyinden gelen parlaklığa göre ayarlayarak kusursuz bir görünmezlik sağlarlar."
+    "headline": "Kuşlar Nasıl Oluyor Da Camları Göremiyor?",
+    "body": "Kuşlar yüksek hızda uçarken bazen camlara çarparlar. Bunun sebebi camın görünmez olması değil, arkasındaki manzarayı kusursuz bir şekilde yansıtmasıdır. Kuşlar önlerinde açık bir gökyüzü veya ağaç görürler, ancak bu aslında sadece bir aynadır."
   },
   "en": {
-    "headline": "The Ocean's Night Lights",
-    "body": "Some squid species can produce light through special organs on their bellies. This ability prevents predators from spotting their shadows when looking from above. They achieve perfect invisibility by adjusting the light amount according to the brightness coming from the water's surface."
+    "headline": "How Come Birds Can't See Glass?",
+    "body": "Birds sometimes crash into windows while flying at high speeds. This isn't because glass is invisible, but because it perfectly reflects the scenery behind it. Birds see an open sky or trees ahead, but it's actually just a mirror."
   },
   "es": {
-    "headline": "Las luces nocturnas del océano",
-    "body": "Algunas especies de calamares pueden producir luz a través de órganos especiales en sus vientres. Esta capacidad evita que los depredadores detecten sus sombras al mirar desde arriba. Logran una invisibilidad perfecta ajustando la cantidad de luz según el brillo que proviene de la superficie del agua."
+    "headline": "¿Cómo es que los pájaros no pueden ver el vidrio?",
+    "body": "A veces los pájaros chocan contra las ventanas mientras vuelan a alta velocidad. Esto no se debe a que el vidrio sea invisible, sino a que refleja perfectamente el paisaje que tiene detrás. Los pájaros ven un cielo abierto o árboles al frente, pero en realidad es solo un espejo."
   },
   "ar": {
-    "headline": "أضواء المحيط الليلية",
-    "body": "يمكن لبعض أنواع الحبار إنتاج الضوء من خلال أعضاء خاصة على بطونها. تمنع هذه القدرة الحيوانات المفترسة من اكتشاف ظلالها عند النظر من الأعلى. وهي تحقق خفاءً تامًا عن طريق ضبط كمية الضوء وفقًا للسطوع القادم من سطح الماء."
+    "headline": "كيف لا تستطيع الطيور رؤية الزجاج؟",
+    "body": "تصطدم الطيور أحياناً بالنوافذ أثناء طيرانها بسرعة عالية. لا يعود هذا لكون الزجاج غير مرئي، بل لأنه يعكس المشهد خلفه بشكل مثالي. ترى الطيور سماء مفتوحة أو أشجاراً أمامها، ولكنه في الحقيقة مجرد مرآة."
   },
   "reel_hook": {
-    "tr": "Kalamarların düşmanlarından saklanmak için kendi kişisel lambalarını kullandığını biliyor muydunuz?",
-    "en": "Did you know squids use their own personal lamps to hide from enemies?",
-    "es": "¿Sabías que los calamares usan sus propias lámparas personales para esconderse de los enemigos?",
-    "ar": "هل كنت تعلم أن الحبار يستخدم مصابيحه الشخصية للاختباء من الأعداء؟"
+    "tr": "Uçarken binalara çarpan kuşların asıl sebebini biliyor musun?",
+    "en": "Do you know the real reason why birds crash into buildings while flying?",
+    "es": "¿Sabes la verdadera razón por la cual los pájaros chocan contra los edificios mientras vuelan?",
+    "ar": "هل تعرف السبب الحقيقي وراء اصطدام الطيور بالمبنى أثناء الطيران؟"
   },
   "story_question": {
-    "tr": "Kalamarların karınlarındaki ışık üreten bu özel organlar hangi amaçla evrimleşmiştir?",
-    "en": "For what purpose did these light-producing special organs on the bellies of squids evolve?",
-    "es": "¿Con qué propósito evolucionaron estos órganos especiales productores de luz en los vientres de los calamares?",
-    "ar": "لأي غرض تطورت هذه الأعضاء الخاصة المنتجة للضوء على بطون الحبار؟"
+    "tr": "Kuşların camları fark edememesinin temel sebebi nedir?",
+    "en": "What is the main reason birds fail to notice windows?",
+    "es": "¿Cuál es la razón principal por la que los pájaros no notan las ventanas?",
+    "ar": "ما هو السبب الرئيسي لعدم ملاحظة الطيور للنوافذ؟"
   },
   "story_options": [
-    "Kamuflaj ve Gizlenme",
-    "Avları Kendine Çekme",
-    "Eş Seçimi ve İletişim"
+    "Camın arkasını göstermesi",
+    "Yansıma yapması",
+    "Çok parlak olması"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
     "#doğa",
-    "#denizaltı",
+    "#kuşlar",
+    "#bilim",
     "#ilginçbilgiler",
-    "#biyoloji",
+    "#hayvanlar",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "surprise": 8,
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.5
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org/news/why-birds-hit-glass-and-how-you-can-help-stop-it"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Gece Lambaları",
+  "_topic": "Kuşlar Nasıl Oluyor Da Camları Göremiyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-10T18:10:54.217663+00:00",
+  "generated_at": "2026-09-10T19:33:32.884724+00:00",
   "topic_guard_days": 180
 }

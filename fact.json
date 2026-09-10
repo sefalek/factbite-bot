@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Hayaleti",
-    "body": "Ahtapotların tam üç tane kalbi olduğunu biliyor muydunuz? Ama işin daha da ilginç kısmı şu: Yüzdüklerinde bu kalplerden biri duruyor."
+    "headline": "Kuşlar Ne Kadar Sıcak Tutar?",
+    "body": "Biliyor musun, kuşların vücut sıcaklığı insanlardan çok daha yüksektir. Çoğu kuş türünün vücut ısısı yaklaşık 40 ila 42 derece arasında değişir. Bu yüksek sıcaklık, uçuş sırasında kasların ihtiyaç duyduğu devasa enerjiyi kesintisiz sağlamaları için hayati önem taşır. Yani gökyüzündeki o minik canlılar, adeta sürekli çalışan yüksek performanslı küçük motorlar gibidir."
   },
   "en": {
-    "headline": "Ghost of the Seas",
-    "body": "Did you know octopuses have three hearts? But here's the wild part: when they swim, one of those hearts actually stops beating."
+    "headline": "How Warm Are Birds?",
+    "body": "Did you know that birds have a much higher body temperature than humans? Most bird species maintain a core temperature of around 40 to 42 degrees Celsius. This elevated heat is vital to continuously fuel the massive energy demands of their flight muscles. Those tiny creatures in the sky are basically running like high-performance micro-engines."
   },
   "es": {
-    "headline": "El Fantasma de los Mares",
-    "body": "¿Sabías que los pulpos tienen tres corazones? Pero lo más loco es esto: cuando nadan, uno de esos corazones se detiene."
+    "headline": "¿Qué tan calientes son las aves?",
+    "body": "¿Sabías que la temperatura corporal de las aves es mucho más alta que la de los humanos? La mayoría de las especies de aves mantienen una temperatura de entre 40 y 42 grados Celsius. Este calor elevado es vital para proporcionar de forma continua la enorme energía que necesitan sus músculos de vuelo."
   },
   "ar": {
-    "headline": "شبح البحار",
-    "body": "هل تعلم أن الأقطوب (الأخطبوط) يمتلك ثلاثة قلوب؟ ولكن الجزء الأكثر غرابة هو أنه عندما يسبح، يتوقف أحد هذه القلوب عن النبض."
+    "headline": "ما مدى حرارة الطيور؟",
+    "body": "هل تعلم أن درجة حرارة جسم الطيور أعلى بكثير من البشر؟ تحافظ معظم أنواع الطيور على درجة حرارة تتراوح بين 40 و42 درجة مئوية. هذه الحرارة المرتفعة أمر حاسم لتوفير الطاقة الهائلة التي تحتاجها عضلات الطيران باستمرار."
   },
   "reel_hook": {
-    "tr": "Yüzerken kalbinin durduğunu biliyor muydun?",
-    "en": "Did you know its heart stops while swimming?",
-    "es": "¿Sabías que su corazón se detiene al nadar?",
-    "ar": "هل كنت تعلم أن قلبه يتوقف أثناء السباحة؟"
+    "tr": "Neden kuşlar ellerimizi ısıtıcı gibi hissettirir?",
+    "en": "Why do birds feel like tiny heaters in your hands?",
+    "es": "¿Por qué las aves se sienten como pequeños calentadores?",
+    "ar": "لماذا تشعر وكأن الطيور دفايات صغيرة؟"
   },
   "story_question": {
-    "tr": "Yüzerken kalbi duran bu deniz canlısı hangisidir?",
-    "en": "Which sea creature's heart stops when it swims?",
-    "es": "¿Qué criatura marina detiene su corazón al nadar?",
-    "ar": "ما هو المخلوق البحري الذي يتوقف قلبه عندما يسبح؟"
+    "tr": "Ortalama bir kuşun vücut sıcaklığı kaç derecedir?",
+    "en": "What is the average body temperature of a bird?",
+    "es": "¿Cuál es la temperatura corporal promedio de un ave?",
+    "ar": "ما هي متوسط درجة حرارة جسم الطائر؟"
   },
   "story_options": [
-    "Ahtapot",
-    "Köpekbalığı",
-    "Yunus"
+    "36-38°C",
+    "40-42°C",
+    "45-47°C"
   ],
   "hashtags": [
     "#FactBite",
-    "#ahtapot",
-    "#okyanus",
+    "#kuşlar",
     "#bilim",
+    "#doğa",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#deniz",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more fascinating facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who hears this for the first time!",
+    "es": "¡Envíaselo a un amigo que escuche esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع بهذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Marine Biology Conservation Society",
-    "url": "https://www.marinebio.org"
+    "name": "Avian Physiology and Thermoregulation Studies",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-physiology"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Hayaleti",
+  "_topic": "Kuşlar Ne Kadar Sıcak Tutar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-10T09:42:37.794124+00:00",
+  "generated_at": "2026-09-10T11:15:13.390549+00:00",
   "topic_guard_days": 180
 }

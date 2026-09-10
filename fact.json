@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Ne Kadar Sıcak Tutar?",
-    "body": "Biliyor musun, kuşların vücut sıcaklığı insanlardan çok daha yüksektir. Çoğu kuş türünün vücut ısısı yaklaşık 40 ila 42 derece arasında değişir. Bu yüksek sıcaklık, uçuş sırasında kasların ihtiyaç duyduğu devasa enerjiyi kesintisiz sağlamaları için hayati önem taşır. Yani gökyüzündeki o minik canlılar, adeta sürekli çalışan yüksek performanslı küçük motorlar gibidir."
+    "headline": "Denizlerin Görünmez İp Atlayan Canlıları",
+    "body": "Denizanası dediğimiz bu canlılar, akıntılara kapılıp öylece sürükleniyor sanıyorsunuz değil mi? Aslında her biri, su altında adeta birer şemsiye gibi açılıp kapanarak kendilerini yukarı doğru iter. Bilim insanları bu harekete hidrodinamik itme diyor. Yani minik birer motor gibiler."
   },
   "en": {
-    "headline": "How Warm Are Birds?",
-    "body": "Did you know that birds have a much higher body temperature than humans? Most bird species maintain a core temperature of around 40 to 42 degrees Celsius. This elevated heat is vital to continuously fuel the massive energy demands of their flight muscles. Those tiny creatures in the sky are basically running like high-performance micro-engines."
+    "headline": "The Invisible Rope-Jumping Creatures of the Sea",
+    "body": "You think jellyfish just drift helplessly with the currents, right? Actually, each one propels itself upward by opening and closing like an umbrella underwater. Scientists call this hydrodynamic propulsion. So, they are basically tiny living motors."
   },
   "es": {
-    "headline": "¿Qué tan calientes son las aves?",
-    "body": "¿Sabías que la temperatura corporal de las aves es mucho más alta que la de los humanos? La mayoría de las especies de aves mantienen una temperatura de entre 40 y 42 grados Celsius. Este calor elevado es vital para proporcionar de forma continua la enorme energía que necesitan sus músculos de vuelo."
+    "headline": "Las Criaturas Invisibles que Saltan la Cuerda en el Mar",
+    "body": "¿Crees que las medusas simplemente se desplazan sin rumbo con las corrientes? En realidad, cada una se impulsa hacia arriba abriéndose y cerrándose como un paraguas bajo el agua. Los científicos llaman a esto propulsión hidrodinámica."
   },
   "ar": {
-    "headline": "ما مدى حرارة الطيور؟",
-    "body": "هل تعلم أن درجة حرارة جسم الطيور أعلى بكثير من البشر؟ تحافظ معظم أنواع الطيور على درجة حرارة تتراوح بين 40 و42 درجة مئوية. هذه الحرارة المرتفعة أمر حاسم لتوفير الطاقة الهائلة التي تحتاجها عضلات الطيران باستمرار."
+    "headline": "الكائنات البحرية التي تقفز بالحبل في الخفاء",
+    "body": "هل تعتقد أن قناديل البحر تنجرف بلا حيلة مع التيار؟ في الواقع، يدفع كل منها نفسه للأعلى من خلال الانفتاح والإنغلاق تحت الماء تماماً مثل المظلة. يطلق العلماء على هذه الحركة الدفع الهيدروديناميكي."
   },
   "reel_hook": {
-    "tr": "Neden kuşlar ellerimizi ısıtıcı gibi hissettirir?",
-    "en": "Why do birds feel like tiny heaters in your hands?",
-    "es": "¿Por qué las aves se sienten como pequeños calentadores?",
-    "ar": "لماذا تشعر وكأن الطيور دفايات صغيرة؟"
+    "tr": "Denizanası hakkında bildiğiniz her şeyi unutun; çünkü onlar sadece sürüklenmiyor.",
+    "en": "Forget everything you know about jellyfish; because they aren't just drifting.",
+    "es": "Olvida todo lo que sabes sobre las medusas; porque no solo están flotando.",
+    "ar": "انسا كل ما تعرفه عن قناديل البحر؛ لأنها لا تنجرف فحسب."
   },
   "story_question": {
-    "tr": "Ortalama bir kuşun vücut sıcaklığı kaç derecedir?",
-    "en": "What is the average body temperature of a bird?",
-    "es": "¿Cuál es la temperatura corporal promedio de un ave?",
-    "ar": "ما هي متوسط درجة حرارة جسم الطائر؟"
+    "tr": "Denizanasının vücudunun yüzde kaçı sudan oluşur?",
+    "en": "What percentage of a jellyfish's body is made of water?",
+    "es": "¿Qué porcentaje del cuerpo de una medusa está hecho de agua?",
+    "ar": "ما هي النسبة المئوية لمكونات جسم قنديل البحر التي تمثلها المياه؟"
   },
   "story_options": [
-    "36-38°C",
-    "40-42°C",
-    "45-47°C"
+    "Yüzde 50",
+    "Yüzde 75",
+    "Yüzde 95"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
     "#bilim",
     "#doğa",
-    "#biyoloji",
+    "#deniz",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#keşfet",
+    "#bilgi"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who hears this for the first time!",
-    "es": "¡Envíaselo a un amigo que escuche esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع بهذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Avian Physiology and Thermoregulation Studies",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-physiology"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/jellyfish"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Ne Kadar Sıcak Tutar?",
+  "_topic": "Denizlerin Görünmez İp Atlayan Canlıları",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-10T11:15:13.390549+00:00",
+  "generated_at": "2026-09-10T12:56:12.440846+00:00",
   "topic_guard_days": 180
 }

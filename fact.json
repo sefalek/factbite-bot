@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Köpekbalıklarının Yüzme Sırrı",
-    "body": "Köpekbalıklarının yüzmeyi bıraktıkları anda ne olduğunu biliyor musunuz? Çoğu insan onların tıpkı diğer balıklar gibi durabileceğini düşünür ama yanılırlar. Birçok köpekbalığı türü, solungaçlarından su geçebilmesi için hayatları boyunca durmaksızın yüzmek zorundadır. Eğer bir an bile dururlarsa, adeta boğulurlar."
+    "headline": "Denizlerin Sessiz Müzisyenleri",
+    "body": "Denizlerdeki bazı kabuklu deniz canlıları, yani karidesler, aslında okyanusun en gürültülü sesini çıkarır. Bu küçük canlılar, pençelerini o kadar hızlı kapatır ki, oluşan şok dalgası suyun anlık olarak kaynama noktasından bile daha sıcak bir ısıya ulaşmasını sağlar ve bir patlama sesi çıkarır."
   },
   "en": {
-    "headline": "The Swimming Secret of Sharks",
-    "body": "Do you know what happens the exact moment sharks stop swimming? Most people think they can just pause like other fish, but they're wrong. Many shark species must keep swimming non-stop throughout their lives so water can flow through their gills. If they stop even for a second, they literally suffocate."
+    "headline": "The Silent Musicians of the Sea",
+    "body": "Certain crustaceans in the ocean, specifically pistol shrimp, actually create one of the loudest sounds in the sea. These tiny creatures snap their claws so fast that the resulting shockwave briefly reaches temperatures hotter than the surface of the sun and produces a loud popping sound."
   },
   "es": {
-    "headline": "El secreto de natación de los tiburones",
-    "body": "¿Sabes qué pasa en el momento exacto en que los tiburones dejan de nadar? La mayoría piensa que pueden detenerse como otros peces, pero se equivocan. Muchas especies de tiburones deben nadar sin parar toda su vida para que el agua fluya por sus branquias. Si se detienen un segundo, se asfixian."
+    "headline": "Los Músicos Silenciosos del Mar",
+    "body": "Ciertos crustáceos en el océano, específicamente los camarones pistola, crean uno de los sonidos más fuertes del mar. Estas pequeñas criaturas cierran sus pinzas tan rápido que la onda expansiva resultante alcanza brevemente temperaturas más calientes que el sol."
   },
   "ar": {
-    "headline": "سر سباحة أسماك القرش",
-    "body": "هل تعرف ماذا يحدث في اللحظة الدقيقة التي تتوقف فيها أسماك القرش عن السباحة؟ يعتقد معظم الناس أنها يمكن أن تتوقف مثل الأسماك الأخرى، لكنهم مخطئون. يجب على العديد من أنواع القرش الاستمرار في السباحة دونหยุด طوال حياتها ليمر الماء عبر خياشيمها. إذا توقفت ولو لثانية، فإنها تختنق حرفياً."
+    "headline": "موسيقيو البحر الصامتون",
+    "body": "بعض القشريات في المحيط، وتحديداً روبيان المسدس، تخلق في الواقع أحد أعلى الأصوات في البحر. هذه الكائنات الصغيرة تقبض مخالبها بسرعة كبيرة لدرجة أن موجة الصدمة الناتجة تصل لفترة وجيزة إلى حرارة تفوق سطح الشمس."
   },
   "reel_hook": {
-    "tr": "Köpekbalıkları yüzmeyi bir an bırakırsa ne olur?",
-    "en": "What happens if a shark stops swimming for a second?",
-    "es": "¿Qué pasa si un tiburón deja de nadar por un segundo?",
-    "ar": "ماذا يحدث إذا توقف القرش عن السباحة لثانية واحدة؟"
+    "tr": "Okyanusun en gürültülü sesini balinaların çıkardığını mı sanıyorsunuz? Yanılıyorsunuz.",
+    "en": "Think whales make the loudest sound in the ocean? Think again.",
+    "es": "Crees que las ballenas hacen el sonido más fuerte del océano? Piénsalo de nuevo.",
+    "ar": "هل تعتقد أن الحيتان تصدر أعلى صوت في المحيط؟ فكر مرة أخرى."
   },
   "story_question": {
-    "tr": "Köpekbalıkları neden durmaksızın yüzmek zorundadır?",
-    "en": "Why do sharks have to swim non-stop?",
-    "es": "¿Por qué los tiburones tienen que nadar sin parar?",
-    "ar": "لماذا يجب على أسماك القرش السباحة دون توقف؟"
+    "tr": "Sizce bu küçük karideslerin çıkardığı ses yaklaşık kaç desibeldir?",
+    "en": "How loud do you think the sound made by these tiny shrimp is in decibels?",
+    "es": "¿Qué tan fuerte crees que es el sonido de estos pequeños camarones en decibelios?",
+    "ar": "برأيك، ما مدى ارتفاع الصوت الذي يصنعه هذا الروبيان الصغير بالديسيبل؟"
   },
   "story_options": [
-    "Solungaçlarına su pompalamak için",
-    "Yönlerini kaybetmemek için",
-    "Soğuktan korunmak için"
+    "120 Desibel",
+    "160 Desibel",
+    "200 Desibel"
   ],
   "hashtags": [
     "#FactBite",
-    "#köpekbalığı",
     "#bilim",
+    "#ilginçbilgiler",
     "#doğa",
-    "#köpekbalıkları",
     "#okyanus",
-    "#ilginçbilgiler"
+    "#keşfet",
+    "#teknoloji"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydunuz? Yorumlarda buluşalım!",
-    "en": "Did you know this before? Let us know in the comments!",
-    "es": "¿Sías esto antes? ¡Cuéntanos en los comentarios!",
-    "ar": "هل كنت تعرف هذا من قبل؟ أخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Shark Research Institute",
-    "url": "https://www.sharks.org"
+    "name": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Köpekbalıklarının Yüzme Sırrı",
+  "_topic": "Denizlerin Sessiz Müzisyenleri",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-10T22:46:37.668628+00:00",
+  "generated_at": "2026-09-11T09:40:38.960182+00:00",
   "topic_guard_days": 180
 }

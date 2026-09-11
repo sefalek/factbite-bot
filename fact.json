@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Örümceklerin Kulakları Nerededir?",
-    "body": "Örümceklerin kulakları yoktur, ancak çevrelerindeki sesleri ve titreşimleri bacaklarındaki çok hassas tüyler sayesinde duyabilirler. Bu tüyler, en ufak bir havai hareketini bile algılayarak beyne sinyal gönderir."
+    "headline": "Kuşların Yuvalarını Aslında Nasıl Yaptığını Biliyor musunuz?",
+    "body": "Kuşların yuva yaparken çamur veya dal kullanması sizi şaşırtmasın; bazılarının kullandığı malzeme insan yapımı atıklar olabiliyor. Şehir hayatına adapte olan bazı türler, yuvalarını sağlamlaştırmak için özellikle sigara izmaritlerindeki selüloz asetat liflerini tercih ediyor. İzmaritlerdeki kimyasallar, yuva içindeki parazitleri ve keneleri uzaklaştıran doğal bir böcek ilacı görevi görüyor. Yani bu minik mimarlar, çöpleri kendi sağlıkları için akıllıca bir silaha dönüştürüyor."
   },
   "en": {
-    "headline": "Where Are Spiders' Ears?",
-    "body": "Spiders do not have ears, but they can hear sounds and vibrations in their environment thanks to very sensitive hairs on their legs. These hairs detect even the slightest air movement and send signals to the brain."
+    "headline": "Do You Know How Birds Actually Build Their Nests?",
+    "body": "Don't be surprised that birds use mud or twigs; some materials they use can be human-made waste. Some species adapting to city life specifically prefer cellulose acetate fibers in cigarette butts to strengthen their nests. The chemicals in the butts act as a natural pesticide that keeps parasites and ticks away from the nest. So these tiny architects cleverly turn trash into a weapon for their own health."
   },
   "es": {
-    "headline": "¿Dónde están las orejas de las arañas?",
-    "body": "Las arañas no tienen orejas, pero pueden oír sonidos y vibraciones en su entorno gracias a unos pelos muy sensibles en sus patas. Estos pelos detectan hasta el más mínimo movimiento de aire y envían señales al cerebro."
+    "headline": "¿Sabes cómo construyen realmente sus nidos las aves?",
+    "body": "No te sorprendas de que las aves usen barro o ramitas; algunos materiales que usan pueden ser residuos humanos. Algunas especies adaptadas a la vida urbana prefieren específicamente las fibras de acetato de celulosa de las colillas de cigarrillo para fortalecer sus nidos. Los productos químicos en las colillas actúan como un pesticida natural que aleja a los parásitos y garrapatas del nido. Así, estos pequeños arquitectos convierten hábilmente la basura en un arma para su propia salud."
   },
   "ar": {
-    "headline": "أين توجد آذان العناكب؟",
-    "body": "العناكب ليس لها آذان، لكنها تستطيع سماع الأصوات والاهتزازات في بيئتها بفضل شعيرات حساسة للغاية على أرجلها. تكتشف هذه الشعيرات حتى أدنى حركة للهواء وترسل إشارات إلى الدماغ."
+    "headline": "هلรู้ حقاً كيف تبني الطيور أعشاشها؟",
+    "body": "لا تفاجأ بأن الطيور تستخدم الطين أو الأغصان؛ فقد تكون بعض المواد التي تستخدمها نفايات من صنع الإنسان. بعض الأنواع التي تتكيف مع حياة المدن تفضل بشكل خاص ألياف أسيتات السليلوز الموجودة في أعقاب السجائر لتخوية أعشاشها. تعمل المواد الكيميائية الموجودة في أعقاب السجائر كمبيد حشري طبيعي يبعد الطفيليات والقراد عن العش. هكذا يحول هؤلاء المهندسون الصغار القمامة بذكاء إلى سلاح لصحتهم."
   },
   "reel_hook": {
-    "tr": "Kulakları olmayan bir canlı, sesleri neresiyle duyar?",
-    "en": "How does a creature without ears hear sounds?",
-    "es": "¿Cómo oye sonidos una criatura sin orejas?",
-    "ar": "كيف تسمع المخلوقات التي ليس لها آذان الأصوات؟"
+    "tr": "Bazı kuşların yuvalarında insan çöpü aradığını biliyor muydunuz?",
+    "en": "Did you know some birds hunt for human trash to build their nests?",
+    "es": "¿Sabías que algunas aves buscan basura humana para hacer sus nidos?",
+    "ar": "هل تعلم أن بعض الطيور تبحث عن قمامة البشر لبناء أعشاشها؟"
   },
   "story_question": {
-    "tr": "Örümcekler sesleri ve titreşimleri hangi organlarıyla algılar?",
-    "en": "Which body part do spiders use to perceive sounds and vibrations?",
-    "es": "¿Qué parte del cuerpo usan las arañas para percibir sonidos y vibraciones?",
-    "ar": "ما هو الجزء من جسم العنكبوت الذي يستخدمه لإدراك الأصوات والاهتزازات؟"
+    "tr": "Şehir kuşlarının yuvalarında sigara izmariti kullanmasının ana nedeni nedir?",
+    "en": "What is the main reason urban birds use cigarette butts in their nests?",
+    "es": "¿Cuál es la principal razón por la que las aves urbanas usan colillas en sus nidos?",
+    "ar": "ما هو السبب الرئيسي لاستخدام طيور المدن لأعقاب السجائر في أعشاشها؟"
   },
   "story_options": [
-    "Bacaklarındaki tüylerle",
-    "Gözleriyle",
-    "Karnındaki zarlarla"
+    "Parazitleri uzaklaştırmak",
+    "Yuvayı sıcak tutmak",
+    "Daha hafif olmasını sağlamak"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
     "#doğa",
-    "#örümcek",
-    "#biyoloji",
+    "#kuşlar",
+    "#bilim",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Biology Letters",
+    "url": "https://royalsocietypublishing.org/journal/rsbl"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Örümceklerin Kulakları Nerededir?",
+  "_topic": "Kuşların Yuvalarını Aslında Nasıl Yaptığını Biliyor musunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-11T19:34:35.880209+00:00",
+  "generated_at": "2026-09-11T21:34:14.613877+00:00",
   "topic_guard_days": 180
 }

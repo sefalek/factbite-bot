@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıklar Aslında Nasıl Kusur İşlemeden Yaşar?",
-    "body": "Denizlerin altında yaşayan bazı balık türlerinin göz kapakları yoktur. Gözlerini kırpamadıkları için tuzlu suyun kurumasına karşı koruma sağlayan özel bir mukus tabakasıyla yüzerler. Yani uykuda bile gözleri açıktır."
+    "headline": "Örümceklerin Kulakları Nerededir?",
+    "body": "Örümceklerin kulakları yoktur, ancak çevrelerindeki sesleri ve titreşimleri bacaklarındaki çok hassas tüyler sayesinde duyabilirler. Bu tüyler, en ufak bir havai hareketini bile algılayarak beyne sinyal gönderir."
   },
   "en": {
-    "headline": "How Do Fish Live Without Ever Blinking?",
-    "body": "Some species of fish living under the sea do not have eyelids. Since they cannot blink, they swim with a special mucus layer that protects their eyes from drying out in salt water. Meaning, their eyes are open even when sleeping."
+    "headline": "Where Are Spiders' Ears?",
+    "body": "Spiders do not have ears, but they can hear sounds and vibrations in their environment thanks to very sensitive hairs on their legs. These hairs detect even the slightest air movement and send signals to the brain."
   },
   "es": {
-    "headline": "¿Cómo viven los peces sin parpadear jamás?",
-    "body": "Algunas especies de peces que viven bajo el mar no tienen párpados. Como no pueden parpadear, nadan con una capa especial de moco que protege sus ojos de la sequedad del agua salada. Es decir, sus ojos están abiertos incluso cuando duermen."
+    "headline": "¿Dónde están las orejas de las arañas?",
+    "body": "Las arañas no tienen orejas, pero pueden oír sonidos y vibraciones en su entorno gracias a unos pelos muy sensibles en sus patas. Estos pelos detectan hasta el más mínimo movimiento de aire y envían señales al cerebro."
   },
   "ar": {
-    "headline": "كيف تعيش الأسماك دون أن ترمش أبداً؟",
-    "body": "بعض أنواع الأسماك التي تعيش تحت البحر ليس لها جفون. وبما أنها لا تستطيع الرمش، فإنها تسبح بطبقة مخاطية خاصة تحمي عيونهم من الجفاف في الماء المالحة. وهذا يعني أن عيونهم مفتوحة حتى أثناء النوم."
+    "headline": "أين توجد آذان العناكب؟",
+    "body": "العناكب ليس لها آذان، لكنها تستطيع سماع الأصوات والاهتزازات في بيئتها بفضل شعيرات حساسة للغاية على أرجلها. تكتشف هذه الشعيرات حتى أدنى حركة للهواء وترسل إشارات إلى الدماغ."
   },
   "reel_hook": {
-    "tr": "Gözleri açık uyuyan o canlıyı biliyor musun?",
-    "en": "Do you know that creature that sleeps with its eyes open?",
-    "es": "¿Conoces a esa criatura que duerme con los ojos abiertos?",
-    "ar": "هل تعرف ذلك المخلوق الذي ينام وعيناه مفتوحتان؟"
+    "tr": "Kulakları olmayan bir canlı, sesleri neresiyle duyar?",
+    "en": "How does a creature without ears hear sounds?",
+    "es": "¿Cómo oye sonidos una criatura sin orejas?",
+    "ar": "كيف تسمع المخلوقات التي ليس لها آذان الأصوات؟"
   },
   "story_question": {
-    "tr": "Göz kapakları olmayan bu balıklar uykuda ne yapar?",
-    "en": "What do these fish without eyelids do while sleeping?",
-    "es": "¿Qué hacen estos peces sin párpados mientras duermen?",
-    "ar": "ماذا تفعل هذه الأسماك التي ليس لها جفون أثناء النوم؟"
+    "tr": "Örümcekler sesleri ve titreşimleri hangi organlarıyla algılar?",
+    "en": "Which body part do spiders use to perceive sounds and vibrations?",
+    "es": "¿Qué parte del cuerpo usan las arañas para percibir sonidos y vibraciones?",
+    "ar": "ما هو الجزء من جسم العنكبوت الذي يستخدمه لإدراك الأصوات والاهتزازات؟"
   },
   "story_options": [
-    "A) Gözleri açık yüzerler",
-    "B) Saklanma çukuru kazarlar",
-    "C) Su yüzeyine çıkarlar"
+    "Bacaklarındaki tüylerle",
+    "Gözleriyle",
+    "Karnındaki zarlarla"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#deniz",
+    "#bilim",
     "#doğa",
-    "#keşfet",
-    "#bilim"
+    "#örümcek",
+    "#biyoloji",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Marine Biology Conservation",
-    "url": "https://www.marineconservation.org"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıklar Aslında Nasıl Kusur İşlemeden Yaşar?",
+  "_topic": "Örümceklerin Kulakları Nerededir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-11T18:13:04.354821+00:00",
+  "generated_at": "2026-09-11T19:34:35.880209+00:00",
   "topic_guard_days": 180
 }

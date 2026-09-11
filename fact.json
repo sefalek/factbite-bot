@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıklar Aslında Nasıl Ağlar?",
-    "body": "Su altında yaşayan balıkların gözyaşı bezleri yoktur çünkü gözlerini nemli tutmak için zaten çevrelerindeki suya ihtiyaç duymazlar. Ancak bazı balık türleri, vücutlarındaki fazla tuzu atmak için göz çevresindeki özel bezleri kullanır. Bu durum, dışarıdan bakıldığında tıpkı bir gözyaşını andırır."
+    "headline": "Kargaların Yüzleri Asla Unutmadığı Biliniyor, Peki Ya Kafanızdaki Bu Gizli Tehlike Ne?",
+    "body": "Şehir merkezinde yürürken üzerinize dalış yapan kargalar hiç dikkatinizi çekti mi? Bilim insanları, kargaların insan yüzlerini yıllarca unutmadığını ve onlara zarar verenleri asla affetmediğini kanıtladı. Daha da ilginci, bu bilgiyi diğer kargalara nesiller boyu aktarıyorlar. Yani mahalledeki kargalarla aranızı iyi tutmanız inanın sağlığınız için oldukça önemli."
   },
   "en": {
-    "headline": "How Fish Actually Cry",
-    "body": "Fish living underwater do not have tear glands because they don't need them to keep their eyes moist. However, some fish species use special glands around their eyes to excrete excess salt, which can look remarkably like tears from the outside."
+    "headline": "Crows Never Forget a Face, But What About This Hidden Danger?",
+    "body": "Have you ever noticed crows swooping down on you in the city center? Scientists have proven that crows remember human faces for years and never forgive those who wrong them. Even more fascinatingly, they pass this information down to other crows across generations. Keeping on good terms with your local crows is genuinely important for your well-being."
   },
   "es": {
-    "headline": "Cómo lloran realmente los peces",
-    "body": "Los peces que viven bajo el agua no tienen glándulas lagrimales porque no las necesitan para mantener sus ojos húmedos. Sin embargo, algunas especies usan glándulas especiales alrededor de los ojos para eliminar el exceso de sal, lo que puede parecerse a las lágrimas."
+    "headline": "Los cuervos nunca olvidan un rostro, ¿pero cuál es este peligro oculto?",
+    "body": "¿Alguna vez has notado cuervos lanzándose en picada hacia ti en el centro de la ciudad? Los científicos han demostrado que los cuervos recuerdan los rostros humanos durante años y nunca perdonan a quienes los dañan. Aún más fascinante, transmiten esta información a otros cuervos de generación en generación. Mantenerse en buenos términos con los cuervos locales es verdaderamente importante para tu bienestar."
   },
   "ar": {
-    "headline": "كيف تبكي الأسماك حقاً",
-    "body": "الأسماك التي تعيش تحت الماء ليس لديها غدد دمعية لأنها لا تحتاجها للحفاظ على رطوبة عيونها. ومع ذلك، تستخدم بعض أنواع الأسماك غدداً خاصة حول عيونها للتخلص من الملح الزائد، وهو ما يبدو تماماً مثل الدموع من الخارج."
+    "headline": "الغراب لا ينسى وجهاً أبداً، فماذا عن هذا الخطر الخفي؟",
+    "body": "هل لاحظت من قبل غراباً ينقض عليك في وسط المدينة؟ لقد أثبت العلماء أن الغربان تتذكر وجوه البشر لسنوات ولا تسامح أبداً من يسيء إليها. والأكثر إثارة للدهشة أنها تنقل هذه المعلومات للأجيال القادمة من الغربان الأخرى. لذا فإن الحفاظ على علاقة جيدة مع غربان حيّك أمر مهم حقاً لسلامتك."
   },
   "reel_hook": {
-    "tr": "Su altında yaşayan bir balık hiç ağlar mı?",
-    "en": "Do fish living underwater ever cry?",
-    "es": "¿Alguna vez llora un pez bajo el agua?",
-    "ar": "هل تبكي السمكة التي تعيش تحت الماء يوماً ما؟"
+    "tr": "Şehirde yürürken bu kuşun hedefi siz misiniz?",
+    "en": "Are you this bird's target while walking in the city?",
+    "es": "¿Eres el objetivo de este pájaro al caminar por la ciudad?",
+    "ar": "هل أنت هدف هذا الطائر أثناء المشي في المدينة؟"
   },
   "story_question": {
-    "tr": "Balıkların gözlerini nemli tutmak için gözyaşına ihtiyacı var mıdır?",
-    "en": "Do fish need tears to keep their eyes moist?",
-    "es": "¿Los peces necesitan lágrimas para mantener sus ojos húmedos?",
-    "ar": "هل تحتاج الأسماك إلى الدموع للحفاظ على رطوبة عيونها؟"
+    "tr": "Kargaların insan yüzlerini hafızalarında tutma süresi ortalama ne kadardır?",
+    "en": "How long on average do crows keep human faces in their memory?",
+    "es": "¿Cuánto tiempo en promedio los cuervos guardan los rostros humanos en su memoria?",
+    "ar": "ما هي المدة التي تحتفظ فيها الغربان بوجوه البشر في ذاكرتها في المتوسط؟"
   },
   "story_options": [
-    "Evet, vardır",
-    "Hayır, su altındalar",
-    "Sadece tuzlu suda"
+    "Birkaç hafta",
+    "Yıllarca",
+    "Sadece birkaç gün"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#balıklar",
+    "#karga",
     "#doğa",
-    "#ilginçbilgiler",
-    "#keşfet",
-    "#öğren"
+    "#bilim",
+    "#hayvanlar",
+    "#İlginçBilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için kaydırmayı unutma!",
-    "en": "Don't forget to swipe for more facts like this!",
-    "es": "¡No olvides deslizar para más datos como este!",
-    "ar": "لا تنس التمرير للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos increíbles como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Marine Biology Conservation Society",
-    "url": "https://www.marinebiology.org"
+    "name": "Animal Behaviour & University of Washington Research",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S000334720900130X"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıklar Aslında Nasıl Ağlar?",
+  "_topic": "Kargaların Yüzleri Asla Unutmadığı Biliniyor, Peki Ya Kafanızdaki Bu Gizli Tehlike Ne?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-11T15:07:01.159650+00:00",
+  "generated_at": "2026-09-11T16:53:34.699621+00:00",
   "topic_guard_days": 180
 }

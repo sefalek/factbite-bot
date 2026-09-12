@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Üç Kalpli Canlısı",
-    "body": "Ahtapotların sadece üç kalbi yoktur; bu kalplerden ikisi kanı solungaçlara pompalamak için çalışırken, yüzdüklerinde üçüncü kalp tamamen durur. Bu yüzden ahtapotlar yüzmek yerine sürünmeyi tercih ederler çünkü yüzmek onları inanılmaz derecede yorar."
+    "headline": "Köpekbalıklarının Kulakları Nerededir?",
+    "body": "Köpekbalıklarının dışarıdan görünen kulakları yoktur, ancak bu onların duyamayacağı anlamına gelmez. Kafalarının iki yanında, su altındaki ses titreşimlerini ve en düşük frekansları bile kilometrelerce öteden almalarını sağlayan iki küçük delik bulunur. Bu içkulak sistemi, avlarının yerini karanlık sularda bile kusursuzca bulmalarını sağlar."
   },
   "en": {
-    "headline": "The Three-Hearted Creature of the Seas",
-    "body": "Octopuses don't just have three hearts; while two pump blood to the gills, the third one actually stops beating completely when they swim. That's why octopuses prefer crawling over swimming, as swimming exhausts them tremendously."
+    "headline": "Where Are Sharks' Ears?",
+    "body": "Sharks don't have visible ears on the outside, but that doesn't mean they can't hear. On either side of their head, there are two tiny pores that allow them to pick up underwater sound vibrations and even the lowest frequencies from miles away. This inner ear system helps them perfectly locate their prey even in dark waters."
   },
   "es": {
-    "headline": "La criatura de tres corazones de los mares",
-    "body": "Los pulpos no solo tienen tres corazones; mientras dos bombean sangre a las branquias, el tercero deja de latir por completo cuando nadan. Por eso prefieren arrastrarse en lugar de nadar, ya que nadar los agota muchísimo."
+    "headline": "¿Dónde están las orejas de los tiburones?",
+    "body": "Los tiburones no tienen orejas visibles por fuera, pero eso no significa que no puedan oír. A ambos lados de la cabeza, tienen dos pequeños poros que les permiten captar vibraciones de sonido submarino y frecuencias muy bajas desde kilómetros de distancia. Este sistema de oído interno les ayuda a localizar perfectamente a sus presas incluso en aguas oscuras."
   },
   "ar": {
-    "headline": "كائنات البحور ذات القلوب الثلاثة",
-    "body": "لا تمتلك الأقطاب ثلاثة قلوب فحسب، بل إن اثنين منها يضخان الدم إلى الخياشم، بينما يتوقف القلب الثالث عن النبض تماماً عندما تسبح. ولهذا السبب تفضّل الأقطاب الزحف على السباحة، لأن السباحة تُرهقها بشكل كبير."
+    "headline": "أين أذان أسماك القرش؟",
+    "body": "لا تمتلك أسماك القرش أذانًا ظاهرة من الخارج، لكن هذا لا يعني أنها لا تستطيع السمع. على جانبي رأسها، توجد فتحتان صغيرتان تمكنانها من التقاط اهتزازات الصوت تحت الماء وحتى أدنى الترددات من أميال بعيدة. يساعدها نظام الأذن الداخلية هذا على تحديد موقع فرائسها بدقة حتى في المياه المظلمة."
   },
   "reel_hook": {
-    "tr": "Yüzdüklerinde kalplerinden biri neden durur?",
-    "en": "Why does one of their hearts stop when they swim?",
-    "es": "¿Por qué se detiene uno de sus corazones cuando nadan?",
-    "ar": "لماذا يتوقف أحد قلوبها عن العمل عندما تسبح؟"
+    "tr": "Köpekbalıklarının kulakları nerede hiç düşündünüz mü? Dışarıda görünmüyor ama kafalarında çok gizli bir yerde!",
+    "en": "Have you ever wondered where sharks' ears are? They aren't visible outside, but they're in a very hidden spot on their head!",
+    "es": "¿Alguna vez te has preguntado dónde están las orejas de los tiburones? No son visibles afuera, ¡pero están en un lugar muy oculto en su cabeza!",
+    "ar": "هل فكرت يومًا أين أذان أسماك القرش؟ فهي ليست ظاهرة في الخارج، ولكنها في مكان مخفي للغاية على رأسها!"
   },
   "story_question": {
-    "tr": "Ahtapotlar yüzerken hangi organları durur?",
-    "en": "Which organ stops working when octopuses swim?",
-    "es": "¿Qué órgano deja de funcionar cuando los pulpos nadan?",
-    "ar": "أي عضو يتوقف عن العمل عندما تسبح الأقطاب؟"
+    "tr": "Köpekbalıklarının sesleri duyabildiği o küçük delikler nerelerinde bulunur?",
+    "en": "Where are those tiny holes located that allow sharks to hear sounds?",
+    "es": "¿Dónde se encuentran esos pequeños poros que permiten a los tiburones escuchar sonidos?",
+    "ar": "أين تقع تلك الثقوب الصغيرة التي تسمح لأسماك القرش سماع الأصوات؟"
   },
   "story_options": [
-    "Kalplerinden biri",
-    "Solungaçları",
-    "Gözleri"
+    "Kuyruklarının altında",
+    "Kafalarının iki yanında",
+    "Yüzgeçlerinin ucunda"
   ],
   "hashtags": [
     "#FactBite",
-    "#ahtapot",
-    "#denizler",
-    "#bilim",
+    "#köpekbalığı",
+    "#bilimnotları",
     "#ilginçbilgiler",
-    "#doğa",
-    "#keşfet"
+    "#denizaltı",
+    "#faydalıbilgiler"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydun? Yorumlarda buluşalım!",
-    "en": "Did you know this before? Let us know in the comments!",
-    "es": "¿Sabías esto antes? ¡Cuéntanos en los comentarios!",
-    "ar": "هل كنت تعرف هذا من قبل؟ شاركنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more amazing facts like this!",
+    "es": "¡Mantente atento a más datos asombrosos como este!",
+    "ar": "ترقبوا المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Marine Biology Conservation",
-    "url": "https://www.marinebiology.org"
+    "name": "Shark Research Institute",
+    "url": "https://www.sharks.org/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Üç Kalpli Canlısı",
+  "_topic": "Köpekbalıklarının Kulakları Nerededir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-12T19:10:53.441802+00:00",
+  "generated_at": "2026-09-12T21:13:43.315458+00:00",
   "topic_guard_days": 180
 }

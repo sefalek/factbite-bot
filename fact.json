@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Uçarken Neden Kablosuz Telefon Gibi Sinyal Değiştirir?",
-    "body": "Gökyüzünde kusursuz bir uyumla uçan kuş sürüleri, liderin verdiği komutları milisaniyeler içinde arkadakilere aktarır. Bilim insanları, bu muazzam hareketin sırrının sadece göz teması olmadığını, kuşların tüylerindeki elektrostatik yüklenmeyi birbirlerinin hava akımı üzerinden hissederek anlık bir ağ kurduklarını gösteriyor."
+    "headline": "Deniz Salyangozlarının Gizli Silahı",
+    "body": "Bazı deniz salyangozları, avlarını avlamak için kendi vücutlarında zehirli zıpkınlar üretir ve bunları adeta bir mermi gibi fırlatır."
   },
   "en": {
-    "headline": "Why Birds Shift Signals Like Wireless Phones While Flying?",
-    "body": "Flocks of birds flying in perfect harmony transmit the leader's commands to the rear in milliseconds. Scientists show that the secret to this immense movement isn't just eye contact; birds sense electrostatic charges in each other's feathers through air currents, creating an instant network."
+    "headline": "The Secret Weapon of Sea Snails",
+    "body": "Some sea snails produce toxic harpoons within their bodies to hunt prey, firing them almost like bullets."
   },
   "es": {
-    "headline": "¿Por qué las aves cambian de señal como teléfonos inalámbricos al volar?",
-    "body": "Las bandadas de aves que vuelan en perfecta armonía transmiten las órdenes del líder a la parte trasera en milisegundos. Los científicos demuestran que el secreto de este inmenso movimiento no es solo el contacto visual; las aves sienten cargas electrostáticas en las plumas de las demás a través de las corrientes de aire, creando una red instantánea."
+    "headline": "El arma secreta de los caracoles marinos",
+    "body": "Algunos caracoles marinos producen arpones tóxicos en sus cuerpos para cazar presas, disparándolos casi como balas."
   },
   "ar": {
-    "headline": "لماذا تغير الطيور إشاراتها مثل الهواتف اللاسلكية أثناء الطيران؟",
-    "body": "تنقل أسراب الطيور التي تطير بتناغم تام أوامر القائد إلى الخلف في غضون جزء من الألف من الثانية. يظهر العلماء أن سر هذه الحركة الهائلة ليس مجرد التواصل البصري؛ بل تشعر الطيور بالشحنات الكهروستاتيكية في ريش بعضها البعض من خلال تيارات الهواء، مما يخلق شبكة فورية."
+    "headline": "السلاح السرّي لقنافذ البحر",
+    "body": "تنتج بعض قنافذ البحر رماحاً سامّة داخل أجزاء أجسامها لتصطاد فرائسها، وتطلقها كأنها رصاصات."
   },
   "reel_hook": {
-    "tr": "Gökyüzündeki o muazzam sürü hareketinin arkasında görünmez bir internet mi var?",
-    "en": "Is there an invisible internet behind that massive flock movement in the sky?",
-    "es": "¿Hay un internet invisible detrás de ese movimiento masivo de la bandada en el cielo?",
-    "ar": "هل هناك إنترنت خفي وراء حركة السرب الهائلة في السماء؟"
+    "tr": "Denizlerin bu küçük sakini, avını vurmak için kendi vücudundan mermi atıyor!",
+    "en": "This tiny ocean dweller fires bullets from its own body to strike its prey!",
+    "es": "¡Este pequeño habitante del océano dispara balas desde su propio cuerpo para cazar!",
+    "ar": "هذا الكائن البحري الصغير يطلق رصاصات من جسده ليصطاد فريسته!"
   },
   "story_question": {
-    "tr": "Kuşlar sürü halinde uçarken yönü hangi duyuyla anında belirler?",
-    "en": "By which sense do birds instantly determine direction while flying in a flock?",
-    "es": "¿Mediante qué sentido las aves determinan instantáneamente la dirección al volar en bandada?",
-    "ar": "بأي حاسة تحدد الطيور الاتجاه فوراً أثناء الطيران في سرب؟"
+    "tr": "Bu zehirli zıpkınları fırlatan deniz canlısı hangisidir?",
+    "en": "Which marine creature fires these toxic harpoons?",
+    "es": "¿Qué criatura marina dispara estos arpones tóxicos?",
+    "ar": "ما هو المخلوق البحري الذي يطلق هذه الرماح السامة؟"
   },
   "story_options": [
-    "Hava akımı ve elektrostatik his",
-    "Güneşin konumu ve manyetik alan",
-    "Sadece sesli komutlar"
+    "Deniz Salyangozu",
+    "Deniz Anası",
+    "Kalamar"
   ],
   "hashtags": [
     "#FactBite",
+    "#denizler",
     "#bilim",
+    "#ilginçbilgiler",
     "#doğa",
-    "#kuşlar",
-    "#biyoloji",
-    "#ilginçbilgiler"
+    "#keşfet",
+    "#canlilar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos asombrosos de la naturaleza como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Benzer şaşırtıcı gerçekler için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Animal Behavior Research",
-    "url": "https://www.sciencedaily.com/news/plants_animals/birds/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Uçarken Neden Kablosuz Telefon Gibi Sinyal Değiştirir?",
+  "_topic": "Deniz Salyangozlarının Gizli Silahı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-12T10:42:44.308779+00:00",
+  "generated_at": "2026-09-12T14:14:47.046417+00:00",
   "topic_guard_days": 180
 }

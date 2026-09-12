@@ -1,70 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Filler Neden Asla Yüzemez Zannedilir?",
-    "body": "Büyük boylarına rağmen aslında çoğu fil çok iyi birer yüzücüdür. Suyu adeta devasa bacaklarıyla kürek çekerek saatlerce aşabilirler."
+    "headline": "Salatalık Aslında Ne Ailesindendir?",
+    "body": "Salatalığı her gün salataya doğruyoruz ama aslında onun hakkında çok yanılıyoruz. Bu taptaze ve sulu sebze, botanik dünyasında bambaşka bir gruba ait. Cevap biraz şaşırtıcı gelebilir ama salatalık, aslında kabakgillerden değil, tamamen farklı bir meyve ailesinin, hatta karpuzla akraba olan devasa bir bitkinin üyesidir. Hatta teknik olarak o bir meyvedir!"
   },
   "en": {
-    "headline": "Why Do People Think Elephants Can't Swim?",
-    "body": "Despite their massive size, most elephants are actually excellent swimmers. They can paddle across water for hours using their huge legs."
+    "headline": "What Family Does a Cucumber Actually Belong To?",
+    "body": "We slice cucumbers into salads every day, but we are actually very wrong about them. This fresh and juicy vegetable belongs to a completely different group in the botanical world. The answer might surprise you, but cucumbers are technically fruits!"
   },
   "es": {
-    "headline": "¿Por qué se cree que los elefantes no pueden nadar?",
-    "body": "A pesar de su gran tamaño, la mayoría de los elefantes son excelentes nadadores. Pueden cruzar el agua remando durante horas con sus enormes patas."
+    "headline": "¿A qué familia pertenece realmente el pepino?",
+    "body": "Cortamos pepinos en rodajas para las ensaladas todos los días, pero en realidad estamos muy equivocados acerca de ellos. Esta verdura fresca y jugosa pertenece a un grupo completamente diferente en el mundo botánico. ¡Técnicamente son una fruta!"
   },
   "ar": {
-    "headline": "لماذا يعتقد الناس أن الفيلة لا تستطيع السباحة؟",
-    "body": "على الرغم من حجمها الهائل، إلا أن معظم الفيلة سباحة ممتازة. يمكنها السباحة عبر الماء لساعات باستخدام أرجلها الضخمة."
+    "headline": "إلى أي عائلة ينتمي الخيار حقاً؟",
+    "body": "نقطع الخيار في السلطات كل يوم، لكننا مخطئون جداً بشأنه. هذه الخضار الطازجة والعصيرية تنتمي إلى مجموعة مختلفة تماماً في عالم النبات. تقنياً، الخيار يعتبر فاكهة!"
   },
   "reel_hook": {
-    "tr": "Tonlarca ağırlıktaki fillerin suyla imtihanını biliyor musun?",
-    "en": "Do you know how tons of elephants handle water?",
-    "es": "¿Sabes cómo los elefantes de toneladas manejan el agua?",
-    "ar": "هل تعرف كيف يتعامل الفيلة ذات الأطنان مع الماء؟"
+    "tr": "Salatalığın aslında sebze olmadığını biliyor muydunuz?",
+    "en": "Did you know that cucumbers are actually not vegetables?",
+    "es": "¿Sabías que los pepinos en realidad no son verduras?",
+    "ar": "هل تعلم أن الخيار ليس خضاراً حقاً؟"
   },
   "story_question": {
-    "tr": "Yüzebilen en büyük kara memelisi hangisidir?",
-    "en": "What is the largest land mammal that can swim?",
-    "es": "¿Cuál es el mamífero terrestre más grande que puede nadar?",
-    "ar": "ما هو أكبر حيوان ثديي بري يستطيع السباحة؟"
+    "tr": "Salatalık botanik olarak hangi meyve ailesine daha yakındır?",
+    "en": "Which fruit family is the cucumber botanically closer to?",
+    "es": "¿A qué familia de frutas está botanicamente más cercano el pepino?",
+    "ar": "إلى أي عائلة فواكه يتقارب الخيار نباتياً؟"
   },
   "story_options": [
-    "Fil",
-    "Su Aygırı",
-    "Gergedan"
+    "Karpuz ve Kavun",
+    "Elma ve Armut",
+    "Portakal ve Limon"
   ],
   "hashtags": [
     "#FactBite",
-    "#fil",
-    "#doğa",
-    "#bilgi",
-    "#hayvanlar",
+    "#bilim",
     "#ilginçbilgiler",
+    "#botanik",
+    "#doğa",
     "#keşfet",
-    "#bilim"
+    "#öğrenme"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal.",
-    "en": "Stay tuned for more facts like this.",
-    "es": "Mantente atento para más datos como este.",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه."
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.25
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Botanical Gardens Conservation International",
+    "url": "https://www.bgci.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Filler Neden Asla Yüzemez Zannedilir?",
+  "_topic": "Salatalık Aslında Ne Ailesindendir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-11T22:47:54.040878+00:00",
+  "generated_at": "2026-09-12T09:20:06.715336+00:00",
   "topic_guard_days": 180
 }

@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Ağaçlara Çarpmadan Nasıl Uçar?",
-    "body": "Ormanın ortasında yüzlerce kilometre hızla uçan kuşlar, sık dalların arasında nasıl tek birine bile çarpmazlar? Aslında sır onların gözlerinde değil, beyinlerinin dünyayı bizimkinden çok daha hızlı işlemesinde gizlidir. Kuşlar, zamanı bizim gördüğümüzden neredeyse dört kat daha yavaş algılarlar. Yani onlar için ağaçlar âdeta yavaş çekimde hareket eder; bu da en karanlık ormanda bile kusursuz bir manevra yapmalarını sağlar."
+    "headline": "Yıldızların Altındaki Sessiz Hazine",
+    "body": "Geceleri gökyüzüne baktığınızda gördüğünüz yıldız ışığının çoğu, aslında milyarlarca yıl önce ölmüş yıldızlardan yola çıkmıştır. Yani çıplak gözle geçmişe bakıyorsunuz."
   },
   "en": {
-    "headline": "How Do Birds Fly Through Trees Without Crashing?",
-    "body": "Flying at high speeds through dense forests, how do birds avoid hitting a single branch? The secret isn't just in their eyes, but in how fast their brains process the world. Birds perceive time nearly four times slower than we do. To them, moving branches appear almost in slow motion, allowing them to maneuver flawlessly even in the darkest woods."
+    "headline": "The Silent Treasure Beneath the Stars",
+    "body": "Much of the starlight you see when looking at the night sky actually originated from stars that died billions of years ago. You are literally looking into the past with your naked eye."
   },
   "es": {
-    "headline": "¿Cómo vuelan los pájaros entre los árboles sin chocar?",
-    "body": "¿Cómo vuelven los pájaros a gran velocidad por bosques densos sin golpear ni una rama? El secreto no está solo en sus ojos, sino en la rapidez con la que sus cerebros procesan el mundo. Las aves perciben el tiempo casi cuatro veces más lento que nosotros. Para ellas, las ramas se mueven en cámara lenta, lo que les permite maniobrar sin fallos."
+    "headline": "El Tesoro Silencioso Bajo las Estrellas",
+    "body": "Gran parte de la luz estelar que ves al mirar el cielo nocturno en realidad se originó de estrellas que murieron hace miles de millones de años. Estás mirando al pasado a simple vista."
   },
   "ar": {
-    "headline": "كيف تطير الطيور عبر الأشجار دون أن تصطدم بها؟",
-    "body": "كيف تحلق الطيور بسرعة عبر الغابات الكثيفة دون أن تصطدم بغصن واحد؟ السسر ليس في عيونها فحسب، بل في مدى سرعة معالجة أدمغتها للعالم. تدرك الطيور الوقت أبطأ بخمس مرات تقريباً منا. بالنسبة لها، تبدو الفروع وكأنها تتحرك حركة بطيئة، مما يتيح لها المناورة بسلاسة."
+    "headline": "الكنز الصامت تحت النجوم",
+    "body": "الكثير من ضوء النجوم الذي تراه عند النظر إلى سماء الليل نشأ في الواقع من نجوم ماتت منذ مليارات السنين. أنت تنظر حرفياً إلى الماضي بعينك المجردة."
   },
   "reel_hook": {
-    "tr": "Yüzlerce kilometre hızla uçan bir kuş, sık ormanda neden asla bir ağaca çarpmaz?",
-    "en": "Why does a bird flying at high speeds never crash into a tree in a dense forest?",
-    "es": "¿Por qué un pájaro que vuela a gran velocidad nunca choca contra un árbol?",
-    "ar": "لماذا لا تصطدم الطيور أبداً بالأشجار وهي تحلق بسرعة عالية؟"
+    "tr": "Gökyüzünde gördüğünüz o parlak yıldız aslında çoktan yok olmuş olabilir.",
+    "en": "That bright star you see in the sky might actually be long gone.",
+    "es": "Esa estrella brillante que ves en el cielo podría haberse desvanecido hace mucho tiempo.",
+    "ar": "تلك النجمة الساطعة التي تراها في السماء قد تكون اختفت منذ فترة طويلة."
   },
   "story_question": {
-    "tr": "Kuşların zamanı bizden ne kadar yavaş algıladığını biliyor muydunuz?",
-    "en": "Did you know how much slower birds perceive time compared to us?",
-    "es": "¿Sabías cuánto más lento perciben el tiempo las aves en comparación con nosotros?",
-    "ar": "هل كنت تعلم مدى بطء إدراك الطيور للوقت مقارنة بنا؟"
+    "tr": "Gözümüzle gökyüzüne baktığımızda gördüğümüz yıldız ışığı en çok ne kadar eski olabilir?",
+    "en": "How old can the starlight we see with our naked eyes get?",
+    "es": "¿Qué tan antiguo puede ser la luz de las estrellas que vemos a simple vista?",
+    "ar": "ما مدى قدم ضوء النجوم الذي نراه بأعيننا المجردة؟"
   },
   "story_options": [
-    "2 kat",
-    "4 kat",
-    "10 kat"
+    "Birkaç dakika",
+    "Binlerce yıl",
+    "Milyarlarca yıl"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#kuşlar",
+    "#uzay",
     "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler"
+    "#yıldızlar",
+    "#astronomi",
+    "#keşif",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla büyüleyici gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more fascinating facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Daha fazla bilim gerçeği için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more science facts!",
+    "es": "¡No olvides seguirnos para más datos científicos!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق العلمية!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org/news/how-birds-see-world"
+    "name": "NASA",
+    "url": "https://science.nasa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Ağaçlara Çarpmadan Nasıl Uçar?",
+  "_topic": "Yıldızların Altındaki Sessiz Hazine",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-12T15:59:31.398451+00:00",
+  "generated_at": "2026-09-12T17:43:11.878341+00:00",
   "topic_guard_days": 180
 }

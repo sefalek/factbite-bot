@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yıldızların Altındaki Sessiz Hazine",
-    "body": "Geceleri gökyüzüne baktığınızda gördüğünüz yıldız ışığının çoğu, aslında milyarlarca yıl önce ölmüş yıldızlardan yola çıkmıştır. Yani çıplak gözle geçmişe bakıyorsunuz."
+    "headline": "Denizlerin Üç Kalpli Canlısı",
+    "body": "Ahtapotların sadece üç kalbi yoktur; bu kalplerden ikisi kanı solungaçlara pompalamak için çalışırken, yüzdüklerinde üçüncü kalp tamamen durur. Bu yüzden ahtapotlar yüzmek yerine sürünmeyi tercih ederler çünkü yüzmek onları inanılmaz derecede yorar."
   },
   "en": {
-    "headline": "The Silent Treasure Beneath the Stars",
-    "body": "Much of the starlight you see when looking at the night sky actually originated from stars that died billions of years ago. You are literally looking into the past with your naked eye."
+    "headline": "The Three-Hearted Creature of the Seas",
+    "body": "Octopuses don't just have three hearts; while two pump blood to the gills, the third one actually stops beating completely when they swim. That's why octopuses prefer crawling over swimming, as swimming exhausts them tremendously."
   },
   "es": {
-    "headline": "El Tesoro Silencioso Bajo las Estrellas",
-    "body": "Gran parte de la luz estelar que ves al mirar el cielo nocturno en realidad se originó de estrellas que murieron hace miles de millones de años. Estás mirando al pasado a simple vista."
+    "headline": "La criatura de tres corazones de los mares",
+    "body": "Los pulpos no solo tienen tres corazones; mientras dos bombean sangre a las branquias, el tercero deja de latir por completo cuando nadan. Por eso prefieren arrastrarse en lugar de nadar, ya que nadar los agota muchísimo."
   },
   "ar": {
-    "headline": "الكنز الصامت تحت النجوم",
-    "body": "الكثير من ضوء النجوم الذي تراه عند النظر إلى سماء الليل نشأ في الواقع من نجوم ماتت منذ مليارات السنين. أنت تنظر حرفياً إلى الماضي بعينك المجردة."
+    "headline": "كائنات البحور ذات القلوب الثلاثة",
+    "body": "لا تمتلك الأقطاب ثلاثة قلوب فحسب، بل إن اثنين منها يضخان الدم إلى الخياشم، بينما يتوقف القلب الثالث عن النبض تماماً عندما تسبح. ولهذا السبب تفضّل الأقطاب الزحف على السباحة، لأن السباحة تُرهقها بشكل كبير."
   },
   "reel_hook": {
-    "tr": "Gökyüzünde gördüğünüz o parlak yıldız aslında çoktan yok olmuş olabilir.",
-    "en": "That bright star you see in the sky might actually be long gone.",
-    "es": "Esa estrella brillante que ves en el cielo podría haberse desvanecido hace mucho tiempo.",
-    "ar": "تلك النجمة الساطعة التي تراها في السماء قد تكون اختفت منذ فترة طويلة."
+    "tr": "Yüzdüklerinde kalplerinden biri neden durur?",
+    "en": "Why does one of their hearts stop when they swim?",
+    "es": "¿Por qué se detiene uno de sus corazones cuando nadan?",
+    "ar": "لماذا يتوقف أحد قلوبها عن العمل عندما تسبح؟"
   },
   "story_question": {
-    "tr": "Gözümüzle gökyüzüne baktığımızda gördüğümüz yıldız ışığı en çok ne kadar eski olabilir?",
-    "en": "How old can the starlight we see with our naked eyes get?",
-    "es": "¿Qué tan antiguo puede ser la luz de las estrellas que vemos a simple vista?",
-    "ar": "ما مدى قدم ضوء النجوم الذي نراه بأعيننا المجردة؟"
+    "tr": "Ahtapotlar yüzerken hangi organları durur?",
+    "en": "Which organ stops working when octopuses swim?",
+    "es": "¿Qué órgano deja de funcionar cuando los pulpos nadan?",
+    "ar": "أي عضو يتوقف عن العمل عندما تسبح الأقطاب؟"
   },
   "story_options": [
-    "Birkaç dakika",
-    "Binlerce yıl",
-    "Milyarlarca yıl"
+    "Kalplerinden biri",
+    "Solungaçları",
+    "Gözleri"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
+    "#ahtapot",
+    "#denizler",
     "#bilim",
-    "#yıldızlar",
-    "#astronomi",
-    "#keşif",
-    "#gerçekler"
+    "#ilginçbilgiler",
+    "#doğa",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Daha fazla bilim gerçeği için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more science facts!",
-    "es": "¡No olvides seguirnos para más datos científicos!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق العلمية!"
+    "tr": "Bunu daha önce biliyor muydun? Yorumlarda buluşalım!",
+    "en": "Did you know this before? Let us know in the comments!",
+    "es": "¿Sabías esto antes? ¡Cuéntanos en los comentarios!",
+    "ar": "هل كنت تعرف هذا من قبل؟ شاركنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "NASA",
-    "url": "https://science.nasa.gov"
+    "name": "Marine Biology Conservation",
+    "url": "https://www.marinebiology.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yıldızların Altındaki Sessiz Hazine",
+  "_topic": "Denizlerin Üç Kalpli Canlısı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-12T17:43:11.878341+00:00",
+  "generated_at": "2026-09-12T19:10:53.441802+00:00",
   "topic_guard_days": 180
 }

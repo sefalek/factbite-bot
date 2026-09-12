@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Köpekbalıklarının Kulakları Nerededir?",
-    "body": "Köpekbalıklarının dışarıdan görünen kulakları yoktur, ancak bu onların duyamayacağı anlamına gelmez. Kafalarının iki yanında, su altındaki ses titreşimlerini ve en düşük frekansları bile kilometrelerce öteden almalarını sağlayan iki küçük delik bulunur. Bu içkulak sistemi, avlarının yerini karanlık sularda bile kusursuzca bulmalarını sağlar."
+    "headline": "Denizlerin Derinliklerindeki 'Hayalet' Kurbağalar",
+    "body": "Hiç tamamen şeffaf bir omurgalı gördün mü? Cam kurbağaların karınları tamamen saydamdır. Öyle ki, iç organları ve hatta atan kalpleri dışarıdan net bir şekilde görülebilir. Bu şeffaflık, onların doğadaki yırtıcılardan saklanmasını sağlayan mükemmel bir kamuflaj yöntemidir."
   },
   "en": {
-    "headline": "Where Are Sharks' Ears?",
-    "body": "Sharks don't have visible ears on the outside, but that doesn't mean they can't hear. On either side of their head, there are two tiny pores that allow them to pick up underwater sound vibrations and even the lowest frequencies from miles away. This inner ear system helps them perfectly locate their prey even in dark waters."
+    "headline": "The 'Ghost' Frogs of the Depths",
+    "body": "Have you ever seen a completely transparent vertebrate? Glass frogs have completely translucent bellies, making their internal organs and even beating hearts clearly visible. This transparency is a brilliant camouflage technique to hide from predators in nature."
   },
   "es": {
-    "headline": "¿Dónde están las orejas de los tiburones?",
-    "body": "Los tiburones no tienen orejas visibles por fuera, pero eso no significa que no puedan oír. A ambos lados de la cabeza, tienen dos pequeños poros que les permiten captar vibraciones de sonido submarino y frecuencias muy bajas desde kilómetros de distancia. Este sistema de oído interno les ayuda a localizar perfectamente a sus presas incluso en aguas oscuras."
+    "headline": "Las ranas 'fantasma' de las profundidades",
+    "body": "¿Has visto alguna vez un vertebrado completamente transparente? Las ranas de cristal tienen el vientre translúcido, lo que permite ver claramente sus órganos internos y hasta sus corazones latiendo. Esta transparencia es un perfecto camuflaje contra los depredadores."
   },
   "ar": {
-    "headline": "أين أذان أسماك القرش؟",
-    "body": "لا تمتلك أسماك القرش أذانًا ظاهرة من الخارج، لكن هذا لا يعني أنها لا تستطيع السمع. على جانبي رأسها، توجد فتحتان صغيرتان تمكنانها من التقاط اهتزازات الصوت تحت الماء وحتى أدنى الترددات من أميال بعيدة. يساعدها نظام الأذن الداخلية هذا على تحديد موقع فرائسها بدقة حتى في المياه المظلمة."
+    "headline": "ضفادع 'الشبح' في الأعماق",
+    "body": "هل رأيت من قبل فقارياً شفافاً تماماً؟ تمتلك ضفادع الزجاج بطوناً شفافة تماماً، مما يجعل أعضاءها الداخلية وحتى قلوبها النابضة مرئية بوضوح. تُعد هذه الشفافية تقنية تمويه مثالية للاختباء من الحيوانات المفترسة في الطبيعة."
   },
   "reel_hook": {
-    "tr": "Köpekbalıklarının kulakları nerede hiç düşündünüz mü? Dışarıda görünmüyor ama kafalarında çok gizli bir yerde!",
-    "en": "Have you ever wondered where sharks' ears are? They aren't visible outside, but they're in a very hidden spot on their head!",
-    "es": "¿Alguna vez te has preguntado dónde están las orejas de los tiburones? No son visibles afuera, ¡pero están en un lugar muy oculto en su cabeza!",
-    "ar": "هل فكرت يومًا أين أذان أسماك القرش؟ فهي ليست ظاهرة في الخارج، ولكنها في مكان مخفي للغاية على رأسها!"
+    "tr": "İç organları dışarıdan net bir şekilde görülebilen bu canlıyı biliyor musun?",
+    "en": "Do you know this creature whose internal organs are clearly visible from the outside?",
+    "es": "¿Conoces a esta criatura cuyos órganos internos son claramente visibles desde el exterior?",
+    "ar": "هل تعرف هذا المخلوق الذي يمكن رؤية أعضائه الداخلية بوضوح من الخارج؟"
   },
   "story_question": {
-    "tr": "Köpekbalıklarının sesleri duyabildiği o küçük delikler nerelerinde bulunur?",
-    "en": "Where are those tiny holes located that allow sharks to hear sounds?",
-    "es": "¿Dónde se encuentran esos pequeños poros que permiten a los tiburones escuchar sonidos?",
-    "ar": "أين تقع تلك الثقوب الصغيرة التي تسمح لأسماك القرش سماع الأصوات؟"
+    "tr": "Cam kurbağaların şeffaf karınları en çok ne işe yarar?",
+    "en": "What is the main purpose of the glass frog's transparent belly?",
+    "es": "¿Para qué sirve principalmente el vientre transparente de las ranas de cristal?",
+    "ar": "ما هو الغرض الرئيسي من بطن الضفدع الزجاجي الشفاف؟"
   },
   "story_options": [
-    "Kuyruklarının altında",
-    "Kafalarının iki yanında",
-    "Yüzgeçlerinin ucunda"
+    "Kamflaj / Saklanma",
+    "Güneş Enerjisi",
+    "Hava Depolama"
   ],
   "hashtags": [
     "#FactBite",
-    "#köpekbalığı",
-    "#bilimnotları",
-    "#ilginçbilgiler",
-    "#denizaltı",
-    "#faydalıbilgiler"
+    "#doğa",
+    "#bilim",
+    "#hayvanlar",
+    "#keşfet",
+    "#biliyormusunuz",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more amazing facts like this!",
-    "es": "¡Mantente atento a más datos asombrosos como este!",
-    "ar": "ترقبوا المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Stay tuned for more facts like this!",
+    "es": "¡Mantente atento para más datos como este!",
+    "ar": "ترقبوا المزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Shark Research Institute",
-    "url": "https://www.sharks.org/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/amphibians/facts/glass-frogs"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Köpekbalıklarının Kulakları Nerededir?",
+  "_topic": "Denizlerin Derinliklerindeki 'Hayalet' Kurbağalar",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-12T21:13:43.315458+00:00",
+  "generated_at": "2026-09-12T22:33:34.184943+00:00",
   "topic_guard_days": 180
 }

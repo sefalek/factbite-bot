@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözlerini Korumak İçin Kullandığı Gizli Ekran",
-    "body": "Biliyor musunuz, uçarken rüzgardan ve tozdan gözlerini korumak zorunda olan kuşların tıpkı dalgıç gözlüğü gibi şeffaf, ekstra bir göz kapakları vardır. Nictitating membrane adı verilen bu üçüncü göz kapağı yatay olarak açılıp kapanır ve gözü kurutmadan temiz tutar."
+    "headline": "Kaktüsler Suyu Nerede Saklar?",
+    "body": "Çöl sıcağında hayatta kalan kaktüsler, suyu aslında gövdelerinin merkezindeki süngerimsi dokularda depolar. Bu özel doku, su bulamadıkları aylarda bile hayatta kalmalarını sağlar."
   },
   "en": {
-    "headline": "The Hidden Screen Birds Use to Protect Their Eyes",
-    "body": "Did you know that birds, which must protect their eyes from wind and dust while flying, have an extra, transparent eyelid much like diving goggles? Called the nictitating membrane, this third eyelid moves horizontally to keep the eye clean without drying it out."
+    "headline": "Where Do Cacti Store Water?",
+    "body": "Cacti surviving in desert heat actually store water in spongy tissues at the center of their stems. This special tissue helps them survive even during months without rain."
   },
   "es": {
-    "headline": "La pantalla oculta que usan las aves para proteger sus ojos",
-    "body": "¿Sabías que las aves, que deben proteger sus ojos del viento y el polvo al volar, tienen un párpado adicional y transparente muy parecido a las gafas de buceo? Llamado membrana nictitante, este tercer párpado se mueve horizontalmente para mantener el ojo limpio sin resecarlo."
+    "headline": "¿Dónde Almacenan Agua los Cactus?",
+    "body": "Los cactus que sobreviven al calor del desierto almacenan agua en tejidos esponjosos en el centro de sus tallos. Este tejido especial les ayuda a sobrevivir incluso durante meses sin lluvia."
   },
   "ar": {
-    "headline": "الشاخشة الخفية التي تستخدمها الطيور لحماية عيونها",
-    "body": "هل تعلم أن الطيور، التي يجب أن تحمي عيونها من الرياح والغبار أثناء الطيران، تمتلك جفناً إضافياً وشفافاً يشبه إلى حد كبير نظارات الغوص؟ يُسمى هذا الجفن الثالث الغشاء الرامش، وهو يتحرك أفقيّاً للحفاظ على نظافة العين دون جفافها."
+    "headline": "أين تخزن الصبارات الماء؟",
+    "body": "الصبار الذي ينجو من حرارة الصحراء يخزن الماء في أنسجة إسفنجية في مركز سيقانه. يساعده هذا النسيج الخاص على البقاء على قيد الحياة حتى خلال أشهر الجفاف."
   },
   "reel_hook": {
-    "tr": "Uçarken rüzgardan gözleri neden kurumuyor?",
-    "en": "Why don't their eyes dry out from the wind while flying?",
-    "es": "¿Por qué no se les secan los ojos con el viento al volar?",
-    "ar": "لماذا لا تجف عيونها بسبب الرياح أثناء الطيران؟"
+    "tr": "Çölün ortasındaki bu bitkiler, aylarca yağmur yağmasa bile nasıl susuz kalmıyor?",
+    "en": "How do these plants in the middle of the desert stay hydrated even when it doesn't rain for months?",
+    "es": "¿Cómo se mantien hidratadas estas plantas en medio del desierto incluso sin lluvia durante meses?",
+    "ar": "كيف تبقى هذه النباتات في وسط الصحراء رطبة حتى لو لم تمطر لشهور؟"
   },
   "story_question": {
-    "tr": "Kuşların bu üçüncü göz kapağı hangi yöne doğru hareket eder?",
-    "en": "In which direction does this third eyelid of birds move?",
-    "es": "¿En qué dirección se mueve este tercer párpado de las aves?",
-    "ar": "في أي اتجاه يتحرك هذا الجفن الثالث للطيور؟"
+    "tr": "Kaktüslerin suyu depoladığı ana kısım neresidir?",
+    "en": "Where is the main part where cacti store water?",
+    "es": "¿Cuál es la parte principal donde los cactus almacenan agua?",
+    "ar": "ما هو الجزء الرئيسي الذي يخزن فيه الصبار الماء؟"
   },
   "story_options": [
-    "Yatay olarak",
-    "Yukarıdan aşağıya",
-    "Aşağıdan yukarıya"
+    "Gövde",
+    "Kökler",
+    "Dikenler"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
+    "#bilgi",
     "#doğa",
-    "#bilim",
-    "#biyoloji",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#kaktüs",
+    "#bitkiler",
+    "#çöl",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Stay tuned for more nature secrets like this!",
-    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
-    "ar": "ابق على تطلع لمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza como este!",
+    "ar": "تابع للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "Botanic Gardens Conservation International",
+    "url": "https://www.bgci.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözlerini Korumak İçin Kullandığı Gizli Ekran",
+  "_topic": "Kaktüsler Suyu Nerede Saklar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-13T10:16:22.335180+00:00",
+  "generated_at": "2026-09-13T11:47:41.467619+00:00",
   "topic_guard_days": 180
 }

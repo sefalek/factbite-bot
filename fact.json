@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilere Aslında Neden Kutular Bu Kadar Cazip Gelir?",
-    "body": "Kedilerin boş bir kutuyu gördükleri an içine girmeleri sadece bir oyun değil; bu, onların doğasından gelen bir sığınma içgüdüsüdür. Kapalı ve dar alanlar, etraftaki uyaranlardan uzaklaşarak güvende hissetmelerini sağlar ve vücut ısılarını korumalarına yardımcı olur."
+    "headline": "Penguenlerin Dizleri Nerede?",
+    "body": "Penguenlerin yürüyüşü size komik mi geliyor? Aslında onların da bizimki gibi dizleri var! Sadece bu dizler, kalın tüy katmanları ve yağ tabakasının altında, vücutlarının içinde tamamen gizlenmiş durumdadır. Yani penguenler aslında hayatları boyunca çömelmiş bir pozisyonda yürürler."
   },
   "en": {
-    "headline": "Why Cardboard Boxes Are Irresistible to Cats",
-    "body": "When cats immediately jump into an empty box, it's not just for play; it's an innate sheltering instinct. Enclosed, tight spaces help them feel safe from external stimuli and help retain their body heat."
+    "headline": "Where Are Penguins' Knees?",
+    "body": "Does the way penguins walk look funny to you? They actually have knees just like us! It's just that these knees are completely hidden inside their bodies, beneath thick layers of feathers and fat. So penguins are essentially walking in a squatting position their whole lives."
   },
   "es": {
-    "headline": "¿Por qué las cajas de cartón son irresistibles para los gatos?",
-    "body": "Cuando los gatos saltan a una caja vacía, no es solo por juego; es un instinto innato de refugio. Los espacios cerrados y estrechos les ayudan a sentirse seguros de los estímulos externos y a retener el calor corporal."
+    "headline": "¿Dónde están las rodillas de los pingüinos?",
+    "body": "¿Te parece graciosa la forma en que caminan los pingüinos? ¡En realidad tienen rodillas como nosotros! Solo que estas rodillas están completamente ocultas dentro de sus cuerpos, bajo gruesas capas de plumas y grasa. Así que los pingüinos caminan prácticamente en cuclillas toda su vida."
   },
   "ar": {
-    "headline": "لماذا تعد صناديق الكرتون جذابة للغاية للقطط؟",
-    "body": "عندما تقفز القطط فوراً إلى صندوق فارغ، فليس ذلك لمجرد اللعب، بل هو غريزة مأوى فطرية. فالأماكن الضيقة والمغلقة تساعدها على الشعور بالأمان والابتعاد عن المؤثرات الخارجية والحفاظ على حرارة أجسامها."
+    "headline": "أين توجد ركب البطاريق؟",
+    "body": "هل تبدو لك طريقة مشي البطاريق مضحكة؟ لديهم في الواقع ركب تماماً مثلنا! لكن هذه الركب مخفية تماماً داخل أجسامهم تحت طبقات سميكة من الريش والدهون، مما يجعلهم يمشون طوال حياتهم في وضعية القرفصاء."
   },
   "reel_hook": {
-    "tr": "Boş bir kutu gördüğünde neden hemen içine girmek zorunda hissediyorlar?",
-    "en": "Why do they feel the need to jump inside the moment they see an empty box?",
-    "es": "¿Por qué sienten la necesidad de meterse en el momento en que ven una caja vacía?",
-    "ar": "لماذا يشعرون بالحاجة الملحة للدخول فور رؤية صندوق فارغ؟"
+    "tr": "Penguenlerin hep çömelmiş gibi yürümesinin şaşırtıcı sebebini biliyor musunuz?",
+    "en": "Do you know the surprising reason why penguins always walk like they're squatting?",
+    "es": "¿Conoces la sorprendente razón por la que los pingüinos siempre caminan como si estuvieran en cuclillas?",
+    "ar": "هل تعرف السبب المذهل وراء مشي البط وكأنهم في وضعية القرفصاء دائماً؟"
   },
   "story_question": {
-    "tr": "Kedilerin kutuları sevmesinin ana nedeni sence nedir?",
-    "en": "What do you think is the main reason cats love boxes?",
-    "es": "¿Cuálcrees que es la principal razón por la que a los gatos les encantan las cajas?",
-    "ar": "في رأيك، ما هو السبب الرئيسي لحب القطط للصناديق؟"
+    "tr": "Penguenlerin dizleri neden dışarıdan görünmez?",
+    "en": "Why are penguins' knees not visible from the outside?",
+    "es": "¿Por qué no se ven las rodillas de los pingüinos desde el exterior?",
+    "ar": "لماذا لا تُرى ركب البطاريق من الخارج؟"
   },
   "story_options": [
-    "Güvende hissetmek",
-    "Merak duygusu",
-    "Oyun oynamak"
+    "Tüylerin ve yağın altında gizlidir",
+    "Diz eklemleri yoktur",
+    "Bacakları tamamen kemiktir"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#kedidavranisları",
-    "#ilginçbilgiler",
-    "#bilim",
+    "#penguen",
+    "#bilgi",
+    "#doğa",
     "#hayvanlar",
-    "#keşfet"
+    "#ilginçbilgiler",
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bu konuyu en çok hangi kediciğe göndermek isterdin? Yorumlarda buluşalım!",
-    "en": "Which cat lover would you send this to? Let us know in the comments!",
-    "es": "¿A qué amante de los gatos le enviarías esto? ¡Cuéntanos en los comentarios!",
-    "ar": "إلى أي محب للقطط ترغب في إرسال هذا؟ شاركنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip et!",
+    "en": "Follow to not miss more surprising facts like this!",
+    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
+    "ar": "اتبعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
+    "surprise": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "San Diego Zoo",
+    "url": "https://animals.sandiegozoo.org/animals/penguin"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilere Aslında Neden Kutular Bu Kadar Cazip Gelir?",
+  "_topic": "Penguenlerin Dizleri Nerede?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-13T17:57:49.015249+00:00",
+  "generated_at": "2026-09-13T19:20:16.949330+00:00",
   "topic_guard_days": 180
 }

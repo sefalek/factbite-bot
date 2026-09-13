@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kaktüsler Suyu Nerede Saklar?",
-    "body": "Çöl sıcağında hayatta kalan kaktüsler, suyu aslında gövdelerinin merkezindeki süngerimsi dokularda depolar. Bu özel doku, su bulamadıkları aylarda bile hayatta kalmalarını sağlar."
+    "headline": "Kaktüslerin Gizli Suyu Nerede Sakladığı",
+    "body": "Çöllerde hayatta kalan kaktüsler suyu yapraklarında değil, gövdelerinin tam merkezindeki süngerimsi dokularda depolar. Bu özel yapı, kuraklık dönemlerinde suyun buharlaşmasını minimuma indirir ve bitkinin aylarca susuz kalabilmesini sağlar."
   },
   "en": {
-    "headline": "Where Do Cacti Store Water?",
-    "body": "Cacti surviving in desert heat actually store water in spongy tissues at the center of their stems. This special tissue helps them survive even during months without rain."
+    "headline": "Where Cacti Actually Store Their Hidden Water",
+    "body": "Cacti surviving in deserts store water not in their leaves, but in spongy tissues right at the center of their stems. This special structure minimizes water evaporation during droughts and allows the plant to survive for months without water."
   },
   "es": {
-    "headline": "¿Dónde Almacenan Agua los Cactus?",
-    "body": "Los cactus que sobreviven al calor del desierto almacenan agua en tejidos esponjosos en el centro de sus tallos. Este tejido especial les ayuda a sobrevivir incluso durante meses sin lluvia."
+    "headline": "Dónde guardan realmente los cactus su agua oculta",
+    "body": "Los cactus que sobreviven en los desiertos almacenan agua no en sus hojas, sino en tejidos esponjosos justo en el centro de sus tallos. Esta estructura especial minimiza la evaporación del agua durante las sequías y permite que la planta sobreviva durante meses sin agua."
   },
   "ar": {
-    "headline": "أين تخزن الصبارات الماء؟",
-    "body": "الصبار الذي ينجو من حرارة الصحراء يخزن الماء في أنسجة إسفنجية في مركز سيقانه. يساعده هذا النسيج الخاص على البقاء على قيد الحياة حتى خلال أشهر الجفاف."
+    "headline": "أين تخزن الصبارات مياهها المخفية حقاً",
+    "body": "تخزن الصبارات التي تعيش في الصحاري المياه ليس في أوراقها، بل في أنسجة إسفنجية في مركز سيقانها مباشرة. تقلل هذه البنية الخاصة من تبخر الماء أثناء الجفاف وتسمح للنبات بالبقاء لشهور دون ماء."
   },
   "reel_hook": {
-    "tr": "Çölün ortasındaki bu bitkiler, aylarca yağmur yağmasa bile nasıl susuz kalmıyor?",
-    "en": "How do these plants in the middle of the desert stay hydrated even when it doesn't rain for months?",
-    "es": "¿Cómo se mantien hidratadas estas plantas en medio del desierto incluso sin lluvia durante meses?",
-    "ar": "كيف تبقى هذه النباتات في وسط الصحراء رطبة حتى لو لم تمطر لشهور؟"
+    "tr": "Çöldeki kaktüsler o kadar suyu yapraklarında saklamıyor; peki tam olarak nereye saklıyorlar?",
+    "en": "Cacti in the desert don't store all that water in their leaves; so where exactly do they keep it?",
+    "es": "Los cactus en el desierto no guardan toda esa agua en sus hojas; entonces, ¿dónde la guardan exactamente?",
+    "ar": "الصبار في الصحراء لا يخزن كل هذه المياه في أوراقه؛ فإذن أين يضعها بالتحديد؟"
   },
   "story_question": {
-    "tr": "Kaktüslerin suyu depoladığı ana kısım neresidir?",
-    "en": "Where is the main part where cacti store water?",
-    "es": "¿Cuál es la parte principal donde los cactus almacenan agua?",
-    "ar": "ما هو الجزء الرئيسي الذي يخزن فيه الصبار الماء؟"
+    "tr": "Sizce kaktüslerin gövdesindeki bu su depolama dokusu hangi malzemeye benziyor?",
+    "en": "Which material do you think this water storage tissue in a cactus stem resembles?",
+    "es": "¿A qué material crees que se parece este tejido de almacenamiento de agua en el tallo de un cactus?",
+    "ar": "برأيك، ما هي المواد التي تشبهها أنسجة تخزين المياه هذه في ساق الصبار؟"
   },
   "story_options": [
-    "Gövde",
-    "Kökler",
-    "Dikenler"
+    "Sünger",
+    "Tuğla",
+    "Plastik"
   ],
   "hashtags": [
     "#FactBite",
     "#bilgi",
     "#doğa",
-    "#kaktüs",
     "#bitkiler",
     "#çöl",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza como este!",
-    "ar": "تابع للمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
+    "en": "Follow for more surprising nature secrets like this!",
+    "es": "¡Sígueme para más secretos sorprendentes de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Botanic Gardens Conservation International",
-    "url": "https://www.bgci.org"
+    "name": "Botanical Society of America",
+    "url": "https://www.botany.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kaktüsler Suyu Nerede Saklar?",
+  "_topic": "Kaktüslerin Gizli Suyu Nerede Sakladığı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-13T11:47:41.467619+00:00",
+  "generated_at": "2026-09-13T13:19:48.634827+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıkların Derisindeki Şaşırtıcı Sır",
-    "body": "Balıkların vücutlarını koruyan o kaygan mukus tabakası, sadece suda kolayca kaymalarını sağlamaz; aynı zamanda dışarıdaki bakterilere ve parazitlere karşı güçlü bir kalkan görevi görür. Hatta bazı balık türleri, bu katman sayesinde sudaki kimyasal değişimleri bile hissedebilir."
+    "headline": "Yarasa Kanatları Aslında Nedir?",
+    "body": "Yarasalar uçarken kendilerini tüylü birer kuş sanabilirsiniz ama aslında durum çok farklı. Yarasaların kanatları, anatomik olarak tam olarak bizim ellerimizle aynı kemik yapısına sahip. Yani incecik bir zarla kaplı o kanatlar, açıldığında adeta devasa parmaklara dönüşen birer insan elidir."
   },
   "en": {
-    "headline": "The Surprising Secret of Fish Skin",
-    "body": "The slippery mucus layer protecting fish bodies doesn't just help them glide through water easily; it also acts as a strong shield against external bacteria and parasites. Some fish species can even sense chemical changes in the water thanks to this layer."
+    "headline": "What Are Bat Wings Actually?",
+    "body": "You might think bats are just feathered birds when they fly, but the truth is very different. Anatomically, bat wings share the exact same bone structure as human hands. Those membranes are essentially stretched-out fingers, turning their wings into giant hands in flight."
   },
   "es": {
-    "headline": "El sorpresivo secreto de la piel de los peces",
-    "body": "La capa de mucosidad resbaladiza que protege el cuerpo de los peces no solo les ayuda a deslizarse fácilmente por el agua, sino que también actúa como un fuerte escudo contra bacterias y parásitos externos."
+    "headline": "¿Qué son realmente las alas de los murciélagos?",
+    "body": "Podrías pensar que los murciélagos son aves con plumas cuando vuelan, pero la realidad es muy distinta. Anatómicamente, sus alas tienen exactamente la misma estructura ósea que nuestras manos. Esas membranas estiradas son básicamente dedos gigantes."
   },
   "ar": {
-    "headline": "السر المدهش لجلد الأسماك",
-    "body": "طبقة المخاط الزلقة التي تحمي أجسام الأسماك لا تساعدها فقط على الانزلاق بسلاسة في الماء، بل تعمل أيضًا كدرع قوي ضد البكتيريا والطفيليات الخارجية."
+    "headline": "ما هي أجنحة الخفافيش حقاً؟",
+    "body": "قد تظن أن الخفافيش طيور ذات ريش عندما تطير، لكن الحقيقة مختلفة تماماً. تشريحياً، تمتلك أجنحة الخفافيش نفس بنية عظام أيدينا البشرية تماماً، حيث تحولت أصابعها لتصبح الهيكل الداعم لأجنحتها."
   },
   "reel_hook": {
-    "tr": "Balıkların sudaki gizli zırhı ne?\n\nCevabı çok şaşırtıcı.",
-    "en": "What is the hidden armor of fish in water?\n\nThe answer is very surprising.",
-    "es": "¿Cuál es la armadura oculta de los peces en el agua?\n\nLa respuesta es muy sorprendente.",
-    "ar": "ما هو الدرع الخفي للأسماك في الماء؟\n\nالإجابة مدهشة للغاية."
+    "tr": "Yarasaların aslında devasa insan elleriyle uçtuğunu biliyor muydunuz?",
+    "en": "Did you know bats actually fly using giant human-like hands?",
+    "es": "¿Sabías que los murciélagos vuelan usando manos humanas gigantes?",
+    "ar": "هل تعلم أن الخفافيش تطير باستخدام أيدي تشبه أيدي البشر؟"
   },
   "story_question": {
-    "tr": "Balıkların üzerindeki kaygan tabaka öncelikli olarak ne işe yarar?",
-    "en": "What is the primary function of the slippery layer on fish?",
-    "es": "¿Cuál es la función principal de la capa resbaladiza en los peces?",
-    "ar": "ما هي الوظيفة الأساسية للطبقة الزلقة على الأسماك؟"
+    "tr": "Yarasaların kanat aslı hangi organımıza benzer?",
+    "en": "Which of our body parts are bat wings structurally similar to?",
+    "es": "¿A qué parte de nuestro cuerpo se parecen estructuralmente las alas de los murciélagos?",
+    "ar": "إلى أي جزء من جسم الإنسان تشبه أجنحة الخفافيش في بنيتها؟"
   },
   "story_options": [
-    "Bakterilerden korur",
-    "Daha hızlı yüzdürür",
-    "Renk verir"
+    "İnsan Eli",
+    "İnsan Kolu",
+    "İnsan Kulağı"
   ],
   "hashtags": [
     "#FactBite",
-    "#balıklar",
     "#bilim",
+    "#yarasalar",
     "#doğa",
-    "#keşfet",
     "#ilginçbilgiler",
     "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Follow for more surprising facts like this!",
+    "es": "¡Síguenos para más datos sorprendentes como este!",
+    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Anatomical Society",
+    "url": "https://www.anatsoc.org.uk"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıkların Derisindeki Şaşırtıcı Sır",
+  "_topic": "Yarasa Kanatları Aslında Nedir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-13T14:58:14.883809+00:00",
+  "generated_at": "2026-09-13T16:50:02.647352+00:00",
   "topic_guard_days": 180
 }

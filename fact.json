@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yıldızlar Neden Yanıp Söner?",
-    "body": "Gökyüzüne baktığımızda yıldızların göz kırptığını görürüz. Ama uzayda aslında durum çok farklıdır. Yıldızlar sabit bir şekilde parlar, fakat ışıkları dünyaya ulaşırken atmosferimizdeki hareketli hava katmanlarından geçer. Bu hava dalgalanmaları ışığı kırar ve bizim gözümüze yanıp sönüyormuş gibi görünür. Yani o sevimli pırıltı yıldızın kendisinden değil, aramızdaki havanın oyunundan ibarettir."
+    "headline": "Ahtapotların Mavi Kanı",
+    "body": "Okyanusun derinliklerinde yaşayan ahtapotların kanı bizimki gibi kırmızı değil, masmavidir. Bunun sebebi, insanlardaki demir bazlı hemoglobin yerine, bakır bazlı bir protein olan hemosiyanin kullanmalarıdır. Bu bakır bazlı sistem, özellikle soğuk ve düşük oksijenli derin deniz koşullarında oksijeni taşımakta çok daha etkilidir."
   },
   "en": {
-    "headline": "Why Do Stars Twinkle?",
-    "body": "When we look at the night sky, stars appear to twinkle. But out in space, it is actually very different. Stars shine steadily, but their light has to pass through the moving layers of Earth's atmosphere to reach us. These air fluctuations bend the light, making it look like they are blinking to our eyes. So that lovely sparkle doesn't come from the star itself, but from the air between us."
+    "headline": "Octopuses' Blue Blood",
+    "body": "Octopuses living in the deep ocean have blue blood instead of red like ours. This is because they use a copper-based protein called hemocyanin instead of iron-based hemoglobin. This copper-based system is much more efficient at transporting oxygen, especially in cold and low-oxygen deep-sea conditions."
   },
   "es": {
-    "headline": "¿Por qué parpadean las estrellas?",
-    "body": "Cuando miramos al cielo nocturno, las estrellas parecen parpadear. Pero en el espacio exterior, la realidad es muy distinta. Las estrellas brillan de forma constante, pero su luz debe atravesar las capas de aire en movimiento de la atmósfera terrestre para llegar a nosotros. Estas fluctuaciones del aire desvían la luz, haciendo que parezca que parpadean ante nuestros ojos."
+    "headline": "La sangre azul de los pulpos",
+    "body": "Los pulpos que viven en las profundidades del océano tienen sangre azul en lugar de roja como la nuestra. Esto se debe a que utilizan una proteína a base de cobre llamada hemocianina en lugar de hemoglobina a base de hierro. Este sistema es mucho más eficiente para transportar oxígeno en aguas frías y con poco oxígeno."
   },
   "ar": {
-    "headline": "لماذا تتلألأ النجوم؟",
-    "body": "عندما ننظر إلى سماء الليل، نرى النجوم وكأنها تتردد أو تتلألأ. لكن في الفضاء، الأمر مختلف تماماً. النجوم تضيء بثبات، ولكن ضوئها يمر عبر طبقات الهواء المتحركة في الغلاف الجوي للأرض ليصل إلينا. هذه التموجات الهوائية تكسر الضوء، مما يجعله يبدو وكأنه يومض لأعيننا."
+    "headline": "دم الأخطبوط الأزرق",
+    "body": "الأخطبوطات التي تعيش في أعماق المحيط لها دم أزرق بدلاً من الأحمر مثلنا. وذلك لأنها تستخدم بروتيناً يعتمد على النحاس يسمى الهيموسيانين بدلاً من الهيموجلوبين الذي يعتمد على الحديد. هذا النظام فعال للغاية في نقل الأكسجين في أعماق البحر."
   },
   "reel_hook": {
-    "tr": "Gökyüzündeki yıldızlar aslında hiç de öyle görünmüyor!",
-    "en": "The stars in the sky actually don't look like that at all!",
-    "es": "¡Las estrellas en el cielo realmente no se ven así!",
-    "ar": "النجوم في السماء لا تبدو هكذا على الإطلاق!"
+    "tr": "Okyanusun derinliklerindeki bu canlıların kanı neden kırmızı değil de masmavidir?",
+    "en": "Why is the blood of these deep ocean creatures blue instead of red?",
+    "es": "¿Por qué la sangre de estas criaturas de las profundidades marinas es azul en lugar de roja?",
+    "ar": "لماذا دم هذه المخلوقات في أعماق المحيط أزرق وليس أحمر؟"
   },
   "story_question": {
-    "tr": "Yıldızların yanıp sönmesinin asıl sebebi nedir?",
-    "en": "What is the real reason stars twinkle?",
-    "es": "¿Cuál es la verdadera razón por la que las estrellas parpadean?",
-    "ar": "ما هو السبب الحقيقي وراء تلألؤ النجوم؟"
+    "tr": "Ahtapotların kanının mavi olmasını sağlayan temel element nedir?",
+    "en": "What is the primary element that makes octopus blood blue?",
+    "es": "¿Cuál es el elemento principal que hace que la sangre del pulpo sea azul?",
+    "ar": "ما هو العنصر الأساسي الذي يجعل دم الأخطبوط أزرق؟"
   },
   "story_options": [
-    "Atmosferdeki hava katmanları",
-    "Yıldızların kendi enerjisi",
-    "Güneş rüzgarları"
+    "Bakır",
+    "Demir",
+    "Çinko"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#uzay",
-    "#yıldızlar",
-    "#astronomi",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#okyanus",
+    "#ahtapot",
+    "#ilginçbilgiler",
+    "#doğa",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu kimin bilmesi gerekiyor? Yorumlarda buluşalım!",
-    "en": "Who needs to know this? Let's meet in the comments!",
-    "es": "¿Quién necesita saber esto? ¡Nos vemos en los comentarios!",
-    "ar": "من يحتاج لمعرفة هذا؟ لنلتقي في التعليقات!"
+    "tr": "Benzer şaşırtıcı gerçekler için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "NASA Science",
-    "url": "https://science.nasa.gov/"
+    "name": "Marine Biological Laboratory",
+    "url": "https://www.mbl.edu"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yıldızlar Neden Yanıp Söner?",
+  "_topic": "Ahtapotların Mavi Kanı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-13T21:16:15.614194+00:00",
+  "generated_at": "2026-09-13T22:37:18.992480+00:00",
   "topic_guard_days": 180
 }

@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Derinliklerindeki 'Hayalet' Kurbağalar",
-    "body": "Hiç tamamen şeffaf bir omurgalı gördün mü? Cam kurbağaların karınları tamamen saydamdır. Öyle ki, iç organları ve hatta atan kalpleri dışarıdan net bir şekilde görülebilir. Bu şeffaflık, onların doğadaki yırtıcılardan saklanmasını sağlayan mükemmel bir kamuflaj yöntemidir."
+    "headline": "Kuşların Gözlerini Korumak İçin Kullandığı Gizli Ekran",
+    "body": "Biliyor musunuz, uçarken rüzgardan ve tozdan gözlerini korumak zorunda olan kuşların tıpkı dalgıç gözlüğü gibi şeffaf, ekstra bir göz kapakları vardır. Nictitating membrane adı verilen bu üçüncü göz kapağı yatay olarak açılıp kapanır ve gözü kurutmadan temiz tutar."
   },
   "en": {
-    "headline": "The 'Ghost' Frogs of the Depths",
-    "body": "Have you ever seen a completely transparent vertebrate? Glass frogs have completely translucent bellies, making their internal organs and even beating hearts clearly visible. This transparency is a brilliant camouflage technique to hide from predators in nature."
+    "headline": "The Hidden Screen Birds Use to Protect Their Eyes",
+    "body": "Did you know that birds, which must protect their eyes from wind and dust while flying, have an extra, transparent eyelid much like diving goggles? Called the nictitating membrane, this third eyelid moves horizontally to keep the eye clean without drying it out."
   },
   "es": {
-    "headline": "Las ranas 'fantasma' de las profundidades",
-    "body": "¿Has visto alguna vez un vertebrado completamente transparente? Las ranas de cristal tienen el vientre translúcido, lo que permite ver claramente sus órganos internos y hasta sus corazones latiendo. Esta transparencia es un perfecto camuflaje contra los depredadores."
+    "headline": "La pantalla oculta que usan las aves para proteger sus ojos",
+    "body": "¿Sabías que las aves, que deben proteger sus ojos del viento y el polvo al volar, tienen un párpado adicional y transparente muy parecido a las gafas de buceo? Llamado membrana nictitante, este tercer párpado se mueve horizontalmente para mantener el ojo limpio sin resecarlo."
   },
   "ar": {
-    "headline": "ضفادع 'الشبح' في الأعماق",
-    "body": "هل رأيت من قبل فقارياً شفافاً تماماً؟ تمتلك ضفادع الزجاج بطوناً شفافة تماماً، مما يجعل أعضاءها الداخلية وحتى قلوبها النابضة مرئية بوضوح. تُعد هذه الشفافية تقنية تمويه مثالية للاختباء من الحيوانات المفترسة في الطبيعة."
+    "headline": "الشاخشة الخفية التي تستخدمها الطيور لحماية عيونها",
+    "body": "هل تعلم أن الطيور، التي يجب أن تحمي عيونها من الرياح والغبار أثناء الطيران، تمتلك جفناً إضافياً وشفافاً يشبه إلى حد كبير نظارات الغوص؟ يُسمى هذا الجفن الثالث الغشاء الرامش، وهو يتحرك أفقيّاً للحفاظ على نظافة العين دون جفافها."
   },
   "reel_hook": {
-    "tr": "İç organları dışarıdan net bir şekilde görülebilen bu canlıyı biliyor musun?",
-    "en": "Do you know this creature whose internal organs are clearly visible from the outside?",
-    "es": "¿Conoces a esta criatura cuyos órganos internos son claramente visibles desde el exterior?",
-    "ar": "هل تعرف هذا المخلوق الذي يمكن رؤية أعضائه الداخلية بوضوح من الخارج؟"
+    "tr": "Uçarken rüzgardan gözleri neden kurumuyor?",
+    "en": "Why don't their eyes dry out from the wind while flying?",
+    "es": "¿Por qué no se les secan los ojos con el viento al volar?",
+    "ar": "لماذا لا تجف عيونها بسبب الرياح أثناء الطيران؟"
   },
   "story_question": {
-    "tr": "Cam kurbağaların şeffaf karınları en çok ne işe yarar?",
-    "en": "What is the main purpose of the glass frog's transparent belly?",
-    "es": "¿Para qué sirve principalmente el vientre transparente de las ranas de cristal?",
-    "ar": "ما هو الغرض الرئيسي من بطن الضفدع الزجاجي الشفاف؟"
+    "tr": "Kuşların bu üçüncü göz kapağı hangi yöne doğru hareket eder?",
+    "en": "In which direction does this third eyelid of birds move?",
+    "es": "¿En qué dirección se mueve este tercer párpado de las aves?",
+    "ar": "في أي اتجاه يتحرك هذا الجفن الثالث للطيور؟"
   },
   "story_options": [
-    "Kamflaj / Saklanma",
-    "Güneş Enerjisi",
-    "Hava Depolama"
+    "Yatay olarak",
+    "Yukarıdan aşağıya",
+    "Aşağıdan yukarıya"
   ],
   "hashtags": [
     "#FactBite",
+    "#kuşlar",
     "#doğa",
     "#bilim",
-    "#hayvanlar",
-    "#keşfet",
-    "#biliyormusunuz",
-    "#ilginçbilgiler"
+    "#biyoloji",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Stay tuned for more facts like this!",
-    "es": "¡Mantente atento para más datos como este!",
-    "ar": "ترقبوا المزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Stay tuned for more nature secrets like this!",
+    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
+    "ar": "ابق على تطلع لمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/amphibians/facts/glass-frogs"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Derinliklerindeki 'Hayalet' Kurbağalar",
+  "_topic": "Kuşların Gözlerini Korumak İçin Kullandığı Gizli Ekran",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-12T22:33:34.184943+00:00",
+  "generated_at": "2026-09-13T10:16:22.335180+00:00",
   "topic_guard_days": 180
 }

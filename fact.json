@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yarasa Kanatları Aslında Nedir?",
-    "body": "Yarasalar uçarken kendilerini tüylü birer kuş sanabilirsiniz ama aslında durum çok farklı. Yarasaların kanatları, anatomik olarak tam olarak bizim ellerimizle aynı kemik yapısına sahip. Yani incecik bir zarla kaplı o kanatlar, açıldığında adeta devasa parmaklara dönüşen birer insan elidir."
+    "headline": "Kedilere Aslında Neden Kutular Bu Kadar Cazip Gelir?",
+    "body": "Kedilerin boş bir kutuyu gördükleri an içine girmeleri sadece bir oyun değil; bu, onların doğasından gelen bir sığınma içgüdüsüdür. Kapalı ve dar alanlar, etraftaki uyaranlardan uzaklaşarak güvende hissetmelerini sağlar ve vücut ısılarını korumalarına yardımcı olur."
   },
   "en": {
-    "headline": "What Are Bat Wings Actually?",
-    "body": "You might think bats are just feathered birds when they fly, but the truth is very different. Anatomically, bat wings share the exact same bone structure as human hands. Those membranes are essentially stretched-out fingers, turning their wings into giant hands in flight."
+    "headline": "Why Cardboard Boxes Are Irresistible to Cats",
+    "body": "When cats immediately jump into an empty box, it's not just for play; it's an innate sheltering instinct. Enclosed, tight spaces help them feel safe from external stimuli and help retain their body heat."
   },
   "es": {
-    "headline": "¿Qué son realmente las alas de los murciélagos?",
-    "body": "Podrías pensar que los murciélagos son aves con plumas cuando vuelan, pero la realidad es muy distinta. Anatómicamente, sus alas tienen exactamente la misma estructura ósea que nuestras manos. Esas membranas estiradas son básicamente dedos gigantes."
+    "headline": "¿Por qué las cajas de cartón son irresistibles para los gatos?",
+    "body": "Cuando los gatos saltan a una caja vacía, no es solo por juego; es un instinto innato de refugio. Los espacios cerrados y estrechos les ayudan a sentirse seguros de los estímulos externos y a retener el calor corporal."
   },
   "ar": {
-    "headline": "ما هي أجنحة الخفافيش حقاً؟",
-    "body": "قد تظن أن الخفافيش طيور ذات ريش عندما تطير، لكن الحقيقة مختلفة تماماً. تشريحياً، تمتلك أجنحة الخفافيش نفس بنية عظام أيدينا البشرية تماماً، حيث تحولت أصابعها لتصبح الهيكل الداعم لأجنحتها."
+    "headline": "لماذا تعد صناديق الكرتون جذابة للغاية للقطط؟",
+    "body": "عندما تقفز القطط فوراً إلى صندوق فارغ، فليس ذلك لمجرد اللعب، بل هو غريزة مأوى فطرية. فالأماكن الضيقة والمغلقة تساعدها على الشعور بالأمان والابتعاد عن المؤثرات الخارجية والحفاظ على حرارة أجسامها."
   },
   "reel_hook": {
-    "tr": "Yarasaların aslında devasa insan elleriyle uçtuğunu biliyor muydunuz?",
-    "en": "Did you know bats actually fly using giant human-like hands?",
-    "es": "¿Sabías que los murciélagos vuelan usando manos humanas gigantes?",
-    "ar": "هل تعلم أن الخفافيش تطير باستخدام أيدي تشبه أيدي البشر؟"
+    "tr": "Boş bir kutu gördüğünde neden hemen içine girmek zorunda hissediyorlar?",
+    "en": "Why do they feel the need to jump inside the moment they see an empty box?",
+    "es": "¿Por qué sienten la necesidad de meterse en el momento en que ven una caja vacía?",
+    "ar": "لماذا يشعرون بالحاجة الملحة للدخول فور رؤية صندوق فارغ؟"
   },
   "story_question": {
-    "tr": "Yarasaların kanat aslı hangi organımıza benzer?",
-    "en": "Which of our body parts are bat wings structurally similar to?",
-    "es": "¿A qué parte de nuestro cuerpo se parecen estructuralmente las alas de los murciélagos?",
-    "ar": "إلى أي جزء من جسم الإنسان تشبه أجنحة الخفافيش في بنيتها؟"
+    "tr": "Kedilerin kutuları sevmesinin ana nedeni sence nedir?",
+    "en": "What do you think is the main reason cats love boxes?",
+    "es": "¿Cuálcrees que es la principal razón por la que a los gatos les encantan las cajas?",
+    "ar": "في رأيك، ما هو السبب الرئيسي لحب القطط للصناديق؟"
   },
   "story_options": [
-    "İnsan Eli",
-    "İnsan Kolu",
-    "İnsan Kulağı"
+    "Güvende hissetmek",
+    "Merak duygusu",
+    "Oyun oynamak"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#yarasalar",
-    "#doğa",
+    "#kedi",
+    "#kedidavranisları",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#bilim",
+    "#hayvanlar",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Follow for more surprising facts like this!",
-    "es": "¡Síguenos para más datos sorprendentes como este!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bu konuyu en çok hangi kediciğe göndermek isterdin? Yorumlarda buluşalım!",
+    "en": "Which cat lover would you send this to? Let us know in the comments!",
+    "es": "¿A qué amante de los gatos le enviarías esto? ¡Cuéntanos en los comentarios!",
+    "ar": "إلى أي محب للقطط ترغب في إرسال هذا؟ شاركنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "surprise": 8,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Anatomical Society",
-    "url": "https://www.anatsoc.org.uk"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yarasa Kanatları Aslında Nedir?",
+  "_topic": "Kedilere Aslında Neden Kutular Bu Kadar Cazip Gelir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-13T16:50:02.647352+00:00",
+  "generated_at": "2026-09-13T17:57:49.015249+00:00",
   "topic_guard_days": 180
 }

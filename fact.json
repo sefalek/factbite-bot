@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritin Yanmasını Sağlayan O Gizli Detay",
-    "body": "Cebinizdeki çakmakla veya kutudaki kibritle oynarken hiç düşündünüz mü; çöpün ucundaki o küçük başlık neden kutunun kenarındaki özel şerit olmadan asla yanmaz? Sır kutunun içinde değil, o şeridin üzerindeki kırmızı fosfor tozunda saklı. Çöpü o şeride sürttüğünüzde oluşan ısı, kimyasalları tetikler ve o anki sürtünmeyle alev ortaya çıkar. Yani kibrit başı tek başına sadece kimyasal bir tozdur; asıl sihir doğru hamleyle gerçekleşir."
+    "headline": "Porselen Fincanlar Aslında Neden Mavi Desenli?",
+    "body": "Tarihi porselenlerin çoğunda neden hep aynı mavi tonunu görürsünüz? Cevap tamamen dönemin teknolojisiyle ilgili. Eskiden kullanılan kobalt mavisi, çini fırınlarının ulaştığı aşırı yüksek sıcaklıklara dayanabilen tek boyaydı. Diğer tüm renkler o devasa ısıda eriyip giderken, mavi rengi yapısını bozmadan porselene adeta mühürleniyordu."
   },
   "en": {
-    "headline": "The Hidden Detail That Makes a Matchstick Burn",
-    "body": "Have you ever wondered why the tiny head on a matchstick never ignites on its own until you strike it against the box? The secret isn't in the head itself, but in the red phosphorus strip on the side of the matchbox. The friction creates just enough heat to trigger the chemicals, instantly producing a flame. Without that specific surface, the match head is just a static mixture waiting for the right spark."
+    "headline": "Why Are Porcelain Cups Always Blue?",
+    "body": "Why do most historical porcelains feature that exact same shade of blue? The answer lies entirely in the technology of the era. Cobalt blue was the only pigment that could survive the extreme temperatures of ancient porcelain kilns. While all other colors melted away in the intense heat, blue remained completely intact."
   },
   "es": {
-    "headline": "El detalle oculto que hace arder una cerilla",
-    "body": "¿Alguna vez te has preguntado por qué la pequeña cabeza de una cerilla nunca se enciende sola hasta que la frotas contra la caja? El secreto no está en la cerilla, sino en la tira de fósforo rojo del lateral. La fricción crea el calor justo para activar los químicos y producir la llama al instante."
+    "headline": "¿Por qué las tazas de porcelana son siempre azules?",
+    "body": "¿Por qué la mayoría de las porcelanas históricas tienen exactamente el mismo tono de azul? La respuesta se debe a la tecnología de la época. El azul de cobalto era el único pigmento capaz de sobrevivir a las temperaturas extremas de los antiguos hornos. Mientras los demás colores se derretían, el azul quedaba intacto."
   },
   "ar": {
-    "headline": "التفصيل الخفي الذي يجعل عود الكبريت يشتعل",
-    "body": "هل فكرت يومًا لماذا لا يشتعل رأس عود الكبريت الصندوقي بمفرده أبدًا حتى تحكه بالعلبة؟ السر ليس في العود نفسه، بل في شريط الفسفور الأحمر على جانب علبة الكبريت. الاحتكاك يولد حرارة كافية لتفعيل المواد الكيميائية وإشعال اللهب فورا."
+    "headline": "لماذا تاتي أكواب الخزف دائما باللون الأزرق؟",
+    "body": "لماذا تحتوي معظم قطع الخزف التاريخية على نفس درجات اللون الأزرق تمامًا؟ الإجابة تكمن في تكنولوجيا ذلك العصر. كان أزرق الكوبالت هو الصبغة الوحيدة التي يمكنها تحمل درجات الحرارة القصوى لأفران الخزف القديمة، بينما كانت الألوان الأخرى تذوب في الحرارة العالية."
   },
   "reel_hook": {
-    "tr": "Kibrit kutusu olmasa o çöp asla yanmaz, biliyor muydunuz?",
-    "en": "Did you know a matchstick would never light without that box?",
-    "es": "¿Sabías que una cerilla nunca se encendería sin esa caja?",
-    "ar": "هل كنت تعلم أن عود الكبريت لا يمكن أن يشتعل بدون تلك العلبة؟"
+    "tr": "Eski porselenlerin hepsi neden sadece tek bir renk olmak zorundaydı?",
+    "en": "Why did all old porcelains have to be in just one specific color?",
+    "es": "¿Por qué toda la porcelana antigua tenía que ser de un solo color?",
+    "ar": "لماذا كان يجب أن تكون كل قطع الخزف القديمة بلون واحد فقط؟"
   },
   "story_question": {
-    "tr": "Kibritin asıl yanmasını sağlayan ana unsur sence hangisidir?",
-    "en": "What do you think is the main element that actually makes a match burn?",
-    "es": "¿Cuál crees que es el elemento principal que hace que una cerilla arda?",
-    "ar": "برأيك، ما هو العنصر الأساسي الذي يجعل الكبريت يحترق حقاً؟"
+    "tr": "Porselenlerin bu kadar yüksek ısıya dayanabilmesini sağlayan boya hangisidir?",
+    "en": "Which pigment allowed porcelains to withstand such extreme heat?",
+    "es": "¿Qué pigmento permitió que la porcelana resistiera tanto calor?",
+    "ar": "ما هي الصبغة التي سمحت للخزف بتحمل كل هذه الحرارة العالية؟"
   },
   "story_options": [
-    "Kibrit başındaki kükürt",
-    "Kutunun yanındaki fosfor",
-    "Sürtünme sırasındaki basınç"
+    "Kobalt Mavisi",
+    "Bakır Yeşili",
+    "Demir Kırmızısı"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#pratikbilgiler"
+    "#tarih",
+    "#sanat",
+    "#porselen",
+    "#bilgi",
+    "#ilginç",
+    "#teknoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla tarihi sırrı kaçırmamak için takip et!",
+    "en": "Follow to not miss more historical secrets like this!",
+    "es": "¡Sígueme para no perderte más secretos históricos como este!",
+    "ar": "تابعنا لكي لا تفوتك المزيد من الأسرار التاريخية مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Chemistry of Matches - Compound Interest",
-    "url": "https://www.compoundchem.com/2014/11/06/matches/"
+    "name": "The Met Museum - History of Cobalt Blue in Ceramics",
+    "url": "https://www.metmuseum.org/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritin Yanmasını Sağlayan O Gizli Detay",
+  "_topic": "Porselen Fincanlar Aslında Neden Mavi Desenli?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-14T19:45:47.961996+00:00",
+  "generated_at": "2026-09-14T20:54:20.938812+00:00",
   "topic_guard_days": 180
 }

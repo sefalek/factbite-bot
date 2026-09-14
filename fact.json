@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Solucanların Toprağı Değiştiren Gizli Gücü",
-    "body": "Toprağın altında sessizce çalışan solucanların aslında dişleri yoktur, peki ya yiyecekleri toprağı nasıl öğütürler? Taşlık ve kumlu küçük parçacıkları yutarak kursaklarında öğütürler ve toprağı havalandırarak bitkilerin büyümesini sağlarlar."
+    "headline": "Kibritin Yanmasını Sağlayan O Gizli Detay",
+    "body": "Cebinizdeki çakmakla veya kutudaki kibritle oynarken hiç düşündünüz mü; çöpün ucundaki o küçük başlık neden kutunun kenarındaki özel şerit olmadan asla yanmaz? Sır kutunun içinde değil, o şeridin üzerindeki kırmızı fosfor tozunda saklı. Çöpü o şeride sürttüğünüzde oluşan ısı, kimyasalları tetikler ve o anki sürtünmeyle alev ortaya çıkar. Yani kibrit başı tek başına sadece kimyasal bir tozdur; asıl sihir doğru hamleyle gerçekleşir."
   },
   "en": {
-    "headline": "The Hidden Power of Earthworms",
-    "body": "Earthworms working silently underground actually have no teeth, so how do they grind the soil they eat? They swallow small sandy particles to grind food in their gizzards, aerating the soil and helping plants grow."
+    "headline": "The Hidden Detail That Makes a Matchstick Burn",
+    "body": "Have you ever wondered why the tiny head on a matchstick never ignites on its own until you strike it against the box? The secret isn't in the head itself, but in the red phosphorus strip on the side of the matchbox. The friction creates just enough heat to trigger the chemicals, instantly producing a flame. Without that specific surface, the match head is just a static mixture waiting for the right spark."
   },
   "es": {
-    "headline": "El poder oculto de las lombrices de tierra",
-    "body": "Las lombrices que trabajan en silencio bajo tierra no tienen dientes, ¿cómo muelen la tierra que comen? Traguen pequeñas partículas de arena para triturar el alimento en su molleja, aireando el suelo."
+    "headline": "El detalle oculto que hace arder una cerilla",
+    "body": "¿Alguna vez te has preguntado por qué la pequeña cabeza de una cerilla nunca se enciende sola hasta que la frotas contra la caja? El secreto no está en la cerilla, sino en la tira de fósforo rojo del lateral. La fricción crea el calor justo para activar los químicos y producir la llama al instante."
   },
   "ar": {
-    "headline": "القوة الخفية لديدان الأرض",
-    "body": "ديدان الأرض التي تعمل بصمت تحت الأرض ليس لها أسنان حقاً، فكيف تطحن التربة التي تأكلها؟ تبتلع جزيئات رملية صغيرة لطحن الطعام في قوانصها، مما يهوي التربة."
+    "headline": "التفصيل الخفي الذي يجعل عود الكبريت يشتعل",
+    "body": "هل فكرت يومًا لماذا لا يشتعل رأس عود الكبريت الصندوقي بمفرده أبدًا حتى تحكه بالعلبة؟ السر ليس في العود نفسه، بل في شريط الفسفور الأحمر على جانب علبة الكبريت. الاحتكاك يولد حرارة كافية لتفعيل المواد الكيميائية وإشعال اللهب فورا."
   },
   "reel_hook": {
-    "tr": "Toprağın altındaki bu küçük canlıların hiç dişi olmadığını biliyor muydunuz?",
-    "en": "Did you know these tiny creatures underground have no teeth at all?",
-    "es": "¿Sabías que estas pequeñas criaturas bajo tierra no tienen dientes?",
-    "ar": "هل تعلم أن هذه الكائنات الصغيرة تحت الأرض ليس لها أسنان تماماً؟"
+    "tr": "Kibrit kutusu olmasa o çöp asla yanmaz, biliyor muydunuz?",
+    "en": "Did you know a matchstick would never light without that box?",
+    "es": "¿Sabías que una cerilla nunca se encendería sin esa caja?",
+    "ar": "هل كنت تعلم أن عود الكبريت لا يمكن أن يشتعل بدون تلك العلبة؟"
   },
   "story_question": {
-    "tr": "Solucanlar yedikleri sert parçacıkları nerede öğütür?",
-    "en": "Where do earthworms grind hard particles they eat?",
-    "es": "¿Dónde muelen las lombrices las partículas duras que comen?",
-    "ar": "أين تطحن ديدان الأرض الجزيئات الصلبة التي تأكلها؟"
+    "tr": "Kibritin asıl yanmasını sağlayan ana unsur sence hangisidir?",
+    "en": "What do you think is the main element that actually makes a match burn?",
+    "es": "¿Cuál crees que es el elemento principal que hace que una cerilla arda?",
+    "ar": "برأيك، ما هو العنصر الأساسي الذي يجعل الكبريت يحترق حقاً؟"
   },
   "story_options": [
-    "Kursaklarında",
-    "Midelerinde",
-    "Ağızlarında"
+    "Kibrit başındaki kükürt",
+    "Kutunun yanındaki fosfor",
+    "Sürtünme sırasındaki basınç"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
     "#bilim",
-    "#toprak",
-    "#canlılar",
-    "#eğlencelibilgi",
-    "#keşfet"
+    "#ilginçbilgiler",
+    "#teknoloji",
+    "#keşfet",
+    "#pratikbilgiler"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı doğa gerçekleri için takipte kal!",
-    "en": "Stay tuned for more surprising nature facts!",
-    "es": "¡Mantente atento a más datos sorprendentes de la naturaleza!",
-    "ar": "ابق على متابعة لمزيد من حقائق الطبيعة المدهشة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/earthworms"
+    "name": "Chemistry of Matches - Compound Interest",
+    "url": "https://www.compoundchem.com/2014/11/06/matches/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Solucanların Toprağı Değiştiren Gizli Gücü",
+  "_topic": "Kibritin Yanmasını Sağlayan O Gizli Detay",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-14T18:21:03.490324+00:00",
+  "generated_at": "2026-09-14T19:45:47.961996+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ahtapotların Mavi Kanı",
-    "body": "Okyanusun derinliklerinde yaşayan ahtapotların kanı bizimki gibi kırmızı değil, masmavidir. Bunun sebebi, insanlardaki demir bazlı hemoglobin yerine, bakır bazlı bir protein olan hemosiyanin kullanmalarıdır. Bu bakır bazlı sistem, özellikle soğuk ve düşük oksijenli derin deniz koşullarında oksijeni taşımakta çok daha etkilidir."
+    "headline": "Kibritin Başı Neden Yanmaz?",
+    "body": "Bir kibrit çöpünü elinize aldığınızda baş kısmının o an alev almadığını görürsünüz. Çünkü kibrit başındaki kimyasallar kendi kendine yanmaz; sadece kutunun yanındaki sürtünme yüzeyiyle temas ettiğinde açığa çıkan ısı ve özel bileşenlerle tepkimeye girer. Yani o küçük kıvılcım tamamen doğru temasın eseridir."
   },
   "en": {
-    "headline": "Octopuses' Blue Blood",
-    "body": "Octopuses living in the deep ocean have blue blood instead of red like ours. This is because they use a copper-based protein called hemocyanin instead of iron-based hemoglobin. This copper-based system is much more efficient at transporting oxygen, especially in cold and low-oxygen deep-sea conditions."
+    "headline": "Why Doesn't a Matchhead Catch Fire on Its Own?",
+    "body": "When you hold a matchstick, the head doesn't just burst into flames. That's because the chemicals on it won't ignite by themselves; they require the friction and special compounds found only on the strip of the box. That tiny spark is purely the result of precise contact."
   },
   "es": {
-    "headline": "La sangre azul de los pulpos",
-    "body": "Los pulpos que viven en las profundidades del océano tienen sangre azul en lugar de roja como la nuestra. Esto se debe a que utilizan una proteína a base de cobre llamada hemocianina en lugar de hemoglobina a base de hierro. Este sistema es mucho más eficiente para transportar oxígeno en aguas frías y con poco oxígeno."
+    "headline": "Por qué la cabeza de un cerillo no se enciende sola",
+    "body": "Cuando sostienes un cerillo, la cabeza no se prende de la nada. Los químicos en ella no se inflaman por sí solos; necesitan la fricción y los compuestos especiales de la caja. Esa pequeña chispa es simplemente el resultado de un contacto preciso."
   },
   "ar": {
-    "headline": "دم الأخطبوط الأزرق",
-    "body": "الأخطبوطات التي تعيش في أعماق المحيط لها دم أزرق بدلاً من الأحمر مثلنا. وذلك لأنها تستخدم بروتيناً يعتمد على النحاس يسمى الهيموسيانين بدلاً من الهيموجلوبين الذي يعتمد على الحديد. هذا النظام فعال للغاية في نقل الأكسجين في أعماق البحر."
+    "headline": "لماذا لا تشتعل رأس عود الثقاب بمفردها؟",
+    "body": "عندما تحسك عود ثقاب، لا تشتعل رأسه من تلقاء نفسها. المواد الكيميائية الموجودة عليه لا تشتعل بمفردها، بل تحتاج إلى الاحتكاك والمركبات الخاصة الموجودة على علبة الثقاب. تلك الشرر الصغيرة هي ببساطة نتاج التلامس الدقيق."
   },
   "reel_hook": {
-    "tr": "Okyanusun derinliklerindeki bu canlıların kanı neden kırmızı değil de masmavidir?",
-    "en": "Why is the blood of these deep ocean creatures blue instead of red?",
-    "es": "¿Por qué la sangre de estas criaturas de las profundidades marinas es azul en lugar de roja?",
-    "ar": "لماذا دم هذه المخلوقات في أعماق المحيط أزرق وليس أحمر؟"
+    "tr": "Elinde tuttuğun o kibrit çöpü, neden cebindeyken kendi kendine alev almıyor?",
+    "en": "Why doesn't the matchstick in your hand burst into flames while sitting in your pocket?",
+    "es": "¿Por qué el cerillo en tu mano no se enciende solo mientras está en tu bolsillo?",
+    "ar": "لماذا لا يشتعل عود الثقاب الذي في يدك تلقائياً أثناء وجوده في جيبك؟"
   },
   "story_question": {
-    "tr": "Ahtapotların kanının mavi olmasını sağlayan temel element nedir?",
-    "en": "What is the primary element that makes octopus blood blue?",
-    "es": "¿Cuál es el elemento principal que hace que la sangre del pulpo sea azul?",
-    "ar": "ما هو العنصر الأساسي الذي يجعل دم الأخطبوط أزرق؟"
+    "tr": "Kibrit kutularının yan tarafındaki sürtünme yüzeyinde hangi element bulunur?",
+    "en": "What element is found on the friction strip of a matchbox?",
+    "es": "¿Qué elemento se encuentra en la tira de fricción de una caja de cerillos?",
+    "ar": "ما العنصر الموجود على شريط الاحتكاك في علبة الثقاب؟"
   },
   "story_options": [
-    "Bakır",
-    "Demir",
-    "Çinko"
+    "Kırmızı Fosfor",
+    "Kükürt Tozu",
+    "Aktif Karbon"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#okyanus",
-    "#ahtapot",
     "#ilginçbilgiler",
-    "#doğa",
-    "#biyoloji"
+    "#teknoloji",
+    "#keşfet",
+    "#feynman",
+    "#öğren"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla bilgi için takipte kal!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.5
   },
   "source": {
-    "name": "Marine Biological Laboratory",
-    "url": "https://www.mbl.edu"
+    "name": "Chemistry of Matches",
+    "url": "https://www.acs.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ahtapotların Mavi Kanı",
+  "_topic": "Kibritin Başı Neden Yanmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-13T22:37:18.992480+00:00",
+  "generated_at": "2026-09-14T10:37:41.843291+00:00",
   "topic_guard_days": 180
 }

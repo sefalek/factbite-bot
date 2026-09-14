@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yarasa Kanatları Aslında Değiştirilmiş Bir Şeydir",
-    "body": "Yarasaların kanatları, anatomik olarak insan elinden başka bir şey değildir. Uzamış parmak kemiklerinin arasına gerilen ince bir deri zarından oluşur. Yani gökyüzünde süzülen bir yarasa, aslında kendi elleriyle uçuyormuş gibi hareket eder."
+    "headline": "Kaktüsler Suyu İçeride Nasıl Saklar?",
+    "body": "Çöl sıcağında hayatta kalan kaktüslerin sırrı gövde yapılarındadır. Kaktüslerin yaprakları dikenlere dönüşerek su kaybını minimuma indirirken, gövdelerindeki özel süngerimsi doku suyu adeta bir akvaryum gibi depolar."
   },
   "en": {
-    "headline": "Bat Wings Are Actually Modified Hands",
-    "body": "Bat wings are anatomically nothing other than human hands. They consist of a thin membrane of skin stretched between elongated finger keys. So a bat gliding through the sky is actually moving as if it were flying with its own hands."
+    "headline": "How Do Cacti Store Water Inside?",
+    "body": "The secret to cacti surviving the desert heat lies in their stem structure. While their leaves turn into spines to minimize water loss, a special spongy tissue in their stems stores water like an aquarium."
   },
   "es": {
-    "headline": "Las alas de los murciélagos son en realidad manos modificadas",
-    "body": "Las alas de los murciélagos no son anatómicamente otra cosa que manos humanas. Consisten en una fina membrana de piel estirada entre huesos de los dedos alargados. Así que un murciélago planeando por el cielo en realidad se mueve como si volara con sus propias manos."
+    "headline": "¿Cómo almacenan agua los cactus?",
+    "body": "El secreto de los cactus para sobrevivir al calor del desierto está en la estructura de sus tallos. Mientras sus hojas se convierten en espinas para minimizar la pérdida de agua, un tejido esponjoso especial en su interior almacena agua como un acuario."
   },
   "ar": {
-    "headline": "أجنحة الخفافيش هي في الواقع أيدٍ معدلة",
-    "body": "أجنحة الخفافيش تشريحيًا ليست سوى أيدٍ بشرية. وهي تتكون من غشاء رقيق من الجلد ممتد بين عظام أصابع ممدودة. لذا فإن الخفاش الذي ينزلق في السماء يتحرك في الواقع وكأنه يطير بيديه."
+    "headline": "كيف تخزن الصبارات الماء في الداخل؟",
+    "body": "سر بقاء الصبار في حرارة الصحراء يكمن في بنية سيقانها. وبينما تحولت أوراقها إلى أشواك تقليلًا فقدان الماء، فإن الأنسجة الإسفنجية الخاصة داخل سيقانها تخزن الماء مثل حوض السمك."
   },
   "reel_hook": {
-    "tr": "Gökyüzünde süzülen yarasaların aslında neyle uçtuğunu biliyor musunuz?",
-    "en": "Do you know what bats gliding in the sky are actually flying with?",
-    "es": "¿Sabes con qué vuelan realmente los murciélagos que planean por el cielo?",
-    "ar": "هل تعلم بماذا تطير الخفافيش التي تحلق في السماء حقًا؟"
+    "tr": "Çölün ortasındaki kaktüsler o kadar suyu nereye saklıyor?",
+    "en": "Where do cacti in the middle of the desert hide all that water?",
+    "es": "¿Dónde esconden tanta agua los cactus en medio del desierto?",
+    "ar": "أين تخفي نباتات الصبار في وسط الصحراء كل هذه المياه؟"
   },
   "story_question": {
-    "tr": "Yarasa kanatları anatomik olarak hangi organımıza benzer?",
-    "en": "To which of our organs are bat wings anatomically similar?",
-    "es": "¿A cuál de nuestros órganos son anatómicamente similares las alas de los murciélagos?",
-    "ar": "إلى أي من أعضائنا تشبه أجنحة الخفافيش تشريحيًا؟"
+    "tr": "Kaktüslerin yaprakları neden dikene dönüşmüştür?",
+    "en": "Why have the leaves of cacti turned into spines?",
+    "es": "¿Por qué las hojas de los cactus se han convertido en espinas?",
+    "ar": "لماذا تحولت أوراق الصبار إلى أشواك؟"
   },
   "story_options": [
-    "El",
-    "Ayak",
-    "Kulak"
+    "Su kaybını önlemek",
+    "Güneşi yansıtmak",
+    "Hayvanlardan korunmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#Yarasa",
-    "#Doğa",
-    "#Anatomi",
-    "#Hayvanlar",
-    "#Bilim",
-    "#İlginçBilgiler"
+    "#kaktüs",
+    "#doğa",
+    "#bilim",
+    "#çöl",
+    "#bitkiler"
   ],
   "cta": {
-    "tr": "Sizce doğadaki en şaşırtıcı benzerlik hangisi? Yorumlarda buluşalım!",
-    "en": "Which do you think is the most surprising similarity in nature? Let's meet in the comments!",
-    "es": "¿Cuál crees que es la similitud más sorprendente en la naturaleza? ¡Nos vemos en los comentarios!",
-    "ar": "برأيك ما هو التشابه الأكثر إثارة للدهشة في الطبيعة؟ لنلتقي في التعليقات!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.75
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Botanical Society of America",
+    "url": "https://www.botany.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yarasa Kanatları Aslında Değiştirilmiş Bir Şeydir",
+  "_topic": "Kaktüsler Suyu İçeride Nasıl Saklar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-14T22:17:13.281087+00:00",
+  "generated_at": "2026-09-14T23:27:44.210464+00:00",
   "topic_guard_days": 180
 }

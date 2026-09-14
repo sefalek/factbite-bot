@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kameranın Flashı Hayvanların Gözlerini Neden Parlatır?",
-    "body": "Gece karanlığında bir hayvanın fotoğrafını çektiğinizde gözlerinin parladığını fark etmişsinizdir. Bu parıltının arkasında, retinanın arkasında yer alan ve 'tapetum lucidum' adı verilen ayna benzeri özel bir tabaka bulunur. Bu katman, içeri giren ışığı tekrar yansıtarak hayvanların loş ışıkta bile insanlardan kat kat daha iyi görmesini sağlar. Flaş patladığında gördüğünüz o parlak renk, işte bu hayatta kalma aynasının yansımasıdır."
+    "headline": "Ağaçlar Tehlike Anında Birbirini Nasıl Uyarır?",
+    "body": "Ormanda yürürken her şey sessiz görünür ama altımızda devasa bir internet ağı var. Ağaçlar köklerindeki mantar bağları sayesinde tehlikeyi hissedip birbirine kimyasal mesajlar gönderir."
   },
   "en": {
-    "headline": "Why Do Animal Eyes Glow in Camera Flash?",
-    "body": "When you take a photo of an animal in the dark, you might notice their eyes glowing. Behind this glow is a special mirror-like layer called the 'tapetum lucidum' located behind the retina. This layer reflects incoming light back through, allowing animals to see much better than humans in dim light. The bright color you see when the flash goes off is simply the reflection of this survival mirror."
+    "headline": "How Trees Warn Each Other of Danger",
+    "body": "Walking in the woods seems quiet, but a massive internet network lies beneath us. Through fungal networks in their roots, trees sense danger and send chemical messages to each other."
   },
   "es": {
-    "headline": "Por qué brillan los ojos de los animales con el flash?",
-    "body": "Cuando tomas una foto de un animal en la oscuridad, habrás notado que sus ojos brillan. Detrás de este brillo hay una capa especial similar a un espejo llamada 'tapetum lucidum' ubicada detrás de la retina. Esta capa refleja la luz entrante, permitiendo que los animales vean mucho mejor que los humanos con poca luz. El color brillante que ves cuando se enciende el flash es el reflejo de este espejo de supervivencia."
+    "headline": "Cómo se advierten los árboles entre sí del peligro",
+    "body": "Caminar por el bosque parece tranquilo, pero bajo nosotros hay una red de internet masiva. A través de redes de hongos en sus raíces, los árboles sienten el peligro y se envían mensajes químicos."
   },
   "ar": {
-    "headline": "لماذا تتوهج عيون الحيوانات في فلاش الكاميرا؟",
-    "body": "عند التقاط صورة لحيوان في الظلام، قد تلاحظ أن عيونه توهجت. وراء هذا التوهج طبقة خاصة تشبه المرآة تسمى 'tapetum lucidum' تقع خلف الشبكية. تعكس هذه الطبقة الضوء الداخل مرة أخرى، مما يسمح للحيوانات بالرؤية بشكل أفضل بكثير من البشر في الإضاءة الخافتة. اللون الساطع الذي تراه عند انطلاق الفلاش هو انعكاس مرآة البقاء هذه."
+    "headline": "كيف تحذر الأشجار بعضها البعض من الخطر",
+    "body": "يبدو المشي في الغابة هادئاً، ولكن تقع تحتنا شبكة إنترنت ضخمة. من خلال شبكات الفطريات في جذورها، تستشعر الأشجار الخطر وترسل رسائل كيميائية لبعضها البعض."
   },
   "reel_hook": {
-    "tr": "Fotoğraf çekerken hayvanların gözleri neden parlar?",
-    "en": "Why do animal eyes glow in photos?",
-    "es": "¿Por qué brilla el ojo de los animales en las fotos?",
-    "ar": "لماذا تلمع عيون الحيوانات في الصور؟"
+    "tr": "Ormandaki ağaçların birbirleriyle gizlice konuştuğunu biliyor muydunuz?",
+    "en": "Did you know the trees in the forest secretly talk to each other?",
+    "es": "¿Sabías que los árboles del bosque hablan en secreto entre sí?",
+    "ar": "هل كنت تعلم أن الأشجار في الغابة تتحدث سراً مع بعضها البعض؟"
   },
   "story_question": {
-    "tr": "Gözleri parlatan bu özel tabaka hangi amaçla evrimleşmiştir?",
-    "en": "For what purpose did this eye-glowing layer evolve?",
-    "es": "¿Con qué propósito evolucionó esta capa brillante en los ojos?",
-    "ar": "ما الغرض من تطور هذه الطبقة المتوهجة في العيون؟"
+    "tr": "Ağaçlar bu kimyasal mesajları hangi yapı üzerinden gönderir?",
+    "en": "Through which structure do trees send these chemical messages?",
+    "es": "¿A través de qué estructura envían los árboles estos mensajes químicos?",
+    "ar": "من خلال أي هيكل ترسل الأشجار هذه الرسائل الكيميائية؟"
   },
   "story_options": [
-    "Gece avlanma ve görme",
-    "Gözü güneşten koruma",
-    "Renk değiştirme yeteneği"
+    "Yeraltı mantar ağları",
+    "Yaprak rüzgarları",
+    "Derin su damarları"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
     "#doğa",
-    "#hayvanlar",
-    "#fotograf",
-    "#biyoloji",
-    "#ilgincbilgiler"
+    "#bilim",
+    "#ağaçlar",
+    "#orman",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس متابعة المزيد من الحقائق مثل هذه!"
+    "tr": "Bu inanılmaz gerçeği bir arkadaşına gönder!",
+    "en": "Send this incredible fact to a friend!",
+    "es": "¡Envía este hecho increíble a un amigo!",
+    "ar": "أرسل هذه الحقيقة المذهلة إلى صديق!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 10,
+    "shareability": 9,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Simard, S. W., et al. (1997) - Nature",
+    "url": "https://www.nature.com/articles/388398a0"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kameranın Flashı Hayvanların Gözlerini Neden Parlatır?",
+  "_topic": "Ağaçlar Tehlike Anında Birbirini Nasıl Uyarır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-14T12:40:40.091488+00:00",
+  "generated_at": "2026-09-14T15:02:33.467485+00:00",
   "topic_guard_days": 180
 }

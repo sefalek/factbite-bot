@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritin Başı Neden Yanmaz?",
-    "body": "Bir kibrit çöpünü elinize aldığınızda baş kısmının o an alev almadığını görürsünüz. Çünkü kibrit başındaki kimyasallar kendi kendine yanmaz; sadece kutunun yanındaki sürtünme yüzeyiyle temas ettiğinde açığa çıkan ısı ve özel bileşenlerle tepkimeye girer. Yani o küçük kıvılcım tamamen doğru temasın eseridir."
+    "headline": "Kameranın Flashı Hayvanların Gözlerini Neden Parlatır?",
+    "body": "Gece karanlığında bir hayvanın fotoğrafını çektiğinizde gözlerinin parladığını fark etmişsinizdir. Bu parıltının arkasında, retinanın arkasında yer alan ve 'tapetum lucidum' adı verilen ayna benzeri özel bir tabaka bulunur. Bu katman, içeri giren ışığı tekrar yansıtarak hayvanların loş ışıkta bile insanlardan kat kat daha iyi görmesini sağlar. Flaş patladığında gördüğünüz o parlak renk, işte bu hayatta kalma aynasının yansımasıdır."
   },
   "en": {
-    "headline": "Why Doesn't a Matchhead Catch Fire on Its Own?",
-    "body": "When you hold a matchstick, the head doesn't just burst into flames. That's because the chemicals on it won't ignite by themselves; they require the friction and special compounds found only on the strip of the box. That tiny spark is purely the result of precise contact."
+    "headline": "Why Do Animal Eyes Glow in Camera Flash?",
+    "body": "When you take a photo of an animal in the dark, you might notice their eyes glowing. Behind this glow is a special mirror-like layer called the 'tapetum lucidum' located behind the retina. This layer reflects incoming light back through, allowing animals to see much better than humans in dim light. The bright color you see when the flash goes off is simply the reflection of this survival mirror."
   },
   "es": {
-    "headline": "Por qué la cabeza de un cerillo no se enciende sola",
-    "body": "Cuando sostienes un cerillo, la cabeza no se prende de la nada. Los químicos en ella no se inflaman por sí solos; necesitan la fricción y los compuestos especiales de la caja. Esa pequeña chispa es simplemente el resultado de un contacto preciso."
+    "headline": "Por qué brillan los ojos de los animales con el flash?",
+    "body": "Cuando tomas una foto de un animal en la oscuridad, habrás notado que sus ojos brillan. Detrás de este brillo hay una capa especial similar a un espejo llamada 'tapetum lucidum' ubicada detrás de la retina. Esta capa refleja la luz entrante, permitiendo que los animales vean mucho mejor que los humanos con poca luz. El color brillante que ves cuando se enciende el flash es el reflejo de este espejo de supervivencia."
   },
   "ar": {
-    "headline": "لماذا لا تشتعل رأس عود الثقاب بمفردها؟",
-    "body": "عندما تحسك عود ثقاب، لا تشتعل رأسه من تلقاء نفسها. المواد الكيميائية الموجودة عليه لا تشتعل بمفردها، بل تحتاج إلى الاحتكاك والمركبات الخاصة الموجودة على علبة الثقاب. تلك الشرر الصغيرة هي ببساطة نتاج التلامس الدقيق."
+    "headline": "لماذا تتوهج عيون الحيوانات في فلاش الكاميرا؟",
+    "body": "عند التقاط صورة لحيوان في الظلام، قد تلاحظ أن عيونه توهجت. وراء هذا التوهج طبقة خاصة تشبه المرآة تسمى 'tapetum lucidum' تقع خلف الشبكية. تعكس هذه الطبقة الضوء الداخل مرة أخرى، مما يسمح للحيوانات بالرؤية بشكل أفضل بكثير من البشر في الإضاءة الخافتة. اللون الساطع الذي تراه عند انطلاق الفلاش هو انعكاس مرآة البقاء هذه."
   },
   "reel_hook": {
-    "tr": "Elinde tuttuğun o kibrit çöpü, neden cebindeyken kendi kendine alev almıyor?",
-    "en": "Why doesn't the matchstick in your hand burst into flames while sitting in your pocket?",
-    "es": "¿Por qué el cerillo en tu mano no se enciende solo mientras está en tu bolsillo?",
-    "ar": "لماذا لا يشتعل عود الثقاب الذي في يدك تلقائياً أثناء وجوده في جيبك؟"
+    "tr": "Fotoğraf çekerken hayvanların gözleri neden parlar?",
+    "en": "Why do animal eyes glow in photos?",
+    "es": "¿Por qué brilla el ojo de los animales en las fotos?",
+    "ar": "لماذا تلمع عيون الحيوانات في الصور؟"
   },
   "story_question": {
-    "tr": "Kibrit kutularının yan tarafındaki sürtünme yüzeyinde hangi element bulunur?",
-    "en": "What element is found on the friction strip of a matchbox?",
-    "es": "¿Qué elemento se encuentra en la tira de fricción de una caja de cerillos?",
-    "ar": "ما العنصر الموجود على شريط الاحتكاك في علبة الثقاب؟"
+    "tr": "Gözleri parlatan bu özel tabaka hangi amaçla evrimleşmiştir?",
+    "en": "For what purpose did this eye-glowing layer evolve?",
+    "es": "¿Con qué propósito evolucionó esta capa brillante en los ojos?",
+    "ar": "ما الغرض من تطور هذه الطبقة المتوهجة في العيون؟"
   },
   "story_options": [
-    "Kırmızı Fosfor",
-    "Kükürt Tozu",
-    "Aktif Karbon"
+    "Gece avlanma ve görme",
+    "Gözü güneşten koruma",
+    "Renk değiştirme yeteneği"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#feynman",
-    "#öğren"
+    "#doğa",
+    "#hayvanlar",
+    "#fotograf",
+    "#biyoloji",
+    "#ilgincbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takipte kal!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس متابعة المزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.5
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Chemistry of Matches",
-    "url": "https://www.acs.org"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritin Başı Neden Yanmaz?",
+  "_topic": "Kameranın Flashı Hayvanların Gözlerini Neden Parlatır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-14T10:37:41.843291+00:00",
+  "generated_at": "2026-09-14T12:40:40.091488+00:00",
   "topic_guard_days": 180
 }

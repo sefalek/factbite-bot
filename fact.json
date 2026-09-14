@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Salatalık Aslında Sebze Değil",
-    "body": "Büyük bir salata kasesi doğradığınızı hayal edin. İçine domates, biber ve tabi ki salatalık attınız. Renkli, taze ve sağlıklı. Ama botanik dünyasına göre ortada büyük bir yanlış anlaşılma var. Domatesin bir meyve olduğunu artık herkes biliyor. Peki ya salatalık? Çoğumuz onu sebze sanıyoruz çünkü tatlı değil, tuzlu yemeklerde kullanıyoruz. Ancak bilimsel tanıma göre salatalık, içinde tohum barındırdığı için aslında tam anlamıyla bir meyvedir. Üstelik kabakgiller ailesine ait olan bu sulu bitki, botanik olarak büyük bir berry türüdür. Yani manavda sebze reyonunda gördüğümüz salatalık, aslında ağaçta yetişmeyen ama teknik olarak bir meyve olan şaşırtıcı bir yaz lezzetidir."
+    "headline": "Solucanların Toprağı Değiştiren Gizli Gücü",
+    "body": "Toprağın altında sessizce çalışan solucanların aslında dişleri yoktur, peki ya yiyecekleri toprağı nasıl öğütürler? Taşlık ve kumlu küçük parçacıkları yutarak kursaklarında öğütürler ve toprağı havalandırarak bitkilerin büyümesini sağlarlar."
   },
   "en": {
-    "headline": "Cucumbers Are Actually Fruit",
-    "body": "Imagine chopping a big bowl of salad with tomatoes, peppers, and cucumbers. Colorful and fresh. But according to botany, there is a big misconception here. Everyone knows tomatoes are fruit. What about cucumbers? We consider them vegetables because they are savory. Yet, botanically speaking, a cucumber is actually a fruit because it contains seeds inside. Belonging to the gourd family, this juicy plant is technically a type of berry. So the cucumber in the vegetable aisle is actually a fruit."
+    "headline": "The Hidden Power of Earthworms",
+    "body": "Earthworms working silently underground actually have no teeth, so how do they grind the soil they eat? They swallow small sandy particles to grind food in their gizzards, aerating the soil and helping plants grow."
   },
   "es": {
-    "headline": "Los pepinos son en realidad una fruta",
-    "body": "Imagina picar una gran ensalada con tomates, pimientos y pepinos. Colorida y fresca. Pero según la botánica, hay un gran malentendido aquí. Todos saben que los tomates son frutas. ¿Qué pasa con los pepinos? Los consideramos verduras porque son salados. Sin embargo, botánicamente hablando, un pepino es en realidad una fruta porque contiene semillas en su interior. Perteneciente a la familia de las cucurbitáceas, esta planta jugosa es técnicamente un tipo de baya. Así que el pepino en la sección de verduras es en realidad una fruta."
+    "headline": "El poder oculto de las lombrices de tierra",
+    "body": "Las lombrices que trabajan en silencio bajo tierra no tienen dientes, ¿cómo muelen la tierra que comen? Traguen pequeñas partículas de arena para triturar el alimento en su molleja, aireando el suelo."
   },
   "ar": {
-    "headline": "الخيار في الواقع فاكهة",
-    "body": "تخيل تقطيع وعاء كبير من السلطة مع الطماطم والفلفل والخيار. ملونة ومنعشة. ولكن وفقًا لعلم النبات، هناك سوء فهم كبير هنا. الجميع يعلم أن الطماطم فاكهة. ماذا عن الخيار؟ نعتبره خضارًا لأنه مالح. ومع ذلك، بالمعنى النباتي، الخيار هو في الواقع فاكهة لأنه يحتوي على بذور في داخله. ينتمي هذا النبات العصيري إلى عائلة القرعيات، وهو تقنياً نوع من التوت. لذا فإن الخيار الموجود في ممر الخضروات هو في الواقع فاكهة."
+    "headline": "القوة الخفية لديدان الأرض",
+    "body": "ديدان الأرض التي تعمل بصمت تحت الأرض ليس لها أسنان حقاً، فكيف تطحن التربة التي تأكلها؟ تبتلع جزيئات رملية صغيرة لطحن الطعام في قوانصها، مما يهوي التربة."
   },
   "reel_hook": {
-    "tr": "Salatalık sandığınız şey aslında...",
-    "en": "What you think is a cucumber is actually...",
-    "es": "Lo que crees que es un pepino es en realidad...",
-    "ar": "ما تعتقد أنه خيار هو في الواقع..."
+    "tr": "Toprağın altındaki bu küçük canlıların hiç dişi olmadığını biliyor muydunuz?",
+    "en": "Did you know these tiny creatures underground have no teeth at all?",
+    "es": "¿Sabías que estas pequeñas criaturas bajo tierra no tienen dientes?",
+    "ar": "هل تعلم أن هذه الكائنات الصغيرة تحت الأرض ليس لها أسنان تماماً؟"
   },
   "story_question": {
-    "tr": "Botanik olarak salatalık hangi bitki ailesine aittir?",
-    "en": "To which plant family do cucumbers botanically belong?",
-    "es": "¿A qué familia de plantas pertenecen botánicamente los pepinos?",
-    "ar": "إلى أي عائلة نباتية ينتمي الخيار botanically؟"
+    "tr": "Solucanlar yedikleri sert parçacıkları nerede öğütür?",
+    "en": "Where do earthworms grind hard particles they eat?",
+    "es": "¿Dónde muelen las lombrices las partículas duras que comen?",
+    "ar": "أين تطحن ديدان الأرض الجزيئات الصلبة التي تأكلها؟"
   },
   "story_options": [
-    "Kabakgiller",
-    "Gülgiller",
-    "Baklagiller"
+    "Kursaklarında",
+    "Midelerinde",
+    "Ağızlarında"
   ],
   "hashtags": [
     "#FactBite",
-    "#Salatalık",
-    "#Bilim",
-    "#Botanik",
-    "#İlginçBilgiler",
-    "#Yemek",
-    "#Doğa"
+    "#doğa",
+    "#bilim",
+    "#toprak",
+    "#canlılar",
+    "#eğlencelibilgi",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "If you just learned this, don't forget to like!",
-    "es": "¡Si acabo de enterarme, no olvides dar me gusta!",
-    "ar": "إذا كنت قد تعلمت هذا للتو، فلا تنس الإعجاب!"
+    "tr": "Benzer şaşırtıcı doğa gerçekleri için takipte kal!",
+    "en": "Stay tuned for more surprising nature facts!",
+    "es": "¡Mantente atento a más datos sorprendentes de la naturaleza!",
+    "ar": "ابق على متابعة لمزيد من حقائق الطبيعة المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Botanical Gardens Conservation International",
-    "url": "https://www.bgci.org"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/earthworms"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Salatalık Aslında Sebze Değil",
+  "_topic": "Solucanların Toprağı Değiştiren Gizli Gücü",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-14T17:01:45.817344+00:00",
+  "generated_at": "2026-09-14T18:21:03.490324+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Yuvalarını Aslında Nasıl Yaptığı",
-    "body": "Kuşların birçoğu yuvalarını inşa ederken onları kalıcı birer 'ev' olarak görmez; malzemeleri sadece geçici bir kuluçka merkezi için bir araya getirirler. İşleri bitince de o yuvaları tamamen terk ederler."
+    "headline": "Kibritin Yanma Sırrı Kutunun Kendisinde Gizli",
+    "body": "Bir kibrit çöpünü kendi başına parmağınıza sürtüp yakamazsınız. Çünkü kibrit başı tek başına yanıcı değildir; ihtiyaç duyduğu özel kimyasal madde kutunun yanındaki şerit üzerindedir. Sürtünme anında bu iki madde birleşir ve o ani alev ortaya çıkar."
   },
   "en": {
-    "headline": "How Birds Actually Build Their Nests",
-    "body": "Many birds don't see their nests as permanent 'homes' while building them; they gather materials strictly for a temporary incubation center. Once their work is done, they abandon the nests completely."
+    "headline": "The Match's Secret Is Hidden on the Box",
+    "body": "You cannot light a match by striking it against just anything. The match head itself is not enough to create a flame; the crucial chemical compound is actually on the strip attached to the box. The friction instantly combines them to spark the flame."
   },
   "es": {
-    "headline": "Cómo construyen realmente sus nidos las aves",
-    "body": "Muchas aves no ven sus nidos como 'hogares' permanentes al construirlos; juntan materiales estrictamente para un centro de incubación temporal. Una vez terminada su labor, abandonan los nidos por completo."
+    "headline": "El secreto de la cerilla está en la caja",
+    "body": "No puedes encender una cerilla frotándola contra cualquier superficie. La cabeza de la cerilla por sí sola no basta; el compuesto químico esencial está en la tira de la caja. La fricción combina ambos elementos para crear la llama."
   },
   "ar": {
-    "headline": "كيف تبني الطيور أعشاشها حقاً",
-    "body": "العديد من الطيور لا ترى أعشاشها كـ 'منازل' دائمة عند بنائها؛ بل تجمع المواد خصيصاً لمركز حضانة مؤقت. بمجرد انتهاء عملها، تترك الأعشاش تماماً."
+    "headline": "سر اشتعال عود الكبريت مخفي على العلبة",
+    "body": "لا يمكنك إشعال عود كبريت بحكه في أي مكان. رأس العود وحده لا يكفي؛ فالمادة الكيميائية الأساسية توجد على الشريط الجانبي للعلبة. الاحتكاك يدمج العنصرين معاً لتوليد اللهب الفوري."
   },
   "reel_hook": {
-    "tr": "Kuşların yuvalarını asla ev olarak görmediğini biliyor muydunuz?",
-    "en": "Did you know birds never actually view their nests as homes?",
-    "es": "¿Sabías que las aves nunca ven realmente sus nidos como hogares?",
-    "ar": "هل تعلم أن الطيور لا تعتبر أعشاشها منازل حقاً؟"
+    "tr": "Kibrit çöpü neden kendi kutusundan başka bir yere sürtüldüğünde asla yanmaz?",
+    "en": "Why won't a match ever light up when you strike it anywhere except its box?",
+    "es": "¿Por qué una cerilla nunca se enciende si la frotas en otro lugar que no sea su caja?",
+    "ar": "لماذا لا يشتعل عود الكبريت أبداً إذا حككته في أي مكان سوى علبته؟"
   },
   "story_question": {
-    "tr": "Kuşlar işleri bittikten sonra eski yuvalarına ne yapar?",
-    "en": "What do birds do with their old nests after finishing?",
-    "es": "¿Qué hacen las aves con sus viejos nidos al terminar?",
-    "ar": "ماذا تفعل الطيور بأعشاشها القديمة بعد الانتهاء؟"
+    "tr": "Kibritin başındaki kimyasal ile kutudaki şerit birleşince hangi fiziksel olay gerçekleşir?",
+    "en": "What physical event occurs when the chemical on the match meets the strip on the box?",
+    "es": "¿Qué evento físico ocurre cuando el químico de la cerilla se une al de la caja?",
+    "ar": "ما هي الظاهرة الفيزيائية التي تحدث عند اتحاد المادة الموجودة على العود مع الشريط؟"
   },
   "story_options": [
-    "A) Onarıp tekrar kullanırlar",
-    "B) Tamamen terk ederler",
-    "C) Başka kuşlara kiralarlar"
+    "Sürtünmeyle Isınma ve Tepkime",
+    "Elektrik Kıvılcımı Oluşumu",
+    "Basınçla Patlama"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#kuşlar",
     "#bilim",
-    "#hayvanlar",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#teknoloji",
+    "#keşfet",
+    "#deney",
+    "#fiskor"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi her gün yeni bir bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for a new fact every day like this!",
+    "es": "¡No olvides seguirnos para más datos curiosos cada día!",
+    "ar": "لا تنس المتابعة للحصول على معلومة جديدة كل يوم!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology Research",
-    "url": "https://www.audubon.org/news/do-birds-reuse-their-nests"
+    "name": "Chemistry World",
+    "url": "https://www.chemistryworld.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Yuvalarını Aslında Nasıl Yaptığı",
+  "_topic": "Kibritin Yanma Sırrı Kutunun Kendisinde Gizli",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-15T18:45:39.711052+00:00",
+  "generated_at": "2026-09-15T20:10:29.784885+00:00",
   "topic_guard_days": 180
 }

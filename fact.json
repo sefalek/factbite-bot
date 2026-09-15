@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Kafalarını Neden Bu Kadar Hızlı Sabit Tutabiliyor?",
-    "body": "Uçarken ya da yürürken kafalarını sanki havada asılı kalmış gibi hiç kıpırdatmayan kuşları hiç fark ettiniz mi? Aslında bunu gövde hareketlerinden bağımsız olarak yaparlar. Çünkü gözleri yuvalarında bizimki gibi rahatça hareket edemez; bu yüzden dünyayı net görebilmek için kafalarını bir kamera sabitleyici gibi kullanırlar."
+    "headline": "Deniz Atlarının Aslında Balık Olduğunu Biliyor muydunuz?",
+    "body": "Yürüyemezler, pulları yoktur, dikey yüzerler ve başları ata benzer. Ama onlar birer balık! Üstelik yüzgeçleri o kadar zayıftır ki, okyanusun en yavaş yüzücüleridir."
   },
   "en": {
-    "headline": "Why Can Birds Keep Their Heads So Perfectly Still?",
-    "body": "Have you ever noticed how birds keep their heads completely motionless while walking or flying, as if frozen in mid-air? They actually do this independently of their body movements. Because their eyes cannot move freely in their sockets like ours, they use their heads as natural camera stabilizers to keep the world in focus."
+    "headline": "Did You Know Seahorses Are Actually Fish?",
+    "body": "They can't walk, lack scales, swim vertically, and look like tiny horses. Yet, they are true fish! Their fins are so fragile that they are the slowest swimmers in the ocean."
   },
   "es": {
-    "headline": "¿Por qué las aves pueden mantener la cabeza tan quieta?",
-    "body": "¿Alguna vez has notado cómo las aves mantienen la cabeza completamente inmóvil mientras caminan o vuelan? Lo hacen independientemente de los movimientos de su cuerpo. Como sus ojos no pueden moverse libremente en sus cuencas, usan su cabeza como un estabilizador natural para mantener el mundo enfocado."
+    "headline": "¿Sabías que los caballitos de mar son en realidad peces?",
+    "body": "No pueden caminar, no tienen escamas, nadan verticalmente y parecen caballos. ¡Pero son peces! Sus aletas son tan débiles que son los nadadores más lentos del océano."
   },
   "ar": {
-    "headline": "لماذا تستطيع الطيور إبقاء رؤوسها ثابتة تماماً؟",
-    "body": "هل لاحظت من قبل كيف تبقي الطيور رؤوسها ثابتة تماماً أثناء المشي أو الطيران كأنها معلقة في الهواء؟ إنها تفعل ذلك بشكل مستقل عن حركات أجسامها. ونظراً لأن عيون تجاويفها لا تتحرك بحرية مثل عيوننا، فإنها تستخدم رؤوسها كمثبتات طبيعية للكاميرا للحفاظ على وضوح الرؤية."
+    "headline": "هل كنت تعلم أن فرس البحر هو في الواقع سمكة؟",
+    "body": "لا تستطيع المشي، وتفتقر للحرشف، وتسبح بشكل عمودي، وتشبه الحصان. لكنها أسماك حقيقية! زعانفها ضعيفة لدرجة أنها أبطأ الكائنات سباحة في المحيط."
   },
   "reel_hook": {
-    "tr": "Uçan bir kuşun kafası neden havada asılı gibi durur?",
-    "en": "Why does a flying bird's head look like it's frozen in mid-air?",
-    "es": "¿Por qué la cabeza de un ave volando parece congelada en el aire?",
-    "ar": "لماذا تبدو رأس الطائر أثناء الطيران وكأنها معلقة في الهواء؟"
+    "tr": "At gibi görünüyor, dik yüzüyor ama asla koşamıyor. Nedir bu?",
+    "en": "It looks like a horse, swims upright, but can never run. What is it?",
+    "es": "Parece un caballo, nada erguido pero nunca puede correr. ¿Qué es?",
+    "ar": "يبدو كحصان، يسبح بشكل مستقيم ولا يمكنه الركض أبداً. ما هو؟"
   },
   "story_question": {
-    "tr": "Kuşların kafalarını sabitleme sebebi nedir?",
-    "en": "What is the reason birds stabilize their heads?",
-    "es": "¿Cuál es la razón por la que las aves estabilizan sus cabezas?",
-    "ar": "ما هو سبب تثبيت الطيور لرؤوسها؟"
+    "tr": "Okyanusun en yavaş yüzücüsü olan deniz atları, saatte ortalama kaç metre ilerleyebilir?",
+    "en": "How many meters per hour can the slowest swimmer in the ocean, the seahorse, travel?",
+    "es": "¿Cuántos metros por hora puede avanzar el nadador más lento del océano, el caballito de mar?",
+    "ar": "كم متراً في الساعة يمكن أن تقطعها أبطأ كائنات المحيط سباحة، وهي فرس البحر؟"
   },
   "story_options": [
-    "Gözleri hareket edemez",
-    "Dengeyi korumak için",
-    "Rüzgardan etkilenmemek"
+    "15 metre",
+    "150 metre",
+    "1.5 kilometre"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
-    "#bilim",
+    "#denizatları",
+    "#okyanus",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#hayvanlar",
-    "#biyoloji"
+    "#doğa",
+    "#canlılar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçeği kaçırmamak için takip et!",
-    "en": "Follow to not miss more facts like this!",
-    "es": "¡Sígueme para no perderte más datos como este!",
-    "ar": "اتبعنا لكي لا تفوتك المزيد من الحقائق مثل هذه!"
+    "tr": "En yavaş yüzücüyü tahmin edebildin mi? Yorumlara yaz!",
+    "en": "Could you guess the slowest swimmer? Drop it in the comments!",
+    "es": "¿Pudiste adivinar el nadador más lento? ¡Déjalo en los comentarios!",
+    "ar": "هل تمكنت من تخمين أبطأ سباح؟ اكتبه في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org/news/why-do-birds-bob-their-heads"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/fish/facts/seahorses"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Kafalarını Neden Bu Kadar Hızlı Sabit Tutabiliyor?",
+  "_topic": "Deniz Atlarının Aslında Balık Olduğunu Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-15T15:39:21.411617+00:00",
+  "generated_at": "2026-09-15T17:28:47.612223+00:00",
   "topic_guard_days": 180
 }

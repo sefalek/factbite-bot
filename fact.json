@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Deniz Atlarının Aslında Balık Olduğunu Biliyor muydunuz?",
-    "body": "Yürüyemezler, pulları yoktur, dikey yüzerler ve başları ata benzer. Ama onlar birer balık! Üstelik yüzgeçleri o kadar zayıftır ki, okyanusun en yavaş yüzücüleridir."
+    "headline": "Kuşların Yuvalarını Aslında Nasıl Yaptığı",
+    "body": "Kuşların birçoğu yuvalarını inşa ederken onları kalıcı birer 'ev' olarak görmez; malzemeleri sadece geçici bir kuluçka merkezi için bir araya getirirler. İşleri bitince de o yuvaları tamamen terk ederler."
   },
   "en": {
-    "headline": "Did You Know Seahorses Are Actually Fish?",
-    "body": "They can't walk, lack scales, swim vertically, and look like tiny horses. Yet, they are true fish! Their fins are so fragile that they are the slowest swimmers in the ocean."
+    "headline": "How Birds Actually Build Their Nests",
+    "body": "Many birds don't see their nests as permanent 'homes' while building them; they gather materials strictly for a temporary incubation center. Once their work is done, they abandon the nests completely."
   },
   "es": {
-    "headline": "¿Sabías que los caballitos de mar son en realidad peces?",
-    "body": "No pueden caminar, no tienen escamas, nadan verticalmente y parecen caballos. ¡Pero son peces! Sus aletas son tan débiles que son los nadadores más lentos del océano."
+    "headline": "Cómo construyen realmente sus nidos las aves",
+    "body": "Muchas aves no ven sus nidos como 'hogares' permanentes al construirlos; juntan materiales estrictamente para un centro de incubación temporal. Una vez terminada su labor, abandonan los nidos por completo."
   },
   "ar": {
-    "headline": "هل كنت تعلم أن فرس البحر هو في الواقع سمكة؟",
-    "body": "لا تستطيع المشي، وتفتقر للحرشف، وتسبح بشكل عمودي، وتشبه الحصان. لكنها أسماك حقيقية! زعانفها ضعيفة لدرجة أنها أبطأ الكائنات سباحة في المحيط."
+    "headline": "كيف تبني الطيور أعشاشها حقاً",
+    "body": "العديد من الطيور لا ترى أعشاشها كـ 'منازل' دائمة عند بنائها؛ بل تجمع المواد خصيصاً لمركز حضانة مؤقت. بمجرد انتهاء عملها، تترك الأعشاش تماماً."
   },
   "reel_hook": {
-    "tr": "At gibi görünüyor, dik yüzüyor ama asla koşamıyor. Nedir bu?",
-    "en": "It looks like a horse, swims upright, but can never run. What is it?",
-    "es": "Parece un caballo, nada erguido pero nunca puede correr. ¿Qué es?",
-    "ar": "يبدو كحصان، يسبح بشكل مستقيم ولا يمكنه الركض أبداً. ما هو؟"
+    "tr": "Kuşların yuvalarını asla ev olarak görmediğini biliyor muydunuz?",
+    "en": "Did you know birds never actually view their nests as homes?",
+    "es": "¿Sabías que las aves nunca ven realmente sus nidos como hogares?",
+    "ar": "هل تعلم أن الطيور لا تعتبر أعشاشها منازل حقاً؟"
   },
   "story_question": {
-    "tr": "Okyanusun en yavaş yüzücüsü olan deniz atları, saatte ortalama kaç metre ilerleyebilir?",
-    "en": "How many meters per hour can the slowest swimmer in the ocean, the seahorse, travel?",
-    "es": "¿Cuántos metros por hora puede avanzar el nadador más lento del océano, el caballito de mar?",
-    "ar": "كم متراً في الساعة يمكن أن تقطعها أبطأ كائنات المحيط سباحة، وهي فرس البحر؟"
+    "tr": "Kuşlar işleri bittikten sonra eski yuvalarına ne yapar?",
+    "en": "What do birds do with their old nests after finishing?",
+    "es": "¿Qué hacen las aves con sus viejos nidos al terminar?",
+    "ar": "ماذا تفعل الطيور بأعشاشها القديمة بعد الانتهاء؟"
   },
   "story_options": [
-    "15 metre",
-    "150 metre",
-    "1.5 kilometre"
+    "A) Onarıp tekrar kullanırlar",
+    "B) Tamamen terk ederler",
+    "C) Başka kuşlara kiralarlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#denizatları",
-    "#okyanus",
-    "#bilgi",
-    "#ilginçbilgiler",
     "#doğa",
-    "#canlılar"
+    "#kuşlar",
+    "#bilim",
+    "#hayvanlar",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "En yavaş yüzücüyü tahmin edebildin mi? Yorumlara yaz!",
-    "en": "Could you guess the slowest swimmer? Drop it in the comments!",
-    "es": "¿Pudiste adivinar el nadador más lento? ¡Déjalo en los comentarios!",
-    "ar": "هل تمكنت من تخمين أبطأ سباح؟ اكتبه في التعليقات!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/fish/facts/seahorses"
+    "name": "Ornithology Research",
+    "url": "https://www.audubon.org/news/do-birds-reuse-their-nests"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Deniz Atlarının Aslında Balık Olduğunu Biliyor muydunuz?",
+  "_topic": "Kuşların Yuvalarını Aslında Nasıl Yaptığı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-15T17:28:47.612223+00:00",
+  "generated_at": "2026-09-15T18:45:39.711052+00:00",
   "topic_guard_days": 180
 }

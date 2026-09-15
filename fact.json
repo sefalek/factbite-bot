@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yılanların Kulakları Yoktur, Ama Duyabilirler",
-    "body": "Yılanların kulak kepçeleri veya kulak zarları yoktur; ancak bu tamamen sağır oldukları anlamına gelmez. Çenelerini doğrudan yere basarak yerdeki en küçük titreşimleri bile hissederler ve bu ses dalgaları iç kulaklarına kemikler aracılığıyla iletilir."
+    "headline": "Kedilere Verilen Lazer İşaretçileri Aslında Onları Neden Deli Eder?",
+    "body": "Kedinizle lazer tutarak oynamak eğlenceli görünebilir, ama kediler için bu büyük bir hayal kırıklığıdır. Sürekli avın peşinden koşup hiçbir şeyi yakalayamamak, onların avlanma içgüdüsünü tatmin etmez ve ciddi bir strese yol açar. Oyunu bitirirken onlara gerçek bir oyuncak yakalatmak en iyisidir."
   },
   "en": {
-    "headline": "Snakes Don't Have Ears, But They Can Hear",
-    "body": "Snakes lack external ears or eardrums, but this doesn't mean they are deaf. By resting their lower jaws directly on the ground, they can feel even the smallest vibrations, which are transmitted to their inner ears through bone conduction."
+    "headline": "Why Laser Pointers Can Actually Drive Cats Crazy",
+    "body": "Playing with your cat using a laser pointer might seem fun, but it's pure frustration for them. Constantly chasing a prey they can never catch leaves their hunting instinct unsatisfied, leading to serious stress. Always let them catch a physical toy at the end of the game."
   },
   "es": {
-    "headline": "Las Serpientes No Tienen Oídos, Pero Pueden Oír",
-    "body": "Las serpientes no tienen orejas ni tímpanos externos, pero esto no significa que sean sordas. Al apoyar sus mandíbulas directamente en el suelo, pueden sentir hasta las vibraciones más pequeñas, que se transmiten a sus oídos internos por conducción ósea."
+    "headline": "Por qué los punteros láser pueden volver locos a los gatos",
+    "body": "Jugar con tu gato usando un puntero láser puede parecer divertido, pero para ellos es pura frustración. Perseguir una presa que nunca pueden atrapar deja insatisfecho su instinto de caza y genera estrés. Termina el juego dándoles un juguete real para atrapar."
   },
   "ar": {
-    "headline": "الأفاعي ليس لها آذان، لكنها تستطيع السمع",
-    "body": "تفتقر الأفاعي إلى الأذنين الخارجيتين أو طبلة الأذن، لكن هذا لا يعني أنها صماء. من خلال إبقاء فكوكها ملتصقة مباشرة بالأرض، يمكنها الشعور حتى أصغر الاهتزازات التي تنتقل إلى أذنها الداخلية عبر العظام."
+    "headline": "لماذا يمكن لمؤشرات الليزر أن تصيب القطط بالجنون حقاً",
+    "body": "قد يبدو اللعب مع قطتك بمؤشر ليزر ممتعاً، لكنه محبط للغاية بالنسبة لها. مطاردة طريدة لا يمكن الإمساك بها أبدًا تترك غريزة الصيد لديهم غير مشبعة، مما يؤدي إلى توتر شديد. من الأفضل دائماً تركهم يلتقطون لعبة حقيقية في نهاية اللعبة."
   },
   "reel_hook": {
-    "tr": "Kulakları olmayan bir hayvan nasıl duyabilir?",
-    "en": "How can an animal without ears hear?",
-    "es": "¿Cómo puede oír un animal sin orejas?",
-    "ar": "كيف يمكن لحيوان ليس له آذان أن يسمع؟"
+    "tr": "Kedinizle lazerle oynamayı hemen şimdi bırakın!",
+    "en": "Stop playing with your cat with a laser right now!",
+    "es": "¡Deja de jugar con tu gato con un láser ahora mismo!",
+    "ar": "توقف عن اللعب مع قطتك بالليزر الآن!"
   },
   "story_question": {
-    "tr": "Yılanlar çevredeki sesleri hangi vücut kısmı ile algılar?",
-    "en": "Which body part do snakes use to perceive sounds?",
-    "es": "¿Qué parte del cuerpo usan las serpientes para percibir los sonidos?",
-    "ar": "ما هو الجزء من الجسم الذي تستخدمه الأفاعي لإدراك الأصوات؟"
+    "tr": "Kediniz lazeri yakalayamayınca ne hisseder?",
+    "en": "How does your cat feel when they can't catch the laser?",
+    "es": "¿Qué siente tu gato cuando no puede atrapar el láser?",
+    "ar": "ماذا تشعر قطتك عندما لا تستطيع الإمساك بالليزر؟"
   },
   "story_options": [
-    "Çene kemikleri",
-    "Dilleri",
-    "Kuyruk uçları"
+    "Mutlu olur",
+    "Stres ve tatminsizlik yaşar",
+    "Hiçbir şey hissetmez"
   ],
   "hashtags": [
     "#FactBite",
-    "#yılanlar",
-    "#doğa",
-    "#bilim",
-    "#hayvanlar",
-    "#biyoloji",
+    "#kedi",
+    "#kedipsikolojisi",
+    "#evcilhayvan",
+    "#bilgi",
     "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Follow for more amazing facts like this!",
-    "es": "¡Sígueme para más datos asombrosos como este!",
-    "ar": "تابعنا للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Kedisi olan arkadaşına gönder!",
+    "en": "Send this to a cat owner!",
+    "es": "¡Envíaselo a undueño de gato!",
+    "ar": "أرسل هذا لصديق لديه قطة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Reptile Database & Herpetology Research",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/snake-hearing"
+    "name": "PetMD",
+    "url": "https://www.petmd.com/cat/behavior/are-laser-pointers-bad-cats"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yılanların Kulakları Yoktur, Ama Duyabilirler",
+  "_topic": "Kedilere Verilen Lazer İşaretçileri Aslında Onları Neden Deli Eder?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-15T21:56:38.052309+00:00",
+  "generated_at": "2026-09-15T23:11:37.097104+00:00",
   "topic_guard_days": 180
 }

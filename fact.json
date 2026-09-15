@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kaktüsler Suyu İçeride Nasıl Saklar?",
-    "body": "Çöl sıcağında hayatta kalan kaktüslerin sırrı gövde yapılarındadır. Kaktüslerin yaprakları dikenlere dönüşerek su kaybını minimuma indirirken, gövdelerindeki özel süngerimsi doku suyu adeta bir akvaryum gibi depolar."
+    "headline": "Kibritin Başındaki Gizli Alev Sırrı",
+    "body": "Bir kibrit çöpünü kutunun yanındaki o pürüzlü şeride sürtmeden önce, baş kısmının aslında kendi kendine neden yanmadığını hiç düşündünüz mü? O küçük başlık, tek başına yüksek bir ısıya maruz kalmadığı sürece alev almaz. Kutunun kenarındaki özel kimyasalla birleştiğinde ise sürtünmenin yarattığı ani enerji, o ufak kıvılcımı başlatmak için fazlasıyla yeterlidir."
   },
   "en": {
-    "headline": "How Do Cacti Store Water Inside?",
-    "body": "The secret to cacti surviving the desert heat lies in their stem structure. While their leaves turn into spines to minimize water loss, a special spongy tissue in their stems stores water like an aquarium."
+    "headline": "The Hidden Flame Secret of Matchheads",
+    "body": "Before striking a match against the rough strip on the box, have you ever wondered why the head itself doesn't just catch fire on its own? That small tip won't ignite unless exposed to high heat. When combined with the special chemical on the box edge, the sudden energy from friction is more than enough to spark that flame."
   },
   "es": {
-    "headline": "¿Cómo almacenan agua los cactus?",
-    "body": "El secreto de los cactus para sobrevivir al calor del desierto está en la estructura de sus tallos. Mientras sus hojas se convierten en espinas para minimizar la pérdida de agua, un tejido esponjoso especial en su interior almacena agua como un acuario."
+    "headline": "El Secreto Oculto de la Fósforo",
+    "body": "Antes de raspar un fósforo contra la tira rugosa de la caja, ¿alguna vez te has preguntado por qué la cabeza en sí no se prende fuego sola? Esa pequeña punta no se enciende a menos que se exponga a un calor intenso. Al combinarse con el químico especial de la caja, la energía de la fricción basta para crear la chispa."
   },
   "ar": {
-    "headline": "كيف تخزن الصبارات الماء في الداخل؟",
-    "body": "سر بقاء الصبار في حرارة الصحراء يكمن في بنية سيقانها. وبينما تحولت أوراقها إلى أشواك تقليلًا فقدان الماء، فإن الأنسجة الإسفنجية الخاصة داخل سيقانها تخزن الماء مثل حوض السمك."
+    "headline": "سر اللهب الخفي في راس الكبريت",
+    "body": "قبل حك عود الكبريت بالشرائط الخشنة على العبوة، هل تفكرت يوماً لماذا لا يشتعل راس العود بمفرده؟ هذا الراس الصغير لا يشتعل الا اذا تعرض لحرارة عالية. وعند اتحاده مع المادة الكيميائية الخاصة على جانب العبوة، تصبح طاقة الاحتكاك الفجائية كافية تماماً لاطلاق تلك الشرر."
   },
   "reel_hook": {
-    "tr": "Çölün ortasındaki kaktüsler o kadar suyu nereye saklıyor?",
-    "en": "Where do cacti in the middle of the desert hide all that water?",
-    "es": "¿Dónde esconden tanta agua los cactus en medio del desierto?",
-    "ar": "أين تخفي نباتات الصبار في وسط الصحراء كل هذه المياه؟"
+    "tr": "Kibrit kutusu olmadan o çöpü sadece parmağınızla yakabilir misiniz?",
+    "en": "Can you light a match with just your finger without the box?",
+    "es": "¿Puedes encender un fósforo solo con tu dedo sin la caja?",
+    "ar": "هل يمكنك اشعال عود الكبريت بإصبعك فقط دون العبوة؟"
   },
   "story_question": {
-    "tr": "Kaktüslerin yaprakları neden dikene dönüşmüştür?",
-    "en": "Why have the leaves of cacti turned into spines?",
-    "es": "¿Por qué las hojas de los cactus se han convertido en espinas?",
-    "ar": "لماذا تحولت أوراق الصبار إلى أشواك؟"
+    "tr": "Kibritin yanmasını sağlayan sürtünme yüzeyindeki ana madde sizce hangisidir?",
+    "en": "What do you think is the main substance on the striking surface?",
+    "es": "¿Cuál crees que es la sustancia principal en la superficie de fricción?",
+    "ar": "ما هي المادة الرئيسية في سطح الاحتكاك التي تجعل الكبريت يشتعل برأيك؟"
   },
   "story_options": [
-    "Su kaybını önlemek",
-    "Güneşi yansıtmak",
-    "Hayvanlardan korunmak"
+    "Kırmızı Fosfor",
+    "Kükürt Tozu",
+    "Barut Karışımı"
   ],
   "hashtags": [
     "#FactBite",
-    "#kaktüs",
-    "#doğa",
     "#bilim",
-    "#çöl",
-    "#bitkiler"
+    "#ilginçbilgiler",
+    "#teknoloji",
+    "#keşfet",
+    "#tarih",
+    "#fiskos"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza como este!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Benzer şaşırtıcı günlük Sırlar için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising everyday secrets!",
+    "es": "¡No olvides seguirnos para más secretos cotidianos sorprendentes!",
+    "ar": "لا تنس المتابعة للمزيد من الاسرار اليومية المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Botanical Society of America",
-    "url": "https://www.botany.org"
+    "name": "Chemistry of Matches - Compound Interest",
+    "url": "https://www.compoundchem.com/2014/11/06/matches/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kaktüsler Suyu İçeride Nasıl Saklar?",
+  "_topic": "Kibritin Başındaki Gizli Alev Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-14T23:27:44.210464+00:00",
+  "generated_at": "2026-09-15T13:34:35.194427+00:00",
   "topic_guard_days": 180
 }

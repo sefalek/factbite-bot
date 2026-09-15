@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritin Yanma Sırrı Kutunun Kendisinde Gizli",
-    "body": "Bir kibrit çöpünü kendi başına parmağınıza sürtüp yakamazsınız. Çünkü kibrit başı tek başına yanıcı değildir; ihtiyaç duyduğu özel kimyasal madde kutunun yanındaki şerit üzerindedir. Sürtünme anında bu iki madde birleşir ve o ani alev ortaya çıkar."
+    "headline": "Yılanların Kulakları Yoktur, Ama Duyabilirler",
+    "body": "Yılanların kulak kepçeleri veya kulak zarları yoktur; ancak bu tamamen sağır oldukları anlamına gelmez. Çenelerini doğrudan yere basarak yerdeki en küçük titreşimleri bile hissederler ve bu ses dalgaları iç kulaklarına kemikler aracılığıyla iletilir."
   },
   "en": {
-    "headline": "The Match's Secret Is Hidden on the Box",
-    "body": "You cannot light a match by striking it against just anything. The match head itself is not enough to create a flame; the crucial chemical compound is actually on the strip attached to the box. The friction instantly combines them to spark the flame."
+    "headline": "Snakes Don't Have Ears, But They Can Hear",
+    "body": "Snakes lack external ears or eardrums, but this doesn't mean they are deaf. By resting their lower jaws directly on the ground, they can feel even the smallest vibrations, which are transmitted to their inner ears through bone conduction."
   },
   "es": {
-    "headline": "El secreto de la cerilla está en la caja",
-    "body": "No puedes encender una cerilla frotándola contra cualquier superficie. La cabeza de la cerilla por sí sola no basta; el compuesto químico esencial está en la tira de la caja. La fricción combina ambos elementos para crear la llama."
+    "headline": "Las Serpientes No Tienen Oídos, Pero Pueden Oír",
+    "body": "Las serpientes no tienen orejas ni tímpanos externos, pero esto no significa que sean sordas. Al apoyar sus mandíbulas directamente en el suelo, pueden sentir hasta las vibraciones más pequeñas, que se transmiten a sus oídos internos por conducción ósea."
   },
   "ar": {
-    "headline": "سر اشتعال عود الكبريت مخفي على العلبة",
-    "body": "لا يمكنك إشعال عود كبريت بحكه في أي مكان. رأس العود وحده لا يكفي؛ فالمادة الكيميائية الأساسية توجد على الشريط الجانبي للعلبة. الاحتكاك يدمج العنصرين معاً لتوليد اللهب الفوري."
+    "headline": "الأفاعي ليس لها آذان، لكنها تستطيع السمع",
+    "body": "تفتقر الأفاعي إلى الأذنين الخارجيتين أو طبلة الأذن، لكن هذا لا يعني أنها صماء. من خلال إبقاء فكوكها ملتصقة مباشرة بالأرض، يمكنها الشعور حتى أصغر الاهتزازات التي تنتقل إلى أذنها الداخلية عبر العظام."
   },
   "reel_hook": {
-    "tr": "Kibrit çöpü neden kendi kutusundan başka bir yere sürtüldüğünde asla yanmaz?",
-    "en": "Why won't a match ever light up when you strike it anywhere except its box?",
-    "es": "¿Por qué una cerilla nunca se enciende si la frotas en otro lugar que no sea su caja?",
-    "ar": "لماذا لا يشتعل عود الكبريت أبداً إذا حككته في أي مكان سوى علبته؟"
+    "tr": "Kulakları olmayan bir hayvan nasıl duyabilir?",
+    "en": "How can an animal without ears hear?",
+    "es": "¿Cómo puede oír un animal sin orejas?",
+    "ar": "كيف يمكن لحيوان ليس له آذان أن يسمع؟"
   },
   "story_question": {
-    "tr": "Kibritin başındaki kimyasal ile kutudaki şerit birleşince hangi fiziksel olay gerçekleşir?",
-    "en": "What physical event occurs when the chemical on the match meets the strip on the box?",
-    "es": "¿Qué evento físico ocurre cuando el químico de la cerilla se une al de la caja?",
-    "ar": "ما هي الظاهرة الفيزيائية التي تحدث عند اتحاد المادة الموجودة على العود مع الشريط؟"
+    "tr": "Yılanlar çevredeki sesleri hangi vücut kısmı ile algılar?",
+    "en": "Which body part do snakes use to perceive sounds?",
+    "es": "¿Qué parte del cuerpo usan las serpientes para percibir los sonidos?",
+    "ar": "ما هو الجزء من الجسم الذي تستخدمه الأفاعي لإدراك الأصوات؟"
   },
   "story_options": [
-    "Sürtünmeyle Isınma ve Tepkime",
-    "Elektrik Kıvılcımı Oluşumu",
-    "Basınçla Patlama"
+    "Çene kemikleri",
+    "Dilleri",
+    "Kuyruk uçları"
   ],
   "hashtags": [
     "#FactBite",
+    "#yılanlar",
+    "#doğa",
     "#bilim",
-    "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#deney",
-    "#fiskor"
+    "#hayvanlar",
+    "#biyoloji",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi her gün yeni bir bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for a new fact every day like this!",
-    "es": "¡No olvides seguirnos para más datos curiosos cada día!",
-    "ar": "لا تنس المتابعة للحصول على معلومة جديدة كل يوم!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Follow for more amazing facts like this!",
+    "es": "¡Sígueme para más datos asombrosos como este!",
+    "ar": "تابعنا للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Chemistry World",
-    "url": "https://www.chemistryworld.com"
+    "name": "Reptile Database & Herpetology Research",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/snake-hearing"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritin Yanma Sırrı Kutunun Kendisinde Gizli",
+  "_topic": "Yılanların Kulakları Yoktur, Ama Duyabilirler",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-15T20:10:29.784885+00:00",
+  "generated_at": "2026-09-15T21:56:38.052309+00:00",
   "topic_guard_days": 180
 }

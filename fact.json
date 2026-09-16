@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Ne Zaman Şarkı Söylemeyi Bırakır?",
-    "body": "Şehir merkezinde yaşayan kuşların, doğadakilere göre çok daha erken saatlerde şarkı söylemeye başladığını biliyor muydunuz? Çünkü gürültülü şehir trafiği ve insan sesleri, onların birbirini duymasını engelliyor. Bu yüzden sese karşı koymak için gün doğmadan çok daha önce uyanıp seslerini duyurmaya çalışıyorlar."
+    "headline": "Kuşlar Ne Kadar Süre Uyanık Kalabilir?",
+    "body": "Geceleri ağaçlarda tünediğini gördüğümüz kuşların aslında tamamen kapalı gözlerle uyuduğunu düşünüyorsanız yanılıyorsunuz. Göç eden bazı kuş türleri, uçuş sırasında beyinlerinin sadece tek bir yarım küresini uyutur; diğer yarısı ise açık kalır ve kontrolü sağlar. Hatta uçarken bile rüya görebilirler!"
   },
   "en": {
-    "headline": "When Do Birds Stop Singing?",
-    "body": "Did you know that birds living in city centers start singing much earlier in the morning than those in the wild? Because noisy city traffic and human sounds prevent them from hearing each other, they wake up long before sunrise to make sure their voices are heard over the urban noise."
+    "headline": "How Long Can Birds Stay Awake?",
+    "body": "If you think birds sleeping in trees at night have both eyes completely closed, you're mistaken. Some migratory bird species put only one hemisphere of their brain to sleep during flight while the other half stays awake and maintains control. They can even dream while flying!"
   },
   "es": {
-    "headline": "¿Cuándo dejan de cantar las aves?",
-    "body": "¿Sabías que las aves que viven en el centro de las ciudades empiezan a cantar mucho más temprano por la mañana que las que están en la naturaleza? Debido a que el tráfico ruidoso y los sonidos humanos les impiden escucharse, se despiertan mucho antes del amanecer para hacerse oír."
+    "headline": "¿Cuánto tiempo pueden mantenerse despiertas las aves?",
+    "body": "Si crees que las aves que duermen en los árboles por la noche tienen ambos ojos completamente cerrados, te equivocas. Algunas especies de aves migratorias duermen solo un hemisferio de su cerebro durante el vuelo, mientras la otra mitad permanece despierta manteniendo el control. ¡Incluso pueden soñar mientras vuelan!"
   },
   "ar": {
-    "headline": "متى تتوقف الطيور عن الغناء؟",
-    "body": "هل تعلم أن الطيور التي تعيش في مراكز المدن تبدأ في الغناء في وقت مبكر جداً مقارنة بتلك التي تعيش في البرية؟ ونظراً لأن حركة المرور الصاخبة وأصوات البشر تمنعها من سماع بعضها البعض، فإنها تستيقظ قبل شروق الشمس بكثير لضمان سماع أصواتها."
+    "headline": "ما هي المدة التي يمكن أن تظل فيها الطيور مستيقظة؟",
+    "body": "إذا كنت تعتقد أن الطيور النائمة في الأشجار ليلاً مغلقة العينين تماماً، فأنت مخطئ. بعض أنواع الطيور المهاجرة تنام بنصف دماغها فقط أثناء الطيران بينما يظل النصف الآخر مستيقظاً للحفاظ على السيطرة. يمكنها حتى الحلم أثناء الطيران!"
   },
   "reel_hook": {
-    "tr": "Şehirdeki kuşlar neden normalden çok daha erken uyanır?",
-    "en": "Why do city birds wake up much earlier than usual?",
-    "es": "¿Por qué las aves de la ciudad se despiertan mucho más temprano?",
-    "ar": "لماذا تستيقظ طيور المدينة مبكراً جداً عن المعتاد؟"
+    "tr": "Binlerce kilometre uçan bu kuşlar, asla yere inmeden günlerce nasıl uyuyorlar?",
+    "en": "How do these birds flying thousands of kilometers sleep for days without ever landing?",
+    "es": "¿Cómo duermen estas aves que vuelan miles de kilómetros durante días sin aterrizar?",
+    "ar": "كيف تنام هذه الطيور التي تطير آلاف الكيلومترات لأيام دون أن تهبط أبداً؟"
   },
   "story_question": {
-    "tr": "Şehir kuşlarının erken uyanmasının asıl sebebi nedir?",
-    "en": "What is the main reason city birds wake up early?",
-    "es": "¿Cuál es la main razón por la que las aves urbanas madrugan?",
-    "ar": "ما هو السبب الرئيسي لاستيقاظ طيور المدينة مبكراً؟"
+    "tr": "Uçarken uyuyan göçmen kuşların beyinleri nasıl dinlenir?",
+    "en": "How do the brains of migratory birds rest while flying?",
+    "es": "¿Cómo descansan el cerebro las aves migratorias mientras vuelan?",
+    "ar": "كيف ترتاح أماغ الطيور المهاجرة أثناء الطيران؟"
   },
   "story_options": [
-    "Trafik gürültüsü",
-    "Yapay sokak lambaları",
-    "Hava sıcaklığı"
+    "Tek göz açık, tek yarım küre uyur",
+    "Uçarken kısa şekerlemeler yaparlar",
+    "Hiç uyumadan göçü tamamlarlar"
   ],
   "hashtags": [
     "#FactBite",
     "#kuşlar",
     "#doğa",
-    "#şehirhayatı",
     "#bilim",
+    "#hayvanlar",
+    "#biyoloji",
     "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Sígueme para más datos como este!",
-    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi ve takip etmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like and follow!",
+    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a me gusta y seguir!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فلا تنس الإعجاب والمتابعة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "surprise": 9,
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Ornithology and Urban Ecology Studies",
-    "url": "https://www.sciencedaily.com"
+    "name": "Avian Sleep and Unihemispheric Slow-Wave Sleep Studies",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Ne Zaman Şarkı Söylemeyi Bırakır?",
+  "_topic": "Kuşlar Ne Kadar Süre Uyanık Kalabilir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-16T17:28:24.781680+00:00",
+  "generated_at": "2026-09-16T18:43:51.057176+00:00",
   "topic_guard_days": 180
 }

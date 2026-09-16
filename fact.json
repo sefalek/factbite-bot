@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Salyangozlar Neden 3 Yıl Uyur?",
-    "body": "Dünyanın en yavaş canlılarından salyangozlar, aşırı sıcak veya kurak dönemlerde hayatta kalabilmek için tam 3 yıla kadar süren derin bir uykuya, yani estivasyona yatabilirler. Bu süreçte metabolizmalarını neredeyse tamamen yavaşlatarak enerjilerini korurlar."
+    "headline": "Yıldızların Altındaki Şaşırtıcı Sır",
+    "body": "Geceleri gökyüzüne baktığınızda gördüğünüz o parlayan yıldızların çoğu, aslında çoktan yok olmuş olabilir. Çünkü milyarlarca ışık yılı uzaktaki bir yıldızın ışığı bize yeni ulaşıyor; yani gökyüzünde izlediğimiz şey, evrenin milyarlarca yıllık geçmişine ait birer hayalet!"
   },
   "en": {
-    "headline": "Why Do Snails Sleep for 3 Years?",
-    "body": "Snails, one of the slowest creatures on Earth, can enter a deep sleep lasting up to 3 years called estivation to survive extreme heat or drought. During this process, they slow down their metabolism almost completely to conserve energy."
+    "headline": "The Surprising Secret Beneath the Stars",
+    "body": "When you look up at the night sky, most of those glowing stars might actually be long gone. Because light from stars billions of light-years away is just reaching us now, what we watch in the night sky is essentially a ghost from the universe's ancient past!"
   },
   "es": {
-    "headline": "¿Por qué los caracoles duermen 3 años?",
-    "body": "Los caracoles, una de las criaturas más lentas de la Tierra, pueden entrar en un sueño profundo de hasta 3 años llamado estivación para sobrevivir al calor extremo o la sequía. Durante este proceso, ralentizan su metabolismo casi por completo para conservar energía."
+    "headline": "El Sorprendente Secreto Bajo las Estrellas",
+    "body": "Cuando miras el cielo nocturno, la mayoría de esas estrellas brillantes en realidad ya podrían haber desaparecido. Como la luz de estrellas a miles de años luz de distancia apenas nos está llegando, ¡lo que vemos en el cielo es en realidad un fantasma del pasado distante del universo!"
   },
   "ar": {
-    "headline": "لماذا تنام القواقع لمدة 3 سنوات؟",
-    "body": "القواقع، وهي من أبطأ الكائنات على وجه الأرض، يمكنها الدخول في نوم عميق يصل إلى 3 سنوات يُسمى السبات الصيفي للبقاء على قيد الحياة في حرارة شديدة أو جفاف. خلال هذه العملية، يبطئُونَ عملية الأتمتة لديهمเกือบ تماماً لتخزين الطاقة."
+    "headline": "السر المدهش تحت النجوم",
+    "body": "عندما تنظر إلى سماء الليل، قد تكون معظم تلك النجوم المتوهجة قد اختفت منذ زمن طويل. ونظراً لأن ضوء النجوم التي تبعد مليارات السنين الضوئية وصل للتو إلينا، فإن ما نشاهده في السماء هو في الأساس شبح من ماضي الكون السحيق!"
   },
   "reel_hook": {
-    "tr": "Hangi canlı tam 3 yıl boyunca kesintisiz uyuyabilir?",
-    "en": "Which creature can sleep uninterrupted for a full 3 years?",
-    "es": "¿Qué criatura puede dormir ininterrumpidamente durante 3 años completos?",
-    "ar": "ما هو الكائن الذي يمكنه النوم دون انقطاع لمدة 3 سنوات كاملة؟"
+    "tr": "Gökyüzünde gördüğünüz o yıldızların çoğu aslında çoktan yok oldu!",
+    "en": "Most of those stars you see in the sky are actually already gone!",
+    "es": "¡La mayoría de esas estrellas que ves en el cielo en realidad ya se han ido!",
+    "ar": "معظم تلك النجوم التي تراها في السماء قد اختفت بالفعل!"
   },
   "story_question": {
-    "tr": "Salyangozların bu uzun süreli uyku durumuna ne ad verilir?",
-    "en": "What is this long-term sleep state of snails called?",
-    "es": "¿Cómo se llama este estado de sueño a largo plazo de los caracoles?",
-    "ar": "ماذا تسمى حالة النوم طويلة الأمد هذه للقواقع؟"
+    "tr": "Gökyüzüne baktığımızda gördüğümüz yıldız ışığı bize ulaşana kadar ne kadar yol kat etmiş olabilir?",
+    "en": "How far might the starlight we see when looking at the sky have traveled before reaching us?",
+    "es": "¿Qué tan lejos habrá viajado la luz estelar que vemos al mirar el cielo antes de llegar a nosotros?",
+    "ar": "إلى أي مدى قد يكون ضوء النجوم الذي نراه عندما ننظر إلى السماء قد سافر قبل أن يصل إلينا؟"
   },
   "story_options": [
-    "Estivasyon",
-    "Kış Uykusu",
-    "Metabolik Donma"
+    "Sadece birkaç dakika",
+    "Yıllar veya milyonlarca yıl",
+    "Yalnızca anlık bir yansıma"
   ],
   "hashtags": [
     "#FactBite",
-    "#salyangoz",
-    "#doğa",
     "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlaralemi"
+    "#uzay",
+    "#astronomi",
+    "#yıldızlar",
+    "#keşif",
+    "#evren"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip et!",
-    "en": "Follow us for more interesting facts like this!",
-    "es": "¡Síguenos para más datos interesantes como este!",
-    "ar": "تابعنا لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "NASA Science",
+    "url": "https://science.nasa.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Salyangozlar Neden 3 Yıl Uyur?",
+  "_topic": "Yıldızların Altındaki Şaşırtıcı Sır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-16T11:28:31.846426+00:00",
+  "generated_at": "2026-09-16T13:32:59.144895+00:00",
   "topic_guard_days": 180
 }

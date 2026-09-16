@@ -1,70 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yılanların Kulakları Yoktur, Ama Yerdeki Titreşimleri Duyabilirler",
-    "body": "Yılanların dış kulakları veya kulak zarları yoktur; bu yüzden havadaki sesleri bizim gibi duymazlar. Bunun yerine, çene kemikleri yerdeki titreşimleri doğrudan iç kulaklarına iletir. Yani yılanlar adeta ayaklarıyla, daha doğrusu karınlarıyla duyar."
+    "headline": "Kuşların Kemikleri İçi Boş Değildir",
+    "body": "Gökyüzünün kralları olarak bildiğimiz kuşların kemikleri tamamen boş sanılır; ancak içlerinde onları uçurmakla kalmayıp uçağın kanatları gibi destekleyen birbirine bağlı hafif destek kafesleri bulunur."
   },
   "en": {
-    "headline": "Snakes Don't Have Ears, But They Can Hear Ground Vibrations",
-    "body": "Snakes lack external ears and eardrums, meaning they don't hear airborne sounds the way we do. Instead, their jawbones transmit ground vibrations directly to their inner ears, allowing them to effectively hear through the ground."
+    "headline": "Birds' Bones Are Not Hollow",
+    "body": "The bones of birds, known as kings of the sky, are thought to be completely hollow; however, inside them are interconnected lightweight support lattices that not only help them fly but also support them like airplane wings."
   },
   "es": {
-    "headline": "Las serpientes no tienen oídos, pero pueden sentir las vibraciones",
-    "body": "Las serpientes no tienen orejas ni tímpanos externos. En su lugar, los huesos de su mandíbula transmiten las vibraciones del suelo directamente a su oído interno, permitiéndoles sentir el entorno."
+    "headline": "Los huesos de las aves no están huecos",
+    "body": "Se cree que los huesos de las aves, conocidos como los reyes del cielo, están completamente huecos; sin embargo, en su interior hay redes de soporte ligeras e interconectadas que no solo les ayudan a volar sino que los sostienen como las alas de un avión."
   },
   "ar": {
-    "headline": "الثعابين ليس لها آذان، لكنها تستطيع سماع الاهتزازات",
-    "body": "تفتقر الثعابين إلى آذان خارجية وطبول أذن. بدلاً من ذلك، تنقل عظام فكها اهتزازات الأرض مباشرة إلى أذنها الداخلية لتشعر بما حولها."
+    "headline": "عظام الطيور ليست مجوفة",
+    "body": "يُعتقد أن عظام الطيور، المعروفة بملوك السماء، مجوفة بالكامل؛ ومع ذلك، توجد بداخلها شبكات دعم خفيفة ومتصلة ببعضها البعض لا تساعدها على الطيران فحسب، بل تدعمها أيضًا مثل أجنحة الطائرات."
   },
   "reel_hook": {
-    "tr": "Kulağı olmayan bir canlı etraftaki sesleri nasıl fark eder?",
-    "en": "How does a creature without ears detect sounds around it?",
-    "es": "¿Cómo detecta sonidos una criatura sin orejas?",
-    "ar": "كيف يكتشف كائن بدون آذان الأصوات من حوله؟"
+    "tr": "Kuşların kemiklerinin içi boş sandıysanız, yanılıyorsunuz.",
+    "en": "If you thought birds' bones were hollow inside, you're wrong.",
+    "es": "Si pensabas que los huesos de las aves estaban huecos por dentro, te equivocas.",
+    "ar": "إذا كنت تعتقد أن عظام الطيور مجوفة من الداخل، فأنت مخطئ."
   },
   "story_question": {
-    "tr": "Yılanlar sesleri hangi vücut kısmı ile algılar?",
-    "en": "Which body part do snakes use to perceive sounds?",
-    "es": "¿Qué parte del cuerpo usan las serpientes para percibir sonidos?",
-    "ar": "أي جزء من الجسم تستخدمه الثعابين لإدراك الأصوات؟"
+    "tr": "Kuşların kemiklerinin içinde uçmalarını sağlayan ne vardır?",
+    "en": "What is inside birds' bones that helps them fly?",
+    "es": "¿Qué hay dentro de los huesos de las aves que les ayuda a volar?",
+    "ar": "ماذا يوجد داخل عظام الطيور مما يساعدها على الطيران؟"
   },
   "story_options": [
-    "Çene kemikleri",
-    "Dilleri",
-    "Kuyruk uçları"
+    "Hava keseleri ve destek kafesleri",
+    "Sıvı dolu odacıklar",
+    "Ağır metalik mineraller"
   ],
   "hashtags": [
     "#FactBite",
-    "#yılanlar",
+    "#kuşlar",
     "#doğa",
     "#bilim",
-    "#hayvanlar",
-    "#biyoloji",
-    "#ilgincbilgiler",
-    "#keşfet"
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu bildiğini muht Arkadaşına gönder!",
-    "en": "Send this to a friend who didn't know this!",
-    "es": "¡Envíaselo a un amigo que no sepa esto!",
-    "ar": "أرسل هذا لصديق لا يعرف هذه المعلومة!"
+    "tr": "Bunun gibi daha fazla gerçek için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Sígueme para más datos como este!",
+    "ar": "تابعنا لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "Britannica",
-    "url": "https://www.britannica.com/story/how-do-snakes-hear"
+    "name": "Ornithology and Avian Anatomy Studies",
+    "url": "https://www.sciencedaily.com/news/plants_animals/birds/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yılanların Kulakları Yoktur, Ama Yerdeki Titreşimleri Duyabilirler",
+  "_topic": "Kuşların Kemikleri İçi Boş Değildir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-16T21:54:33.205784+00:00",
+  "generated_at": "2026-09-16T23:16:11.121384+00:00",
   "topic_guard_days": 180
 }

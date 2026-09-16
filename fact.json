@@ -1,68 +1,70 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Yuvalarını Örerken Kullandığı Hayati Sır",
-    "body": "Kuşların yuvalarını sadece birer barınak sanıyorsanız, yanılıyorsunuz. Birçok kuş türü, özellikle kırlangıçlar, yuvalarını inşa ederken sadece çöp veya çamur toplamaz; aynı zamanda salya ve özel tükürük salgılarını bir harç gibi kullanır. Bu organik yapıştırıcı, yuvanın kuruduktan sonra betondan bile daha sert olmasını sağlar. Böylece en şiddetli rüzgarlarda ve yağmurlarda bile yuvaya zarar gelmez, yavrular güvende kalır."
+    "headline": "Yılanların Kulakları Yoktur, Ama Yerdeki Titreşimleri Duyabilirler",
+    "body": "Yılanların dış kulakları veya kulak zarları yoktur; bu yüzden havadaki sesleri bizim gibi duymazlar. Bunun yerine, çene kemikleri yerdeki titreşimleri doğrudan iç kulaklarına iletir. Yani yılanlar adeta ayaklarıyla, daha doğrusu karınlarıyla duyar."
   },
   "en": {
-    "headline": "The Vital Secret Birds Use When Building Their Nests",
-    "body": "If you think bird nests are just simple shelters, you are mistaken. Many bird species, especially swallows, don't just gather twigs or mud; they also use saliva and special glandular secretions as a mortar. This organic adhesive makes the nest harder than concrete once it dries. Thus, the nest remains undamaged even in the harshest winds and rains, keeping the chicks safe."
+    "headline": "Snakes Don't Have Ears, But They Can Hear Ground Vibrations",
+    "body": "Snakes lack external ears and eardrums, meaning they don't hear airborne sounds the way we do. Instead, their jawbones transmit ground vibrations directly to their inner ears, allowing them to effectively hear through the ground."
   },
   "es": {
-    "headline": "El secreto vital que usan las aves al construir sus nidos",
-    "body": "Si crees que los nidos de aves son solo refugios simples, te equivocas. Muchas especies de aves, especialmente las golondrinas, no solo juntan ramas o barro; también usan saliva y secreciones glandulares especiales como mortero. Este adhesivo orgánico hace que el nido sea más duro que el concreto una vez que se seca. Así, el nido permanece intacto incluso en los vientos y lluvias más fuertes, manteniendo a los polluelos seguros."
+    "headline": "Las serpientes no tienen oídos, pero pueden sentir las vibraciones",
+    "body": "Las serpientes no tienen orejas ni tímpanos externos. En su lugar, los huesos de su mandíbula transmiten las vibraciones del suelo directamente a su oído interno, permitiéndoles sentir el entorno."
   },
   "ar": {
-    "headline": "السر الحيوي الذي تستخدمه الطيور عند بناء أعشازها",
-    "body": "إذا كنت تعتقد أن أعشاش الطيور هي مجرد مآوي بسيطة، فأنت مخطئ. فالعديد من أنواع الطيور، وخاصة السنونو، لا تجمع الأغصان أو الطين فحسب، بل تستخدم أيضًا اللعاب وإفرازات الغدد الخاصة كالملاط. هذا اللاصق العضوي يجعل العش أقوى من الخرسانة بمجرد جفافه. وهكذا يظل العش سليمًا حتى في أشد الرياح والأمطار، مما يحافظ على سلامة الصغار."
+    "headline": "الثعابين ليس لها آذان، لكنها تستطيع سماع الاهتزازات",
+    "body": "تفتقر الثعابين إلى آذان خارجية وطبول أذن. بدلاً من ذلك، تنقل عظام فكها اهتزازات الأرض مباشرة إلى أذنها الداخلية لتشعر بما حولها."
   },
   "reel_hook": {
-    "tr": "Kuş yuvalarının betondan bile sağlam olmasını ne sağlar?",
-    "en": "What makes bird nests even stronger than concrete?",
-    "es": "¿Qué hace que los nidos de aves sean aún más fuertes que el concreto?",
-    "ar": "ما الذي يجعل أعشاش الطيور أقوى من الخرسانة؟"
+    "tr": "Kulağı olmayan bir canlı etraftaki sesleri nasıl fark eder?",
+    "en": "How does a creature without ears detect sounds around it?",
+    "es": "¿Cómo detecta sonidos una criatura sin orejas?",
+    "ar": "كيف يكتشف كائن بدون آذان الأصوات من حوله؟"
   },
   "story_question": {
-    "tr": "Kuşların yuvalarını birbirine yapıştırmak için kullandığı ana madde nedir?",
-    "en": "What is the main substance birds use to glue their nests together?",
-    "es": "¿Cuál es la principal sustancia que usan las aves para pegar sus nidos?",
-    "ar": "ما هي المادة الأساسية التي تستخدمها الطيور لصق أعشاشها ببعضها البعض؟"
+    "tr": "Yılanlar sesleri hangi vücut kısmı ile algılar?",
+    "en": "Which body part do snakes use to perceive sounds?",
+    "es": "¿Qué parte del cuerpo usan las serpientes para percibir sonidos?",
+    "ar": "أي جزء من الجسم تستخدمه الثعابين لإدراك الأصوات؟"
   },
   "story_options": [
-    "Özel tükürük salgısı",
-    "Ağaç reçinesi",
-    "Özel bitki lifleri"
+    "Çene kemikleri",
+    "Dilleri",
+    "Kuyruk uçları"
   ],
   "hashtags": [
     "#FactBite",
+    "#yılanlar",
     "#doğa",
-    "#kuşlar",
     "#bilim",
-    "#ilginçbilgiler",
-    "#biyoloji"
+    "#hayvanlar",
+    "#biyoloji",
+    "#ilgincbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydun? Yorumlarda buluşalım!",
-    "en": "Did you know this before? Let us know in the comments!",
-    "es": "¿Sabías esto antes? ¡Cuéntanos en los comentarios!",
-    "ar": "هل كنت تعرف هذا من قبل؟ أخبرنا في التعليقات!"
+    "tr": "Bunu bildiğini muht Arkadaşına gönder!",
+    "en": "Send this to a friend who didn't know this!",
+    "es": "¡Envíaselo a un amigo que no sepa esto!",
+    "ar": "أرسل هذا لصديق لا يعرف هذه المعلومة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Ornithology and Animal Architecture Studies",
-    "url": "https://www.audubon.org/news/how-birds-build-nests"
+    "name": "Britannica",
+    "url": "https://www.britannica.com/story/how-do-snakes-hear"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Yuvalarını Örerken Kullandığı Hayati Sır",
+  "_topic": "Yılanların Kulakları Yoktur, Ama Yerdeki Titreşimleri Duyabilirler",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-16T20:01:53.792100+00:00",
+  "generated_at": "2026-09-16T21:54:33.205784+00:00",
   "topic_guard_days": 180
 }

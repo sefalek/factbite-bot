@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibrit Çöpü Neden Sadece Kutunun Kenarına Sürtünce Yanar?",
-    "body": "Cebinizde birbirine sürtünen kibritler neden alev almaz hiç düşündünüz mü? Sır, kibrit başındaki kimyasallarla kutunun kenarındaki malzemenin akıllıca ayrılmasında saklı. Başlangıçta sadece sürtünme ısısıyla yanabilen maddeler vardı ama bunlar çok tehlikeliydi. Modern kibritlerde ise yanıcı maddeler ikiye bölünmüştür: Biri kibritin ucundadır, diğeri ise kutunun kenarındaki şeritte. Sadece o iki parça birbirine sürtündüğünde kimyasal reaksiyon tamamlanır ve alev ortaya çıkar."
+    "headline": "Salyangozlar Neden 3 Yıl Uyur?",
+    "body": "Dünyanın en yavaş canlılarından salyangozlar, aşırı sıcak veya kurak dönemlerde hayatta kalabilmek için tam 3 yıla kadar süren derin bir uykuya, yani estivasyona yatabilirler. Bu süreçte metabolizmalarını neredeyse tamamen yavaşlatarak enerjilerini korurlar."
   },
   "en": {
-    "headline": "Why Does a Matchstick Only Light When Struck Against the Box?",
-    "body": "Have you ever wondered why matches in your pocket don't just ignite by rubbing together? The secret lies in cleverly separating the chemicals on the match head from the material on the box strip. Modern matches split the flammable components: one part is on the tip, and the other is on the box. Only when those two parts meet through friction does the chemical reaction complete and create a flame."
+    "headline": "Why Do Snails Sleep for 3 Years?",
+    "body": "Snails, one of the slowest creatures on Earth, can enter a deep sleep lasting up to 3 years called estivation to survive extreme heat or drought. During this process, they slow down their metabolism almost completely to conserve energy."
   },
   "es": {
-    "headline": "¿Por qué una cerilla solo se enciende al rasparla contra la caja?",
-    "body": "¿Alguna vez te has preguntado por qué las cerillas en tu bolsillo no se encienden al rozarse? El secreto radica en separar inteligentemente los químicos de la cabeza del cerillo del material de la tira de la caja. En las cerillas modernas, los componentes inflamables están divididos: una parte está en la punta y la otra en la caja. Solo cuando ambas partes se encuentran mediante la fricción, la reacción química se completa y se crea la llama."
+    "headline": "¿Por qué los caracoles duermen 3 años?",
+    "body": "Los caracoles, una de las criaturas más lentas de la Tierra, pueden entrar en un sueño profundo de hasta 3 años llamado estivación para sobrevivir al calor extremo o la sequía. Durante este proceso, ralentizan su metabolismo casi por completo para conservar energía."
   },
   "ar": {
-    "headline": "لماذا تشتعل عود الثقاب فقط عند حكه بعلبة الكبريت؟",
-    "body": "هل فكرت يومًا لماذا لا تشتعل عيدان الثقاب في جيبك نتيجة الاحتكاك ببعضها؟ يكمن السر في الفصل الذكي للمواد الكيميائية بين رأس عود الثقاب والشريط الموجود على العلبة. في أعواد الثقاب الحديثة، يتم تقسيم المكونات القابلة للاشتعال: جزء على الطرف والآخر على العلبة. فقط عندما يلتقيان بالاحتكاك يكتمل التفاعل الكيميائي وينتج اللهب."
+    "headline": "لماذا تنام القواقع لمدة 3 سنوات؟",
+    "body": "القواقع، وهي من أبطأ الكائنات على وجه الأرض، يمكنها الدخول في نوم عميق يصل إلى 3 سنوات يُسمى السبات الصيفي للبقاء على قيد الحياة في حرارة شديدة أو جفاف. خلال هذه العملية، يبطئُونَ عملية الأتمتة لديهمเกือบ تماماً لتخزين الطاقة."
   },
   "reel_hook": {
-    "tr": "Cebinizdeki kibritler birbirine sürtününce neden patlamıyor?",
-    "en": "Why don't the matches in your pocket catch fire when they rub together?",
-    "es": "¿Por qué las cerillas en tu bolsillo no se encienden al rozarse?",
-    "ar": "لماذا لا تشتعل أعواد الثقاب في جيبك عند احتكاكها؟"
+    "tr": "Hangi canlı tam 3 yıl boyunca kesintisiz uyuyabilir?",
+    "en": "Which creature can sleep uninterrupted for a full 3 years?",
+    "es": "¿Qué criatura puede dormir ininterrumpidamente durante 3 años completos?",
+    "ar": "ما هو الكائن الذي يمكنه النوم دون انقطاع لمدة 3 سنوات كاملة؟"
   },
   "story_question": {
-    "tr": "Modern kibritin kutusundaki şeritte hangi temel kimyasal bulunur?",
-    "en": "What key chemical is found on the strip of a modern matchbox?",
-    "es": "¿Qué químico clave se encuentra en la tira de una caja de cerillas moderna?",
-    "ar": "ما هي المادة الكيميائية الأساسية الموجودة على شريط علبة الثقاب الحديثة؟"
+    "tr": "Salyangozların bu uzun süreli uyku durumuna ne ad verilir?",
+    "en": "What is this long-term sleep state of snails called?",
+    "es": "¿Cómo se llama este estado de sueño a largo plazo de los caracoles?",
+    "ar": "ماذا تسمى حالة النوم طويلة الأمد هذه للقواقع؟"
   },
   "story_options": [
-    "Kırmızı Fosfor",
-    "Kükürt Tozu",
-    "Barut"
+    "Estivasyon",
+    "Kış Uykusu",
+    "Metabolik Donma"
   ],
   "hashtags": [
     "#FactBite",
+    "#salyangoz",
+    "#doğa",
     "#bilim",
     "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#faydalıbilgiler",
-    "#öğren"
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more fascinating facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip et!",
+    "en": "Follow us for more interesting facts like this!",
+    "es": "¡Síguenos para más datos interesantes como este!",
+    "ar": "تابعنا لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Chemistry World",
-    "url": "https://www.chemistryworld.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibrit Çöpü Neden Sadece Kutunun Kenarına Sürtünce Yanar?",
+  "_topic": "Salyangozlar Neden 3 Yıl Uyur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-16T09:56:58.651389+00:00",
+  "generated_at": "2026-09-16T11:28:31.846426+00:00",
   "topic_guard_days": 180
 }

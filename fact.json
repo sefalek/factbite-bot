@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Cam Gibi Saydam Kurbağalar İç Organlarını Nasıl Saklayamaz?",
-    "body": "Yağmur ormanlarında yaşayan bazı cam kurbağaları, derilerinin tamamen şeffaf olması sayesinde iç organlarını ve hatta atan kalplerini dışarıdan açıkça gösterirler. Bilim insanları, bu canlıların dinlenirken kırmızı kan hücrelerinin büyük bir kısmını karaciğerlerinde saklayarak kendilerini neredeyse tamamen görünmez kıldıklarını keşfetti."
+    "headline": "Kuşlar Beton Zemine Neden Hafifçe Vurur?",
+    "body": "Martıların veya bazı kuşların çimlerde ya da kaldırımda ayaklarıyla hızlıca yere vurduğunu hiç gördün mu? Bu sadece bir heyecan işareti değil, akıllıca bir avlanma taktiği. Ayaklarının yarattığı titreşimler toprağın altındaki solucanları deprem oluyor sanarak yukarı çıkmaya zorlar. Yani kuşlar adeta onlara küçük birer titreme tuzağı kurar."
   },
   "en": {
-    "headline": "How Glass Frogs Hide Their Internal Organs",
-    "body": "Certain glass frogs living in rainforests reveal their internal organs and even beating hearts clearly due to their completely transparent skin. Scientists discovered that these creatures make themselves nearly invisible while resting by hiding a large portion of their red blood cells in their livers."
+    "headline": "Why Birds Tap Their Feet on the Ground",
+    "body": "Have you ever seen gulls or other birds rapidly tapping their feet on grass or pavement? This isn't just excitement; it's a clever hunting tactic. The vibrations from their feet trick earthworms underground into thinking an earthquake is happening, forcing them to the surface. Birds literally set a tiny tremor trap for them."
   },
   "es": {
-    "headline": "Cómo las ranas de cristal ocultan sus órganos internos",
-    "body": "Ciertas ranas de cristal que viven en las selvas tropicales muestran claramente sus órganos internos y hasta sus corazones latiendo debido a su piel completamente transparente. Los científicos descubrieron que estas criaturas se vuelven casi invisibles al descansar al ocultar una gran parte de sus glóbulos rojos en sus hígados."
+    "headline": "Por qué las aves golpean el suelo con sus patas",
+    "body": "¿Alguna vez has visto a las gaviotas u otras aves golpear rápidamente el suelo con las patas en el césped o el pavimento? No es solo emoción, es una táctica de caza inteligente. Las vibraciones de sus patas hacen creer a las lombrices bajo tierra que hay un terremoto, obligándolas a subir a la superficie."
   },
   "ar": {
-    "headline": "كيف تخفي ضفادع الزجاج أعضائها الداخلية",
-    "body": "تكشف بعض ضفادع الزجاج التي تعيش في الغابات الاستوائية عن أعضائها الداخلية وحتى قلوبها النابضة بوضوح بسبب جلدها الشفاف تمامًا. اكتشف العلماء أن هذه المخلوقات تجعل نفسها غير مرئية تقريبًا أثناء الراحة عن طريق إخفاء جزء كبير من خلايا دمها الحمراء في كبدها."
+    "headline": "لماذا تطرق الطيور الأرض بأقدامها؟",
+    "body": "هل سبق أن رأيت النورس أو طيوراً أخرى تنقر الأرض بسرعة بأقدامها على العشب أو الرصيف؟ هذه ليست مجرد علامة حماس، بل هي تكتيك صيد ذكي. الاهتزازات الناتجة عن أقدامها توهم ديدان الأرض بأن زلزالاً يقع، مما يجبرها على الصعود إلى السطح."
   },
   "reel_hook": {
-    "tr": "Bu kurbağanın içine baktığınızda atan kalbini görebilirsiniz, peki bunu nasıl başarıyor?",
-    "en": "When you look inside this frog, you can see its beating heart, but how does it pull this off?",
-    "es": "Cuando miras dentro de esta rana, puedes ver su corazón latiendo, pero ¿cómo lo logra?",
-    "ar": "عندما تنظر داخل هذا الضفدع، يمكنك رؤية قلبه النابض، فكيف يحقق ذلك؟"
+    "tr": "Kuşlar neden ayaklarıyla sürekli yere vurur?",
+    "en": "Why do birds constantly tap the ground with their feet?",
+    "es": "¿Por qué las aves golpean constantemente el suelo con las patas?",
+    "ar": "لماذا تطرق الطيور الأرض باستمرار بأقدامها؟"
   },
   "story_question": {
-    "tr": "Cam kurbağaları uyurken görünmez olmak için kırmızı kan hücrelerini nereye saklar?",
-    "en": "Where do glass frogs hide their red blood cells to become invisible while sleeping?",
-    "es": " ঐতিহ্য ¿Dónde esconden las ranas de cristal sus glóbulos rojos para volverse invisibles mientras duermen?",
-    "ar": "أين تخفي ضفادع الزجاج خلايا دمها الحمراء لتصبح غير مرئية أثناء النوم؟"
+    "tr": "Kuşların ayaklarıyla yere vurduğunda neyi taklit ettiğini düşünüyorsun?",
+    "en": "What do you think birds are imitating when they tap the ground?",
+    "es": "¿Qué crees que imitan las aves cuando golpean el suelo?",
+    "ar": "ماذا تعتقد أن الطيور تحاكي عندما تطرق الأرض؟"
   },
   "story_options": [
-    "Karaciğer",
-    "Kalp",
-    "Böbrekler"
+    "Depremi",
+    "Yağmur sesini",
+    "Düşman kuşları"
   ],
   "hashtags": [
     "#FactBite",
     "#doğa",
+    "#kuşlar",
     "#bilim",
-    "#hayvanlar",
-    "#biyoloji",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
-    "en": "Follow for more surprising nature secrets like this!",
-    "es": "¡Sígueme para más secretos sorprendentes de la naturaleza como este!",
-    "ar": "اتبع للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos curiosos como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Science",
-    "url": "https://www.science.org"
+    "name": "Ornithology and Animal Behavior Studies",
+    "url": "https://www.audubon.org/news/why-do-gulls-stomp-their-feet"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Cam Gibi Saydam Kurbağalar İç Organlarını Nasıl Saklayamaz?",
+  "_topic": "Kuşlar Beton Zemine Neden Hafifçe Vurur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-17T20:12:05.201099+00:00",
+  "generated_at": "2026-09-17T21:56:59.741895+00:00",
   "topic_guard_days": 180
 }

@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Kemikleri İçi Boş Değildir",
-    "body": "Gökyüzünün kralları olarak bildiğimiz kuşların kemikleri tamamen boş sanılır; ancak içlerinde onları uçurmakla kalmayıp uçağın kanatları gibi destekleyen birbirine bağlı hafif destek kafesleri bulunur."
+    "headline": "Kuşlar Nasıl Oluyor Da Yağmur Damlalarından Zarar Görmeden Uçabiliyor?",
+    "body": "Saatte yüz kilometre hızla düşen bir yağmur damlası, küçük bir kuş için mermi etkisi yaratabilir. Ancak kuşlar damlalardan kaçmak yerine, aralarından adeta ustalıkla süzülür. Çünkü tüylerindeki özel yağ tabakası suyu iter ve damlalar tüylere çarpıp yön değiştirerek kuşun ağırlık merkezini bozmaz."
   },
   "en": {
-    "headline": "Birds' Bones Are Not Hollow",
-    "body": "The bones of birds, known as kings of the sky, are thought to be completely hollow; however, inside them are interconnected lightweight support lattices that not only help them fly but also support them like airplane wings."
+    "headline": "How Do Birds Fly Through Raindrops Without Getting Hurt?",
+    "body": "A raindrops falling at high speed could feel like a bullet to a small bird. Instead of dodging them, birds glide effortlessly through the gaps. A special oily coating on their feathers repels water, causing drops to bounce off without disrupting the bird's balance."
   },
   "es": {
-    "headline": "Los huesos de las aves no están huecos",
-    "body": "Se cree que los huesos de las aves, conocidos como los reyes del cielo, están completamente huecos; sin embargo, en su interior hay redes de soporte ligeras e interconectadas que no solo les ayudan a volar sino que los sostienen como las alas de un avión."
+    "headline": "¡Cómo vuelan las aves bajo la lluvia sin lastimarse?",
+    "body": "Una gota de lluvia que cae a gran velocidad puede ser peligrosa para un pájaro pequeño. En lugar de esquivarlas, las aves se deslizan hábilmente entre ellas. Una capa de aceite en sus plumas repele el agua, haciendo que las gotas reboten sin alterar su equilibrio."
   },
   "ar": {
-    "headline": "عظام الطيور ليست مجوفة",
-    "body": "يُعتقد أن عظام الطيور، المعروفة بملوك السماء، مجوفة بالكامل؛ ومع ذلك، توجد بداخلها شبكات دعم خفيفة ومتصلة ببعضها البعض لا تساعدها على الطيران فحسب، بل تدعمها أيضًا مثل أجنحة الطائرات."
+    "headline": "كيف تطير الطيور عبر قطرات المطر دون أن تصاب بأذى؟",
+    "body": "قطرة مطر تسقط بسرعة عالية قد تكون خطيرة على طائر صغير. بدلاً من تفاديها، تنزلق الطيور بمهارة بينها. طبقة زيتية خاصة على ريشها تطرد الماء، مما يجعل القطرات ترتد دون الإخلال بتوازن الطائر."
   },
   "reel_hook": {
-    "tr": "Kuşların kemiklerinin içi boş sandıysanız, yanılıyorsunuz.",
-    "en": "If you thought birds' bones were hollow inside, you're wrong.",
-    "es": "Si pensabas que los huesos de las aves estaban huecos por dentro, te equivocas.",
-    "ar": "إذا كنت تعتقد أن عظام الطيور مجوفة من الداخل، فأنت مخطئ."
+    "tr": "Saatte 100 kilometre hızla düşen bu damlalar küçük bir kuşu neden yere seremez?",
+    "en": "Why can't raindrops falling at 100 km/h knock down a small bird?",
+    "es": "¿Por qué las gotas de lluvia a 100 km/h no derriban a un pájaro?",
+    "ar": "لماذا لا تستطيع قطرات المطر الساقطة بسرعة 100 كم/س إسقاط طائر صغير؟"
   },
   "story_question": {
-    "tr": "Kuşların kemiklerinin içinde uçmalarını sağlayan ne vardır?",
-    "en": "What is inside birds' bones that helps them fly?",
-    "es": "¿Qué hay dentro de los huesos de las aves que les ayuda a volar?",
-    "ar": "ماذا يوجد داخل عظام الطيور مما يساعدها على الطيران؟"
+    "tr": "Sence yağmurda uçan bir kuşun tüyleri toplam ağırlığını ne kadar artırır?",
+    "en": "How much do you think a flying bird's weight increases in the rain?",
+    "es": "¿Cuánto crees que aumenta el peso de un ave bajo la lluvia?",
+    "ar": "برأيك، كم تزيد وزن الطائر في المطر؟"
   },
   "story_options": [
-    "Hava keseleri ve destek kafesleri",
-    "Sıvı dolu odacıklar",
-    "Ağır metalik mineraller"
+    "Neredeyse hiç artırmaz",
+    "Ağırlığı iki katına çıkar",
+    "Uçamayacak kadar ağırlaşır"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
     "#doğa",
     "#bilim",
+    "#kuşlar",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#yağmur"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Sígueme para más datos como este!",
-    "ar": "تابعنا لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için kaydırmayı unutma!",
+    "en": "Don't forget to swipe for more facts like this!",
+    "es": "¡No olvides deslizar para más datos como este!",
+    "ar": "لا تنس التمرير للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "Ornithology and Avian Anatomy Studies",
-    "url": "https://www.sciencedaily.com/news/plants_animals/birds/"
+    "name": "Ornithology and Bird Flight Mechanics",
+    "url": "https://www.audubon.org/news/how-do-birds-fly-rain"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Kemikleri İçi Boş Değildir",
+  "_topic": "Kuşlar Nasıl Oluyor Da Yağmur Damlalarından Zarar Görmeden Uçabiliyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-16T23:16:11.121384+00:00",
+  "generated_at": "2026-09-17T09:59:49.877643+00:00",
   "topic_guard_days": 180
 }

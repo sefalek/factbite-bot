@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Beton Zemine Neden Hafifçe Vurur?",
-    "body": "Martıların veya bazı kuşların çimlerde ya da kaldırımda ayaklarıyla hızlıca yere vurduğunu hiç gördün mu? Bu sadece bir heyecan işareti değil, akıllıca bir avlanma taktiği. Ayaklarının yarattığı titreşimler toprağın altındaki solucanları deprem oluyor sanarak yukarı çıkmaya zorlar. Yani kuşlar adeta onlara küçük birer titreme tuzağı kurar."
+    "headline": "Yıldızların Asıl Kokusu",
+    "body": "Uzay boşluğunda nefes alabilseydiniz, muhtemelen ahududu veya rom kokusu alırdınız. Samanyolu'nun merkezindeki devasa gaz bulutları, kozmik ışınların parçacıkları tetiklemesiyle oluşan etil format molekülleriyle doludur. Yani evrenin kalbinde tatlı ve meyvemsi bir koku saklıdır."
   },
   "en": {
-    "headline": "Why Birds Tap Their Feet on the Ground",
-    "body": "Have you ever seen gulls or other birds rapidly tapping their feet on grass or pavement? This isn't just excitement; it's a clever hunting tactic. The vibrations from their feet trick earthworms underground into thinking an earthquake is happening, forcing them to the surface. Birds literally set a tiny tremor trap for them."
+    "headline": "The True Smell of Space",
+    "body": "If you could take a breath in outer space, you would likely smell raspberries and rum. The giant gas clouds at the center of the Milky Way are rich in ethyl formate, created when cosmic rays trigger dust particles. Deep inside the universe, a sweet and fruity scent hides."
   },
   "es": {
-    "headline": "Por qué las aves golpean el suelo con sus patas",
-    "body": "¿Alguna vez has visto a las gaviotas u otras aves golpear rápidamente el suelo con las patas en el césped o el pavimento? No es solo emoción, es una táctica de caza inteligente. Las vibraciones de sus patas hacen creer a las lombrices bajo tierra que hay un terremoto, obligándolas a subir a la superficie."
+    "headline": "El verdadero aroma del espacio",
+    "body": "Si pudieras respirar en el espacio exterior, probablemente olerías a frambuesas y ron. Las gigantescas nubes de gas en el centro de la Vía Láctea están llenas de formiato de etilo, creado por los rayos cósmicos. En el corazón del universo se esconde un aroma dulce."
   },
   "ar": {
-    "headline": "لماذا تطرق الطيور الأرض بأقدامها؟",
-    "body": "هل سبق أن رأيت النورس أو طيوراً أخرى تنقر الأرض بسرعة بأقدامها على العشب أو الرصيف؟ هذه ليست مجرد علامة حماس، بل هي تكتيك صيد ذكي. الاهتزازات الناتجة عن أقدامها توهم ديدان الأرض بأن زلزالاً يقع، مما يجبرها على الصعود إلى السطح."
+    "headline": "الرائحة الحقيقية للفضاء",
+    "body": "لو استطعت تنفس الهواء في الفضاء الخارجي، لشممت رائحة التوت أو الروم. سحب الغاز العملاقة في مركز درب التبانة مليئة بجزيئات الفورمات الناتجة عن الأشعة الكونية. هذا يعني أن قلب الكون يخفي رائحة حلوة وفاكهية."
   },
   "reel_hook": {
-    "tr": "Kuşlar neden ayaklarıyla sürekli yere vurur?",
-    "en": "Why do birds constantly tap the ground with their feet?",
-    "es": "¿Por qué las aves golpean constantemente el suelo con las patas?",
-    "ar": "لماذا تطرق الطيور الأرض باستمرار بأقدامها؟"
+    "tr": "Uzayda çilek ve ahududu kokusu olduğunu biliyor muydunuz?",
+    "en": "Did you know space smells like strawberries and raspberries?",
+    "es": "¿Sabías que el espacio huele a fresas y frambuesas?",
+    "ar": "هل كنت تعلم أن الفضاء رائحته تشبه التوت؟"
   },
   "story_question": {
-    "tr": "Kuşların ayaklarıyla yere vurduğunda neyi taklit ettiğini düşünüyorsun?",
-    "en": "What do you think birds are imitating when they tap the ground?",
-    "es": "¿Qué crees que imitan las aves cuando golpean el suelo?",
-    "ar": "ماذا تعتقد أن الطيور تحاكي عندما تطرق الأرض؟"
+    "tr": "Uzaydaki bu meyvemsi kokunun kaynağı hangi moleküldür?",
+    "en": "Which molecule is responsible for this fruity scent in space?",
+    "es": "¿Qué molécula es responsable de este aroma frutal en el espacio?",
+    "ar": "ما هو الجزيء المسؤول عن هذه الرائحة الفواكة في الفضاء؟"
   },
   "story_options": [
-    "Depremi",
-    "Yağmur sesini",
-    "Düşman kuşları"
+    "Etil format",
+    "Metan gazı",
+    "Karbondioksit"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#kuşlar",
+    "#uzay",
     "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlaralemi"
+    "#bilgi",
+    "#keşif",
+    "#kozmos",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos curiosos como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için kaydet ve takip et!",
+    "en": "Save and follow for more facts like this!",
+    "es": "¡Guarda y sigue para más datos como este!",
+    "ar": "احفظ المنشور وتابعنا للمزيد من الحقائق!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Animal Behavior Studies",
-    "url": "https://www.audubon.org/news/why-do-gulls-stomp-their-feet"
+    "name": "NASA & Max Planck Institute for Radio Astronomy",
+    "url": "https://www.mpifr-bonn.mpg.de/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Beton Zemine Neden Hafifçe Vurur?",
+  "_topic": "Yıldızların Asıl Kokusu",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-17T21:56:59.741895+00:00",
+  "generated_at": "2026-09-17T23:06:15.331008+00:00",
   "topic_guard_days": 180
 }

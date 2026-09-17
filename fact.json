@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Açık Havada Yürürken Soluduğumuz Şeyin Tamamı Oksijen Değil",
-    "body": "Nefes aldığımızda içimize çektiğimiz havanın büyük bir kısmı oksijen sanılır, ama aslında neredeyse yüzde seksenini azot oluşturur. Oksijen sadece yaklaşık yüzde yirmilik bir dilimi kaplar."
+    "headline": "Deniz Analarının Kalbi Var Mı?",
+    "body": "Dünya üzerindeki en eski canlılardan biri olan deniz analarının kafası karışmasın; onların ne beyni var, ne kalbi, ne de kemikleri. Vücutlarının neredeyse yüzde doksanı sudan oluşur ve nefes almak için solungaçlara bile ihtiyaç duymazlar. Okyanuslarda milyonlarca yıldır bu kadar basit bir vücut tasarımıyla hayatta kalabilmeleri, doğanın en büyük mucizelerinden biridir."
   },
   "en": {
-    "headline": "What We Breathe Outdoors Isn't Pure Oxygen",
-    "body": "When we take a breath, most people think we inhale pure oxygen, but nitrogen actually makes up nearly eighty percent of the air. Oxygen only accounts for about twenty percent."
+    "headline": "Do Jellyfish Have Hearts?",
+    "body": "As one of the oldest creatures on Earth, jellyfish don't get confused by having a brain, a heart, or bones—because they lack all of them. Nearly ninety percent of their bodies consist of water, and they don't even need gills to breathe. Surviving in the oceans for millions of years with such a simple body design is one of nature's greatest miracles."
   },
   "es": {
-    "headline": "Lo que respiramos al aire libre no es oxígeno puro",
-    "body": "Cuando respiramos, la mayoría piensa que inhalamos oxígeno puro, pero en realidad el nitrógeno compone casi el ochenta por ciento del aire. El oxígeno solo representa alrededor del veinte por ciento."
+    "headline": "¿Tienen corazón las medusas?",
+    "body": "Como una de las criaturas más antiguas de la Tierra, las medusas no se confunden por tener cerebro, corazón o huesos, ya que carecen de todos ellos. Casi el noventa por ciento de sus cuerpos está compuesto de agua y ni siquiera necesitan branquias para respirar. Sobrevivir en los océanos durante millones de años con un diseño corporal tan simple es uno de los mayores milagros de la naturaleza."
   },
   "ar": {
-    "headline": "ما نتنفسه في الهواء الطلق ليس أكسجناً خالصاً",
-    "body": "عندما نتنفس، يعتقد معظم الناس أننا نستنشق أكسجناً خالصاً، لكن النيتروجين يمثل في الواقع ما يقرب من ثمانين بالمائة من الهواء. بينما يشكل الأكسجين حوالي عشرين بالمائة فقط."
+    "headline": "هل تمتلك قناديل البحر قلوباً؟",
+    "body": "باعتبارها واحدة من أقدم الكائنات على وجه الأرض، فإن قناديل البحر لا تمتلك دماغاً أو قلباً أو عظاماً. يتكون ما يقرب من تسعين بالمائة من أجسامها من الماء، وهي لا تحتاج حتى إلى الخياشم للتنفس. إن بقاءها على قيد الحياة في المحيطات لملايين السنين بمثل هذا التصميم البسيط للجسم يعد أحد أعظم معجزات الطبيعة."
   },
   "reel_hook": {
-    "tr": "Her nefes alışınızda içinize çektiğiniz o havanın aslında yüzde sekseninin ne olduğunu biliyor musunuz?",
-    "en": "Do you know what nearly eighty percent of the air you breathe in with every breath actually is?",
-    "es": "¿Sabes qué es en realidad casi el ochenta por ciento del aire que inhalas con cada respiración?",
-    "ar": "هل تعرف ما هي تلك النسبة التي تقترب من ثمنين بالمائة من الهواء الذي تستنشقه مع كل نفس حقاً؟"
+    "tr": "Beyni, kalbi ve kemikleri olmayan bir canlı düşünün... Nasıl yaşıyorlar?",
+    "en": "Imagine a creature with no brain, heart, or bones... How do they survive?",
+    "es": "Imagina una criatura sin cerebro, corazón ni huesos... ¿Cómo sobreviven?",
+    "ar": "تخيل كائناً بلا دماغ أو قلب أو عظام... كيف ينجو؟"
   },
   "story_question": {
-    "tr": "Soluduğumuz havanın yüzde seksenini hangi gaz oluşturur?",
-    "en": "Which gas makes up eighty percent of the air we breathe?",
-    "es": "¿Qué gas compone el ochenta por ciento del aire que respiramos?",
-    "ar": "ما هو الغاز الذي يشكل ثمانين بالمائة من الهواء الذي نتنفسه؟"
+    "tr": "Deniz analarının vücudunun yüzde kaçı sudan oluşur?",
+    "en": "What percentage of a jellyfish's body is made of water?",
+    "es": "¿Qué porcentaje del cuerpo de una medusa está compuesto de agua?",
+    "ar": "ما هي نسبة الماء في جسم قنديل البحر؟"
   },
   "story_options": [
-    "Azot",
-    "Karbondioksit",
-    "Helyum"
+    "%50",
+    "%70",
+    "%90"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#hava",
-    "#oksijen",
+    "#denizcanlıları",
+    "#bilimselgerçekler",
+    "#okyanus",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#doğa"
+    "#doğa",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip et!",
+    "en": "Follow to not miss more surprising facts like this!",
+    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
+    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "NASA Earth Science",
-    "url": "https://earthobservatory.nasa.gov"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/invertebrates/invertebrates-facts/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Açık Havada Yürürken Soluduğumuz Şeyin Tamamı Oksijen Değil",
+  "_topic": "Deniz Analarının Kalbi Var Mı?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-17T15:35:56.464484+00:00",
+  "generated_at": "2026-09-17T17:27:50.484756+00:00",
   "topic_guard_days": 180
 }

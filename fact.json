@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Deniz Analarının Kalbi Var Mı?",
-    "body": "Dünya üzerindeki en eski canlılardan biri olan deniz analarının kafası karışmasın; onların ne beyni var, ne kalbi, ne de kemikleri. Vücutlarının neredeyse yüzde doksanı sudan oluşur ve nefes almak için solungaçlara bile ihtiyaç duymazlar. Okyanuslarda milyonlarca yıldır bu kadar basit bir vücut tasarımıyla hayatta kalabilmeleri, doğanın en büyük mucizelerinden biridir."
+    "headline": "Cam Gibi Saydam Kurbağalar İç Organlarını Nasıl Saklayamaz?",
+    "body": "Yağmur ormanlarında yaşayan bazı cam kurbağaları, derilerinin tamamen şeffaf olması sayesinde iç organlarını ve hatta atan kalplerini dışarıdan açıkça gösterirler. Bilim insanları, bu canlıların dinlenirken kırmızı kan hücrelerinin büyük bir kısmını karaciğerlerinde saklayarak kendilerini neredeyse tamamen görünmez kıldıklarını keşfetti."
   },
   "en": {
-    "headline": "Do Jellyfish Have Hearts?",
-    "body": "As one of the oldest creatures on Earth, jellyfish don't get confused by having a brain, a heart, or bones—because they lack all of them. Nearly ninety percent of their bodies consist of water, and they don't even need gills to breathe. Surviving in the oceans for millions of years with such a simple body design is one of nature's greatest miracles."
+    "headline": "How Glass Frogs Hide Their Internal Organs",
+    "body": "Certain glass frogs living in rainforests reveal their internal organs and even beating hearts clearly due to their completely transparent skin. Scientists discovered that these creatures make themselves nearly invisible while resting by hiding a large portion of their red blood cells in their livers."
   },
   "es": {
-    "headline": "¿Tienen corazón las medusas?",
-    "body": "Como una de las criaturas más antiguas de la Tierra, las medusas no se confunden por tener cerebro, corazón o huesos, ya que carecen de todos ellos. Casi el noventa por ciento de sus cuerpos está compuesto de agua y ni siquiera necesitan branquias para respirar. Sobrevivir en los océanos durante millones de años con un diseño corporal tan simple es uno de los mayores milagros de la naturaleza."
+    "headline": "Cómo las ranas de cristal ocultan sus órganos internos",
+    "body": "Ciertas ranas de cristal que viven en las selvas tropicales muestran claramente sus órganos internos y hasta sus corazones latiendo debido a su piel completamente transparente. Los científicos descubrieron que estas criaturas se vuelven casi invisibles al descansar al ocultar una gran parte de sus glóbulos rojos en sus hígados."
   },
   "ar": {
-    "headline": "هل تمتلك قناديل البحر قلوباً؟",
-    "body": "باعتبارها واحدة من أقدم الكائنات على وجه الأرض، فإن قناديل البحر لا تمتلك دماغاً أو قلباً أو عظاماً. يتكون ما يقرب من تسعين بالمائة من أجسامها من الماء، وهي لا تحتاج حتى إلى الخياشم للتنفس. إن بقاءها على قيد الحياة في المحيطات لملايين السنين بمثل هذا التصميم البسيط للجسم يعد أحد أعظم معجزات الطبيعة."
+    "headline": "كيف تخفي ضفادع الزجاج أعضائها الداخلية",
+    "body": "تكشف بعض ضفادع الزجاج التي تعيش في الغابات الاستوائية عن أعضائها الداخلية وحتى قلوبها النابضة بوضوح بسبب جلدها الشفاف تمامًا. اكتشف العلماء أن هذه المخلوقات تجعل نفسها غير مرئية تقريبًا أثناء الراحة عن طريق إخفاء جزء كبير من خلايا دمها الحمراء في كبدها."
   },
   "reel_hook": {
-    "tr": "Beyni, kalbi ve kemikleri olmayan bir canlı düşünün... Nasıl yaşıyorlar?",
-    "en": "Imagine a creature with no brain, heart, or bones... How do they survive?",
-    "es": "Imagina una criatura sin cerebro, corazón ni huesos... ¿Cómo sobreviven?",
-    "ar": "تخيل كائناً بلا دماغ أو قلب أو عظام... كيف ينجو؟"
+    "tr": "Bu kurbağanın içine baktığınızda atan kalbini görebilirsiniz, peki bunu nasıl başarıyor?",
+    "en": "When you look inside this frog, you can see its beating heart, but how does it pull this off?",
+    "es": "Cuando miras dentro de esta rana, puedes ver su corazón latiendo, pero ¿cómo lo logra?",
+    "ar": "عندما تنظر داخل هذا الضفدع، يمكنك رؤية قلبه النابض، فكيف يحقق ذلك؟"
   },
   "story_question": {
-    "tr": "Deniz analarının vücudunun yüzde kaçı sudan oluşur?",
-    "en": "What percentage of a jellyfish's body is made of water?",
-    "es": "¿Qué porcentaje del cuerpo de una medusa está compuesto de agua?",
-    "ar": "ما هي نسبة الماء في جسم قنديل البحر؟"
+    "tr": "Cam kurbağaları uyurken görünmez olmak için kırmızı kan hücrelerini nereye saklar?",
+    "en": "Where do glass frogs hide their red blood cells to become invisible while sleeping?",
+    "es": " ঐতিহ্য ¿Dónde esconden las ranas de cristal sus glóbulos rojos para volverse invisibles mientras duermen?",
+    "ar": "أين تخفي ضفادع الزجاج خلايا دمها الحمراء لتصبح غير مرئية أثناء النوم؟"
   },
   "story_options": [
-    "%50",
-    "%70",
-    "%90"
+    "Karaciğer",
+    "Kalp",
+    "Böbrekler"
   ],
   "hashtags": [
     "#FactBite",
-    "#denizcanlıları",
-    "#bilimselgerçekler",
-    "#okyanus",
-    "#ilginçbilgiler",
     "#doğa",
-    "#biyoloji"
+    "#bilim",
+    "#hayvanlar",
+    "#biyoloji",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip et!",
-    "en": "Follow to not miss more surprising facts like this!",
-    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
-    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
+    "en": "Follow for more surprising nature secrets like this!",
+    "es": "¡Sígueme para más secretos sorprendentes de la naturaleza como este!",
+    "ar": "اتبع للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/invertebrates-facts/"
+    "name": "Science",
+    "url": "https://www.science.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Deniz Analarının Kalbi Var Mı?",
+  "_topic": "Cam Gibi Saydam Kurbağalar İç Organlarını Nasıl Saklayamaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-17T17:27:50.484756+00:00",
+  "generated_at": "2026-09-17T20:12:05.201099+00:00",
   "topic_guard_days": 180
 }

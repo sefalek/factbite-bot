@@ -1,51 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritin Yanma Sırrı Kutuda Saklı",
-    "body": "Kibrit çöpünün başı kendi kendine alev almaz. Çoğumuz bunun sürtünmeyle oluşan ısıdan kaynaklandığını düşünürüz ama işin aslı kimyasal bir eşleşmedir. Çöpün başındaki maddeler tek başına kararlıdır; gerçek sihir, kutunun kenarındaki özel yüzeyle temas ettiğinde gerçekleşir."
+    "headline": "Yarasaların Kulakları Neden Bu Kadar Büyüktür?",
+    "body": "Yarasaların devasa kulakları, sadece karanlıkta duymalarını sağlamaz; aynı zamanda ses dalgalarının yankısını hesaplayarak gözleri gibi görmelerine yardımcı olur. Kulak kepçelerinin şekli, sesin yönünü milisaniyeler içinde bulmalarını sağlar."
   },
   "en": {
-    "headline": "The Secret of How Matches Burn",
-    "body": "A match head doesn't ignite on its own. Most think it's just friction heat, but it's actually a chemical match. The compounds on the head are stable alone; the real magic happens when they meet the special strip on the box."
+    "headline": "Why Are Bats' Ears So Big?",
+    "body": "Bats' giant ears don't just help them hear in the dark; they also help them 'see' by calculating the echo of sound waves. The shape of their outer ears allows them to pinpoint the direction of sound in milliseconds."
   },
   "es": {
-    "headline": "El secreto de cómo se encienden las cerillas",
-    "body": "La cabeza de una cerilla no se enciende sola. Muchos piensan que es solo calor por fricción, pero en realidad es una combinación química. Los compuestos son estables por sí solos; la magia ocurre al tocar la tira de la caja."
+    "headline": "¿Por qué las orejas de los murciélagos son tan grandes?",
+    "body": "Las orejas gigantes de los murciélagos no solo les ayudan a oír en la oscuridad, sino que también les ayudan a 'ver' calculando el eco de las ondas sonoras. La forma de sus pabellones auriculares les permite localizar la dirección del sonido en milisegundos."
   },
   "ar": {
-    "headline": "سر اشتعال أعواد الكبريت",
-    "body": "رأس عود الكبريت لا يشتعل من تلقاء نفسه. يعتقد الكثيرون أنها مجرد حرارة احتكاك، لكنها في الواقع مطابقة كيميائية. المواد وحدها مستقرّة، والسحر الحقيقي يحدث عند ملامسة الشريط الخاص على العلبة."
+    "headline": "لماذا آدان الخفافيش كبيرة جداً؟",
+    "body": "أذنان الخفافيش الضخمتان لا تساعدانها فقط على السمع في الظلام، بل تساعدانها أيضاً على 'الرؤية' عن طريق حساب صدى الموجات الصوتية. شكل آذانها الخارجية يمكنها من تحديد اتجاه الصوت في جزء من الألف من الثانية."
   },
   "reel_hook": {
-    "tr": "Kibrit çöpü neden kutunun sadece o incecik kenarına sürtününce yanar?",
-    "en": "Why does a match only light when struck against that tiny strip on the box?",
-    "es": "¿Por qué una cerilla solo se enciende al rasparla contra esa pequeña tira de la caja?",
-    "ar": "لماذا يشتعل عود الكبريت فقط عند حكه بالشريط الصغير الموجود على العلبة؟"
+    "tr": "Yarasalar kulaklarıyla gördüklerini biliyor muydunuz?",
+    "en": "Did you know bats can see with their ears?",
+    "es": "¿Sabías que los murciélagos pueden ver con sus orejas?",
+    "ar": "هل كنت تعلم أن الخفافيش تستطيع الرؤية بأذنيها؟"
   },
   "story_question": {
-    "tr": "Kibrit çöpünün başındaki madde ile kutudaki yüzey bir araya gelince ne olur?",
-    "en": "What happens when the substance on the match head meets the surface on the box?",
-    "es": "¿Qué pasa cuando la sustancia de la cerilla se encuentra con la superficie de la caja?",
-    "ar": "ماذا يحدث عندما تلتقي المادة التي على رأس الكبريت بالسطح الموجود على العلبة؟"
+    "tr": "Yarasaların yönlerini bulmak için kullandıkları sisteme ne ad verिlir?",
+    "en": "What is the system called that bats use to find their way?",
+    "es": "¿Cómo se llama el sistema que utilizan los murciélagos para orientarse?",
+    "ar": "ما هو النظام الذي تستخدمه الخفافيش لتحديد اتجاهاتها؟"
   },
   "story_options": [
-    "Alev anında oluşur",
-    "Isı enerjisi açığa çıkar",
-    "Kimyasal reaksiyon başlar"
+    "Ekolokasyon",
+    "Manyetik Alan",
+    "Kızılötesi Görüş"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
+    "#doğa",
+    "#yarasalar",
     "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#faydalıbilgiler"
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için kaydırmayı bırak ve takip et!",
-    "en": "Stop scrolling and follow for more facts like this!",
-    "es": "¡Deja de deslizar y síguenos para más datos como este!",
-    "ar": "توقف عن التمرير وتابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Chemistry of Matches",
-    "url": "https://www.compoundchem.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/bats"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritin Yanma Sırrı Kutuda Saklı",
+  "_topic": "Yarasaların Kulakları Neden Bu Kadar Büyüktür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-18T19:32:25.079485+00:00",
+  "generated_at": "2026-09-18T21:27:08.215749+00:00",
   "topic_guard_days": 180
 }

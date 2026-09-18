@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yıldızların Asıl Kokusu",
-    "body": "Uzay boşluğunda nefes alabilseydiniz, muhtemelen ahududu veya rom kokusu alırdınız. Samanyolu'nun merkezindeki devasa gaz bulutları, kozmik ışınların parçacıkları tetiklemesiyle oluşan etil format molekülleriyle doludur. Yani evrenin kalbinde tatlı ve meyvemsi bir koku saklıdır."
+    "headline": "Yılanların Kulakları Yoktur, Peki Sesleri Nasıl Duyarlar?",
+    "body": "Yılanların dış ya da orta kulakları bulunmaz. Buna rağmen çevrelerindeki sesleri ve hareketleri kusursuz şekilde algılayabilirler. Çenelerindeki özel kemikler, yerdeki en ufak titreşimleri bile doğrudan iç kulaklarına iletir. Yani yılanlar havada yayılan sesleri değil, yerin fısıltılarını dinler."
   },
   "en": {
-    "headline": "The True Smell of Space",
-    "body": "If you could take a breath in outer space, you would likely smell raspberries and rum. The giant gas clouds at the center of the Milky Way are rich in ethyl formate, created when cosmic rays trigger dust particles. Deep inside the universe, a sweet and fruity scent hides."
+    "headline": "Snakes Don't Have Ears, So How Do They Hear?",
+    "body": "Snakes lack external or middle ears, yet they can perceive sounds and movements in their environment flawlessly. Specialized bones in their jaws transmit even the slightest vibrations from the ground directly to their inner ear. In other words, snakes don't listen to airborne sounds, they listen to the whispers of the earth."
   },
   "es": {
-    "headline": "El verdadero aroma del espacio",
-    "body": "Si pudieras respirar en el espacio exterior, probablemente olerías a frambuesas y ron. Las gigantescas nubes de gas en el centro de la Vía Láctea están llenas de formiato de etilo, creado por los rayos cósmicos. En el corazón del universo se esconde un aroma dulce."
+    "headline": "Las Serpientes No Tienen Oídos, ¿Cómo Escuchan?",
+    "body": "Las serpientes no tienen oídos externos ni medios, pero pueden percibir sonidos y movimientos a su alrededor a la perfección. Huesos especiales en sus mandíbulas transmiten hasta la vibración más leve del suelo directamente a su oído interno. Es decir, las serpientes no escuchan sonidos en el aire, escuchan los susurros de la tierra."
   },
   "ar": {
-    "headline": "الرائحة الحقيقية للفضاء",
-    "body": "لو استطعت تنفس الهواء في الفضاء الخارجي، لشممت رائحة التوت أو الروم. سحب الغاز العملاقة في مركز درب التبانة مليئة بجزيئات الفورمات الناتجة عن الأشعة الكونية. هذا يعني أن قلب الكون يخفي رائحة حلوة وفاكهية."
+    "headline": "الثعابين لا تمتلك أذناً، فكيف تسمع إذن؟",
+    "body": "لا تمتلك الثعابين أذناً خارجية أو وسطى، ومع ذلك يمكنها إدراك الأصوات والحركات في بيئتها بدقة تامة. تنقل العظام الخاصة في فكوكها حتى أصغر الاهتزازات من الأرض مباشرة إلى أذنها الداخلية. بمعنى آخر، الثعابين لا تستمع إلى الأصوات في الهواء، بل تستمع إلى همسات الأرض."
   },
   "reel_hook": {
-    "tr": "Uzayda çilek ve ahududu kokusu olduğunu biliyor muydunuz?",
-    "en": "Did you know space smells like strawberries and raspberries?",
-    "es": "¿Sabías que el espacio huele a fresas y frambuesas?",
-    "ar": "هل كنت تعلم أن الفضاء رائحته تشبه التوت؟"
+    "tr": "Kulakları olmayan bir canlı etraftaki sesleri nasıl duyar?",
+    "en": "How does a creature without ears hear sounds around it?",
+    "es": "¿Cómo escucha los sonidos una criatura sin oídos?",
+    "ar": "كيف تسمع المخلوقات التي لا تمتلك آذاناً الأصوات حولها؟"
   },
   "story_question": {
-    "tr": "Uzaydaki bu meyvemsi kokunun kaynağı hangi moleküldür?",
-    "en": "Which molecule is responsible for this fruity scent in space?",
-    "es": "¿Qué molécula es responsable de este aroma frutal en el espacio?",
-    "ar": "ما هو الجزيء المسؤول عن هذه الرائحة الفواكة في الفضاء؟"
+    "tr": "Yılanlar sesleri hangi vücut kısımlarıyla hisseder?",
+    "en": "Which body part do snakes use to feel sounds?",
+    "es": "¿Qué parte del cuerpo usan las serpientes para sentir los sonidos?",
+    "ar": "ما هو الجزء من جسم الثعبان الذي يستخدمه للشعور بالصوت؟"
   },
   "story_options": [
-    "Etil format",
-    "Metan gazı",
-    "Karbondioksit"
+    "Çene kemikleri",
+    "Kuyruk uçları",
+    "Dilleri"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
+    "#yılan",
+    "#doğa",
     "#bilim",
-    "#bilgi",
-    "#keşif",
-    "#kozmos",
+    "#hayvanlar",
+    "#keşfet",
     "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için kaydet ve takip et!",
-    "en": "Save and follow for more facts like this!",
-    "es": "¡Guarda y sigue para más datos como este!",
-    "ar": "احفظ المنشور وتابعنا للمزيد من الحقائق!"
+    "tr": "Bunun gibi daha fazla gerçek için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Sígueme para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "NASA & Max Planck Institute for Radio Astronomy",
-    "url": "https://www.mpifr-bonn.mpg.de/"
+    "name": "Herpetology: An Introductory Biology of Amphibians and Reptiles",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/snake-hearing"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yıldızların Asıl Kokusu",
+  "_topic": "Yılanların Kulakları Yoktur, Peki Sesleri Nasıl Duyarlar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-17T23:06:15.331008+00:00",
+  "generated_at": "2026-09-18T09:46:11.664776+00:00",
   "topic_guard_days": 180
 }

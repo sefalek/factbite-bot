@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilere Verilen Lazerler Neden Zararlı?",
-    "body": "Kediniz lazer işaretçisini ne kadar yakalamaya çalışırsa çalışsın, asla fiziksel bir av elde edemez. Bu durum onların avlanma tatminsizliği yaşanmasına ve zamanla ciddi bir strese girmesine yol açabilir."
+    "headline": "Solucanların Toprak Altındaki Gizli Yeteneği",
+    "body": "Solucanların gözleri yoktur ama bu, etraflarındaki dünyayı tamamen karanlık yaşadıkları anlamına gelmez. Derilerindeki özel ışık duyarlı hücreler sayesinde, yukarıda bir avcının gölgesini veya gün ışığını anında fark edebilirler."
   },
   "en": {
-    "headline": "Why Laser Pointers Can Stress Cats Out",
-    "body": "No matter how hard your cat tries to catch the laser dot, they can never physically catch prey. This unfulfilled hunting cycle can lead to severe frustration and stress over time."
+    "headline": "The Underground Secret Ability of Earthworms",
+    "body": "Earthworms don't have eyes, but that doesn't mean they live in total darkness. Thanks to special light-sensitive cells in their skin, they can instantly detect a predator's shadow or daylight above."
   },
   "es": {
-    "headline": "Por qué los punteros láser estresan a los gatos",
-    "body": "Por mucho que tu gato intente atrapar el punto láser, nunca consigue una presa física. Este ciclo de caza incompleto puede provocarle una gran frustración y estrés."
+    "headline": "La habilidad secreta de las lombrices bajo tierra",
+    "body": "Las lombrices no tienen ojos, pero eso no significa que vivan en completa oscuridad. Gracias a células especiales sensibles a la luz en su piel, pueden detectar al instante la sombra de un depredador o la luz del día."
   },
   "ar": {
-    "headline": "لماذا مؤشرات الليزر تسبب التوتر للقطط",
-    "body": "مهما حاولت قطتك الإمساك بنقطة الليزر، فلن تتمكن أبداً من اصطياد فريسة حقيقية. هذه الدورة غير المكتملة للصيد قد تؤدي إلى توتر وإحباط شديدين بمرور الوقت."
+    "headline": "القدرة السرية لديدان الأرض تحت الأرض",
+    "body": "لا تمتلك ديدان الأرض عيوناً، لكن هذا لا يعني أنها تعيش في ظلام تام. بفضل خلايا خاصة حساسة للضوء في جلدها، يمكنها اكتشاف ظل المفترس أو ضوء النهار فوراً."
   },
   "reel_hook": {
-    "tr": "Kediniz lazer ışığını asla yakalayamadığı için aslında deliye dönüyor olabilir mi?",
-    "en": "Could your cat be going crazy just because they can never catch that laser light?",
-    "es": "¿Podría tu gato volverse loco simplemente porque nunca puede atrapar esa luz láser?",
-    "ar": "هل يمكن أن تتجنن قطتك حقاً لمجرد أنها لا تستطيع أبداً الإمساك بضوء الليزر؟"
+    "tr": "Gözleri olmayan bir canlı, üzerindeki gölgeyi nasıl hissedebilir?",
+    "en": "How can a creature without eyes sense a shadow above it?",
+    "es": "¿Cómo puede una criatura sin ojos sentir una sombra encima?",
+    "ar": "كيف يمكن لمخلوق بلا عيون استشعار ظل فوقه؟"
   },
   "story_question": {
-    "tr": "Lazerle oynadıktan sonra kedinize ne veriyorsunuz?",
-    "en": "What do you give your cat after playing with a laser?",
-    "es": "¿Qué le das a tu gato después de jugar con el láser?",
-    "ar": "ماذا تعطي قطتك بعد اللعب بالليزر؟"
+    "tr": "Toprak solucanları ışığı hangi organlarıyla hisseder?",
+    "en": "Which organ do earthworms use to sense light?",
+    "es": "¿Qué órgano usan las lombrices para detectar la luz?",
+    "ar": "ما العضو الذي تستخدمه ديدان الأرض لاستشعار الضوء؟"
   },
   "story_options": [
-    "Gerçek bir oyuncak veya ödül",
-    "Hiçbir şey",
-    "Su veriyorum"
+    "Özel deri hücreleriyle",
+    "Küçük antenleriyle",
+    "Ağız yapılarıyla"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#kedipsikolojisi",
-    "#evcilhayvan",
-    "#bilgi",
+    "#bilim",
+    "#doğa",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#hayvanlar"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Lazer oynatırken bu hatayı yapıyor musun? Yorumlarda buluşalım!",
-    "en": "Are you making this mistake with lasers? Let us know in the comments!",
-    "es": "¿Cometes este error con el láser? ¡Cuéntanos en los comentarios!",
-    "ar": "هل ترتكب هذا الخطأ مع الليزر؟ أخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
+    "en": "Follow for more surprising nature secrets like this!",
+    "es": "¡Sigue para más secretos naturales sorprendentes como este!",
+    "ar": "تابع لمزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
+    "surprise": 9,
+    "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "PetMD",
-    "url": "https://www.petmd.com/cat/behavior/are-laser-pointers-bad-cats"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilere Verilen Lazerler Neden Zararlı?",
+  "_topic": "Solucanların Toprak Altındaki Gizli Yeteneği",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-18T15:05:17.851389+00:00",
+  "generated_at": "2026-09-18T16:57:18.916444+00:00",
   "topic_guard_days": 180
 }

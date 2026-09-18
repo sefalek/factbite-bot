@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yarasaların Kulakları Neden Bu Kadar Büyüktür?",
-    "body": "Yarasaların devasa kulakları, sadece karanlıkta duymalarını sağlamaz; aynı zamanda ses dalgalarının yankısını hesaplayarak gözleri gibi görmelerine yardımcı olur. Kulak kepçelerinin şekli, sesin yönünü milisaniyeler içinde bulmalarını sağlar."
+    "headline": "Kibritin Yanma Sırrı Aslında Nerede?",
+    "body": "Bir kibrit çöpünü kutunun herhangi bir yerine sürtseniz yanmaz. Çünkü alev almasını sağlayan kimyasalların bir kısmı çöpte, diğer kritik parça ise kutunun yanındaki o pürüzlü şerittedir."
   },
   "en": {
-    "headline": "Why Are Bats' Ears So Big?",
-    "body": "Bats' giant ears don't just help them hear in the dark; they also help them 'see' by calculating the echo of sound waves. The shape of their outer ears allows them to pinpoint the direction of sound in milliseconds."
+    "headline": "Where Is the Secret to a Match's Flame?",
+    "body": "If you strike a match anywhere, it won't light. That's because the chemicals needed for a flame are split between the match head and the striking strip on the box."
   },
   "es": {
-    "headline": "¿Por qué las orejas de los murciélagos son tan grandes?",
-    "body": "Las orejas gigantes de los murciélagos no solo les ayudan a oír en la oscuridad, sino que también les ayudan a 'ver' calculando el eco de las ondas sonoras. La forma de sus pabellones auriculares les permite localizar la dirección del sonido en milisegundos."
+    "headline": "¿Dónde está el secreto de la cerilla?",
+    "body": "Si frotas una cerilla en cualquier parte, no se enciende. Los químicos necesarios están divididos entre la cabeza y la tira de la caja."
   },
   "ar": {
-    "headline": "لماذا آدان الخفافيش كبيرة جداً؟",
-    "body": "أذنان الخفافيش الضخمتان لا تساعدانها فقط على السمع في الظلام، بل تساعدانها أيضاً على 'الرؤية' عن طريق حساب صدى الموجات الصوتية. شكل آذانها الخارجية يمكنها من تحديد اتجاه الصوت في جزء من الألف من الثانية."
+    "headline": "أين يكمن سر اشتعال عود الكبريت؟",
+    "body": "إذا حكت عود الكبريت في أي مكان فلن يشتعل. المواد الكيميائية مقسمة بين رأس العود والشرائط الخشنة على العلبة."
   },
   "reel_hook": {
-    "tr": "Yarasalar kulaklarıyla gördüklerini biliyor muydunuz?",
-    "en": "Did you know bats can see with their ears?",
-    "es": "¿Sabías que los murciélagos pueden ver con sus orejas?",
-    "ar": "هل كنت تعلم أن الخفافيش تستطيع الرؤية بأذنيها؟"
+    "tr": "Kibrit çöpü neden her yere sürtüldüğünde yanmaz?",
+    "en": "Why won't a match light when struck anywhere?",
+    "es": "¿Por qué una cerilla no se enciende al frotarla en cualquier parte?",
+    "ar": "لماذا لا يشتعل عود الكبريت عند حكه في أي مكان؟"
   },
   "story_question": {
-    "tr": "Yarasaların yönlerini bulmak için kullandıkları sisteme ne ad verिlir?",
-    "en": "What is the system called that bats use to find their way?",
-    "es": "¿Cómo se llama el sistema que utilizan los murciélagos para orientarse?",
-    "ar": "ما هو النظام الذي تستخدمه الخفافيش لتحديد اتجاهاتها؟"
+    "tr": "Kibritin yanmasını sağlayan ana kimyasalın kutunun neresinde olduğunu biliyor musunuz?",
+    "en": "Do you know where the main chemical for lighting a match is located?",
+    "es": "¿Sabes dónde se encuentra el químico principal para encender una cerilla?",
+    "ar": "هل تعلم أين يوجد المادة الكيميائية الأساسية لإشعال الكبريت؟"
   },
   "story_options": [
-    "Ekolokasyon",
-    "Manyetik Alan",
-    "Kızılötesi Görüş"
+    "Sadece kibrit başlığında",
+    "Kutunun yanındaki şeritte",
+    "Hem başlıkta hem şeritte"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#doğa",
-    "#yarasalar",
     "#ilginçbilgiler",
-    "#hayvanlar"
+    "#teknoloji",
+    "#keşfet",
+    "#öğren",
+    "#tarih"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/mammals/facts/bats"
+    "name": "Chemistry World",
+    "url": "https://www.chemistryworld.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yarasaların Kulakları Neden Bu Kadar Büyüktür?",
+  "_topic": "Kibritin Yanma Sırrı Aslında Nerede?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-18T21:27:08.215749+00:00",
+  "generated_at": "2026-09-18T22:50:13.339867+00:00",
   "topic_guard_days": 180
 }

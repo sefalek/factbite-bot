@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Solucanların Toprak Altındaki Gizli Yeteneği",
-    "body": "Solucanların gözleri yoktur ama bu, etraflarındaki dünyayı tamamen karanlık yaşadıkları anlamına gelmez. Derilerindeki özel ışık duyarlı hücreler sayesinde, yukarıda bir avcının gölgesini veya gün ışığını anında fark edebilirler."
+    "headline": "Kibritin Yanma Sırrı Kutuda Saklı",
+    "body": "Kibrit çöpünün başı kendi kendine alev almaz. Çoğumuz bunun sürtünmeyle oluşan ısıdan kaynaklandığını düşünürüz ama işin aslı kimyasal bir eşleşmedir. Çöpün başındaki maddeler tek başına kararlıdır; gerçek sihir, kutunun kenarındaki özel yüzeyle temas ettiğinde gerçekleşir."
   },
   "en": {
-    "headline": "The Underground Secret Ability of Earthworms",
-    "body": "Earthworms don't have eyes, but that doesn't mean they live in total darkness. Thanks to special light-sensitive cells in their skin, they can instantly detect a predator's shadow or daylight above."
+    "headline": "The Secret of How Matches Burn",
+    "body": "A match head doesn't ignite on its own. Most think it's just friction heat, but it's actually a chemical match. The compounds on the head are stable alone; the real magic happens when they meet the special strip on the box."
   },
   "es": {
-    "headline": "La habilidad secreta de las lombrices bajo tierra",
-    "body": "Las lombrices no tienen ojos, pero eso no significa que vivan en completa oscuridad. Gracias a células especiales sensibles a la luz en su piel, pueden detectar al instante la sombra de un depredador o la luz del día."
+    "headline": "El secreto de cómo se encienden las cerillas",
+    "body": "La cabeza de una cerilla no se enciende sola. Muchos piensan que es solo calor por fricción, pero en realidad es una combinación química. Los compuestos son estables por sí solos; la magia ocurre al tocar la tira de la caja."
   },
   "ar": {
-    "headline": "القدرة السرية لديدان الأرض تحت الأرض",
-    "body": "لا تمتلك ديدان الأرض عيوناً، لكن هذا لا يعني أنها تعيش في ظلام تام. بفضل خلايا خاصة حساسة للضوء في جلدها، يمكنها اكتشاف ظل المفترس أو ضوء النهار فوراً."
+    "headline": "سر اشتعال أعواد الكبريت",
+    "body": "رأس عود الكبريت لا يشتعل من تلقاء نفسه. يعتقد الكثيرون أنها مجرد حرارة احتكاك، لكنها في الواقع مطابقة كيميائية. المواد وحدها مستقرّة، والسحر الحقيقي يحدث عند ملامسة الشريط الخاص على العلبة."
   },
   "reel_hook": {
-    "tr": "Gözleri olmayan bir canlı, üzerindeki gölgeyi nasıl hissedebilir?",
-    "en": "How can a creature without eyes sense a shadow above it?",
-    "es": "¿Cómo puede una criatura sin ojos sentir una sombra encima?",
-    "ar": "كيف يمكن لمخلوق بلا عيون استشعار ظل فوقه؟"
+    "tr": "Kibrit çöpü neden kutunun sadece o incecik kenarına sürtününce yanar?",
+    "en": "Why does a match only light when struck against that tiny strip on the box?",
+    "es": "¿Por qué una cerilla solo se enciende al rasparla contra esa pequeña tira de la caja?",
+    "ar": "لماذا يشتعل عود الكبريت فقط عند حكه بالشريط الصغير الموجود على العلبة؟"
   },
   "story_question": {
-    "tr": "Toprak solucanları ışığı hangi organlarıyla hisseder?",
-    "en": "Which organ do earthworms use to sense light?",
-    "es": "¿Qué órgano usan las lombrices para detectar la luz?",
-    "ar": "ما العضو الذي تستخدمه ديدان الأرض لاستشعار الضوء؟"
+    "tr": "Kibrit çöpünün başındaki madde ile kutudaki yüzey bir araya gelince ne olur?",
+    "en": "What happens when the substance on the match head meets the surface on the box?",
+    "es": "¿Qué pasa cuando la sustancia de la cerilla se encuentra con la superficie de la caja?",
+    "ar": "ماذا يحدث عندما تلتقي المادة التي على رأس الكبريت بالسطح الموجود على العلبة؟"
   },
   "story_options": [
-    "Özel deri hücreleriyle",
-    "Küçük antenleriyle",
-    "Ağız yapılarıyla"
+    "Alev anında oluşur",
+    "Isı enerjisi açığa çıkar",
+    "Kimyasal reaksiyon başlar"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#doğa",
-    "#biyoloji",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#teknoloji",
+    "#keşfet",
+    "#faydalıbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
-    "en": "Follow for more surprising nature secrets like this!",
-    "es": "¡Sigue para más secretos naturales sorprendentes como este!",
-    "ar": "تابع لمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için kaydırmayı bırak ve takip et!",
+    "en": "Stop scrolling and follow for more facts like this!",
+    "es": "¡Deja de deslizar y síguenos para más datos como este!",
+    "ar": "توقف عن التمرير وتابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Chemistry of Matches",
+    "url": "https://www.compoundchem.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Solucanların Toprak Altındaki Gizli Yeteneği",
+  "_topic": "Kibritin Yanma Sırrı Kutuda Saklı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-18T16:57:18.916444+00:00",
+  "generated_at": "2026-09-18T19:32:25.079485+00:00",
   "topic_guard_days": 180
 }

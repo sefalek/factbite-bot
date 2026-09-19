@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yılanların Kulakları Yoktur, Ama Sesleri Kemikleriyle Duyarlar",
-    "body": "Yılanların dışarıdan görünen kulakları ya da kulak zarları yoktur. Ancak bu tamamen sağır oldukları anlamına gelmez. Kafataslarındaki özel kemikler, yerdeki en ufak titreşimleri bile doğrudan iç kulaklarına iletir. Yani yılanlar havada yayılan sesleri pek duyamaz ama ayağınızın yere bastığı anı mükemmel şekilde hissederler."
+    "headline": "Kibritin Yanma Sırrı Aslında Kutuda Gizli",
+    "body": "Biliyor musunuz, kibrit çöpünün başı kendi başına bir alev üretmez. Kutusuna sürtünmeden yanmaz çünkü o patlayıcı kimyasallar ikiye bölünmüştür; biri çöpte, diğeri ise kutunun yanındaki şerit üzerindedir."
   },
   "en": {
-    "headline": "Snakes Don't Have Ears, But They Feel Sounds Through Their Bones",
-    "body": "Snakes lack external ears or eardrums, but that doesn't mean they're deaf. Special bones in their skulls transmit even the slightest ground vibrations directly to their inner ears. They can barely hear airborne sounds, but they feel the exact moment your foot hits the ground."
+    "headline": "The Real Secret of How Matches Burn",
+    "body": "Did you know that a match head cannot produce a flame on its own? It won't light without the box because the reactive chemicals are split; one half is on the stick, and the other is on the strip."
   },
   "es": {
-    "headline": "Las serpientes no tienen oídos, pero sienten los sonidos a través de sus huesos",
-    "body": "Las serpientes no tienen orejas externas ni tímpanos, pero eso no significa que sean sordas. Unos huesos especiales en sus cráneos transmiten hasta la más mínima vibración del suelo directamente a su oído interno. Apenas pueden oír sonidos en el aire, pero sienten el momento exacto en que tu pie toca el suelo."
+    "headline": "El verdadero secreto de cómo se encienden los fósforos",
+    "body": "¿Sabías que la cabeza de un fósforo no puede producir una llama por sí sola? No se enciende sin la caja porque los químicos reactivos están divididos; la mitad está en el palito y la otra en la tira."
   },
   "ar": {
-    "headline": "الثعابين لا تمتلك آذاناً، لكنها تشعر بالصوت من خلال عظامها",
-    "body": "تفتقر الثعابين إلى آذان خارجية أو طبلة أذن، لكن هذا لا يعني أنها صماء. تنقل عظام خاصة في جماجمها حتى أصغر اهتزازات الأرض مباشرة إلى أذنها الداخلية. بالكاد تستطيع سماع الأصوات في الهواء، لكنها تشعر باللحظة الدقيقة التي تلامس فيها قدمك الأرض."
+    "headline": "السر الحقيقي خلف اشتعال أعواد الثقاب",
+    "body": "هل تعلم أن رأس عود الكبريت لا يمكنه إنتاج لهب بمفرده؟ إنه لا يشتعل بدون العلبة لأن المواد الكيميائية المتفاعلة مقسمة؛ نصفها على العود والنصف الآخر على الشريط."
   },
   "reel_hook": {
-    "tr": "Kulakları olmayan bir hayvan sesleri nasıl duyar?",
-    "en": "How does an animal with no ears hear sounds?",
-    "es": "¿Cómo escucha los sonidos un animal sin orejas?",
-    "ar": "كيف يسمع حيوان بدون آذان الأصوات؟"
+    "tr": "Kibrit çöpü neden kutunun kenarına sürtülmeden asla yanmaz?",
+    "en": "Why does a matchstick never light without rubbing against the box?",
+    "es": "¿Por qué un fósforo nunca se enciende sin frotarlo contra la caja?",
+    "ar": "لماذا لا يشتعل عود الثقاب أبداً دون حكه بالعلبة؟"
   },
   "story_question": {
-    "tr": "Yılanlar sesleri hangi vücut kısmı ile algılar?",
-    "en": "Which body part do snakes use to perceive sounds?",
-    "es": "¿Qué parte del cuerpo usan las serpientes para percibir los sonidos?",
-    "ar": "أي جزء من الجسم تستخدمه الثعابين لإدراك الأصوات؟"
+    "tr": "Sizce kibrit kutusunun yanındaki şeritte hangi yaygın element bulunur?",
+    "en": "What common element do you think is found on the strip of a matchbox?",
+    "es": "¿Qué elemento común crees que se encuentra en la tira de una caja de cerillas?",
+    "ar": "برأيك، ما العنصر الشائع الموجود على شريط علبة الثقاب؟"
   },
   "story_options": [
-    "Kafatası kemikleri",
-    "Çatallı dilleri",
-    "Göz bebekleri"
+    "Kırmızı Fosfor",
+    "Barut",
+    "Kükürt"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#doğa",
-    "#hayvanlar",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#teknoloji",
+    "#keşfet",
+    "#öğren",
+    "#günlükbilgi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts like this!",
-    "es": "¡Mantente atento a más datos sorprendentes como este!",
-    "ar": "ابق على متابعة للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Herpetology: An Introductory Biology of Amphibians and Reptiles",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/snake-hearing"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries/item/how-do-matches-strike-and-light/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yılanların Kulakları Yoktur, Ama Sesleri Kemikleriyle Duyarlar",
+  "_topic": "Kibritin Yanma Sırrı Aslında Kutuda Gizli",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-19T21:19:28.433793+00:00",
+  "generated_at": "2026-09-19T22:30:15.852353+00:00",
   "topic_guard_days": 180
 }

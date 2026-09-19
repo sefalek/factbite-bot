@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uyurken Gözlerimizi Neden Sıkıca Kapatırız?",
-    "body": "Göz kapaklarımız ne kadar ince görünse de, uykudayken dış dünyadaki ışık değişimlerini algılamaya devam ederler. Beynimiz, uyku sırasında bile ışığı fark edebilen bu hassas mekanizmayı korumak için göz kaslarımızı bilinçli olarak kilitleyen özel bir sinyal gönderir."
+    "headline": "Yılanların Kulakları Yoktur, Ama Sesleri Kemikleriyle Duyarlar",
+    "body": "Yılanların dışarıdan görünen kulakları ya da kulak zarları yoktur. Ancak bu tamamen sağır oldukları anlamına gelmez. Kafataslarındaki özel kemikler, yerdeki en ufak titreşimleri bile doğrudan iç kulaklarına iletir. Yani yılanlar havada yayılan sesleri pek duyamaz ama ayağınızın yere bastığı anı mükemmel şekilde hissederler."
   },
   "en": {
-    "headline": "Why Do We Close Our Eyes Tightly While Sleeping?",
-    "body": "No matter how thin our eyelids look, they continue to perceive light changes from the outside world while we sleep. Our brain sends a special signal that consciously locks our eye muscles to protect this sensitive mechanism."
+    "headline": "Snakes Don't Have Ears, But They Feel Sounds Through Their Bones",
+    "body": "Snakes lack external ears or eardrums, but that doesn't mean they're deaf. Special bones in their skulls transmit even the slightest ground vibrations directly to their inner ears. They can barely hear airborne sounds, but they feel the exact moment your foot hits the ground."
   },
   "es": {
-    "headline": "¿Por qué cerramos los ojos con fuerza al dormir?",
-    "body": "Por muy delgados que parezcan nuestros párpados, siguen percibiendo los cambios de luz del mundo exterior mientras dormimos. Nuestro cerebro envía una señal especial que bloquea conscientemente los músculos de nuestros ojos."
+    "headline": "Las serpientes no tienen oídos, pero sienten los sonidos a través de sus huesos",
+    "body": "Las serpientes no tienen orejas externas ni tímpanos, pero eso no significa que sean sordas. Unos huesos especiales en sus cráneos transmiten hasta la más mínima vibración del suelo directamente a su oído interno. Apenas pueden oír sonidos en el aire, pero sienten el momento exacto en que tu pie toca el suelo."
   },
   "ar": {
-    "headline": "لماذا نغلق أعيننا بقوة أثناء النوم؟",
-    "body": "بغض النظر عن مدى رقة جفوننا، إلا أنها تستمر في إدراك تغيرات الضوء من العالم الخارجي أثناء نومنا. يرسل دماغنا إشارة خاصة تقفل عضلات أعيننا بوعي."
+    "headline": "الثعابين لا تمتلك آذاناً، لكنها تشعر بالصوت من خلال عظامها",
+    "body": "تفتقر الثعابين إلى آذان خارجية أو طبلة أذن، لكن هذا لا يعني أنها صماء. تنقل عظام خاصة في جماجمها حتى أصغر اهتزازات الأرض مباشرة إلى أذنها الداخلية. بالكاد تستطيع سماع الأصوات في الهواء، لكنها تشعر باللحظة الدقيقة التي تلامس فيها قدمك الأرض."
   },
   "reel_hook": {
-    "tr": "Uykudayken bile dışarıdaki ışığı görebildiğinizi biliyor muydunuz?",
-    "en": "Did you know you can still see outside light even while sleeping?",
-    "es": "¿Sabías que aún puedes ver la luz exterior incluso mientras duermes?",
-    "ar": "هل تعلم أنه يمكنك رؤية ضوء الخارج حتى أثناء النوم؟"
+    "tr": "Kulakları olmayan bir hayvan sesleri nasıl duyar?",
+    "en": "How does an animal with no ears hear sounds?",
+    "es": "¿Cómo escucha los sonidos un animal sin orejas?",
+    "ar": "كيف يسمع حيوان بدون آذان الأصوات؟"
   },
   "story_question": {
-    "tr": "Uykuda en çok hangi duyumuz dış dünyaya açık kalır?",
-    "en": "Which of our senses remains most open to the outside world during sleep?",
-    "es": "¿Cuál de nuestros sentidos permanece más abierto al mundo exterior durante el sueño?",
-    "ar": "أي من حواسنا يظل أكثر انفتاحاً على العالم الخارجي أثناء النوم؟"
+    "tr": "Yılanlar sesleri hangi vücut kısmı ile algılar?",
+    "en": "Which body part do snakes use to perceive sounds?",
+    "es": "¿Qué parte del cuerpo usan las serpientes para percibir los sonidos?",
+    "ar": "أي جزء من الجسم تستخدمه الثعابين لإدراك الأصوات؟"
   },
   "story_options": [
-    "İşitme",
-    "Dokunma",
-    "Tat alma"
+    "Kafatası kemikleri",
+    "Çatallı dilleri",
+    "Göz bebekleri"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#uyku",
-    "#insan",
-    "#gerçekler",
+    "#doğa",
+    "#hayvanlar",
+    "#ilginçbilgiler",
     "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip et!",
-    "en": "Follow for more interesting facts like this!",
-    "es": "¡Sígueme para más datos interesantes como este!",
-    "ar": "اتبع للمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Mantente atento a más datos sorprendentes como este!",
+    "ar": "ابق على متابعة للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Sleep Foundation",
-    "url": "https://www.sleepfoundation.org"
+    "name": "Herpetology: An Introductory Biology of Amphibians and Reptiles",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/snake-hearing"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uyurken Gözlerimizi Neden Sıkıca Kapatırız?",
+  "_topic": "Yılanların Kulakları Yoktur, Ama Sesleri Kemikleriyle Duyarlar",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-19T17:51:12.730209+00:00",
+  "generated_at": "2026-09-19T21:19:28.433793+00:00",
   "topic_guard_days": 180
 }

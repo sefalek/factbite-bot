@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Açık Havada Soluduğumuz Hava",
-    "body": "Nefes aldığımızda içimize çektiğimiz havanın büyük bir kısmının oksijen olduğunu düşünürüz. Ancak atmosferimizin yaklaşık yüzde yetmiş sekizi azottan oluşur. Oksijen ise yalnızca yüzde yirmibir civarındadır."
+    "headline": "Pirinç Taneleri Aslında Ne İçeriyor?",
+    "body": "Tükettiğimiz pirinç tanelerinin içinde sadece nişasta yok; her bir pirinç tanesi mikroskop altında incelendiğinde binlerce yıllık bitki DNA'sının yanı sıra, antik mineralleri ve eşsiz bir kristal yapıyı barındırır. Bu yapı, onları doğanın en dayanıklı kuru tohumlarından biri yapar."
   },
   "en": {
-    "headline": "The Air We Breathe Outdoors",
-    "body": "We tend to think the air we breathe in is mostly oxygen. However, about seventy-eight percent of our atmosphere is actually nitrogen, while oxygen makes up only around twenty-one percent."
+    "headline": "What Do Rice Grains Actually Contain?",
+    "body": "The rice grains we consume contain more than just starch; under a microscope, each grain harbors thousands of years of plant DNA, ancient minerals, and a unique crystalline structure. This makes them one of nature's most durable dry seeds."
   },
   "es": {
-    "headline": "El aire que respiramos al aire libre",
-    "body": "Solemos pensar que el aire que respiramos es principalmente oxígeno. Sin embargo, alrededor del setenta y ocho por ciento de nuestra atmósfera es nitrógeno, mientras que el oxígeno representa solo el veintiuno por ciento."
+    "headline": "¿Qué Contienen Realmente los Granos de Arroz?",
+    "body": "Los granos de arroz que consumimos contienen algo más que almidón; bajo el microscopio, cada grano alberga miles de años de ADN vegetal, minerales antiguos y una estructura cristalina única. Esto los convierte en una de las semillas secas más duraderas de la naturaleza."
   },
   "ar": {
-    "headline": "الهواء الذي نتنفسه في الهواء الطلق",
-    "body": "نظن غالبًا أن الهواء الذي نستنشقه مكون بالكامل من الأكسجين. لكن في الواقع، حوالي ثمانية وسبعين بالمائة من غلافنا الجوي يتكون من النيتروجين، بينما يمثل الأكسجين واحدا وعشرين بالمائة فقط."
+    "headline": "ماذا تحتوي حبات الأرز حقاً؟",
+    "body": "حبات الأرز التي نستهلكها لا تحتوي فقط على النشا؛ فتحت المجهر، تحمل كل حبة آلاف السنين من الحمض النووي للنبات، والمعادن القديمة، وبنية بلورية فريدة. هذا ما يجعلها واحدة من أكثر بذور الطبيعة جفافاً ومتانة."
   },
   "reel_hook": {
-    "tr": "Derోధ bir nefes al... İçine çektiğin şeyin aslında ne olduğunu biliyor musun?",
-    "en": "Take a deep breath... Do you actually know what you just inhaled?",
-    "es": "Respira hondo... ¿Sabes realmente lo que acabas de inhalar?",
-    "ar": "خذ نفسا عميقا... هل تعرف حقا ما الذي استنشقته للتو؟"
+    "tr": "Tabağındaki o küçük pirinç tanesinin içinde ne saklandığını biliyor musun?",
+    "en": "Do you know what is hidden inside that small grain of rice on your plate?",
+    "es": "¿Sabes qué se esconde dentro de ese pequeño grano de arroz en tu plato?",
+    "ar": "هل تعلم ما الذي تختبئ وراء حبة الأرز الصغيرة تلك في طبقك؟"
   },
   "story_question": {
-    "tr": "Atmosferin en büyük kısmını oluşturan gaz hangisidir?",
-    "en": "Which gas makes up the largest part of our atmosphere?",
-    "es": "¿Qué gas compone la mayor parte de nuestra atmósfera?",
-    "ar": "ما هو الغاز الذي يشكل الجزء الأكبر من غلافنا الجوي؟"
+    "tr": "Pirinç tanelerinin bu kadar uzun süre bozulmadan saklanabilmesinin asıl sebebi sence nedir?",
+    "en": "What do you think is the main reason rice grains can be stored for so long without spoiling?",
+    "es": "¿Cuál crees que es la principal razón por la que los granos de arroz se pueden almacenar durante tanto tiempo sin echarse a perder?",
+    "ar": "ما برأيك هو السبب الرئيسي وراء إمكانية تخزين حبات الأرز لفترة طويلة دون أن تفسد؟"
   },
   "story_options": [
-    "Oksijen",
-    "Azot",
-    "Karbondioksit"
+    "Düşük nem oranı",
+    "Özel kabuk yapısı",
+    "Kimyasal koruyucular"
   ],
   "hashtags": [
     "#FactBite",
+    "#pirinç",
     "#bilim",
-    "#atmoshere",
-    "#dogayibilgi",
-    "#foslav",
-    "#biliyormusunuz"
+    "#doğa",
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#tarım"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.5
   },
   "source": {
-    "name": "NASA Earth Fact Sheet",
-    "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html"
+    "name": "Botanic and Grain Structure Studies",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/rice-grain"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Açık Havada Soluduğumuz Hava",
+  "_topic": "Pirinç Taneleri Aslında Ne İçeriyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-19T10:55:05.910928+00:00",
+  "generated_at": "2026-09-19T12:32:16.848687+00:00",
   "topic_guard_days": 180
 }

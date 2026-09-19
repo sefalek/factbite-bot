@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Pirinç Taneleri Aslında Ne İçeriyor?",
-    "body": "Tükettiğimiz pirinç tanelerinin içinde sadece nişasta yok; her bir pirinç tanesi mikroskop altında incelendiğinde binlerce yıllık bitki DNA'sının yanı sıra, antik mineralleri ve eşsiz bir kristal yapıyı barındırır. Bu yapı, onları doğanın en dayanıklı kuru tohumlarından biri yapar."
+    "headline": "Kibrit Kutularındaki O Gizli Detay",
+    "body": "Kibrit çöpünün başı kendi kendine alev almaz; çünkü ihtiyacı olan o kritik kimyasal madde kutunun tam kenarındaki o pürüzlü şeritte saklıdır. Yanma sihrinin gerçekleşmesi için iki ayrı parçanın birleşmesi şarttır."
   },
   "en": {
-    "headline": "What Do Rice Grains Actually Contain?",
-    "body": "The rice grains we consume contain more than just starch; under a microscope, each grain harbors thousands of years of plant DNA, ancient minerals, and a unique crystalline structure. This makes them one of nature's most durable dry seeds."
+    "headline": "The Hidden Detail on Matchboxes",
+    "body": "A match head won't ignite on its own because the critical chemical it needs is hidden right on that rough strip on the side of the box. Both parts must come together for the magic of fire to happen."
   },
   "es": {
-    "headline": "¿Qué Contienen Realmente los Granos de Arroz?",
-    "body": "Los granos de arroz que consumimos contienen algo más que almidón; bajo el microscopio, cada grano alberga miles de años de ADN vegetal, minerales antiguos y una estructura cristalina única. Esto los convierte en una de las semillas secas más duraderas de la naturaleza."
+    "headline": "El detalle oculto en las cajas de cerillas",
+    "body": "La cabeza de un cerillo no se enciende sola porque el químico crítico que necesita está escondido en esa tira rugosa al costado de la caja. Ambas partes deben unirse para que ocurra la magia del fuego."
   },
   "ar": {
-    "headline": "ماذا تحتوي حبات الأرز حقاً؟",
-    "body": "حبات الأرز التي نستهلكها لا تحتوي فقط على النشا؛ فتحت المجهر، تحمل كل حبة آلاف السنين من الحمض النووي للنبات، والمعادن القديمة، وبنية بلورية فريدة. هذا ما يجعلها واحدة من أكثر بذور الطبيعة جفافاً ومتانة."
+    "headline": "التفاصيل الخفية على علب الكبريت",
+    "body": "رأس عود الكبريت لا يشتعل من تلقاء نفسه لأن المادة الكيميائية الأساسية مخفية على الشريط الخشن بجانب العلبة. يجب أن يجتمع الجزاءان لكي تحدث سحر النار."
   },
   "reel_hook": {
-    "tr": "Tabağındaki o küçük pirinç tanesinin içinde ne saklandığını biliyor musun?",
-    "en": "Do you know what is hidden inside that small grain of rice on your plate?",
-    "es": "¿Sabes qué se esconde dentro de ese pequeño grano de arroz en tu plato?",
-    "ar": "هل تعلم ما الذي تختبئ وراء حبة الأرز الصغيرة تلك في طبقك؟"
+    "tr": "Kibrit çöpü kutunun içindeyken neden kendi kendine yanmaz?",
+    "en": "Why doesn't a matchstick catch fire while inside the box?",
+    "es": "¿Por qué un cerillo no se enciende solo dentro de la caja?",
+    "ar": "لماذا لا يشتعل عود الكبريت داخل العلبة بنفسه؟"
   },
   "story_question": {
-    "tr": "Pirinç tanelerinin bu kadar uzun süre bozulmadan saklanabilmesinin asıl sebebi sence nedir?",
-    "en": "What do you think is the main reason rice grains can be stored for so long without spoiling?",
-    "es": "¿Cuál crees que es la principal razón por la que los granos de arroz se pueden almacenar durante tanto tiempo sin echarse a perder?",
-    "ar": "ما برأيك هو السبب الرئيسي وراء إمكانية تخزين حبات الأرز لفترة طويلة دون أن تفسد؟"
+    "tr": "Kibritin yanmasını sağlayan ana kimyasal nerededir?",
+    "en": "Where is the main chemical that makes a match burn?",
+    "es": "¿Dónde está el químico principal que hace arder un cerillo?",
+    "ar": "أين المادة الكيميائية الرئيسية التي تجعل الكبريت يحترق؟"
   },
   "story_options": [
-    "Düşük nem oranı",
-    "Özel kabuk yapısı",
-    "Kimyasal koruyucular"
+    "Kutunun kenarında",
+    "Çöpün baş kısmında",
+    "İkisinin birleşiminde"
   ],
   "hashtags": [
     "#FactBite",
-    "#pirinç",
     "#bilim",
-    "#doğa",
     "#ilginçbilgiler",
     "#keşfet",
-    "#tarım"
+    "#pratikbilgiler",
+    "#teknoloji"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que escuche esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.5
+    "overall": 9
   },
   "source": {
-    "name": "Botanic and Grain Structure Studies",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/rice-grain"
+    "name": "Chemistry World",
+    "url": "https://www.chemistryworld.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Pirinç Taneleri Aslında Ne İçeriyor?",
+  "_topic": "Kibrit Kutularındaki O Gizli Detay",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-19T12:32:16.848687+00:00",
+  "generated_at": "2026-09-19T14:32:40.479451+00:00",
   "topic_guard_days": 180
 }

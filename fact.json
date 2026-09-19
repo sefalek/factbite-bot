@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibritin Yanma Sırrı Aslında Nerede?",
-    "body": "Bir kibrit çöpünü kutunun herhangi bir yerine sürtseniz yanmaz. Çünkü alev almasını sağlayan kimyasalların bir kısmı çöpte, diğer kritik parça ise kutunun yanındaki o pürüzlü şerittedir."
+    "headline": "İnekler Ayakta Uyumaz, Peki Nasıl Dinlenir?",
+    "body": "Atların aksine inekler ayakta derin uykuya dalmaz. Gerçek anlamda dinlenmek, özellikle de rüya görmek için yere uzanmaları gerekir. Ancak hayatta kalma içgüdüleri nedeniyle uzun süre savunmasız şekilde yatarak kalamazlar; bu yüzden günün çoğunu oturarak veya geviş getirerek geçirirler."
   },
   "en": {
-    "headline": "Where Is the Secret to a Match's Flame?",
-    "body": "If you strike a match anywhere, it won't light. That's because the chemicals needed for a flame are split between the match head and the striking strip on the box."
+    "headline": "Cows Don't Sleep Standing Up, So How Do They Rest?",
+    "body": "Unlike horses, cows do not fall into a deep sleep while standing. To truly rest and even dream, they need to lie down. However, due to survival instincts, they cannot stay lying flat for too long, spending most of their day sitting or ruminating."
   },
   "es": {
-    "headline": "¿Dónde está el secreto de la cerilla?",
-    "body": "Si frotas una cerilla en cualquier parte, no se enciende. Los químicos necesarios están divididos entre la cabeza y la tira de la caja."
+    "headline": "Las vacas no duermen de pie, ¿cómo descansan?",
+    "body": "A diferencia de los caballos, las vacas no caen en un sueño profundo de pie. Para descansar de verdad y soñar, necesitan acostarse. Sin embargo, debido a sus instintos de supervivencia, no pueden pasar mucho tiempo tumbadas."
   },
   "ar": {
-    "headline": "أين يكمن سر اشتعال عود الكبريت؟",
-    "body": "إذا حكت عود الكبريت في أي مكان فلن يشتعل. المواد الكيميائية مقسمة بين رأس العود والشرائط الخشنة على العلبة."
+    "headline": "لا تننام البقر واقفة، فكيف تستريح؟",
+    "body": "على عكس الخيول، لا تنام البقر في نوم عميق وهي واقفة. للراحة الحقيقية والأحلام، تحتاج إلى الاستلقاء. ومع ذلك، وبسبب غريزة البقاء، لا يمكنها البقاء مستلقية لفترة طويلة جداً."
   },
   "reel_hook": {
-    "tr": "Kibrit çöpü neden her yere sürtüldüğünde yanmaz?",
-    "en": "Why won't a match light when struck anywhere?",
-    "es": "¿Por qué una cerilla no se enciende al frotarla en cualquier parte?",
-    "ar": "لماذا لا يشتعل عود الكبريت عند حكه في أي مكان؟"
+    "tr": "Atlar ayakta uyur, peki inekler? Cevap sandığınızdan çok farklı.",
+    "en": "Horses sleep standing up, but what about cows? The answer is very different than you think.",
+    "es": "Los caballos duermen de pie, ¿pero las vacas? La respuesta es muy diferente.",
+    "ar": "الخيول تنام واقفة، فماذا عن البقر؟ الإجابة مختلفة تماماً عما تعتقد."
   },
   "story_question": {
-    "tr": "Kibritin yanmasını sağlayan ana kimyasalın kutunun neresinde olduğunu biliyor musunuz?",
-    "en": "Do you know where the main chemical for lighting a match is located?",
-    "es": "¿Sabes dónde se encuentra el químico principal para encender una cerilla?",
-    "ar": "هل تعلم أين يوجد المادة الكيميائية الأساسية لإشعال الكبريت؟"
+    "tr": "İneklerin derin uyku ve rüya görebilmesi için ne yapması şarttır?",
+    "en": "What is required for cows to enter deep sleep and dream?",
+    "es": "¿Qué es necesario para que las vacas entren en sueño profundo y sueñen?",
+    "ar": "ما هو المطلوب لكي تدخل البقر في نوم عميق وتحلم؟"
   },
   "story_options": [
-    "Sadece kibrit başlığında",
-    "Kutunun yanındaki şeritte",
-    "Hem başlıkta hem şeritte"
+    "Ayakta uyumak",
+    "Yere uzanmak",
+    "Gözlerini açık tutmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#öğren",
-    "#tarih"
+    "#inekler",
+    "#hayvanlaralemi",
+    "#bilgi",
+    "#şaşırtıcıgerçekler",
+    "#doğa",
+    "#interaktif"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق!"
+    "tr": "Bunu bildikten sonra ineklere bakışınız değişecek mi? Yorumlara yazın!",
+    "en": "Will this change how you look at cows? Let us know in the comments!",
+    "es": "¿Esto cambiará tu forma de ver a las vacas? ¡Déjalo en los comentarios!",
+    "ar": "هل سيوغير هذا نظرتك للبقر؟ شاركنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "Chemistry World",
-    "url": "https://www.chemistryworld.com"
+    "name": "National Geographic & Livestock Behavior Studies",
+    "url": ""
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibritin Yanma Sırrı Aslında Nerede?",
+  "_topic": "İnekler Ayakta Uyumaz, Peki Nasıl Dinlenir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-18T22:50:13.339867+00:00",
+  "generated_at": "2026-09-19T09:31:16.055005+00:00",
   "topic_guard_days": 180
 }

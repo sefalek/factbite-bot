@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnekler Ayakta Uyumaz, Peki Nasıl Dinlenir?",
-    "body": "Atların aksine inekler ayakta derin uykuya dalmaz. Gerçek anlamda dinlenmek, özellikle de rüya görmek için yere uzanmaları gerekir. Ancak hayatta kalma içgüdüleri nedeniyle uzun süre savunmasız şekilde yatarak kalamazlar; bu yüzden günün çoğunu oturarak veya geviş getirerek geçirirler."
+    "headline": "Açık Havada Soluduğumuz Hava",
+    "body": "Nefes aldığımızda içimize çektiğimiz havanın büyük bir kısmının oksijen olduğunu düşünürüz. Ancak atmosferimizin yaklaşık yüzde yetmiş sekizi azottan oluşur. Oksijen ise yalnızca yüzde yirmibir civarındadır."
   },
   "en": {
-    "headline": "Cows Don't Sleep Standing Up, So How Do They Rest?",
-    "body": "Unlike horses, cows do not fall into a deep sleep while standing. To truly rest and even dream, they need to lie down. However, due to survival instincts, they cannot stay lying flat for too long, spending most of their day sitting or ruminating."
+    "headline": "The Air We Breathe Outdoors",
+    "body": "We tend to think the air we breathe in is mostly oxygen. However, about seventy-eight percent of our atmosphere is actually nitrogen, while oxygen makes up only around twenty-one percent."
   },
   "es": {
-    "headline": "Las vacas no duermen de pie, ¿cómo descansan?",
-    "body": "A diferencia de los caballos, las vacas no caen en un sueño profundo de pie. Para descansar de verdad y soñar, necesitan acostarse. Sin embargo, debido a sus instintos de supervivencia, no pueden pasar mucho tiempo tumbadas."
+    "headline": "El aire que respiramos al aire libre",
+    "body": "Solemos pensar que el aire que respiramos es principalmente oxígeno. Sin embargo, alrededor del setenta y ocho por ciento de nuestra atmósfera es nitrógeno, mientras que el oxígeno representa solo el veintiuno por ciento."
   },
   "ar": {
-    "headline": "لا تننام البقر واقفة، فكيف تستريح؟",
-    "body": "على عكس الخيول، لا تنام البقر في نوم عميق وهي واقفة. للراحة الحقيقية والأحلام، تحتاج إلى الاستلقاء. ومع ذلك، وبسبب غريزة البقاء، لا يمكنها البقاء مستلقية لفترة طويلة جداً."
+    "headline": "الهواء الذي نتنفسه في الهواء الطلق",
+    "body": "نظن غالبًا أن الهواء الذي نستنشقه مكون بالكامل من الأكسجين. لكن في الواقع، حوالي ثمانية وسبعين بالمائة من غلافنا الجوي يتكون من النيتروجين، بينما يمثل الأكسجين واحدا وعشرين بالمائة فقط."
   },
   "reel_hook": {
-    "tr": "Atlar ayakta uyur, peki inekler? Cevap sandığınızdan çok farklı.",
-    "en": "Horses sleep standing up, but what about cows? The answer is very different than you think.",
-    "es": "Los caballos duermen de pie, ¿pero las vacas? La respuesta es muy diferente.",
-    "ar": "الخيول تنام واقفة، فماذا عن البقر؟ الإجابة مختلفة تماماً عما تعتقد."
+    "tr": "Derోధ bir nefes al... İçine çektiğin şeyin aslında ne olduğunu biliyor musun?",
+    "en": "Take a deep breath... Do you actually know what you just inhaled?",
+    "es": "Respira hondo... ¿Sabes realmente lo que acabas de inhalar?",
+    "ar": "خذ نفسا عميقا... هل تعرف حقا ما الذي استنشقته للتو؟"
   },
   "story_question": {
-    "tr": "İneklerin derin uyku ve rüya görebilmesi için ne yapması şarttır?",
-    "en": "What is required for cows to enter deep sleep and dream?",
-    "es": "¿Qué es necesario para que las vacas entren en sueño profundo y sueñen?",
-    "ar": "ما هو المطلوب لكي تدخل البقر في نوم عميق وتحلم؟"
+    "tr": "Atmosferin en büyük kısmını oluşturan gaz hangisidir?",
+    "en": "Which gas makes up the largest part of our atmosphere?",
+    "es": "¿Qué gas compone la mayor parte de nuestra atmósfera?",
+    "ar": "ما هو الغاز الذي يشكل الجزء الأكبر من غلافنا الجوي؟"
   },
   "story_options": [
-    "Ayakta uyumak",
-    "Yere uzanmak",
-    "Gözlerini açık tutmak"
+    "Oksijen",
+    "Azot",
+    "Karbondioksit"
   ],
   "hashtags": [
     "#FactBite",
-    "#inekler",
-    "#hayvanlaralemi",
-    "#bilgi",
-    "#şaşırtıcıgerçekler",
-    "#doğa",
-    "#interaktif"
+    "#bilim",
+    "#atmoshere",
+    "#dogayibilgi",
+    "#foslav",
+    "#biliyormusunuz"
   ],
   "cta": {
-    "tr": "Bunu bildikten sonra ineklere bakışınız değişecek mi? Yorumlara yazın!",
-    "en": "Will this change how you look at cows? Let us know in the comments!",
-    "es": "¿Esto cambiará tu forma de ver a las vacas? ¡Déjalo en los comentarios!",
-    "ar": "هل سيوغير هذا نظرتك للبقر؟ شاركنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic & Livestock Behavior Studies",
-    "url": ""
+    "name": "NASA Earth Fact Sheet",
+    "url": "https://nssdc.gsfc.nasa.gov/planetary/factsheet/earthfact.html"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnekler Ayakta Uyumaz, Peki Nasıl Dinlenir?",
+  "_topic": "Açık Havada Soluduğumuz Hava",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-19T09:31:16.055005+00:00",
+  "generated_at": "2026-09-19T10:55:05.910928+00:00",
   "topic_guard_days": 180
 }

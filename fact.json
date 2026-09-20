@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Arıların Dans Eden Pusulası",
-    "body": "Bal arıları karanlık kovanın içinde birbirlerine sadece dans ederek yön tarif etmezler; bunu yaparken güneşin gökyüzündeki görünmeyen konumunu ve Dünya'nın manyetik alanını aynı anda hesaplarlar."
+    "headline": "Kuşların Gözleri Neden Düşer Gibi Bakar?",
+    "body": "Baykuşlar dışındaki birçok kuş türünün gözleri kafalarının içine adeta sabitlenmiştir. Göz bebeklerini sağa sola hareket ettiremezler. Bu yüzden etraflarını net bir şekilde görebilmek için bütün kafalarını çevirmek zorunda kalırlar. Yani kafalarını garip açılarla döndürdüklerinde aslında sadece etraflarına bakıyorlar."
   },
   "en": {
-    "headline": "The Dancing Compass of Bees",
-    "body": "Honeybees don't just give directions by dancing inside the dark hive; while doing so, they calculate the invisible position of the sun in the sky and Earth's magnetic field simultaneously."
+    "headline": "Why Birds Have Fixed Eyes",
+    "body": "Unlike owls, many bird species have eyes that are practically fixed inside their skulls. They cannot move their eyeballs from side to side. To get a clear view of their surroundings, they have to turn their entire head. So when they tilt their heads at strange angles, they are simply looking around."
   },
   "es": {
-    "headline": "La brújula danzante de las abejas",
-    "body": "Las abejas melíferas no sólo dan direcciones bailando dentro de la colmena oscura; al hacerlo, calculan simultáneamente la posición invisible del sol y el campo magnético de la Tierra."
+    "headline": "Por qué los ojos de las aves están fijos",
+    "body": "A diferencia de los búhos, los ojos de muchas especies de aves están prácticamente fijos en sus cráneos. No pueden mover los globos oculares de lado a lado. Para tener una visión clara de su entorno, tienen que girar toda la cabeza. Así que cuando inclinan la cabeza en ángulos extraños, simplemente están mirando a su alrededor."
   },
   "ar": {
-    "headline": "بوصلة النحل الراقصة",
-    "body": "لا يقدم النحل الاتجاهات بالرقص داخل الخلية المظلمة فحسب؛ بل يحسبون في نفس الوقت الموقع غير المرئي للشمس والمجال المغناطيسي للأرض."
+    "headline": "لماذا تمتلك الطيور عيوناً ثابتة",
+    "body": "على عكس البومة، فإن عيون العديد من أنواع الطيور ثابتة تقريباً داخل جمجمتها. لا يمكنها تحريك مقل عيونها من جانب إلى آخر. للحصول على رؤية واضحة لمحيطها، يجب عليها إدارة رأسها بالكامل. لذا عندما تميل رؤوسها بزوايا غريبة، فهي ببساطة تتفقد ما حولها."
   },
   "reel_hook": {
-    "tr": "Karanlık bir kovanın içinde, arılar dışarıdaki dünyayı nasıl bu kadar kusursuz haritalandırır?",
-    "en": "Inside a dark hive, how do bees map the outside world so flawlessly?",
-    "es": "Dentro de una colmena oscura, ¿cómo mapean las abejas el mundo exterior?",
-    "ar": "داخل الخلية المظلمة، كيف يرسم النحل خريطة العالم الخارجي بهذه الدقة؟"
+    "tr": "Kuşların kafalarını neden o kadar garip şekillerde döndürdüğünü biliyor musun?",
+    "en": "Do you know why birds turn their heads in such strange ways?",
+    "es": "¿Sabes por qué las aves giran la cabeza de formas tan extrañas?",
+    "ar": "هل تعلم لماذا تحرك الطيور رؤوسها بتلك الطرق الغريبة؟"
   },
   "story_question": {
-    "tr": "Bal arıları yön bulmak için kovan içinde ne yapar?",
-    "en": "What do honeybees do inside the hive to find direction?",
-    "es": "¿Qué hacen las abejas melíferas dentro de la colmena para orientarse?",
-    "ar": "ماذا يفعل النحل داخل الخلية لإيجاد الاتجاه؟"
+    "tr": "Baykuşlar dışındaki kuşlar gözlerini sağa sola hareket ettirebilir mi?",
+    "en": "Can birds other than owls move their eyes from side to side?",
+    "es": "¿Pueden las aves que no son búhos mover los ojos de lado a lado?",
+    "ar": "هل يمكن للطيور غير البومة تحريك عيونها من جانب لآخر؟"
   },
   "story_options": [
-    "Özel bir dans ederler",
-    "Koku bırakırlar",
-    "Ses dalgası yayarlar"
+    "Evet, tıpkı bizim gibi",
+    "Hayır, gözleri sabittir",
+    "Sadece uçarken hareket eder"
   ],
   "hashtags": [
     "#FactBite",
+    "#kuşlar",
     "#bilim",
-    "#arilar",
-    "#dogal",
-    "#ilgincbilgiler",
-    "#kesfet"
+    "#doğa",
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 9,
+    "shareability": 8,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic & Animal Behavior Studies",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Ornithology Science",
+    "url": "https://www.audubon.org/news/why-do-birds-bob-their-heads"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Arıların Dans Eden Pusulası",
+  "_topic": "Kuşların Gözleri Neden Düşer Gibi Bakar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-20T11:20:12.924343+00:00",
+  "generated_at": "2026-09-20T13:04:27.872319+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedi Bıyıkları Sadece Tüy Değil, Birer Cetvel Mi?",
-    "body": "Kedilerin yüzlerindeki o uzun bıyıklar sadece sevimli bir detay değil. Onlar, vücut genişliklerini kusursuzca ölçmelerini sağlayan inanılmaz hassas birer mesafe ölçer. Kedi bıyıklarının kökleri sinir uçlarıyla doludur; öyle ki en ufak bir hava akımını bile hissedebilirler."
+    "headline": "Yıldızların Aslında Bize Gönderdiği O Garip Ses",
+    "body": "Geceleri gökyüzüne baktığınızda her şey sessiz görünür, değil mi? Aslında uzay tam bir sessizlik çölü değil. Yıldızlar ve galaksiler arası gaz bulutları, insan kulağının duyamayacağı frekanslarda devasa elektromanyetik dalgalar yayar. Eğer kulaklarımız bu frekansları duyabilecek kadar gelişmiş olsaydı, gece gökyüzü sürekli uğuldayan dev bir okyanus gibi ses çıkarırdı."
   },
   "en": {
-    "headline": "Are Cat Whiskers More Than Just Hair?",
-    "body": "Those long whiskers on a cat's face aren't just a cute detail. They act as incredibly sensitive distance measurers, allowing cats to flawlessly gauge their body width. The roots of cat whiskers are packed with nerve endings, enabling them to sense even the slightest airflow."
+    "headline": "The Strange Sound Stars Are Actually Sending Us",
+    "body": "When you look at the night sky, everything seems quiet, right? Space is actually not a desert of silence. Stars and interstellar gas clouds emit massive electromagnetic waves at frequencies human ears cannot hear. If our ears were evolved enough to catch these frequencies, the night sky would sound like a constantly roaring giant ocean."
   },
   "es": {
-    "headline": "¿Son los bigotes de los gatos más que simples pelos?",
-    "body": "Esos largos bigotes en la cara de un gato no son solo un detalle tierno. Actúan como medidores de distancia increíblemente sensibles, permitiéndoles medir el ancho de su cuerpo a la perfección. La base de los bigotes está llena de terminaciones nerviosas que detectan hasta la brisa más leve."
+    "headline": "El extrañísimo sonido que las estrellas nos envían",
+    "body": "Cuando miras el cielo nocturno, todo parece silencioso, ¿verdad? El espacio en realidad no es un desierto de silencio. Las estrellas y las nubes de gas interestelar emiten ondas electromagnéticas masivas a frecuencias que los oídos humanos no pueden escuchar. Si nuestros oídos hubieran evolucionado para captar estas frecuencias, el cielo nocturno sonaría como un océano gigante rugiendo constantemente."
   },
   "ar": {
-    "headline": "هل شوارب القطط مجرد شعر أم مساطر قياس؟",
-    "body": "تلك الشعيرات الطويلة على وجه القط لطيفة فحسب، بل تعمل كمقاييس مسافة حساسة للغاية تسمح لها بتقدير عرض أجسامها بدقة. جذور الشوارب مليئة النهايات العصبية بحيث يمكنها استشعار حتى أبسط تدفق للهواء."
+    "headline": "الصوت الغريب الذي ترسله لنا النجوم بالفعل",
+    "body": "عندما تنظر إلى سماء الليل، يبدو كل شيء هادئاً، أليس كذلك؟ الفضاء ليس في الواقع صحراء من الصمت. تطلق النجوم وسحب الغاز بين النجوم موجات كهرومغناطيسية هائلة بترددات لا تستطيع الأذن البشرية سماعها. لو تطورت آذاننا بما يكفي لالتقاط هذه الترددات لكانت سماء الليل تبدو وكأنها محيط عملاق يزأر باستمرار."
   },
   "reel_hook": {
-    "tr": "Kedinizin bıyıklarına her baktığınızda aslında ne taşıdığını biliyor musunuz?",
-    "en": "Do you know what your cat is actually carrying every time you look at its whiskers?",
-    "es": "¿Sabes lo que tu gato realmente lleva puesto cada vez que miras sus bigotes?",
-    "ar": "هل تعلم ما تحمله قطتك حقاً في كل مرة تنظر فيها إلى شاربيها؟"
+    "tr": "Gökyüzüne baktığınızda duyduğunuz o derin sessizlik tamamen bir illüzyon.",
+    "en": "That deep silence you hear when you look at the sky is a complete illusion.",
+    "es": "Ese profundo silencio que escuchas cuando miras al cielo es una ilusión completa.",
+    "ar": "ذاك الصمت العملاق الذي تسمعه عندما تنظر إلى السماء هو مجرد وهم كامل."
   },
   "story_question": {
-    "tr": "Kedilerin bıyıkları kesilirse ne olur?",
-    "en": "What happens if a cat's whiskers are cut?",
-    "es": "¿Qué pasa si se cortan los bigotes a un gato?",
-    "ar": "ماذا يحدث إذا قُصّت شوارب القطط؟"
+    "tr": "Eğer uzaydaki bu sesleri duyabilseydiniz, gece gökyüzü hangi doğa olayının sesini andırırdı?",
+    "en": "If you could hear these sounds in space, what natural phenomenon would the night sky sound like?",
+    "es": "Si pudieras escuchar estos sonidos en el espacio, ¿a qué fenómeno natural se parecería el cielo nocturno?",
+    "ar": "لو كان بإمكانك سماع هذه الأصوات في الفضاء، فأي ظاهرة طبيعية تشبهها سماء الليل؟"
   },
   "story_options": [
-    "Denge ve yön duygusunu kaybederler",
-    "Hiçbir şey olmaz, yeniden uzar",
-    "Sadece daha sessiz yürürler"
+    "Devasa bir okyanus dalgası",
+    "Şiddetli bir fırtına",
+    "Uzak bir şelale"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#bilgi",
-    "#hayvanlar",
-    "#ilginç",
-    "#doğa",
-    "#bilim"
+    "#uzay",
+    "#bilim",
+    "#astroloji",
+    "#gerçekler",
+    "#keşfet",
+    "#merak"
   ],
   "cta": {
-    "tr": "Bunu bilen bir kedi sahibine gönder!",
-    "en": "Send this to a cat owner who needs to know!",
-    "es": "¡Envíaselo a alguien con gatos que necesite saber esto!",
-    "ar": "أرسل هذا لصاحب قطة يجب أن يعرف ذلك!"
+    "tr": "Bu tarz büyüleyici bilim gerçekleri için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more fascinating science facts!",
+    "es": "¡No olvides seguirnos para más datos científicos fascinantes!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق العلمية الرائعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.2
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 9
   },
   "source": {
-    "name": "Cat Behavior and Anatomy Studies",
-    "url": "https://www.petmd.com/cat/behavior/evr_ct_why_do_cats_have_whiskers"
+    "name": "NASA Science & Space Acoustics",
+    "url": "https://science.nasa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedi Bıyıkları Sadece Tüy Değil, Birer Cetvel Mi?",
+  "_topic": "Yıldızların Aslında Bize Gönderdiği O Garip Ses",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-20T16:42:30.999460+00:00",
+  "generated_at": "2026-09-20T19:22:59.688170+00:00",
   "topic_guard_days": 180
 }

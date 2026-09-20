@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Domatesler Aslında Sebze Değil",
-    "body": "Mutfağımızda sebze olarak bildiğimiz domates, botanik dünyasına göre aslında büyük bir meyvedir. Çiçekten gelişen ve çekirdek barındıran yapısı sayesinde, teknik olarak bir meyve kategorisinde yer alır."
+    "headline": "Kurbağalar Su İçmez, Derisinden Emer",
+    "body": "Bir kurbağanın susuzluktan öldüğünü hiç gördünüz mü? Göremezsiniz çünkü kurbağalar ağızlarıyla su içmezler. Karın bölgesindeki özel bir deri alanı, sudan ve nemden doğrudan suyu vücutlarına çekmelerini sağlar. Bu bölgeye 'içme yaması' denir ve adeta bir sünger gibi çalışır."
   },
   "en": {
-    "headline": "Tomatoes Are Actually Fruits",
-    "body": "Often treated as vegetables in the kitchen, tomatoes are actually fruits according to botanical science. Because they develop from the flower and contain seeds, they technically belong in the fruit category."
+    "headline": "Frogs Don't Drink, They Absorb Water Through Their Skin",
+    "body": "Have you ever seen a frog die of thirst? You won't, because frogs don't drink water with their mouths. A specialized area of skin on their belly allows them to draw water directly into their bodies from moisture and puddles. This area is called the 'drinking patch' and works just like a sponge."
   },
   "es": {
-    "headline": "Los tomates son en realidad frutas",
-    "body": "Aunque en la cocina los tratamos como verduras, los tomates son en realidad frutas según la botánica. Como se desarrollan a partir de la flor y contienen semillas, técnicamente pertenecen a la categoría de las frutas."
+    "headline": "Las ranas no beben, absorben el agua por su piel",
+    "body": "¿Alguna vez has visto a una rana morir de sed? No lo verás porque las ranas no beben agua por la boca. Un área especializada de piel en su vientre les permite absorber el agua directamente a través de la humedad. Esta zona se conoce como el 'parche de bebida' y funciona como una esponja."
   },
   "ar": {
-    "headline": "الطماطم في الواقع ليست خضروات",
-    "body": "على الرغم من أننا نستخدمها كخضروات في المطبخ، إلا أن الطماطم تُعد من الفواكه وفقاً لعلم النبات. ونظراً لكونها تنمو من زهرة النبتة وتحتوي على بدر، فهي تنتمي تقنياً لفئة الفواكه."
+    "headline": "الضفادع لا تشرب، بل تمتص الماء من خلال جلدها",
+    "body": "هل رأيت من قبل ضفدعاً يموت عطشاً؟ لن ترى ذلك لأن الضفادع لا تشرب الماء بأفواهها. توجد منطقة مخصصة من الجلد على بطنها تسمح لها بامتصاص الماء مباشرة من الرطوبة والمياه المحيطة، وتعمل هذه المنطقة تماماً مثل الإسفنجة."
   },
   "reel_hook": {
-    "tr": "Salataya doğradığın o şey, aslında bildiğin şey değil.",
-    "en": "That thing you just chopped for your salad isn't what you think.",
-    "es": "Eso que acabas de picar para tu ensalada no es lo que crees.",
-    "ar": "ذلك الشيء الذي قطعته للسلطة للتو ليس كما تعتقد."
+    "tr": "Kurbağalar hayatları boyunca tek bir damla bile su içmez, peki nasıl hayatta kalıyorlar?",
+    "en": "Frogs never drink a single drop of water in their lives, so how do they survive?",
+    "es": "Las ranas nunca beben una sola gota de agua en su vida, ¿cómo sobreviven?",
+    "ar": "الضفادع لا تشرب قطرة ماء واحدة طوال حياتها، فكيف تبقي على قيد الحياة؟"
   },
   "story_question": {
-    "tr": "Mutfakta sebze sandığımız domates botanik olarak nedir?",
-    "en": "What is a tomato botanically speaking?",
-    "en_es": "¿Qué es el tomate botánicamente hablando?",
-    "ar": "ما هي الطماطم من الناحية النباتية؟"
+    "tr": "Kurbağalar suyu vücutlarının hangi bölgesinden emer?",
+    "en": "Through which part of their body do frogs absorb water?",
+    "es": "¿A través de qué parte de su cuerpo absorben el agua las ranas?",
+    "ar": "من أي جزء من أجسامها تمتص الضفادع الماء؟"
   },
   "story_options": [
-    "Meyve",
-    "Kök",
-    "Yosun"
+    "Karın bölgesindeki deri",
+    "Ayak tabanları",
+    "Sırtlerindeki gözenekler"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#domates",
-    "#botanik",
-    "#İlginçBilgiler",
+    "#kurbağa",
     "#doğa",
-    "#bilim"
+    "#bilim",
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who needs to hear this!",
-    "es": "¡Envíaselo a un amigo que necesite saber esto!",
-    "ar": "أرسل هذا لصديق يحتاج لمعرفة ذلك!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذه المعلومة لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
+    "surprise": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Encyclopædia Britannica",
-    "url": "https://www.britannica.com/story/is-a-tomato-a-fruit-or-a-vegetable"
+    "name": "San Diego Zoo Wildlife Alliance",
+    "url": "https://animals.sandiegozoo.org/animals/frog"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Domatesler Aslında Sebze Değil",
+  "_topic": "Kurbağalar Su İçmez, Derisinden Emer",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-20T21:11:45.710179+00:00",
+  "generated_at": "2026-09-20T22:43:16.999256+00:00",
   "topic_guard_days": 180
 }

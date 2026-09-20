@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Salyangozlar Neden Üç Yıl Boyunca Uyuyabilir?",
-    "body": "Kuraklık veya aşırı soğuk bastığında salyangozlar dış dünyaya kapılarını kapatır ve kabuklarının içine çekilerek yıllarca süren derin bir uykuya dalabilirler. Metabolizmalarını neredeyse tamamen yavaşlatarak hayatta kalırlar."
+    "headline": "Kedi Bıyıkları Sadece Tüy Değil, Birer Cetvel Mi?",
+    "body": "Kedilerin yüzlerindeki o uzun bıyıklar sadece sevimli bir detay değil. Onlar, vücut genişliklerini kusursuzca ölçmelerini sağlayan inanılmaz hassas birer mesafe ölçer. Kedi bıyıklarının kökleri sinir uçlarıyla doludur; öyle ki en ufak bir hava akımını bile hissedebilirler."
   },
   "en": {
-    "headline": "Why Can Snails Sleep For Up To Three Years?",
-    "body": "When drought or extreme cold strikes, snails seal themselves off from the outside world and can slip into a deep sleep lasting for years inside their shells, slowing their metabolism to a near halt to survive."
+    "headline": "Are Cat Whiskers More Than Just Hair?",
+    "body": "Those long whiskers on a cat's face aren't just a cute detail. They act as incredibly sensitive distance measurers, allowing cats to flawlessly gauge their body width. The roots of cat whiskers are packed with nerve endings, enabling them to sense even the slightest airflow."
   },
   "es": {
-    "headline": "¿Por qué los caracoles pueden dormir hasta tres años?",
-    "body": "Cuando llega la sequía o el frío extremo, los caracoles se cierran al mundo exterior y pueden sumir en un sueño profundo que dura años dentro de sus caparazones, ralentizando su metabolismo casi al límite para sobrevivir."
+    "headline": "¿Son los bigotes de los gatos más que simples pelos?",
+    "body": "Esos largos bigotes en la cara de un gato no son solo un detalle tierno. Actúan como medidores de distancia increíblemente sensibles, permitiéndoles medir el ancho de su cuerpo a la perfección. La base de los bigotes está llena de terminaciones nerviosas que detectan hasta la brisa más leve."
   },
   "ar": {
-    "headline": "لماذا تستطيع الحلزونات النوم لمدة تصل إلى ثلاث سنوات؟",
-    "body": "عندما يحل الجفاف أو البرد القارس، تغلق الحلزونات أبوابها على العالم الخارجي ويمكنها الغرق في نوم عميق لسنوات داخل أصدافها، مبطئة عمليات الأيض لديها لتكاد تتوقف لكي تنجو."
+    "headline": "هل شوارب القطط مجرد شعر أم مساطر قياس؟",
+    "body": "تلك الشعيرات الطويلة على وجه القط لطيفة فحسب، بل تعمل كمقاييس مسافة حساسة للغاية تسمح لها بتقدير عرض أجسامها بدقة. جذور الشوارب مليئة النهايات العصبية بحيث يمكنها استشعار حتى أبسط تدفق للهواء."
   },
   "reel_hook": {
-    "tr": "Biliyor musunuz, bazı canlılar tam üç yıl boyunca kesintisiz uyuyabilir!",
-    "en": "Did you know some creatures can sleep continuously for a full three years?",
-    "es": "¿Sabías que algunas criaturas pueden dormir sin parar durante tres años enteros?",
-    "ar": "هل تعلم أن بعض الكائنات يمكنها النوم بشكل متواصل لمدة ثلاث سنوات كاملة؟"
+    "tr": "Kedinizin bıyıklarına her baktığınızda aslında ne taşıdığını biliyor musunuz?",
+    "en": "Do you know what your cat is actually carrying every time you look at its whiskers?",
+    "es": "¿Sabes lo que tu gato realmente lleva puesto cada vez que miras sus bigotes?",
+    "ar": "هل تعلم ما تحمله قطتك حقاً في كل مرة تنظر فيها إلى شاربيها؟"
   },
   "story_question": {
-    "tr": "Salyangozların bu uzun uykusu sırasında hayatta kalmasını sağlayan temel durum nedir?",
-    "en": "What is the main reason that allows snails to survive during this long sleep?",
-    "es": "¿Cuál es la razón principal que permite a los caracoles sobrevivir durante este largo sueño?",
-    "ar": "ما هو السبب الرئيسي الذي يسمح للحلزونات بالبقاء على قيد الحياة خلال هذا النوم الطويل؟"
+    "tr": "Kedilerin bıyıkları kesilirse ne olur?",
+    "en": "What happens if a cat's whiskers are cut?",
+    "es": "¿Qué pasa si se cortan los bigotes a un gato?",
+    "ar": "ماذا يحدث إذا قُصّت شوارب القطط؟"
   },
   "story_options": [
-    "Metabolizmalarını neredeyse tamamen yavaşlatmaları",
-    "Sürekli rüya görerek enerji depolamaları",
-    "Yeraltında gizli bir besin deposu bulmaları"
+    "Denge ve yön duygusunu kaybederler",
+    "Hiçbir şey olmaz, yeniden uzar",
+    "Sadece daha sessiz yürürler"
   ],
   "hashtags": [
     "#FactBite",
-    "#salyangoz",
+    "#kedi",
+    "#bilgi",
+    "#hayvanlar",
+    "#ilginç",
     "#doğa",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlaralemi",
-    "#biyoloji"
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunu bilen bir kedi sahibine gönder!",
+    "en": "Send this to a cat owner who needs to know!",
+    "es": "¡Envíaselo a alguien con gatos que necesite saber esto!",
+    "ar": "أرسل هذا لصاحب قطة يجب أن يعرف ذلك!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Cat Behavior and Anatomy Studies",
+    "url": "https://www.petmd.com/cat/behavior/evr_ct_why_do_cats_have_whiskers"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Salyangozlar Neden Üç Yıl Boyunca Uyuyabilir?",
+  "_topic": "Kedi Bıyıkları Sadece Tüy Değil, Birer Cetvel Mi?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-20T14:46:01.556674+00:00",
+  "generated_at": "2026-09-20T16:42:30.999460+00:00",
   "topic_guard_days": 180
 }

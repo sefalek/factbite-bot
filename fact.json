@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözleri Neden Düşer Gibi Bakar?",
-    "body": "Baykuşlar dışındaki birçok kuş türünün gözleri kafalarının içine adeta sabitlenmiştir. Göz bebeklerini sağa sola hareket ettiremezler. Bu yüzden etraflarını net bir şekilde görebilmek için bütün kafalarını çevirmek zorunda kalırlar. Yani kafalarını garip açılarla döndürdüklerinde aslında sadece etraflarına bakıyorlar."
+    "headline": "Salyangozlar Neden Üç Yıl Boyunca Uyuyabilir?",
+    "body": "Kuraklık veya aşırı soğuk bastığında salyangozlar dış dünyaya kapılarını kapatır ve kabuklarının içine çekilerek yıllarca süren derin bir uykuya dalabilirler. Metabolizmalarını neredeyse tamamen yavaşlatarak hayatta kalırlar."
   },
   "en": {
-    "headline": "Why Birds Have Fixed Eyes",
-    "body": "Unlike owls, many bird species have eyes that are practically fixed inside their skulls. They cannot move their eyeballs from side to side. To get a clear view of their surroundings, they have to turn their entire head. So when they tilt their heads at strange angles, they are simply looking around."
+    "headline": "Why Can Snails Sleep For Up To Three Years?",
+    "body": "When drought or extreme cold strikes, snails seal themselves off from the outside world and can slip into a deep sleep lasting for years inside their shells, slowing their metabolism to a near halt to survive."
   },
   "es": {
-    "headline": "Por qué los ojos de las aves están fijos",
-    "body": "A diferencia de los búhos, los ojos de muchas especies de aves están prácticamente fijos en sus cráneos. No pueden mover los globos oculares de lado a lado. Para tener una visión clara de su entorno, tienen que girar toda la cabeza. Así que cuando inclinan la cabeza en ángulos extraños, simplemente están mirando a su alrededor."
+    "headline": "¿Por qué los caracoles pueden dormir hasta tres años?",
+    "body": "Cuando llega la sequía o el frío extremo, los caracoles se cierran al mundo exterior y pueden sumir en un sueño profundo que dura años dentro de sus caparazones, ralentizando su metabolismo casi al límite para sobrevivir."
   },
   "ar": {
-    "headline": "لماذا تمتلك الطيور عيوناً ثابتة",
-    "body": "على عكس البومة، فإن عيون العديد من أنواع الطيور ثابتة تقريباً داخل جمجمتها. لا يمكنها تحريك مقل عيونها من جانب إلى آخر. للحصول على رؤية واضحة لمحيطها، يجب عليها إدارة رأسها بالكامل. لذا عندما تميل رؤوسها بزوايا غريبة، فهي ببساطة تتفقد ما حولها."
+    "headline": "لماذا تستطيع الحلزونات النوم لمدة تصل إلى ثلاث سنوات؟",
+    "body": "عندما يحل الجفاف أو البرد القارس، تغلق الحلزونات أبوابها على العالم الخارجي ويمكنها الغرق في نوم عميق لسنوات داخل أصدافها، مبطئة عمليات الأيض لديها لتكاد تتوقف لكي تنجو."
   },
   "reel_hook": {
-    "tr": "Kuşların kafalarını neden o kadar garip şekillerde döndürdüğünü biliyor musun?",
-    "en": "Do you know why birds turn their heads in such strange ways?",
-    "es": "¿Sabes por qué las aves giran la cabeza de formas tan extrañas?",
-    "ar": "هل تعلم لماذا تحرك الطيور رؤوسها بتلك الطرق الغريبة؟"
+    "tr": "Biliyor musunuz, bazı canlılar tam üç yıl boyunca kesintisiz uyuyabilir!",
+    "en": "Did you know some creatures can sleep continuously for a full three years?",
+    "es": "¿Sabías que algunas criaturas pueden dormir sin parar durante tres años enteros?",
+    "ar": "هل تعلم أن بعض الكائنات يمكنها النوم بشكل متواصل لمدة ثلاث سنوات كاملة؟"
   },
   "story_question": {
-    "tr": "Baykuşlar dışındaki kuşlar gözlerini sağa sola hareket ettirebilir mi?",
-    "en": "Can birds other than owls move their eyes from side to side?",
-    "es": "¿Pueden las aves que no son búhos mover los ojos de lado a lado?",
-    "ar": "هل يمكن للطيور غير البومة تحريك عيونها من جانب لآخر؟"
+    "tr": "Salyangozların bu uzun uykusu sırasında hayatta kalmasını sağlayan temel durum nedir?",
+    "en": "What is the main reason that allows snails to survive during this long sleep?",
+    "es": "¿Cuál es la razón principal que permite a los caracoles sobrevivir durante este largo sueño?",
+    "ar": "ما هو السبب الرئيسي الذي يسمح للحلزونات بالبقاء على قيد الحياة خلال هذا النوم الطويل؟"
   },
   "story_options": [
-    "Evet, tıpkı bizim gibi",
-    "Hayır, gözleri sabittir",
-    "Sadece uçarken hareket eder"
+    "Metabolizmalarını neredeyse tamamen yavaşlatmaları",
+    "Sürekli rüya görerek enerji depolamaları",
+    "Yeraltında gizli bir besin deposu bulmaları"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#bilim",
+    "#salyangoz",
     "#doğa",
+    "#bilim",
     "#ilginçbilgiler",
-    "#keşfet",
+    "#hayvanlaralemi",
     "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology Science",
-    "url": "https://www.audubon.org/news/why-do-birds-bob-their-heads"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözleri Neden Düşer Gibi Bakar?",
+  "_topic": "Salyangozlar Neden Üç Yıl Boyunca Uyuyabilir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-20T13:04:27.872319+00:00",
+  "generated_at": "2026-09-20T14:46:01.556674+00:00",
   "topic_guard_days": 180
 }

@@ -1,57 +1,57 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kangurular Nasıl Yüzer?",
-    "body": "Çoğu insan kanguruların karada hoplayıp zıpladığını bilir ama suyla karşılaştıklarında inanılmaz yüzücülere dönüşürler. Tehlikeden kaçmak için göllere ve nehirlere atlayan bu canlılar, güçlü arka bacaklarıyla adeta suda kürek çeker gibi ilerler ve hatta gerektiğinde uzun süre su altında kalabilirler."
+    "headline": "Devlerin Kalbi Ne Kadar Büyüktür?",
+    "body": "Mavi balinaların kalbi yaklaşık olarak küçük bir araba büyüklüğündedir ve tek bir atışı okyanusun derinliklerinden bile duyulabilir."
   },
   "en": {
-    "headline": "How Kangaroos Swim",
-    "body": "Most people know kangaroos hop on land, but when faced with water, they turn into incredible swimmers. Leaping into lakes and rivers to escape danger, they use their powerful hind legs to paddle and can even stay submerged for long periods when necessary."
+    "headline": "How Big Is a Giant's Heart?",
+    "body": "The heart of a blue whale is about the size of a small car, and a single beat can be heard from deep within the ocean."
   },
   "es": {
-    "headline": "Cómo nadan los canguros",
-    "body": "La mayoría sabe que los canguros saltan en tierra, pero al enfrentar el agua se convierten en nadadores increíbles. Saltando a lagos y ríos para escapar del peligro, usan sus poderosas patas traseras para remar y pueden permanecer sumergidos por largos períodos."
+    "headline": "¿Qué tan grande es el corazón de un gigante?",
+    "body": "El corazón de una ballena azul es aproximadamente del tamaño de un coche pequeño, y un solo latido se puede escuchar desde lo más profundo del océano."
   },
   "ar": {
-    "headline": "كيف تسبح الكنغر",
-    "body": "يعظم الناس يعرفون أن الكنغر يقفز على اليابسة، لكن عندما يواجهون الماء يتحولون إلى سباحين مذهلين. بالقفز في البحيرات والأنهار للهرب من الخطر، يستخدمون أرجلهم الخلفية القوية للتجديف ويمكنهم البقاء مغمورين لفترات طويلة عند الضرورة."
+    "headline": "ما مدى حجم قلب العملاق؟",
+    "body": "قلب الحوت الأزرق بحجم سيارة صغيرة تقريباً، ويمكن سماع نبضة واحدة منه من أعماق المحيط."
   },
   "reel_hook": {
-    "tr": "Kanguruların suyla ilgili bu gizli yeteneğini biliyor muydunuz?",
-    "en": "Did you know this hidden water skill of kangaroos?",
-    "es": "¿Conocías esta habilidad oculta de los canguros en el agua?",
-    "ar": "هل كنت تعرف هذه المهارة الخفية للكنغر في الماء؟"
+    "tr": "Bir araba büyüklüğünde kalbe sahip bir canlı hayal edebiliyor musunuz?",
+    "en": "Can you imagine a creature with a heart the size of a car?",
+    "es": "¿Puedes imaginar una criatura con un corazón del tamaño de un coche?",
+    "ar": "هل يمكنك تخيل كائن بحجم سيارة لقلبه؟"
   },
   "story_question": {
-    "tr": "Kanguruların tehlikeden kaçmak için yaptığı bu şaşırtıcı hareket nedir?",
-    "en": "What is this surprising move kangaroos make to escape danger?",
-    "es": "¿Cuál es este movimiento sorprendente que hacen los canguros para escapar?",
-    "ar": "ما هي هذه الحركة المدهشة التي يقوم بها الكنغر للهروب من الخطر؟"
+    "tr": "Mavi balinanın kalbi yaklaşık ne kadar ağırlıktadır?",
+    "en": "Approximately how much does a blue whale's heart weigh?",
+    "es": "¿Aproximadamente cuánto pesa el corazón de una ballena azul?",
+    "ar": "تقريبا كم يبلغ وزن قلب الحوت الأزرق؟"
   },
   "story_options": [
-    "Su altında saklanmak",
-    "Mükemmel birer yüzücü olmak",
-    "Ağaca tırmanmak"
+    "180 kilo",
+    "450 kilo",
+    "1 ton"
   ],
   "hashtags": [
     "#FactBite",
-    "#kanguru",
+    "#bilim",
     "#doğa",
-    "#hayvanlarbilgi",
-    "#bilimselgerçekler",
-    "#vahşiyaşam"
+    "#balina",
+    "#okyanus",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more surprising nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos sorprendentes de la naturaleza!",
-    "ar": "لا تنس متابعتنا للمزيد من أسرار الطبيعة المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 9,
+    "shareability": 8,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
@@ -60,9 +60,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kangurular Nasıl Yüzer?",
+  "_topic": "Devlerin Kalbi Ne Kadar Büyüktür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-21T12:46:39.052604+00:00",
+  "generated_at": "2026-09-21T15:10:45.810284+00:00",
   "topic_guard_days": 180
 }

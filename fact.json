@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Flamingolar Neden Pembe Renktedir?",
-    "body": "Flamingolar aslında beyaz tüylerle doğarlar! Onlara o ikonik pembe rengini veren şey, yedikleri besinlerin içindeki özel pigmentlerdir. Karides ve alglerdeki bu maddeler tüylerinde birikir."
+    "headline": "Örümceklerin Nefes Alma Sırrı",
+    "body": "Örümceklerin burnu ya da akciğeri olduğunu mu sanıyorsun? Aslında karınlarının içinde 'kitap akciğer' adı verilen, kitaptan sayfalar gibi üst üste dizilmiş özel yapraklar bulunur. Kanları bu yaprakların arasından geçerken havadaki oksijeni doğrudan emer."
   },
   "en": {
-    "headline": "Why Are Flamingos Pink?",
-    "body": "Flamingos are actually born with white feathers! What gives them that iconic pink color are special pigments in the food they eat. These compounds from shrimp and algae build up in their feathers."
+    "headline": "The Secret of How Spiders Breathe",
+    "body": "Think spiders have noses or lungs like ours? Inside their abdomens, they actually have structures called 'book lungs'—thin, stacked tissue layers that resemble pages in a book, absorbing oxygen directly as air passes through."
   },
   "es": {
-    "headline": "Por qué los flamencos son rosados",
-    "body": "¡Los flamencos nacen en realidad con plumas blancas! Lo que les da ese icónico color rosado son pigmentos especiales en los alimentos que consumen. Estos compuestos de camarones y algas se acumulan en sus plumas."
+    "headline": "El secreto de cómo respiran las arañas",
+    "body": "¿Crees que las arañas tienen nariz o pulmones normales? En su abdomen tienen estructuras llamadas 'pulmones en libro', capas de tejido apiladas como páginas que absorben oxígeno directamente del aire."
   },
   "ar": {
-    "headline": "لماذا تظهر طيور الفلامنجو باللون الوردي؟",
-    "body": "تولد طيور الفلامنجو بريش أبيض في الواقع! ما يمنحها هذا اللون الوردي الأيقوني هو اصباغ خاصة موجودة في الطعام الذي تأكله. تتراكم هذه المواد القادمة من الجمبري والطحالب في ريشها."
+    "headline": "سر تنفس العناكب",
+    "body": "هل تعتقد أن العناكب تمتلك أنفاً أو رئات بشرية؟ في بطونها، توجد هياكل تسمى 'الرئات الكتابية' - وهي طبقات رقيقة متراصة تشبه صفحات الكتاب تمتص الأكسجين مباشرة من الهواء."
   },
   "reel_hook": {
-    "tr": "Flamingoların doğuştan pembe olmadığını biliyor muydunuz?",
-    "en": "Did you know flamingos aren't actually born pink?",
-    "es": "¿Sabías que los flamencos no nacen rosados?",
-    "ar": "هل كنت تعلم أن طيور الفلامنجو لا تولد بلون وردي؟"
+    "tr": "Örümceklerin nefes almak için kitaba ihtiyacı olduğunu biliyor muydun?",
+    "en": "Did you know spiders need a book to breathe?",
+    "es": "¿Sabías que las arañas necesitan un libro para respirar?",
+    "ar": "هل كنت تعلم أن العناكب تحتاج إلى كتاب لتتفس؟"
   },
   "story_question": {
-    "tr": "Flamingolar renklerini hangi besinden alır?",
-    "en": "Which food gives flamingos their color?",
-    "es": "¿Qué alimento les da su color a los flamencos?",
-    "ar": "ما هو الغذاء الذي يمنح الفلامنجو لونه؟"
+    "tr": "Örümceklerin bu özel solunum organına ne ad verilir?",
+    "en": "What is this special respiratory organ of spiders called?",
+    "es": "¿Cómo se llama este órgano respiratorio especial de las arañas?",
+    "ar": "ما اسم هذا العضو التنفسي الخاص بالعناكب؟"
   },
   "story_options": [
-    "Karides ve Algler",
-    "Özel Balık Türleri",
-    "Nehir Bitkileri"
+    "Kitap Akciğer",
+    "Yaprak Solungaç",
+    "Hava Kesesi"
   ],
   "hashtags": [
     "#FactBite",
-    "#flamingo",
-    "#doğa",
     "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler"
+    "#doğa",
+    "#örümcek",
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
+    "en": "Follow for more hidden nature facts like this!",
+    "es": "¡Sígueme para más datos curiosos de la naturaleza!",
+    "ar": "تابعنا للمزيد من الحقائق الطبيعية المخفية!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "San Diego Zoo",
-    "url": "https://animals.sandiegozoo.org/animals/greater-flamingo"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Flamingolar Neden Pembe Renktedir?",
+  "_topic": "Örümceklerin Nefes Alma Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-21T21:00:36.458237+00:00",
+  "generated_at": "2026-09-21T22:29:00.466604+00:00",
   "topic_guard_days": 180
 }

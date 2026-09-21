@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kibrit Kutularındaki O Gizli Şerit Neden Var?",
-    "body": "Eski tip kibritleri kutunun herhangi bir yerine sürtüp yakamazsınız; mutlaka o ince şeride sürtmeniz gerekir. Çünkü o şerit sıradan bir zımpara değil, patlamayı ve yanmayı kontrol altında tutan özel kimyasallar içerir."
+    "headline": "Kangurular Nasıl Yüzer?",
+    "body": "Çoğu insan kanguruların karada hoplayıp zıpladığını bilir ama suyla karşılaştıklarında inanılmaz yüzücülere dönüşürler. Tehlikeden kaçmak için göllere ve nehirlere atlayan bu canlılar, güçlü arka bacaklarıyla adeta suda kürek çeker gibi ilerler ve hatta gerektiğinde uzun süre su altında kalabilirler."
   },
   "en": {
-    "headline": "Why Is That Hidden Strip On Matchboxes There?",
-    "body": "You cannot strike old-style matches anywhere on the box; you must use that thin strip. Because that strip isn't just regular sandpaper; it contains special chemicals that control the ignition and burning process."
+    "headline": "How Kangaroos Swim",
+    "body": "Most people know kangaroos hop on land, but when faced with water, they turn into incredible swimmers. Leaping into lakes and rivers to escape danger, they use their powerful hind legs to paddle and can even stay submerged for long periods when necessary."
   },
   "es": {
-    "headline": "¿Por qué existe esa tira oculta en las cajas de cerillas?",
-    "body": "No puedes encender cerillas antiguas en cualquier parte de la caja; debes usar esa tira delgada. Porque esa tira no es simple papel de lija, contiene químicos especiales que controlan la ignición."
+    "headline": "Cómo nadan los canguros",
+    "body": "La mayoría sabe que los canguros saltan en tierra, pero al enfrentar el agua se convierten en nadadores increíbles. Saltando a lagos y ríos para escapar del peligro, usan sus poderosas patas traseras para remar y pueden permanecer sumergidos por largos períodos."
   },
   "ar": {
-    "headline": "لماذا يوجد هذا الشريط المخفي على علب الكبريت؟",
-    "body": "لا يمكنك إشعال أعواد الكبريت القديمة في أي مكان على العلبة؛ يجب عليك استخدام هذا الشريط الرفيع. لأن هذا الشريط ليس مجرد ورق صنفرة عادٍ، بل يحتوي على مواد كيميائية خاصة تتحكم في الاشتعال."
+    "headline": "كيف تسبح الكنغر",
+    "body": "يعظم الناس يعرفون أن الكنغر يقفز على اليابسة، لكن عندما يواجهون الماء يتحولون إلى سباحين مذهلين. بالقفز في البحيرات والأنهار للهرب من الخطر، يستخدمون أرجلهم الخلفية القوية للتجديف ويمكنهم البقاء مغمورين لفترات طويلة عند الضرورة."
   },
   "reel_hook": {
-    "tr": "Kibrit çöpü neden sadece kutunun o küçük kenarına sürtünce yanar?",
-    "en": "Why does a match only light up when you strike it on that specific tiny strip?",
-    "es": "¿Por qué una cerilla solo se enciende cuando la frotas en esa pequeña tira?",
-    "ar": "لماذا تشتعل عود الكبريت فقط عندما تحكها بهذا الشريط الصغير؟"
+    "tr": "Kanguruların suyla ilgili bu gizli yeteneğini biliyor muydunuz?",
+    "en": "Did you know this hidden water skill of kangaroos?",
+    "es": "¿Conocías esta habilidad oculta de los canguros en el agua?",
+    "ar": "هل كنت تعرف هذه المهارة الخفية للكنغر في الماء؟"
   },
   "story_question": {
-    "tr": "Kibrit kutusunun kenarındaki o şeritte hangi yaygın element bulunur?",
-    "en": "Which common element is found on that strip of a matchbox?",
-    "es": "¿Qué elemento común se encuentra en esa tira de la caja de cerillas?",
-    "ar": "ما هو العنصر الشائع الموجود على ذلك الشريط من علبة الكبريت؟"
+    "tr": "Kanguruların tehlikeden kaçmak için yaptığı bu şaşırtıcı hareket nedir?",
+    "en": "What is this surprising move kangaroos make to escape danger?",
+    "es": "¿Cuál es este movimiento sorprendente que hacen los canguros para escapar?",
+    "ar": "ما هي هذه الحركة المدهشة التي يقوم بها الكنغر للهروب من الخطر؟"
   },
   "story_options": [
-    "Kırmızı Fosfor",
-    "Demir Tozu",
-    "Kükürt"
+    "Su altında saklanmak",
+    "Mükemmel birer yüzücü olmak",
+    "Ağaca tırmanmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#kibrit",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#teknoloji",
-    "#tarih"
+    "#kanguru",
+    "#doğa",
+    "#hayvanlarbilgi",
+    "#bilimselgerçekler",
+    "#vahşiyaşam"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more surprising nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos sorprendentes de la naturaleza!",
+    "ar": "لا تنس متابعتنا للمزيد من أسرار الطبيعة المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 10,
+    "shareability": 9,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Chemical Heritage Foundation",
-    "url": "https://www.sciencehistory.org/education/scientific-biographies/john-walker/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kibrit Kutularındaki O Gizli Şerit Neden Var?",
+  "_topic": "Kangurular Nasıl Yüzer?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-21T10:42:53.723896+00:00",
+  "generated_at": "2026-09-21T12:46:39.052604+00:00",
   "topic_guard_days": 180
 }

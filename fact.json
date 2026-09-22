@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yarasalar Aslında Kör Değildir",
-    "body": "Yarasaların tamamen kör olduğu inanışı tamamen bir yanılgıdır. Bu harika memeliler, karanlıkta yönlerini bulmak için gelişmiş bir sonar sistemi olan ekolokasyonu kullansalar da, aslında gözleri vardır ve oldukça iyi görebilirler. Hatta bazı yarasa türleri, ultraviyole ışığı bile algılayabilir."
+    "headline": "Kutup Ayılarının Derisi Siyah Mıdır?",
+    "body": "Kutup ayılarının o sevimli beyaz kürkleri, aslında bildiğimiz anlamda beyaz renkli değildir. Tüylerin içi tamamen boştur ve şeffaftır; ışığı yansıtarak beyaz görünürler. Ama asıl şaşırtıcı detay altlarındadır: Kutup ayılarının derisi simsiyah renktedir! Bu koyu renk deri, kuzeyin dondurucu soğuğunda güneş ışığını emerek ısıyı hapsetmelerini sağlar."
   },
   "en": {
-    "headline": "Bats Are Actually Not Blind",
-    "body": "The belief that bats are completely blind is a total misconception. While these amazing mammals use echolocation—an advanced sonar system—to navigate in the dark, they actually have eyes and can see quite well. Some bat species can even perceive ultraviolet light."
+    "headline": "Are Polar Bears' Skin Actually Black?",
+    "body": "Polar bears' cute white fur isn't actually white at all. The hairs are hollow and transparent, appearing white by reflecting light. But the real surprise is underneath: Polar bear skin is jet black! This dark skin absorbs and traps sunlight to keep them warm in the freezing northern cold."
   },
   "es": {
-    "headline": "Los murciélagos en realidad no son ciegos",
-    "body": "La creencia de que los murciélagos son completamente ciegos es una idea errónea. Aunque estos increíbles mamíferos usan la ecolocalización, un sistema de sonar avanzado, para orientarse en la oscuridad, en realidad tienen ojos y pueden ver bastante bien. Algunas especies incluso pueden percibir la luz ultravioleta."
+    "headline": "¿La piel de los osos polares es negra?",
+    "body": "El adorable pelaje blanco de los osos polares no es blanco en realidad. Los pelos son huecos y transparentes, y se ven blancos al reflejar la luz. Pero la verdadera sorpresa está debajo: ¡la piel del oso polar es de color negro negrusco! Esta piel oscura absorbe la luz solar para mantenerlos calientes."
   },
   "ar": {
-    "headline": "الخفافيش ليست عمياء في الواقع",
-    "body": "الاعتقاد بأن الخفافيش عمياء تماماً هو مفهوم خاطئ تماماً. في حين أن هذه الثدييات المذهلة تستخدم تحديد الموقع بالصدى للتنقل في الظلام، إلا أن لها عيوناً ويمكنها الرؤية بشكل جيد للغاية. حتى أن بعض أنواع الخفافيش يمكنها إدراك الأشعة فوق البنفسجية."
+    "headline": "هل جلد الدببة القطبية أسود حقاً؟",
+    "body": "فراء الدببة القطبية الأبيض ليس أبيض حقاً، بل هو مجوف وشفاف يعكس الضوء ليبدو أبيض. المفاجأة الحقيقية هي ما تحت الفراء: جلد الدب الأسود الداكن! يساعد هذا الجلد على امتصاص أشعة الشمس وحبس الحرارة في البرد القارس."
   },
   "reel_hook": {
-    "tr": "Yarasaların tamamen kör olduğunu mu sanıyorsunuz?",
-    "en": "Do you think bats are completely blind?",
-    "es": "¿Crees que los murciélagos son completamente ciegos?",
-    "ar": "هل تعتقد أن الخفافيش عمياء تماماً؟"
+    "tr": "Kutup ayılarının beyaz kürkü aslında bir illüzyon mu?",
+    "en": "Is the polar bear's white fur actually an illusion?",
+    "es": "¿Es el pelaje blanco del oso polar una ilusión?",
+    "ar": "هل فراء الدب القطب الأبيض مجرد وهم؟"
   },
   "story_question": {
-    "tr": "Yarasa türlerinin bir kısmı hangi ışık türünü algılayabilir?",
-    "en": "Which type of light can some bat species perceive?",
-    "es": "¿Qué tipo de luz pueden percibir algunas especies de murciélagos?",
-    "ar": "ما هي نوع الإضاءة التي يمكن لبعض أنواع الخفافيش إدراكها؟"
+    "tr": "Kutup ayılarının derisi hangi renktedir?",
+    "en": "What color is the skin of a polar bear?",
+    "es": "¿De qué color es la piel del oso polar?",
+    "ar": "ما لون جلد الدب القطب؟"
   },
   "story_options": [
-    "Ultraviyole",
-    "Kızılötesi",
-    "X-Işını"
+    "Beyaz",
+    "Siyah",
+    "Pembe"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#yarasalar",
+    "#bilgi",
+    "#kutupayısı",
     "#doğa",
-    "#ilginçbilgiler",
-    "#canlılar",
-    "#gerçekler"
+    "#hayvanlar",
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği keşfetmek için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow to discover more surprising facts like this!",
-    "es": "¡No olvides seguirnos para descubrir más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة لاستكشاف المزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Bat Conservation International",
-    "url": "https://www.batcon.org"
+    "name": "Polar Bears International",
+    "url": "https://polarbearsinternational.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yarasalar Aslında Kör Değildir",
+  "_topic": "Kutup Ayılarının Derisi Siyah Mıdır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-22T18:34:39.047271+00:00",
+  "generated_at": "2026-09-22T21:48:41.414513+00:00",
   "topic_guard_days": 180
 }

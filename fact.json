@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kutup Ayılarının Derisi Siyah Mıdır?",
-    "body": "Kutup ayılarının o sevimli beyaz kürkleri, aslında bildiğimiz anlamda beyaz renkli değildir. Tüylerin içi tamamen boştur ve şeffaftır; ışığı yansıtarak beyaz görünürler. Ama asıl şaşırtıcı detay altlarındadır: Kutup ayılarının derisi simsiyah renktedir! Bu koyu renk deri, kuzeyin dondurucu soğuğunda güneş ışığını emerek ısıyı hapsetmelerini sağlar."
+    "headline": "Kuşların Şarkıları Neden Sabaha Karşı Değişir?",
+    "body": "Sabahın ilk ışıklarında duyduğumuz kuş cıvıltıları, günün diğer saatlerinden tamamen farklı bir frekanstadır. Bunun nedeni, serin ve yoğun sabah havasının ses dalgalarını daha uzağa taşıması değildir; kuşların bu saatte rakiplerine seslerini daha net duyurmak için frekanslarını bilinçli olarak ayarlamasıdır."
   },
   "en": {
-    "headline": "Are Polar Bears' Skin Actually Black?",
-    "body": "Polar bears' cute white fur isn't actually white at all. The hairs are hollow and transparent, appearing white by reflecting light. But the real surprise is underneath: Polar bear skin is jet black! This dark skin absorbs and traps sunlight to keep them warm in the freezing northern cold."
+    "headline": "Why Bird Songs Change at Dawn",
+    "body": "The bird songs we hear at the first light of morning are at a completely different frequency than the rest of the day. This isn't just because the cool, dense morning air carries sound waves further; birds consciously adjust their frequencies at this hour to make their voices heard more clearly to rivals."
   },
   "es": {
-    "headline": "¿La piel de los osos polares es negra?",
-    "body": "El adorable pelaje blanco de los osos polares no es blanco en realidad. Los pelos son huecos y transparentes, y se ven blancos al reflejar la luz. Pero la verdadera sorpresa está debajo: ¡la piel del oso polar es de color negro negrusco! Esta piel oscura absorbe la luz solar para mantenerlos calientes."
+    "headline": "Por qué el canto de los pájaros cambia al amanecer",
+    "body": "Los cantos de los pájaros que escuchamos a primera hora de la mañana tienen una frecuencia completamente diferente a la del resto del día. Esto no se debe solo a que el aire fresco y denso de la mañana propaga las ondas sonoras más lejos, sino a que las aves ajustan conscientemente sus frecuencias a esta hora para que sus voces se escuchen con mayor claridad ante sus rivales."
   },
   "ar": {
-    "headline": "هل جلد الدببة القطبية أسود حقاً؟",
-    "body": "فراء الدببة القطبية الأبيض ليس أبيض حقاً، بل هو مجوف وشفاف يعكس الضوء ليبدو أبيض. المفاجأة الحقيقية هي ما تحت الفراء: جلد الدب الأسود الداكن! يساعد هذا الجلد على امتصاص أشعة الشمس وحبس الحرارة في البرد القارس."
+    "headline": "لماذا تتغير أغاني الطيور عند الفجر",
+    "body": "إن زقزقة الطيور التي نسمعها في ضوء الصباح الأول تكون بتردد مختلف تماماً عن بقية اليوم. لا يعود هذا فقط إلى أن هواء الصباح البارد والكثيف يحمل موجات الصوت لمسافات أبعد، بل إن الطيور تضبط تردداتها بوعي في هذا الوقت لتجعل أصواتها تُسمع بوضوح أكبر أمام منافسيها."
   },
   "reel_hook": {
-    "tr": "Kutup ayılarının beyaz kürkü aslında bir illüzyon mu?",
-    "en": "Is the polar bear's white fur actually an illusion?",
-    "es": "¿Es el pelaje blanco del oso polar una ilusión?",
-    "ar": "هل فراء الدب القطب الأبيض مجرد وهم؟"
+    "tr": "Sabah ilk duyduğunuz kuş sesleri neden günün diğer saatlerine hiç benzemez?",
+    "en": "Why do the first bird songs you hear in the morning sound nothing like the rest of the day?",
+    "es": "¿Por qué los primeros cantos de pájaros que escuchas por la mañana no se parecen en nada al resto del día?",
+    "ar": "لماذا لا تبدو أصوات الطيور الأولى التي تسمعها في الصباح كبقية اليوم على الإطلاق؟"
   },
   "story_question": {
-    "tr": "Kutup ayılarının derisi hangi renktedir?",
-    "en": "What color is the skin of a polar bear?",
-    "es": "¿De qué color es la piel del oso polar?",
-    "ar": "ما لون جلد الدب القطب؟"
+    "tr": "Kuşlar sabaha karşı ses frekanslarını neden değiştirir?",
+    "en": "Why do birds change their sound frequencies at dawn?",
+    "es": "¿Por qué las aves cambian sus frecuencias sonoras al amanecer?",
+    "ar": "لماذا تغير الطيور ترددات صوتها عند الفجر؟"
   },
   "story_options": [
-    "Beyaz",
-    "Siyah",
-    "Pembe"
+    "Rakiplerine daha uzağa seslenmek için",
+    "Havanın sıcaklığına uyum sağlamak için",
+    "Avcıların dikkatini çekmemek için"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#kutupayısı",
     "#doğa",
-    "#hayvanlar",
-    "#bilim"
+    "#kuşlar",
+    "#bilim",
+    "#ilginçbilgiler",
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu ilk kez duyuyorsan beğen ve takip et!",
+    "en": "If this is your first time hearing this, like and follow!",
+    "es": "¡Si es la primera vez que escuchas esto, dale a Me gusta y síguenos!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، الإعجاب والمتابعة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "surprise": 8,
+    "shareability": 9,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Polar Bears International",
-    "url": "https://polarbearsinternational.org"
+    "name": "Ornithology and Bioacoustics Research",
+    "url": "https://www.sciencedaily.com/news/plants_animals/birds/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kutup Ayılarının Derisi Siyah Mıdır?",
+  "_topic": "Kuşların Şarkıları Neden Sabaha Karşı Değişir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-22T21:48:41.414513+00:00",
+  "generated_at": "2026-09-22T23:17:21.165014+00:00",
   "topic_guard_days": 180
 }

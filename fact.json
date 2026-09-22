@@ -1,75 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ahtapotların Üç Kalbi Vardır",
-    "body": "Bir ahtapotun kalplerinden ikisi solungaçlarına kan pompalarken, üçüncü kalbi yüzdüğü sırada durur. Bu yüzden ahtapotlar yüzmek yerine sürünmeyi tercih ederler çünkü yüzmek onları aşırı yorar."
+    "headline": "Yarasalar Aslında Kör Değildir",
+    "body": "Yarasaların tamamen kör olduğu inanışı tamamen bir yanılgıdır. Bu harika memeliler, karanlıkta yönlerini bulmak için gelişmiş bir sonar sistemi olan ekolokasyonu kullansalar da, aslında gözleri vardır ve oldukça iyi görebilirler. Hatta bazı yarasa türleri, ultraviyole ışığı bile algılayabilir."
   },
   "en": {
-    "headline": "Octopuses Have Three Hearts",
-    "body": "Two of an octopus's hearts pump blood to its gills, while the third stops beating when it swims. This is why octopuses prefer crawling over swimming, as swimming exhausts them."
+    "headline": "Bats Are Actually Not Blind",
+    "body": "The belief that bats are completely blind is a total misconception. While these amazing mammals use echolocation—an advanced sonar system—to navigate in the dark, they actually have eyes and can see quite well. Some bat species can even perceive ultraviolet light."
   },
   "es": {
-    "headline": "Los pulpos tienen tres corazones",
-    "body": "Dos de los corazones de un pulpo bombean sangre a sus branquias, mientras que el tercero deja de latir cuando nada. Por eso los pulpos prefieren gatear en lugar de nadar, ya que nadar los agota."
+    "headline": "Los murciélagos en realidad no son ciegos",
+    "body": "La creencia de que los murciélagos son completamente ciegos es una idea errónea. Aunque estos increíbles mamíferos usan la ecolocalización, un sistema de sonar avanzado, para orientarse en la oscuridad, en realidad tienen ojos y pueden ver bastante bien. Algunas especies incluso pueden percibir la luz ultravioleta."
   },
   "ar": {
-    "headline": "تمتلك الأخطبوطات ثلاثة قلوب",
-    "body": "اثنان من قلوب الأخطبوط يضخان الدم إلى خياشيمه، بينما يتوقف القلب الثالث عن النبض عندما يسبح. ولهذا السبب تفضل الأخطبوطات الزحف على السباحة لأن السباحة مرهقة للغاية بالنسبة لها."
-  },
-  "reel__hook": {
-    "tr": "Biliyor musunuz, bu canlı yüzdüğü an kalplerinden biri duruyor!",
-    "en": "Did you know that the moment this creature swims, one of its hearts stops?",
-    "es": "¿Sabías que en el momento en que esta criatura nada, uno de sus corazones se detiene?",
-    "ar": "هل تعلم أنه في اللحظة التي يسبح فيها هذا الكائن، يتوقف أحد قلوبه عن العمل؟"
+    "headline": "الخفافيش ليست عمياء في الواقع",
+    "body": "الاعتقاد بأن الخفافيش عمياء تماماً هو مفهوم خاطئ تماماً. في حين أن هذه الثدييات المذهلة تستخدم تحديد الموقع بالصدى للتنقل في الظلام، إلا أن لها عيوناً ويمكنها الرؤية بشكل جيد للغاية. حتى أن بعض أنواع الخفافيش يمكنها إدراك الأشعة فوق البنفسجية."
   },
   "reel_hook": {
-    "tr": "Biliyor musunuz, bu canlı yüzdüğü an kalplerinden biri duruyor!",
-    "en": "Did you know that the moment this creature swims, one of its hearts stops?",
-    "es": "¿Sabías que en el momento en que esta criatura nada, uno de sus corazones se detiene?",
-    "ar": "هل تعلم أنه في اللحظة التي يسبح فيها هذا الكائن، يتوقف أحد قلوبه عن العمل؟"
+    "tr": "Yarasaların tamamen kör olduğunu mu sanıyorsunuz?",
+    "en": "Do you think bats are completely blind?",
+    "es": "¿Crees que los murciélagos son completamente ciegos?",
+    "ar": "هل تعتقد أن الخفافيش عمياء تماماً؟"
   },
   "story_question": {
-    "tr": "Yüzerken kalbi duran bu ilginç deniz canlısı hangisidir?",
-    "en": "Which interesting sea creature's heart stops while swimming?",
-    "es": "¿De qué interesante criatura marina se detiene el corazón mientras nada?",
-    "ar": "ما هو الكائن البحري المثير للاهتمام الذي يتوقف قلبه أثناء السباحة؟"
+    "tr": "Yarasa türlerinin bir kısmı hangi ışık türünü algılayabilir?",
+    "en": "Which type of light can some bat species perceive?",
+    "es": "¿Qué tipo de luz pueden percibir algunas especies de murciélagos?",
+    "ar": "ما هي نوع الإضاءة التي يمكن لبعض أنواع الخفافيش إدراكها؟"
   },
   "story_options": [
-    "Ahtapot",
-    "Denizanası",
-    "Yengeç"
+    "Ultraviyole",
+    "Kızılötesi",
+    "X-Işını"
   ],
   "hashtags": [
     "#FactBite",
-    "#ahtapot",
     "#bilim",
-    "#deniz",
+    "#yarasalar",
+    "#doğa",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#doğa"
+    "#canlılar",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği keşfetmek için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow to discover more surprising facts like this!",
+    "es": "¡No olvides seguirnos para descubrir más datos sorprendentes como este!",
+    "ar": "لا تنس المتابعة لاستكشاف المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Marine Biology Conservation Society",
-    "url": "https://www.marinebio.org"
+    "name": "Bat Conservation International",
+    "url": "https://www.batcon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ahtapotların Üç Kalbi Vardır",
+  "_topic": "Yarasalar Aslında Kör Değildir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-22T13:27:23.828670+00:00",
+  "generated_at": "2026-09-22T18:34:39.047271+00:00",
   "topic_guard_days": 180
 }

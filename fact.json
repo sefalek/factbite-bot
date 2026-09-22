@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yılanların Kulakları Yoktur",
-    "body": "Yılanların dış kulakları veya kulak zarları yoktur; ancak bu tamamen sağır oldukları anlamına gelmez. Kafataslarındaki özel bir kemik sayesinde, yerde yayılan titreşimleri doğrudan iç kulaklarına ileterek sesleri hissedebilirler."
+    "headline": "Kuşların Yuvaları Aslında Ne İçin Var?",
+    "body": "Çoğumuz kuş yuvalarının onların evleri olduğunu düşünürüz. Ancak kuşlar yuvalarını orada yaşamak için değil, sadece yavrularını büyütüp uçurana kadar güvenle barındırmak için inşa ederler. Görev bittiğinde o yuva tamamen terk edilir."
   },
   "en": {
-    "headline": "Snakes Don't Have Ears",
-    "body": "Snakes lack external ears and eardrums, but this doesn't mean they are entirely deaf. Using a specialized bone in their skull, they can feel ground vibrations and transmit them directly to their inner ear."
+    "headline": "What Are Bird Nests Actually For?",
+    "body": "Most of us think bird nests are their permanent homes. However, birds only build nests to raise and shelter their chicks until they can fly. Once the job is done, the nest is completely abandoned."
   },
   "es": {
-    "headline": "Las serpientes no tienen oídos",
-    "body": "Las serpientes no tienen oídos externos ni tímpanos, pero esto no significa que sean totalmente sordas. Mediante un hueso especializado en su cráneo, pueden sentir las vibraciones del suelo y transmitirlas directamente a su oído interno."
+    "headline": "¿Para qué sirven realmente los nidos de aves?",
+    "body": "La mayoría pensamos que los nidos son los hogares permanentes de las aves. Sin embargo, solo los construyen para criar a sus polluelos hasta que pueden volar. Una vez terminado el trabajo, el nido es abandonado."
   },
   "ar": {
-    "headline": "الثعابين لا تمتلك آذاناً",
-    "body": "لا تمتلك الثعابين آذاناً خارجية أو طبلة أذن، لكن هذا لا يعني أنها صماء تماماً. فباستخدام عظمة متخصصة في جمجمتها، يمكنها استشعار اهتزازات الأرض ونقلها مباشرة إلى أذنها الداخلية."
+    "headline": "ما هو الغرض الحقيقي من أعشاش الطيور؟",
+    "body": "يعتقد معظمنا أن أعشاش الطيور هي منازلها الدائمة. لكن الطيور تبني الأعشاش فقط لتربية فراخها حتى تستطيع الطيران، وبمجرد انتهاء المهمة، يتم ترك العش تماماً."
   },
   "reel_hook": {
-    "tr": "Kulakları olmayan bir canlı etraftaki sesleri nasıl duyar?",
-    "en": "How does a creature without ears hear the world around it?",
-    "es": "¿Cómo escucha el mundo una criatura sin oídos?",
-    "ar": "كيف تسمع مخلوقات بدون آذان ما يدور حولها؟"
+    "tr": "Bütün bir bahar uğraştıkları o yuvalara yaz bitince ne oluyor biliyor musunuz?",
+    "en": "Do you know what happens to those nests they work on all spring once summer ends?",
+    "es": "¿Sabes qué pasa con esos nidos en los que trabajan toda la primavera cuando acaba el verano?",
+    "ar": "هل تعلم ماذا يحدث لتلك الأعشاش التي يعملون طوال الربيع لبنائها بمجرد انتهاء الصيف؟"
   },
   "story_question": {
-    "tr": "Yılanlar sesleri hangi vücut parçasıyla hisseder?",
-    "en": "Which body part do snakes use to sense sounds?",
-    "es": "¿Qué parte del cuerpo usan las serpientes para sentir los sonidos?",
-    "ar": "ما هو جزء الجسم الذي تستخدمه الثعابين لاستشعار الأصوات؟"
+    "tr": "Kuşlar aynı yuvayı gelecek yıl tekrar kullanır mı?",
+    "en": "Do birds reuse the same nest next year?",
+    "es": "¿Las aves reutilizan el mismo nido el año próximo?",
+    "ar": "هل تعيد الطيور استخدام نفس العش في العام المقبل؟"
   },
   "story_options": [
-    "Çene kemiği ve kafatası",
-    "Dilleri",
-    "Karnındaki pullar"
+    "Evet, hep aynı yuvaya dönerler",
+    "Genellikle yeni bir yuva yaparlar",
+    "Sadece en büyük kuşlar aynı yuvayı seçer"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
+    "#kuşlar",
     "#doğa",
-    "#hayvanlar",
+    "#bilim",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu ilk defa duyan bir arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Herpetology: An Introductory Biology of Amphibians and Reptiles",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/snake-hearing"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org/news/do-birds-reuse-their-nests"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yılanların Kulakları Yoktur",
+  "_topic": "Kuşların Yuvaları Aslında Ne İçin Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-21T23:36:57.830069+00:00",
+  "generated_at": "2026-09-22T09:57:15.797129+00:00",
   "topic_guard_days": 180
 }

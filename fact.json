@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Oluyor Da Karıncalardan Faydalanıyor?",
-    "body": "Kuşların tüylerini karıncalarla ovuşturduğunu biliyor muydunuz? Karıncaların salgıladığı asit, tüylerdeki parazitlerden kurtulmalarını sağlar."
+    "headline": "Solucanların Gözleri Yoktur, Peki Işığı Nasıl Hissederler?",
+    "body": "Toprak altında yaşayan solucanların gözleri, kulakları veya burunları yoktur. Ancak tamamen karanlıkta yaşamazlar. Vücutlarının ön bölgesinde, özellikle baş kısımlarında ışığa duyarlı özel hücreler bulunur. Bu hücreler sayesinde güneş ışığının yönünü ve yoğunluğunu hissedebilirler. Böylece yeryüzüne çıkıp kuruyacakları tehlikeli durumlardan kaçınarak güvenli bir şekilde toprak altında kalmaya devam ederler."
   },
   "en": {
-    "headline": "How Do Birds Benefit From Ants?",
-    "body": "Did you know that birds rub ants on their feathers? The acid secreted by ants helps them get rid of parasites on their feathers."
+    "headline": "Earthworms Have No Eyes, So How Do They Sense Light?",
+    "body": "Earthworms living underground have no eyes, ears, or noses. However, they don't live in total darkness. Specialized light-sensitive cells are scattered across their skin, especially near their front end. These cells allow them to detect the direction and intensity of sunlight, helping them stay safely underground and avoid drying out on the surface."
   },
   "es": {
-    "headline": "¿Cómo se benefician las aves de las hormigas?",
-    "body": "¿Sabías que las aves se frotan hormigas en las plumas? El ácido secretado por las hormigas les ayuda a deshacerse de los parásitos."
+    "headline": "Las lombrices no tienen ojos, ¿cómo detectan la luz?",
+    "body": "Las lombrices de tierra no tienen ojos, oídos ni nariz. Sin embargo, no viven en total oscuridad. Poseen células especiales sensibles a la luz en su piel, especialmente en la parte delantera. Estas células les permiten detectar la dirección y la intensidad de la luz solar, ayudándoles a mantenerse a salvo bajo tierra."
   },
   "ar": {
-    "headline": "كيف تستفيد الطيور من النمل؟",
-    "body": "هل تعلم أن الطيور تفرك النمل على ريشها؟ الحمض الذي يفرزه النمل يساعدها في التخلص من الطفيليات."
+    "headline": "لا تمتلك دود الأرض عيوناً، فكيف تشعر بالضوء؟",
+    "body": "ديدان الأرض التي تعيش تحت الأرض ليس لها عيون أو آذان أو أنوف. ومع ذلك، فهي لا تعيش في ظلام دامس. تمتلك خلايا خاصة حساسة للضوء موزعة على جلتها، وخاصة في مقدمة جسمها. هذه الخلايا تتيح لها استشعار اتجاه ضوء الشمس وشدته، مما يساعدها على البقاء بأمان تحت الأرض."
   },
   "reel_hook": {
-    "tr": "Kuşların karıncalarla ne işi olabilir?",
-    "en": "What do birds have to do with ants?",
-    "es": "¿Qué tienen que ver las aves con las hormigas?",
-    "ar": "ما علاقة الطيور بالنمل؟"
+    "tr": "Gözleri olmayan bir canlı, etrafındaki ışığı nasıl fark eder?",
+    "en": "How can a creature without eyes notice the light around it?",
+    "es": "¿Cómo puede una criatura sin ojos notar la luz a su alrededor?",
+    "ar": "كيف يمكن لكائن بدون عيون أن يلاحظ الضوء من حوله؟"
   },
   "story_question": {
-    "tr": "Kuşların karıncaları tüylerine sürmesinin ana sebebi nedir?",
-    "en": "What is the main reason birds rub ants on their feathers?",
-    "es": "¿Cuál es la razón principal por la que las aves se frotan hormigas?",
-    "ar": "ما هو السبب الرئيسي لتبرك الطيور بالنمل على ريشها؟"
+    "tr": "Solucanlar ışığı hangi organlarıyla hisseder?",
+    "en": "With which body part do earthworms sense light?",
+    "es": "¿Con qué parte del cuerpo detectan la luz las lombrices?",
+    "ar": "ما هو الجزء الذي تستشعر به دود الأرض الضوء؟"
   },
   "story_options": [
-    "Parazitlerden kurtulmak",
-    "Yiyecek saklamak",
-    "Tüylerini boyamak"
+    "Özel cilt hücreleriyle",
+    "Ağız içindeki sensörlerle",
+    "Kuyruk uçlarıyla"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#kuşlar",
     "#bilim",
-    "#hayvanlar",
+    "#doğa",
+    "#biyoloji",
     "#ilginçbilgiler",
+    "#solucan",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Sígueme para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç doğa sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more fascinating nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos fascinantes de la naturaleza!",
+    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Ornithology Research",
-    "url": "https://www.audubon.org/news/why-do-birds-practice-anting"
+    "name": "National Geographic Biology & Earthworm Anatomy Studies",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Oluyor Da Karıncalardan Faydalanıyor?",
+  "_topic": "Solucanların Gözleri Yoktur, Peki Işığı Nasıl Hissederler?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-23T11:31:53.591582+00:00",
+  "generated_at": "2026-09-23T13:40:20.069623+00:00",
   "topic_guard_days": 180
 }

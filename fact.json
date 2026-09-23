@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nezaketten mi Yoksa Sadece...",
-    "body": "Gökyüzünde süzülen kuşların arkalarındaki o dev V harfini hiç fark ettiniz mi? Bu sadece muazzam bir uyum görüntüsü değil. Öndeki kuş kanat çırparken arkasında görünmez bir hava akımı, yani bir yükselme dalgası yaratır. Arkadaki kuşlar bu dalgayı kullanarak daha az enerji harcar, tıpkı bisiklet sürerken birinin arkasına saklanmak gibi. Hatta uzun göç yollarında lider yorulduğunda hemen arkadakiyle yer değiştirir. Yani bu kusursuz uçuşun sırrı, tamamen takım çalışması ve akıllıca bir enerji tasarrufudur."
+    "headline": "Kuşlar Beton Zemine Neden Ayaklarıyla Vurur?",
+    "body": "Çim yerine beton üstünde ritmik adımlarla yürüyen martıları veya güvercinleri hiç fark ettiniz mi? Aslında bu hareket bir dans değil, akıllıca bir avlanma taktiği. Ayaklarıyla zemine vurduklarında oluşan titreşimler yer altında yankılanır. Bu titreşimleri hisseden toprak solucanları, yağmur yağıyor sanarak yüzeye kaçmaya başlar. Kuşlar da böylece zahmetsizce avlarını yakalar."
   },
   "en": {
-    "headline": "Do Birds Fly in a V-Shape Out of Politeness or...",
-    "body": "Have you ever noticed the giant V-shape birds make in the sky? It's not just for a pretty, coordinated view. When the lead bird flaps its wings, it creates an upward airflow behind it. The birds trailing behind ride this wave to save energy, much like drafting behind a truck on a highway. During long migrations, when the leader gets tired, it simply rotates to the back. This flawless flight pattern is actually pure teamwork and smart energy conservation."
+    "headline": "Why Do Birds Tap Their Feet on Concrete?",
+    "body": "Have you ever noticed gulls or pigeons tapping their feet rhythmically on hard pavement instead of grass? This isn't a dance, but a clever hunting tactic. When they strike the ground, the vibrations echo underground. Earthworms feel these tremors, mistake them for rain, and tunnel up to the surface—right into the bird's beak."
   },
   "es": {
-    "headline": "¿Vuelan las aves en forma de V por cortesía o...",
-    "body": "¿Alguna vez has notado la formación en V que hacen las aves en el cielo? No es solo por estética. Cuando el ave líder bate sus alas, crea una corriente de aire ascendente detrás de ella. Las aves que van detrás aprovechan esta ola para gastar menos energía, muy parecido a ir detrás de otro vehículo en la carretera. En largas migraciones, cuando el líder se cansa, pasa a la parte trasera. Este vuelo perfecto es pura cooperación y ahorro de energía."
+    "headline": "¿Por qué las aves golpean el suelo con las patas?",
+    "body": "¿Alguna vez has notado a las gaviotas o palomas golpeando el suelo rítmicamente? No es un baile, sino una táctica de caza. Al golpear la superficie, generan vibraciones que viajan bajo tierra. Las lombrices sienten estas vibraciones, creen que está lloviendo y suben a la superficie, convirtiéndose en una presa fácil."
   },
   "ar": {
-    "headline": "هل تطير الطيور على شكل حرف V بأدب أم...",
-    "body": "هل لاحظت من قبل شكل حرف V الضخم الذي تصنعه الطيور في السماء؟ إنه ليس مجرد مظهر متناسق. عندما يخفق الطائر المقدم جناحيه، فانه يخلق تدفقاً هوائياً صاعداً خلفه. تستفيد الطيور التي تتبعه من هذه الموجة لتوفير الطاقة، تشبه تماماً القيادة خلف مركبة أخرى. خلال الهجرات الطويلة، عندما يتعب القائد، ينتقل إلى الخلف مباشرة. هذا الطيران المثالي هو في الواقع عمل جماعي وتوفير ذكي للطاقة."
+    "headline": "لماذا تنقر الطيور الأرض بأقدامها؟",
+    "body": "هل لاحظت من قبل النورس أو الحمام وهو ينقر الأرض بخطوات إيقاعية؟ هذه ليست رقصة، بل هي حيلة صيد ذكية. عندما تضرب أقدامها الأرض، ترسل اهتزازات تحت السطح. تشعر دود الأرض بهذه الاهتزازات فتظن أنها أمطار، وتصعد إلى الأعلى لتوقع نفسها في الفخ."
   },
   "reel_hook": {
-    "tr": "Gökyüzündeki o meşhur V harfinin nedenini biliyor musunuz?",
-    "en": "Do you know the real reason behind that famous V-shape in the sky?",
-    "es": "¿Conoces la verdadera razón detrás de esa famosa forma de V en el cielo?",
-    "ar": "هل تعلم السبب الحقيقي وراء شكل حرف V الشهير في السماء؟"
+    "tr": "Kuşların betona neden sürekli ayak vurduğunu biliyor musunuz?",
+    "en": "Do you know why birds constantly stomp their feet on concrete?",
+    "es": "¿Sabes por qué las aves golpean constantemente el suelo con las patas?",
+    "ar": "هل تعلم لماذا تنقر الطيور الأرض باستمرار؟"
   },
   "story_question": {
-    "tr": "Göç sırasında öndeki lider kuş yorulduğunda ne olur?",
-    "en": "What happens when the lead bird gets tired during migration?",
-    "es": "¿Qué sucede cuando el ave líder se cansa durante la migración?",
-    "ar": "ماذا يحدث عندما يتعب الطائر القائد أثناء الهجرة؟"
+    "tr": "Kuşların beton zemine ayaklarıyla vurmasının temel sebebi nedir?",
+    "en": "What is the main reason birds tap their feet on concrete?",
+    "es": "¿Cuál es la razón principal por la que las aves golpean el suelo?",
+    "ar": "ما هو السبب الرئيسي لنقر الطيور على الأرض؟"
   },
   "story_options": [
-    "En arkaya geçer",
-    "Yalnız başına uçmaya devam eder",
-    "Sürüden ayrılır"
+    "Yağmur yağdığını sanmalarını sağlamak",
+    "Isınmaya çalışmak",
+    "Yön bulmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
     "#kuşlar",
+    "#doğa",
     "#bilim",
     "#hayvanlar",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Follow for more surprising facts like this!",
-    "es": "¡Sígueme para más datos sorprendentes como este!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
+    "surprise": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society Ornithology Studies",
+    "name": "Ornithology and Animal Behavior Studies",
     "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nezaketten mi Yoksa Sadece...",
+  "_topic": "Kuşlar Beton Zemine Neden Ayaklarıyla Vurur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-23T22:05:47.732503+00:00",
+  "generated_at": "2026-09-23T23:09:28.340738+00:00",
   "topic_guard_days": 180
 }

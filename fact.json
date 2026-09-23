@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Şarkıları Neden Sabaha Karşı Değişir?",
-    "body": "Sabahın ilk ışıklarında duyduğumuz kuş cıvıltıları, günün diğer saatlerinden tamamen farklı bir frekanstadır. Bunun nedeni, serin ve yoğun sabah havasının ses dalgalarını daha uzağa taşıması değildir; kuşların bu saatte rakiplerine seslerini daha net duyurmak için frekanslarını bilinçli olarak ayarlamasıdır."
+    "headline": "Kargaların Yüzleri Unutmama Yeteneği Nereden Geliyor?",
+    "body": "Kargalar sıradan kuşlar gibi görünmez; çünkü insan yüzlerini ayırt edebilir ve bu bilgiyi yıllarca hafızalarında tutabilirler. Size kötü davranan bir insanı asla unutmazlar ve bunu diğer kargalara da öğretirler."
   },
   "en": {
-    "headline": "Why Bird Songs Change at Dawn",
-    "body": "The bird songs we hear at the first light of morning are at a completely different frequency than the rest of the day. This isn't just because the cool, dense morning air carries sound waves further; birds consciously adjust their frequencies at this hour to make their voices heard more clearly to rivals."
+    "headline": "Where Does Crows' Ability to Remember Faces Come From?",
+    "body": "Crows don't look like ordinary birds because they can distinguish human faces and retain this information in their memory for years. They never forget a person who treats them poorly and pass this on to other crows."
   },
   "es": {
-    "headline": "Por qué el canto de los pájaros cambia al amanecer",
-    "body": "Los cantos de los pájaros que escuchamos a primera hora de la mañana tienen una frecuencia completamente diferente a la del resto del día. Esto no se debe solo a que el aire fresco y denso de la mañana propaga las ondas sonoras más lejos, sino a que las aves ajustan conscientemente sus frecuencias a esta hora para que sus voces se escuchen con mayor claridad ante sus rivales."
+    "headline": "¿De dónde viene la capacidad de los cuervos para recordar rostros?",
+    "body": "Los cuervos no parecen aves comunes porque pueden distinguir rostros humanos y retener esta información en su memoria durante años. Nunca olvidan a una persona que los trata mal y se lo comunican a otros cuervos."
   },
   "ar": {
-    "headline": "لماذا تتغير أغاني الطيور عند الفجر",
-    "body": "إن زقزقة الطيور التي نسمعها في ضوء الصباح الأول تكون بتردد مختلف تماماً عن بقية اليوم. لا يعود هذا فقط إلى أن هواء الصباح البارد والكثيف يحمل موجات الصوت لمسافات أبعد، بل إن الطيور تضبط تردداتها بوعي في هذا الوقت لتجعل أصواتها تُسمع بوضوح أكبر أمام منافسيها."
+    "headline": "من أين تأتي قدرة الغربان على تذكر الوجوه؟",
+    "body": "لا تبدو الغربان طيورًا عادية لأنها تستطيع تمييز الوجه البشري والاحتفاظ بهذه المعلومات في ذاكرتها لسنوات. إنها لا تنسى أبدًا الشخص الذي يعاملها بشكل سيء وتنقل ذلك إلى الغربان الأخرى."
   },
   "reel_hook": {
-    "tr": "Sabah ilk duyduğunuz kuş sesleri neden günün diğer saatlerine hiç benzemez?",
-    "en": "Why do the first bird songs you hear in the morning sound nothing like the rest of the day?",
-    "es": "¿Por qué los primeros cantos de pájaros que escuchas por la mañana no se parecen en nada al resto del día?",
-    "ar": "لماذا لا تبدو أصوات الطيور الأولى التي تسمعها في الصباح كبقية اليوم على الإطلاق؟"
+    "tr": "Sokakta yürürken bir kargonun sizi dikizlediğini ve asla unutmadığını biliyor muydunuz?",
+    "en": "Did you know that while walking down the street, a crow is eyeing you and will never forget you?",
+    "es": "¿Sabías que al caminar por la calle, un cuervo te está observando y nunca te olvidará?",
+    "ar": "هل تعلم أنه أثناء المشي في الشارع، يراقبك غراب ولن ينساك أبدًا؟"
   },
   "story_question": {
-    "tr": "Kuşlar sabaha karşı ses frekanslarını neden değiştirir?",
-    "en": "Why do birds change their sound frequencies at dawn?",
-    "es": "¿Por qué las aves cambian sus frecuencias sonoras al amanecer?",
-    "ar": "لماذا تغير الطيور ترددات صوتها عند الفجر؟"
+    "tr": "Kargaların insan yüzlerini hafızalarında kaç yıl boyunca saklayabildiğini tahmin edersiniz?",
+    "en": "How many years do you guess crows can retain human faces in their memory?",
+    "es": "¿Cuántos años estimas que los cuervos pueden retener rostros humanos en su memoria?",
+    "ar": "كم سنة تقدر أن الغربان يمكنها الاحتفاظ بالوجوه البشرية في ذاكرتها؟"
   },
   "story_options": [
-    "Rakiplerine daha uzağa seslenmek için",
-    "Havanın sıcaklığına uyum sağlamak için",
-    "Avcıların dikkatini çekmemek için"
+    "1-2 yıl",
+    "5+ yıl",
+    "Birkaç ay"
   ],
   "hashtags": [
     "#FactBite",
+    "#karga",
     "#doğa",
-    "#kuşlar",
     "#bilim",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#hayvanlaralemi"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyuyorsan beğen ve takip et!",
-    "en": "If this is your first time hearing this, like and follow!",
-    "es": "¡Si es la primera vez que escuchas esto, dale a Me gusta y síguenos!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، الإعجاب والمتابعة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kalın!",
+    "en": "Stay tuned for more amazing facts like this!",
+    "es": "¡Mantente atento para más datos sorprendentes como este!",
+    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 9,
-    "clarity": 9,
-    "overall": 8.7
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology and Bioacoustics Research",
-    "url": "https://www.sciencedaily.com/news/plants_animals/birds/"
+    "name": "Animal Behavior & Ornithology Studies",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Şarkıları Neden Sabaha Karşı Değişir?",
+  "_topic": "Kargaların Yüzleri Unutmama Yeteneği Nereden Geliyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-22T23:17:21.165014+00:00",
+  "generated_at": "2026-09-23T09:59:36.476620+00:00",
   "topic_guard_days": 180
 }

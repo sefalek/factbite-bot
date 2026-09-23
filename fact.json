@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Şeffaf Pelerini",
-    "body": "Deniz analarının beyni, kemiği ve hatta kanı yok. Buna rağmen okyanusların en eski ve en başarılı avcılarından biri olmayı başarıyorlar."
+    "headline": "Yıldızların Yağmuru Aslında Ne?",
+    "body": "Gökyüzünde kayan yıldızlar gördüğümüzde hemen dilek tutarız. Ama o ışıltılı anın arkasında bambaşka bir gerçek var. Aslında gördüğümüz şey bir yıldız değil, uzaydan gelen minik taş parçalarının atmosferimizde yanmasıdır."
   },
   "en": {
-    "headline": "The Transparent Cape of the Seas",
-    "body": "Jellyfish have no brain, bones, or even blood. Yet, they manage to be one of the oldest and most successful predators in the oceans."
+    "headline": "What Are Shooting Stars Really?",
+    "body": "When we see shooting stars in the sky, we quickly make a wish. But behind that glowing moment lies a completely different truth. What we actually see is not a star at all, but tiny pieces of space rock burning up in our atmosphere."
   },
   "es": {
-    "headline": "La Capa Transparente de los Mares",
-    "body": "Las medusas no tienen cerebro, huesos ni sangre. Aun así, logran ser uno de los depredadores más antiguos y exitosos de los océanos."
+    "headline": "¿Qué son realmente las estrellas fugaces?",
+    "body": "Cuando vemos estrellas fugaces en el cielo, rápidamente pedimos un deseo. Pero detrás de ese momento brillante hay una verdad completamente diferente. Lo que realmente vemos no es una estrella, sino pequeños trozos de roca espacial quemándose en nuestra atmósfera."
   },
   "ar": {
-    "headline": "عباءة البحار الشفافة",
-    "body": "قناديل البحر ليس لها دماغ أو عظام أو حتى دم. ومع ذلك، فإنها تمكنت من أن تكون واحدة من أقدم وأنجح المفترسات في المحيطات."
+    "headline": "ما هي الشهاب حقاً؟",
+    "body": "عندما نرى الشهاب في السماء، نتمنى امنية بسرعة. ولكن وراء تلك اللحظة المتألقة تكمن حقيقة مختلفة تماماً. ما نراه في الواقع ليس نجماً على الإطلاق، بل هي قطع صغيرة من الصخور الفضائية تحترق في غلافنا الجوي."
   },
   "reel_hook": {
-    "tr": "Hiçbir organı yok ama okyanusları o yönetiyor...",
-    "en": "It has no organs, yet it rules the oceans...",
-    "es": "No tiene órganos, pero gobierna los océanos...",
-    "ar": "ليس لديه أعضاء، ومع ذلك فهو يحكم المحيطات..."
+    "tr": "Gökyüzünde kayan o şeyin aslında yıldız olmadığını biliyor muydunuz?",
+    "en": "Did you know that thing shooting across the sky isn't actually a star?",
+    "es": "¿Sabías que eso que cruza el cielo no es realmente una estrella?",
+    "ar": "هل تعلم أن ذلك الشيء الذي يمر عبر السماء ليس نجماً حقاً؟"
   },
   "story_question": {
-    "tr": "Beyni ve kemiği olmayan bu canlı milyonlarca yıldır okyanuslarda nasıl hayatta kalıyor?",
-    "en": "How has this creature without a brain or bones survived in the oceans for millions of years?",
-    "es": "¿Cómo ha sobrevivido esta criatura sin cerebro ni huesos en los océanos durante millones de años?",
-    "ar": "كيف استمر هذا المخلوق بدون دماغ أو عظام في البقاء على قيد الحياة في المحيطات لمليون سنة؟"
+    "tr": "Atmosfere giren ve kayan yıldız olarak gördüğümüz bu taş parçalarına ne ad verिlir?",
+    "en": "What are these space rocks entering our atmosphere and seen as shooting stars called?",
+    "es": "¿Cómo se llaman estas rocas espaciales que entran en nuestra atmósfera y se ven como estrellas fugaces?",
+    "ar": "ما هي اسم هذه الصخور الفضائية التي تدخل غلافنا الجوي وتُرى كشهب؟"
   },
   "story_options": [
-    "Hızlı yüzerek",
-    "Özel zehir üreterek",
-    "Vücut yapısı ve akıntıları kullanarak"
+    "Meteor",
+    "Asteroit",
+    "Kuyruklu Yıldız"
   ],
   "hashtags": [
     "#FactBite",
+    "#uzay",
     "#bilim",
-    "#doğa",
-    "#okyanus",
-    "#ilginçbilgiler",
-    "#denizanalari",
-    "#biyoloji"
+    "#astronomi",
+    "#gökyüzü",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı doğa gerçekleri için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising nature facts!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes de la naturaleza!",
-    "ar": "لا تنس المتابعة لمزيد من حقائق الطبيعة المدهشة!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/jellyfish"
+    "name": "NASA Science",
+    "url": "https://science.nasa.gov/solar-system/meteors-meteorites/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Şeffaf Pelerini",
+  "_topic": "Yıldızların Yağmuru Aslında Ne?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-23T17:46:33.117699+00:00",
+  "generated_at": "2026-09-23T18:54:53.665911+00:00",
   "topic_guard_days": 180
 }

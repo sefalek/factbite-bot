@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin En Garip Beslenme Yöntemi",
-    "body": "Denizlerde yaşayan bazı kabuklular, yiyecekleri yakalamak için kendi bacaklarını birer kepçe gibi kullanır. Ancak bu bacaklar sadece avlanmakla kalmaz; aynı zamanda nefes almalarını da sağlar. Yani bu canlılar, ayaklarıyla nefes alıp yemek yerler."
+    "headline": "Kuşlar Nezaketten mi Yoksa Sadece...",
+    "body": "Gökyüzünde süzülen kuşların arkalarındaki o dev V harfini hiç fark ettiniz mi? Bu sadece muazzam bir uyum görüntüsü değil. Öndeki kuş kanat çırparken arkasında görünmez bir hava akımı, yani bir yükselme dalgası yaratır. Arkadaki kuşlar bu dalgayı kullanarak daha az enerji harcar, tıpkı bisiklet sürerken birinin arkasına saklanmak gibi. Hatta uzun göç yollarında lider yorulduğunda hemen arkadakiyle yer değiştirir. Yani bu kusursuz uçuşun sırrı, tamamen takım çalışması ve akıllıca bir enerji tasarrufudur."
   },
   "en": {
-    "headline": "The Ocean's Strangest Feeding Method",
-    "body": "Some marine crustaceans use their legs like scoops to catch food. But these legs don't just hunt; they also allow them to breathe. Essentially, these creatures breathe and eat with their feet."
+    "headline": "Do Birds Fly in a V-Shape Out of Politeness or...",
+    "body": "Have you ever noticed the giant V-shape birds make in the sky? It's not just for a pretty, coordinated view. When the lead bird flaps its wings, it creates an upward airflow behind it. The birds trailing behind ride this wave to save energy, much like drafting behind a truck on a highway. During long migrations, when the leader gets tired, it simply rotates to the back. This flawless flight pattern is actually pure teamwork and smart energy conservation."
   },
   "es": {
-    "headline": "El método de alimentación más extraño del océano",
-    "body": "Ciertos crustáceos marinos usan sus patas como cucharas para atrapar comida. Pero estas patas no solo cazan, sino que también les permiten respirar. Básicamente, estas criaturas respiran y comen con sus patas."
+    "headline": "¿Vuelan las aves en forma de V por cortesía o...",
+    "body": "¿Alguna vez has notado la formación en V que hacen las aves en el cielo? No es solo por estética. Cuando el ave líder bate sus alas, crea una corriente de aire ascendente detrás de ella. Las aves que van detrás aprovechan esta ola para gastar menos energía, muy parecido a ir detrás de otro vehículo en la carretera. En largas migraciones, cuando el líder se cansa, pasa a la parte trasera. Este vuelo perfecto es pura cooperación y ahorro de energía."
   },
   "ar": {
-    "headline": "أغرب طريقة تغذية في المحيط",
-    "body": "تستخدم بعض القشريات البحرية أرجلها كدلاء لالتقاط الطعام. لكن هذه الأرجل لا تصطاد فحسب، بل تتيح لها التنفس أيضاً. باختصار، تتنفس هذه الكائنات وتأكل بأقدامها."
+    "headline": "هل تطير الطيور على شكل حرف V بأدب أم...",
+    "body": "هل لاحظت من قبل شكل حرف V الضخم الذي تصنعه الطيور في السماء؟ إنه ليس مجرد مظهر متناسق. عندما يخفق الطائر المقدم جناحيه، فانه يخلق تدفقاً هوائياً صاعداً خلفه. تستفيد الطيور التي تتبعه من هذه الموجة لتوفير الطاقة، تشبه تماماً القيادة خلف مركبة أخرى. خلال الهجرات الطويلة، عندما يتعب القائد، ينتقل إلى الخلف مباشرة. هذا الطيران المثالي هو في الواقع عمل جماعي وتوفير ذكي للطاقة."
   },
   "reel_hook": {
-    "tr": "Ayaklarıyla nefes alıp yemek yiyen bir canlıyı hayal edebiliyor musun?",
-    "en": "Can you imagine a creature that breathes and eats with its feet?",
-    "es": "¿Puedes imaginar una criatura que respira y come con sus patas?",
-    "ar": "هل يمكنك تخيل كائن يتنفس ويأكل بقدميه؟"
+    "tr": "Gökyüzündeki o meşhur V harfinin nedenini biliyor musunuz?",
+    "en": "Do you know the real reason behind that famous V-shape in the sky?",
+    "es": "¿Conoces la verdadera razón detrás de esa famosa forma de V en el cielo?",
+    "ar": "هل تعلم السبب الحقيقي وراء شكل حرف V الشهير في السماء؟"
   },
   "story_question": {
-    "tr": "Sence bu tuhaf özellik hangi canlıda görülür?",
-    "en": "Which creature do you think has this bizarre trait?",
-    "es": "¿Qué criatura crees que tiene este extraño rasgo?",
-    "ar": "أي كائن تعتقد أنه يمتلك هذه الخصلة الغريبة؟"
+    "tr": "Göç sırasında öndeki lider kuş yorulduğunda ne olur?",
+    "en": "What happens when the lead bird gets tired during migration?",
+    "es": "¿Qué sucede cuando el ave líder se cansa durante la migración?",
+    "ar": "ماذا يحدث عندما يتعب الطائر القائد أثناء الهجرة؟"
   },
   "story_options": [
-    "Midye",
-    "Barnacle (Midye kabuklusu)",
-    "Yengeç"
+    "En arkaya geçer",
+    "Yalnız başına uçmaya devam eder",
+    "Sürüden ayrılır"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
     "#doğa",
-    "#ilginçbilgiler",
-    "#deniz",
-    "#canlılar",
-    "#keşfet"
+    "#kuşlar",
+    "#bilim",
+    "#hayvanlar",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Follow for more surprising facts like this!",
+    "es": "¡Sígueme para más datos sorprendentes como este!",
+    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "surprise": 8,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Marine Biological Laboratory",
-    "url": "https://www.mbl.edu"
+    "name": "Audubon Society Ornithology Studies",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin En Garip Beslenme Yöntemi",
+  "_topic": "Kuşlar Nezaketten mi Yoksa Sadece...",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-23T20:12:55.514674+00:00",
+  "generated_at": "2026-09-23T22:05:47.732503+00:00",
   "topic_guard_days": 180
 }

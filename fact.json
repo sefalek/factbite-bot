@@ -1,59 +1,58 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Deniz Atlarının Erkekleri Doğurur",
-    "body": "Doğada eşine az rastlanır bir mucize: Deniz atlarında gebelik ve doğum görevini erkekler üstlenir. Dişinin bıraktığı yumurtalar, erkeğin özel kesesinde güvenle saklanır ve yavrular orada gelişir."
+    "headline": "Ayıların Kış Uykusu Sırrı",
+    "body": "Ayıların aylarca süren kış uykusu sırasında tuvalete gitmediğini biliyor muydunuz? Vücutları atıkları dışarı atmak yerine üreye dönüştürüp protein sentezlemek için yeniden kullanır."
   },
   "en": {
-    "headline": "Male Seahorses Give Birth",
-    "body": "A rare wonder in nature: In seahorses, pregnancy and birth are handled by the males. The eggs left by the female are safely stored in the male's specialized pouch where the young develop."
+    "headline": "The Secret of Bear Hibernation",
+    "body": "Did you know bears don't use the bathroom during their months-long hibernation? Instead of excreting waste, their bodies recycle urea to synthesize protein."
   },
   "es": {
-    "headline": "Los Caballitos de Mar Machos Dan a Luz",
-    "body": "Una rareza en la naturaleza: en los caballitos de mar, el embarazo y el parto corren a cargo de los machos. Los huevos depositados por la hembra se guardan de forma segura en la bolsa especializada del macho."
+    "headline": "El secreto de la hibernación de los osos",
+    "body": "¿Sabías que los osos no van al baño durante su hibernación de meses? En lugar de excretar desechos, sus cuerpos reciclan la urea para sintetizar proteínas."
   },
   "ar": {
-    "headline": "ذكور فرس البحر تلد",
-    "body": "معجزة نادرة في الطبيعة: في فرس البحر، يتولى الذكور مسؤولية الحمل والولادة. تُحفظ البيوض التي تضعها الأنثى بأمان في كيس الذكر المخصص حيث تتطور الصغار."
+    "headline": "سر سبات الدببة",
+    "body": "هل تعلم أن الدببة لا تذهب إلى دورة المياه طوال فترة سباتها التي تستمر شهوراً؟ بدلاً من إخراج الفضلات، تعيد أجسامها تدوير البولينا لتصنيع البروتين."
   },
   "reel_hook": {
-    "tr": "Bebeklerini erkeklerin doğurduğu bir canlıyı biliyor musunuz?",
-    "en": "Do you know a creature where the males give birth to their babies?",
-    "es": "¿Conoces a una criatura en la que los machos dan a luz a sus crías?",
-    "ar": "هل تعرف كلوخاً يلد فيه الذكور صغارهم؟"
+    "tr": "Aylarca uyuyan bir ayı hiç tuvalete gitmez mi?",
+    "en": "Does a hibernating bear ever go to the bathroom?",
+    "es": "¿Un oso en hibernación va al baño?",
+    "ar": "هل يذهب الدب في سباته إلى دورة المياه أبداً؟"
   },
   "story_question": {
-    "tr": "Hangi deniz canlısında kuluçka ve doğum erkekler tarafından gerçekleştirilir?",
-    "en": "In which marine creature are incubation and birth carried out by males?",
-    "es": "¿En qué criatura marina la incubación y el nacimiento son realizados por los machos?",
-    "ar": "في أي كائن بحري يتم الحضنة والولادة بواسطة الذكور؟"
+    "tr": "Ayıların kış uykusunda vücutlarındaki atıkları ne yaptığına şaşırdınız mı?",
+    "en": "Were you surprised by what hibernating bears do with their body waste?",
+    "es": "¿Te sorprendió lo que hacen los osos en hibernación con sus desechos?",
+    "ar": "هل تفاجأت بما تفعله الدببة بفضلات أجسامها أثناء السبات؟"
   },
   "story_options": [
-    "Yunuslar",
-    "Deniz Atları",
-    "Ahtapotlar"
+    "Evet, inanılmaz!",
+    "Zaten biliyordum",
+    "İlk defa duydum"
   ],
   "hashtags": [
     "#FactBite",
-    "#DoğaMucizeleri",
-    "#DenizAtı",
-    "#Bilim",
-    "#İlginçBilgiler",
-    "#HayvanlarAlemi",
-    "#Keşfet"
+    "#bilim",
+    "#doğa",
+    "#hayvanlar",
+    "#keşfet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı doğa gerçekleri için takipte kal!",
-    "en": "Stay tuned for more surprising nature facts!",
-    "es": "¡Sigue atento a más datos sorprendentes sobre la naturaleza!",
-    "ar": "تابعنا للمزيد من حقائق الطبيعة المدهشة!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more nature secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos de la naturaleza como este!",
+    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.2
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
     "name": "National Geographic",
@@ -61,9 +60,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Deniz Atlarının Erkekleri Doğurur",
+  "_topic": "Ayıların Kış Uykusu Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-24T11:42:14.113276+00:00",
+  "generated_at": "2026-09-24T13:34:59.284264+00:00",
   "topic_guard_days": 180
 }

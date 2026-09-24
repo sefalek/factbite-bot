@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ayıların Kış Uykusu Sırrı",
-    "body": "Ayıların aylarca süren kış uykusu sırasında tuvalete gitmediğini biliyor muydunuz? Vücutları atıkları dışarı atmak yerine üreye dönüştürüp protein sentezlemek için yeniden kullanır."
+    "headline": "Yıldızlar Neden Mavi, Kırmızı ya da Beyaz Görünür?",
+    "body": "Gökyüzüne baktığımızda yıldızların farklı renklerde parladığını görürüz. Kimi mavi, kimi kırmızı, kimi de beyazdır. Bunun sebebi yıldızların boyutu değil, yüzey sıcaklıklarıdır. En sıcak yıldızlar mavi, orta sıcaklıktakiler sarı ve beyaz, en soğuk olanlar ise kırmızı renkte parlar."
   },
   "en": {
-    "headline": "The Secret of Bear Hibernation",
-    "body": "Did you know bears don't use the bathroom during their months-long hibernation? Instead of excreting waste, their bodies recycle urea to synthesize protein."
+    "headline": "Why Do Stars Appear Blue, Red, or White?",
+    "body": "When we look at the night sky, we see stars glowing in different colors—some blue, some red, some white. This isn't because of their size, but their surface temperatures. The hottest stars shine blue, those with medium temperatures are yellow and white, and the coolest ones glow red."
   },
   "es": {
-    "headline": "El secreto de la hibernación de los osos",
-    "body": "¿Sabías que los osos no van al baño durante su hibernación de meses? En lugar de excretar desechos, sus cuerpos reciclan la urea para sintetizar proteínas."
+    "headline": "¿Por qué las estrellas se ven azules, rojas o blancas?",
+    "body": "Cuando miramos al cielo nocturno, vemos estrellas brillar en diferentes colores. No es por su tamaño, sino por sus temperaturas superficiales. Las estrellas más calientes brillan en azul, las de temperatura media en amarillo y blanco, y las más frías en rojo."
   },
   "ar": {
-    "headline": "سر سبات الدببة",
-    "body": "هل تعلم أن الدببة لا تذهب إلى دورة المياه طوال فترة سباتها التي تستمر شهوراً؟ بدلاً من إخراج الفضلات، تعيد أجسامها تدوير البولينا لتصنيع البروتين."
+    "headline": "لماذا تبدو النجوم باللون الأزرق أو الأحمر أو الأبيض؟",
+    "body": "عندما ننظر إلى سماء الليل، نرى النجوم تتألق بألوان مختلفة. ليس بسبب حجمها، بل بسبب درجات حرارة أسطحها. النجوم الأكثر سخونة تتألق باللون الأزرق، وتلك ذات الحرارة المتوسطة بالأصفر والأبيض، بينما الأبرد تضيء باللون الأحمر."
   },
   "reel_hook": {
-    "tr": "Aylarca uyuyan bir ayı hiç tuvalete gitmez mi?",
-    "en": "Does a hibernating bear ever go to the bathroom?",
-    "es": "¿Un oso en hibernación va al baño?",
-    "ar": "هل يذهب الدب في سباته إلى دورة المياه أبداً؟"
+    "tr": "Gökyüzündeki yıldızların rengi size onların ne kadar yaşlı olduğunu değil, bambaşka bir sırrını söylüyor.",
+    "en": "The color of the stars in the sky doesn't tell you how old they are, but a completely different secret.",
+    "es": "El color de las estrellas en el cielo no te dice qué tan viejas son, sino un secreto completamente diferente.",
+    "ar": "لون النجوم في السماء لا يخبرك بمدى قِدمها، بل يخبرك بسر مختلف تماماً."
   },
   "story_question": {
-    "tr": "Ayıların kış uykusunda vücutlarındaki atıkları ne yaptığına şaşırdınız mı?",
-    "en": "Were you surprised by what hibernating bears do with their body waste?",
-    "es": "¿Te sorprendió lo que hacen los osos en hibernación con sus desechos?",
-    "ar": "هل تفاجأت بما تفعله الدببة بفضلات أجسامها أثناء السبات؟"
+    "tr": "Sizce gökyüzündeki en sıcak yıldızlar hangi renkte parlar?",
+    "en": "In your opinion, what color do the hottest stars in the sky shine?",
+    "es": "En tu opinión, ¿de qué color brillan las estrellas más calientes del cielo?",
+    "ar": "برأيك، ما هو اللون الذي تتألق به النجوم الأكثر سخونة في السماء؟"
   },
   "story_options": [
-    "Evet, inanılmaz!",
-    "Zaten biliyordum",
-    "İlk defa duydum"
+    "Kırmızı",
+    "Mavi",
+    "Sarı"
   ],
   "hashtags": [
     "#FactBite",
+    "#uzay",
+    "#yıldızlar",
     "#bilim",
-    "#doğa",
-    "#hayvanlar",
+    "#astronomi",
     "#keşfet",
-    "#ilginçbilgiler"
+    "#gökyüzü"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos de la naturaleza como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Benzer bilim gerçeği için kaydetmeyi unutma!",
+    "en": "Don't forget to save for more science facts!",
+    "es": "¡No olvides guardar para más datos científicos!",
+    "ar": "لا تنس حفظ المنشور للمزيد من الحقائق العلمية!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "European Southern Observatory",
+    "url": "https://www.eso.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ayıların Kış Uykusu Sırrı",
+  "_topic": "Yıldızlar Neden Mavi, Kırmızı ya da Beyaz Görünür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-24T13:34:59.284264+00:00",
+  "generated_at": "2026-09-24T18:53:21.202257+00:00",
   "topic_guard_days": 180
 }

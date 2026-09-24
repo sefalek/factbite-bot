@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Salyangozların Uyku Sırrı",
-    "body": "Salyangozların her zaman aktif olduğunu düşünüyorsanız yanılıyorsunuz. Uygun olmayan hava koşullarında, özellikle kuraklık veya aşırı soğuklarda, hayatta kalmak için tam üç yıla kadar süren derin bir uykuya, yani estivasyona yatabilirler."
+    "headline": "Kibritin Yanma Sırrı Kutunun Kenarındadır",
+    "body": "Cebinizde taşıdığınız o küçük kibrit çöpü, aslında kendi başına asla yanmaz. Başındaki kükürt tek başına alev alamaz; yanmayı başlatan sihirli kimyasal, kutunun yanındaki o pürüzlü şeritte saklıdır."
   },
   "en": {
-    "headline": "The Sleeping Secret of Snails",
-    "body": "If you think snails are always active, you are mistaken. In unfavorable weather conditions, especially droughts or extreme cold, they can enter a deep sleep lasting up to three years, known as estivation, to survive."
+    "headline": "The Secret of How Matches Burn",
+    "body": "That small matchstick you carry in your pocket cannot actually catch fire on its own. The sulfur on its head cannot ignite by itself; the magic chemical that triggers the burn is hidden in that rough strip on the side of the box."
   },
   "es": {
-    "headline": "El secreto del sueño de los caracoles",
-    "body": "Si crees que los caracoles siempre están activos, te equivocas. En condiciones climáticas desfavorables, especialmente sequías o frío extremo, pueden entrar en un sueño profundo que dura hasta tres años, conocido como estivación, para sobrevivir."
+    "headline": "El secreto de cómo se encienden las cerillas",
+    "body": "Esa pequeña cerilla que llevas en el bolsillo en realidad no puede prender fuego por sí sola. El azufre de su cabeza no puede arder solo; el químico mágico que inicia la combustión está oculto en esa tira rugosa al lado de la caja."
   },
   "ar": {
-    "headline": "سر نوم القواقع",
-    "body": "إذا كنت تعتقد أن القواقع نشطة دائماً، فأنت مخطئ. في الظروف الجوية غير الملائمة، خاصة الجفاف أو البرودة الشديدة، يمكنها الدخول في نوم عميق يستمر لمدة تصل إلى ثلاث سنوات، يُعرف بالاستيفاء، من أجل البقاء على قيد الحياة."
+    "headline": "سر اشتعال أعواد الكبريت",
+    "body": "عود الكبريت الصغير الذي تحمله في جيبك لا يمكنه في الواقع أن يشتعل بمفرده. الكبريت الموجود على رأسه لا يمكنه الاشتعال ذاتياً؛ المادة الكيميائية السحرية التي تبدأ الاحتراق مخبأة في ذلك الشريط الخشن على جانب العلبة."
   },
   "reel_hook": {
-    "tr": "Hangi canlı tam üç yıl boyunca kesintisiz uyuyabilir? Cevabı tahmin edemezsiniz.",
-    "en": "Which creature can sleep uninterrupted for a full three years? You will never guess.",
-    "es": "¿Qué criatura puede dormir ininterrumpidamente durante tres años enteros? Jamás lo adivinarás.",
-    "ar": "أي مخلوق يمكنه النوم دون انقطاع لمدة ثلاث سنوات كاملة؟ لن تتوقع الإجابة أبداً."
+    "tr": "Kibrit çöpünün kutu olmadan asla yanamayacağını biliyor muydunuz?",
+    "en": "Did you know that a matchstick can never catch fire without the box?",
+    "es": "¿Sabías que una cerilla nunca puede encenderse sin la caja?",
+    "ar": "هل كنت تعلم أن عود الكبريت لا يمكن أن يشتعل أبداً بدون العلبة؟"
   },
   "story_question": {
-    "tr": "Salyangozların üç yıla kadar süren bu derin uyku dönemine ne ad verilir?",
-    "en": "What is this deep sleep period of snails lasting up to three years called?",
-    "es": "¿Cómo se llama este periodo de sueño profundo de los caracoles que dura hasta tres años?",
-    "ar": "ماذا يسمى فترة النوم العميق هذه للقوقعة التي تصل إلى ثلاث سنوات؟"
+    "tr": "Kibrit çöpünün başındaki madde tek başına sürtünmeyle yanar mı?",
+    "en": "Does the substance on the match head ignite with friction alone?",
+    "es": "¿La sustancia en la cabeza de la cerilla se enciende solo con la fricción?",
+    "ar": "هل تشتعل المادة الموجودة على رأس عود الكبريت بالاحتكاك وحدها؟"
   },
   "story_options": [
-    "Estivasyon",
-    "Kış Uykusu",
-    "Metamorfoz"
+    "Evet, hemen yanar",
+    "Hayır, kutu şarttır",
+    "Sadece sıcakta yanar"
   ],
   "hashtags": [
     "#FactBite",
-    "#salyangoz",
-    "#ilginçbilgiler",
-    "#doğa",
     "#bilim",
-    "#canlılar",
-    "#biyoloji"
+    "#ilginçbilgiler",
+    "#teknoloji",
+    "#keşfet",
+    "#faydalıbilgiler"
   ],
   "cta": {
-    "tr": "Bunu daha önce duymuş muydunuz? Yorumlarda buluşalım ve takip etmeyi unutmayın!",
-    "en": "Had you ever heard this before? Let's meet in the comments and don't forget to follow!",
-    "es": "¿Habías oído esto antes? ¡Nos vemos en los comentarios y no olvides seguirnos!",
-    "ar": "هل سمعت هذا من قبل؟ لنلتقي في التعليقات ولا تنس المتابعة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Chemistry World",
+    "url": "https://www.chemistryworld.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Salyangozların Uyku Sırrı",
+  "_topic": "Kibritin Yanma Sırrı Kutunun Kenarındadır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-24T20:23:54.763662+00:00",
+  "generated_at": "2026-09-24T23:27:36.410089+00:00",
   "topic_guard_days": 180
 }

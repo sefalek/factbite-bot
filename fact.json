@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedi Balıklarının Tadı Nerededir?",
-    "body": "Yemekleri sadece ağzımızla tadarız sanıyorsanız yanıltıcı bir detay var. Kedi balıkları, tat alma hücrelerini sadece ağızlarında değil, tüm dış derilerinde taşırlar. Bu sayede yüzdükleri sudaki en ufak bir lezzet ipucunu bile doğrudan vücutlarıyla hissedebilirler."
+    "headline": "Kuşlar Nezaketten mi Durur?",
+    "body": "Geceleri gökyüzünde süzülen kuşların birbirine hiç çarpmadığını hiç fark ettiniz mi? Aslında bunun sebebi birbirlerine yol vermeleri değil, tamamen optik yapıları. Kuşların gözleri kafalarının yan tarafındadır ve neredeyse 360 derece görüş açısına sahiptirler. Bu sayede yanlarından geçenleri anlık olarak takip edip mesafeyi kusursuz ayarlayabilirler."
   },
   "en": {
-    "headline": "Where is a Catfish's Taste?",
-    "body": "If you think we only taste food with our mouths, catfish have a surprising twist. They carry their taste buds not just in their mouths, but all over their outer skin, allowing them to sense flavors directly through their bodies as they swim."
+    "headline": "Do Birds Have 360 Vision?",
+    "body": "Have you ever noticed how birds flying in flocks at night never seem to crash? It is not about politeness, but their unique optical structure. A bird's eyes are positioned on the sides of its head, giving it nearly a 360-degree field of view. This allows them to track nearby flyers instantly and maintain perfect distance."
   },
   "es": {
-    "headline": "¿Dónde está el sentido del gusto de un pez gato?",
-    "body": "Si crees que solo saboreamos la comida con la boca, los peces gato tienen un giro sorprendente. Llevan sus papilas gustativas no solo en la boca, sino en toda su piel exterior, lo que les permite sentir los sabores directamente con el cuerpo."
+    "headline": "¿Tienen las aves visión de 360 grados?",
+    "body": "¿Alguna vez has notado que las aves que vuelan en bandada por la noche nunca chocan? No es por cortesía, sino por su estructura óptica única. Los ojos de las aves están a los lados de su cabeza, lo que les da un campo de visión de casi 360 grados."
   },
   "ar": {
-    "headline": "أين تقع حاسة التذوق لدى سمك السلور؟",
-    "body": "إذا كنت تعتقد أننا نتذوق الطعام بأفواهنا فقط، فإن سمك السلور لديه ميزة مذهلة. فهو يحمل براعم التذوق ليس فقط في فمه، بل في جميع أنحاء جلده الخارجي، مما يسمح له بالشعور بالنكهات مباشرة عبر جسمه أثناء سباحته."
+    "headline": "هل تمتلك الطيور رؤية بزاوية 360 درجة؟",
+    "body": "هل لاحظت من قبل أن الطيور التي تطير في أسراب ليلاً لا تصطدم ببعضها أبدًا؟ الأمر لا يتعلق باللطف، بل ببنيتها البصرية الفريدة. عيون الطيور تقع على جانبي رؤوسها، مما يمنحها مجال رؤية يقترب من 360 درجة."
   },
-  "reel_hook": {
-    "tr": "Yemeğin tadını sadece ağzınızla aldığınızı mı sanıyorsunuz?",
-    "en": "Do you think you only taste food with your mouth?",
-    "es": "¿Crees que solo saboreas la comida con la boca?",
-    "ar": "هل تعتقد أنك تتذوق الطعام بفمك فقط؟"
+  "reel__hook": {
+    "tr": "Gökyüzünde yüzlerce kuş nasıl oluyor da asla çarpışmıyor?",
+    "en": "How do hundreds of birds in the sky never crash?",
+    "es": "¿Cómo es posible que cientos de aves en el cielo nunca chocar?",
+    "ar": "كيف لا تصطدم مئات الطيور في السماء ببعضها أبداً؟"
   },
   "story_question": {
-    "tr": "Hangi hayvan tat alma hücrelerini tüm vücudunda taşır?",
-    "en": "Which animal carries taste buds all over its body?",
-    "es": "¿Qué animal lleva papilas gustativas por todo su cuerpo?",
-    "ar": "ما هو الحيوان الذي يحمل براعم التذوق في جميع أنحاء جسمه؟"
+    "tr": "Kuşların gözleri başlarının neresindedir?",
+    "en": "Where are a bird's eyes located?",
+    "es": "¿Dónde se encuentran los ojos de un ave?",
+    "ar": "أين تقع عيون الطيور؟"
   },
   "story_options": [
-    "Kedi balığı",
-    "Köpekbalığı",
-    "Yunus"
+    "Yanlarında",
+    "Önlerinde",
+    "Arkalarında"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
-    "#ilginçbilgiler",
-    "#balıklar",
-    "#biyoloji"
+    "#Kuşlar",
+    "#Doğa",
+    "#Bilim",
+    "#Hayvanlar",
+    "#İlginçBilgiler",
+    "#Keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 8.5
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Ornithology Research",
+    "url": "https://www.audubon.org/news/how-birds-see-world"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedi Balıklarının Tadı Nerededir?",
+  "_topic": "Kuşlar Nezaketten mi Durur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-25T22:00:46.105608+00:00",
+  "generated_at": "2026-09-25T23:33:47.428940+00:00",
   "topic_guard_days": 180
 }

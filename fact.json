@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Uçarken Neden Yorulmaz?",
-    "body": "Gökyüzünde süzülen kuşların sırrı inanılmaz bir anatomide saklıdır. Uçarken kaslarının ihtiyaç duyduğu oksijeni sadece akciğerleriyle değil, kemiklerinin içine kadar uzanan özel hava keseleri sayesinde sağlarlar. Bu sayede hem ağırlıkları inanılmaz derecede hafifler hem de nefes sistemleri kesintisiz bir pompa gibi çalışır."
+    "headline": "Kurbağalar Aslında Ağızlarıyla Su İçmez!",
+    "body": "Görünüşe aldanmayın; kurbağaların suya eğilip içtiğini hiç gördünüz mü? Tabii ki hayır! Çünkü bu sevimli amfibiler suyu ağızlarıyla değil, tamamen derileri aracılığıyla emerler. Karın bölgelerindeki özel bir alan, çevrelerindeki nemi ve suyu bir sünger gibi doğrudan vücutlarına çeker."
   },
   "en": {
-    "headline": "Why Birds Don't Get Tired While Flying",
-    "body": "The secret of birds gliding in the sky lies in an incredible anatomy. They supply the oxygen their muscles need not just with their lungs, but through special air sacs extending even into their bones. This keeps them remarkably lightweight while their respiratory system works like a continuous pump."
+    "headline": "Frogs Actually Don't Drink Water with Their Mouths!",
+    "body": "Don't let appearances fool you; have you ever seen a frog bend down to drink water? Of course not! Because these cute amphibians absorb water entirely through their skin. A special area on their belly pulls moisture and water from their environment directly into their bodies like a sponge."
   },
   "es": {
-    "headline": "Por qué las aves no se cansan al volar",
-    "body": "El secreto de las aves que planean en el cielo radica en una anatomía increíble. Suministran el oxígeno que sus músculos necesitan no solo con sus pulmones, sino a través de sacos de aire especiales que se extienden incluso en sus huesos. Esto los mantiene notablemente ligeros mientras su sistema respiratorio funciona como una bomba continua."
+    "headline": "¡Las ranas en realidad no beben agua por la boca!",
+    "body": "No te dejes engañar por las apariencias; ¿alguna vez has visto a una rana agacharse para beber agua? ¡Por supuesto que no! Porque estos simpáticos anfibios absorben el agua completamente a través de su piel. Un área especial en su abdomen extrae la humedad y el agua de su entorno directamente hacia sus cuerpos como una esponja."
   },
   "ar": {
-    "headline": "لماذا لا تتعب الطيور أثناء الطيران",
-    "body": "سر الطيور التي تحلق في السماء يكمن في تشريح مذهل. فهي توفر الأكسجين الذي تحتاجه عضلاتها ليس فقط من خلال رئتيها، بل عبر أكياس هوائية خاصّة تمتد حتى داخل عظامها. هذا يجعلها خفيفة الوزن بشكل ملحوظ بينما يعمل جهازها التنفسي كمضخة مستمرة."
+    "headline": "الضفادع لا تشرب الماء بأفواهها حقاً!",
+    "body": "لا تنخدع بالمظاهر؛ هل رأيت من قبل ضفدعاً ينحني ليشرب الماء؟ بالطبع لا! لأن هذه البرمائيات اللطيفة تمتص الماء بالكامل من خلال جلدها. منطقة خاصة على بطنها تسحب الرطوبة والماء من بيئتها مباشرة إلى أجسامها مثل الإسفنجة."
   },
   "reel_hook": {
-    "tr": "Kilometrelerce uçan bir kuşun hiç mola vermeden nasıl nefes alabildiğini biliyor musun?",
-    "en": "Do you know how a bird flying for miles can breathe without taking a single break?",
-    "es": "¿Sabes cómo un ave que vuela durante kilómetros puede respirar sin tomar un solo descanso?",
-    "ar": "هل تعرف كيف يمكن للطير الذي يطير لمسافات طويلة أن يتنفس دون توقف؟"
+    "tr": "Kurbağalar su içerken neden hiç yutkunmaz hiç düşündünüz mü?",
+    "en": "Have you ever wondered why frogs never swallow when drinking water?",
+    "es": "¿Alguna vez te has preguntado por qué las ranas nunca tragan al beber agua?",
+    "ar": "هل تسااءلت من قبل لماذا لا تبلع الضفادع أبداً عند شرب الماء؟"
   },
   "story_question": {
-    "tr": "Kuşların kemiklerinin içi neden boştur?",
-    "en": "Why are birds' bones hollow?",
-    "es": "¿Por qué los huesos de las aves son huecos?",
-    "ar": "لماذا عظام الطيور مجوفة؟"
+    "tr": "Kurbağalar ihtiyaç duydukları suyu vücutlarına hangi yolla alırlar?",
+    "en": "How do frogs take the water they need into their bodies?",
+    "es": "¿De qué manera las ranas introducen el agua que necesitan en sus cuerpos?",
+    "ar": "كيف تدخل الضفادع الماء الذي تحتاجه إلى أجسامها؟"
   },
   "story_options": [
-    "Daha kolay yüzmek için",
-    "Uçuşu kolaylaştıran hafiflik için",
-    "Daha fazla ses çıkarabilmek için"
+    "Derilerinden emerek",
+    "Ağızlarıyla yutarak",
+    "Solungaç yoluyla"
   ],
   "hashtags": [
     "#FactBite",
+    "#kurbağa",
     "#doğa",
     "#bilim",
-    "#kuşlar",
-    "#biyoloji",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#canlılar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos increíbles como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Bird Respiratory Systems Research",
-    "url": "https://www.audubon.org"
+    "name": "San Diego Zoo Wildlife Alliance",
+    "url": "https://animals.sandiegozoo.org/animals/frog"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Uçarken Neden Yorulmaz?",
+  "_topic": "Kurbağalar Aslında Ağızlarıyla Su İçmez!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-25T13:49:18.565267+00:00",
+  "generated_at": "2026-09-25T17:47:36.762968+00:00",
   "topic_guard_days": 180
 }

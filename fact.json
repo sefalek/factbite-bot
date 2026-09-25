@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kurbağalar Aslında Ağızlarıyla Su İçmez!",
-    "body": "Görünüşe aldanmayın; kurbağaların suya eğilip içtiğini hiç gördünüz mü? Tabii ki hayır! Çünkü bu sevimli amfibiler suyu ağızlarıyla değil, tamamen derileri aracılığıyla emerler. Karın bölgelerindeki özel bir alan, çevrelerindeki nemi ve suyu bir sünger gibi doğrudan vücutlarına çeker."
+    "headline": "Solucanlar Gözleri Olmadan Işığı Nasıl Hisseder?",
+    "body": "Toprak solucanlarının gözleri yoktur, hatta kulakları ve burunları da yoktur. Ancak buna rağmen karanlıkta olduklarını ya da dışarıda tehlikeli bir ışık olduğunu mükemmel bir şekilde bilirler. Vücutlarının tamamına yayılmış özel ışığa duyarlı hücreler sayesinde, yeryüzüne ne zaman yaklaşmamaları gerektiğini doğrudan hissederler."
   },
   "en": {
-    "headline": "Frogs Actually Don't Drink Water with Their Mouths!",
-    "body": "Don't let appearances fool you; have you ever seen a frog bend down to drink water? Of course not! Because these cute amphibians absorb water entirely through their skin. A special area on their belly pulls moisture and water from their environment directly into their bodies like a sponge."
+    "headline": "How Do Worms Sense Light Without Eyes?",
+    "body": "Earthworms don't have eyes, ears, or noses. Yet, they perfectly know when they are in the dark or if there is dangerous light outside. Thanks to specialized light-sensitive cells spread across their entire bodies, they can directly sense when they shouldn't approach the surface."
   },
   "es": {
-    "headline": "¡Las ranas en realidad no beben agua por la boca!",
-    "body": "No te dejes engañar por las apariencias; ¿alguna vez has visto a una rana agacharse para beber agua? ¡Por supuesto que no! Porque estos simpáticos anfibios absorben el agua completamente a través de su piel. Un área especial en su abdomen extrae la humedad y el agua de su entorno directamente hacia sus cuerpos como una esponja."
+    "headline": "¿Cómo detectan la luz las lombrices sin ojos?",
+    "body": "Las lombrices de tierra no tienen ojos, orejas ni nariz. Sin embargo, saben perfectamente cuándo están en la oscuridad o si hay luz peligrosa afuera. Gracias a células especiales sensibles a la luz distribuidas por todo su cuerpo, pueden sentir directamente cuándo no deben acercarse a la superficie."
   },
   "ar": {
-    "headline": "الضفادع لا تشرب الماء بأفواهها حقاً!",
-    "body": "لا تنخدع بالمظاهر؛ هل رأيت من قبل ضفدعاً ينحني ليشرب الماء؟ بالطبع لا! لأن هذه البرمائيات اللطيفة تمتص الماء بالكامل من خلال جلدها. منطقة خاصة على بطنها تسحب الرطوبة والماء من بيئتها مباشرة إلى أجسامها مثل الإسفنجة."
+    "headline": "كيف تشعر الديدان بالضوء بدون عيون؟",
+    "body": "لا تمتلك ديدان الأرض عيونًا أو أذانًا أو أنوفًا. ومع ذلك، فهي تعرف تمامًا متى تكون في الظلام أو إذا كان هناك ضوء خطير بالخارج. بفضل الخلايا الخاصة الحساسة للضوء المنتشرة في جميع أنحاء أجسامها، يمكنها الإحساس مباشرة متى يجب عليها عدم الاقتراب من السطح."
   },
   "reel_hook": {
-    "tr": "Kurbağalar su içerken neden hiç yutkunmaz hiç düşündünüz mü?",
-    "en": "Have you ever wondered why frogs never swallow when drinking water?",
-    "es": "¿Alguna vez te has preguntado por qué las ranas nunca tragan al beber agua?",
-    "ar": "هل تسااءلت من قبل لماذا لا تبلع الضفادع أبداً عند شرب الماء؟"
+    "tr": "Gözleri olmayan bir canlı, etrafındaki ışığı nasıl fark eder?",
+    "en": "How does a creature without eyes notice the light around it?",
+    "es": "¿Cómo nota la luz un ser sin ojos a su alrededor?",
+    "ar": "كيف يلاحظ الكائن الحي الذي ليس لديه عيون الضوء من حوله؟"
   },
   "story_question": {
-    "tr": "Kurbağalar ihtiyaç duydukları suyu vücutlarına hangi yolla alırlar?",
-    "en": "How do frogs take the water they need into their bodies?",
-    "es": "¿De qué manera las ranas introducen el agua que necesitan en sus cuerpos?",
-    "ar": "كيف تدخل الضفادع الماء الذي تحتاجه إلى أجسامها؟"
+    "tr": "Solucanlar ışığı hangi organlarıyla hisseder?",
+    "en": "Which part of their body do worms use to sense light?",
+    "es": "¿Con qué parte de su cuerpo sienten la luz las lombrices?",
+    "ar": "ما هو الجزء الذي تستخدمه الديدان للإحساس بالضوء؟"
   },
   "story_options": [
-    "Derilerinden emerek",
-    "Ağızlarıyla yutarak",
-    "Solungaç yoluyla"
+    "Özel deri hücreleriyle",
+    "Kuyruk uçlarıyla",
+    "Ağız içindeki sensörlerle"
   ],
   "hashtags": [
     "#FactBite",
-    "#kurbağa",
-    "#doğa",
     "#bilim",
+    "#doğa",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#canlılar"
+    "#keşfet",
+    "#öğren"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق المماثلة!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "San Diego Zoo Wildlife Alliance",
-    "url": "https://animals.sandiegozoo.org/animals/frog"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kurbağalar Aslında Ağızlarıyla Su İçmez!",
+  "_topic": "Solucanlar Gözleri Olmadan Işığı Nasıl Hisseder?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-25T17:47:36.762968+00:00",
+  "generated_at": "2026-09-25T19:12:55.000453+00:00",
   "topic_guard_days": 180
 }

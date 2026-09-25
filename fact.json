@@ -1,59 +1,58 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Solucanlar Gözleri Olmadan Işığı Nasıl Hisseder?",
-    "body": "Toprak solucanlarının gözleri yoktur, hatta kulakları ve burunları da yoktur. Ancak buna rağmen karanlıkta olduklarını ya da dışarıda tehlikeli bir ışık olduğunu mükemmel bir şekilde bilirler. Vücutlarının tamamına yayılmış özel ışığa duyarlı hücreler sayesinde, yeryüzüne ne zaman yaklaşmamaları gerektiğini doğrudan hissederler."
+    "headline": "Kedi Balıklarının Tadı Nerededir?",
+    "body": "Yemekleri sadece ağzımızla tadarız sanıyorsanız yanıltıcı bir detay var. Kedi balıkları, tat alma hücrelerini sadece ağızlarında değil, tüm dış derilerinde taşırlar. Bu sayede yüzdükleri sudaki en ufak bir lezzet ipucunu bile doğrudan vücutlarıyla hissedebilirler."
   },
   "en": {
-    "headline": "How Do Worms Sense Light Without Eyes?",
-    "body": "Earthworms don't have eyes, ears, or noses. Yet, they perfectly know when they are in the dark or if there is dangerous light outside. Thanks to specialized light-sensitive cells spread across their entire bodies, they can directly sense when they shouldn't approach the surface."
+    "headline": "Where is a Catfish's Taste?",
+    "body": "If you think we only taste food with our mouths, catfish have a surprising twist. They carry their taste buds not just in their mouths, but all over their outer skin, allowing them to sense flavors directly through their bodies as they swim."
   },
   "es": {
-    "headline": "¿Cómo detectan la luz las lombrices sin ojos?",
-    "body": "Las lombrices de tierra no tienen ojos, orejas ni nariz. Sin embargo, saben perfectamente cuándo están en la oscuridad o si hay luz peligrosa afuera. Gracias a células especiales sensibles a la luz distribuidas por todo su cuerpo, pueden sentir directamente cuándo no deben acercarse a la superficie."
+    "headline": "¿Dónde está el sentido del gusto de un pez gato?",
+    "body": "Si crees que solo saboreamos la comida con la boca, los peces gato tienen un giro sorprendente. Llevan sus papilas gustativas no solo en la boca, sino en toda su piel exterior, lo que les permite sentir los sabores directamente con el cuerpo."
   },
   "ar": {
-    "headline": "كيف تشعر الديدان بالضوء بدون عيون؟",
-    "body": "لا تمتلك ديدان الأرض عيونًا أو أذانًا أو أنوفًا. ومع ذلك، فهي تعرف تمامًا متى تكون في الظلام أو إذا كان هناك ضوء خطير بالخارج. بفضل الخلايا الخاصة الحساسة للضوء المنتشرة في جميع أنحاء أجسامها، يمكنها الإحساس مباشرة متى يجب عليها عدم الاقتراب من السطح."
+    "headline": "أين تقع حاسة التذوق لدى سمك السلور؟",
+    "body": "إذا كنت تعتقد أننا نتذوق الطعام بأفواهنا فقط، فإن سمك السلور لديه ميزة مذهلة. فهو يحمل براعم التذوق ليس فقط في فمه، بل في جميع أنحاء جلده الخارجي، مما يسمح له بالشعور بالنكهات مباشرة عبر جسمه أثناء سباحته."
   },
   "reel_hook": {
-    "tr": "Gözleri olmayan bir canlı, etrafındaki ışığı nasıl fark eder?",
-    "en": "How does a creature without eyes notice the light around it?",
-    "es": "¿Cómo nota la luz un ser sin ojos a su alrededor?",
-    "ar": "كيف يلاحظ الكائن الحي الذي ليس لديه عيون الضوء من حوله؟"
+    "tr": "Yemeğin tadını sadece ağzınızla aldığınızı mı sanıyorsunuz?",
+    "en": "Do you think you only taste food with your mouth?",
+    "es": "¿Crees que solo saboreas la comida con la boca?",
+    "ar": "هل تعتقد أنك تتذوق الطعام بفمك فقط؟"
   },
   "story_question": {
-    "tr": "Solucanlar ışığı hangi organlarıyla hisseder?",
-    "en": "Which part of their body do worms use to sense light?",
-    "es": "¿Con qué parte de su cuerpo sienten la luz las lombrices?",
-    "ar": "ما هو الجزء الذي تستخدمه الديدان للإحساس بالضوء؟"
+    "tr": "Hangi hayvan tat alma hücrelerini tüm vücudunda taşır?",
+    "en": "Which animal carries taste buds all over its body?",
+    "es": "¿Qué animal lleva papilas gustativas por todo su cuerpo?",
+    "ar": "ما هو الحيوان الذي يحمل براعم التذوق في جميع أنحاء جسمه؟"
   },
   "story_options": [
-    "Özel deri hücreleriyle",
-    "Kuyruk uçlarıyla",
-    "Ağız içindeki sensörlerle"
+    "Kedi balığı",
+    "Köpekbalığı",
+    "Yunus"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#doğa",
-    "#biyoloji",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#öğren"
+    "#balıklar",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق المماثلة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
     "name": "National Geographic",
@@ -61,9 +60,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Solucanlar Gözleri Olmadan Işığı Nasıl Hisseder?",
+  "_topic": "Kedi Balıklarının Tadı Nerededir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-25T19:12:55.000453+00:00",
+  "generated_at": "2026-09-25T22:00:46.105608+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İncirlerin Aslında Gizli Bir Mezarlığı Var!",
-    "body": "Yanlış duymadın; yediğimiz incirler aslında birer çiçek ve içinde incir eşek arılarının kalıntıları bulunuyor."
+    "headline": "Kunduzların Su Altındaki Gizli Gözlükleri",
+    "body": "Kunduzlar su altında yüzerken dünyayı bulanık görürler diye düşünüyorsanız, yanılıyorsunuz. Su altına daldıklarında gözlerini korumak için şeffaf bir üçüncü göz kapağı kapatırlar. Bu kapak, adeta su altı gözlüğü görevi görür ve hem net görmelerini sağlar hem de akıntıya karşı gözlerini korur."
   },
   "en": {
-    "headline": "Figs Actually Have a Hidden Graveyard!",
-    "body": "You heard it right; the figs we eat are actually flowers containing the remains of fig wasps."
+    "headline": "Beavers' Hidden Underwater Goggles",
+    "body": "If you think beavers see the world blurrily underwater, you're wrong. When they dive, they close a transparent third eyelid to protect their eyes. This lid acts like built-in swim goggles, helping them see clearly while shielding their eyes from the current."
   },
   "es": {
-    "headline": "¡Las higueras tienen un cementerio oculto!",
-    "body": "Así es; los higos que comemos son en realidad flores que contienen restos de avispas de los higos."
+    "headline": "Las Gafas Subacuáticas Ocultas de los Castores",
+    "body": "Si crees que los castores ven borroso bajo el agua, te equivocas. Cuando se sumergen, cierran un tercer párpado transparente para proteger sus ojos. Este párpado actúa como unas gafas de natación, permitiéndoles ver con claridad mientras se protegen de la corriente."
   },
   "ar": {
-    "headline": "التين يمتلك في الواقع مقبرة مخفية!",
-    "body": "سمعت ذلك جيداً؛ التين الذي نأكله هو في الواقع زهور تحتوي على بقايا زنابير التين."
+    "headline": "نظارات القندس المخفية تحت الماء",
+    "body": "إذا كنت تعتقد أن القنادس ترى العالم ضبابياً تحت الماء فأنت مخطئ. فعندما تغوص، تغلق جفناً ثالثاً شفافاً لحماية عينيها. يعمل هذا الجفن تماماً مثل نظارات السباحة، مما يماثل رؤيتها بوضوح وحمايتها من تيارات الماء."
   },
   "reel_hook": {
-    "tr": "Yediğin incirin içinde ne olduğunu biliyor musun?",
-    "en": "Do you know what is inside the fig you are eating?",
-    "es": "¿Sabes qué hay dentro del higo que estás comiendo?",
-    "ar": "هلรู้ว่ามีอะไรอยู่ข้างในลูกทะวันที่คุณกำลังกิน?"
+    "tr": "Kunduzlar su altında nasıl bu kadar net görebiliyor?",
+    "en": "How do beavers see so clearly underwater?",
+    "es": "¿Cómo pueden los castores ver tan claramente bajo el agua?",
+    "ar": "كيف تستطيع القنادس الرؤية بوضوح تحت الماء؟"
   },
   "story_question": {
-    "tr": "İncirlerin içinde ne bulunur?",
-    "en": "What is found inside figs?",
-    "es": "¿Qué se encuentra dentro de los higos?",
-    "ar": "ما الذي يوجد داخل التين؟"
+    "tr": "Kunduzların su altındaki bu özel koruması hangi diğer hayvanda da bulunur?",
+    "en": "Which other animal has this special underwater protection like beavers?",
+    "es": "¿Qué otro animal tiene esta protección subacuática especial como los castores?",
+    "ar": "ما هو الحيوان الآخر الذي يمتلك هذه الحماية الخاصة تحت الماء مثل القنادس؟"
   },
   "story_options": [
-    "Eşek arısı kalıntıları",
-    "Bal kalıntıları",
-    "Polen taneleri"
+    "Köpekbalıkları",
+    "Kuşlar",
+    "Yarasalar"
   ],
   "hashtags": [
     "#FactBite",
-    "#İncir",
-    "#Doğa",
-    "#Bilim",
-    "#İlginçBilgiler",
-    "#YemekSırları",
-    "#Keşfet"
+    "#doğa",
+    "#hayوانlar",
+    "#bilim",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Benzer gerçekler için takip et!",
-    "en": "Follow for more facts!",
-    "es": "¡Síguenos para más datos!",
-    "ar": "تابعنا للمزيد من الحقائق!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Encyclopædia Britannica",
-    "url": "https://www.britannica.com/story/do-figs-contain-wasps"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İncirlerin Aslında Gizli Bir Mezarlığı Var!",
+  "_topic": "Kunduzların Su Altındaki Gizli Gözlükleri",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-26T09:53:54.804265+00:00",
+  "generated_at": "2026-09-26T11:21:42.853279+00:00",
   "topic_guard_days": 180
 }

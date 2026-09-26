@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nezaketten mi Durur?",
-    "body": "Geceleri gökyüzünde süzülen kuşların birbirine hiç çarpmadığını hiç fark ettiniz mi? Aslında bunun sebebi birbirlerine yol vermeleri değil, tamamen optik yapıları. Kuşların gözleri kafalarının yan tarafındadır ve neredeyse 360 derece görüş açısına sahiptirler. Bu sayede yanlarından geçenleri anlık olarak takip edip mesafeyi kusursuz ayarlayabilirler."
+    "headline": "İncirlerin Aslında Gizli Bir Mezarlığı Var!",
+    "body": "Yanlış duymadın; yediğimiz incirler aslında birer çiçek ve içinde incir eşek arılarının kalıntıları bulunuyor."
   },
   "en": {
-    "headline": "Do Birds Have 360 Vision?",
-    "body": "Have you ever noticed how birds flying in flocks at night never seem to crash? It is not about politeness, but their unique optical structure. A bird's eyes are positioned on the sides of its head, giving it nearly a 360-degree field of view. This allows them to track nearby flyers instantly and maintain perfect distance."
+    "headline": "Figs Actually Have a Hidden Graveyard!",
+    "body": "You heard it right; the figs we eat are actually flowers containing the remains of fig wasps."
   },
   "es": {
-    "headline": "¿Tienen las aves visión de 360 grados?",
-    "body": "¿Alguna vez has notado que las aves que vuelan en bandada por la noche nunca chocan? No es por cortesía, sino por su estructura óptica única. Los ojos de las aves están a los lados de su cabeza, lo que les da un campo de visión de casi 360 grados."
+    "headline": "¡Las higueras tienen un cementerio oculto!",
+    "body": "Así es; los higos que comemos son en realidad flores que contienen restos de avispas de los higos."
   },
   "ar": {
-    "headline": "هل تمتلك الطيور رؤية بزاوية 360 درجة؟",
-    "body": "هل لاحظت من قبل أن الطيور التي تطير في أسراب ليلاً لا تصطدم ببعضها أبدًا؟ الأمر لا يتعلق باللطف، بل ببنيتها البصرية الفريدة. عيون الطيور تقع على جانبي رؤوسها، مما يمنحها مجال رؤية يقترب من 360 درجة."
+    "headline": "التين يمتلك في الواقع مقبرة مخفية!",
+    "body": "سمعت ذلك جيداً؛ التين الذي نأكله هو في الواقع زهور تحتوي على بقايا زنابير التين."
   },
-  "reel__hook": {
-    "tr": "Gökyüzünde yüzlerce kuş nasıl oluyor da asla çarpışmıyor?",
-    "en": "How do hundreds of birds in the sky never crash?",
-    "es": "¿Cómo es posible que cientos de aves en el cielo nunca chocar?",
-    "ar": "كيف لا تصطدم مئات الطيور في السماء ببعضها أبداً؟"
+  "reel_hook": {
+    "tr": "Yediğin incirin içinde ne olduğunu biliyor musun?",
+    "en": "Do you know what is inside the fig you are eating?",
+    "es": "¿Sabes qué hay dentro del higo que estás comiendo?",
+    "ar": "هلรู้ว่ามีอะไรอยู่ข้างในลูกทะวันที่คุณกำลังกิน?"
   },
   "story_question": {
-    "tr": "Kuşların gözleri başlarının neresindedir?",
-    "en": "Where are a bird's eyes located?",
-    "es": "¿Dónde se encuentran los ojos de un ave?",
-    "ar": "أين تقع عيون الطيور؟"
+    "tr": "İncirlerin içinde ne bulunur?",
+    "en": "What is found inside figs?",
+    "es": "¿Qué se encuentra dentro de los higos?",
+    "ar": "ما الذي يوجد داخل التين؟"
   },
   "story_options": [
-    "Yanlarında",
-    "Önlerinde",
-    "Arkalarında"
+    "Eşek arısı kalıntıları",
+    "Bal kalıntıları",
+    "Polen taneleri"
   ],
   "hashtags": [
     "#FactBite",
-    "#Kuşlar",
+    "#İncir",
     "#Doğa",
     "#Bilim",
-    "#Hayvanlar",
     "#İlginçBilgiler",
+    "#YemekSırları",
     "#Keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
+    "tr": "Benzer gerçekler için takip et!",
+    "en": "Follow for more facts!",
+    "es": "¡Síguenos para más datos!",
+    "ar": "تابعنا للمزيد من الحقائق!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.5
+    "surprise": 9,
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "Ornithology Research",
-    "url": "https://www.audubon.org/news/how-birds-see-world"
+    "name": "Encyclopædia Britannica",
+    "url": "https://www.britannica.com/story/do-figs-contain-wasps"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nezaketten mi Durur?",
+  "_topic": "İncirlerin Aslında Gizli Bir Mezarlığı Var!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-25T23:33:47.428940+00:00",
+  "generated_at": "2026-09-26T09:53:54.804265+00:00",
   "topic_guard_days": 180
 }

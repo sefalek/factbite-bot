@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzlerimiz Aslında Bebekken Neden Oluşur?",
-    "body": "Parmak izlerimizin tamamen benzersiz olduğunu bilirsiniz. Peki bu eşsiz desenlerin genlerimizden değil, anne karnında parmaklarımızın suya dokunup büzüşmesinden kaynaklandığını biliyor muydunuz? Tıpkı uzun süre küvette kaldığımızdaki gibi."
+    "headline": "Kuşlar Uçarken Neden Asla Birbirine Çarpmaz?",
+    "body": "Gökyüzünde binlerce kuştan oluşan dev sürülerin, o baş döndürücü hareketlerinde tek bir çarpışma bile olmadığını hiç fark ettiniz mi? Bunun sırrı ne bir liderin komutu ne de kör şans. Sürünün içindeki her bir kuş, yalnızca en yakınındaki yedi komşusunun hareketlerini milisaniyeler içinde takip eder. Tıpkı dev bir dijital ağ gibi, anlık tepkilerle tüm grup tek bir canlı gibi hareket eder."
   },
   "en": {
-    "headline": "Why Our Fingerprints Actually Form in the Womb",
-    "body": "You know your fingerprints are completely unique. But did you know these patterns don't come from your genes, but from your fingers wrinkling in amniotic fluid, just like when you stay in the bathtub too long?"
+    "headline": "Why Birds Never Crash Into Each Other While Flying",
+    "body": "Have you ever noticed that giant flocks of thousands of birds make breathtaking maneuvers without a single collision? The secret is neither a leader's command nor blind luck. Every single bird in the flock tracks the movements of its seven nearest neighbors within milliseconds. Like a giant digital network, instant reactions allow the entire group to move as a single organism."
   },
   "es": {
-    "headline": "Por qué se forman realmente nuestras huellas dactilares",
-    "body": "¿Sabías que tus huellas dactilares son únicas? Pero, ¿sabías que estos patrones no provienen de tus genes, sino de la piel arrugándose en el líquido amniótico, igual que cuando pasas mucho tiempo en la bañera?"
+    "headline": "¿Por qué los pájaros nunca chocan entre sí al volar?",
+    "body": "¿Alguna vez has notado que las bandadas gigantes de miles de aves realizan maniobras impresionantes sin una sola colisión? El secreto no es la orden de un líder ni la suerte ciega. Cada ave de la bandada sigue los movimientos de sus siete vecinos más cercanos en milisegundos. Como una red digital gigante, las reacciones instantáneas permiten que todo el grupo se mueva como un solo organismo."
   },
   "ar": {
-    "headline": "لماذا تتشكل بصمات أصابعنا في الرحم حقاً",
-    "body": "تعلم أن بصمات أصابعك فريدة تماماً. ولكن هل تعلم أن هذه الأنماط لا تأتي من جيناتك، بل من تجعد أصابعك في السائل الأمينوسي، تماماً مثلما تجلس في البناء لفترة طويلة؟"
+    "headline": "لماذا لا تصطدم الطيور ببعضها أبداً أثناء الطيران؟",
+    "body": "هل لاحظت من قبل أن أسراب الطيور الضخمة التي تضم آلاف الأفراد تقوم بحركات مذهلة دون أي تصادم واحد؟ السر ليس أمر قائد أو حظاً أعمى. كل طير في السرب يتتبع حركات أقرب سبعة جيران له في غضون جزء من الألف من الثانية. مثل شبكة رقمية عملاقة، تسمح ردود الفعل الفورية للمجموعة بأكملها بالتحرك ككائن حي واحد."
   },
   "reel_hook": {
-    "tr": "Parmak iziniz hayatınız boyunca hiç değişmez ama onu oluşturan şeyin genleriniz olmadığını biliyor muydunuz?",
-    "en": "Your fingerprint never changes, but did you know genes aren't what actually create it?",
-    "es": "Tu huella dactilar nunca cambia, pero ¿sabías que los genes no son los que la crean?",
-    "ar": "بصمة إصبعك لا تتغير أبداً، ولكن هل كنت تعلم أن الجينات ليست هي ما يصنعها حقاً؟"
+    "tr": "Gökyüzünde binlerce kuş nasıl oluyor da bir kez bile birbirine çarpmıyor?",
+    "en": "How do thousands of birds in the sky manage not to crash into each other even once?",
+    "es": "¿Cómo se las arreglan miles de aves en el cielo para no chocar ni una sola vez?",
+    "ar": "كيف تمكن آلاف الطيور في السماء من عدم الاصطدام ببعضها ولا لمرة واحدة؟"
   },
   "story_question": {
-    "tr": "Parmak izlerinin oluşmasında en büyük etken sizce nedir?",
-    "en": "What do you think plays the biggest role in forming fingerprints?",
-    "es": "¿Qué crees que juega el papel más importante en la formación de las huellas?",
-    "ar": "ما الذي تعتقد أنه يلعب الدور الأكبر في تشكيل بصمات الأصابع؟"
+    "tr": "Dev bir kuş sürüsünün kusursuz uyumla hareket etmesini sağlayan ana faktör nedir?",
+    "en": "What is the main factor that allows a giant flock of birds to move with such flawless harmony?",
+    "es": "¿Cuál es el factor principal que permite que una bandada gigante de aves se mueva con tanta armonía?",
+    "ar": "ما هو العامل الرئيسي الذي يسمح لسرب ضخم من الطيور بالتحرك بتناغم مثالي؟"
   },
   "story_options": [
-    "Genetik miras",
-    "Anne karnındaki hareket",
-    "Rastgele sıvıyla buruşma"
+    "Sürüyü yöneten lider bir kuşun olması",
+    "Her kuşun en yakınındaki 7 komşusunu takip etmesi",
+    "Kuşların telepatik bir bağa sahip olması"
   ],
   "hashtags": [
     "#FactBite",
+    "#doğa",
     "#bilim",
-    "#ilginçbilgiler",
+    "#kuşlar",
     "#biyoloji",
-    "#tarih",
-    "#keşfet",
-    "#vücut"
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için bizi takip et!",
-    "en": "Follow us for more surprising facts like this!",
-    "es": "¡Síguenos para más datos sorprendentes como este!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
+    "en": "Follow for more surprising nature secrets like this!",
+    "es": "¡Síguenos para más secretos sorprendentes de la naturaleza!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Scientific American",
-    "url": "https://www.scientificamerican.com/article/what-determines-our-fingerp/"
+    "name": "Journal of Statistical Physics (Starling Flocking Dynamics)",
+    "url": "https://link.springer.com/article/10.1007/s10955-008-9610-3"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzlerimiz Aslında Bebekken Neden Oluşur?",
+  "_topic": "Kuşlar Uçarken Neden Asla Birbirine Çarpmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-26T15:04:09.005863+00:00",
+  "generated_at": "2026-09-26T16:53:55.212497+00:00",
   "topic_guard_days": 180
 }

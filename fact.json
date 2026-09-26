@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Islanmaz?",
-    "body": "Gökyüzünde yağmura yakalanan kuşların sırılsıklam olmadığını hiç fark ettiniz mi? Bunun sırrı minik tüylerinde saklı. Kuşlar, kuyruklarına yakın bir noktadaki özel bir bezden salgılanan yağı gagalarıyla tüylerine sürerler. Bu yağ tabakası tüyleri su geçirmez hale getirir; böylece su damlaları yaprak üzerindeki gibi kayıp gider."
+    "headline": "Parmak İzlerimiz Aslında Bebekken Neden Oluşur?",
+    "body": "Parmak izlerimizin tamamen benzersiz olduğunu bilirsiniz. Peki bu eşsiz desenlerin genlerimizden değil, anne karnında parmaklarımızın suya dokunup büzüşmesinden kaynaklandığını biliyor muydunuz? Tıpkı uzun süre küvette kaldığımızdaki gibi."
   },
   "en": {
-    "headline": "How Do Birds Stay Dry?",
-    "body": "Have you ever noticed that birds caught in the rain never get soaking wet? The secret lies in their tiny feathers. Birds use their beaks to spread oil from a special gland near their tail onto their feathers. This oily layer makes the feathers waterproof, causing raindrops to simply slide right off like water on a leaf."
+    "headline": "Why Our Fingerprints Actually Form in the Womb",
+    "body": "You know your fingerprints are completely unique. But did you know these patterns don't come from your genes, but from your fingers wrinkling in amniotic fluid, just like when you stay in the bathtub too long?"
   },
   "es": {
-    "headline": "¿Cómo se mantienen secas las aves?",
-    "body": "¿Alguna vez has notado que las aves atrapadas bajo la lluvia nunca se empapan por completo? El secreto está en sus plumas. Las aves usan sus picos para esparcir aceite de una glándula especial cerca de su cola sobre su plumaje. Esta capa oleosa hace que las plumas sean impermeables, por lo que las gotas de lluvia simplemente resbalan como en una hoja."
+    "headline": "Por qué se forman realmente nuestras huellas dactilares",
+    "body": "¿Sabías que tus huellas dactilares son únicas? Pero, ¿sabías que estos patrones no provienen de tus genes, sino de la piel arrugándose en el líquido amniótico, igual que cuando pasas mucho tiempo en la bañera?"
   },
   "ar": {
-    "headline": "كيف تبقى الطيور جافة تحت المطر؟",
-    "body": "هل لاحظت من قبل أن الطيور التي يباغت المطر لا تبتل تماماً؟ يكمن السر في ريشها الصغير. تستخدم الطيور مناقيرها لنشر زيت تفرزه غدة خاصة قرب ذيلها على ريشها. هذه الطبقة الزيتية تجعل الريش مقاومًا للماء، مما يجعل قطرات المطر تنزلق عنه تمامًا مثل الماء على الورقة."
+    "headline": "لماذا تتشكل بصمات أصابعنا في الرحم حقاً",
+    "body": "تعلم أن بصمات أصابعك فريدة تماماً. ولكن هل تعلم أن هذه الأنماط لا تأتي من جيناتك، بل من تجعد أصابعك في السائل الأمينوسي، تماماً مثلما تجلس في البناء لفترة طويلة؟"
   },
   "reel_hook": {
-    "tr": "Yağmurda uçan kuşlar neden hiç sırılsıklam olmaz?",
-    "en": "Why do birds flying in the rain never get soaking wet?",
-    "es": "¿Por qué las aves que vuelan bajo la lluvia nunca se empapan?",
-    "ar": "لماذا لا تبتل الطيور المطرقة أبداً أثناء الطيران؟"
+    "tr": "Parmak iziniz hayatınız boyunca hiç değişmez ama onu oluşturan şeyin genleriniz olmadığını biliyor muydunuz?",
+    "en": "Your fingerprint never changes, but did you know genes aren't what actually create it?",
+    "es": "Tu huella dactilar nunca cambia, pero ¿sabías que los genes no son los que la crean?",
+    "ar": "بصمة إصبعك لا تتغير أبداً، ولكن هل كنت تعلم أن الجينات ليست هي ما يصنعها حقاً؟"
   },
   "story_question": {
-    "tr": "Kuşların suyu itmesini sağlayan bu özel yağ nereden salgılanır?",
-    "en": "Where is the special oil that repels water secreted from?",
-    "es": "¿De dónde se secreta este aceite especial que repele el agua?",
-    "ar": "من أين يتم إفراز هذا الزيت الخاص الذي طرد الماء؟"
+    "tr": "Parmak izlerinin oluşmasında en büyük etken sizce nedir?",
+    "en": "What do you think plays the biggest role in forming fingerprints?",
+    "es": "¿Qué crees que juega el papel más importante en la formación de las huellas?",
+    "ar": "ما الذي تعتقد أنه يلعب الدور الأكبر في تشكيل بصمات الأصابع؟"
   },
   "story_options": [
-    "Kuyruk sokumundaki özel bez",
-    "Gagalarındaki gizli cepler",
-    "Kanat altındaki ter bezleri"
+    "Genetik miras",
+    "Anne karnındaki hareket",
+    "Rastgele sıvıyla buruşma"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
     "#bilim",
     "#ilginçbilgiler",
-    "#hayvanlar",
-    "#keşfet"
+    "#biyoloji",
+    "#tarih",
+    "#keşfet",
+    "#vücut"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "If this is your first time hearing this, don't forget to like!",
-    "es": "¡Si es la primera vez que escuchas esto, no olvides darle Me gusta!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، فلا تنس الإعجاب!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için bizi takip et!",
+    "en": "Follow us for more surprising facts like this!",
+    "es": "¡Síguenos para más datos sorprendentes como este!",
+    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com/article/what-determines-our-fingerp/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Islanmaz?",
+  "_topic": "Parmak İzlerimiz Aslında Bebekken Neden Oluşur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-26T13:07:10.169605+00:00",
+  "generated_at": "2026-09-26T15:04:09.005863+00:00",
   "topic_guard_days": 180
 }

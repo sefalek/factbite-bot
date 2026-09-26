@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıklar Aslında Susuzluktan Değil, Boğulmaktan Ömrünü Tamamlar",
-    "body": "Deniz canlıları hakkında doğru bildiğimiz çok şey var ama biri hariç. Balıklar sürekli su altındadır ancak sudaki çözünmüş oksijen miktarı kritik seviyenin altına düştüğünde veya solungaçları tıkanığında tam anlamıyla boğulurlar."
+    "headline": "Penguenler Aslında Boyunlarına Ne Saklar?",
+    "body": "Biliyor musunuz, penguenlerin vücut yapısı hakkında bilinen en büyük yanılgılardan biri tüylerinin altında gizlidir. Genellikle sadece sevimli birer kuş olduklarını düşünürüz, ancak su altında saatlerce avlanabilmelerini sağlayan şey, tüylerinin arasında sıkıştırdıkları özel bir hava tabakasıdır. Bu hava katmanı, sadece buz gibi sularda üşümelerini engellemekle kalmaz, aynı zamanda roket gibi fırlayıp sudan havaya sıçramalarını sağlayan bir itme gücü yaratır."
   },
   "en": {
-    "headline": "Fish Don't Die of Thirst, They Actually Suffocate",
-    "body": "We think we know a lot about marine life, but fish can actually suffocate when dissolved oxygen levels drop or their gills get blocked."
+    "headline": "What Do Penguins Actually Hide Under Their Feathers?",
+    "body": "Did you know that one of the biggest misconceptions about penguin anatomy is hidden beneath their feathers? We usually think of them as just cute birds, but what allows them to hunt underwater for hours is a special layer of air trapped between their feathers. This air pocket not only keeps them from freezing in icy waters, but also creates the propulsion they need to shoot out of the water like a rocket."
   },
   "es": {
-    "headline": "Los peces no mueren de sed, en realidad se asfixian",
-    "body": "Creemos saber mucho sobre la vida marina, pero los peces pueden asfixiarse cuando los niveles de oxígeno disuelto bajan."
+    "headline": "¿Qué esconde realmente un pingüino bajo sus plumas?",
+    "body": "¿Sabías que uno de los mayores conceptos erróneos sobre la anatomía de los pingüinos se esconde bajo sus plumas? Solemos pensar en ellos como simples aves simpáticas, pero lo que les permite cazar bajo el agua durante horas es una capa especial de aire atrapada entre su plumaje. Esta bolsa de aire no solo evita que se congelen en aguas heladas, sino que también crea la propulsión necesaria para salir disparados del agua como un cohete."
   },
   "ar": {
-    "headline": "الأسماك لا تموت من العطش، بل تختنق في الواقع",
-    "body": "نظن أننا نعرف الكثير عن الحياة البحرية، لكن الأسماك تختنق عندما تنخفض مستويات الأكسجين المذاب."
+    "headline": "ماذا يخفي البطريق حقاً تحت ريشه؟",
+    "body": "هل تعلم أن أحد أكبر المفاهيم الخاطئة حول تشريح البطريق مخفي تحت ريشه؟ عادة ما نراهم كطيور لطيفة فقط، ولكن ما يسمح لهم بالصيد تحت الماء لساعات هو طبقة هوائية خاصة محتجزة بين ريشهم. هذه الطبقة لا تمنعهم من التجمد في المياه المتجمدة فحسب، بل تخلق أيضاً قوة دفع تمكنهم من الانطلاق خارج الماء صاروخياً."
   },
   "reel_hook": {
-    "tr": "Balıklar suyun altında nasıl nefessiz kalır?",
-    "en": "How do fish run out of breath underwater?",
-    "es": "¿Cómo se quedan sin aliento los peces bajo el agua?",
-    "ar": "كيف ينفد الهواء من الأسماك تحت الماء؟"
+    "tr": "Penguenlerin tüylerinin altında ne sakladığını biliyor musunuz?",
+    "en": "Do you know what penguins hide under their feathers?",
+    "es": "¿Sabes qué esconden los pingüinos bajo sus plumas?",
+    "ar": "هل تعلم ما يخفيه البطريق تحت ريشه؟"
   },
   "story_question": {
-    "tr": "Balıkların sudaki oksijeni almak için kullandığı ana organ hangisidir?",
-    "en": "What is the main organ fish use to get oxygen from water?",
-    "es": "¿Cuál es el órgano principal que usan los peces para obtener oxígeno del agua?",
-    "ar": "ما هو العضو الرئيسي الذي تستخدمه الأسماك للحصول على الأكسجين من الماء؟"
+    "tr": "Penguenlerin tüyleri arasındaki hava tabakası temel olarak ne sağlar?",
+    "en": "What does the air layer between penguin feathers primarily provide?",
+    "es": "¿Qué proporciona principalmente la capa de aire entre las plumas de los pingüinos?",
+    "ar": "ما الذي توفره طبقة الهواء بين ريش البطريق بشكل أساسي؟"
   },
   "story_options": [
-    "Solungaç",
-    "Yüzgeç",
-    "Pul"
+    "Sadece ısı yalıtımı",
+    "Hem ısı yalıtımı hem roket gibi fırlama gücü",
+    "Yalnızca su altı görüşü"
   ],
   "hashtags": [
     "#FactBite",
+    "#penguen",
     "#bilim",
     "#doğa",
-    "#balık",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#keşfet",
+    "#canlılar"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydın? Arkadaşına gönder!",
-    "en": "Did you know this before? Send it to a friend!",
-    "es": "¿Lo sabías antes? ¡Envíaselo a un amigo!",
-    "ar": "هل كنت تعرف هذا من قبل؟ أرسلها لصديق!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Mantente atento para más datos sorprendentes como este!",
+    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Biologics & Penguin Research",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıklar Aslında Susuzluktan Değil, Boğulmaktan Ömrünü Tamamlar",
+  "_topic": "Penguenler Aslında Boyunlarına Ne Saklar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-26T21:51:29.555264+00:00",
+  "generated_at": "2026-09-26T23:11:33.931776+00:00",
   "topic_guard_days": 180
 }

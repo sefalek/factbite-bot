@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kunduzların Su Altındaki Gizli Gözlükleri",
-    "body": "Kunduzlar su altında yüzerken dünyayı bulanık görürler diye düşünüyorsanız, yanılıyorsunuz. Su altına daldıklarında gözlerini korumak için şeffaf bir üçüncü göz kapağı kapatırlar. Bu kapak, adeta su altı gözlüğü görevi görür ve hem net görmelerini sağlar hem de akıntıya karşı gözlerini korur."
+    "headline": "Kuşlar Nasıl Islanmaz?",
+    "body": "Gökyüzünde yağmura yakalanan kuşların sırılsıklam olmadığını hiç fark ettiniz mi? Bunun sırrı minik tüylerinde saklı. Kuşlar, kuyruklarına yakın bir noktadaki özel bir bezden salgılanan yağı gagalarıyla tüylerine sürerler. Bu yağ tabakası tüyleri su geçirmez hale getirir; böylece su damlaları yaprak üzerindeki gibi kayıp gider."
   },
   "en": {
-    "headline": "Beavers' Hidden Underwater Goggles",
-    "body": "If you think beavers see the world blurrily underwater, you're wrong. When they dive, they close a transparent third eyelid to protect their eyes. This lid acts like built-in swim goggles, helping them see clearly while shielding their eyes from the current."
+    "headline": "How Do Birds Stay Dry?",
+    "body": "Have you ever noticed that birds caught in the rain never get soaking wet? The secret lies in their tiny feathers. Birds use their beaks to spread oil from a special gland near their tail onto their feathers. This oily layer makes the feathers waterproof, causing raindrops to simply slide right off like water on a leaf."
   },
   "es": {
-    "headline": "Las Gafas Subacuáticas Ocultas de los Castores",
-    "body": "Si crees que los castores ven borroso bajo el agua, te equivocas. Cuando se sumergen, cierran un tercer párpado transparente para proteger sus ojos. Este párpado actúa como unas gafas de natación, permitiéndoles ver con claridad mientras se protegen de la corriente."
+    "headline": "¿Cómo se mantienen secas las aves?",
+    "body": "¿Alguna vez has notado que las aves atrapadas bajo la lluvia nunca se empapan por completo? El secreto está en sus plumas. Las aves usan sus picos para esparcir aceite de una glándula especial cerca de su cola sobre su plumaje. Esta capa oleosa hace que las plumas sean impermeables, por lo que las gotas de lluvia simplemente resbalan como en una hoja."
   },
   "ar": {
-    "headline": "نظارات القندس المخفية تحت الماء",
-    "body": "إذا كنت تعتقد أن القنادس ترى العالم ضبابياً تحت الماء فأنت مخطئ. فعندما تغوص، تغلق جفناً ثالثاً شفافاً لحماية عينيها. يعمل هذا الجفن تماماً مثل نظارات السباحة، مما يماثل رؤيتها بوضوح وحمايتها من تيارات الماء."
+    "headline": "كيف تبقى الطيور جافة تحت المطر؟",
+    "body": "هل لاحظت من قبل أن الطيور التي يباغت المطر لا تبتل تماماً؟ يكمن السر في ريشها الصغير. تستخدم الطيور مناقيرها لنشر زيت تفرزه غدة خاصة قرب ذيلها على ريشها. هذه الطبقة الزيتية تجعل الريش مقاومًا للماء، مما يجعل قطرات المطر تنزلق عنه تمامًا مثل الماء على الورقة."
   },
   "reel_hook": {
-    "tr": "Kunduzlar su altında nasıl bu kadar net görebiliyor?",
-    "en": "How do beavers see so clearly underwater?",
-    "es": "¿Cómo pueden los castores ver tan claramente bajo el agua?",
-    "ar": "كيف تستطيع القنادس الرؤية بوضوح تحت الماء؟"
+    "tr": "Yağmurda uçan kuşlar neden hiç sırılsıklam olmaz?",
+    "en": "Why do birds flying in the rain never get soaking wet?",
+    "es": "¿Por qué las aves que vuelan bajo la lluvia nunca se empapan?",
+    "ar": "لماذا لا تبتل الطيور المطرقة أبداً أثناء الطيران؟"
   },
   "story_question": {
-    "tr": "Kunduzların su altındaki bu özel koruması hangi diğer hayvanda da bulunur?",
-    "en": "Which other animal has this special underwater protection like beavers?",
-    "es": "¿Qué otro animal tiene esta protección subacuática especial como los castores?",
-    "ar": "ما هو الحيوان الآخر الذي يمتلك هذه الحماية الخاصة تحت الماء مثل القنادس؟"
+    "tr": "Kuşların suyu itmesini sağlayan bu özel yağ nereden salgılanır?",
+    "en": "Where is the special oil that repels water secreted from?",
+    "es": "¿De dónde se secreta este aceite especial que repele el agua?",
+    "ar": "من أين يتم إفراز هذا الزيت الخاص الذي طرد الماء؟"
   },
   "story_options": [
-    "Köpekbalıkları",
-    "Kuşlar",
-    "Yarasalar"
+    "Kuyruk sokumundaki özel bez",
+    "Gagalarındaki gizli cepler",
+    "Kanat altındaki ter bezleri"
   ],
   "hashtags": [
     "#FactBite",
+    "#kuşlar",
     "#doğa",
-    "#hayوانlar",
     "#bilim",
     "#ilginçbilgiler",
+    "#hayvanlar",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip et!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sígueme para más secretos de la naturaleza como este!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like!",
+    "es": "¡Si es la primera vez que escuchas esto, no olvides darle Me gusta!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، فلا تنس الإعجاب!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kunduzların Su Altındaki Gizli Gözlükleri",
+  "_topic": "Kuşlar Nasıl Islanmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-26T11:21:42.853279+00:00",
+  "generated_at": "2026-09-26T13:07:10.169605+00:00",
   "topic_guard_days": 180
 }

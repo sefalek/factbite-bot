@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Uçarken Neden Asla Birbirine Çarpmaz?",
-    "body": "Gökyüzünde binlerce kuştan oluşan dev sürülerin, o baş döndürücü hareketlerinde tek bir çarpışma bile olmadığını hiç fark ettiniz mi? Bunun sırrı ne bir liderin komutu ne de kör şans. Sürünün içindeki her bir kuş, yalnızca en yakınındaki yedi komşusunun hareketlerini milisaniyeler içinde takip eder. Tıpkı dev bir dijital ağ gibi, anlık tepkilerle tüm grup tek bir canlı gibi hareket eder."
+    "headline": "Kuşlar neden tek ayak üstünde uyur?",
+    "body": "Soğuk havalarda tüylerini kabartan kuşlar, vücut ısılarını kaybetmemek için ayaklarını dönüşümlü olarak karınlarına çekerler. Bu basit ama etkili biyolojik yöntem, ısı kaybını minimumda tutar."
   },
   "en": {
-    "headline": "Why Birds Never Crash Into Each Other While Flying",
-    "body": "Have you ever noticed that giant flocks of thousands of birds make breathtaking maneuvers without a single collision? The secret is neither a leader's command nor blind luck. Every single bird in the flock tracks the movements of its seven nearest neighbors within milliseconds. Like a giant digital network, instant reactions allow the entire group to move as a single organism."
+    "headline": "Why do birds sleep on one leg?",
+    "body": "When facing cold weather, birds tuck one leg up into their feathers to conserve body heat. This simple yet effective biological method minimizes heat loss."
   },
   "es": {
-    "headline": "¿Por qué los pájaros nunca chocan entre sí al volar?",
-    "body": "¿Alguna vez has notado que las bandadas gigantes de miles de aves realizan maniobras impresionantes sin una sola colisión? El secreto no es la orden de un líder ni la suerte ciega. Cada ave de la bandada sigue los movimientos de sus siete vecinos más cercanos en milisegundos. Como una red digital gigante, las reacciones instantáneas permiten que todo el grupo se mueva como un solo organismo."
+    "headline": "¿Por qué las aves duermen en una pata?",
+    "body": "Cuando hace frío, las aves meten una pata entre sus plumas para conservar el calor corporal. Este método biológico simple pero eficaz minimiza la pérdida de calor."
   },
   "ar": {
-    "headline": "لماذا لا تصطدم الطيور ببعضها أبداً أثناء الطيران؟",
-    "body": "هل لاحظت من قبل أن أسراب الطيور الضخمة التي تضم آلاف الأفراد تقوم بحركات مذهلة دون أي تصادم واحد؟ السر ليس أمر قائد أو حظاً أعمى. كل طير في السرب يتتبع حركات أقرب سبعة جيران له في غضون جزء من الألف من الثانية. مثل شبكة رقمية عملاقة، تسمح ردود الفعل الفورية للمجموعة بأكملها بالتحرك ككائن حي واحد."
+    "headline": "لماذا تنام الطيور على ساق واحدة؟",
+    "body": "في الأجواء الباردة، تسحب الطيور إحدى ساقيها داخل ريشها للحفاظ على حرارة أجسامها. تقلل هذه الطريقة البيولوجية البسيطة والفعالة من فقدان الحرارة."
   },
   "reel_hook": {
-    "tr": "Gökyüzünde binlerce kuş nasıl oluyor da bir kez bile birbirine çarpmıyor?",
-    "en": "How do thousands of birds in the sky manage not to crash into each other even once?",
-    "es": "¿Cómo se las arreglan miles de aves en el cielo para no chocar ni una sola vez?",
-    "ar": "كيف تمكن آلاف الطيور في السماء من عدم الاصطدام ببعضها ولا لمرة واحدة؟"
+    "tr": "Gözünüzü açtığınızda bir kuşun tek ayakla havada durduğunu gördünüz mü?",
+    "en": "Have you ever noticed a bird balancing on just one leg?",
+    "es": "¿Alguna vez has notado que un ave se equilibra en una sola pata?",
+    "ar": "هل لاحظت من قبل طائراً يقف على ساق واحدة؟"
   },
   "story_question": {
-    "tr": "Dev bir kuş sürüsünün kusursuz uyumla hareket etmesini sağlayan ana faktör nedir?",
-    "en": "What is the main factor that allows a giant flock of birds to move with such flawless harmony?",
-    "es": "¿Cuál es el factor principal que permite que una bandada gigante de aves se mueva con tanta armonía?",
-    "ar": "ما هو العامل الرئيسي الذي يسمح لسرب ضخم من الطيور بالتحرك بتناغم مثالي؟"
+    "tr": "Kuşların tek ayak üstünde durmasının asıl sebebi nedir?",
+    "en": "What is the main reason birds stand on one leg?",
+    "es": "¿Cuál es la razón principal por la que las aves se paran en una pata?",
+    "ar": "ما هو السبب الرئيسي وقوف الطيور على ساق واحدة؟"
   },
   "story_options": [
-    "Sürüyü yöneten lider bir kuşun olması",
-    "Her kuşun en yakınındaki 7 komşusunu takip etmesi",
-    "Kuşların telepatik bir bağa sahip olması"
+    "Isı tasarrufu sağlamak",
+    "Daha rahat dinlenmek",
+    "Düşmanlardan saklanmak"
   ],
   "hashtags": [
     "#FactBite",
     "#doğa",
-    "#bilim",
     "#kuşlar",
+    "#bilim",
     "#biyoloji",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
-    "en": "Follow for more surprising nature secrets like this!",
-    "es": "¡Síguenos para más secretos sorprendentes de la naturaleza!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Journal of Statistical Physics (Starling Flocking Dynamics)",
-    "url": "https://link.springer.com/article/10.1007/s10955-008-9610-3"
+    "name": "Ornithology Research",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Uçarken Neden Asla Birbirine Çarpmaz?",
+  "_topic": "Kuşlar neden tek ayak üstünde uyur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-26T16:53:55.212497+00:00",
+  "generated_at": "2026-09-26T19:44:16.854846+00:00",
   "topic_guard_days": 180
 }

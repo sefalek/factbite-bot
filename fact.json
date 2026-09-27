@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Tüylerindeki Su İtici Sır",
-    "body": "Kuşlar gökyüzünde saatlerce yağmur altında uçar ama tüyleri asla ıslanıp ağırlaşmaz. Bunun sırrı, kuyruklarının hemen üstündeki özel bir bezden salgılanan yağı gagalarıyla tüylerine tek tek sürmeleridir. Bu doğal cila, suyu anında iter ve kuşun uçmaya devam etmesini sağlar."
+    "headline": "Kedilere Aslında Neden Salatalık Verilmemeli?",
+    "body": "Kedilerin salatalıktan korktuğu videoları görmüşsünüzdür. Ancak bu eğlenceli görünse de kediler için oldukça tehlikelidir. Salatalık, doğada onların ani bir tehlike olarak algıladığı yılanlara benzediği için büyük bir şok yaşatır. Bu durum onlarda kalıcı stres yaratabilir."
   },
   "en": {
-    "headline": "The Water-Repellent Secret of Bird Feathers",
-    "body": "Birds fly in the rain for hours without their feathers getting heavy. The secret is a special oil from a gland near their tail, which they spread onto their feathers with their beaks. This natural polish repels water instantly and keeps them flying."
+    "headline": "Why You Shouldn't Scare Cats With Cucumbers",
+    "body": "You might have seen videos of cats getting scared by cucumbers. While it looks funny, it's actually quite harmful for them. Cucumbers trigger a primal shock because they resemble snakes, which can cause severe stress."
   },
   "es": {
-    "headline": "El secreto impermeable de las plumas de las aves",
-    "body": "Las aves vuelan bajo la lluvia durante horas sin que sus plumas se pesen. El secreto es un aceite especial de una glándula cerca de su cola, que esparcen con el pico. Este pulidor natural repele el agua al instante."
+    "headline": "Por qué no debes asustar a los gatos con pepinos",
+    "body": "Es posible que hayas visto videos de gatos asustados por pepinos. Aunque parezca divertido, en realidad es muy perjudicial para ellos. El pepino desencadena un impacto primitivo porque se asemeja a una serpiente, lo que puede causarles un estrés severo."
   },
   "ar": {
-    "headline": "سر طارد الماء في ريش الطيور",
-    "body": "تطير الطيور في المطر لساعات دون أن يثقل ريشها. السر هو زيت خاص من غدة قرب ذيلها تنشره بمنقارها، وهذا الطلاء الطبيعي يطرد الماء فوراً."
+    "headline": "لماذا يجب ألا تخيف القطط بالخيار",
+    "body": "ربما رأيت مقاطع فيديوقطط تفزع من الخيار. على الرغم من أن الأمر يبدو مضحكاً، إلا أنه ضار جداً لها. يثير الخيار صدمة بدائية لأنه يشبه الثعبان، مما قد يسبب لها توتراً حاداً."
   },
   "reel_hook": {
-    "tr": "Yağmurda uçan kuşlar neden asla ıslanıp düşmez?",
-    "en": "Why do birds flying in the rain never get heavy and fall?",
-    "es": "¿Por qué las aves que vuelan bajo la lluvia nunca caen?",
-    "ar": "لماذا لا تسقط الطيور التي تطير تحت المطر أبداً؟"
+    "tr": "Kedinizin arkasına salatalık koymak sandığınızdan çok daha tehlikeli!",
+    "en": "Putting a cucumber behind your cat is much more dangerous than you think!",
+    "es": "¡Poner un pepino detrás de tu gato es mucho más peligroso de lo que crees!",
+    "ar": "وضع خيارة خلف قطتك أخطراً بكثير مما تتخيل!"
   },
   "story_question": {
-    "tr": "Kuşlar tüylerinin ıslanmasını neyle engeller?",
-    "en": "What do birds use to keep their feathers dry?",
-    "es": "¿Qué usan las aves para mantener sus plumas secas?",
-    "ar": "ماذا تستخدم الطيور لإبقاء ريشها جافاً؟"
+    "tr": "Kediler salatalığı gördüklerinde neden bu kadar korkarlar?",
+    "en": "Why do cats get so scared when they see a cucumber?",
+    "es": "¿Por qué los gatos se asustan tanto cuando ven un pepino?",
+    "ar": "لماذا تخاف القطط كثيراً عندما ترى الخيار؟"
   },
   "story_options": [
-    "Özel bir salgı yağı",
-    "Güneş kurutması",
-    "Hızlı kanat çırpma"
+    "Yılana benzettikleri için",
+    "Kokusunu sevmedikleri için",
+    "Renginden ötürü"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#kuşlar",
-    "#bilim",
+    "#kedi",
+    "#kedipsikolojisi",
     "#ilginçbilgiler",
-    "#hayvanlaralemi"
+    "#bilim",
+    "#hayvanlar",
+    "#eğlence"
   ],
   "cta": {
-    "tr": "Bunu biliyor muydun? Arkadaşına gönder!",
-    "en": "Did you know this? Send it to a friend!",
-    "es": "¿Sabías esto? ¡Envíaselo a un amigo!",
-    "ar": "هل كنت تعرف هذا؟ أرسله لصديق!"
+    "tr": "Bunu yapan arkadaşına gönder!",
+    "en": "Send this to a friend who does this!",
+    "es": "¡Envíaselo a un amigo que hace esto!",
+    "ar": "أرسل هذا لصديق يفعل هذا!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "National Geographic & Animal Behavior Studies",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Tüylerindeki Su İtici Sır",
+  "_topic": "Kedilere Aslında Neden Salatalık Verilmemeli?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-27T11:59:53.353230+00:00",
+  "generated_at": "2026-09-27T15:44:08.931984+00:00",
   "topic_guard_days": 180
 }

@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Penguenler Aslında Boyunlarına Ne Saklar?",
-    "body": "Biliyor musunuz, penguenlerin vücut yapısı hakkında bilinen en büyük yanılgılardan biri tüylerinin altında gizlidir. Genellikle sadece sevimli birer kuş olduklarını düşünürüz, ancak su altında saatlerce avlanabilmelerini sağlayan şey, tüylerinin arasında sıkıştırdıkları özel bir hava tabakasıdır. Bu hava katmanı, sadece buz gibi sularda üşümelerini engellemekle kalmaz, aynı zamanda roket gibi fırlayıp sudan havaya sıçramalarını sağlayan bir itme gücü yaratır."
+    "headline": "Kedilerin Kulaklarının Arkasındaki O Gizli Bölge",
+    "body": "Kedilerin kulaklarının hemen arkasında, tüylerin diğer yerlere göre çok daha seyrek olduğu o yumuşak bölgeyi kesinlikle fark etmişsindir. Peki, bu bölgenin sadece sevilmek için olmadığını biliyor muydun? Kediler bu hassas alanı, etraftaki en küçük hava akımlarını ve tehlikeleri erken sezmek için birer radar gibi kullanır."
   },
   "en": {
-    "headline": "What Do Penguins Actually Hide Under Their Feathers?",
-    "body": "Did you know that one of the biggest misconceptions about penguin anatomy is hidden beneath their feathers? We usually think of them as just cute birds, but what allows them to hunt underwater for hours is a special layer of air trapped between their feathers. This air pocket not only keeps them from freezing in icy waters, but also creates the propulsion they need to shoot out of the water like a rocket."
+    "headline": "The Hidden Zone Behind Cats' Ears",
+    "body": "You've definitely noticed that soft spot right behind a cat's ears where the fur is much thinner. But did you know this area isn't just for petting? Cats use this sensitive zone like a radar to sense the slightest air currents and potential dangers early."
   },
   "es": {
-    "headline": "¿Qué esconde realmente un pingüino bajo sus plumas?",
-    "body": "¿Sabías que uno de los mayores conceptos erróneos sobre la anatomía de los pingüinos se esconde bajo sus plumas? Solemos pensar en ellos como simples aves simpáticas, pero lo que les permite cazar bajo el agua durante horas es una capa especial de aire atrapada entre su plumaje. Esta bolsa de aire no solo evita que se congelen en aguas heladas, sino que también crea la propulsión necesaria para salir disparados del agua como un cohete."
+    "headline": "La zona oculta detrás de las orejas de los gatos",
+    "body": "Definitivamente has notado ese punto suave justo detrás de las orejas de los gatos donde el pelo es mucho más fino. ¿Pero sabías que esta zona no es solo para acariciar? Los gatos usan esta área sensible como un radar para detectar las corrientes de aire más leves y posibles peligros."
   },
   "ar": {
-    "headline": "ماذا يخفي البطريق حقاً تحت ريشه؟",
-    "body": "هل تعلم أن أحد أكبر المفاهيم الخاطئة حول تشريح البطريق مخفي تحت ريشه؟ عادة ما نراهم كطيور لطيفة فقط، ولكن ما يسمح لهم بالصيد تحت الماء لساعات هو طبقة هوائية خاصة محتجزة بين ريشهم. هذه الطبقة لا تمنعهم من التجمد في المياه المتجمدة فحسب، بل تخلق أيضاً قوة دفع تمكنهم من الانطلاق خارج الماء صاروخياً."
+    "headline": "المنطقة المخفية خلف أذني القطط",
+    "body": "لقد لاحظت بالتأكيد تلك النقطة الناعمة خلف أذني القطط مباشرة حيث يكون الفراء أرق بكثير. ولكن هلรكنت تعلم أن هذه المنطقة ليست للمداعبة فقط؟ تستخدم القطط هذه المنطقة الحساسة مثل الرادار لاستشعار أدق تيار هوائي والمخاطر المحتملة مبكراً."
   },
   "reel_hook": {
-    "tr": "Penguenlerin tüylerinin altında ne sakladığını biliyor musunuz?",
-    "en": "Do you know what penguins hide under their feathers?",
-    "es": "¿Sabes qué esconden los pingüinos bajo sus plumas?",
-    "ar": "هل تعلم ما يخفيه البطريق تحت ريشه؟"
+    "tr": "Kedilerin kulak arkasındaki o tüysüz yerin sırrı ne?",
+    "en": "What is the secret of that bald spot behind a cat's ears?",
+    "es": "¿Cuál es el secreto de ese punto sin pelo detrás de las orejas de un gato?",
+    "ar": "ما هو سر تلك المنطقة الخالية من الشعر خلف أذني القط؟"
   },
   "story_question": {
-    "tr": "Penguenlerin tüyleri arasındaki hava tabakası temel olarak ne sağlar?",
-    "en": "What does the air layer between penguin feathers primarily provide?",
-    "es": "¿Qué proporciona principalmente la capa de aire entre las plumas de los pingüinos?",
-    "ar": "ما الذي توفره طبقة الهواء بين ريش البطريق بشكل أساسي؟"
+    "tr": "Kedilerin kulak arkasındaki hassas bölge ne işe yarar?",
+    "en": "What is the function of the sensitive area behind cats' ears?",
+    "es": "¿Cuál es la función de la zona sensible detrás de las orejas de los gatos?",
+    "ar": "ما هي وظيفة المنطقة الحساسة خلف أذني القطط؟"
   },
   "story_options": [
-    "Sadece ısı yalıtımı",
-    "Hem ısı yalıtımı hem roket gibi fırlama gücü",
-    "Yalnızca su altı görüşü"
+    "Hava akımlarını ve tehlikeleri sezmek",
+    "Sadece vücut ısısını dengede tutmak",
+    "Avlanırken sesleri engellemek"
   ],
   "hashtags": [
     "#FactBite",
-    "#penguen",
-    "#bilim",
-    "#doğa",
+    "#kedi",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#canlılar"
+    "#kedidavranışları",
+    "#hayvanlaralemi",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts like this!",
-    "es": "¡Mantente atento para más datos sorprendentes como este!",
-    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip et!",
+    "en": "Follow us for more interesting facts like this!",
+    "es": "¡Síguenos para más datos interesantes como este!",
+    "ar": "تابعنا لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Biologics & Penguin Research",
-    "url": "https://www.sciencedaily.com"
+    "name": "Cat Behavior and Anatomy Studies",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Penguenler Aslında Boyunlarına Ne Saklar?",
+  "_topic": "Kedilerin Kulaklarının Arkasındaki O Gizli Bölge",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-26T23:11:33.931776+00:00",
+  "generated_at": "2026-09-27T10:34:49.682841+00:00",
   "topic_guard_days": 180
 }

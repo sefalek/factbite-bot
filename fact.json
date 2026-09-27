@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Camdan Adamın Sırrı",
-    "body": "Dünyada sadece birkaç kişide görülen genetik bir mutasyon, kasların ve bağ dokuların zamanla kemikleşmesine neden olur. Bu durumdaki insanlar adeta yaşayan heykellere dönüşür."
+    "headline": "Ağaçların Toprak Altındaki Gizli Savaş Sinyalleri",
+    "body": "Ormanda yürürken her şey sakin görünür; ancak yer altında durum çok farklıdır. Yaprak yiyen tırtıllar bir ağaca saldırdığında, o ağaç kökleri aracılığıyla komşularına kimyasal uyarılar gönderir. Bu sinyali alan diğer ağaçlar, saatler içinde yapraklarının tadını acılaştırarak kendilerini böceklere karşı savunmaya başlar."
   },
   "en": {
-    "headline": "The Secret of the Stone Man",
-    "body": "A rare genetic mutation found in only a few people worldwide causes muscles and connective tissues to turn into bone over time, literally transforming them into living statues."
+    "headline": "Trees' Underground Secret Defense Signals",
+    "body": "Walking in a forest seems peaceful, but underground tells a completely different story. When leaf-eating caterpillars attack a tree, it sends chemical warnings to its neighbors through its root system. Receiving this signal, nearby trees alter their leaf chemistry within hours to defend themselves against insects."
   },
   "es": {
-    "headline": "El Secreto del Hombre de Piedra",
-    "body": "Una rara mutación genética que se encuentra en pocas personas en todo el mundo hace que los músculos y tejidos conectivos se conviertan en hueso con el tiempo, transformándolas en estatuas vivientes."
+    "headline": "Las señales de defensa secretas de los árboles",
+    "body": "Caminar por el bosque parece tranquilo, pero bajo tierra la historia es muy distinta. Cuando las orugas atacan un árbol, este envía alertas químicas a sus vecinos a través de las raíces. Al recibir la señal, los árboles cercanos vuelven sus hojas amargas para defenderse de los insectos."
   },
   "ar": {
-    "headline": "سر الرجل الحجري",
-    "body": "طفرة جينية نادرة توجد لدى عدد قليل من الناس حول العالم تتسبب في تحول العضلات والأنسجة الضامة إلى عظام بمرور الوقت، مما يحولهم حرفياً إلى تماثيل حية."
+    "headline": "إشارات الدفاع السرية للأشجار تحت الأرض",
+    "body": "المشي في الغابة يبدو هادئاً، لكن تحت الأرض تحكي القصة قصة أخرى تماماً. عندما تهاجم اليرقات شجرة ما، ترسل تحذيرات كيميائية لجيرانها عبر جذورها. وعند تلقي الإشارة، تغير الأشجار المجاورة طعم أوراقها للدفاع عن نفسها ضد الحشرات."
   },
   "reel_hook": {
-    "tr": "Vücudunuzun yavaşça taşa dönüşebileceğini biliyor muydunuz?",
-    "en": "Did you know your body could slowly turn into stone?",
-    "es": "¿Sabías que tu cuerpo podría convertirse lentamente en piedra?",
-    "ar": "هل كنت تعلم أن جسدك يمكن أن يتحول ببطء إلى حجر؟"
+    "tr": "Ormandaki ağaçların birbirine mesaj gönderdiğini biliyor muydunuz?",
+    "en": "Did you know trees in a forest actually send messages to each other?",
+    "es": "¿Sabías que los árboles de un bosque se envían mensajes entre ellos?",
+    "ar": "هل تعلم أن الأشجار في الغابة تتبادل الرسائل فيما بينها؟"
   },
   "story_question": {
-    "tr": "Bu nadir durumda, vücutta oluşan yeni kemikler hangi dokudan köken alır?",
-    "en": "In this rare condition, what tissue do the newly formed bones originate from?",
-    "es": "En esta rara condición, ¿de qué tejido se originan los huesos reciénformados?",
-    "ar": "في هذه الحالة النادرة، ما هي الأنسجة التي تنشأ منها العظام المتكونة حديثاً؟"
+    "tr": "Tehlike anında ağaçlar komşularını uyarmak için hangi yolu kullanır?",
+    "en": "What method do trees use to warn their neighbors during danger?",
+    "es": "¿Qué método usan los árboles para advertir a sus vecinos en peligro?",
+    "ar": "ما هي الطريقة التي تستخدمها الأشجار لتحذير جيرانها وقت الخطر؟"
   },
   "story_options": [
-    "Kas ve Bağ Dokusu",
-    "Deri Hücreleri",
-    "Sinir Uçları"
+    "Kökler arası kimyasal sinyaller",
+    "Yaprak seslerinin yankısı",
+    "Rüzgarla yayılan polenler"
   ],
   "hashtags": [
     "#FactBite",
-    "#tıp",
+    "#doğa",
     "#bilim",
-    "#sağlık",
-    "#enteresan",
-    "#gerçekler"
+    "#ağaçlar",
+    "#orman",
+    "#biyoloji",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sigue para más secretos de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Fibrodysplasia ossificans progressiva - NIH",
-    "url": "https://rarediseases.info.nih.gov/diseases/6314/fibrodysplasia-ossificans-progressiva"
+    "name": "ScienceDirect & Forest Ecology Studies",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Camdan Adamın Sırrı",
+  "_topic": "Ağaçların Toprak Altındaki Gizli Savaş Sinyalleri",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-27T21:53:25.893329+00:00",
+  "generated_at": "2026-09-27T23:25:46.981071+00:00",
   "topic_guard_days": 180
 }

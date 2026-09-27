@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Yürüyen Çiçekleri",
-    "body": "Mercanlar bitki gibi görünse de aslında akrabası oldukları deniz anaları gibi birer hayvandır. Kökleriyle toprağa tutunmazlar, koloniler halinde yaşayarak kendi taş iskeletlerini inşa ederler."
+    "headline": "Camdan Adamın Sırrı",
+    "body": "Dünyada sadece birkaç kişide görülen genetik bir mutasyon, kasların ve bağ dokuların zamanla kemikleşmesine neden olur. Bu durumdaki insanlar adeta yaşayan heykellere dönüşür."
   },
   "en": {
-    "headline": "The Walking Flowers of the Sea",
-    "body": "Although corals look like plants, they are actually animals related to jellyfish. They do not anchor to the soil with roots, but live in colonies to build their own stone skeletons."
+    "headline": "The Secret of the Stone Man",
+    "body": "A rare genetic mutation found in only a few people worldwide causes muscles and connective tissues to turn into bone over time, literally transforming them into living statues."
   },
   "es": {
-    "headline": "Las flores caminantes del mar",
-    "body": "Aunque los corales parecen plantas, en realidad son animales emparentados con las medusas. No se anclan al suelo con raíces, sino que viven en colonias construyendo sus propios esqueletos de piedra."
+    "headline": "El Secreto del Hombre de Piedra",
+    "body": "Una rara mutación genética que se encuentra en pocas personas en todo el mundo hace que los músculos y tejidos conectivos se conviertan en hueso con el tiempo, transformándolas en estatuas vivientes."
   },
   "ar": {
-    "headline": "زهور البحر المتحركة",
-    "body": "على الرغم من أن الشعاب المرجانية تبدو نباتات، إلا أنها في الواقع حيوانات مرتبطة بقنديل البحر. فهي لا تثبت نفسها في التربة بذور، بل تعيش في مستعمرات لبناء هياكلها العظمية الحجرية."
+    "headline": "سر الرجل الحجري",
+    "body": "طفرة جينية نادرة توجد لدى عدد قليل من الناس حول العالم تتسبب في تحول العضلات والأنسجة الضامة إلى عظام بمرور الوقت، مما يحولهم حرفياً إلى تماثيل حية."
   },
   "reel_hook": {
-    "tr": "Taş zannedilen bu canlılar aslında birer bitki değil! Peki ne?",
-    "en": "These creatures thought to be stones are actually not plants! So what are they?",
-    "es": "¡Estas criaturas que se creen piedras en realidad no son plantas! ¿Entonces qué son?",
-    "ar": "هذه الكائنات التي يُظن أنها حجارة ليست نباتات في الواقع! إذن ما هي؟"
+    "tr": "Vücudunuzun yavaşça taşa dönüşebileceğini biliyor muydunuz?",
+    "en": "Did you know your body could slowly turn into stone?",
+    "es": "¿Sabías que tu cuerpo podría convertirse lentamente en piedra?",
+    "ar": "هل كنت تعلم أن جسدك يمكن أن يتحول ببطء إلى حجر؟"
   },
   "story_question": {
-    "tr": "Mercanlar hangi canlı grubuna daha yakındır?",
-    "en": "Which animal group are corals most closely related to?",
-    "es": "¿A qué grupo de animales están más emparentados los corales?",
-    "ar": "ما هي مجموعة الحيوانات التي ترتبط بها الشعاب المرجانية ارتباطاً وثيقاً؟"
+    "tr": "Bu nadir durumda, vücutta oluşan yeni kemikler hangi dokudan köken alır?",
+    "en": "In this rare condition, what tissue do the newly formed bones originate from?",
+    "es": "En esta rara condición, ¿de qué tejido se originan los huesos reciénformados?",
+    "ar": "في هذه الحالة النادرة، ما هي الأنسجة التي تنشأ منها العظام المتكونة حديثاً؟"
   },
   "story_options": [
-    "Deniz anaları",
-    "Bitkiler",
-    "Süngerler"
+    "Kas ve Bağ Dokusu",
+    "Deri Hücreleri",
+    "Sinir Uçları"
   ],
   "hashtags": [
     "#FactBite",
-    "#Mercanlar",
-    "#DenizAltı",
-    "#DoğaSırları",
-    "#Bilim",
-    "#Okyanus",
-    "#İlginçBilgiler"
+    "#tıp",
+    "#bilim",
+    "#sağlık",
+    "#enteresan",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Gerçekleri kaçırmamak için takip et!",
-    "en": "Follow to not miss the facts!",
-    "es": "¡Síguenos para no perderte los datos!",
-    "ar": "تابعنا لكي لا تفوتك الحقائق!"
+    "tr": "Benzer şaşırtıcı gerçekler için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more amazing facts!",
+    "es": "¡No olvides seguirnos para más datos asombrosos!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/invertebrates-facts/"
+    "name": "Fibrodysplasia ossificans progressiva - NIH",
+    "url": "https://rarediseases.info.nih.gov/diseases/6314/fibrodysplasia-ossificans-progressiva"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Yürüyen Çiçekleri",
+  "_topic": "Camdan Adamın Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-27T20:04:59.113271+00:00",
+  "generated_at": "2026-09-27T21:53:25.893329+00:00",
   "topic_guard_days": 180
 }

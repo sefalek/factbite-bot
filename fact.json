@@ -1,69 +1,70 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ağaçların Toprak Altındaki Gizli Savaş Sinyalleri",
-    "body": "Ormanda yürürken her şey sakin görünür; ancak yer altında durum çok farklıdır. Yaprak yiyen tırtıllar bir ağaca saldırdığında, o ağaç kökleri aracılığıyla komşularına kimyasal uyarılar gönderir. Bu sinyali alan diğer ağaçlar, saatler içinde yapraklarının tadını acılaştırarak kendilerini böceklere karşı savunmaya başlar."
+    "headline": "Penguenlerin Dizleri Aslında Nerede Saklı?",
+    "body": "Sevimli yürüyüşleriyle tanınan penguenlerin dışarıdan bakıldığında bacakları yokmuş gibi görünür. Ancak röntgenlerine baktığımızda, tüylerinin altında insanlardakine çok benzer diz eklemlerine ve bacak kemiklerine sahip olduklarını görürüz. Onları tombul ve kısa gösteren şey, aslında kalın yağ tabakaları ve bacaklarını gizleyen vücut yapılarıdır."
   },
   "en": {
-    "headline": "Trees' Underground Secret Defense Signals",
-    "body": "Walking in a forest seems peaceful, but underground tells a completely different story. When leaf-eating caterpillars attack a tree, it sends chemical warnings to its neighbors through its root system. Receiving this signal, nearby trees alter their leaf chemistry within hours to defend themselves against insects."
+    "headline": "Where Are Penguins' Knees Actually Hiding?",
+    "body": "Known for their waddling walk, penguins often look like they don't have legs from the outside. However, when we look at their X-rays, we see that they have knee joints and leg bones very similar to humans hidden beneath their feathers. What makes them look chubby and short is actually their thick layer of fat and body structure that conceals their legs."
   },
   "es": {
-    "headline": "Las señales de defensa secretas de los árboles",
-    "body": "Caminar por el bosque parece tranquilo, pero bajo tierra la historia es muy distinta. Cuando las orugas atacan un árbol, este envía alertas químicas a sus vecinos a través de las raíces. Al recibir la señal, los árboles cercanos vuelven sus hojas amargas para defenderse de los insectos."
+    "headline": "¿Dónde se esconden realmente las rodillas de los pingüinos?",
+    "body": "Conocidos por su caminar tambaleante, los pingüinos a menudo parecen no tener piernas desde el exterior. Sin embargo, al observar sus radiografías, vemos que tienen articulaciones de rodilla y huesos en las piernas muy similares a los de los humanos ocultos bajo sus plumas. Lo que los hace regordetes y bajos es en realidad su gruesa capa de grasa y estructura corporal que oculta sus piernas."
   },
   "ar": {
-    "headline": "إشارات الدفاع السرية للأشجار تحت الأرض",
-    "body": "المشي في الغابة يبدو هادئاً، لكن تحت الأرض تحكي القصة قصة أخرى تماماً. عندما تهاجم اليرقات شجرة ما، ترسل تحذيرات كيميائية لجيرانها عبر جذورها. وعند تلقي الإشارة، تغير الأشجار المجاورة طعم أوراقها للدفاع عن نفسها ضد الحشرات."
+    "headline": "أين تختفي ركاب البطاريق حقاً؟",
+    "body": "تشتهر البطاريق بمشيتها المتأرجحة وت يبدو وكأن لها أرجل من الخارج. ومع ذلك، عندما ننظر إلى صور الأشعة السينية الخاصة بها، نرى أن لديها مفاصل ركبة وعظام ساق تشبه إلى حد كبير تلك الموجودة لدى البشر والمختبئة تحت ريشها. ما يجعلها تبدو سمينة وقصيرة هو في الواقع طبقتها السميكة من الدهون وبنيتها الجسدية التي تخفي أرجلها."
   },
   "reel_hook": {
-    "tr": "Ormandaki ağaçların birbirine mesaj gönderdiğini biliyor muydunuz?",
-    "en": "Did you know trees in a forest actually send messages to each other?",
-    "es": "¿Sabías que los árboles de un bosque se envían mensajes entre ellos?",
-    "ar": "هل تعلم أن الأشجار في الغابة تتبادل الرسائل فيما بينها؟"
+    "tr": "Penguenlerin de dizleri olduğunu biliyor muydunuz, peki neden dışarıdan asla görünmezler?",
+    "en": "Did you know penguins have knees too, but why are they never visible from the outside?",
+    "es": "¿Sabías que los pingüinos también tienen rodillas, pero por qué nunca se ven desde el exterior?",
+    "ar": "هل تعلم أن البطاريق تمتلك ركباً أيضاً، فلماذا لا تُرى أبداً من الخارج؟"
   },
   "story_question": {
-    "tr": "Tehlike anında ağaçlar komşularını uyarmak için hangi yolu kullanır?",
-    "en": "What method do trees use to warn their neighbors during danger?",
-    "es": "¿Qué método usan los árboles para advertir a sus vecinos en peligro?",
-    "ar": "ما هي الطريقة التي تستخدمها الأشجار لتحذير جيرانها وقت الخطر؟"
+    "tr": "Penguenlerin bacakları tüylerinin altında hangi şekildedir?",
+    "en": "What shape are penguins' legs under their feathers?",
+    "es": "¿Qué forma tienen las piernas de los pingüinos bajo sus plumas?",
+    "ar": "ما شكل أرجل البطاريق تحت ريشها؟"
   },
   "story_options": [
-    "Kökler arası kimyasal sinyaller",
-    "Yaprak seslerinin yankısı",
-    "Rüzgarla yayılan polenler"
+    "İnsanunkilere benzer",
+    "Tamamen düzedir ve eklemsizdir",
+    "Sadece kıkırdaktan oluşur"
   ],
   "hashtags": [
     "#FactBite",
+    "#penguen",
+    "#bilgi",
+    "#ilginçbilgiler",
     "#doğa",
-    "#bilim",
-    "#ağaçlar",
-    "#orman",
-    "#biyoloji",
-    "#ilginçbilgiler"
+    "#hayvanlar",
+    "#keşfet",
+    "#tarih"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Follow for more nature secrets like this!",
-    "es": "¡Sigue para más secretos de la naturaleza como este!",
-    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Daha fazla şaşırtıcı doğa sırrı için takipte kal!",
+    "en": "Stay tuned for more surprising nature secrets!",
+    "es": "¡Mantente atento para más secretos sorprendentes de la naturaleza!",
+    "ar": "ترقبوا المزيد من أسرار الطبيعة المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "ScienceDirect & Forest Ecology Studies",
-    "url": "https://www.sciencedirect.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ağaçların Toprak Altındaki Gizli Savaş Sinyalleri",
+  "_topic": "Penguenlerin Dizleri Aslında Nerede Saklı?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-27T23:25:46.981071+00:00",
+  "generated_at": "2026-09-28T21:08:41.307918+00:00",
   "topic_guard_days": 180
 }

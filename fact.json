@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Dili Dışarı Çıkmaz",
-    "body": "Papağanlar ve diğer kuşlar harika sesler çıkarır ama bunu yaparken dillerini bizim gibi hareket ettirmezler. Onların ses kutusu olan 'sirinks' göğüs boşluğunun derinliklerinde yer alır; yani ses doğrudan boğazdan değil, vücudun içinden şekillenir."
+    "headline": "Kuşlar Uçarken Havayı Nasıl Deliyor?",
+    "body": "Gökyüzünde süzülen kuşların tüyleri sadece onları sıcak tutmakla kalmaz; üzerlerindeki özel yapı sayesinde türbülansı en aza indirerek havayı adeta tıraş ederler. Bu sayede saatlerce yorulmadan uçabilirler."
   },
   "en": {
-    "headline": "Birds Don't Move Their Tongues to Speak",
-    "body": "Parrots and other birds make amazing sounds, but they don't move their tongues like we do. Their voice box, the syrinx, is located deep in the chest cavity, meaning sound is shaped from inside the body rather than the throat."
+    "headline": "How Do Birds Cut Through the Air While Flying?",
+    "body": "Feathers of soaring birds do much more than keep them warm; thanks to their unique micro-structure, they minimize turbulence and literally shave the air, allowing them to fly for hours without exhaustion."
   },
   "es": {
-    "headline": "Las aves no mueven la lengua para hablar",
-    "body": "Los loros y otras aves producen sonidos increíbles, pero no mueven la lengua como nosotros. Su órgano vocal, la siringe, se encuentra en la cavidad torácica, lo que significa que el sonido se forma desde el interior del cuerpo."
+    "headline": "¿Cómo cortan el aire las aves al volar?",
+    "body": "Las plumas de las aves no solo las mantienen calientes; gracias a su estructura especial, minimizan la turbulencia y cortan el aire literalmente, permitiéndoles volar durante horas sin agotarse."
   },
   "ar": {
-    "headline": "الطيور لا تحريك ألسنتها للتحدث",
-    "body": "تصدر الببغاوات وغيرها من الطيور أصواتاً مذهلة، لكنها لا تحرك ألسنتها مثلنا. صندوق الصوت الخاص بها، المسمى بالمزمار، يقع بعمق في التجويف الصدري، مما يعني أن الصوت يتشكل من داخل الجسم."
+    "headline": "كيف تخترق الطيور الهواء أثناء الطيران؟",
+    "body": "ريش الطيور المحلقة لا يبقيها دافئة فحسب؛ بل بفضل بنيته الخاصة، فإنه يقلل الاضطرابات ويشق الهواء بكفاءة مذهلة، مما يسمح لها بالطيران لساعات دون إرهاق."
   },
   "reel_hook": {
-    "tr": "Kuşlar konuşurken dillerini neden hiç kıpırdatmaz?",
-    "en": "Why do birds never move their tongues when they 'speak'?",
-    "es": "¿Por qué las aves nunca mueven la lengua al hablar?",
-    "ar": "لماذا لا تحرك الطيور ألسنتها أبداً عندما تتحدث؟"
+    "tr": "Kilometrelerce hiç durmadan uçan o kuşlar, aslında havayı nasıl bu kadar kolay yarıyor?",
+    "en": "How do those birds fly for miles nonstop and slice through the air so effortlessly?",
+    "es": "¿Cómo logran esas aves volar kilómetros sin parar y cortar el aire tan fácilmente?",
+    "ar": "كيف تستطيع تلك الطيور الطيران لمسافات طويلة دون توقف وشق الهواء بهذه السهولة؟"
   },
   "story_question": {
-    "tr": "Kuşların sesini oluşturan sirinks organı vücudun neresindedir?",
-    "en": "Where is the syrinx organ that produces bird sounds located in the body?",
-    "es": "¿Dónde se encuentra el órgano siringe que produce los sonidos de las aves?",
-    "ar": "أين يقع عضو المزمار الذي يصدر أصوات الطيور في الجسم؟"
+    "tr": "Kuşların havayı bu kadar rahat yarmasını sağlayan en büyük etken nedir?",
+    "en": "What is the biggest factor that allows birds to cut through the air so easily?",
+    "es": "¿Cuál es el mayor factor que permite a las aves cortar el aire tan fácilmente?",
+    "ar": "ما هو العامل الأكبر الذي يسمح للطيور بشق الهواء بهذه السهولة؟"
   },
   "story_options": [
-    "Boğazın üst kısmında",
-    "Göğüs boşluğunun derindekinde",
-    "Gagada"
+    "Hafif kemikleri",
+    "Özel tüy yapıları",
+    "Geniş kanat açıklıkları"
   ],
   "hashtags": [
     "#FactBite",
-    "#Kuşlar",
-    "#Biyoloji",
-    "#Doğa",
-    "#İlginçBilgiler",
-    "#Bilim",
-    "#Hayvanlar"
+    "#doğa",
+    "#bilim",
+    "#kuşlar",
+    "#keşfet",
+    "#biliyormusunuz"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için takip et!",
-    "en": "Follow for more surprising facts!",
-    "es": "¡Sígueme para más datos sorprendentes!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "Ornithology Research",
-    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/syrinx"
+    "name": "Ornithology and Aerodynamics Research",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Dili Dışarı Çıkmaz",
+  "_topic": "Kuşlar Uçarken Havayı Nasıl Deliyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-29T00:33:31.792997+00:00",
+  "generated_at": "2026-09-29T11:24:12.908081+00:00",
   "topic_guard_days": 180
 }

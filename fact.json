@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Uçarken Havayı Nasıl Deliyor?",
-    "body": "Gökyüzünde süzülen kuşların tüyleri sadece onları sıcak tutmakla kalmaz; üzerlerindeki özel yapı sayesinde türbülansı en aza indirerek havayı adeta tıraş ederler. Bu sayede saatlerce yorulmadan uçabilirler."
+    "headline": "Kuşlar Su İçerken Neden Kafasını Arkaya Atar?",
+    "body": "Kanatlı dostlarımız suyu gagalayıp yuttuktan sonra hemen başlarını yukarı kaldırırlar. Bunun romantik bir sebebi yok; tamamen fizik kuralı! Kuşların yutak kasları suyu kendi başına yemek borusundan aşağıya itecek kadar gelişmemiştir. Bu yüzden yer çekiminden yardım alarak suyu midelerine göndermek zorundadırlar."
   },
   "en": {
-    "headline": "How Do Birds Cut Through the Air While Flying?",
-    "body": "Feathers of soaring birds do much more than keep them warm; thanks to their unique micro-structure, they minimize turbulence and literally shave the air, allowing them to fly for hours without exhaustion."
+    "headline": "Why Birds Tilt Their Heads Back When Drinking Water",
+    "body": "Our feathered friends lift their heads right up after taking a sip. This isn't for romantic reasons; it's pure physics! Birds lack the throat muscles to push water down their esophagus on their own, so they rely on gravity to get it to their stomachs."
   },
   "es": {
-    "headline": "¿Cómo cortan el aire las aves al volar?",
-    "body": "Las plumas de las aves no solo las mantienen calientes; gracias a su estructura especial, minimizan la turbulencia y cortan el aire literalmente, permitiéndoles volar durante horas sin agotarse."
+    "headline": "Por qué las aves inclinan la cabeza hacia atrás al beber agua",
+    "body": "Nuestros amigos con plumas levantan la cabeza justo después de dar un trago. No es por razones románticas, ¡es pura física! Las aves carecen de los músculos de la garganta para empujar el agua por su esófago por sí solas, por lo que dependen de la gravedad."
   },
   "ar": {
-    "headline": "كيف تخترق الطيور الهواء أثناء الطيران؟",
-    "body": "ريش الطيور المحلقة لا يبقيها دافئة فحسب؛ بل بفضل بنيته الخاصة، فإنه يقلل الاضطرابات ويشق الهواء بكفاءة مذهلة، مما يسمح لها بالطيران لساعات دون إرهاق."
+    "headline": "لماذا ترفع الطيور رؤوسها للخلف عند شرب الماء",
+    "body": "أصدقاؤنا من ذوات الريش يرفعون رؤوسهم مباشرة بعد احتساء الماء. ليس لسبب رومانسي، بل هي الفيزياء البحتة! تفتقر الطيور إلى عضلات الحلق لدفع الماء بمفردها، لذا فهي تعتمد على الجاذبية لإيصاله إلى معدتها."
   },
   "reel_hook": {
-    "tr": "Kilometrelerce hiç durmadan uçan o kuşlar, aslında havayı nasıl bu kadar kolay yarıyor?",
-    "en": "How do those birds fly for miles nonstop and slice through the air so effortlessly?",
-    "es": "¿Cómo logran esas aves volar kilómetros sin parar y cortar el aire tan fácilmente?",
-    "ar": "كيف تستطيع تلك الطيور الطيران لمسافات طويلة دون توقف وشق الهواء بهذه السهولة؟"
+    "tr": "Kuşların su içerken yaptığı o tuhaf hareketin sebebini biliyor musunuz?",
+    "en": "Do you know why birds make that weird movement when they drink water?",
+    "es": "¿Sabes por qué las aves hacen ese movimiento extraño al beber agua?",
+    "ar": "هل تعلم لماذا تفعل الطيور تلك الحركة الغريبة عند شرب الماء؟"
   },
   "story_question": {
-    "tr": "Kuşların havayı bu kadar rahat yarmasını sağlayan en büyük etken nedir?",
-    "en": "What is the biggest factor that allows birds to cut through the air so easily?",
-    "es": "¿Cuál es el mayor factor que permite a las aves cortar el aire tan fácilmente?",
-    "ar": "ما هو العامل الأكبر الذي يسمح للطيور بشق الهواء بهذه السهولة؟"
+    "tr": "Kuşların yutak kasları suyu mideye kendi başlarına itebilir mi?",
+    "en": "Can birds' throat muscles push water down to their stomachs on their own?",
+    "es": "¿Pueden los músculos de la garganta de las aves empujar el agua solos?",
+    "ar": "هل تستطيع عضلات حلق الطيور دفع الماء بمفردها إلى المعدة؟"
   },
   "story_options": [
-    "Hafif kemikleri",
-    "Özel tüy yapıları",
-    "Geniş kanat açıklıkları"
+    "Evet, tıpkı bizim gibi",
+    "Hayır, yer çekimine muhtaçlar",
+    "Sadece yaz aylarında"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
-    "#bilim",
+    "#bilgi",
     "#kuşlar",
-    "#keşfet",
-    "#biliyormusunuz"
+    "#doğa",
+    "#ilginçbilgiler",
+    "#bilim",
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology and Aerodynamics Research",
-    "url": "https://www.sciencedaily.com"
+    "name": "Ornithology and Bird Physiology Studies",
+    "url": "https://www.audubon.org/news/how-do-birds-drink-water"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Uçarken Havayı Nasıl Deliyor?",
+  "_topic": "Kuşlar Su İçerken Neden Kafasını Arkaya Atar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-29T11:24:12.908081+00:00",
+  "generated_at": "2026-09-29T12:48:56.856963+00:00",
   "topic_guard_days": 180
 }

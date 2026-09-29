@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Su İçerken Neden Kafasını Arkaya Atar?",
-    "body": "Kanatlı dostlarımız suyu gagalayıp yuttuktan sonra hemen başlarını yukarı kaldırırlar. Bunun romantik bir sebebi yok; tamamen fizik kuralı! Kuşların yutak kasları suyu kendi başına yemek borusundan aşağıya itecek kadar gelişmemiştir. Bu yüzden yer çekiminden yardım alarak suyu midelerine göndermek zorundadırlar."
+    "headline": "Kibrit Çöpü Neden Kutusundan Çıkınca Kendi Kendine Tutuşmaz?",
+    "body": "Cebinizde veya çantanızda sürtünen kibritler neden bir anda alev almaz? Çünkü o küçük başlık, tek başına yanıcı değildir. Yanmanın gerçekleşmesi için gereken kimyasalların bir kısmı, kutunun kenarındaki o pürüzlü şeride gizlenmiştir. Çöpü o şeride sürtmediğiniz sürece tepkime başlamaz."
   },
   "en": {
-    "headline": "Why Birds Tilt Their Heads Back When Drinking Water",
-    "body": "Our feathered friends lift their heads right up after taking a sip. This isn't for romantic reasons; it's pure physics! Birds lack the throat muscles to push water down their esophagus on their own, so they rely on gravity to get it to their stomachs."
+    "headline": "Why Doesn't a Matchstick Ignite Just by Rubbing Inside the Box?",
+    "body": "Why don't matches catch fire when rubbing against each other in your pocket? Because that small head isn't flammable on its own. Part of the chemicals needed for combustion are hidden in the rough strip on the side of the box. Unless you strike the stick against that strip, the reaction won't start."
   },
   "es": {
-    "headline": "Por qué las aves inclinan la cabeza hacia atrás al beber agua",
-    "body": "Nuestros amigos con plumas levantan la cabeza justo después de dar un trago. No es por razones románticas, ¡es pura física! Las aves carecen de los músculos de la garganta para empujar el agua por su esófago por sí solas, por lo que dependen de la gravedad."
+    "headline": "¿Por qué un fósforo no se enciende solo al frotarse dentro de la caja?",
+    "body": "¿Por qué los fósforos no se prenden fuego al rozarse en tu bolsillo? Porque esa pequeña cabeza no es inflamable por sí sola. Parte de los químicos necesarios para la combustión están ocultos en la tira rugosa del lateral de la caja. A menos que frotes el palillo contra esa tira, la reacción no comienza."
   },
   "ar": {
-    "headline": "لماذا ترفع الطيور رؤوسها للخلف عند شرب الماء",
-    "body": "أصدقاؤنا من ذوات الريش يرفعون رؤوسهم مباشرة بعد احتساء الماء. ليس لسبب رومانسي، بل هي الفيزياء البحتة! تفتقر الطيور إلى عضلات الحلق لدفع الماء بمفردها، لذا فهي تعتمد على الجاذبية لإيصاله إلى معدتها."
+    "headline": "لماذا لا تشتعل عود الثقاب بمجرد احتكاكها داخل العلبة؟",
+    "body": "لماذا لا تشتعل أعواد الثقاب عندما تحتك ببعضها في جيبك؟ لأن رأس العود الصغير ليس قابلاً للاشتعال بمفرده. جزء من المواد الكيميائية اللازمة للاحتراق مخفي في الشريط الخشن على جانبي العلبة. ما لم تحتك العود بهذا الشريط، لن تبدأ تفاعلات الاشتعال."
   },
   "reel_hook": {
-    "tr": "Kuşların su içerken yaptığı o tuhaf hareketin sebebini biliyor musunuz?",
-    "en": "Do you know why birds make that weird movement when they drink water?",
-    "es": "¿Sabes por qué las aves hacen ese movimiento extraño al beber agua?",
-    "ar": "هل تعلم لماذا تفعل الطيور تلك الحركة الغريبة عند شرب الماء؟"
+    "tr": "Cebinizde yüzlerce kibrit birbirine sürtünüyor, peki neden hiçbiri yanmıyor?",
+    "en": "Hundreds of matches are rubbing together in your pocket, so why don't they catch fire?",
+    "es": "Cientos de cerillas se frotan juntas en tu bolsillo, entonces ¿por qué no se encienden?",
+    "ar": "المئات من أعواد الثقاب تحتك ببعضها في جيبك، فلماذا لا تشتعل أبداً؟"
   },
   "story_question": {
-    "tr": "Kuşların yutak kasları suyu mideye kendi başlarına itebilir mi?",
-    "en": "Can birds' throat muscles push water down to their stomachs on their own?",
-    "es": "¿Pueden los músculos de la garganta de las aves empujar el agua solos?",
-    "ar": "هل تستطيع عضلات حلق الطيور دفع الماء بمفردها إلى المعدة؟"
+    "tr": "Kibritin yanmasını sağlayan ana kimyasalın kutunun neresinde olduğunu biliyor musunuz?",
+    "en": "Do you know where the main chemical that makes a match burn is located?",
+    "es": "¿Sabes dónde se encuentra el químico principal que hace que una cerilla se encienda?",
+    "ar": "هل تعلم أين تقع المواد الكيميائية الرئيسية التي تجعل عود الثقاب يشتعل؟"
   },
   "story_options": [
-    "Evet, tıpkı bizim gibi",
-    "Hayır, yer çekimine muhtaçlar",
-    "Sadece yaz aylarında"
+    "Sadece kibritin ucunda",
+    "Kutunun yanındaki şeritte",
+    "İkisinin karışımında"
   ],
   "hashtags": [
     "#FactBite",
     "#bilgi",
-    "#kuşlar",
-    "#doğa",
     "#ilginçbilgiler",
     "#bilim",
-    "#hayvanlar"
+    "#keşfet",
+    "#günlükbilgiler",
+    "#öğren"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi şaşırtıcı günlük sırları kaçırmamak için takip et!",
+    "en": "Follow so you don't miss surprising everyday secrets like this!",
+    "es": "¡Síguenos para no perderte secretos cotidianos tan sorprendentes!",
+    "ar": "اتبعنا لكي لا تفوتك الأسرار اليومية المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 9,
+    "surprise": 8,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology and Bird Physiology Studies",
-    "url": "https://www.audubon.org/news/how-do-birds-drink-water"
+    "name": "Library of Congress - Everyday Science",
+    "url": "https://www.loc.gov/everyday-mysteries"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Su İçerken Neden Kafasını Arkaya Atar?",
+  "_topic": "Kibrit Çöpü Neden Kutusundan Çıkınca Kendi Kendine Tutuşmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-29T12:48:56.856963+00:00",
+  "generated_at": "2026-09-29T14:54:19.098150+00:00",
   "topic_guard_days": 180
 }

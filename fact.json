@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Yuvaları Aslında Bebek Bakım Odası Değildir",
-    "body": "Çoğumuz kuş yuvalarını onların sıcak evi sanırız. Oysa biyolojik gerçek çok daha farklıdır; yuvalar sadece üreme döneminde yumurtaları korumak ve büyütmek için geçici olarak kullanılan birer kuluçka merkezidir. İşleri bittiğinde orayı bir daha asla ev olarak kullanmazlar."
+    "headline": "Kuşlar Su İçerken Kafalarını Neden Arkaya Atar?",
+    "body": "Çoğu kuş suyu yutmak için yer çekimine ihtiyaç duyar. Gaga suyu aldıktan sonra başlarını yukarı kaldırarak sıvının boğazlarından aşağı kaymasını sağlarlar."
   },
   "en": {
-    "headline": "Bird Nests Are Actually Not Permanent Homes",
-    "body": "Most of us think bird nests are cozy homes. However, biological reality is quite different; nests are merely temporary incubation centers used only during breeding season to protect and raise eggs. Once done, they never use them as homes again."
+    "headline": "Why Do Birds Throw Their Heads Back When Drinking Water?",
+    "body": "Most birds rely on gravity to swallow. After scooping water with their beak, they tilt their head back to let the liquid slide down their throat."
   },
   "es": {
-    "headline": "Los nidos de aves no son realmente hogares permanentes",
-    "body": "La mayoría pensamos que los nidos son hogares acogedores. Sin embargo, la realidad biológica es distinta; los nidos son solo centros temporales de incubación usados durante la reproducción. Una vez terminada, nunca vuelven a usarlos como casa."
+    "headline": "Por qué las aves echan la cabeza hacia atrás al beber agua",
+    "body": "La mayoría de las aves dependen de la gravedad para tragar. Después de tomar agua con el pico, inclinan la cabeza hacia atrás para que el líquido baje por su garganta."
   },
   "ar": {
-    "headline": "أعشاش الطيور ليست في الواقع منازل دائمية",
-    "body": "يعتقد معظمنا أن أعشاش الطيور هي منازل مريحة. لكن الواقع البيولوجي مختلف تماماً؛ الأعشاش هي مجرد مراكز حضانة مؤقتة تُستخدم فقط خلال موسم التكاثر لحماية البيض وتربيته. بمجرد الانتهاء، لا يستخدمونها كمنزل مرة أخرى أبداً."
+    "headline": "لماذا ترمي الطيور رؤوسها للخلف عند شرب الماء؟",
+    "body": "تعتمد معظم الطيور على الجاذبية للبلع. بعد التقاط الماء بمنقارها، تميل رؤوسها للخلف للسماح للسائل بالانزلاق نحو الحلق."
   },
   "reel_hook": {
-    "tr": "Kuşların her akşam o yuvalara geri döndüğünü mü sanıyorsun?",
-    "en": "Do you think birds return to those nests every single night?",
-    "es": "¿Crees que las aves regresan a esos nidos todas las noches?",
-    "ar": "هل تعود الطيور حقاً إلى تلك الأعشاش كل ليلة؟"
+    "tr": "Kuşların su içerken neden sürekli başlarını arkaya attığını hiç fark ettiniz mi?",
+    "en": "Have you ever noticed why birds keep throwing their heads back when they drink water?",
+    "es": "¿Alguna vez has notado por qué las aves echan la cabeza hacia atrás al beber agua?",
+    "ar": "هل لاحظت من قبل لماذا ترمي الطيور رؤوسها للخلف عندما تشرب الماء؟"
   },
   "story_question": {
-    "tr": "Kuşlar üreme dönemi bittikten sonra ne yapar?",
-    "en": "What do birds do after the breeding season ends?",
-    "es": "¿Qué hacen las aves después de que termina la temporada de reproducción?",
-    "ar": "ماذا تفعل الطيور بعد انتهاء موسم التكاثر؟"
+    "tr": "Sence kuşların su içerken bu hareketi yapmasının temel sebebi nedir?",
+    "en": "What do you think is the main reason birds make this movement while drinking water?",
+    "es": "¿Cuál crees que es la razón principal por la que las aves hacen este movimiento al beber?",
+    "ar": "برأيك، ما هو السبب الرئيسي لجعل الطيور تقوم بهذه الحركة أثناء الشرب؟"
   },
   "story_options": [
-    "Aynı yuvada kışlarlar",
-    "Yuvayı terk edip yenisini yaparlar",
-    "Başka kuşların yuvasını çalarlar"
+    "Yer çekimiyle yutmak",
+    "Etrafı kontrol etmek",
+    "Gagalarını temizlemek"
   ],
   "hashtags": [
     "#FactBite",
-    "#doğa",
     "#kuşlar",
+    "#doğa",
     "#bilim",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "tr": "Bunu ilk kez duyan bir arkadaşına gönder!",
     "en": "Send this to a friend who is hearing this for the first time!",
     "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
     "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "url": "https://www.audubon.org/news/how-do-birds-drink-water"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Yuvaları Aslında Bebek Bakım Odası Değildir",
+  "_topic": "Kuşlar Su İçerken Kafalarını Neden Arkaya Atar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-29T19:50:48.166191+00:00",
+  "generated_at": "2026-09-29T21:22:59.712488+00:00",
   "topic_guard_days": 180
 }

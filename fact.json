@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Su İçerken Kafalarını Neden Arkaya Atar?",
-    "body": "Çoğu kuş suyu yutmak için yer çekimine ihtiyaç duyar. Gaga suyu aldıktan sonra başlarını yukarı kaldırarak sıvının boğazlarından aşağı kaymasını sağlarlar."
+    "headline": "Kibrit Çöpü Kutunun İçindeyken Neden Yanmaz?",
+    "body": "Cebinizde veya kutunun içinde duran kibrit çöpü birbirine sürtünse bile neden kendi kendine tutuşmaz? Sır, sadece çöpün başındaki kimyasalda değil; kutunun yanındaki şeridin özel yapısındadır. Sürtünme olmadan o kıvılcım asla çıkmaz."
   },
   "en": {
-    "headline": "Why Do Birds Throw Their Heads Back When Drinking Water?",
-    "body": "Most birds rely on gravity to swallow. After scooping water with their beak, they tilt their head back to let the liquid slide down their throat."
+    "headline": "Why Doesn't a Matchstick Ignite Inside the Box?",
+    "body": "Why doesn't a matchstick inside your pocket or box catch fire on its own when rubbing against others? The secret isn't just in the chemical head; it's in the special composition of the strip on the box. Without that exact friction, that spark never happens."
   },
   "es": {
-    "headline": "Por qué las aves echan la cabeza hacia atrás al beber agua",
-    "body": "La mayoría de las aves dependen de la gravedad para tragar. Después de tomar agua con el pico, inclinan la cabeza hacia atrás para que el líquido baje por su garganta."
+    "headline": "¿Por qué una cerilla no se enciende dentro de la caja?",
+    "body": "¿Por qué una cerilla en tu bolsillo o caja no se enciende sola al rozarse con otras? El secreto no está solo en la cabeza química, sino en la composición especial de la banda en la caja. Sin esa fricción exacta, esa chispa nunca ocurre."
   },
   "ar": {
-    "headline": "لماذا ترمي الطيور رؤوسها للخلف عند شرب الماء؟",
-    "body": "تعتمد معظم الطيور على الجاذبية للبلع. بعد التقاط الماء بمنقارها، تميل رؤوسها للخلف للسماح للسائل بالانزلاق نحو الحلق."
+    "headline": "لماذا لا تشتعل عود الكبريت داخل العلبة؟",
+    "body": "لماذا لا يشتعل عود الكبريت الموجود في جيبك أو علبتك بمفرده عند احتكاكه بغيره؟ السر ليس فقط في الرأس الكيميائي، بل في التركيبة الخاصة للشريط الموجود على العلبة. بدون هذا الاحتكاك الدقيق، لن تحدث تلك الشرارة أبداً."
   },
   "reel_hook": {
-    "tr": "Kuşların su içerken neden sürekli başlarını arkaya attığını hiç fark ettiniz mi?",
-    "en": "Have you ever noticed why birds keep throwing their heads back when they drink water?",
-    "es": "¿Alguna vez has notado por qué las aves echan la cabeza hacia atrás al beber agua?",
-    "ar": "هل لاحظت من قبل لماذا ترمي الطيور رؤوسها للخلف عندما تشرب الماء؟"
+    "tr": "Cebinizdeki kibrit neden kendi kendine yanmaz?",
+    "en": "Why doesn't the match in your pocket ignite by itself?",
+    "es": "¿Por qué la cerilla en tu bolsillo no se enciende sola?",
+    "ar": "لماذا لا يشتعل الكبريت في جيبك بمفرده؟"
   },
   "story_question": {
-    "tr": "Sence kuşların su içerken bu hareketi yapmasının temel sebebi nedir?",
-    "en": "What do you think is the main reason birds make this movement while drinking water?",
-    "es": "¿Cuál crees que es la razón principal por la que las aves hacen este movimiento al beber?",
-    "ar": "برأيك، ما هو السبب الرئيسي لجعل الطيور تقوم بهذه الحركة أثناء الشرب؟"
+    "tr": "Kibritin yanmasını sağlayan ana unsur sence nerede saklı?",
+    "en": "Where do you think the main element that makes a match burn is hidden?",
+    "es": "¿Dónde crees que se oculta el elemento principal que hace arder una cerilla?",
+    "ar": "برأيك، أين يختبئ العنصر الأساسي الذي يجعل الكبريت يشتعل؟"
   },
   "story_options": [
-    "Yer çekimiyle yutmak",
-    "Etrafı kontrol etmek",
-    "Gagalarını temizlemek"
+    "Çöpün ucunda",
+    "Kutunun yanındaki şeritte",
+    "İkisinin birleşiminde"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
     "#bilim",
     "#ilginçbilgiler",
-    "#hayvanlar"
+    "#keşfet",
+    "#teknoloji",
+    "#faydalıbilgiler",
+    "#öğren"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan bir arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org/news/how-do-birds-drink-water"
+    "name": "Science History Institute",
+    "url": "https://www.sciencehistory.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Su İçerken Kafalarını Neden Arkaya Atar?",
+  "_topic": "Kibrit Çöpü Kutunun İçindeyken Neden Yanmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-29T21:22:59.712488+00:00",
+  "generated_at": "2026-09-29T22:52:43.965403+00:00",
   "topic_guard_days": 180
 }

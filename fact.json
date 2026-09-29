@@ -1,58 +1,58 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Su İçerken Kafasını Arkaya Atmasının Asıl Sebebi",
-    "body": "Kuşların su içerken kafalarını birden bire arkaya atıp gökyüzüne baktığını hiç fark ettiniz mi? Bunun nedeni suyu zevk için içmeleri değil, tamamen yer çekimine bağımlı olmalarıdır. Çoğu kuşun suyu ağzından mideye gönderecek dil kasları veya yutkunma mekanizması yoktur. Bu yüzden suyu gagalarına alıp kafalarını yukarı kaldırdıkları an, yer çekimi sayesinde sıvı boğazlarından aşağı kayar. Yani o minik hareket, onların hayatta kalma yutma yöntemidir."
+    "headline": "Kuşların Yuvaları Aslında Bebek Bakım Odası Değildir",
+    "body": "Çoğumuz kuş yuvalarını onların sıcak evi sanırız. Oysa biyolojik gerçek çok daha farklıdır; yuvalar sadece üreme döneminde yumurtaları korumak ve büyütmek için geçici olarak kullanılan birer kuluçka merkezidir. İşleri bittiğinde orayı bir daha asla ev olarak kullanmazlar."
   },
   "en": {
-    "headline": "The Real Reason Birds Throw Their Heads Back When Drinking",
-    "body": "Have you ever noticed birds throwing their heads back to look at the sky while drinking water? This isn't because they enjoy the view, but because they rely entirely on gravity. Most birds lack the tongue muscles or swallowing mechanisms to push water down their throats. By scooping water and tilting their heads up, gravity does the work to slide the liquid down. That tiny movement is simply their way of swallowing."
+    "headline": "Bird Nests Are Actually Not Permanent Homes",
+    "body": "Most of us think bird nests are cozy homes. However, biological reality is quite different; nests are merely temporary incubation centers used only during breeding season to protect and raise eggs. Once done, they never use them as homes again."
   },
   "es": {
-    "headline": "La verdadera razón por la que las aves echan la cabeza hacia atrás al beber",
-    "body": "¿Alguna vez has notado que las aves echan la cabeza hacia atrás para mirar el cielo al beber agua? No es porque disfruten del paisaje, sino porque dependen completamente de la gravedad. La mayoría de las aves carecen de músculos en la lengua o mecanismos de deglución para empujar el agua. Al inclinar la cabeza hacia arriba, la gravedad hace el trabajo para que el líquido baje por su garganta."
+    "headline": "Los nidos de aves no son realmente hogares permanentes",
+    "body": "La mayoría pensamos que los nidos son hogares acogedores. Sin embargo, la realidad biológica es distinta; los nidos son solo centros temporales de incubación usados durante la reproducción. Una vez terminada, nunca vuelven a usarlos como casa."
   },
   "ar": {
-    "headline": "السبب الحقيقي وراء رفع الطيور رؤوسها للخلف عند الشرب",
-    "body": "هل لاحظت من قبل أن الطيور ترفع رؤوسها للخلف نحو السماء أثناء شرب الماء؟ هذا ليس لأنها تستمتع بالمشهد، بل لأنها تعتمد كلياً على الجاذبية. لا تمتلك معظم الطيور عضلات اللسان أو آليات البلع لدفع الماء أسفل الحلق. من خلال إمالة رؤوسها للأعلى، تقوم الجاذبية بالمهمة ليمتزل السوائل إلى أسفل."
+    "headline": "أعشاش الطيور ليست في الواقع منازل دائمية",
+    "body": "يعتقد معظمنا أن أعشاش الطيور هي منازل مريحة. لكن الواقع البيولوجي مختلف تماماً؛ الأعشاش هي مجرد مراكز حضانة مؤقتة تُستخدم فقط خلال موسم التكاثر لحماية البيض وتربيته. بمجرد الانتهاء، لا يستخدمونها كمنزل مرة أخرى أبداً."
   },
   "reel_hook": {
-    "tr": "Kuşlar su içerken neden kafalarını birden bire arkaya atar?",
-    "en": "Why do birds suddenly snap their heads back when they drink?",
-    "es": "¿Por qué las aves echan la cabeza hacia atrás de repente cuando beben?",
-    "ar": "لماذا تحرك الطيور رؤوسها للخلف فجأة عندما تشرب؟"
+    "tr": "Kuşların her akşam o yuvalara geri döndüğünü mü sanıyorsun?",
+    "en": "Do you think birds return to those nests every single night?",
+    "es": "¿Crees que las aves regresan a esos nidos todas las noches?",
+    "ar": "هل تعود الطيور حقاً إلى تلك الأعشاش كل ليلة؟"
   },
   "story_question": {
-    "tr": "Çoğu kuşun su içerken kafasını arkaya atmasının temel sebebi nedir?",
-    "en": "What is the main reason most birds throw their heads back while drinking?",
-    "es": "¿Cuál es la razón principal por la que la mayoría de las aves echan la cabeza hacia atrás al beber?",
-    "ar": "ما هو السبب الرئيسي وراء رفع معظم الطيور رؤوسها للخلف أثناء الشرب؟"
+    "tr": "Kuşlar üreme dönemi bittikten sonra ne yapar?",
+    "en": "What do birds do after the breeding season ends?",
+    "es": "¿Qué hacen las aves después de que termina la temporada de reproducción?",
+    "ar": "ماذا تفعل الطيور بعد انتهاء موسم التكاثر؟"
   },
   "story_options": [
-    "Yer çekimi ile yutkunabilmek için",
-    "Güneşten korunmak için",
-    "Çevreyi kontrol etmek için"
+    "Aynı yuvada kışlarlar",
+    "Yuvayı terk edip yenisini yaparlar",
+    "Başka kuşların yuvasını çalarlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
     "#doğa",
+    "#kuşlar",
     "#bilim",
     "#ilginçbilgiler",
-    "#hayvanlar"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu daha önce fark etmiş miydin? Yorumlarda buluşalım!",
-    "en": "Did you ever notice this before? Let us know in the comments!",
-    "es": "¿Habías notado esto antes? ¡Déjanos tu opinión en los comentarios!",
-    "ar": "هل لاحظت هذا من قبل؟ شاركنا برأيك في التعليقات!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
     "name": "Audubon Society",
@@ -60,9 +60,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Su İçerken Kafasını Arkaya Atmasının Asıl Sebebi",
+  "_topic": "Kuşların Yuvaları Aslında Bebek Bakım Odası Değildir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-29T16:58:19.804408+00:00",
+  "generated_at": "2026-09-29T19:50:48.166191+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Fillerin Yürüyüş Sırrı",
-    "body": "Şu devasa boyutlarına rağmen fillerin yürürken hiç ses çıkarmadığını biliyor muydunuz? Aslında onlar sürekli parmak uçlarında yürürler. Topuklarının altında, adımlarının tüm şokunu emen özel bir yastık dokusu bulunur. Bu sayede tonlarca ağırlıktaki bir fil, doğada tamamen sessizce hareket edebilir."
+    "headline": "Kuşların Gözleri Neden Kafalarından Daha Ağır?",
+    "body": "Baykuşların gözleri, kafataslarının içinde o kadar büyük ve sabittir ki, aslında birer göz küresinden çok tüp gibidirler. Bu yüzden etrafı görmek için gözlerini hareket ettiremezler; bunun yerine kafalarını tam 270 derece döndürmek zorunda kalırlar."
   },
   "en": {
-    "headline": "The Secret of Elephant Walking",
-    "body": "Did you know that despite their massive size, elephants make virtually no sound when they walk? They actually walk on their tiptoes all the time. Beneath their heels lies a special cushion tissue that absorbs all the shock of their steps. This allows an elephant weighing tons to move completely silently in nature."
+    "headline": "Why Are Owls' Eyes Heavier Than Their Brains?",
+    "body": "An owl's eyes are so large and fixed inside their skull that they are actually shaped more like tubes than spheres. Because they can't move their eyes, they have to rotate their entire head up to 270 degrees to look around."
   },
   "es": {
-    "headline": "El secreto de la caminata de los elefantes",
-    "body": "¿Sabías que a pesar de su gran tamaño, los elefantes no hacen prácticamente ningún ruido al caminar? En realidad, caminan sobre la punta de los pies todo el tiempo. Debajo de sus talones hay un tejido de cojín especial que absorbe todo el impacto de sus pasos. Esto permite que un elefante que pesa toneladas se mueva completamente en silencio."
+    "headline": "¿Por qué los ojos de los búhos son más pesados que sus cerebros?",
+    "body": "Los ojos de los búhos son tan grandes y fijos en su cráneo que en realidad tienen forma de tubo en lugar de esfera. Como no pueden mover los ojos, tienen que girar toda la cabeza hasta 270 grados para mirar alrededor."
   },
   "ar": {
-    "headline": "سر مشية الفيلة",
-    "body": "هل تعلم أنه على الرغم من حجمها الهائل، إلا أن الفيلة لا تصدر أي صوت تقريبًا عند المشي؟ فهي في الواقع تمشي على أطراف أصابع قدميها طوال الوقت. يوجد تحت كعبيها نسيج وسادة خاص يمتص كل صدمات خطواتاتها، مما يسمح لفيل بوزن أطنان بالتحرك بصمت تام في الطبيعة."
+    "headline": "لماذا عيون البوم أثقل من رؤوسها؟",
+    "body": "عيون البوم كبيرة وثابتة داخل جماجمها لدرجة أنها تشبه الأنابيب أكثر من الكرات. وبسبب عدم قدرتها على تحريك عيونها، يتعين عليها إدارة رؤوسها بالكامل حتى 270 درجة لتتمكن من الرؤية."
   },
   "reel_hook": {
-    "tr": "Tonlarca ağırlıktaki bu devler doğada neden tamamen sessiz yürür?",
-    "en": "Why do these giants weighing tons walk completely silently in nature?",
-    "es": "¿Por qué estos gigantes que pesan toneladas caminan completamente en silencio en la naturaleza?",
-    "ar": "لماذا تمشي هذه العمالقة التي تزن أطنانًا بصمت تام في الطبيعة؟"
+    "tr": "Baykuşlar neden kafalarını bu kadar çılgınca döndürür bilir misin?",
+    "en": "Do you know why owls turn their heads in such a crazy way?",
+    "es": "¿Sabes por qué los búhos giran la cabeza de esa manera tan loca?",
+    "ar": "هل تعلم لماذا يدير البوم رأسه بهذه الطريقة الجنونية؟"
   },
   "story_question": {
-    "tr": "Fillerin ayaklarının altındaki bu özel şok emici doku hangi malzemeye benzetilir?",
-    "en": "What material is this special shock-absorbing tissue under an elephant's feet compared to?",
-    "es": "¿A qué material se compara este tejido especial que absorbe los impactos bajo las patas de un elefante?",
-    "ar": "بأي مادة يتم تشبيه هذا النسيج الخاص الماص للصدمات تحت أقدام الفيل؟"
+    "tr": "Baykuşlar kafalarını tam olarak kaç derece döndürebilir?",
+    "en": "How many degrees can owls rotate their heads?",
+    "es": "¿Cuántos grados pueden girar la cabeza los búhos?",
+    "ar": "ما هي الزاوية التي يمكن للبوم إدارة رأسه إليها؟"
   },
   "story_options": [
-    "Doğal jel taban",
-    "Süngerimsi kemik",
-    "Sert kıkırdak"
+    "90 derece",
+    "180 derece",
+    "270 derece"
   ],
   "hashtags": [
     "#FactBite",
-    "#fil",
+    "#baykuş",
     "#doğa",
     "#bilim",
     "#hayvanlar",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı doğa gerçekleri için takipte kal!",
-    "en": "Stay tuned for more surprising facts about nature!",
-    "es": "¡Mantente atento para más datos sorprendentes sobre la naturaleza!",
-    "ar": "ابق على متابعة لمزيد من الحقائق المدهشة حول الطبيعة!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.2
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Fillerin Yürüyüş Sırrı",
+  "_topic": "Kuşların Gözleri Neden Kafalarından Daha Ağır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-30T21:26:19.078128+00:00",
+  "generated_at": "2026-09-30T22:51:47.248221+00:00",
   "topic_guard_days": 180
 }

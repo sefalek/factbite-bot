@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilerin Kulaklarının Arkasındaki O Yumuşak Çıkıntı",
-    "body": "Kedilerin kulaklarının hemen arkasında, tüylerin daha seyrek olduğu küçük, çıplak bir deri parçası vardır. 'Carter cebi' olarak bilinen bu katmanın ne işe yaradığı tam olarak bilinmiyor, ancak sesleri daha iyi yönlendirmeye yaradığı tahmin ediliyor."
+    "headline": "Penguenler Aslında Tuzlu Su İçebilir Mi?",
+    "body": "Denizde yaşayan penguenlerin tatlı su kaynaklarına erişimi neredeyse hiç yoktur. Peki o kadar tuzlu okyanus suyunu içtiklerinde vücutları neden kurumaz? Gözlerinin hemen üstünde bulunan özel tuz bezleri, aldıkları fazla tuzu kan dolaşımından süzerek gaga uçlarından dışarı atar. Yani penguenler, doğanın kendi dahili arıtma sistemine sahiptir."
   },
   "en": {
-    "headline": "The Soft Flap Behind Cats' Ears",
-    "body": "Right behind cats' ears, there is a small, bare patch of skin where the fur is sparse. Known as 'Henry's pocket', its exact purpose remains a mystery, though it is believed to help catch and filter high-frequency sounds."
+    "headline": "Can Penguins Actually Drink Saltwater?",
+    "body": "Penguins living in the ocean have almost no access to freshwater. So why doesn't their body dehydrate when they drink so much salty ocean water? Special salt glands located right above their eyes filter out the excess salt from their bloodstream and expel it through the tips of their beaks. In other words, penguins have nature's own built-in desalination system."
   },
   "es": {
-    "headline": "El Pequeño Pliegue Detrás de las Orejas de los Gatos",
-    "body": "Justo detrás de las orejas de los gatos, hay un pequeño parche de piel sin pelo. Conocido como la 'bolsa de Henry', su propósito exacto sigue siendo un misterio, aunque se cree que ayuda a captar sonidos de alta frecuencia."
+    "headline": "¿Los pingüinos realmente pueden beber agua salada?",
+    "body": "Los pingüinos que viven en el océano casi no tienen acceso a agua dulce. Entonces, ¿por qué no se deshidratan cuando beben tanta agua salada? Unas glándulas de sal especiales ubicadas justo encima de sus ojos filtran el exceso de sal de su torrente sanguíneo y lo expulsan por las puntas de sus picos. En otras palabras, los pingüinos tienen el propio sistema de desalinización integrado de la naturaleza."
   },
   "ar": {
-    "headline": "الطيّة الناعمة خلف أذني القطط",
-    "body": "مباشرة خلف أذني القطط، توجد بقعة صغيرة وخالية من الفراء من الجلد. تُعرف بـ 'جيب هنري'، ويظل الغرض الدقيق منها مجهولاً، رغم يُعتقد أنها تساعد في التقاط الأصوات عالية التردد."
+    "headline": "هل تستطيع طيور البطريق حقاً شرب الماء المالحة؟",
+    "body": "لا تكاد طيور البطريق التي تعيش في المحيط تمتلك أي إمكانية للوصول إلى المياه العذبة. فلماذا لا تصاب أجسامها بالجفاف عندما تشرب كل هذه المياه المالحة؟ تقوم غدد ملحية خاصّة تقع مباشرة فوق أعينها بتصفية الأملاح الزائدة من مجرى دمها وتطردها عبر أطراف مناقيرها. بمعنى آخر، تمتلك طيور البطريق نظام تحلية داخلي خاص بالطبيعة."
   },
   "reel_hook": {
-    "tr": "Kedinizin kulağının arkasındaki o garip cebin ne olduğunu biliyor musunuz?",
-    "en": "Do you know what that weird pocket behind your cat's ear is for?",
-    "es": "¿Sabes para qué sirve ese extraño pliegue detrás de la oreja de tu gato?",
-    "ar": "هل تعرف ما فائدة تلك الجيبة الغريبة خلف أذن قطتك؟"
+    "tr": "Okyanus ortasında yaşayan penguenler susuzluktan neden ölmüyor?",
+    "en": "Why don't penguins living in the middle of the ocean die of thirst?",
+    "es": "¿Por qué los pingüinos que viven en medio del océano no mueren de sed?",
+    "ar": "لماذا لا تموت طيور البطريق التي تعيش في وسط المحيط من العطش؟"
   },
   "story_question": {
-    "tr": "Kedilerin kulağının arkasındaki bu katmanın adı nedir?",
-    "en": "What is this fold behind cats' ears called?",
-    "es": "¿Cómo se llama este pliegue detrás de las orejas de los gatos?",
-    "ar": "ما اسم هذا الثنية خلف أذني القطط؟"
+    "tr": "Penguenler vücutlarındaki fazla tuzu nereden dışarı atar?",
+    "en": "Where do penguins expel the excess salt from their bodies?",
+    "es": "¿De dónde expulsan los pingüinos el exceso de sal de sus cuerpos?",
+    "ar": "من أين تطرد طيور البطريق الأملاح الزائدة من أجسامها؟"
   },
   "story_options": [
-    "Carter cebi",
-    "Kedi kesesi",
-    "Pati cebi"
+    "Gaga uçlarından",
+    "Deri yoluyla",
+    "Kanatlarından"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#kedibilgileri",
-    "#ilginçbilgiler",
+    "#penguen",
     "#bilim",
-    "#hayvanlar"
+    "#doğa",
+    "#ilginçbilgiler",
+    "#canlılar",
+    "#okyanus"
   ],
   "cta": {
-    "tr": "Daha fazla ilginç gerçek için takipte kal!",
-    "en": "Follow for more fascinating facts!",
-    "es": "¡Sígueme para más datos fascinantes!",
-    "ar": "تابعنا للمزيد من الحقائق الرائعة!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için takipte kal!",
+    "en": "Stay tuned for more interesting facts like this!",
+    "es": "¡Mantente atento a más datos interesantes como este!",
+    "ar": "ابق على تطلع لمزيد من الحقائق المشابهة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Catster",
-    "url": "https://www.catster.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilerin Kulaklarının Arkasındaki O Yumuşak Çıkıntı",
+  "_topic": "Penguenler Aslında Tuzlu Su İçebilir Mi?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-30T11:12:46.963135+00:00",
+  "generated_at": "2026-09-30T12:32:49.492534+00:00",
   "topic_guard_days": 180
 }

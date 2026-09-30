@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ağaçlar Aslında Yürüyebilir",
-    "body": "Güney Amerika'daki yürüyen palmiyeler, engebeli zeminlerde güneş ışığına ulaşmak için köklerini yavaşça sürünerek yer değiştirir. Yıl boyunca yer değiştirerek metrelerce yol alabilirler."
+    "headline": "Bukalemunların Asıl Gizli Silahı Renk Değiştirmek Değil",
+    "body": "Bukalemunlar denince aklımıza hemen renk değiştirmeleri gelir. Ancak bu renk değişimi esas olarak kamufle olmak için değil, sıcaklık kontrolü ve ruh hallerini, yani duygularını karşı tarafa göstermek için kullanılır. Asıl hayatta kalma avantajları ise tamamen bağımsız hareket edebilen iki gözleridir. Aynı anda hem öne hem arkaya bakarak avlarını hatasız yakalarlar."
   },
   "en": {
-    "headline": "Trees Can Actually Walk",
-    "body": "Walking palms in South America slowly shift their roots to creep toward sunlight on uneven terrain. They can travel several meters over the course of a year."
+    "headline": "A Chameleon's Real Secret Weapon Isn't Changing Color",
+    "body": "When we think of chameleons, we immediately think of color changing. However, this color shift is mainly used for temperature control and showing moods, rather than just camouflage. Their true survival advantage is their eyes, which can move completely independently, allowing them to look forward and backward at the same time."
   },
   "es": {
-    "headline": "Los árboles pueden caminar",
-    "body": "Las palmeras caminantes en América del Sur mueven lentamente sus raíces para avanzar hacia la luz del sol en terrenos irregulares. Pueden recorrer varios metros a lo largo del año."
+    "headline": "El verdadero arma secreta del camaleón no es cambiar de color",
+    "body": "Cuando pensamos en camaleones, pensamos en el cambio de color. Sin embargo, esto se usa principalmente para regular la temperatura y mostrar emociones, no solo para camuflarse. Su verdadera ventaja de supervivencia son sus ojos, que se mueven de forma totalmente independiente para mirar hacia adelante y hacia atrás a la vez."
   },
   "ar": {
-    "headline": "الأشجار قادرة على المشي حقاً",
-    "body": "نخيل المشي في أمريكا الجنوبية تحرك جذورها ببطء للزحف نحو ضوء الشمس على التضاريس الوعرة. يمكنها قطع عدة أمتار على مدار العام."
+    "headline": "سلاح الحرباء السري الحقيقي ليس تغيير اللون",
+    "body": "عندما نفكر في الحرباء، يخطر ببالنا تغيير اللون. لكن هذا التغيير يستخدم أساساً للتحكم في الحرارة والتعبير عن الحالة المزاجية وليس فقط للتخفي. ميزتهم الحقيقية في البقاء هي عيونهم التي تتحرك بشكل مستقل تماماً، مما يسمح لهم بالنظر للأمام والخلف في نفس الوقت."
   },
   "reel_hook": {
-    "tr": "Sabit durduğunu sandığınız bu ağaç, aslında geçen ay burada değildi.",
-    "en": "This tree you think is stationary actually wasn't here last month.",
-    "es": "Este árbol que crees que está estacionario en realidad no estaba aquí el mes pasado.",
-    "ar": "هذه الشجرة التي تعتقد أنها ثابتة لم تكن هنا في الواقع الشهر الماضي."
+    "tr": "Bukalemunların renk değiştirmesi hakkında bildiğiniz her şeyi unutun.",
+    "en": "Forget everything you know about chameleons changing color.",
+    "es": "Olvida todo lo que sabes sobre los camaleones cambiando de color.",
+    "ar": "انس كل ما تعرفه عن تغيير ألوان الحرباء."
   },
   "story_question": {
-    "tr": "Yürüyen palmiyeler yılda ortalama kaç metre yer değiştirebilir?",
-    "en": "How many meters on average can walking palms move per year?",
-    "es": "¿Cuántos metros en promedio pueden moverse las palmeras caminantes por año?",
-    "ar": "ما هو متوسط الأمتار التي يمكن أن تحركها نخيل المشي في السنة؟"
+    "tr": "Bukalemunlar gözlerini aynı anda kaç farklı yöne hareket ettirebilir?",
+    "en": "In how many different directions can chameleons move their eyes at the same time?",
+    "es": "¿En cuántas direcciones diferentes pueden mover los ojos los camaleones al mismo tiempo?",
+    "ar": "في كم اتجاه مختلف يمكن للحرباء تحريك عينيها في نفس الوقت؟"
   },
   "story_options": [
-    "1-2 metre",
-    "20-30 metre",
-    "100+ metre"
+    "İki bağımsız yöne",
+    "Sadece tek bir yöne",
+    "Dört farklı yöne"
   ],
   "hashtags": [
     "#FactBite",
+    "#bukalemun",
     "#doğa",
-    "#ağaçlar",
     "#bilim",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#orman",
-    "#keşfet"
+    "#biliyormuydunuz"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Live Science",
-    "url": "https://www.livescience.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com/animals/reptiles/facts/chameleons"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ağaçlar Aslında Yürüyebilir",
+  "_topic": "Bukalemunların Asıl Gizli Silahı Renk Değiştirmek Değil",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-30T15:01:11.140343+00:00",
+  "generated_at": "2026-09-30T18:18:40.719159+00:00",
   "topic_guard_days": 180
 }

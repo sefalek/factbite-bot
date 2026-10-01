@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Gözleri Neden Kafalarından Daha Ağır?",
-    "body": "Baykuşların gözleri, kafataslarının içinde o kadar büyük ve sabittir ki, aslında birer göz küresinden çok tüp gibidirler. Bu yüzden etrafı görmek için gözlerini hareket ettiremezler; bunun yerine kafalarını tam 270 derece döndürmek zorunda kalırlar."
+    "headline": "Kuşların Gagalarındaki Isı Sensörleri",
+    "body": "Bazı kuş türleri, özellikle avcı kuşlar, gagalarındaki özel sinir uçları sayesinde yer altındaki avlarının yaydığı ısıyı ve titreşimleri doğrudan hissedebilir. Yani gözleri görmese bile, avlarını sadece hissederek yakalayabilirler."
   },
   "en": {
-    "headline": "Why Are Owls' Eyes Heavier Than Their Brains?",
-    "body": "An owl's eyes are so large and fixed inside their skull that they are actually shaped more like tubes than spheres. Because they can't move their eyes, they have to rotate their entire head up to 270 degrees to look around."
+    "headline": "Thermal Sensors in Bird Beaks",
+    "body": "Some bird species, especially raptors, can directly feel the heat and vibrations emitted by prey underground thanks to specialized nerve endings in their beaks. Even without sight, they can locate prey through pure sensation."
   },
   "es": {
-    "headline": "¿Por qué los ojos de los búhos son más pesados que sus cerebros?",
-    "body": "Los ojos de los búhos son tan grandes y fijos en su cráneo que en realidad tienen forma de tubo en lugar de esfera. Como no pueden mover los ojos, tienen que girar toda la cabeza hasta 270 grados para mirar alrededor."
+    "headline": "Sensores térmicos en los picos de las aves",
+    "body": "Algunas especies de aves, especialmente las rapaces, pueden sentir directamente el calor y las vibraciones emitidas por presas bajo tierra gracias a terminaciones nerviosas especializadas en sus picos."
   },
   "ar": {
-    "headline": "لماذا عيون البوم أثقل من رؤوسها؟",
-    "body": "عيون البوم كبيرة وثابتة داخل جماجمها لدرجة أنها تشبه الأنابيب أكثر من الكرات. وبسبب عدم قدرتها على تحريك عيونها، يتعين عليها إدارة رؤوسها بالكامل حتى 270 درجة لتتمكن من الرؤية."
+    "headline": "الاستشعارات الحرارية في مناقير الطيور",
+    "body": "يمكن لبعض أنواع الطيور، وخاصة الجارحة، استشعار الحرارة والاهتزازات التي تصدرها الفرائس تحت الأرض بفضل نهايات عصبية متخصصة في مناقيرها."
   },
   "reel_hook": {
-    "tr": "Baykuşlar neden kafalarını bu kadar çılgınca döndürür bilir misin?",
-    "en": "Do you know why owls turn their heads in such a crazy way?",
-    "es": "¿Sabes por qué los búhos giran la cabeza de esa manera tan loca?",
-    "ar": "هل تعلم لماذا يدير البوم رأسه بهذه الطريقة الجنونية؟"
+    "tr": "Kuşlar yer altındaki avlarını gözleriyle değil, gagalarındaki gizli bir güçle bulur.",
+    "en": "Birds find underground prey not with their eyes, but with a hidden power in their beaks.",
+    "es": "Las aves encuentran presas bajo tierra no con sus ojos, sino con un poder oculto en sus picos.",
+    "ar": "تجد الطيور الفرائس تحت الأرض ليس بأعينها، بل بقوة خفية في مناقيرها."
   },
   "story_question": {
-    "tr": "Baykuşlar kafalarını tam olarak kaç derece döndürebilir?",
-    "en": "How many degrees can owls rotate their heads?",
-    "es": "¿Cuántos grados pueden girar la cabeza los búhos?",
-    "ar": "ما هي الزاوية التي يمكن للبوم إدارة رأسه إليها؟"
+    "tr": "Sizce bu gizli duyu hangi kuşta en gelişmiştir?",
+    "en": "In which bird do you think this hidden sense is most developed?",
+    "es": "¿En qué ave crees que este sentido oculto está más desarrollado?",
+    "ar": "في أي طائر برأيك يتم تطوير هذه الحاسة الخفية بشكل أكبر؟"
   },
   "story_options": [
-    "90 derece",
-    "180 derece",
-    "270 derece"
+    "Baykuş",
+    "Kartal",
+    "Karga"
   ],
   "hashtags": [
     "#FactBite",
-    "#baykuş",
-    "#doğa",
     "#bilim",
-    "#hayvanlar",
+    "#doğa",
+    "#kuşlar",
     "#ilginçbilgiler",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "tr": "Bunun gibi daha fazla gerçek için takip et!",
     "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "es": "¡Sigue para más datos como este!",
+    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "Audubon Society",
-    "url": "https://www.audubon.org"
+    "name": "Ornithology and Avian Sensory Biology Studies",
+    "url": "https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/avian-sensory-systems"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Gözleri Neden Kafalarından Daha Ağır?",
+  "_topic": "Kuşların Gagalarındaki Isı Sensörleri",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-09-30T22:51:47.248221+00:00",
+  "generated_at": "2026-10-01T00:12:54.477761+00:00",
   "topic_guard_days": 180
 }

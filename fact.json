@@ -1,70 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Uçarken Neden Kablolarda Çarpılmaz?",
-    "body": "Gökyüzünde süzülen kuşlar yüksek gerilim hatlarına konduğunda neden çarpılmaz biliyor musunuz? Çünkü elektrik akımı, devreyi tamamlamak için toprağa ulaşmak ister. Kuşlar sadece tek bir tele bastığı ve ayakları arasında elektrik potansiyel farkı oluşmadığı için akıma kapılmazlar. Ancak iki farklı tele aynı anda dokunurlarsa ne yazık ki devre tamamlanır."
+    "headline": "Kedilerin Mırlaması Sadece Mutluluk Değildir",
+    "body": "Kedinizin çıkardığı o mırıltı sadece mutlu olduğunu göstermez. Kediler korktuklarında, canları yandığında veya iyileşmeye çalışırken de mırlar. Bu özel frekans, onların kemiklerini ve dokularını onarmasına yardımcı olan doğal bir iyileştirici titreşimdir."
   },
   "en": {
-    "headline": "Why Don't Birds Get Electrocuted on Power Lines?",
-    "body": "Do you know why birds don't get electrocuted when they land on high-voltage power lines? Because electric current needs to reach the ground to complete a circuit. Since birds touch only a single wire and no potential difference exists between their feet, they are safe. However, if they touch two different wires at once, the circuit completes."
+    "headline": "A Cat's Purr Isn't Just for Happiness",
+    "body": "That purr from your cat doesn't just mean they're happy. Cats also purr when they're scared, in pain, or trying to heal. This specific frequency is a natural healing vibration that helps repair their bones and tissues."
   },
   "es": {
-    "headline": "Por qué las aves no se electrocutan en los cables?",
-    "body": "¿Sabes por qué las aves no se electrocutan cuando se posan en cables de alta tensión? Porque la corriente eléctrica busca llegar a tierra para cerrar el circuito. Como las aves tocan un solo cable y no hay diferencia de potencial entre sus patas, están a salvo. Sin embargo, si tocan dos cables distintos a la vez, el circuito se cierra."
+    "headline": "El Ronroneo de un Gato No Es Solo Felicidad",
+    "body": "Ese ronroneo de tu gato no significa solo que está feliz. Los gatos también ronronean cuando tienen miedo, dolor o intentan sanar. Esta frecuencia específica es una vibración curativa natural que ayuda a reparar sus huesos y tejidos."
   },
   "ar": {
-    "headline": "لماذا لا تتعرض الطيور لصعقة كهربائية على الأسلاك؟",
-    "body": "هل تعلم لماذا لا تتعرض الطيور لصعقة عند الوقوف على خطوط الضغط العالي؟ لأن التيار الكهربائي يسعى للوصول إلى الأرض لإكمال الدائرة. وبما أن الطير يلمس سلكاً واحداً ولا يوجد فرق جهد بين قدميه، فهو بأمان. لكن لو لمس سلكين مختلفين في نفس الوقت، تكتمل الدائرة."
+    "headline": "خرخرة القطط ليست فقط للسعادة",
+    "body": "خرخرة قطتك لا تعني فقط أنها سعيدة. تخرخر القطط أيضاً عندما تكون خائفاً، أو تتألم، أو تحاول التعافي. هذا التردد المحدد هو اهتمام علاجي طبيعي يساعد في إصلاح عظامها وأنسجتها."
   },
   "reel_hook": {
-    "tr": "Binlerce voltluk elektrik tellerindeki kuşlar neden çarpılmıyor?",
-    "en": "Why don't birds on thousands of volts of electric wires get shocked?",
-    "en_us": "Why don't birds on thousands of volts of electric wires get shocked?",
-    "es": "¿Por qué las aves en cables de alto voltaje no se electrocutan?",
-    "ar": "لماذا لا تصعق الطيور على أسلاك الكهرباء ذات الآلاف من الفولتات؟"
+    "tr": "Kediniz mırlarken aslında ne anlama geldiğini biliyor musunuz?",
+    "en": "Do you know what it really means when your cat purrs?",
+    "es": "¿Sabes lo que realmente significa cuando tu gato ronronea?",
+    "ar": "هل تعرف ماذا تعني خرخرة قطتك حقاً؟"
   },
   "story_question": {
-    "tr": "Bir kuş aynı anda iki farklı tele dokunursa ne olur?",
-    "en": "What happens if a bird touches two different wires at the same time?",
-    "es": "¿Qué pasa si un ave toca dos cables distintos al mismo tiempo?",
-    "ar": "ماذا يحدث إذا لمس طائر سلكين مختلفين في نفس الوقت؟"
+    "tr": "Kediler hangi durumlarda mırlar?",
+    "en": "In which situations do cats purr?",
+    "es": "¿En qué situaciones ronronean los gatos?",
+    "ar": "في أي حالات تخرخر القطط؟"
   },
   "story_options": [
-    "Hiçbir şey olmaz",
-    "Elektrik çarpar",
-    "Tüyleri dökülür"
+    "Sadece uyurken",
+    "Mutluluk, korku ve iyileşme anında",
+    "Yalnızca yemek yerken"
   ],
   "hashtags": [
     "#FactBite",
+    "#kedi",
     "#bilim",
-    "#doğa",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#fizik",
-    "#kuşlar",
+    "#evdeccil",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için takipte kal!",
-    "en": "Stay tuned for more interesting facts like this!",
-    "es": "¡Sigue atento para más datos interesantes como este!",
-    "ar": "تابعنا للمزيد من الحقائق الشيقة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Physics Central",
-    "url": "https://www.physicscentral.com"
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com/article/why-do-cats-purr/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Uçarken Neden Kablolarda Çarpılmaz?",
+  "_topic": "Kedilerin Mırlaması Sadece Mutluluk Değildir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-01T20:15:50.332657+00:00",
+  "generated_at": "2026-10-01T21:48:01.273897+00:00",
   "topic_guard_days": 180
 }

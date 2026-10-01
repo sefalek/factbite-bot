@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilerin Mırlaması Sadece Mutluluk Değildir",
-    "body": "Kedinizin çıkardığı o mırıltı sadece mutlu olduğunu göstermez. Kediler korktuklarında, canları yandığında veya iyileşmeye çalışırken de mırlar. Bu özel frekans, onların kemiklerini ve dokularını onarmasına yardımcı olan doğal bir iyileştirici titreşimdir."
+    "headline": "Kuşların Şarkıları Aslında Ne Anlama Geliyor?",
+    "body": "Sabahları duyduğumuz kuş cıvıltıları sadece neşeli birer şarkı değil. Kuşlar, günün ilk ışıklarıyla birlikte birbirlerine 'Ben buradayım, sınırlarım güvende' mesajı veren karmaşık birer harita ve uyarı sistemi çalıştırırlar. Yani dışarıda oldukça ciddi bir bölge savaşı var."
   },
   "en": {
-    "headline": "A Cat's Purr Isn't Just for Happiness",
-    "body": "That purr from your cat doesn't just mean they're happy. Cats also purr when they're scared, in pain, or trying to heal. This specific frequency is a natural healing vibration that helps repair their bones and tissues."
+    "headline": "What Do Bird Songs Actually Mean?",
+    "body": "The bird chirps we hear in the mornings are not just cheerful tunes. With the first light of day, birds run a complex map and warning system, signaling to each other that 'I am here and my borders are safe.' So, there is quite a serious territory war going on outside."
   },
   "es": {
-    "headline": "El Ronroneo de un Gato No Es Solo Felicidad",
-    "body": "Ese ronroneo de tu gato no significa solo que está feliz. Los gatos también ronronean cuando tienen miedo, dolor o intentan sanar. Esta frecuencia específica es una vibración curativa natural que ayuda a reparar sus huesos y tejidos."
+    "headline": "¿Qué significan realmente los cantos de los pájaros?",
+    "body": "Los chirridos de los pájaros que escuchamos por la mañana no son solo canciones alegres. Con las primeras luces del día, las aves activan un mapa complejo y un sistema de advertencia para decirse: 'Estoy aquí y mis límites están seguros'. Así que afuera hay una guerra territorial bastante seria."
   },
   "ar": {
-    "headline": "خرخرة القطط ليست فقط للسعادة",
-    "body": "خرخرة قطتك لا تعني فقط أنها سعيدة. تخرخر القطط أيضاً عندما تكون خائفاً، أو تتألم، أو تحاول التعافي. هذا التردد المحدد هو اهتمام علاجي طبيعي يساعد في إصلاح عظامها وأنسجتها."
+    "headline": "ماذا تعني أصوات الطيور حقاً؟",
+    "body": "زقزقة الطيور التي نسمعها في الصباح ليست مجرد ألحان مبهجة. مع ضوء النهار الأول، تدير الطيور نظام خريطة وتحذير معقداً لتبلغ بعضها البعض بأن 'أنا هنا حدودي آمنة'. لذا، هناك حرب مناطق جدية للغاية تقام في الخارج."
   },
   "reel_hook": {
-    "tr": "Kediniz mırlarken aslında ne anlama geldiğini biliyor musunuz?",
-    "en": "Do you know what it really means when your cat purrs?",
-    "es": "¿Sabes lo que realmente significa cuando tu gato ronronea?",
-    "ar": "هل تعرف ماذا تعني خرخرة قطتك حقاً؟"
+    "tr": "Sabah duyduğun o neşeli kuş cıvıltıları... aslında masum bir konser değil.",
+    "en": "Those cheerful bird chirps you hear in the morning... aren't actually an innocent concert.",
+    "es": "Esos alegres chirridos de pájaros que escuchas por la mañana... en realidad no son un concierto inocente.",
+    "ar": "تلك الزقزقة المبهجة للطيور التي تسمعها في الصباح... ليست في الواقع حفلة موسيقية بريئة."
   },
   "story_question": {
-    "tr": "Kediler hangi durumlarda mırlar?",
-    "en": "In which situations do cats purr?",
-    "es": "¿En qué situaciones ronronean los gatos?",
-    "ar": "في أي حالات تخرخر القطط؟"
+    "tr": "Sabahları öten kuşların asıl amacı sizce nedir?",
+    "en": "What do you think is the main purpose of birds singing in the morning?",
+    "es": "¿Cuál crees que es el propósito principal de que los pájaros canten por la mañana?",
+    "ar": "برأيك، ما هو الغرض الرئيسي من غناء الطيور في الصباح؟"
   },
   "story_options": [
-    "Sadece uyurken",
-    "Mutluluk, korku ve iyileşme anında",
-    "Yalnızca yemek yerken"
+    "Sadece neşelerini paylaşmak",
+    "Bölge sınırlarını belirlemek ve uyarmak",
+    "Yön bulmalarına yardımcı olmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
+    "#doğa",
+    "#kuşlar",
     "#bilim",
-    "#hayvanlar",
     "#ilginçbilgiler",
-    "#evdeccil",
-    "#keşfet"
+    "#keşfet",
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Stay tuned for more facts like this!",
+    "es": "¡Mantente atento a más datos como este!",
+    "ar": "ترقبوا المزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Scientific American",
-    "url": "https://www.scientificamerican.com/article/why-do-cats-purr/"
+    "name": "Ornithology and Animal Behavior Studies",
+    "url": "https://www.sciencedaily.com/news/plants_animals/birds/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilerin Mırlaması Sadece Mutluluk Değildir",
+  "_topic": "Kuşların Şarkıları Aslında Ne Anlama Geliyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-01T21:48:01.273897+00:00",
+  "generated_at": "2026-10-01T23:02:15.052585+00:00",
   "topic_guard_days": 180
 }

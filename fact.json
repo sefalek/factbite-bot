@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Uçarken Kafalarını Nasıl Bu Kadar Sabit Tutabiliyor?",
-    "body": "Gökyüzünde süzülen bir kuşun gövdesi rüzgarla savrulurken, başı adeta havada asılı kalmış gibi milim oynamaz. Bunun sırrı esnek boyunlarında gizlidir. Kuşların boynunda tam on sekiz omur bulunur; insanlarda ise bu sayı sadece yedidir. Bu olağanüstü esneklik, uçuş sırasında sarsıntıları tamamen emerek onların net bir şekilde görmesini sağlar."
+    "headline": "Kuşlar Zıplamaz, Neden?",
+    "body": "Çoğu kuş türü yürümek yerine sadece zıplar gibi görünür ancak aslında bu bir zıplama değil, iki ayağını da aynı anda kullanarak yaptığı özel bir sıçrama hareketidir. Anatomik yapıları buna mecbur bırakır."
   },
   "en": {
-    "headline": "How Do Birds Keep Their Heads So Steady While Flying?",
-    "body": "While a bird's body tosses in the wind, its head stays completely still as if suspended in mid-air. The secret lies in their flexible necks. Birds have eighteen cervical vertebrae, compared to just seven in humans. This extraordinary flexibility absorbs turbulence completely, allowing them to maintain sharp vision."
+    "headline": "Why Birds Don't Walk",
+    "body": "Most bird species seem to jump instead of walk, but it's actually a synchronized spring using both feet at once. Their anatomy forces them to move this way."
   },
   "es": {
-    "headline": "¿Cómo logran las aves mantener la cabeza tan firme al volar?",
-    "body": "Mientras el cuerpo de un ave se sacude con el viento, su cabeza permanece inmóvil como si estuviera suspendida en el aire. El secreto está en sus cuellos flexibles. Tienen dieciocho vértebras cervicales, en comparación con las siete de los humanos. Esta flexibilidad absorbe la turbulencia por completo, permitiéndoles mantener una visión nítida."
+    "headline": "Por qué las aves no caminan",
+    "body": "La mayoría de las aves parecen saltar en lugar de caminar, pero en realidad es un impulso sincronizado con ambas patas a la vez. Su anatomía las obliga a moverse así."
   },
   "ar": {
-    "headline": "كيف تبقي الطيور رؤوسها ثابتة تماماً أثناء الطيران؟",
-    "body": "بينما يتقلب جسد الطائر في الريح، يظل رأسه ثابت كأنه معلق في الهواء. السر يكمن في رقابها المرنة. تمتلك الطيور ثمانية عشر فقرة عنقية، مقارنة بسبع فقرات فقط لدى البشر. هذه المرونة الاستثنائية تمتص الاضطرابات تماماً، مما يتيح لها رؤية واضحة."
+    "headline": "لماذا لا تمشي الطيور",
+    "body": "معظم أنواع الطيور تبدو وكأنها تقفز بدلاً من المشي، لكنها في الواقع دفعة متزامنة باستخدام كلا القدمين معاً. تشريحها يجبرها على التحرك بهذه الطريقة."
   },
   "reel_hook": {
-    "tr": "Rüzgar gövdesini savururken başı neden milim oynamaz?",
-    "en": "Why doesn't its head budge an inch while the wind tosses its body?",
-    "es": "¿Por qué su cabeza no se mueve ni un milímetro mientras el viento sacude su cuerpo?",
-    "ar": "لماذا لا يتحرك رأسه ولو قليلاً بينما تعصف الرياح بجسده؟"
+    "tr": "Hiç bir kuşun normal şekilde yürüdüğünü gördünüz mü?",
+    "en": "Have you ever seen a bird walk normally?",
+    "es": "¿Alguna vez has visto a un pájaro caminar normalmente?",
+    "ar": "هل رأيت طائراً يمشي بشكل طبيعي من قبل؟"
   },
   "story_question": {
-    "tr": "İnsanlarda kaç boyun omuru bulunur?",
-    "en": "How many cervical vertebrae do humans have?",
-    "es": "¿Cuántas vértebras cervicales tienen los humanos?",
-    "ar": "كم عدد فقرات الرقبة لدى البشر؟"
+    "tr": "Sizce kuşlar neden yürümek yerine iki ayağıyla aynı anda sıçrar?",
+    "en": "Why do you think birds jump with both feet at once instead of walking?",
+    "es": "¿Por qué crees que las aves saltan con ambos pies a la vez en lugar de caminar?",
+    "ar": "لماذا تعتقد أن الطيور تقفز بكلتا قدميها معاً بدلاً من المشي؟"
   },
   "story_options": [
-    "7",
-    "12",
-    "18"
+    "Kas yapıları",
+    "Denge ve enerji tasarrufu",
+    "Tüylerinin ağırlığı"
   ],
   "hashtags": [
     "#FactBite",
     "#kuşlar",
     "#doğa",
     "#bilim",
-    "#biyoloji",
-    "#ilginçbilgiler",
-    "#hayvanlaralemi"
+    "#hayvanlar",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق المدهشة!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.5
   },
   "source": {
-    "name": "Ornithology and Bird Anatomy Research",
+    "name": "Ornithology Science",
     "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Uçarken Kafalarını Nasıl Bu Kadar Sabit Tutabiliyor?",
+  "_topic": "Kuşlar Zıplamaz, Neden?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-01T17:28:26.146324+00:00",
+  "generated_at": "2026-10-01T18:43:58.462639+00:00",
   "topic_guard_days": 180
 }

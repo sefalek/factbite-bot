@@ -1,68 +1,70 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Zıplamaz, Neden?",
-    "body": "Çoğu kuş türü yürümek yerine sadece zıplar gibi görünür ancak aslında bu bir zıplama değil, iki ayağını da aynı anda kullanarak yaptığı özel bir sıçrama hareketidir. Anatomik yapıları buna mecbur bırakır."
+    "headline": "Kuşlar Uçarken Neden Kablolarda Çarpılmaz?",
+    "body": "Gökyüzünde süzülen kuşlar yüksek gerilim hatlarına konduğunda neden çarpılmaz biliyor musunuz? Çünkü elektrik akımı, devreyi tamamlamak için toprağa ulaşmak ister. Kuşlar sadece tek bir tele bastığı ve ayakları arasında elektrik potansiyel farkı oluşmadığı için akıma kapılmazlar. Ancak iki farklı tele aynı anda dokunurlarsa ne yazık ki devre tamamlanır."
   },
   "en": {
-    "headline": "Why Birds Don't Walk",
-    "body": "Most bird species seem to jump instead of walk, but it's actually a synchronized spring using both feet at once. Their anatomy forces them to move this way."
+    "headline": "Why Don't Birds Get Electrocuted on Power Lines?",
+    "body": "Do you know why birds don't get electrocuted when they land on high-voltage power lines? Because electric current needs to reach the ground to complete a circuit. Since birds touch only a single wire and no potential difference exists between their feet, they are safe. However, if they touch two different wires at once, the circuit completes."
   },
   "es": {
-    "headline": "Por qué las aves no caminan",
-    "body": "La mayoría de las aves parecen saltar en lugar de caminar, pero en realidad es un impulso sincronizado con ambas patas a la vez. Su anatomía las obliga a moverse así."
+    "headline": "Por qué las aves no se electrocutan en los cables?",
+    "body": "¿Sabes por qué las aves no se electrocutan cuando se posan en cables de alta tensión? Porque la corriente eléctrica busca llegar a tierra para cerrar el circuito. Como las aves tocan un solo cable y no hay diferencia de potencial entre sus patas, están a salvo. Sin embargo, si tocan dos cables distintos a la vez, el circuito se cierra."
   },
   "ar": {
-    "headline": "لماذا لا تمشي الطيور",
-    "body": "معظم أنواع الطيور تبدو وكأنها تقفز بدلاً من المشي، لكنها في الواقع دفعة متزامنة باستخدام كلا القدمين معاً. تشريحها يجبرها على التحرك بهذه الطريقة."
+    "headline": "لماذا لا تتعرض الطيور لصعقة كهربائية على الأسلاك؟",
+    "body": "هل تعلم لماذا لا تتعرض الطيور لصعقة عند الوقوف على خطوط الضغط العالي؟ لأن التيار الكهربائي يسعى للوصول إلى الأرض لإكمال الدائرة. وبما أن الطير يلمس سلكاً واحداً ولا يوجد فرق جهد بين قدميه، فهو بأمان. لكن لو لمس سلكين مختلفين في نفس الوقت، تكتمل الدائرة."
   },
   "reel_hook": {
-    "tr": "Hiç bir kuşun normal şekilde yürüdüğünü gördünüz mü?",
-    "en": "Have you ever seen a bird walk normally?",
-    "es": "¿Alguna vez has visto a un pájaro caminar normalmente?",
-    "ar": "هل رأيت طائراً يمشي بشكل طبيعي من قبل؟"
+    "tr": "Binlerce voltluk elektrik tellerindeki kuşlar neden çarpılmıyor?",
+    "en": "Why don't birds on thousands of volts of electric wires get shocked?",
+    "en_us": "Why don't birds on thousands of volts of electric wires get shocked?",
+    "es": "¿Por qué las aves en cables de alto voltaje no se electrocutan?",
+    "ar": "لماذا لا تصعق الطيور على أسلاك الكهرباء ذات الآلاف من الفولتات؟"
   },
   "story_question": {
-    "tr": "Sizce kuşlar neden yürümek yerine iki ayağıyla aynı anda sıçrar?",
-    "en": "Why do you think birds jump with both feet at once instead of walking?",
-    "es": "¿Por qué crees que las aves saltan con ambos pies a la vez en lugar de caminar?",
-    "ar": "لماذا تعتقد أن الطيور تقفز بكلتا قدميها معاً بدلاً من المشي؟"
+    "tr": "Bir kuş aynı anda iki farklı tele dokunursa ne olur?",
+    "en": "What happens if a bird touches two different wires at the same time?",
+    "es": "¿Qué pasa si un ave toca dos cables distintos al mismo tiempo?",
+    "ar": "ماذا يحدث إذا لمس طائر سلكين مختلفين في نفس الوقت؟"
   },
   "story_options": [
-    "Kas yapıları",
-    "Denge ve enerji tasarrufu",
-    "Tüylerinin ağırlığı"
+    "Hiçbir şey olmaz",
+    "Elektrik çarpar",
+    "Tüyleri dökülür"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
     "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler"
+    "#doğa",
+    "#ilginçbilgiler",
+    "#fizik",
+    "#kuşlar",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için takipte kal!",
+    "en": "Stay tuned for more interesting facts like this!",
+    "es": "¡Sigue atento para más datos interesantes como este!",
+    "ar": "تابعنا للمزيد من الحقائق الشيقة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.5
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology Science",
-    "url": "https://www.audubon.org"
+    "name": "Physics Central",
+    "url": "https://www.physicscentral.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Zıplamaz, Neden?",
+  "_topic": "Kuşlar Uçarken Neden Kablolarda Çarpılmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-01T18:43:58.462639+00:00",
+  "generated_at": "2026-10-01T20:15:50.332657+00:00",
   "topic_guard_days": 180
 }

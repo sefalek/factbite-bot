@@ -6263,5 +6263,21 @@
       "overall": 8.5
     },
     "generated_at": "2026-10-01T18:43:58.462639+00:00"
+  },
+  {
+    "language": "tr",
+    "category": "general",
+    "topic": "Kuşlar Uçarken Neden Kablolarda Çarpılmaz?",
+    "headline": "Kuşlar Uçarken Neden Kablolarda Çarpılmaz?",
+    "body": "Gökyüzünde süzülen kuşlar yüksek gerilim hatlarına konduğunda neden çarpılmaz biliyor musunuz? Çünkü elektrik akımı, devreyi tamamlamak için toprağa ulaşmak ister. Kuşlar sadece tek bir tele bastığı ve ayakları arasında elektrik potansiyel farkı oluşmadığı için akıma kapılmazlar. Ancak iki farklı tele aynı anda dokunurlarsa ne yazık ki devre tamamlanır.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 8,
+      "clarity": 9,
+      "overall": 9
+    },
+    "generated_at": "2026-10-01T20:15:50.332657+00:00"
   }
 ]

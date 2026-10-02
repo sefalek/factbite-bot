@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Penguenlerin Yuva Kurma Sırrı",
-    "body": "Penguenler eş seçerken sahildeki en pürüzsüz ve kusursuz çakıl taşını bulup dişi penguene hediye eder. Eğer dişi taşı kabul ederse, bu hayat boyu sürecek bir birlikteliğin resmi imzası olur."
+    "headline": "Zürafaların Dili Neden Siyah?",
+    "body": "Zürafaların dili yaklaşık 50 santim uzunluğundadır ve rengi koyu maviden siyaha kadar değişir. Bu renk, hayvanın gün boyu akasya ağaçlarının dikenli yapraklarını yerken dilinin güneşten yanmasını önleyen doğal bir güneş kremi görevi görür."
   },
   "en": {
-    "headline": "Penguins' Nesting Secret",
-    "body": "When choosing a mate, penguins search for the smoothest, most perfect pebble on the beach to gift to the female. If she accepts the stone, it officially seals a lifelong bond."
+    "headline": "Why Do Giraffes Have Black Tongues?",
+    "body": "Giraffes have tongues that are about 50 centimeters long, ranging in color from dark blue to black. This pigmentation acts as natural sunscreen, protecting their tongues from getting sunburned while they spend all day eating thorny acacia leaves."
   },
   "es": {
-    "headline": "El secreto de apareamiento de los pingüinos",
-    "body": "Al elegir pareja, los pingüinos buscan la guijarra más lisa y perfecta de la playa para regalársela a la hembra. Si ella acepta la piedra, sella oficialmente un vínculo para toda la vida."
+    "headline": "¿Por qué las jirafas tienen la lengua negra?",
+    "body": "Las jirafas tienen lenguas de unos 50 centímetros de largo, con un color que va del azul oscuro al negro. Esta pigmentación actúa como un protector solar natural, evitando que se quemen mientras pasan el día comiendo hojas espinosas de acacia."
   },
   "ar": {
-    "headline": "سر بناء أعشاش البطاريق",
-    "body": "عند اختيار شريك، تبحث البطاريق عن أنعم حصاة وأكثرها مثالية على الشاطئ لإهدائها للأنثى. إذا قبلت الحصاة، فهذا يختتم رسمياً رابطاً يدوم مدى الحياة."
+    "headline": "لماذا تمتلك الزرافات لِساناً أسود؟",
+    "body": "يبلغ طول لسان الزرافة حوالي 50 سنتيمتراً، ويتراوح لونه من الأزرق الداكن إلى الأسود. تعمل هذه الصبغة واقياً شمسياً طبيعياً يحمي لسانها من الاحتراق أثناء قضائها اليوم كله في تناول أوراق شجر السطح الشائكة."
   },
   "reel_hook": {
-    "tr": "Erkek penguenlerin sevdikleri kişiye sunduğu o garip hediyeyi biliyor musunuz?",
-    "en": "Do you know the strange gift male penguins offer to the ones they love?",
-    "es": "¿Conoces el extraño regalo que los pingüinos machos ofrecen a los que aman?",
-    "ar": "هل تعرف الهدية الغريبة التي يقدمها ذكر البطريق لمن يحبهم؟"
+    "tr": "Zürafaların dili neden güneşten hiç yanmaz biliyor musunuz?",
+    "en": "Do you know why a giraffe's tongue never gets sunburned?",
+    "es": "¿Sabes por qué la lengua de una jirafa nunca se quema con el sol?",
+    "ar": "هل تعلم لماذا لا يحترق لسان الزرافة أبداً بسبب الشمس؟"
   },
   "story_question": {
-    "tr": "Penguenlerin birbirine hediye ettiği o özel şey nedir?",
-    "en": "What is that special thing penguins gift to each other?",
-    "es": "¿Qué es esa cosa especial que los pingüinos se regalan mutuamente?",
-    "ar": "ما هو الشيء المميز الذي تتبادل البطاريق إهداءه لبعضها البعض؟"
+    "tr": "Zürafaların koyu renkli dilleri onları hangi tehlikeden korur?",
+    "en": "What danger does a giraffe's dark tongue protect it from?",
+    "es": "¿De qué peligro protege la lengua oscura a la jirafa?",
+    "ar": "ما الخطر الذي يحميه اللسان الداكن للزرافة؟"
   },
   "story_options": [
-    "Çakıl taşı",
-    "Deniz kabuğu",
-    "Parlak tüy"
+    "Güneş yanığı",
+    "Zehirli böcekler",
+    "Diken batması"
   ],
   "hashtags": [
     "#FactBite",
-    "#penguen",
+    "#zürafa",
+    "#bilim",
     "#doğa",
     "#hayvanlar",
-    "#bilgi",
     "#ilginçbilgiler",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Stay tuned for more nature secrets like this!",
-    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
-    "ar": "ابق على تطلع لمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like!",
+    "es": "¡Si es la primera vez que oyes esto, no olvides darle a me gusta!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، فلا تنس الإعجاب!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "San Diego Zoo Wildlife Alliance",
+    "url": "https://animals.sandiegozoo.org/animals/giraffe"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Penguenlerin Yuva Kurma Sırrı",
+  "_topic": "Zürafaların Dili Neden Siyah?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-02T16:58:53.246817+00:00",
+  "generated_at": "2026-10-02T18:14:18.920191+00:00",
   "topic_guard_days": 180
 }

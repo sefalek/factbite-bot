@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kanguruların Üç Midesi Var",
-    "body": "Kanguruların sindirim sistemi, tıpkı inekler gibi bitkilerdeki sert lifleri parçalamak için çok odacıklı bir yapıya sahiptir. Bu sayede çöl şartlarında bile yedikleri az miktardaki besinden maksimum suyu ve enerjiyi alabilirler."
+    "headline": "Kuşlar Zıplayarak Değil, Nasıl Hareket Eder?",
+    "body": "Çoğu insan kuşların zıpladığını düşünür ama aslında onların bacak kasları ve kalça yapıları buna izin vermez. Birlikte yaşadığımız serçe ve güvercin gibi birçok kuş türü, iki ayağını birden yerden keserek zıplamak yerine, adeta minik adımlarla yürümeyi veya koşmayı tercih eder. Onların bu ilginç yürüyüş tarzı, enerji tasarrufu yapmalarını sağlar."
   },
   "en": {
-    "headline": "Kangaroos Have Three Stomachs",
-    "body": "The digestive system of kangaroos is multi-chambered, much like cows, designed to break down tough plant fibers. This allows them to extract maximum water and energy from minimal food, even in desert conditions."
+    "headline": "How Do Birds Move Instead of Hopping?",
+    "body": "Most people think birds hop, but their leg muscles and hip structures actually don't allow for it. Many bird species we live with, like sparrows and pigeons, prefer to walk or run in tiny steps rather than lifting both feet off the ground to hop. This quirky walking style helps them conserve energy."
   },
   "es": {
-    "headline": "Los canguros tienen tres estómagos",
-    "body": "El sistema digestivo de los canguros tiene múltiples cámaras, muy parecido al de las vacas, diseñado para descomponer fibras vegetales duras. Esto les permite extraer la máxima agua y energía con un alimento mínimo."
+    "headline": "¿Cómo se mueven las aves en lugar de saltar?",
+    "body": "La mayoría de la gente piensa que las aves saltan, pero los músculos de sus patas y la estructura de su cadera en realidad no se lo permiten. Muchas especies de aves con las que convivimos, como gorriones y palomas, prefieren caminar o correr a pasitos cortos en lugar de levantar ambos pies del suelo para saltar. Este curioso estilo les ayuda a ahorrar energía."
   },
   "ar": {
-    "headline": "تتمتع الكنغرات بثلاث معد",
-    "body": "يحتوي الجهاز الهضمي للكنغر على عدة حجرات، تشبه الأبقار تماماً، ومصممة لتفكيك الألياف النباتية القاسية. وهذا يسمح لها استخلاص أقصى قدر من الماء والطاقة من الحد الأدنى من الغذاء."
+    "headline": "كيف تتحرك الطيور بدلاً من القفز؟",
+    "body": "يعتقد معظم الناس أن الطيور تقفز، لكن عضلات أرجلها وهياكل الورك لا تسمح لها بذلك في الواقع. العديد من أنواع الطيور التي تعيش معنا، مثل العصافير والحمام، تفضل المشي أو الجري بخطوات صغيرة بدلاً من رفع كلتا قدميها عن الأرض للقفز. يساعدهم هذا النمط الفريد للمشي على توفير الطاقة."
   },
   "reel_hook": {
-    "tr": "Biliyor musun, kangurular sadece zıplamaz, içlerinde mini bir fabrika çalıştırır.",
-    "en": "Did you know kangaroos don't just hop, they run a mini factory inside.",
-    "es": "¿Sabías que los canguros no solo saltan, sino que operan una mini fábrica por dentro?",
-    "ar": "هل تعلم أن الكنغر لا يقفز فحسب، بل يدير مصنعاً مصغراً في داخله؟"
+    "tr": "Her gün gördüğümüz kuşlar hakkında bildiğiniz o büyük yanılgı...",
+    "en": "The huge misconception you have about the birds you see every day...",
+    "es": "La gran idea equivocada que tienes sobre las aves que ves todos los días...",
+    "ar": "الخطأ الشائع الكبير الذي تظنه عن الطيور التي تراها كل يوم..."
   },
   "story_question": {
-    "tr": "Kanguruların bu özel sindirim sistemi en çok hangi ortama uyum sağlamalarını sağlar?",
-    "en": "Which environment does this special digestive system help kangaroos adapt to best?",
-    "es": "¿A qué entorno ayuda este sistema digestivo especial a adaptarse mejor a los canguros?",
-    "ar": "ما هي البيئة التي يساعد هذا الجهاز الهضمي الخاص الكنغر على التكيف معها بشكل أفضل؟"
+    "tr": "Sence serçeler iki ayağıyla aynı anda zıplayabilir mi?",
+    "en": "Do you think sparrows can hop with both feet at the same time?",
+    "es": "¿Crees que los gorriones pueden saltar con ambos pies al mismo tiempo?",
+    "ar": "هل تعتقد أن العصافير يمكنها القفز بكلتا قدميها في نفس الوقت؟"
   },
   "story_options": [
-    "Çöl ve kurak iklimler",
-    "Yoğun ormanlar",
-    "Soğuk dağ zirveleri"
+    "Evet, zıplarlar",
+    "Hayır, yürürler",
+    "Sadece uçarlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#kanguru",
+    "#kuşlar",
+    "#doğa",
     "#bilim",
-    "#dogalhayvanlar",
-    "#ilgincbilgiler",
-    "#kesfet",
-    "#biliyormusunuz"
+    "#ilginçbilgiler",
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Stay tuned for more nature secrets like this!",
-    "es": "¡Sigue atento para más secretos de la naturaleza como este!",
-    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Mantente atento a más datos sorprendentes como este!",
+    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.2
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Ornithology and Bird Locomotion Studies",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kanguruların Üç Midesi Var",
+  "_topic": "Kuşlar Zıplayarak Değil, Nasıl Hareket Eder?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-02T11:08:48.926036+00:00",
+  "generated_at": "2026-10-02T12:29:54.895629+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tuzun Aslında Bir Tadı Yok Mu?",
-    "body": "Yemeklere kattığımız o vazgeçilmez tuz var ya, aslında tek başına tuzlu bir tada sahip değil. Dilimizdeki reseptörler tuzu doğrudan algılayamaz; ancak yiyecekteki asitlerle birleştiğinde o bildiğimiz yoğun lezzeti ortaya çıkarır. Yani tuz, aslında tek başına sadece bir tetikleyicidir."
+    "headline": "Penguenlerin Yuva Kurma Sırrı",
+    "body": "Penguenler eş seçerken sahildeki en pürüzsüz ve kusursuz çakıl taşını bulup dişi penguene hediye eder. Eğer dişi taşı kabul ederse, bu hayat boyu sürecek bir birlikteliğin resmi imzası olur."
   },
   "en": {
-    "headline": "Does Salt Actually Have No Taste?",
-    "body": "That essential salt we add to meals doesn't actually have a salty taste on its own. The receptors on our tongue cannot detect salt directly; it only creates that familiar intense flavor when combined with acids in food. So, salt is actually just a trigger."
+    "headline": "Penguins' Nesting Secret",
+    "body": "When choosing a mate, penguins search for the smoothest, most perfect pebble on the beach to gift to the female. If she accepts the stone, it officially seals a lifelong bond."
   },
   "es": {
-    "headline": "¿La sal realmente no tiene sabor?",
-    "body": "Esa sal esencial que añadimos a las comidas en realidad no tiene un sabor salado por sí sola. Los receptores de nuestra lengua no pueden detectar la sal directamente; solo crea ese sabor intenso tan conocido cuando se combina con los ácidos de los alimentos. Por lo tanto, la sal es en realidad solo un detonante."
+    "headline": "El secreto de apareamiento de los pingüinos",
+    "body": "Al elegir pareja, los pingüinos buscan la guijarra más lisa y perfecta de la playa para regalársela a la hembra. Si ella acepta la piedra, sella oficialmente un vínculo para toda la vida."
   },
   "ar": {
-    "headline": "هل الملح ليس له طعم في الواقع؟",
-    "body": "الملح الأساسي الذي نضيفه إلى وجبات الطعام ليس له في الواقع طعم مالك بمفرده. لا تستطيع المستقبلات الموجودة على لساننا اكتشاف الملح بشكل مباشر؛ فهو يبتكر تلك النكهة القوية المألوفة فقط عند دمجه مع الأحماض في الطعام. إذن، الملح هو في الواقع مجرد محفز."
+    "headline": "سر بناء أعشاش البطاريق",
+    "body": "عند اختيار شريك، تبحث البطاريق عن أنعم حصاة وأكثرها مثالية على الشاطئ لإهدائها للأنثى. إذا قبلت الحصاة، فهذا يختتم رسمياً رابطاً يدوم مدى الحياة."
   },
   "reel_hook": {
-    "tr": "Her gün kullandığımız o malzemenin aslında bir tadı olmadığını biliyor muydunuz?",
-    "en": "Did you know that the ingredient we use every day actually has no taste?",
-    "es": "¿Sabías que el ingrediente que usamos todos los días en realidad no tiene sabor?",
-    "ar": "هل كنت تعلم أن المكون الذي نستخدمه كل يوم ليس له طعم في الواقع؟"
+    "tr": "Erkek penguenlerin sevdikleri kişiye sunduğu o garip hediyeyi biliyor musunuz?",
+    "en": "Do you know the strange gift male penguins offer to the ones they love?",
+    "es": "¿Conoces el extraño regalo que los pingüinos machos ofrecen a los que aman?",
+    "ar": "هل تعرف الهدية الغريبة التي يقدمها ذكر البطريق لمن يحبهم؟"
   },
   "story_question": {
-    "tr": "Dilimizdeki reseptörler tuzu tek başına algılayabilir mi?",
-    "en": "Can the receptors on our tongue detect salt on their own?",
-    "es": "¿Pueden los receptores de nuestra lengua detectar la sal por sí solos?",
-    "ar": "هل يمكن للمستقبلات الموجودة على لساننا اكتشاف الملح بمفردها؟"
+    "tr": "Penguenlerin birbirine hediye ettiği o özel şey nedir?",
+    "en": "What is that special thing penguins gift to each other?",
+    "es": "¿Qué es esa cosa especial que los pingüinos se regalan mutuamente?",
+    "ar": "ما هو الشيء المميز الذي تتبادل البطاريق إهداءه لبعضها البعض؟"
   },
   "story_options": [
-    "Evet, doğrudan algılar",
-    "Hayır, asitlerle birleşmeli",
-    "Sadece sıcakken algılar"
+    "Çakıl taşı",
+    "Deniz kabuğu",
+    "Parlak tüy"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
+    "#penguen",
+    "#doğa",
+    "#hayvanlar",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#yemek",
-    "#mutfak",
-    "#keşfet",
-    "#faydalıbilgiler"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts like this!",
-    "es": "¡Mantente atento a más datos sorprendentes como este!",
-    "ar": "ابق على متابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Stay tuned for more nature secrets like this!",
+    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
+    "ar": "ابق على تطلع لمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Science Focus",
-    "url": "https://www.sciencefocus.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tuzun Aslında Bir Tadı Yok Mu?",
+  "_topic": "Penguenlerin Yuva Kurma Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-02T14:46:40.999134+00:00",
+  "generated_at": "2026-10-02T16:58:53.246817+00:00",
   "topic_guard_days": 180
 }

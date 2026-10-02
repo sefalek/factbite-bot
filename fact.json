@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Şarkıları Aslında Ne Anlama Geliyor?",
-    "body": "Sabahları duyduğumuz kuş cıvıltıları sadece neşeli birer şarkı değil. Kuşlar, günün ilk ışıklarıyla birlikte birbirlerine 'Ben buradayım, sınırlarım güvende' mesajı veren karmaşık birer harita ve uyarı sistemi çalıştırırlar. Yani dışarıda oldukça ciddi bir bölge savaşı var."
+    "headline": "Penguenler Taşları Neden Birbirine Hediye Eder?",
+    "body": "Sevimli penguenlerin romantik bir tarafı olduğunu biliyor muydunuz? Erkek penguenler, dişi bir penguenin kalbini kazanmak için kumsaldaki en düzgün ve en pürüzsüz taşı seçip ayakları önüne bırakır. Dişi bu taşı kabul ederse birlikte yuva yapmaya başlarlar."
   },
   "en": {
-    "headline": "What Do Bird Songs Actually Mean?",
-    "body": "The bird chirps we hear in the mornings are not just cheerful tunes. With the first light of day, birds run a complex map and warning system, signaling to each other that 'I am here and my borders are safe.' So, there is quite a serious territory war going on outside."
+    "headline": "Why Do Penguins Give Each Other Pebbles?",
+    "body": "Did you know penguins have a romantic side? To win a female's heart, a male penguin searches the beach for the smoothest pebble and places it at her feet. If she accepts it, they start building a nest together."
   },
   "es": {
-    "headline": "¿Qué significan realmente los cantos de los pájaros?",
-    "body": "Los chirridos de los pájaros que escuchamos por la mañana no son solo canciones alegres. Con las primeras luces del día, las aves activan un mapa complejo y un sistema de advertencia para decirse: 'Estoy aquí y mis límites están seguros'. Así que afuera hay una guerra territorial bastante seria."
+    "headline": "¿Por qué los pingüinos se regalan guijarros?",
+    "body": "¿Sabías que los pingüinos tienen un lado romántico? Para ganarse el corazón de una hembra, un pingüino macho busca en la playa el guijarro más liso y lo coloca a sus pies. Si ella lo acepta, empiezan a construir un nido juntos."
   },
   "ar": {
-    "headline": "ماذا تعني أصوات الطيور حقاً؟",
-    "body": "زقزقة الطيور التي نسمعها في الصباح ليست مجرد ألحان مبهجة. مع ضوء النهار الأول، تدير الطيور نظام خريطة وتحذير معقداً لتبلغ بعضها البعض بأن 'أنا هنا حدودي آمنة'. لذا، هناك حرب مناطق جدية للغاية تقام في الخارج."
+    "headline": "لماذا تتبادل طاريق البطريق الحصى؟",
+    "body": "هل تعلم أن البطريق لديه جانب رومانسى؟ لكي يفوز قلب الأنثى، يبحث ذكر البطريق على الشاطئ عن أنعم حصاة ويضعها عند قدميها. إذا قبلتها، يبدآن في بناء عش معاً."
   },
   "reel_hook": {
-    "tr": "Sabah duyduğun o neşeli kuş cıvıltıları... aslında masum bir konser değil.",
-    "en": "Those cheerful bird chirps you hear in the morning... aren't actually an innocent concert.",
-    "es": "Esos alegres chirridos de pájaros que escuchas por la mañana... en realidad no son un concierto inocente.",
-    "ar": "تلك الزقزقة المبهجة للطيور التي تسمعها في الصباح... ليست في الواقع حفلة موسيقية بريئة."
+    "tr": "Penguenlerin evlenme teklifi ederken bir taş kullandığını biliyor muydunuz?",
+    "en": "Did you know penguins use a pebble when proposing?",
+    "es": "¿Sabías que los pingüinos usan un guijarro para proponer matrimonio?",
+    "ar": "هل تعلم أن البطريق يستخدم حصاة عند التقدم للزواج؟"
   },
   "story_question": {
-    "tr": "Sabahları öten kuşların asıl amacı sizce nedir?",
-    "en": "What do you think is the main purpose of birds singing in the morning?",
-    "es": "¿Cuál crees que es el propósito principal de que los pájaros canten por la mañana?",
-    "ar": "برأيك، ما هو الغرض الرئيسي من غناء الطيور في الصباح؟"
+    "tr": "Erkek penguenin dişi pengueni etkilemek için seçtiği en önemli şey nedir?",
+    "en": "What is the most important thing a male penguin chooses to impress a female?",
+    "es": "¿Qué es lo más importante que elige un pingüino macho para impresionar a una hembra?",
+    "ar": "ما هو الشيء الأكثر أهمية الذي يختاره ذكر البطريق لإبهار الأنثى؟"
   },
   "story_options": [
-    "Sadece neşelerini paylaşmak",
-    "Bölge sınırlarını belirlemek ve uyarmak",
-    "Yön bulmalarına yardımcı olmak"
+    "En parlak tüy",
+    "En pürüzsüz taş",
+    "En büyük balık"
   ],
   "hashtags": [
     "#FactBite",
+    "#penguen",
+    "#bilgi",
     "#doğa",
-    "#kuşlar",
-    "#bilim",
     "#ilginçbilgiler",
-    "#keşfet",
     "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Stay tuned for more facts like this!",
-    "es": "¡Mantente atento a más datos como este!",
-    "ar": "ترقبوا المزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Stay tuned for more nature secrets like this!",
+    "es": "¡Sigue atento para más secretos de la naturaleza como este!",
+    "ar": "ابق على متابعة لمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology and Animal Behavior Studies",
-    "url": "https://www.sciencedaily.com/news/plants_animals/birds/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Şarkıları Aslında Ne Anlama Geliyor?",
+  "_topic": "Penguenler Taşları Neden Birbirine Hediye Eder?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-01T23:02:15.052585+00:00",
+  "generated_at": "2026-10-02T00:14:18.955865+00:00",
   "topic_guard_days": 180
 }

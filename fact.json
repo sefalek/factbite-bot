@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ayıların Kış Uykusunda Bebek Sahibi Olması",
-    "body": "Ayılar kış uykusundayken derin bir sessizliğe gömülür, değil mi? Peki bu uykunun ortasında anne ayının doğum yapabildiğini ve hatta yavrularını uyurken emzirip büyüttüğünü biliyor muydunuz? Anne ayı kış boyunca yemek yiyip su içmez; tamamen vücudundaki yağ depolarıyla hayatta kalır."
+    "headline": "Muzların Aslında Ters Büyüdüğünü Biliyor muydunuz?",
+    "body": "Market raflarında hep sapı yukarıda gördüğümüz muzlar, aslında ağacında tam tersi yönde, yerçekimine meydan okuyarak güneşe doğru büyür. Onlar ormanda gökyüzüne ulaşmaya çalışırken biz onları yanlış açıdan tüketiyoruz."
   },
   "en": {
-    "headline": "Bears Giving Birth During Hibernation",
-    "body": "Bears fall into a deep silence during hibernation, right? But did you know that in the middle of this sleep, mother bears can actually give birth, and even nurse and raise their cubs while sleeping? The mother bear eats no food or water all winter, surviving entirely on stored body fat."
+    "headline": "Did You Know Bananas Actually Grow Upside Down?",
+    "body": "Bananas that we always see with stems up on market shelves actually grow in the opposite direction on the tree, defying gravity toward the sun. While they try to reach the sky in the jungle, we consume them from the wrong angle."
   },
   "es": {
-    "headline": "Osos que dan a luz durante la hibernación",
-    "body": "Los osos caen en un profundo silencio durante la hibernación, ¿verdad? Pero, ¿sabías que en medio de este sueño las osas pueden dar a luz, e incluso amamantar y criar a sus cachorros mientras duermen? La madre osa no come ni bebe agua en todo el invierno, sobreviviendo gracias a sus reservas de grasa."
+    "headline": "¿Sabías que los plátanos en realidad crecen al revés?",
+    "body": "Los plátanos que siempre vemos con el tallo hacia arriba en las estanterías de los mercados en realidad crecen en dirección contraria en el árbol, desafiando la gravedad hacia el sol. Mientras intentan alcanzar el cielo en la selva, los consumimos desde el ángulo equivocado."
   },
   "ar": {
-    "headline": "الدببة تلد أثناء البيات الشتوي",
-    "body": "تغرق الدببة في صمت عميق أثناء البيات الشتوي، أليس كذلك؟ ولكن هل كنت تعلم أن الدبة الأم يمكنها أن تلد في منتصف هذا النوم، بل وترضع صغارها وتربيهم وهي نائمة؟ لا تأكل الدبة الأم أو تشرب طوال الشتاء، بل تعتمد كلياً على الدهون المخزنة في جسمها."
+    "headline": "هل كنت تعلم أن الموز ينمو في الواقع مقلوباً؟",
+    "body": "الموز الذي نراه دائماً وساقهُ لأعلى في رفوف المتاجر، ينمو في الواقع في الاتجاه المعاكس على الشجرة، متحدياً الجاذبية نحو الشمس. بينما يحاول الوصول إلى السماء في الغابة، نستهلكه نحن من الزاوية الخاطئة."
   },
   "reel_hook": {
-    "tr": "Derin bir kış uykusunda olan anne ayının, aslında bebek doğurabildiğini biliyor muydunuz?",
-    "en": "Did you know that a mother bear, deep in hibernation, can actually give birth?",
-    "es": "¿Sabías que una osa en plena hibernación puede dar a luz?",
-    "ar": "هل كنت تعلم أن الدبة النائمة في بيات شتوي عميق يمكنها أن تلد فعلاً؟"
+    "tr": "Muzları bugüne kadar tamamen yanlış yönden soyuyor olabilirsiniz.",
+    "en": "You might have been peeling bananas from the completely wrong direction all this time.",
+    "es": "Es posible que hayas estado pelando los plátanos en la dirección completamente incorrecta todo este tiempo.",
+    "ar": "قد تكون كنت تقشر الموز من الاتجاه الخاطئ تماماً طوال هذا الوقت."
   },
   "story_question": {
-    "tr": "Kış uykusundaki anne ayı yavrularını ne ile besler?",
-    "en": "What does a hibernating mother bear feed her cubs with?",
-    "es": "¿Con qué alimenta la osa hibernante a sus cachorros?",
-    "ar": "بماذا تغذي الدبة الأم صغارها أثناء البيات الشتوي؟"
+    "tr": "Sizce muzlar ağacında hangi yöne doğru büyür?",
+    "en": "In which direction do you think bananas grow on the tree?",
+    "es": "¿En qué dirección crees que crecen los plátanos en el árbol?",
+    "ar": "برأيك، في أي اتجاه ينمو الموز على الشجرة؟"
   },
   "story_options": [
-    "Süt üretmeye devam eder",
-    "Dışarıdan yiyecek arar",
-    "Yavrular uyur beslenmez"
+    "A) Aşağıya doğru (Toprağa)",
+    "B) Yukarıya doğru (Güneşe)",
+    "C) Yatay olarak"
   ],
   "hashtags": [
     "#FactBite",
+    "#muz",
+    "#ilginçbilgiler",
     "#doğa",
     "#bilim",
-    "#hayvanlar",
-    "#keşfet",
-    "#bilgi"
+    "#meyve",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi şaşırtıcı doğa sırları için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos sorprendentes de la naturaleza!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorpresivos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Botanical Society of America",
+    "url": "https://www.botany.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ayıların Kış Uykusunda Bebek Sahibi Olması",
+  "_topic": "Muzların Aslında Ters Büyüdüğünü Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-02T19:49:19.062787+00:00",
+  "generated_at": "2026-10-02T22:51:43.493413+00:00",
   "topic_guard_days": 180
 }

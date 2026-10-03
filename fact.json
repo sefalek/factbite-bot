@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Göz Bebeklerimiz Neden Küçülür?",
-    "body": "Heyecanlandığınızda veya korktuğunuzda göz bebeklerinizin aniden büyüdüğünü biliyorsunuz. Peki ya tam tersi? Çok parlak bir ışık olmadפğı halde göz bebekleriniz neden bazen küçücük kalır? Vücudumuz bu tepkiyi sadece ışık için değil, ilginç bir duygu durumunda daha verir."
+    "headline": "Parmak İzlerimiz Neden Asla Silinmez?",
+    "body": "Hayatımız boyunca elimizi binlerce kez sürtmemize, yıkamamıza ve kullanmamıza rağmen parmak izlerimiz hiç değişmez ve asla silinmez. Bunun sebebi, derimizin en alt tabakası olan bazal tabakanın bu benzersiz deseni kalıcı olarak kodlamasıdır. Küçük bir kesik veya yara olmadıkça, bu izler ömür boyu bizimle kalır."
   },
   "en": {
-    "headline": "Why Do Our Pupils Constrict?",
-    "body": "You know that your pupils suddenly dilate when you are excited or scared. But what about the opposite? Even when there is no bright light, why do your pupils sometimes shrink? Our body gives this reaction not just for light, but during a specific emotional state."
+    "headline": "Why Do Our Fingerprints Never Fade?",
+    "body": "Despite rubbing, washing, and using our hands millions of times throughout our lives, our fingerprints never change or fade away. This is because the basal layer, the deepest layer of our skin, permanently encodes this unique pattern. Unless there is a deep cut or injury, these prints stay with us for a lifetime."
   },
   "es": {
-    "headline": "¿Por qué se contraen nuestras pupilas?",
-    "body": "Sabes que tus pupilas se dilatan repentinamente cuando te emocionas o te asustas. ¿Pero qué pasa con lo contrario? Incluso cuando no hay luz brillante, ¿por qué tus pupilas a veces se encogen? Nuestro cuerpo da esta reacción no solo por la luz, sino durante un estado emocional específico."
+    "headline": "¿Por qué nuestras huellas dactilares nunca se borran?",
+    "body": "A pesar de rozar, lavar y usar nuestras manos millones de veces a lo largo de nuestras vidas, nuestras huellas dactilares nunca cambian ni se borran. Esto se debe a que la capa basal, la capa más profunda de nuestra piel, codifica permanentemente este patrón único. A menos que haya un corte profundo o una lesión, estas marcas nos acompañan toda la vida."
   },
   "ar": {
-    "headline": "لماذا تنقبض بؤبؤ العين لدينا؟",
-    "body": "أنت تعلم أن بؤبؤ عينيك يتسع فجأة عندما تكون متحمسًا أو خائفًا. ولكن ماذا عن العكس؟ حتى عندما لا يكون هناك ضوء ساطع، لماذا يتقلص بؤبؤ عينيك أحيانًا؟ يمنح جسمنا هذا التفاعل ليس فقط للضوء، ولكن خلال حالة عاطفية معينة."
+    "headline": "لماذا لا تختفي بصمات أصابعنا أبداً؟",
+    "body": "على الرغم من فرك وغسل واستخدام أيدينا ملايين المرات طوال حياتنا، إلا أن بصمات أصابعنا لا تتغير أو تختفي أبدًا. ويرجع ذلك إلى أن الطبقة الأساسية، وهي أعمق طبقة في جلدنا، تشفر هذا النمط الفريد بشكل دائم. ما لم يكن هناك جرح عميق أو إصابة، تبقى هذه البصمات معنا مدى الحياة."
   },
   "reel_hook": {
-    "tr": "Göz bebekleriniz sadece ışık için mi küçülür sanıyorsunuz?",
-    "en": "Do you think your pupils only shrink for light?",
-    "es": "¿Crees que tus pupilas solo se encogen por la luz?",
-    "ar": "هل تعتقد أن بؤبؤ عينيك يتقلص بسبب الضوء فقط؟"
+    "tr": "Ellerinizi her gün binlerce kez yıkıyorsunuz ama bu izler neden asla silinmiyor?",
+    "en": "You wash your hands thousands of times a day, but why do these patterns never fade?",
+    "es": "Lavas tus manos miles de veces al día, pero ¿por qué estas marcas nunca se borran?",
+    "ar": "تغسل يديك آلاف المرات كل يوم، فلماذا لا تختفي هذه الأنماط أبدًا؟"
   },
   "story_question": {
-    "tr": "Işık dışında göz bebeklerinin küçülmesine sebep olan duygu hangisidir?",
-    "en": "Which emotion causes pupils to constrict besides light?",
-    "es": "¿Qué emoción hace que las pupilas se contraigan además de la luz?",
-    "ar": "ما هي العاطفة التي تسبب انقباض بؤبؤ العين إلى جانب الضوء؟"
+    "tr": "Parmak izi sadece insanlarda mı bulunur?",
+    "en": "Are fingerprints found only in humans?",
+    "es": "¿Las huellas dactilares se encuentran solo en los humanos?",
+    "ar": "هل توجد بصمات الأصابع لدى البشر فقط؟"
   },
   "story_options": [
-    "Aşırı Öfke",
-    "Derin Odaklanma",
-    "Yoğun Üzüntü"
+    "Evet, sadece insanlarda var",
+    "Koalalarda da parmak izi var",
+    "Sadece maymunlarda var"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#insan",
-    "#biyoloji",
-    "#gerçekler",
-    "#keşfet"
+    "#ilginçbilgiler",
+    "#vücudumuz",
+    "#keşfet",
+    "#tarih"
   ],
   "cta": {
-    "tr": "Daha fazla şaşırtıcı bilgi için takip et!",
-    "en": "Follow for more amazing facts!",
-    "es": "¡Sígueme para más datos increíbles!",
-    "ar": "اتبع لمزيد من الحقائق المذهلة!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Neuroscience and Behavior Research",
-    "url": "https://www.sciencedirect.com"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries/item/why-do-we-have-fingerprints/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Göz Bebeklerimiz Neden Küçülür?",
+  "_topic": "Parmak İzlerimiz Neden Asla Silinmez?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-03T18:36:28.749977+00:00",
+  "generated_at": "2026-10-03T19:48:58.612267+00:00",
   "topic_guard_days": 180
 }

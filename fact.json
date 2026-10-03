@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Muzların Aslında Ters Büyüdüğünü Biliyor muydunuz?",
-    "body": "Market raflarında hep sapı yukarıda gördüğümüz muzlar, aslında ağacında tam tersi yönde, yerçekimine meydan okuyarak güneşe doğru büyür. Onlar ormanda gökyüzüne ulaşmaya çalışırken biz onları yanlış açıdan tüketiyoruz."
+    "headline": "Gözlerimiz Aslında Baş Aşağı Görüyor",
+    "body": "Biliyor musunuz, retinamıza düşen tüm görüntüler aslında baş aşağıdır. Beynimiz bu görüntüyü anında ters çevirerek dünyayı düz görmemizi sağlar."
   },
   "en": {
-    "headline": "Did You Know Bananas Actually Grow Upside Down?",
-    "body": "Bananas that we always see with stems up on market shelves actually grow in the opposite direction on the tree, defying gravity toward the sun. While they try to reach the sky in the jungle, we consume them from the wrong angle."
+    "headline": "Our Eyes Actually See Upside Down",
+    "body": "Did you know that all images falling on our retina are actually upside down? Our brain instantly flips this image, allowing us to see the world right side up."
   },
   "es": {
-    "headline": "¿Sabías que los plátanos en realidad crecen al revés?",
-    "body": "Los plátanos que siempre vemos con el tallo hacia arriba en las estanterías de los mercados en realidad crecen en dirección contraria en el árbol, desafiando la gravedad hacia el sol. Mientras intentan alcanzar el cielo en la selva, los consumimos desde el ángulo equivocado."
+    "headline": "Nuestros ojos ven al revés",
+    "body": "¿Sabías que todas las imágenes que caen en nuestra retina están al revés? Nuestro cerebro invierte esta imagen al instante, permitiéndonos ver el mundo correctamente."
   },
   "ar": {
-    "headline": "هل كنت تعلم أن الموز ينمو في الواقع مقلوباً؟",
-    "body": "الموز الذي نراه دائماً وساقهُ لأعلى في رفوف المتاجر، ينمو في الواقع في الاتجاه المعاكس على الشجرة، متحدياً الجاذبية نحو الشمس. بينما يحاول الوصول إلى السماء في الغابة، نستهلكه نحن من الزاوية الخاطئة."
+    "headline": "عيوننا ترى في الواقع بالمقلوب",
+    "body": "هل تعلم أن جميع الصور التي تسقط على شبكية العين تكون مقلوبة في الواقع؟ يقوم دماغنا بقلب هذه الصورة على الفور لنرى العالم بشكل صحيح."
   },
   "reel_hook": {
-    "tr": "Muzları bugüne kadar tamamen yanlış yönden soyuyor olabilirsiniz.",
-    "en": "You might have been peeling bananas from the completely wrong direction all this time.",
-    "es": "Es posible que hayas estado pelando los plátanos en la dirección completamente incorrecta todo este tiempo.",
-    "ar": "قد تكون كنت تقشر الموز من الاتجاه الخاطئ تماماً طوال هذا الوقت."
+    "tr": "Gördüğünüz her şey aslında baş aşağı... Nasıl mı?",
+    "en": "Everything you see is actually upside down... How?",
+    "es": "Todo lo que ves está al revés... ¿Cómo?",
+    "ar": "كل ما تراه مقلوب في الواقع... كيف؟"
   },
   "story_question": {
-    "tr": "Sizce muzlar ağacında hangi yöne doğru büyür?",
-    "en": "In which direction do you think bananas grow on the tree?",
-    "es": "¿En qué dirección crees que crecen los plátanos en el árbol?",
-    "ar": "برأيك، في أي اتجاه ينمو الموز على الشجرة؟"
+    "tr": "Beynimiz baş aşağı gelen görüntüyü düzeltmeyi ne zaman öğrenir?",
+    "en": "When does our brain learn to flip the upside-down image?",
+    "es": "¿Cuándo aprende nuestro cerebro a voltear la imagen invertida?",
+    "ar": "متى يتعلم دماغنا قلب الصورة المقلوبة؟"
   },
   "story_options": [
-    "A) Aşağıya doğru (Toprağa)",
-    "B) Yukarıya doğru (Güneşe)",
-    "C) Yatay olarak"
+    "Doğuştan",
+    "İlk birkaç gün içinde",
+    "Yetişkinlikte"
   ],
   "hashtags": [
     "#FactBite",
-    "#muz",
-    "#ilginçbilgiler",
-    "#doğa",
     "#bilim",
-    "#meyve",
-    "#keşfet"
+    "#insan",
+    "#beyin",
+    "#göz",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorpresivos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Botanical Society of America",
-    "url": "https://www.botany.org"
+    "name": "Neuroscience for Kids",
+    "url": "https://faculty.washington.edu/chudler/chvision.html"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Muzların Aslında Ters Büyüdüğünü Biliyor muydunuz?",
+  "_topic": "Gözlerimiz Aslında Baş Aşağı Görüyor",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-02T22:51:43.493413+00:00",
+  "generated_at": "2026-10-03T00:01:51.991331+00:00",
   "topic_guard_days": 180
 }

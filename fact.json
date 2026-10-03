@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzi Herkeste Var, Peki Ya Bu Hayvanda?",
-    "body": "Sadece insanların parmak izi olduğunu düşünüyorsanız yanılıyorsunuz. Sevimli dostlarımız koalaların parmak izleri öyle bir benzerliğe sahip ki, olay yerinde polislerin bile kafasını karıştırabilecek kadar insanlerinkine benziyor!"
+    "headline": "Göz Bebeklerimiz Neden Küçülür?",
+    "body": "Heyecanlandığınızda veya korktuğunuzda göz bebeklerinizin aniden büyüdüğünü biliyorsunuz. Peki ya tam tersi? Çok parlak bir ışık olmadפğı halde göz bebekleriniz neden bazen küçücük kalır? Vücudumuz bu tepkiyi sadece ışık için değil, ilginç bir duygu durumunda daha verir."
   },
   "en": {
-    "headline": "Only Humans Have Fingerprints? Think Again!",
-    "body": "If you thought only humans have fingerprints, think again. Koalas have fingerprints so remarkably similar to ours that they can even confuse police forensics at a crime scene!"
+    "headline": "Why Do Our Pupils Constrict?",
+    "body": "You know that your pupils suddenly dilate when you are excited or scared. But what about the opposite? Even when there is no bright light, why do your pupils sometimes shrink? Our body gives this reaction not just for light, but during a specific emotional state."
   },
   "es": {
-    "headline": "¿Solo los humanos tienen huellas dactilares?",
-    "body": "Si pensabas que solo los humanos tienen huellas dactilares, piénsalo de nuevo. ¡Los koalas tienen huellas tan similares a las nuestras que pueden confundir a la policía en una escena del crimen!"
+    "headline": "¿Por qué se contraen nuestras pupilas?",
+    "body": "Sabes que tus pupilas se dilatan repentinamente cuando te emocionas o te asustas. ¿Pero qué pasa con lo contrario? Incluso cuando no hay luz brillante, ¿por qué tus pupilas a veces se encogen? Nuestro cuerpo da esta reacción no solo por la luz, sino durante un estado emocional específico."
   },
   "ar": {
-    "headline": "البصmات ليست للبشر وحدهم!",
-    "body": "إذا كنت تعتقد أن البشر هم الوحيدون الذين لديهم بصمات أصابع، فكر مرة أخرى. تتمتع الكوالا بصمات تشبه بصماتنا لدرجة أنها قد تربك محققي الشرطة في مسرح الجريمة!"
+    "headline": "لماذا تنقبض بؤبؤ العين لدينا؟",
+    "body": "أنت تعلم أن بؤبؤ عينيك يتسع فجأة عندما تكون متحمسًا أو خائفًا. ولكن ماذا عن العكس؟ حتى عندما لا يكون هناك ضوء ساطع، لماذا يتقلص بؤبؤ عينيك أحيانًا؟ يمنح جسمنا هذا التفاعل ليس فقط للضوء، ولكن خلال حالة عاطفية معينة."
   },
   "reel_hook": {
-    "tr": "Polisleri bile yanıltabilen tek hayvan kim biliyor musunuz?",
-    "body": "",
-    "es": "¿Sabes qué animal puede confundir incluso a la policía?",
-    "ar": "هل تعرف الحيوان الوحيد الذي يمكنه خداع الشرطة ببصماته؟"
+    "tr": "Göz bebekleriniz sadece ışık için mi küçülür sanıyorsunuz?",
+    "en": "Do you think your pupils only shrink for light?",
+    "es": "¿Crees que tus pupilas solo se encogen por la luz?",
+    "ar": "هل تعتقد أن بؤبؤ عينيك يتقلص بسبب الضوء فقط؟"
   },
   "story_question": {
-    "tr": "Hangi hayvanın parmak izi insaninkine en çok benzer?",
-    "en": "Which animal's fingerprint is most similar to a human's?",
-    "es": "¿Qué animal tiene huellas dactilares más similares a las de un humano?",
-    "ar": "ما هو الحيوان الذي تشبه بصمات أصابعه بصمات البشر؟"
+    "tr": "Işık dışında göz bebeklerinin küçülmesine sebep olan duygu hangisidir?",
+    "en": "Which emotion causes pupils to constrict besides light?",
+    "es": "¿Qué emoción hace que las pupilas se contraigan además de la luz?",
+    "ar": "ما هي العاطفة التي تسبب انقباض بؤبؤ العين إلى جانب الضوء؟"
   },
   "story_options": [
-    "Koala",
-    "Şempanze",
-    "Köpek"
+    "Aşırı Öfke",
+    "Derin Odaklanma",
+    "Yoğun Üzüntü"
   ],
   "hashtags": [
     "#FactBite",
-    "#koala",
-    "#doğa",
     "#bilim",
-    "#ilginçbilgiler",
-    "#hayvanlar"
+    "#insan",
+    "#biyoloji",
+    "#gerçekler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Daha fazla şaşırtıcı bilgi için takip et!",
+    "en": "Follow for more amazing facts!",
+    "es": "¡Sígueme para más datos increíbles!",
+    "ar": "اتبع لمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com"
+    "name": "Neuroscience and Behavior Research",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzi Herkeste Var, Peki Ya Bu Hayvanda?",
+  "_topic": "Göz Bebeklerimiz Neden Küçülür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-03T16:59:22.752604+00:00",
+  "generated_at": "2026-10-03T18:36:28.749977+00:00",
   "topic_guard_days": 180
 }

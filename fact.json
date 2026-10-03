@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzlerimiz Anne Karnında Neden Oluşur?",
-    "body": "Parmak izlerimiz sadece bize özel bir kimlik gibi görünür, ama işlevleri bundan çok daha fazlasıdır. Anne karnındaki 10. haftadan itibaren oluşmaya başlayan bu kıvrımlar, dokunma duyumuzu artırmak ve nesneleri sıkıca kavramamızı sağlamak için minik birer kavrama deseni olarak tasarlanmıştır."
+    "headline": "Ayak Tabanımızla Tat Alabildiğimizi Biliyor muydunuz?",
+    "body": "Sadece dilimizle tat aldığımızı düşünüyorsanız yanılıyorsunuz. Sinekkuyruklu bazı böcekler ve hatta karıncalar gibi doğadaki bazı canlılar, ayak tabanlarındaki özel reseptörler sayesinde bastıkları yerin tadını anında hissedebilirler. Yani onlar için dünya, yürüyerek lezzetini çıkardıkları dev bir tat masasıdır."
   },
   "en": {
-    "headline": "Why Do Our Fingerprints Form in the Womb?",
-    "body": "Fingerprints seem like a unique identity just for us, but their function is much more than that. Starting to form around the 10th week in the womb, these ridges are designed as tiny grip patterns to enhance our sense of touch and help us firmly grasp objects."
+    "headline": "Did You Know We Can Taste With Our Soles?",
+    "body": "If you think we only taste with our tongues, you are mistaken. Certain creatures in nature, like some insects and even ants, can instantly sense the taste of what they walk on thanks to special receptors on their feet. For them, the world is a giant tasting table they experience by walking."
   },
   "es": {
-    "headline": "¿Por qué se forman nuestras huellas dactilares en el útero?",
-    "body": "Las huellas dactilares parecen una identidad única para nosotros, pero su función va mucho más allá. Comenzando a formarse alrededor de la décima semana en el útero, estos surcos están diseñados como pequeños patrones de agarre para mejorar nuestro sentido del tacto."
+    "headline": "¿Sabías que podemos saborear con las plantas de los pies?",
+    "body": "Si crees que solo saboreamos con la lengua, te equivocas. Ciertas criaturas en la naturaleza, como algunos insectos e incluso las hormigas, pueden percibir instantáneamente el sabor de lo que pisan gracias a receptores especiales en sus patas. Para ellos, el mundo es una mesa de degustación gigante."
   },
   "ar": {
-    "headline": "لماذا تتكون بصمات أصابعنا في الرحم؟",
-    "body": "تتبدو بصمات الأصابع وكأنها هوية فريدة لنا وحدنا، لكن وظيفتها أعمق بكثير. تبدأ هذه الخطوط في التكون منذ الأسبوع العاشر في الرحم، وهي مصممة كأنماط قبض صغيرة لتعزيز حاسة اللمس لدينا ومساعدتنا على الإمساك بالأشياء بقوة."
+    "headline": "هل كنت تعلم أننا نستطيع التذوق باطن القدمين؟",
+    "body": "إذا كنت تعتقد أننا نتذوق بألسنتنا فقط فأنت مخطئ. بعض المخلوقات في الطبيعة، مثل بعض الحشرات وحتى النمل، يمكنها استشعار طعم ما تمشي عليه فوراً بفضل مستقبلات خاصة في أقدامهم."
   },
   "reel_hook": {
-    "tr": "Parmak izlerinizin aslında neden orada olduğunu biliyor musunuz? Cevap sadece kimliğiniz değil.",
-    "en": "Do you know why your fingerprints are actually there? The answer is not just your identity.",
-    "es": "¿Sabes por qué tus huellas dactilares están realmente ahí? La respuesta no es solo tu identidad.",
-    "ar": "هل تعلم لماذا تتواجد بصمات أصابعك حقاً؟ الإجابة ليست مجرد هويتك."
+    "tr": "Bastığınız yerin tadını ayaklarınızla alabileceğinizi söyleseydim?",
+    "en": "What if I told you that you could taste where you step?",
+    "es": "¿Y si te dijera que puedes saborear por dónde pisas?",
+    "ar": "ماذا لو أخبرتك أنك تستطيع تذوق المكان الذي تمشي عليه؟"
   },
   "story_question": {
-    "tr": "Parmak izleri anne karnında kaçıncı haftada oluşmaya başlar?",
-    "en": "In which week of pregnancy do fingerprints start to form?",
-    "es": "¿En qué semana de gestación empiezan a formarse las huellas dactilares?",
-    "ar": "في أي أسبوع من الحمل تبدأ بصمات الأصابع في التكون؟"
+    "tr": "Hangi canlı türü ayak tabanlarıyla tat alabilme yeteneğine sahiptir?",
+    "en": "Which species has the ability to taste with the soles of its feet?",
+    "es": "¿Qué especie tiene la capacidad de saborear con las plantas de los pies?",
+    "ar": "أي نوع لديه القدرة على التذوق باطن قدميه؟"
   },
   "story_options": [
-    "4. Hafta",
-    "10. Hafta",
-    "24. Hafta"
+    "Karıncalar ve bazı böcekler",
+    "Sadece deniz canlıları",
+    "Uçan memeliler"
   ],
   "hashtags": [
     "#FactBite",
-    "#parmakizi",
+    "#biliyorum",
+    "#doğa",
     "#bilim",
-    "#insan",
-    "#biyoloji",
-    "#gerçekler"
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Mantente atento a más datos sorprendentes como este!",
+    "ar": "ابق على تطلع لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Dermatoglyphics and Human Embryology",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487796/"
+    "name": "Entomology and Animal Behavior Research",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzlerimiz Anne Karnında Neden Oluşur?",
+  "_topic": "Ayak Tabanımızla Tat Alabildiğimizi Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-03T11:37:52.668931+00:00",
+  "generated_at": "2026-10-03T13:25:27.442260+00:00",
   "topic_guard_days": 180
 }

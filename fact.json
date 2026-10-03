@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerimiz Aslında Baş Aşağı Görüyor",
-    "body": "Biliyor musunuz, retinamıza düşen tüm görüntüler aslında baş aşağıdır. Beynimiz bu görüntüyü anında ters çevirerek dünyayı düz görmemizi sağlar."
+    "headline": "Vücudumuzdaki En Güçlü Kas",
+    "body": "İnsan vücudundaki en güçlü kasın bacaklarınızda veya kollarınızda olduğunu düşünüyorsanız, yanılıyorsunuz. Boyutuna oranla en güçlü kasımız çenemizdir! Çene kaslarımız, azı dişlerimize tam 90 kilograma yakın bir baskı uygulayabilir."
   },
   "en": {
-    "headline": "Our Eyes Actually See Upside Down",
-    "body": "Did you know that all images falling on our retina are actually upside down? Our brain instantly flips this image, allowing us to see the world right side up."
+    "headline": "The Strongest Muscle in the Human Body",
+    "body": "If you think the strongest muscle in the human body is in your legs or arms, you're wrong. Relative to its size, our strongest muscle is the jaw! Our jaw muscles can exert nearly 90 kilograms of pressure on our molars."
   },
   "es": {
-    "headline": "Nuestros ojos ven al revés",
-    "body": "¿Sabías que todas las imágenes que caen en nuestra retina están al revés? Nuestro cerebro invierte esta imagen al instante, permitiéndonos ver el mundo correctamente."
+    "headline": "El músculo más fuerte del cuerpo humano",
+    "body": "Si crees que el músculo más fuerte del cuerpo humano está en tus piernas o brazos, te equivocas. En proporción a su tamaño, ¡nuestro músculo más fuerte es la mandíbula! Puede ejercer casi 90 kilogramos de presión en nuestros molares."
   },
   "ar": {
-    "headline": "عيوننا ترى في الواقع بالمقلوب",
-    "body": "هل تعلم أن جميع الصور التي تسقط على شبكية العين تكون مقلوبة في الواقع؟ يقوم دماغنا بقلب هذه الصورة على الفور لنرى العالم بشكل صحيح."
+    "headline": "أقوى عضلة في جسم الإنسان",
+    "body": "إذا كنت تعتقد أن أقوى عضلة في جسم الإنسان موجودة في ساقيك أو ذراعيك فأنت مخطئ. بالنسبة لحجمها، أقوى عضلة لدينا هي الفك! يمكن عضلات الفك أن تسلط ضغطاً يقارب 90 كيلوغراماً على أضراسك."
   },
   "reel_hook": {
-    "tr": "Gördüğünüz her şey aslında baş aşağı... Nasıl mı?",
-    "en": "Everything you see is actually upside down... How?",
-    "es": "Todo lo que ves está al revés... ¿Cómo?",
-    "ar": "كل ما تراه مقلوب في الواقع... كيف؟"
+    "tr": "Vücudunuzdaki en güçlü kasın nerede olduğunu biliyor musunuz?",
+    "en": "Do you know where the strongest muscle in your body is?",
+    "es": "¿Sabes dónde está el músculo más fuerte de tu cuerpo?",
+    "ar": "هل تعرف أين توجد أقوى عضلة في جسمك؟"
   },
   "story_question": {
-    "tr": "Beynimiz baş aşağı gelen görüntüyü düzeltmeyi ne zaman öğrenir?",
-    "en": "When does our brain learn to flip the upside-down image?",
-    "es": "¿Cuándo aprende nuestro cerebro a voltear la imagen invertida?",
-    "ar": "متى يتعلم دماغنا قلب الصورة المقلوبة؟"
+    "tr": "Boyutuna oranla vücudun en güçlü kası hangisidir?",
+    "en": "Which is the body's strongest muscle relative to its size?",
+    "es": "¿Cuál es el músculo más fuerte del cuerpo en proporción a su tamaño?",
+    "ar": "ما هي أقوى عضلة في الجسم بالنسبة لحجمها؟"
   },
   "story_options": [
-    "Doğuştan",
-    "İlk birkaç gün içinde",
-    "Yetişkinlikte"
+    "Çene kası",
+    "Bylsiceps (Biceps)",
+    "Kalp kası"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
+    "#bilgi",
     "#insan",
-    "#beyin",
-    "#göz",
-    "#ilginçbilgiler"
+    "#anatomivebilim",
+    "#ilginçbilgiler",
+    "#vücudumuz",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu daha önce biliyor muydunuz? Yorumlarda buluşalım!",
+    "en": "Did you know this before? Let us know in the comments!",
+    "es": "¿Sabías esto antes? ¡Cuéntanos en los comentarios!",
+    "ar": "هل كنت تعرف هذا من قبل؟ شاركنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Neuroscience for Kids",
-    "url": "https://faculty.washington.edu/chudler/chvision.html"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries/item/what-is-the-strongest-muscle-in-the-human-body/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerimiz Aslında Baş Aşağı Görüyor",
+  "_topic": "Vücudumuzdaki En Güçlü Kas",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-03T00:01:51.991331+00:00",
+  "generated_at": "2026-10-03T10:26:17.101056+00:00",
   "topic_guard_days": 180
 }

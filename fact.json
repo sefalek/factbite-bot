@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ayak Tabanımızla Tat Alabildiğimizi Biliyor muydunuz?",
-    "body": "Sadece dilimizle tat aldığımızı düşünüyorsanız yanılıyorsunuz. Sinekkuyruklu bazı böcekler ve hatta karıncalar gibi doğadaki bazı canlılar, ayak tabanlarındaki özel reseptörler sayesinde bastıkları yerin tadını anında hissedebilirler. Yani onlar için dünya, yürüyerek lezzetini çıkardıkları dev bir tat masasıdır."
+    "headline": "Sol Ayağınızla Daire Çizerseniz Ne Olur?",
+    "body": "Sağ elinizle havada saat yönünde daireler çizmeyi deneyin. Şimdi aynı anda sağ ayağınızı yerden kaldırıp saat yönünde döndürün. Kolay, değil mi? Peki ya sağ ayağınızı saat yönünde döndürürken sol ayağınızla havaya saat tersi yönde bir daire çizmeyi deneseniz? Beyniniz bu komutu aynı anda işlerken aniden kilitlenecek ve ayağınız istemsizce diğer ayağınızla aynı yöne dönmeye başlayacaktır. Bunun nedeni beynimizin iki tarafının aynı motor beceri döngüsünü paylaşmasıdır."
   },
   "en": {
-    "headline": "Did You Know We Can Taste With Our Soles?",
-    "body": "If you think we only taste with our tongues, you are mistaken. Certain creatures in nature, like some insects and even ants, can instantly sense the taste of what they walk on thanks to special receptors on their feet. For them, the world is a giant tasting table they experience by walking."
+    "headline": "What Happens If You Draw Circles with Your Left Foot?",
+    "body": "Try drawing circles in the air clockwise with your right hand. Now lift your right foot and rotate it clockwise. Easy, right? But what happens if you try to draw a counter-clockwise circle with your left foot while keeping your right foot moving clockwise? Your brain will suddenly lock up while processing this, and your foot will involuntarily start moving in the same direction. This is because both sides of our brain share the same motor skill loop."
   },
   "es": {
-    "headline": "¿Sabías que podemos saborear con las plantas de los pies?",
-    "body": "Si crees que solo saboreamos con la lengua, te equivocas. Ciertas criaturas en la naturaleza, como algunos insectos e incluso las hormigas, pueden percibir instantáneamente el sabor de lo que pisan gracias a receptores especiales en sus patas. Para ellos, el mundo es una mesa de degustación gigante."
+    "headline": "¿Qué pasa si dibujas círculos con tu pie izquierdo?",
+    "body": "Intenta dibujar círculos en el aire en el sentido de las agujas del reloj con tu mano derecha. Ahora levanta tu pie derecho y gíralo en la misma dirección. Fácil, ¿verdad? Pero, ¿qué pasa si intentas dibujar un círculo en sentido antihorario con tu pie izquierdo mientras el derecho sigue girando? Tu cerebro se bloqueará al procesar esto y tu pie empezará a moverse involuntariamente hacia el mismo lado."
   },
   "ar": {
-    "headline": "هل كنت تعلم أننا نستطيع التذوق باطن القدمين؟",
-    "body": "إذا كنت تعتقد أننا نتذوق بألسنتنا فقط فأنت مخطئ. بعض المخلوقات في الطبيعة، مثل بعض الحشرات وحتى النمل، يمكنها استشعار طعم ما تمشي عليه فوراً بفضل مستقبلات خاصة في أقدامهم."
+    "headline": "ماذا يحدث إذا رسمت دوائر بقدمك اليسرى؟",
+    "body": "حاول رسم دوائر في الهواء في اتجاه عقارب الساعة بيديك اليمنى. الآن ارفع قدمك اليمنى ودورها بنفس الاتجاه. سهل أليس كذلك؟ لكن ماذا لو حاولت رسم دائرة عكس اتجاه عقارب الساعة بقدمك اليسرى بينما تستمر اليمنى في الحركة؟ سيتوقف دماغك عن معالجة الأمر وستبدأ قدمك في التحرك بنفس الاتجاه لا إرادياً."
   },
   "reel_hook": {
-    "tr": "Bastığınız yerin tadını ayaklarınızla alabileceğinizi söyleseydim?",
-    "en": "What if I told you that you could taste where you step?",
-    "es": "¿Y si te dijera que puedes saborear por dónde pisas?",
-    "ar": "ماذا لو أخبرتك أنك تستطيع تذوق المكان الذي تمشي عليه؟"
+    "tr": "Sağ ayağınızı saat yönünde döndürürken sol ayağınızla tersini yapmayı denediniz mi?",
+    "en": "Have you ever tried moving your feet in opposite directions at the same time?",
+    "es": "¿Alguna vez has intentado mover tus pies en direcciones opuestas al mismo tiempo?",
+    "ar": "هل محوت من قبل تحريك قدميك في اتجاهين متعاكسين في نفس الوقت؟"
   },
   "story_question": {
-    "tr": "Hangi canlı türü ayak tabanlarıyla tat alabilme yeteneğine sahiptir?",
-    "en": "Which species has the ability to taste with the soles of its feet?",
-    "es": "¿Qué especie tiene la capacidad de saborear con las plantas de los pies?",
-    "ar": "أي نوع لديه القدرة على التذوق باطن قدميه؟"
+    "tr": "Bu testi denerken hangi ayağınız kafanızı karıştırdı?",
+    "en": "Which foot confused your brain during this test?",
+    "es": "¿Qué pie confundió a tu cerebro durante esta prueba?",
+    "ar": "أي قدم اربكت دماغك خلال هذا الاختبار؟"
   },
   "story_options": [
-    "Karıncalar ve bazı böcekler",
-    "Sadece deniz canlıları",
-    "Uçan memeliler"
+    "Sağ Ayağım",
+    "Sol Ayağım",
+    "İkisi de Kilitlendi"
   ],
   "hashtags": [
     "#FactBite",
-    "#biliyorum",
-    "#doğa",
     "#bilim",
+    "#beyin",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#hayvanlaralemi"
+    "#psikoloji",
+    "#deney",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts like this!",
-    "es": "¡Mantente atento a más datos sorprendentes como este!",
-    "ar": "ابق على تطلع لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunu hemen şimdi dene ve kafanın nasıl karıştığını arkadaşına gönder!",
+    "en": "Try this right now and send it to a friend to confuse them too!",
+    "es": "¡Pruébalo ahora mismo y mándaselo a un amigo!",
+    "ar": "جرب هذا الآن وأرسله لصديق ليرى بنفسه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 10,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.5
   },
   "source": {
-    "name": "Entomology and Animal Behavior Research",
-    "url": "https://www.sciencedirect.com"
+    "name": "Neuroscience of Motor Control & Limb Coordination Studies",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3538421/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ayak Tabanımızla Tat Alabildiğimizi Biliyor muydunuz?",
+  "_topic": "Sol Ayağınızla Daire Çizerseniz Ne Olur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-03T13:25:27.442260+00:00",
+  "generated_at": "2026-10-03T15:12:14.249144+00:00",
   "topic_guard_days": 180
 }

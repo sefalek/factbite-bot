@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Gözlerini Korumak İçin Aslında Ne Yapar?",
-    "body": "Gözlerini kırptıklarında sadece kapakları inmez; şeffaf bir zar olan üçüncü göz kapakları devreye girer. Bu özel perde, uçarken rüzgardan kurumayı önlemek ve gözü temizlemek için bir saniyeden kısa sürede gözü baştan aşağıya kaplar."
+    "headline": "Muzlar Aslında Ters Büyür",
+    "body": "Manavda gördüğümüz o sarı muzlar yukarı doğru uzanmıyor. Aslında yer çekimine meydan okuyarak gökyüzüne doğru, yani baş aşağı büyüyorlar."
   },
   "en": {
-    "headline": "What Do Birds Actually Do to Protect Their Eyes?",
-    "body": "When they blink, it's not just eyelids coming down; a transparent membrane called the nictitating membrane steps in. This special curtain sweeps across the eye in less than a second to prevent drying from the wind and keep it clean during flight."
+    "headline": "Bananas Actually Grow Upside Down",
+    "body": "Those yellow bananas we see at the market don't grow upwards. They actually defy gravity and grow toward the sky, meaning upside down."
   },
   "es": {
-    "headline": "¿Qué hacen realmente las aves para proteger sus ojos?",
-    "body": "Cuando parpadean, no solo bajan los párpados; entra en juego una membrana transparente llamada membrana nictitante. Esta cortina especial se desliza sobre el ojo en menos de un segundo para evitar que se seque con el viento."
+    "headline": "Los plátanos crecen al revés",
+    "body": "Esos plátanos amarillos que vemos en el mercado no crecen hacia arriba. De hecho, desafían la gravedad y crecen hacia el cielo, es decir, al revés."
   },
   "ar": {
-    "headline": "ماذا تفعل الطيور حقاً حماية لعيونها؟",
-    "body": "عندما ترمش، لا تنزل الجفون وحدها فحسب؛ بل تدخل غشاء شفاف يُعرف بالطرف الثالث للعين. يعمل هذا الستار الخاص على حماية العين من الجفاف أثناء الطيران وتنظيفها في أقل من ثانية."
+    "headline": "الموز ينمو في الواقع مقلوباً",
+    "body": "الموز الأصفر الذي نراه في السوق لا ينمو للأعلى. إنه يتحدى الجاذبية وينمو نحو السماء، أي مقلوباً."
   },
   "reel_hook": {
-    "tr": "Uçarken rüzgar gözlerini kurutmasın diye kuşlar ne yapıyor?",
-    "en": "What do birds do so the wind doesn't dry out their eyes while flying?",
-    "es": "¿Qué hacen las aves para que el viento no seque sus ojos al volar?",
-    "ar": "ماذا تفعل الطيور لكي لا يجف الريح عيونها أثناء الطيران؟"
+    "tr": "Muzları bugüne kadar hep yanlış taraftan soyuyor olabilirsiniz, çünkü...",
+    "en": "You might have been peeling bananas from the wrong side all this time, because...",
+    "es": "Es posible que hayas estado pelando los plátanos por el lado equivocado todo este tiempo, porque...",
+    "ar": "قد تكون قشرت الموز من الجانب الخاطئ طوال هذا الوقت، لأن..."
   },
   "story_question": {
-    "tr": "Kuşların gözlerini koruyan bu şeffaf üçüncü kapağın adı nedir?",
-    "en": "What is the name of this transparent third eyelid that protects birds' eyes?",
-    "es": "¿Cómo se llama este tercer párpado transparente que protege los ojos de las aves?",
-    "ar": "ما اسم هذا الجفن الثالث الشفاف الذي يحمي عيون الطيور؟"
+    "tr": "Muz ağacı aslında teknik olarak hangi bitki türüne girer?",
+    "en": "What type of plant is a banana tree technically classified as?",
+    "es": "¿A qué tipo de planta pertenece técnicamente un banano?",
+    "ar": "ما هو نوع النبات الذي ينتمي إليه شجرة الموز تقنياً؟"
   },
   "story_options": [
-    "Niktitant Zar",
-    "Kornea Perdesi",
-    "Retina Kalkanı"
+    "Ağaç",
+    "Dev Ot",
+    "Çalı"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
+    "#muz",
+    "#ilginçbilgiler",
     "#bilim",
     "#doğa",
-    "#ilginçbilgiler",
-    "#biyoloji"
+    "#keşfet",
+    "#faydalıbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğen ve takip et!",
-    "en": "If this is your first time hearing this, like and follow!",
-    "es": "Si es la primera vez que escuchas esto, ¡dale a Me gusta y síguenos!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، الإعجاب والمتابعة!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Ornithology Science",
-    "url": "https://www.audubon.org"
+    "name": "Botanical Society of America",
+    "url": "https://www.botany.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Gözlerini Korumak İçin Aslında Ne Yapar?",
+  "_topic": "Muzlar Aslında Ters Büyür",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-03T22:01:07.089313+00:00",
+  "generated_at": "2026-10-03T23:21:49.457606+00:00",
   "topic_guard_days": 180
 }

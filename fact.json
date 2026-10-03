@@ -1,51 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzlerimiz Neden Asla Silinmez?",
-    "body": "Hayatımız boyunca elimizi binlerce kez sürtmemize, yıkamamıza ve kullanmamıza rağmen parmak izlerimiz hiç değişmez ve asla silinmez. Bunun sebebi, derimizin en alt tabakası olan bazal tabakanın bu benzersiz deseni kalıcı olarak kodlamasıdır. Küçük bir kesik veya yara olmadıkça, bu izler ömür boyu bizimle kalır."
+    "headline": "Kuşlar Gözlerini Korumak İçin Aslında Ne Yapar?",
+    "body": "Gözlerini kırptıklarında sadece kapakları inmez; şeffaf bir zar olan üçüncü göz kapakları devreye girer. Bu özel perde, uçarken rüzgardan kurumayı önlemek ve gözü temizlemek için bir saniyeden kısa sürede gözü baştan aşağıya kaplar."
   },
   "en": {
-    "headline": "Why Do Our Fingerprints Never Fade?",
-    "body": "Despite rubbing, washing, and using our hands millions of times throughout our lives, our fingerprints never change or fade away. This is because the basal layer, the deepest layer of our skin, permanently encodes this unique pattern. Unless there is a deep cut or injury, these prints stay with us for a lifetime."
+    "headline": "What Do Birds Actually Do to Protect Their Eyes?",
+    "body": "When they blink, it's not just eyelids coming down; a transparent membrane called the nictitating membrane steps in. This special curtain sweeps across the eye in less than a second to prevent drying from the wind and keep it clean during flight."
   },
   "es": {
-    "headline": "¿Por qué nuestras huellas dactilares nunca se borran?",
-    "body": "A pesar de rozar, lavar y usar nuestras manos millones de veces a lo largo de nuestras vidas, nuestras huellas dactilares nunca cambian ni se borran. Esto se debe a que la capa basal, la capa más profunda de nuestra piel, codifica permanentemente este patrón único. A menos que haya un corte profundo o una lesión, estas marcas nos acompañan toda la vida."
+    "headline": "¿Qué hacen realmente las aves para proteger sus ojos?",
+    "body": "Cuando parpadean, no solo bajan los párpados; entra en juego una membrana transparente llamada membrana nictitante. Esta cortina especial se desliza sobre el ojo en menos de un segundo para evitar que se seque con el viento."
   },
   "ar": {
-    "headline": "لماذا لا تختفي بصمات أصابعنا أبداً؟",
-    "body": "على الرغم من فرك وغسل واستخدام أيدينا ملايين المرات طوال حياتنا، إلا أن بصمات أصابعنا لا تتغير أو تختفي أبدًا. ويرجع ذلك إلى أن الطبقة الأساسية، وهي أعمق طبقة في جلدنا، تشفر هذا النمط الفريد بشكل دائم. ما لم يكن هناك جرح عميق أو إصابة، تبقى هذه البصمات معنا مدى الحياة."
+    "headline": "ماذا تفعل الطيور حقاً حماية لعيونها؟",
+    "body": "عندما ترمش، لا تنزل الجفون وحدها فحسب؛ بل تدخل غشاء شفاف يُعرف بالطرف الثالث للعين. يعمل هذا الستار الخاص على حماية العين من الجفاف أثناء الطيران وتنظيفها في أقل من ثانية."
   },
   "reel_hook": {
-    "tr": "Ellerinizi her gün binlerce kez yıkıyorsunuz ama bu izler neden asla silinmiyor?",
-    "en": "You wash your hands thousands of times a day, but why do these patterns never fade?",
-    "es": "Lavas tus manos miles de veces al día, pero ¿por qué estas marcas nunca se borran?",
-    "ar": "تغسل يديك آلاف المرات كل يوم، فلماذا لا تختفي هذه الأنماط أبدًا؟"
+    "tr": "Uçarken rüzgar gözlerini kurutmasın diye kuşlar ne yapıyor?",
+    "en": "What do birds do so the wind doesn't dry out their eyes while flying?",
+    "es": "¿Qué hacen las aves para que el viento no seque sus ojos al volar?",
+    "ar": "ماذا تفعل الطيور لكي لا يجف الريح عيونها أثناء الطيران؟"
   },
   "story_question": {
-    "tr": "Parmak izi sadece insanlarda mı bulunur?",
-    "en": "Are fingerprints found only in humans?",
-    "es": "¿Las huellas dactilares se encuentran solo en los humanos?",
-    "ar": "هل توجد بصمات الأصابع لدى البشر فقط؟"
+    "tr": "Kuşların gözlerini koruyan bu şeffaf üçüncü kapağın adı nedir?",
+    "en": "What is the name of this transparent third eyelid that protects birds' eyes?",
+    "es": "¿Cómo se llama este tercer párpado transparente que protege los ojos de las aves?",
+    "ar": "ما اسم هذا الجفن الثالث الشفاف الذي يحمي عيون الطيور؟"
   },
   "story_options": [
-    "Evet, sadece insanlarda var",
-    "Koalalarda da parmak izi var",
-    "Sadece maymunlarda var"
+    "Niktitant Zar",
+    "Kornea Perdesi",
+    "Retina Kalkanı"
   ],
   "hashtags": [
     "#FactBite",
+    "#kuşlar",
     "#bilim",
+    "#doğa",
     "#ilginçbilgiler",
-    "#vücudumuz",
-    "#keşfet",
-    "#tarih"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunu ilk defa duyuyorsan beğen ve takip et!",
+    "en": "If this is your first time hearing this, like and follow!",
+    "es": "Si es la primera vez que escuchas esto, ¡dale a Me gusta y síguenos!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، الإعجاب والمتابعة!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Library of Congress",
-    "url": "https://www.loc.gov/everyday-mysteries/item/why-do-we-have-fingerprints/"
+    "name": "Ornithology Science",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzlerimiz Neden Asla Silinmez?",
+  "_topic": "Kuşlar Gözlerini Korumak İçin Aslında Ne Yapar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-03T19:48:58.612267+00:00",
+  "generated_at": "2026-10-03T22:01:07.089313+00:00",
   "topic_guard_days": 180
 }

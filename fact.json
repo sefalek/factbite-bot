@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Vücudumuzdaki En Güçlü Kas",
-    "body": "İnsan vücudundaki en güçlü kasın bacaklarınızda veya kollarınızda olduğunu düşünüyorsanız, yanılıyorsunuz. Boyutuna oranla en güçlü kasımız çenemizdir! Çene kaslarımız, azı dişlerimize tam 90 kilograma yakın bir baskı uygulayabilir."
+    "headline": "Parmak İzlerimiz Anne Karnında Neden Oluşur?",
+    "body": "Parmak izlerimiz sadece bize özel bir kimlik gibi görünür, ama işlevleri bundan çok daha fazlasıdır. Anne karnındaki 10. haftadan itibaren oluşmaya başlayan bu kıvrımlar, dokunma duyumuzu artırmak ve nesneleri sıkıca kavramamızı sağlamak için minik birer kavrama deseni olarak tasarlanmıştır."
   },
   "en": {
-    "headline": "The Strongest Muscle in the Human Body",
-    "body": "If you think the strongest muscle in the human body is in your legs or arms, you're wrong. Relative to its size, our strongest muscle is the jaw! Our jaw muscles can exert nearly 90 kilograms of pressure on our molars."
+    "headline": "Why Do Our Fingerprints Form in the Womb?",
+    "body": "Fingerprints seem like a unique identity just for us, but their function is much more than that. Starting to form around the 10th week in the womb, these ridges are designed as tiny grip patterns to enhance our sense of touch and help us firmly grasp objects."
   },
   "es": {
-    "headline": "El músculo más fuerte del cuerpo humano",
-    "body": "Si crees que el músculo más fuerte del cuerpo humano está en tus piernas o brazos, te equivocas. En proporción a su tamaño, ¡nuestro músculo más fuerte es la mandíbula! Puede ejercer casi 90 kilogramos de presión en nuestros molares."
+    "headline": "¿Por qué se forman nuestras huellas dactilares en el útero?",
+    "body": "Las huellas dactilares parecen una identidad única para nosotros, pero su función va mucho más allá. Comenzando a formarse alrededor de la décima semana en el útero, estos surcos están diseñados como pequeños patrones de agarre para mejorar nuestro sentido del tacto."
   },
   "ar": {
-    "headline": "أقوى عضلة في جسم الإنسان",
-    "body": "إذا كنت تعتقد أن أقوى عضلة في جسم الإنسان موجودة في ساقيك أو ذراعيك فأنت مخطئ. بالنسبة لحجمها، أقوى عضلة لدينا هي الفك! يمكن عضلات الفك أن تسلط ضغطاً يقارب 90 كيلوغراماً على أضراسك."
+    "headline": "لماذا تتكون بصمات أصابعنا في الرحم؟",
+    "body": "تتبدو بصمات الأصابع وكأنها هوية فريدة لنا وحدنا، لكن وظيفتها أعمق بكثير. تبدأ هذه الخطوط في التكون منذ الأسبوع العاشر في الرحم، وهي مصممة كأنماط قبض صغيرة لتعزيز حاسة اللمس لدينا ومساعدتنا على الإمساك بالأشياء بقوة."
   },
   "reel_hook": {
-    "tr": "Vücudunuzdaki en güçlü kasın nerede olduğunu biliyor musunuz?",
-    "en": "Do you know where the strongest muscle in your body is?",
-    "es": "¿Sabes dónde está el músculo más fuerte de tu cuerpo?",
-    "ar": "هل تعرف أين توجد أقوى عضلة في جسمك؟"
+    "tr": "Parmak izlerinizin aslında neden orada olduğunu biliyor musunuz? Cevap sadece kimliğiniz değil.",
+    "en": "Do you know why your fingerprints are actually there? The answer is not just your identity.",
+    "es": "¿Sabes por qué tus huellas dactilares están realmente ahí? La respuesta no es solo tu identidad.",
+    "ar": "هل تعلم لماذا تتواجد بصمات أصابعك حقاً؟ الإجابة ليست مجرد هويتك."
   },
   "story_question": {
-    "tr": "Boyutuna oranla vücudun en güçlü kası hangisidir?",
-    "en": "Which is the body's strongest muscle relative to its size?",
-    "es": "¿Cuál es el músculo más fuerte del cuerpo en proporción a su tamaño?",
-    "ar": "ما هي أقوى عضلة في الجسم بالنسبة لحجمها؟"
+    "tr": "Parmak izleri anne karnında kaçıncı haftada oluşmaya başlar?",
+    "en": "In which week of pregnancy do fingerprints start to form?",
+    "es": "¿En qué semana de gestación empiezan a formarse las huellas dactilares?",
+    "ar": "في أي أسبوع من الحمل تبدأ بصمات الأصابع في التكون؟"
   },
   "story_options": [
-    "Çene kası",
-    "Bylsiceps (Biceps)",
-    "Kalp kası"
+    "4. Hafta",
+    "10. Hafta",
+    "24. Hafta"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
+    "#parmakizi",
+    "#bilim",
     "#insan",
-    "#anatomivebilim",
-    "#ilginçbilgiler",
-    "#vücudumuz",
-    "#keşfet"
+    "#biyoloji",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydunuz? Yorumlarda buluşalım!",
-    "en": "Did you know this before? Let us know in the comments!",
-    "es": "¿Sabías esto antes? ¡Cuéntanos en los comentarios!",
-    "ar": "هل كنت تعرف هذا من قبل؟ شاركنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Library of Congress",
-    "url": "https://www.loc.gov/everyday-mysteries/item/what-is-the-strongest-muscle-in-the-human-body/"
+    "name": "Dermatoglyphics and Human Embryology",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487796/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Vücudumuzdaki En Güçlü Kas",
+  "_topic": "Parmak İzlerimiz Anne Karnında Neden Oluşur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-03T10:26:17.101056+00:00",
+  "generated_at": "2026-10-03T11:37:52.668931+00:00",
   "topic_guard_days": 180
 }

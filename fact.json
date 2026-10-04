@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Yürüyen Çiçekleri Aslında Hayvandır",
-    "body": "Deniz şakayıkları ne kadar bitkiye benzese de, aslında akrabaları mercanlar ve denizanaları olan yırtıcı hayvanlardır. Oldukça yavaş hareket ederler ve avlarını zehirli tentakülleriyle yakalarlar."
+    "headline": "Dünyanın En Derin Noktasındaki Şaşırtıcı Buluntu",
+    "body": "Okyanusun en derin yeri olan Mariana Çukuru'nun dibinde, insan yapımı plastik bir atık bulundu. Bu çarpıcı keşif, insanlığın izinin Dünya'nın en ücra köşesine bile ulaştığını gösteriyor."
   },
   "en": {
-    "headline": "Walking Flowers of the Sea Are Actually Animals",
-    "body": "Though sea anemones look like plants, they are actually predatory animals related to corals and jellyfish. They move very slowly and catch prey with venomous tentacles."
+    "headline": "The Surprising Discovery at Earth's Deepest Point",
+    "body": "At the bottom of the Mariana Trench, the deepest part of the ocean, human-made plastic waste was found. This striking discovery shows that the human footprint has reached even the most remote corner of Earth."
   },
   "es": {
-    "headline": "Las Flores Caminantes del Mar Son En Realidad Animales",
-    "body": "Aunque las anémonas de mar parecen plantas, en realidad son animales depredadores emparentados con los corales y las medusas. Se mueven muy lentamente y atrapan presas con tentáculos venenosos."
+    "headline": "El sorprendente hallazgo en el punto más profundo de la Tierra",
+    "body": "En el fondo de la Fosa de las Marianas, la parte más profunda del océano, se encontró un residuo plástico hecho por el hombre. Este impactante descubrimiento demuestra que la huella humana ha llegado incluso al rincón más remoto de la Tierra."
   },
   "ar": {
-    "headline": "أزهار البحر السائرة هي في الواقع حيوانات",
-    "body": "على الرغم من أن شقائق النعمان البحرية تشبه النباتات، إلا أنها في الواقع حيوانات مفترسة مرتبطة بالشعاب المرجانية وقناديل البحر. تتحرك ببطء شديد وتلتقط فرائسها بمجسات سامة."
+    "headline": "الاكتشاف المدهش في أعمق نقطة على الأرض",
+    "body": "في قاع خندق ماريانا، أعمق جزء في المحيط، تم العثور على نفايات بلاستيكية من صنع الإنسان. يظهر هذا الاكتشاف المدهش أن البصمة البشرية قد وصلت إلى حتى أبعد ركن على وجه الأرض."
   },
   "reel_hook": {
-    "tr": "Gördüğünüz bu bitki sandığınız şey aslında hareket eden bir avcı...",
-    "en": "This thing you think is a plant is actually a moving hunter...",
-    "es": "Esto que crees que es una planta es en realidad un cazador en movimiento...",
-    "ar": "هذا الشيء الذي تعتقد أنه نبات هو في الواقع صياد يتحرك..."
+    "tr": "Okyanusun 11 bin metre dibine indiklerinde bunu göreceklerini hiç zannetmiyorlardı.",
+    "en": "They never expected to see this when they descended 11,000 meters into the ocean.",
+    "es": "Nunca esperaron ver esto cuando descendieron 11,000 metros en el océano.",
+    "ar": "لم يتوقعوا أبداً رؤية هذا عندما نزلو إلى عمق 11 ألف متر في المحيط."
   },
   "story_question": {
-    "tr": "Deniz şakayıkları sizce nasıl beslenir?",
-    "en": "How do you think sea anemones feed?",
-    "es": "¿Cómo crees que se alimentan las anémonas de mar?",
-    "ar": "كيف تعتقد أن شقائق النعمان البحرية تتغذى؟"
+    "tr": "Mariana Çukuru'nun derinliği yaklaşık kaç metre?",
+    "en": "Approximately how deep is the Mariana Trench?",
+    "es": "¿Aproximadamente qué tan profunda es la Fosa de las Marianas?",
+    "ar": "ما هو تقريباً عمق خندق ماريانا؟"
   },
   "story_options": [
-    "Fotosentez ile",
-    "Zehirli tentaküllerle",
-    "Sadece kum süzerek"
+    "5.000 metre",
+    "11.000 metre",
+    "20.000 metre"
   ],
   "hashtags": [
     "#FactBite",
-    "#deniz",
+    "#okyanus",
+    "#marianachukuru",
     "#bilim",
-    "#doğa",
-    "#canlılar",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#çevre",
+    "#keşif",
+    "#doğa"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more nature secrets like this!",
-    "es": "¡No olvides seguir para más secretos de la naturaleza como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -57,13 +57,13 @@
   },
   "source": {
     "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/animals/invertebrates/facts/sea-anemones"
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Yürüyen Çiçekleri Aslında Hayvandır",
+  "_topic": "Dünyanın En Derin Noktasındaki Şaşırtıcı Buluntu",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-04T18:32:53.101694+00:00",
+  "generated_at": "2026-10-04T20:03:48.157460+00:00",
   "topic_guard_days": 180
 }

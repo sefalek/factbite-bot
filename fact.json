@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Köpekbalıklarının Asıl Gizli Silahı",
-    "body": "Köpekbalıkları hakkında bildiğiniz her şeyi unutun. Onları korkunç kılan şey keskin dişleri değil, derileridir. Derileri aslında milyonlarca minik dişi benzeri pulla kaplıdır. Bu yapı su direncini o kadar çok azaltır ki, insanlık bu teknolojiden ilham alarak yüzücüler için sürtünmesiz mayonlar üretmiştir."
+    "headline": "Uyurken Gözlerimiz Neden Devamlı Oynar?",
+    "body": "Gecenin bir yarısı rüya görürken göz bebeklerimiz kapalı göz kapaklarımızın altında hızla bir sağa bir sola hareket eder. Hızlı Göz Hareketi ya da kısaca REM uykusu dediğimiz bu evrede zihnimiz aslında uyanıkken olduğundan bile daha aktiftir. Beynimiz gördüğümüz rüyalardaki sahneleri ve hareketleri sanki gerçektir gibi takip eder. Yani rüyada koşan birini izliyorsanız, gözleriniz de tam olarak o anlarda dışarıdan görünmese bile koşan birini izler gibi hareket eder."
   },
   "en": {
-    "headline": "The Real Secret Weapon of Sharks",
-    "body": "Forget everything you think you know about sharks. What makes them apex predators isn't just their teeth, but their skin. Their skin is covered in millions of tiny tooth-like scales called dermal denticles. This structure reduces water drag so much that humans actually invented friction-reducing swimsuits inspired by it."
+    "headline": "Why Do Our Eyes Move Constantly While We Sleep?",
+    "body": "In the middle of the night while dreaming, our eyeballs move rapidly from side to side beneath closed eyelids. During this phase called REM sleep, our minds are actually more active than when we are awake. Our brains track the scenes and movements in our dreams as if they were real."
   },
   "es": {
-    "headline": "El Verdadero Arma Secreta de los Tiburones",
-    "body": "Olvida todo lo que sabes sobre los tiburones. Lo que los hace formidables no son solo sus dientes, sino su piel. Su piel está cubierta de millones de diminutas escamas en forma de diente. Esta estructura reduce tanto la resistencia al agua que los humanos incluso inventaron trajes de baño de baja fricción inspirados en ella."
+    "headline": "¿Por qué se mueven nuestros ojos constantemente mientras dormimos?",
+    "body": "En medio de la noche mientras soñamos, nuestros globos oculares se mueven rápidamente de un lado a otro bajo los párpados cerrados. Durante esta fase llamada sueño REM, nuestra mente está de hecho más activa que cuando estamos despiertos."
   },
   "ar": {
-    "headline": "السلاح السري الحقيقي للأسماك القرش",
-    "body": "انس كل ما تعرفه عن أسماك القرش. ما يجعلها مرعبة ليس أسنانا الحادة وحدها، بل جلدها. جلدها مغطى بملايين الحراشف الصغيرة التي تشبه الأسنان، وهي بنية تقلل مقاومة الماء لدرجة أن البشر استوحوا منها ملابس السباحة المقاومة للاحتكاك."
+    "headline": "لماذا تتحرك أعيننا باستمرار أثناء النوم؟",
+    "body": "في منتصف الليل أثناء الحلم، تتحرك مقل أعيننا بسرعة من جانب إلى آخر تحت الجفون المغلقة. خلال هذه المرحلة التي تسمى نوم حركة العين السريعة، يكون عقلنا أكثر نشاطاً في الواقع مما يكون عليه عندما نكون مستيقظين."
   },
   "reel_hook": {
-    "tr": "Köpekbalıklarını o kadar hızlı yapan şeyin ne olduğunu biliyor musunuz?",
-    "en": "Do you know what actually makes sharks move so fast?",
-    "es": "¿Sabes qué hace que los tiburones se muevan tan rápido?",
-    "ar": "هل تعلم ما الذي يجعل أسماك القرش سريعة إلى هذا الحد؟"
+    "tr": "Uykudayken gözlerinizin aslında tam olarak ne yaptığını biliyor musunuz?",
+    "en": "Do you know what your eyes are actually doing while you sleep?",
+    "es": "¿Sabes lo que tus ojos están haciendo realmente mientras duermes?",
+    "ar": "هل تعلم ماذا تفعل عيناك حقاً أثناء النوم؟"
   },
   "story_question": {
-    "tr": "Köpekbalığı derisinin yapısı insanlara ne ilham vermiştir?",
-    "en": "What did shark skin structure inspire humans to create?",
-    "es": "¿Qué inspiró la estructura de la piel de tiburón en los humanos?",
-    "ar": "ما الذي ألهمت بنية جلد سمكة القرش البشر لصنعه؟"
+    "tr": "Hızlı göz hareketi yani REM uykusu gecede ortalama kaç kez tekrarlanır?",
+    "en": "How many times on average does REM sleep repeat per night?",
+    "es": "¿Cuántas veces en promedio se repite el sueño REM por noche?",
+    "ar": "كم مرة في المتوسط يتكرر نوم حركة العين السريعة في الليلة الواحدة؟"
   },
   "story_options": [
-    "Sürtünmesiz Mayolar",
-    "Hızlı Gemiler",
-    "Su Geçirmez Kumaşlar"
+    "1-2 kez",
+    "4-6 kez",
+    "10-12 kez"
   ],
   "hashtags": [
     "#FactBite",
-    "#köpekbalığı",
     "#bilim",
-    "#doğa",
-    "#teknoloji",
-    "#şaşırtıcıgerçekler",
-    "#biliyormusunuz"
+    "#uyku",
+    "#psikoloji",
+    "#rüya",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı gerçekler için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more amazing facts!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة!"
+    "tr": "Bu tarz ilginç bilgileri kaçırmamak için bizi takip et!",
+    "en": "Follow us not to miss interesting facts like this!",
+    "es": "¡Síguenos para no perderte datos interesantes como este!",
+    "ar": "تابعنا لكي لا تفوتك الحقائق المثير للاهتمام مثله!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Shark Research Institute",
-    "url": "https://www.sharks.org"
+    "name": "Sleep Foundation",
+    "url": "https://www.sleepfoundation.org/stages-of-sleep/rem-sleep"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Köpekbalıklarının Asıl Gizli Silahı",
+  "_topic": "Uyurken Gözlerimiz Neden Devamlı Oynar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-04T12:19:49.441526+00:00",
+  "generated_at": "2026-10-04T14:05:32.273003+00:00",
   "topic_guard_days": 180
 }

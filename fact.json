@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Muzlar Aslında Ters Büyür",
-    "body": "Manavda gördüğümüz o sarı muzlar yukarı doğru uzanmıyor. Aslında yer çekimine meydan okuyarak gökyüzüne doğru, yani baş aşağı büyüyorlar."
+    "headline": "Deniz Atları Erkek Olmalarına Rağmen Nasıl Doğurur?",
+    "body": "Doğada eşine az rastlanır bir mucize: Deniz atlarında gebelik ve doğum görevini erkekler üstlenir. Dişiler yumurtalarını erkeğin özel kesesine bırakır; erkek de bu yumurtaları dölleyerek güvenle büyütür ve günün sonunda yüzlerce minik yavruyu dünyaya kendi elleriyle bırakır."
   },
   "en": {
-    "headline": "Bananas Actually Grow Upside Down",
-    "body": "Those yellow bananas we see at the market don't grow upwards. They actually defy gravity and grow toward the sky, meaning upside down."
+    "headline": "How Do Male Seahorses Give Birth Despite Being Male?",
+    "body": "A rare miracle in nature: In seahorses, pregnancy and birth are handled by the males. Females deposit their eggs into the male's specialized pouch, where he fertilizes and nurtures them until he finally releases hundreds of tiny babies."
   },
   "es": {
-    "headline": "Los plátanos crecen al revés",
-    "body": "Esos plátanos amarillos que vemos en el mercado no crecen hacia arriba. De hecho, desafían la gravedad y crecen hacia el cielo, es decir, al revés."
+    "headline": "¿Cómo dan a luz los caballitos de mar a pesar de ser machos?",
+    "body": "Un raro milagro en la naturaleza: en los caballitos de mar, el embarazo y el parto corren a cargo de los machos. Las hembras depositan sus huevos en la bolsa especializada del macho, quien los fertiliza y cuida hasta dar a luz."
   },
   "ar": {
-    "headline": "الموز ينمو في الواقع مقلوباً",
-    "body": "الموز الأصفر الذي نراه في السوق لا ينمو للأعلى. إنه يتحدى الجاذبية وينمو نحو السماء، أي مقلوباً."
+    "headline": "كيف تلد ذكور حصان البحر رغم كونها ذكوراً؟",
+    "body": "معجزة نادرة في الطبيعة: في حصان البحر، يتولى الذكور مسؤولية الحمل والولادة. تضع الإناث بيضها في جيب الذكر المتخصص، ليقوم بتخصيبه ورعایته حتى يطلق مئات الصغار."
   },
   "reel_hook": {
-    "tr": "Muzları bugüne kadar hep yanlış taraftan soyuyor olabilirsiniz, çünkü...",
-    "en": "You might have been peeling bananas from the wrong side all this time, because...",
-    "es": "Es posible que hayas estado pelando los plátanos por el lado equivocado todo este tiempo, porque...",
-    "ar": "قد تكون قشرت الموز من الجانب الخاطئ طوال هذا الوقت، لأن..."
+    "tr": "Doğada hamile kalan tek erkek canlıyı biliyor musun? Cevap seni şaşırtacak.",
+    "en": "Do you know the only male creature in nature that gets pregnant? The answer will surprise you.",
+    "es": "¿Conoces al único macho en la naturaleza que se queda embarazado? La respuesta te sorprenderá.",
+    "ar": "هل تعرف الكائن الذكر الوحيد في الطبيعة الذي يحمل؟ ستفاجئك الإجابة."
   },
   "story_question": {
-    "tr": "Muz ağacı aslında teknik olarak hangi bitki türüne girer?",
-    "en": "What type of plant is a banana tree technically classified as?",
-    "es": "¿A qué tipo de planta pertenece técnicamente un banano?",
-    "ar": "ما هو نوع النبات الذي ينتمي إليه شجرة الموز تقنياً؟"
+    "tr": "Deniz atlarının yavrularını taşıdığı özel kese hangi cinsiyettedir?",
+    "en": "Which gender has the specialized pouch where seahorse babies are carried?",
+    "es": "¿Qué género tiene la bolsa especializada donde se llevan los bebés de caballito de mar?",
+    "ar": "ما هو الجنس الذي يمتلك الجيب المخصص لحمل صغار حصان البحر؟"
   },
   "story_options": [
-    "Ağaç",
-    "Dev Ot",
-    "Çalı"
+    "Erkek",
+    "Dişi",
+    "Her ikisi de"
   ],
   "hashtags": [
     "#FactBite",
-    "#muz",
+    "#denizatları",
+    "#doğa #mucizeleri",
     "#ilginçbilgiler",
     "#bilim",
-    "#doğa",
     "#keşfet",
-    "#faydalıbilgiler"
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "Botanical Society of America",
-    "url": "https://www.botany.org"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Muzlar Aslında Ters Büyür",
+  "_topic": "Deniz Atları Erkek Olmalarına Rağmen Nasıl Doğurur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-03T23:21:49.457606+00:00",
+  "generated_at": "2026-10-04T11:08:33.611673+00:00",
   "topic_guard_days": 180
 }

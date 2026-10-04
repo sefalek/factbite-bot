@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çikolata Neden Eridiğinde Bu Kadar Farklı Tadar?",
-    "body": "Aynı çikolatayı ağzınıza attığınızda aldığınız tat ile eridiğinde aldığınız tat neden farklıdır? Sadece sıcaklık değil, dilimizdeki reseptörlerin eriyen kakaonun yağ dokusuyla temas süresi değiştiği için beynimiz lezzeti tamamen farklı algılar."
+    "headline": "Kuşların Başını Hızla Sallamasının Sırrı",
+    "body": "Yürürken kafalarını ileri geri sallayan güvercinleri sık sık görürsünüz. Aslında bunu yapmalarının nedeni yürüyüş ritmi değil. Kuşlar, hareket halindeyken dünyayı net görebilmek için kafalarını bir anlığına sabit tutar ve vücutlarını arkadan getirirler. Yani aslında onlar kafalarını ileri itmez, dünyayı sabitlemeye çalışırlar."
   },
   "en": {
-    "headline": "Why Does Melted Chocolate Taste So Different?",
-    "body": "Why does the taste of chocolate change when it melts in your mouth? It is not just about temperature; as the texture shifts, the contact time with your tongue's receptors changes, altering how your brain perceives flavor."
+    "headline": "The Secret Behind Why Birds Bob Their Heads",
+    "body": "You often see pigeons bobbing their heads back and forth as they walk. Actually, they do this not for rhythm, but for vision. To keep the world in sharp focus while moving, they hold their head still for a split second and slide their body forward. They aren't pushing their head forward; they're stabilizing their view."
   },
   "es": {
-    "headline": "¿Por qué el chocolate derretido sabe diferente?",
-    "body": "¿Por qué cambia el sabor del chocolate cuando se derrite? No es solo la temperatura; al cambiar la textura, el tiempo de contacto con los receptores de tu lengua es distinto, lo que altera cómo tu cerebro percibe el sabor."
+    "headline": "El secreto detrás de por qué las aves mueven la cabeza",
+    "body": "A menudo ves palomas moviendo la cabeza hacia adelante y hacia atrás al caminar. En realidad, hacen esto no por ritmo, sino por visión. Para mantener el mundo enfocado mientras se mueven, mantienen la cabeza quieta por una fracción de segundo y deslizan el cuerpo."
   },
   "ar": {
-    "headline": "لماذا يختلف طعم الشوكولاتة عندما تذوب؟",
-    "body": "لماذا يتغير طعم الشوكولاتة عندما تذوب في فمك؟ الأمر لا يتعلق فقط بدرجة الحرارة؛ فعندما يتغير القوام، يتغير وقت الاتصال بمستقبلات لسانك، مما يغير طريقة إدراك عقلك للنكهة."
+    "headline": "سر تحريك الطيور لرؤوسها أثناء المشي",
+    "body": "غالبًا ما ترى الحمام يحرك رؤوسده للأمام والخلف أثناء المشي. في الواقع، يفعلون ذلك ليس للإيقاع، بل للرؤية. للحفاظ على وضوح الرؤية أثناء الحركة، يثبتون رؤوسهم لثانية واحدة."
   },
   "reel_hook": {
-    "tr": "Aynı çikolata neden eridiğinde aniden daha tatlı gelir?",
-    "en": "Why does the exact same chocolate suddenly taste sweeter when it melts?",
-    "es": "¿Por qué exactamente el mismo chocolate de repente sabe más dulce cuando se derrite?",
-    "ar": "لماذا تصبح نفس قطعة الشوكولاتة أ حلوى فجأة عندما تذوب؟"
+    "tr": "Güvercinler yürürken kafalarını neden sürekli sallar hiç düşündünüz mü? Cevap bildiklerinizden çok farklı.",
+    "en": "Have you ever wondered why pigeons constantly bob their heads when they walk? The answer is quite surprising.",
+    "es": "¿Alguna vez te has preguntado por qué las palomas mueven constantemente la cabeza al caminar?",
+    "ar": "هل تساؤلت من قبل لماذا يحرك الحمام رأسه باستمرار أثناء المشي؟"
   },
   "story_question": {
-    "tr": "Çikolatanın eridiğinde farklı tat vermesinin asıl sebebi nedir?",
-    "en": "What is the main reason melted chocolate tastes different?",
-    "es": "¿Cuál es la razón principal por la que el chocolate derretido sabe diferente?",
-    "ar": "ما هو السبب الرئيسي لتغير طعم الشوكولاتة الذائبة؟"
+    "tr": "Sizce kuşlar kafalarını bu şekilde sallayarak neyi başarır?",
+    "en": "What do you think birds achieve by bobbing their heads this way?",
+    "es": "¿Qué crees que logran las aves al mover la cabeza de esta manera?",
+    "ar": "برأيك، ماذا تحقق الطيور من خلال تحريك رؤوسها بهذه الطريقة؟"
   },
   "story_options": [
-    "Sıcaklık değişimi",
-    "Yağ dokusu temas süresi",
-    "Şekerin buharlaşması"
+    "Görüntüyü sabitlemek",
+    "Dengeyi sağlamak",
+    "Ritim tutmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#çikolata",
     "#bilim",
-    "#yemek",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#günlükbilgi"
+    "#doğa",
+    "#kuşlar",
+    "#biliyormusunuz",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "If this is your first time hearing this, don't forget to like!",
-    "es": "¡Si es la primera vez que escuchas esto, no olvides darle a Me Gusta!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فلا تنس الإعجاب!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "Food Chemistry Journal",
-    "url": "https://www.sciencedirect.com/journal/food-chemistry"
+    "name": "Audubon Society",
+    "url": "https://www.audubon.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çikolata Neden Eridiğinde Bu Kadar Farklı Tadar?",
+  "_topic": "Kuşların Başını Hızla Sallamasının Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-04T15:52:15.159745+00:00",
+  "generated_at": "2026-10-04T17:16:29.166388+00:00",
   "topic_guard_days": 180
 }

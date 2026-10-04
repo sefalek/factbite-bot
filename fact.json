@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uyurken Gözlerimiz Neden Devamlı Oynar?",
-    "body": "Gecenin bir yarısı rüya görürken göz bebeklerimiz kapalı göz kapaklarımızın altında hızla bir sağa bir sola hareket eder. Hızlı Göz Hareketi ya da kısaca REM uykusu dediğimiz bu evrede zihnimiz aslında uyanıkken olduğundan bile daha aktiftir. Beynimiz gördüğümüz rüyalardaki sahneleri ve hareketleri sanki gerçektir gibi takip eder. Yani rüyada koşan birini izliyorsanız, gözleriniz de tam olarak o anlarda dışarıdan görünmese bile koşan birini izler gibi hareket eder."
+    "headline": "Çikolata Neden Eridiğinde Bu Kadar Farklı Tadar?",
+    "body": "Aynı çikolatayı ağzınıza attığınızda aldığınız tat ile eridiğinde aldığınız tat neden farklıdır? Sadece sıcaklık değil, dilimizdeki reseptörlerin eriyen kakaonun yağ dokusuyla temas süresi değiştiği için beynimiz lezzeti tamamen farklı algılar."
   },
   "en": {
-    "headline": "Why Do Our Eyes Move Constantly While We Sleep?",
-    "body": "In the middle of the night while dreaming, our eyeballs move rapidly from side to side beneath closed eyelids. During this phase called REM sleep, our minds are actually more active than when we are awake. Our brains track the scenes and movements in our dreams as if they were real."
+    "headline": "Why Does Melted Chocolate Taste So Different?",
+    "body": "Why does the taste of chocolate change when it melts in your mouth? It is not just about temperature; as the texture shifts, the contact time with your tongue's receptors changes, altering how your brain perceives flavor."
   },
   "es": {
-    "headline": "¿Por qué se mueven nuestros ojos constantemente mientras dormimos?",
-    "body": "En medio de la noche mientras soñamos, nuestros globos oculares se mueven rápidamente de un lado a otro bajo los párpados cerrados. Durante esta fase llamada sueño REM, nuestra mente está de hecho más activa que cuando estamos despiertos."
+    "headline": "¿Por qué el chocolate derretido sabe diferente?",
+    "body": "¿Por qué cambia el sabor del chocolate cuando se derrite? No es solo la temperatura; al cambiar la textura, el tiempo de contacto con los receptores de tu lengua es distinto, lo que altera cómo tu cerebro percibe el sabor."
   },
   "ar": {
-    "headline": "لماذا تتحرك أعيننا باستمرار أثناء النوم؟",
-    "body": "في منتصف الليل أثناء الحلم، تتحرك مقل أعيننا بسرعة من جانب إلى آخر تحت الجفون المغلقة. خلال هذه المرحلة التي تسمى نوم حركة العين السريعة، يكون عقلنا أكثر نشاطاً في الواقع مما يكون عليه عندما نكون مستيقظين."
+    "headline": "لماذا يختلف طعم الشوكولاتة عندما تذوب؟",
+    "body": "لماذا يتغير طعم الشوكولاتة عندما تذوب في فمك؟ الأمر لا يتعلق فقط بدرجة الحرارة؛ فعندما يتغير القوام، يتغير وقت الاتصال بمستقبلات لسانك، مما يغير طريقة إدراك عقلك للنكهة."
   },
   "reel_hook": {
-    "tr": "Uykudayken gözlerinizin aslında tam olarak ne yaptığını biliyor musunuz?",
-    "en": "Do you know what your eyes are actually doing while you sleep?",
-    "es": "¿Sabes lo que tus ojos están haciendo realmente mientras duermes?",
-    "ar": "هل تعلم ماذا تفعل عيناك حقاً أثناء النوم؟"
+    "tr": "Aynı çikolata neden eridiğinde aniden daha tatlı gelir?",
+    "en": "Why does the exact same chocolate suddenly taste sweeter when it melts?",
+    "es": "¿Por qué exactamente el mismo chocolate de repente sabe más dulce cuando se derrite?",
+    "ar": "لماذا تصبح نفس قطعة الشوكولاتة أ حلوى فجأة عندما تذوب؟"
   },
   "story_question": {
-    "tr": "Hızlı göz hareketi yani REM uykusu gecede ortalama kaç kez tekrarlanır?",
-    "en": "How many times on average does REM sleep repeat per night?",
-    "es": "¿Cuántas veces en promedio se repite el sueño REM por noche?",
-    "ar": "كم مرة في المتوسط يتكرر نوم حركة العين السريعة في الليلة الواحدة؟"
+    "tr": "Çikolatanın eridiğinde farklı tat vermesinin asıl sebebi nedir?",
+    "en": "What is the main reason melted chocolate tastes different?",
+    "es": "¿Cuál es la razón principal por la que el chocolate derretido sabe diferente?",
+    "ar": "ما هو السبب الرئيسي لتغير طعم الشوكولاتة الذائبة؟"
   },
   "story_options": [
-    "1-2 kez",
-    "4-6 kez",
-    "10-12 kez"
+    "Sıcaklık değişimi",
+    "Yağ dokusu temas süresi",
+    "Şekerin buharlaşması"
   ],
   "hashtags": [
     "#FactBite",
+    "#çikolata",
     "#bilim",
-    "#uyku",
-    "#psikoloji",
-    "#rüya",
-    "#biyoloji"
+    "#yemek",
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#günlükbilgi"
   ],
   "cta": {
-    "tr": "Bu tarz ilginç bilgileri kaçırmamak için bizi takip et!",
-    "en": "Follow us not to miss interesting facts like this!",
-    "es": "¡Síguenos para no perderte datos interesantes como este!",
-    "ar": "تابعنا لكي لا تفوتك الحقائق المثير للاهتمام مثله!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like!",
+    "es": "¡Si es la primera vez que escuchas esto, no olvides darle a Me Gusta!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فلا تنس الإعجاب!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "Sleep Foundation",
-    "url": "https://www.sleepfoundation.org/stages-of-sleep/rem-sleep"
+    "name": "Food Chemistry Journal",
+    "url": "https://www.sciencedirect.com/journal/food-chemistry"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uyurken Gözlerimiz Neden Devamlı Oynar?",
+  "_topic": "Çikolata Neden Eridiğinde Bu Kadar Farklı Tadar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-04T14:05:32.273003+00:00",
+  "generated_at": "2026-10-04T15:52:15.159745+00:00",
   "topic_guard_days": 180
 }

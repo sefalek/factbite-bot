@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerimiz Dünyayı Aslında Ters Görüyor",
-    "body": "Gözümüze düşen görüntü aslında baş aşağıdır. Beynimiz bu görüntüyü anlık olarak düzeltir. Hatta bir süreliğine ters gösteren özel gözlükler takarsanız, beyniniz dünyayı birkaç gün içinde tekrar düzeltmeyi başarır."
+    "headline": "Parmak İzi Sahibi Tek Canlılar Biz Değiliz",
+    "body": "Sadece insanların parmak izine sahip olduğunu düşünüyorsanız, yanılıyorsunuz. Koalalar da bizimkinden neredeyse ayırt edilemeyen benzersiz parmak izlerine sahip. O kadar ki, olay yeri inceleme polisleri koala izlerini insan izleriyle karıştırabiliyor."
   },
   "en": {
-    "headline": "Our Eyes Actually See the World Upside Down",
-    "body": "The image hitting our retina is actually upside down. Our brain flips it right-side up instantly. If you wear special goggles that invert vision, your brain adapts and flips the world back within days."
+    "headline": "We Aren't the Only Ones with Fingerprints",
+    "body": "If you think only humans have fingerprints, you're wrong. Koalas also have unique fingerprints that are almost indistinguishable from ours. In fact, crime scene investigators can sometimes mistake koala prints for human ones."
   },
   "es": {
-    "headline": "Nuestros ojos ven el mundo al revés",
-    "body": "La imagen que llega a nuestra retina está al revés. El cerebro la endereza al instante. Si usas gafas especiales que invierten la visión, tu cerebro se adapta y vuelve a enderezar el mundo en pocos días."
+    "headline": "No somos los únicos con huellas dactilares",
+    "body": "Si crees que solo los humanos tienen huellas dactilares, te equivocas. Los koalas también tienen huellas únicas casi idénticas a las nuestras. Tanto es así que los investigadores forenses pueden confundirlas con huellas humanas."
   },
   "ar": {
-    "headline": "أعيننا ترى العالم مقلوباً حقاً",
-    "body": "الصورة التي تصل إلى شبكية العين تكون مقلوباً بالفعل. يقوم دماغنا بتعديلها فوراً. إذا ارتديت نظارات خاصة تعكس الرؤية، فإن دماغك يتكيف ويعيد تعديل العالم في غضون أيام."
+    "headline": "لسنا الوحيدين الذين نملك بصمات أصابع",
+    "body": "إذا كنت تعتقد أن البشر هم الوحيدون الذين يملكون بصمات أصابع، فأنت مخطئ. فالكوالا لديهم أيضاً بصمات فريدة لا يمكن praticamente تمييزها عن بصماتنا. لدرجة أن المحققين قد يخلطون بين بصمات الكوالا وبصمات البشر."
   },
   "reel_hook": {
-    "tr": "Şu an dünyayı kafanızın üstünde görüyorsunuz, haberiniz yok.",
-    "en": "Right now, you are seeing the world upside down without realizing it.",
-    "es": "Ahora mismo estás viendo el mundo al revés sin darte cuenta.",
-    "ar": "أنت ترى العالم مقلوباً الآن دون أن تدري."
+    "tr": "Polislerin bile insanla karıştırabileceği o parmak izi kime ait?",
+    "en": "Whose fingerprints can even fool the police into thinking they are human?",
+    "es": "¿De quién son estas huellas que pueden confundir a la policía?",
+    "ar": "لمن تعود بصمات الأصابع التي يمكن أن تخدع الشرطة وتظنها بشرية؟"
   },
   "story_question": {
-    "tr": "Beynimiz ters dönen dünyayı kaç günde düzeltir?",
-    "en": "How many days does it take for the brain to fix an inverted world?",
-    "es": "¿Cuántos días tarda el cerebro en enderezar un mundo invertido?",
-    "ar": "كم يوماً يستغرق الدماغ لتعديل عالم معكوس؟"
+    "tr": "Hangi hayvanın parmak izi insanunkine o kadar benzer ki polisleri yanıltabilir?",
+    "en": "Which animal has fingerprints so similar to humans they can confuse police?",
+    "es": "¿Qué animal tiene huellas tan similares a las humanas que pueden confundir a la policía?",
+    "ar": "أي حيوان لديه بصمات تشبه البشر لدرجة أنها قد تخدع الشرطة؟"
   },
   "story_options": [
-    "1-3 gün",
-    "1 hafta",
-    "1 ay"
+    "Koala",
+    "Şempanze",
+    "Rakun"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#beyin",
-    "#göz",
+    "#koala",
     "#ilginçbilgiler",
-    "#psikoloji",
-    "#keşfet"
+    "#doğa",
+    "#bilim",
+    "#hayvanlar",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunu kiminle paylaşmak isterdin? Yoruma yaz!",
+    "en": "Who would you share this with? Let us know in the comments!",
+    "es": "¿Con quién compartirías esto? ¡Déjalo en los comentarios!",
+    "ar": "مع من voudrais-tu مشاركة هذا؟ اخبرنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Neuroscience for Kids",
-    "url": "https://faculty.washington.edu/chudler/chvision.html"
+    "name": "Australian Koala Foundation",
+    "url": "https://www.savethekoala.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerimiz Dünyayı Aslında Ters Görüyor",
+  "_topic": "Parmak İzi Sahibi Tek Canlılar Biz Değiliz",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-04T22:12:30.723371+00:00",
+  "generated_at": "2026-10-04T23:35:36.391762+00:00",
   "topic_guard_days": 180
 }

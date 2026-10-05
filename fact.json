@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sıcak Çikolatanın Şaşırtıcı Sırrı",
-    "body": "Sıcak çikolatayı ilk kez denerken kulağa imkansız gelen bir detay vardı: Antik Mayalar, çikolatayı asla sıcak değil, buz gibi ve hatta üzerine acı biber ekleyerek köpürtüp içerlerdi."
+    "headline": "Bulutlar Aslında Ne Kadar Ağır?",
+    "body": "Gökyüzünde pamuk gibi süzülen o masum bulutların aslında ne kadar ağır olduğunu biliyor musunuz? Ortalama bir cumulus bulutu, yani şu klasik beyaz bulutlar, yaklaşık 1.100 ton ağırlığındadır. Bu da yaklaşık 100 filin havada uçması demektir! Peki bu devasa ağırlık kafamıza düşmeden orada nasıl duruyor? Sırrı, su damlacıklarının o kadar küçük ve yaygın olmasında saklı ki, yükselen sıcak hava onları kolayca taşıyabiliyor."
   },
   "en": {
-    "headline": "The Surprising Secret of Hot Chocolate",
-    "body": "When trying hot chocolate for the first time, there was an impossible-sounding detail: Ancient Mayans drank chocolate ice-cold and frothy, spiced with chili peppers instead of warm."
+    "headline": "How Heavy Are Clouds Really?",
+    "body": "Do you know how heavy those fluffy, innocent clouds floating in the sky actually are? An average cumulus cloud weighs about 1.1 million pounds—that is roughly equivalent to 100 elephants floating in the air! So how does this massive weight stay up there without falling on our heads? The secret lies in how tiny and dispersed the water droplets are, allowing rising warm air to easily keep them afloat."
   },
   "es": {
-    "headline": "El sorprendente secreto del chocolate caliente",
-    "body": "Al probar el chocolate caliente por primera vez, había un detalle que sonaba imposible: los antiguos mayas bebían el chocolate helado y espumoso, condimentado con chiles en lugar de caliente."
+    "headline": "¿Cuánto pesan realmente las nubes?",
+    "body": "¿Sabes cuánto pesan realmente esas nubes esponjosas e inocentes que flotan en el cielo? Una nube cúmulo promedio pesa alrededor de 1.100 toneladas, ¡lo que equivale aproximadamente a 100 elefantes flotando en el aire! Entonces, ¿cómo se mantiene ese peso masivo allí arriba sin caernos en la cabeza? El secreto radica en lo pequeñas y dispersas que son las gotitas de agua, lo que permite que el aire cálido ascendente las mantenga fácilmente a flote."
   },
   "ar": {
-    "headline": "السر المدهش للشوكولاتة الساخنة",
-    "body": "عند تجربة الشوكولاتة الساخنة لأول مرة، كان هناك تفصيل يبدو مستحيلاً: كان Maya القدماء يشربون الشوكولاتة باردة ورغوية، ومتبلة بالفلفل الحار بدلاً من كونها دافئة."
+    "headline": "ما هو وزن الغيوم حقاً؟",
+    "body": "هل تعلم كم يبلغ وزن تلك الغيوم البريئة والمنتفخة العائمة في السماء حقاً؟ تزن سحابة الركام المتوسطة حوالي 1100 طن، وهو ما يعادل تقريباً 100 فيل تحلق في الهواء! إذن، كيف يبقى هذا الوزن الهائل معلقاً هناك دون أن يسقط على رؤوسنا؟ السر يكمن في مدى صغر حجم قطرات الماء وتشتتها، مما يسمح للهواء الدافئ الصاعد بالحفاظ عليها طافية بسهولة."
   },
   "reel_hook": {
-    "tr": "Çikolatayı binlerce yıldır yanlış içiyor olabilirsiniz.",
-    "en": "You might have been drinking chocolate wrong for thousands of years.",
-    "es": "Es posible que hayas estado tomando mal el chocolate durante miles de años.",
-    "ar": "قد تكون قد شربت الشوكولاتة بشكل خاطئ لآلاف السنين."
+    "tr": "Gökyüzünde süzülen o pamuk gibi bulutların tam 100 fil ağırlığında olduğunu biliyor musunuz?",
+    "en": "Did you know that those fluffy clouds floating in the sky weigh as much as 100 elephants?",
+    "es": "¿Sabías que esas nubes esponjosas que flotan en el cielo pesan tanto como 100 elefantes?",
+    "ar": "هل تعلم أن تلك الغيوم المنتفخة العائمة في السماء تزن نفس وزن 100 فيل؟"
   },
   "story_question": {
-    "tr": "Antik Mayalar çikolatayı nasıl tüketirdi?",
-    "en": "How did Ancient Mayans consume chocolate?",
-    "es": "¿Cómo consumían el chocolate los antiguos mayas?",
-    "ar": "كيف كان Maya القدماء يتناولون الشوكولاتة؟"
+    "tr": "Ortalama bir bulutun ağırlığı yaklaşık kaç file eşittir?",
+    "en": "The weight of an average cloud is equivalent to about how many elephants?",
+    "es": "¿A cuántos elefantes equivale aproximadamente el peso de una nube promedio?",
+    "ar": "ما هو عدد الفيلة التي يعادل وزنها تقريباً وزن السحابة المتوسطة؟"
   },
   "story_options": [
-    "Buz gibi ve acı biberli",
-    "Sıcak ve ballı",
-    "Sadece törenlerde çiğ"
+    "10 fil",
+    "100 fil",
+    "1000 fil"
   ],
   "hashtags": [
     "#FactBite",
-    "#çikolata",
-    "#tarih",
-    "#bilgi",
+    "#bilim",
+    "#doğa",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#gıda"
+    "#hava",
+    "#uzay",
+    "#merak"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla tarihi gerçeği kaçırmamak için takip etmeyi unutma!",
-    "en": "Don't forget to follow to not miss more historical facts like this!",
-    "es": "¡No olvides seguirnos para no perder más datos históricos como este!",
-    "ar": "لا تنس المتابعة لكي لا تفوت المزيد من الحقائق التاريخية مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "Smithsonian Magazine",
-    "url": "https://www.smithsonianmag.com/history/archaeology-chocolate-180954243/"
+    "name": "USGS (U.S. Geological Survey)",
+    "url": "https://www.usgs.gov/special-topics/water-science-school/science/how-much-does-cloud-weigh"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Sıcak Çikolatanın Şaşırtıcı Sırrı",
+  "_topic": "Bulutlar Aslında Ne Kadar Ağır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-05T21:51:54.632236+00:00",
+  "generated_at": "2026-10-05T23:07:35.325830+00:00",
   "topic_guard_days": 180
 }

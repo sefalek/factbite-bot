@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kendi Sesimiz Kulaklarımıza Neden Farklı Gelir?",
-    "body": "Konuştuğumuzda sesimizin bir kısmını kafatasımızdaki kemikler doğrudan iç kulaktımıza taşır. Ses kemiklerden geçerken daha kalınlaşır ve frekansı düşer. Bu yüzden kendi sesinizi ilk duyduğunuzda size garip, hatta yabancı gelir."
+    "headline": "Bulutların Gerçek Ağırlığı",
+    "body": "Gökyüzünde pamuk gibi süzülen o sevimli bulutlar var ya, aslında hiç de hafif değiller. Ortalama büyüklükteki küme bulutu yaklaşık 500 bin kilogram, yani tam 100 fil ağırlığında! Su damlacıkları havada nasıl asılı kalıyor diyorsanız, sırrın cevabı yükselen sıcak havada saklı."
   },
   "en": {
-    "headline": "Why Does Your Own Voice Sound Different to You?",
-    "body": "When you speak, some of your voice is carried directly to your inner ear by the bones in your skull. As sound travels through bone, it deepens and drops in frequency. That is why hearing a recording of your own voice always sounds strange."
+    "headline": "The Real Weight of Clouds",
+    "body": "Those fluffy clouds floating in the sky aren't light at all. An average cumulus cloud weighs about 500,000 kilograms, which is equal to 100 elephants! Wondering how water droplets stay afloat? The secret lies in rising warm air."
   },
   "es": {
-    "headline": "¿Por qué tu propia voz te suena diferente?",
-    "body": "Cuando hablas, parte de tu voz es transportada directamente a tu oído interno por los huesos de tu cráneo. A medida que el sonido viaja a través del hueso, se vuelve más grave. Por eso escuchar una grabación de tu voz siempre suena extraño."
+    "headline": "El peso real de las nubes",
+    "body": "Esas nubes esponjosas que flotan en el cielo no son nada ligeras. ¡Una nube cúmulo promedio pesa alrededor de 500,000 kilogramos, es decir, 100 elefantes! Si te preguntas cómo flotan las gotas de agua, el secreto está en el aire cálido ascendente."
   },
   "ar": {
-    "headline": "لماذا يبدو صوتك مختلفاً عندما تستمع إليه مسجلاً؟",
-    "body": "عندما تتحدث، ينتقل جزء من صوتك مباشرة إلى أذنك الداخلية عبر عظام جمجمتك. وعندما يمر الصوت عبر العظم، يصبح أعمق وأكثر انخفاضاً في التردد. ولهذا السبب يبدو سماع تسجيل صوتك غريباً دائماً."
+    "headline": "الوزن الحقيقي للغيوم",
+    "body": "تلك الغيوم الرقيقة العائمة في السماء ليست خفيفة على الإطلاق. تزن السحابة الركامية المتوسطة حوالي 500 ألف كيلوغرام، أي ما يعادل 100 فيل! هل تتساءل كيف تبقى قطرات الماء معلقة؟ السر يكمن في الهواء الدافئ الصاعد."
   },
   "reel_hook": {
-    "tr": "Kendi sesiniz kayıtlarda neden size ait değilmiş gibi gelir?",
-    "en": "Why does your own voice on a recording sound like a stranger?",
-    "es": "¿Por qué tu propia voz en una grabación suena como la de un extraño?",
-    "ar": "لماذا يبدو صوتك في التسجيل وكأنه لشخص غريب؟"
+    "tr": "Başınızın üstünde 100 fil olduğunu biliyor muydunuz?",
+    "en": "Did you know there are 100 elephants floating right above your head?",
+    "es": "¿Sabías que hay 100 elefantes flotando justo sobre tu cabeza?",
+    "ar": "هل تعلم أن هناك 100 فيل يطفو فوق رأسك مباشرة؟"
   },
   "story_question": {
-    "tr": "Kafatasımız sesleri dışarıdan gelen seslere göre nasıl iletir?",
-    "en": "How does our skull transmit sounds compared to external noises?",
-    "es": "¿Cómo transmite nuestro cráneo los sonidos en comparación con los ruidos externos?",
-    "ar": "كيف تنقل جمجمتنا الأصوات مقارنة بالضوضاء الخارجية؟"
+    "tr": "Ortalama bir bulutun ağırlığı kaç fil kadardır?",
+    "en": "How many elephants does an average cloud weigh?",
+    "es": "¿Cuántos elefantes pesa una nube promedio?",
+    "ar": "كم عدد الأفيال التي تزنها السحابة المتوسطة؟"
   },
   "story_options": [
-    "Daha kalın ve pes",
-    "Daha ince ve tiz",
-    "Tamamen aynı"
+    "10 fil",
+    "100 fil",
+    "1000 fil"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
+    "#doğa",
+    "#bulutlar",
     "#ilginçbilgiler",
-    "#ses",
-    "#insan",
+    "#gökyüzü",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu biliyor muydun? Yorumlarda buluşalım!",
-    "en": "Did you know this? Let us know in the comments!",
-    "es": "¿Sabías esto? ¡Cuéntanos en los comentarios!",
-    "ar": "هل كنت تعرف هذا؟ أخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Scientific American",
-    "url": "https://www.scientificamerican.com/article/why-does-my-voice-sound-different/"
+    "name": "USGS (U.S. Geological Survey)",
+    "url": "https://www.usgs.gov/special-topics/water-science-school/science/how-much-does-a-cloud-weigh"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kendi Sesimiz Kulaklarımıza Neden Farklı Gelir?",
+  "_topic": "Bulutların Gerçek Ağırlığı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-05T14:30:18.247497+00:00",
+  "generated_at": "2026-10-05T21:04:37.592950+00:00",
   "topic_guard_days": 180
 }

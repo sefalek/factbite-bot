@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzi Sahibi Tek Canlılar Biz Değiliz",
-    "body": "Sadece insanların parmak izine sahip olduğunu düşünüyorsanız, yanılıyorsunuz. Koalalar da bizimkinden neredeyse ayırt edilemeyen benzersiz parmak izlerine sahip. O kadar ki, olay yeri inceleme polisleri koala izlerini insan izleriyle karıştırabiliyor."
+    "headline": "İnsan Kemiği Betondan Daha mı Güçlü?",
+    "body": "Birçoğumuz çeliğin veya betonun en dayanıklı malzemeler olduğunu düşünürüz. Ancak insan vücudundaki uyluk kemiği, ağırlık oranı hesaba katıldığında aynı kalınlıktaki bir blok betondan çok daha fazla basınca dayanabilir. Hatta bu şaşırtıcı yapı, bir filin ağırlığını bile taşıyabilecek kapasitededir."
   },
   "en": {
-    "headline": "We Aren't the Only Ones with Fingerprints",
-    "body": "If you think only humans have fingerprints, you're wrong. Koalas also have unique fingerprints that are almost indistinguishable from ours. In fact, crime scene investigators can sometimes mistake koala prints for human ones."
+    "headline": "Is Human Bone Stronger Than Concrete?",
+    "body": "Many of us think steel or concrete are the toughest materials around. However, when measured by weight ratio, the human femur can withstand much more pressure than a block of concrete of the same thickness. This surprising structure is even capable of supporting an elephant's weight."
   },
   "es": {
-    "headline": "No somos los únicos con huellas dactilares",
-    "body": "Si crees que solo los humanos tienen huellas dactilares, te equivocas. Los koalas también tienen huellas únicas casi idénticas a las nuestras. Tanto es así que los investigadores forenses pueden confundirlas con huellas humanas."
+    "headline": "¿Es el hueso humano más fuerte que el hormigón?",
+    "body": "Muchos pensamos que el acero o el hormigón son los materiales más resistentes. Sin embargo, al medirlo por proporción de peso, el fémur humano puede soportar mucha más presión que un bloque de hormigón del mismo grosor. Esta sorprendente estructura es capaz de soportar incluso el peso de un elefante."
   },
   "ar": {
-    "headline": "لسنا الوحيدين الذين نملك بصمات أصابع",
-    "body": "إذا كنت تعتقد أن البشر هم الوحيدون الذين يملكون بصمات أصابع، فأنت مخطئ. فالكوالا لديهم أيضاً بصمات فريدة لا يمكن praticamente تمييزها عن بصماتنا. لدرجة أن المحققين قد يخلطون بين بصمات الكوالا وبصمات البشر."
+    "headline": "هل العظم البشري أقوى من الخرسانة؟",
+    "body": "يعتقد الكثير منا أن الفولاذ أو الخرسانة هما أقوى المواد الموجودة. ومع ذلك، عند القياس بناءً على نسبة الوزن، يمكن لعظم الفخذ البشري أن يتحمل ضغطًا أكبر بكثير من كتلة خرسانية بنفس السمك. هذا الهيكل المدهش قادر حتى على تحمل وزن فيل."
   },
   "reel_hook": {
-    "tr": "Polislerin bile insanla karıştırabileceği o parmak izi kime ait?",
-    "en": "Whose fingerprints can even fool the police into thinking they are human?",
-    "es": "¿De quién son estas huellas que pueden confundir a la policía?",
-    "ar": "لمن تعود بصمات الأصابع التي يمكن أن تخدع الشرطة وتظنها بشرية؟"
+    "tr": "Vücudunuzdaki bu tek kemik, üzerine basan bir arabanın ağırlığını bile ezilmeden taşıyabilir.",
+    "en": "This single bone in your body can support the weight of a car driving over it without crushing.",
+    "es": "Este solo hueso de tu cuerpo puede soportar el peso de un coche sin romperse.",
+    "ar": "هذا العظم الوحيد في جسمك يمكنه تحمل وزن سيارة تمر فوقه دون أن يتحطم."
   },
   "story_question": {
-    "tr": "Hangi hayvanın parmak izi insanunkine o kadar benzer ki polisleri yanıltabilir?",
-    "en": "Which animal has fingerprints so similar to humans they can confuse police?",
-    "es": "¿Qué animal tiene huellas tan similares a las humanas que pueden confundir a la policía?",
-    "ar": "أي حيوان لديه بصمات تشبه البشر لدرجة أنها قد تخدع الشرطة؟"
+    "tr": "İnsan uyluk kemiği, sıkıştırma direncinde hangi yaygın yapı malzemesinden daha güçlüdür?",
+    "en": "In compressive strength, the human femur is stronger than which common building material?",
+    "es": "En resistencia a la compresión, ¿el fémur humano es más fuerte que qué material de construcción común?",
+    "ar": "في قوة الضغط، يعتبر عظم الفخذ البشري أقوى من أي مواد بناء شائعة؟"
   },
   "story_options": [
-    "Koala",
-    "Şempanze",
-    "Rakun"
+    "Beton",
+    "Ahşap",
+    "Alüminyum"
   ],
   "hashtags": [
     "#FactBite",
-    "#koala",
-    "#ilginçbilgiler",
-    "#doğa",
     "#bilim",
-    "#hayvanlar",
-    "#gerçekler"
+    "#insan",
+    "#biyoloji",
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#vücut"
   ],
   "cta": {
-    "tr": "Bunu kiminle paylaşmak isterdin? Yoruma yaz!",
-    "en": "Who would you share this with? Let us know in the comments!",
-    "es": "¿Con quién compartirías esto? ¡Déjalo en los comentarios!",
-    "ar": "مع من voudrais-tu مشاركة هذا؟ اخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip et!",
+    "en": "Follow so you don't miss more surprising facts like this!",
+    "es": "¡Síguete para no perderte más datos sorprendentes como este!",
+    "ar": "اتبعني لكي لا تفوتك المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Australian Koala Foundation",
-    "url": "https://www.savethekoala.com"
+    "name": "Biomechanics and Bone Strength Research",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4469142/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzi Sahibi Tek Canlılar Biz Değiliz",
+  "_topic": "İnsan Kemiği Betondan Daha mı Güçlü?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-04T23:35:36.391762+00:00",
+  "generated_at": "2026-10-05T12:15:47.250633+00:00",
   "topic_guard_days": 180
 }

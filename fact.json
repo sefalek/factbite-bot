@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmaklarınız Su İçinde Neden Buruşur?",
-    "body": "Havuzda ya da küvette uzun süre kaldığınızda parmaklarınızın buruştuğunu fark etmişsinizdir. Bunun derinizin suya doymasıyla bir ilgisi yok! Vücudunuz bunu tamamen bilerek yapıyor. Islak yüzeyleri daha iyi kavrayabilmeniz için sinir sisteminiz parmak uçlarınızdaki kan damarlarını daraltıyor. Yani bu buruşukluklar, doğanın size verdiği ıslak zeminler için özel birer lastik izi!"
+    "headline": "Hapşırdığınızda Gözleriniz Neden Otomatik Olarak Kapanır?",
+    "body": "Hapşırdığımız sırada gözlerimizin kapanması, beynimizin istemsiz bir koruma refleksidir. Hapşırık sırasında vücut, yabancı maddeleri hızla dışarı atmak için o kadar güçlü bir basınç üretir ki, eğer göz kapaklarımız kilitlenmeseydi göz kürelerimize binen bu ani basınç gözlerimizin zarar görmesine yol açabilirdi."
   },
   "en": {
-    "headline": "Why Do Your Fingers Wrinkle in Water?",
-    "body": "You've probably noticed your fingers wrinkling after a long soak in the bath or pool. This has nothing to do with your skin absorbing water! Your body actually does this on purpose. To help you grip wet surfaces better, your nervous system constricts the blood vessels in your fingertips. These wrinkles are essentially nature's built-in treads for wet conditions!"
+    "headline": "Why Do Your Eyes Automatically Close When You Sneezed?",
+    "body": "Closing our eyes when we sneeze is an involuntary defense reflex of the brain. During a sneeze, the body generates such a strong pressure to expel foreign particles that if our eyelids didn't lock, this sudden pressure could potentially harm our eyeballs."
   },
   "es": {
-    "headline": "¿Por qué se arrugan los dedos en el agua?",
-    "body": "Seguro has notado que tus dedos se arrugan tras un largo baño. ¡No tiene nada que ver con que la piel absorba agua! Tu cuerpo lo hace a propósito. Para ayudarte a agarrar mejor las superficies mojadas, tu sistema nervioso contrae los vasos sanguíneos. ¡Estas arrugas son básicamente el relieve natural para superficies húmedas!"
+    "headline": "¿Por qué se cierran los ojos automáticamente al estornudar?",
+    "body": "Cerrar los ojos al estornudar es un reflejo de protección involuntario del cerebro. Durante un estornudo, el cuerpo genera tanta presión para expulsar partículas que, si los párpados no se cerraran, esa presión repentina podría dañar los globos oculares."
   },
   "ar": {
-    "headline": "لماذا تجعد أصابعك في الماء؟",
-    "body": "لقد لاحظت بالتأكيد أن أصابعك تتجعد بعد قضاء وقت طويل في الماء. هذا ليس له علاقة بامتصاص الجلد للماء! جسمك يفعل ذلك عن قصد تماماً. لمساعدتك على الإمساك بالأسطح المبللة بشكل أفضل، يقوم جهازك العصبي بتضييق الأوعية الدموية في أطراف أصابعك. هذه التجاعيد هي باختصار إطارات طبيعية مخصصة للأسطح الرطبة!"
+    "headline": "لماذا تغمض عينيك تلقائياً عند العطس؟",
+    "body": "إغلاق أعيننا عند العطس هو رد فعل دفاعي لا إرادي من الدماغ. أثناء العطس، يولد الجسم ضغطاً هائلاً لطرد الاجسام الغريبة، ولو لم تغلق جفاننا، لكان هذا الضغط المفاجئ قد يضر مقل العيون."
   },
   "reel_hook": {
-    "tr": "Havuzdan çıktığınızda parmaklarınız neden buruşur? Cevap sandığınızdan çok daha havalı.",
-    "en": "Why do your fingers wrinkle when you stay in the water? The answer is much cooler than you think.",
-    "es": "¿Por qué se arrugan tus dedos en el agua? La respuesta es mucho más genial de lo que crees.",
-    "ar": "لماذا تجعد أصابعك في الماء؟ الإجابة أروع بكثير مما تتخيل."
+    "tr": "Hapşırdığınızda gözlerinizin neden istemsizce kapandığını biliyor musunuz? Cevap vücudunuzun gizli savunma mekanizmasında saklı.",
+    "en": "Do you know why your eyes involuntarily close when you sneeze? The answer lies in your body's hidden defense mechanism.",
+    "es": "¿Sabes por qué tus ojos se cierran involuntariamente al estornudar? La respuesta está en el mecanismo de defensa oculto de tu cuerpo.",
+    "ar": "هل تعلم لماذا تغمض عينيك لا إرادياً عند العطس؟ الإجابة تكمن في آلية الدفاع الخفية لجسمك."
   },
   "story_question": {
-    "tr": "Parmakların suda buruşmasının asıl sebebi nedir?",
-    "en": "What is the real reason fingers wrinkle in water?",
-    "es": "¿Cuál es la verdadera razón por la que los dedos se arrugan en el agua?",
-    "ar": "ما هو السبب الحقيقي لتجعد الأصابع في الماء؟"
+    "tr": "Hapşırdığınızda gözlerinizi açık tutmaya çalışırsanız ne olur?",
+    "en": "What happens if you try to keep your eyes open while sneezing?",
+    "es": "¿Qué pasa si intentas mantener los ojos abiertos al estornudar?",
+    "ar": "ماذا يحدث إذا حاولت إبقاء عينيك مفتوحتين أثناء العطس؟"
   },
   "story_options": [
-    "Deri su emer ve şişer",
-    "Sinir sistemi kavramayı kolaylaştırır",
-    "Hücreler ölür ve büzüşür"
+    "Gözleriniz yerinden fırlar",
+    "Basınçtan dolayı zarar görebilir",
+    "Hiçbir şey olmaz, tamamen bir mit"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilahiyat",
-    "#biliyormuydunuz",
     "#bilim",
     "#ilginçbilgiler",
-    "#anatomi"
+    "#vücudumuz",
+    "#sağlık",
+    "#keşfet",
+    "#faydalibilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyuyorsan beğenmeyi unutma!",
-    "en": "If this is your first time hearing this, don't forget to like!",
-    "es": "¡Si es la primera vez que escuchas esto, no olvides dar me gusta!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، فلا تنس الإعجاب!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Institutes of Health (NIH)",
-    "url": "https://www.nih.gov"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries/item/why-do-our-eyes-close-when-we-sneeze/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmaklarınız Su İçinde Neden Buruşur?",
+  "_topic": "Hapşırdığınızda Gözleriniz Neden Otomatik Olarak Kapanır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-06T17:18:15.717754+00:00",
+  "generated_at": "2026-10-06T18:46:02.617056+00:00",
   "topic_guard_days": 180
 }

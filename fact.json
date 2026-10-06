@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Saç Teli Ne Kadar Güçlü?",
-    "body": "Tek bir insan saç teli, görünüşünün aksine oldukça dayanıklıdır. Sağlıklı tek bir tel, yaklaşık 100 gramlık bir ağırlığı taşıyabilir. Başımızdaki tüm saçların aynı anda taşıyabileceği ağırlık ise ortalama iki filin ağırlığına eşittir."
+    "headline": "İnsan Dişi Çelikten Daha Mı Sağlam?",
+    "body": "Vücudumuzun en sert parçası dişlerimizdir ve mine tabakası, insan kemiklerinden bile çok daha dayanıklıdır. Ancak bu inanılmaz güç, onu asit saldırılarına karşı tamamen koruyamaz."
   },
   "en": {
-    "headline": "How Strong Is a Human Hair?",
-    "body": "Despite its delicate appearance, a single human hair is surprisingly strong. A single healthy strand can support about 100 grams of weight. All the hair on a human head combined could theoretically support the weight of two elephants."
+    "headline": "Are Human Teeth Stronger Than Steel?",
+    "body": "The hardest part of our body is our teeth, and the enamel layer is much tougher than human bones. However, this incredible strength cannot completely protect it from acid attacks."
   },
   "es": {
-    "headline": "¿Qué tan fuerte es un cabello humano?",
-    "body": "A pesar de su apariencia delicada, un solo cabello humano es sorprendentemente fuerte. Un solo mechón saludable puede soportar unos 100 gramos de peso. Todo el cabello de una cabeza humana combinada podría soportar el peso de dos elefantes."
+    "headline": "¿Son los dientes humanos más fuertes que el acero?",
+    "body": "La parte más dura de nuestro cuerpo son los dientes, y la capa de esmalte es mucho más resistente que los huesos humanos. Sin embargo, esta increíble fuerza no puede protegerla por completo de los ataques ácidos."
   },
   "ar": {
-    "headline": "ما مدى قوة شعرة الإنسان؟",
-    "body": "على الرغم من مظهرها الرقيق، إلا أن شعرة الإنسان الواحدة قوية بشكل مدهش. يمكن لشعرة واحدة صحية أن تحمل حوالي 100 جرام من الوزن. كل الشعر الموجود على رأس الإنسان مجتمعاً يمكنه دعم وزن فيلين تقريباً."
+    "headline": "هل الأسنان البشرية أقوى من الصلب؟",
+    "body": "أصلب جزء في أجسامنا هو أسناننا، وطبقة المينا أقوى بكثير من العظام البشرية. ومع ذلك، فإن هذه القوة الهائلة لا تستطيع حمايتها تماماً من الهجمات الحمضية."
   },
   "reel_hook": {
-    "tr": "Başınızdaki saçların toplamda kaç fili taşıyabileceğini biliyor musunuz?",
-    "en": "Do you know how many elephants all the hair on your head could lift?",
-    "es": "¿Sabes cuántos elefantes podría levantar todo el cabello de tu cabeza?",
-    "ar": "هل تعلم كم عدد الأفيال التي يمكن أن يرفعها كل شعر رأسك؟"
+    "tr": "Vücudunuzdaki en sert şeyin ne olduğunu biliyor musunuz?",
+    "en": "Do you know what the hardest thing in your body is?",
+    "es": "¿Sabes qué es lo más duro de tu cuerpo?",
+    "ar": "هل تعلم ما هو أصلب شيء في جسمك؟"
   },
   "story_question": {
-    "tr": "Tek bir sağlıklı insan saç teli ortalama kaç gram ağırlık taşıyabilir?",
-    "en": "How much weight can a single healthy human hair strand support on average?",
-    "es": "¿Cuánto peso en promedio puede soportar un solo mechón de cabello humano saludable?",
-    "ar": "ما هو متوسط الوزن الذي يمكن أن تحمله شعرة بشرية صحية واحدة؟"
+    "tr": "İnsan diş minesinin sertliği hangi doğal maddeyle karşılaştırılabilir?",
+    "en": "What natural substance can human tooth enamel's hardness be compared to?",
+    "es": "¿Con qué sustancia natural se puede comparar la dureza del esmalte dental humano?",
+    "ar": "ما هي المادة الطبيعية التي يمكن مقارنة صلابة مينا الأسنان البشرية بها؟"
   },
   "story_options": [
-    "10 gram",
-    "100 gram",
-    "1 kilo"
+    "Kuvars",
+    "Demir",
+    "Elmas"
   ],
   "hashtags": [
     "#FactBite",
+    "#bilgi",
+    "#insan",
+    "#sağlık",
     "#bilim",
-    "#ilginçbilgiler",
-    "#vücudumuz",
     "#keşfet",
-    "#faydalıbilgiler",
-    "#şaşırtıcı"
+    "#vücut"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos increíbles como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Library of Congress",
-    "url": "https://www.loc.gov/everyday-mysteries/item/how-much-weight-can-human-hair-support/"
+    "name": "American Dental Association",
+    "url": "https://www.ada.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Saç Teli Ne Kadar Güçlü?",
+  "_topic": "İnsan Dişi Çelikten Daha Mı Sağlam?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-06T20:01:09.755666+00:00",
+  "generated_at": "2026-10-06T21:35:16.948072+00:00",
   "topic_guard_days": 180
 }

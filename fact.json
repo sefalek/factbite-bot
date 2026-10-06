@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Dişi Çelikten Daha Mı Sağlam?",
-    "body": "Vücudumuzun en sert parçası dişlerimizdir ve mine tabakası, insan kemiklerinden bile çok daha dayanıklıdır. Ancak bu inanılmaz güç, onu asit saldırılarına karşı tamamen koruyamaz."
+    "headline": "Gözlerimiz Dünyayı Aslında Düz Değil, Beynimiz Sayesinde Görüyor",
+    "body": "Gözlerimizin retinasına düşen her görüntü aslında baş aşağıdır. Eğer beynimiz bu görüntüyü anında tersine çevirmeseydi, her şeyi kafamız üstü duruyormuş gibi görürdük."
   },
   "en": {
-    "headline": "Are Human Teeth Stronger Than Steel?",
-    "body": "The hardest part of our body is our teeth, and the enamel layer is much tougher than human bones. However, this incredible strength cannot completely protect it from acid attacks."
+    "headline": "Our Eyes Actually See the World Upside Down",
+    "body": "Every image hitting our retina is actually upside down. If our brain didn't instantly flip it right side up, we would see everything as if we were standing on our heads."
   },
   "es": {
-    "headline": "¿Son los dientes humanos más fuertes que el acero?",
-    "body": "La parte más dura de nuestro cuerpo son los dientes, y la capa de esmalte es mucho más resistente que los huesos humanos. Sin embargo, esta increíble fuerza no puede protegerla por completo de los ataques ácidos."
+    "headline": "Nuestros ojos ven el mundo al revés",
+    "body": "Cada imagen que llega a nuestra retina está al revés. Si nuestro cerebro no la volteara al instante, veríamos todo de cabeza."
   },
   "ar": {
-    "headline": "هل الأسنان البشرية أقوى من الصلب؟",
-    "body": "أصلب جزء في أجسامنا هو أسناننا، وطبقة المينا أقوى بكثير من العظام البشرية. ومع ذلك، فإن هذه القوة الهائلة لا تستطيع حمايتها تماماً من الهجمات الحمضية."
+    "headline": "عيوننا ترى العالم مقلوباً حقاً",
+    "body": "كل صورة تصل إلى شبكية العين تكون مقلوبة في الواقع. ولو لم يقم دماغنا بقلبها فوراً لرى الإنسان كل شيء رأساً على عقب."
   },
   "reel_hook": {
-    "tr": "Vücudunuzdaki en sert şeyin ne olduğunu biliyor musunuz?",
-    "en": "Do you know what the hardest thing in your body is?",
-    "es": "¿Sabes qué es lo más duro de tu cuerpo?",
-    "ar": "هل تعلم ما هو أصلب شيء في جسمك؟"
+    "tr": "Şu an etrafınızdaki her şeyi kafanız üstü görüyorsunuz desem?",
+    "en": "What if I told you that right now you're seeing everything upside down?",
+    "es": "¿Y si te digo que ahora mismo estás viendo todo al revés?",
+    "ar": "ماذا لو قلت لك إنك ترى كل شيء حولك الآن بالمكلوب؟"
   },
   "story_question": {
-    "tr": "İnsan diş minesinin sertliği hangi doğal maddeyle karşılaştırılabilir?",
-    "en": "What natural substance can human tooth enamel's hardness be compared to?",
-    "es": "¿Con qué sustancia natural se puede comparar la dureza del esmalte dental humano?",
-    "ar": "ما هي المادة الطبيعية التي يمكن مقارنة صلابة مينا الأسنان البشرية بها؟"
+    "tr": "Gözümüzdeki görüntü beyne gitmeden önce ne haldedir?",
+    "en": "What state is the image in our eye before reaching the brain?",
+    "es": "¿En qué estado está la imagen en nuestro ojo antes de llegar al cerebro?",
+    "ar": "ما هي حالة الصورة في العين قبل وصولها إلى الدماغ؟"
   },
   "story_options": [
-    "Kuvars",
-    "Demir",
-    "Elmas"
+    "Ters duruyor",
+    "Bulanık",
+    "Siyah beyaz"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#insan",
-    "#sağlık",
     "#bilim",
+    "#göz",
+    "#beyin",
+    "#ilginçbilgiler",
     "#keşfet",
-    "#vücut"
+    "#vücudumuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos increíbles como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu ilk kez duyuyorsan beğen ve takip et!",
+    "en": "Like and follow if this is your first time hearing this!",
+    "es": "¡Dale a me gusta y síguenos si es la primera vez que escuchas esto!",
+    "ar": "اضغط إعجاب وتابعنا إن كانت هذه هي المرة الأولى التي تسمع فيها هذا!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "American Dental Association",
-    "url": "https://www.ada.org"
+    "name": "Neuroscience for Kids",
+    "url": "https://faculty.washington.edu/chudler/retina.html"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Dişi Çelikten Daha Mı Sağlam?",
+  "_topic": "Gözlerimiz Dünyayı Aslında Düz Değil, Beynimiz Sayesinde Görüyor",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-06T21:35:16.948072+00:00",
+  "generated_at": "2026-10-06T22:54:02.995432+00:00",
   "topic_guard_days": 180
 }

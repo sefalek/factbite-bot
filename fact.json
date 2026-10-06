@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Zihnindeki Gizli Pusula",
-    "body": "Göçmen kuşların binlerce kilometre yol kat ederken hiç kaybolmamasının sırrı gözlerinde saklı. Retinalarındaki özel bir protein, Dünya'nın manyetik alanını adeta mavi renkli bir ışık haritası olarak görmelerini sağlıyor. Yani onlar yönü sadece hissetmiyor, resmen görüyorlar."
+    "headline": "Dilimiz Neden Asla Yorulmaz?",
+    "body": "Gün boyunca konuşuyor, yutkunuyor ve yemek yiyoruz ama dilimizdeki kaslar diğerleri gibi asla kramp girip yorulmuyor. Bunun sırrı, iskelet kaslarımızdan tamamen farklı bir yapıya sahip olmasında gizli."
   },
   "en": {
-    "headline": "The Hidden Compass in Birds' Minds",
-    "body": "The secret to migratory birds never getting lost over thousands of kilometers lies in their eyes. A special protein in their retinas allows them to see Earth's magnetic field as a blue light map. They don't just sense direction; they literally see it."
+    "headline": "Why Does Our Tongue Never Get Tired?",
+    "body": "We talk, swallow, and eat all day, but the muscles in our tongue never cramp or get tired like others. The secret lies in its structure, which is completely different from our skeletal muscles."
   },
   "es": {
-    "headline": "La brújula oculta en la mente de las aves",
-    "body": "El secreto de que las aves migratorias nunca se pierdan en miles de kilómetros está en sus ojos. Una proteína especial en sus retinas les permite ver el campo magnético de la Tierra como un mapa de luz azul. No solo sienten la dirección, literalmente la ven."
+    "headline": "¿Por qué nuestra lengua nunca se cansa?",
+    "body": "Hablamos, tragamos y comemos todo el día, pero los músculos de nuestra lengua nunca se calambres ni se cansan como otros. El secreto radica en su estructura, completamente diferente a nuestros músculos esqueléticos."
   },
   "ar": {
-    "headline": "البوصلة الخفية في عقول الطيور",
-    "body": "السر وراء عدم ضياع الطيور المهاجرة لمسافات طويلة يكمن في عيونها. بروتين خاص في شبكية العين يمكنها من رؤية المجال المغناطيسي للأرض كخريطة ضوئية زرقاء. إنهم لا يشعرون بالاتجاه فحسب، بل يروونه حرفياً."
+    "headline": "لماذا لا تتعب لساننا أبدًا؟",
+    "body": "نتحدث ونبتلع ونأكل طوال اليوم، لكن العضلات الموجودة في ألسنتنا لا تصاب أبدًا بالتشنج أو التعب مثل العضلات الأخرى. يكمن السر في بنيتها المختلفة تمامًا عن عضلاتنا الهيكل العظمي."
   },
   "reel_hook": {
-    "tr": "Göçmen kuşlar yönlerini nasıl buluyor? Cevap kafalarının içinde değil, tam olarak gözlerinde.",
-    "en": "How do migratory birds find their way? The answer isn't in their heads, but right in their eyes.",
-    "es": "¿Cómo encuentran su camino las aves migratorias? La respuesta no está en sus cabezas, sino justo en sus ojos.",
-    "ar": "كيف تجد الطيور المهاجرة طريقها؟ الإجابة ليست في رؤوسها، بل في عيونها مباشرة."
+    "tr": "Vücudunuzda gün boyu durmaksızın çalışan ama asla yorulmayan o kası biliyor musunuz?",
+    "en": "Do you know the muscle in your body that works non-stop all day but never gets tired?",
+    "es": "¿Conoces el músculo de tu cuerpo que trabaja sin parar todo el día pero nunca se cansa?",
+    "ar": "هل تعلم ما هي العضلة في جسمك التي تعمل دون توقف طوال اليوم ولكنها لا تتعب أبداً؟"
   },
   "story_question": {
-    "tr": "Kuşların Dünya'nın manyetik alanını görmesini sağlayan özel protein nerede bulunur?",
-    "en": "Where is the special protein that lets birds see Earth's magnetic field located?",
-    "es": "¿Dónde se encuentra la proteína especial que permite a las aves ver el campo magnético de la Tierra?",
-    "ar": "أين يوجد البروتين الخاص الذي يسمح للطيور برؤية المجال المغناطيسي للأرض؟"
+    "tr": "Dilimiz hangi kas grubuna dahildir?",
+    "en": "Which muscle group does the tongue belong to?",
+    "es": "¿A qué grupo muscular pertenece la lengua?",
+    "ar": "إلى أي مجموعة عضلية ينتمي اللسان؟"
   },
   "story_options": [
-    "Retinada (Gözde)",
-    "Gagada",
-    "Kanat tüylerinde"
+    "İskelet Kasi",
+    "Hidrostatik İskelet",
+    "Düz Kas"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
     "#bilim",
-    "#biyoloji",
+    "#vücudumuz",
+    "#ilginçbilgiler",
+    "#sağlık",
     "#keşfet",
-    "#ilginçbilgiler"
+    "#biliyormuydunuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more amazing nature secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos asombrosos de la naturaleza como este!",
-    "ar": "لا تنس متابعتنا للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Journal of Royal Society Interface",
-    "url": "https://royalsocietypublishing.org"
+    "name": "Library of Congress Science Reference Services",
+    "url": "https://www.loc.gov/everyday-mysteries"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Zihnindeki Gizli Pusula",
+  "_topic": "Dilimiz Neden Asla Yorulmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-06T00:36:07.899723+00:00",
+  "generated_at": "2026-10-06T01:27:28.431459+00:00",
   "topic_guard_days": 180
 }

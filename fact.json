@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kemiklerimiz Betondan Daha mı Sağlam?",
-    "body": "İnsan kemiği dışarıdan kırılgan görünse de, gram başına düşen dayanıklılık açısından bazı beton türlerinden çok daha güçlüdür. Öyle ki, ortalama bir insan kemiği tonlarca ağırlığa direnç gösterebilecek bir mikro mimariye sahiptir."
+    "headline": "Parmaklarınız Su İçinde Neden Buruşur?",
+    "body": "Havuzda ya da küvette uzun süre kaldığınızda parmaklarınızın buruştuğunu fark etmişsinizdir. Bunun derinizin suya doymasıyla bir ilgisi yok! Vücudunuz bunu tamamen bilerek yapıyor. Islak yüzeyleri daha iyi kavrayabilmeniz için sinir sisteminiz parmak uçlarınızdaki kan damarlarını daraltıyor. Yani bu buruşukluklar, doğanın size verdiği ıslak zeminler için özel birer lastik izi!"
   },
   "en": {
-    "headline": "Are Our Bones Stronger Than Concrete?",
-    "body": "Although human bone looks fragile from the outside, it is much stronger than certain types of concrete in terms of strength-to-weight ratio. An average human bone features a micro-architecture capable of withstanding tons of weight."
+    "headline": "Why Do Your Fingers Wrinkle in Water?",
+    "body": "You've probably noticed your fingers wrinkling after a long soak in the bath or pool. This has nothing to do with your skin absorbing water! Your body actually does this on purpose. To help you grip wet surfaces better, your nervous system constricts the blood vessels in your fingertips. These wrinkles are essentially nature's built-in treads for wet conditions!"
   },
   "es": {
-    "headline": "¿Son nuestros huesos más fuertes que el hormigón?",
-    "body": "Aunque el hueso humano parece frágil por fuera, es mucho más fuerte que ciertos tipos de hormigón en cuanto a su resistencia por gramo. Un hueso humano promedio cuenta con una microarquitectura capaz de soportar toneladas de peso."
+    "headline": "¿Por qué se arrugan los dedos en el agua?",
+    "body": "Seguro has notado que tus dedos se arrugan tras un largo baño. ¡No tiene nada que ver con que la piel absorba agua! Tu cuerpo lo hace a propósito. Para ayudarte a agarrar mejor las superficies mojadas, tu sistema nervioso contrae los vasos sanguíneos. ¡Estas arrugas son básicamente el relieve natural para superficies húmedas!"
   },
   "ar": {
-    "headline": "هل عظامنا أقوى من الخرسانة؟",
-    "body": "على الرغم من أن عظام الإنسان تبدو هشّة من الخارج، إلا أنها أقوى بكثير من أنواع معينة من الخرسانة من حيث القوة مقابل الوزن. تمتلك عظمة الإنسان المتوسطة بنية مجهرية قادرة على تحمل أطنان من الوزن."
+    "headline": "لماذا تجعد أصابعك في الماء؟",
+    "body": "لقد لاحظت بالتأكيد أن أصابعك تتجعد بعد قضاء وقت طويل في الماء. هذا ليس له علاقة بامتصاص الجلد للماء! جسمك يفعل ذلك عن قصد تماماً. لمساعدتك على الإمساك بالأسطح المبللة بشكل أفضل، يقوم جهازك العصبي بتضييق الأوعية الدموية في أطراف أصابعك. هذه التجاعيد هي باختصار إطارات طبيعية مخصصة للأسطح الرطبة!"
   },
   "reel_hook": {
-    "tr": "Vücudunuzun içindeki bu yapı, en sağlam betondan bile daha güçlü olabilir...",
-    "en": "This structure inside your body might be stronger than the sturdiest concrete...",
-    "es": "Esta estructura dentro de tu cuerpo podría ser más fuerte que el hormigón más resistente...",
-    "ar": "هذا الهيكل داخل جسمك قد يكون أقوى من أصلب خرسانة..."
+    "tr": "Havuzdan çıktığınızda parmaklarınız neden buruşur? Cevap sandığınızdan çok daha havalı.",
+    "en": "Why do your fingers wrinkle when you stay in the water? The answer is much cooler than you think.",
+    "es": "¿Por qué se arrugan tus dedos en el agua? La respuesta es mucho más genial de lo que crees.",
+    "ar": "لماذا تجعد أصابعك في الماء؟ الإجابة أروع بكثير مما تتخيل."
   },
   "story_question": {
-    "tr": "Sence insan kəmikleri betonla kıyaslandığında nasıl bir avantaja sahip?",
-    "en": "How do you think human bones compare to concrete in strength?",
-    "es": "¿Cómo crees que se comparan los huesos humanos con el hormigón?",
-    "ar": "كيف تعتقد أن عظام الإنسان تقارن بالخرسانة من حيث القوة؟"
+    "tr": "Parmakların suda buruşmasının asıl sebebi nedir?",
+    "en": "What is the real reason fingers wrinkle in water?",
+    "es": "¿Cuál es la verdadera razón por la que los dedos se arrugan en el agua?",
+    "ar": "ما هو السبب الحقيقي لتجعد الأصابع في الماء؟"
   },
   "story_options": [
-    "Ağırlığına oranla daha sağlam",
-    "Sadece esnek, dayanıklı değil",
-    "Betondan tamamen zayıf"
+    "Deri su emer ve şişer",
+    "Sinir sistemi kavramayı kolaylaştırır",
+    "Hücreler ölür ve büzüşür"
   ],
   "hashtags": [
     "#FactBite",
+    "#bilgi",
+    "#ilahiyat",
+    "#biliyormuydunuz",
     "#bilim",
-    "#insan",
-    "#biyoloji",
     "#ilginçbilgiler",
-    "#sağlık"
+    "#anatomi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunu ilk kez duyuyorsan beğenmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like!",
+    "es": "¡Si es la primera vez que escuchas esto, no olvides dar me gusta!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، فلا تنس الإعجاب!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Biomechanics and Bone Strength Research",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465893/"
+    "name": "National Institutes of Health (NIH)",
+    "url": "https://www.nih.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kemiklerimiz Betondan Daha mı Sağlam?",
+  "_topic": "Parmaklarınız Su İçinde Neden Buruşur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-06T15:12:02.653765+00:00",
+  "generated_at": "2026-10-06T17:18:15.717754+00:00",
   "topic_guard_days": 180
 }

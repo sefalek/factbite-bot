@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Burnumuz On Bin Farklı Kokuyu Hatırlar",
-    "body": "Burnumuz yaklaşık 1 trilyon farklı kokuyu ayırt edebilir ve hafızamızdaki kokular en uzun süre dayanan anılardır."
+    "headline": "Kemiklerimiz Betondan Daha mı Sağlam?",
+    "body": "İnsan kemiği dışarıdan kırılgan görünse de, gram başına düşen dayanıklılık açısından bazı beton türlerinden çok daha güçlüdür. Öyle ki, ortalama bir insan kemiği tonlarca ağırlığa direnç gösterebilecek bir mikro mimariye sahiptir."
   },
   "en": {
-    "headline": "Our Nose Remembers Ten Thousand Smells",
-    "body": "Our nose can distinguish about 1 trillion different scents, and scents in our memory are the longest-lasting recollections."
+    "headline": "Are Our Bones Stronger Than Concrete?",
+    "body": "Although human bone looks fragile from the outside, it is much stronger than certain types of concrete in terms of strength-to-weight ratio. An average human bone features a micro-architecture capable of withstanding tons of weight."
   },
   "es": {
-    "headline": "Nuestra Nariz Recuerda Diez Mil Olores",
-    "body": "Nuestra nariz puede distinguir alrededor de un billón de olores diferentes, y los olores en nuestra memoria son los recuerdos más duraderos."
+    "headline": "¿Son nuestros huesos más fuertes que el hormigón?",
+    "body": "Aunque el hueso humano parece frágil por fuera, es mucho más fuerte que ciertos tipos de hormigón en cuanto a su resistencia por gramo. Un hueso humano promedio cuenta con una microarquitectura capaz de soportar toneladas de peso."
   },
   "ar": {
-    "headline": "أنفنا يتذكر عشرة آلاف رائحة",
-    "body": "أنفنا يمكنه تمييز حوالي تريليون رائحة مختلفة، والروائح في ذاكرتنا هي الذكريات الأطول بقاءً."
+    "headline": "هل عظامنا أقوى من الخرسانة؟",
+    "body": "على الرغم من أن عظام الإنسان تبدو هشّة من الخارج، إلا أنها أقوى بكثير من أنواع معينة من الخرسانة من حيث القوة مقابل الوزن. تمتلك عظمة الإنسان المتوسطة بنية مجهرية قادرة على تحمل أطنان من الوزن."
   },
   "reel_hook": {
-    "tr": "Hangi duyu organımızın hafızası bizi doğrudan çocukluğumuza ışınlayabilir?",
-    "en": "Which of our sensory organs' memory can instantly beam us back to childhood?",
-    "es": "¿La memoria de cuál de nuestros órganos sensoriales puede transportarnos directamente a la infancia?",
-    "ar": "أي حاسة من حواسنا يمكن لذاكرتها أن تنقلنا مباشرة إلى الطفولة؟"
+    "tr": "Vücudunuzun içindeki bu yapı, en sağlam betondan bile daha güçlü olabilir...",
+    "en": "This structure inside your body might be stronger than the sturdiest concrete...",
+    "es": "Esta estructura dentro de tu cuerpo podría ser más fuerte que el hormigón más resistente...",
+    "ar": "هذا الهيكل داخل جسمك قد يكون أقوى من أصلب خرسانة..."
   },
   "story_question": {
-    "tr": "İnsan burnu kaç farklı kokuyu ayırt edebilir?",
-    "en": "How many different scents can the human nose distinguish?",
-    "es": "¿Cuántos olores diferentes puede distinguir la nariz humana?",
-    "ar": "كم عدد الروائح المختلفة التي يمكن أن تميزها أنف الإنسان؟"
+    "tr": "Sence insan kəmikleri betonla kıyaslandığında nasıl bir avantaja sahip?",
+    "en": "How do you think human bones compare to concrete in strength?",
+    "es": "¿Cómo crees que se comparan los huesos humanos con el hormigón?",
+    "ar": "كيف تعتقد أن عظام الإنسان تقارن بالخرسانة من حيث القوة؟"
   },
   "story_options": [
-    "10 Bin",
-    "1 Milyon",
-    "1 Trilyon"
+    "Ağırlığına oranla daha sağlam",
+    "Sadece esnek, dayanıklı değil",
+    "Betondan tamamen zayıf"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#ilginçbilgiler",
     "#insan",
-    "#keşfet",
-    "#biliyormusunuz",
+    "#biyoloji",
+    "#ilginçbilgiler",
     "#sağlık"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Science Magazine",
-    "url": "https://www.science.org"
+    "name": "Biomechanics and Bone Strength Research",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4465893/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Burnumuz On Bin Farklı Kokuyu Hatırlar",
+  "_topic": "Kemiklerimiz Betondan Daha mı Sağlam?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-06T12:03:37.448649+00:00",
+  "generated_at": "2026-10-06T15:12:02.653765+00:00",
   "topic_guard_days": 180
 }

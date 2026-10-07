@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Saç Teli Aslında Ne Kadar Taşır?",
-    "body": "Tek bir insan saç teli, ortalama bir portakalın ağırlığını rahatlıkla taşıyabilir. Binlercesi bir araya geldiğinde ise bir insanı tamamen yukarıda tutabilecek güce erişir."
+    "headline": "İnsan Kalbinin Günlük Gücü",
+    "body": "Kalbiniz bir günde o kadar çok enerji üretir ki, bu güçle bir kamyonu tam 32 kilometre taşıyabilirsiniz."
   },
   "en": {
-    "headline": "How Much Weight Can a Human Hair Actually Hold?",
-    "body": "A single human hair can easily support the weight of an average orange. When thousands come together, they gain the strength to hold up an entire person."
+    "headline": "The Daily Power of the Human Heart",
+    "body": "Your heart produces enough energy in a single day to drive a truck for 32 kilometers."
   },
   "es": {
-    "headline": "Cuánto Peso Puede Soportar Realmente un Cabello Humano?",
-    "body": "Un solo cabello humano puede soportar fácilmente el peso de una naranja promedio. Cuando miles se juntan, adquieren la fuerza para sostener a una persona entera."
+    "headline": "La Potencia Diaria del Corazón Humano",
+    "body": "Tu corazón produce suficiente energía en un solo día para conducir un camión durante 32 kilómetros."
   },
   "ar": {
-    "headline": "كم من الوزن يمكن أن تحمله شعرة بشرية حقاً؟",
-    "body": "يمكن لشعرة بشرية واحدة أن تحمل بسهولة وزن برتقالة متوسطة. وعندما تجتمع الآلاف منها، فإنها تكتسب القوة لرفع شخص بأكمله."
+    "headline": "القدرة اليومية للقلب البشري",
+    "body": "ينتج قلبك طاقة كافية في يوم واحد لقيادة شاحنة لمسافة 32 كيلومتراً."
   },
   "reel_hook": {
-    "tr": "Tek bir saç teli kaç kilo taşıyabilir sanıyorsun?",
-    "en": "How many kilos do you think a single hair can hold?",
-    "es": "Cuántos kilos crees que puede soportar un solo cabello?",
-    "ar": "كم كيلوجراما تعتقد أن شعرة واحدة يمكن أن تحمل؟"
+    "tr": "Kalbinizin tek bir günde yaptığı bu şeyi duyduğunuzda inanamayacaksınız.",
+    "en": "You won't believe what your heart accomplishes in a single day.",
+    "es": "No creerás lo que hace tu corazón en un solo día.",
+    "ar": "لن تصدق ما يفعله قلبك في يوم واحد."
   },
   "story_question": {
-    "tr": "Ortalama insan kafasında kaç adet saç teli bulunur?",
-    "en": "How many hair strands are on an average human head?",
-    "es": "Cuántos cabellos hay en la cabeza de un ser humano promedio?",
-    "ar": "كم عدد خصلات الشعر الموجودة في رأس الإنسان العادي؟"
+    "tr": "Kalbinizin bir günde ürettiği enerjiyle bir kamyon kaç kilometre gidebilir?",
+    "en": "How many kilometers could a truck travel with the energy your heart produces in a day?",
+    "es": "¿Cuántos kilómetros podría viajar un camión con la energía que produce tu corazón en un día?",
+    "ar": "كم عدد الكيلومترات التي يمكن أن تقطعها شاحنة بالطاقة التي ينتجها قلبك في يوم واحد؟"
   },
   "story_options": [
-    "50.000",
-    "100.000",
-    "250.000"
+    "10 km",
+    "32 km",
+    "100 km"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#ilginçbilgiler",
+    "#insan",
+    "#sağlık",
+    "#biliyormusunuz",
     "#vücudumuz",
-    "#keşfet",
-    "#faydalıbilgiler",
-    "#şaşırtıcı"
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "Envíale esto a un amigo que escuche esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunu ilk kez duyuyorsan beğenmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like!",
+    "es": "Si es la primera vez que escuchas esto, ¡no olvides dar me gusta!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فلا تنس الإعجاب!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Library of Congress Science Reference",
-    "url": "https://www.loc.gov/everyday-mysteries"
+    "name": "Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org/health/body/21704-heart"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Saç Teli Aslında Ne Kadar Taşır?",
+  "_topic": "İnsan Kalbinin Günlük Gücü",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-07T21:58:34.697415+00:00",
+  "generated_at": "2026-10-07T23:27:46.116391+00:00",
   "topic_guard_days": 180
 }

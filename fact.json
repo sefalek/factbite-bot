@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerimiz Dünyayı Aslında Düz Değil, Beynimiz Sayesinde Görüyor",
-    "body": "Gözlerimizin retinasına düşen her görüntü aslında baş aşağıdır. Eğer beynimiz bu görüntüyü anında tersine çevirmeseydi, her şeyi kafamız üstü duruyormuş gibi görürdük."
+    "headline": "Mide Asidiniz Camı Eritecek Kadar Güçlü Mü?",
+    "body": "Midemizdeki asit, metal bir jileti bile eritebilecek kadar güçlüdür. Ancak midemiz, kendini korumak için her üç günde bir tamamen yeni bir iç astarla yeniler. Eğer bu koruma olmasaydı, sindirim sıvılarımız kendi organımızı kolayca sindirirdi."
   },
   "en": {
-    "headline": "Our Eyes Actually See the World Upside Down",
-    "body": "Every image hitting our retina is actually upside down. If our brain didn't instantly flip it right side up, we would see everything as if we were standing on our heads."
+    "headline": "Is Your Stomach Acid Strong Enough to Melt Glass?",
+    "body": "The acid in our stomach is strong enough to dissolve a razor blade. However, the stomach continuously renews its entire inner lining every three days to protect itself. Without this defense, our digestive juices would easily digest our own organs."
   },
   "es": {
-    "headline": "Nuestros ojos ven el mundo al revés",
-    "body": "Cada imagen que llega a nuestra retina está al revés. Si nuestro cerebro no la volteara al instante, veríamos todo de cabeza."
+    "headline": "¿Es lo suficientemente fuerte el ácido estomacal para disolver metal?",
+    "body": "El ácido de nuestro estómago es lo suficientemente fuerte como para disolver una cuchilla de afeitar. Sin embargo, el estómago se renueva por completo cada tres días para protegerse. Sin esta defensa, los jugos digestivos digerirían nuestros propios órganos."
   },
   "ar": {
-    "headline": "عيوننا ترى العالم مقلوباً حقاً",
-    "body": "كل صورة تصل إلى شبكية العين تكون مقلوبة في الواقع. ولو لم يقم دماغنا بقلبها فوراً لرى الإنسان كل شيء رأساً على عقب."
+    "headline": "هل حمض المعدة قوي لدرجة تذويب المعادن؟",
+    "body": "الحمض في معدتنا قوي لدرجة كافية لإذابة شفرة حلاقة. ومع ذلك، تجدد المعدة بطانتها الداخلية بالكامل كل ثلاثة أيام حماية لنفسها. لولا هذا الدفاع، لهضمت العصارات الهضمية أعضاءنا بسهولة."
   },
   "reel_hook": {
-    "tr": "Şu an etrafınızdaki her şeyi kafanız üstü görüyorsunuz desem?",
-    "en": "What if I told you that right now you're seeing everything upside down?",
-    "es": "¿Y si te digo que ahora mismo estás viendo todo al revés?",
-    "ar": "ماذا لو قلت لك إنك ترى كل شيء حولك الآن بالمكلوب؟"
+    "tr": "Midenizdeki asit sıradan bir metal jileti gerçekten eritebilir mi?",
+    "en": "Can the acid in your stomach really dissolve a razor blade?",
+    "es": "¿Puede el ácido de tu estómago disolver una cuchilla de afeitar?",
+    "ar": "هل يستطيع حمض المعدة حقاً إذابة شفرة حلاقة؟"
   },
   "story_question": {
-    "tr": "Gözümüzdeki görüntü beyne gitmeden önce ne haldedir?",
-    "en": "What state is the image in our eye before reaching the brain?",
-    "es": "¿En qué estado está la imagen en nuestro ojo antes de llegar al cerebro?",
-    "ar": "ما هي حالة الصورة في العين قبل وصولها إلى الدماغ؟"
+    "tr": "Mideniz iç astarını ne sıklıkla tamamen yeniler?",
+    "en": "How often does the stomach completely renew its inner lining?",
+    "es": "¿Con qué frecuencia el estómago renueva por completo su revestimiento?",
+    "ar": "كم مرة تجدد المعدة بطانتها الداخلية بالكامل؟"
   },
   "story_options": [
-    "Ters duruyor",
-    "Bulanık",
-    "Siyah beyaz"
+    "Her 3 günde bir",
+    "Ayda bir kez",
+    "Yılda bir kez"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#göz",
-    "#beyin",
+    "#vücudumuz",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#vücudumuz"
+    "#sağlık",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyuyorsan beğen ve takip et!",
-    "en": "Like and follow if this is your first time hearing this!",
-    "es": "¡Dale a me gusta y síguenos si es la primera vez que escuchas esto!",
-    "ar": "اضغط إعجاب وتابعنا إن كانت هذه هي المرة الأولى التي تسمع فيها هذا!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı vücut sırrı için takip et!",
+    "en": "Follow for more surprising body secrets like this!",
+    "es": "¡Síguenos para más secretos corporales sorprendentes como este!",
+    "ar": "تابعنا للمزيد من أسرار الجسم المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Neuroscience for Kids",
-    "url": "https://faculty.washington.edu/chudler/retina.html"
+    "name": "Library of Congress Science Reference Services",
+    "url": "https://www.loc.gov/everyday-mysteries/item/how-does-your-stomach-digest-itself/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerimiz Dünyayı Aslında Düz Değil, Beynimiz Sayesinde Görüyor",
+  "_topic": "Mide Asidiniz Camı Eritecek Kadar Güçlü Mü?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-06T22:54:02.995432+00:00",
+  "generated_at": "2026-10-07T00:07:59.116307+00:00",
   "topic_guard_days": 180
 }

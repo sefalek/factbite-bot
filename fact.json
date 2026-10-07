@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Mide Asidiniz Camı Eritecek Kadar Güçlü Mü?",
-    "body": "Midemizdeki asit, metal bir jileti bile eritebilecek kadar güçlüdür. Ancak midemiz, kendini korumak için her üç günde bir tamamen yeni bir iç astarla yeniler. Eğer bu koruma olmasaydı, sindirim sıvılarımız kendi organımızı kolayca sindirirdi."
+    "headline": "Parmaklarınız Soğukta Neden Bembeyaz Olur?",
+    "body": "Elleriniz üşüdüğünde parmaklarınızın aniden bembeyaz kesilmesi sadece bir üşüme belirtisi değil. Vücudunuz o an donmayı engellemek için inanılmaz bir hayatta kalma refleksi gösteriyor: Parmak uçlarındaki kılcal damarlar tamamen kapanıyor ki sıcak kan, hayati organların bulunduğu gövdenizde kalabilsin."
   },
   "en": {
-    "headline": "Is Your Stomach Acid Strong Enough to Melt Glass?",
-    "body": "The acid in our stomach is strong enough to dissolve a razor blade. However, the stomach continuously renews its entire inner lining every three days to protect itself. Without this defense, our digestive juices would easily digest our own organs."
+    "headline": "Why Do Your Fingers Turn Pure White in the Cold?",
+    "body": "When your hands get cold, your fingers turning completely white isn't just a sign of chill. Your body is showing an incredible survival reflex to prevent freezing: the capillaries in your fingertips close entirely so warm blood stays in your core, protecting vital organs."
   },
   "es": {
-    "headline": "¿Es lo suficientemente fuerte el ácido estomacal para disolver metal?",
-    "body": "El ácido de nuestro estómago es lo suficientemente fuerte como para disolver una cuchilla de afeitar. Sin embargo, el estómago se renueva por completo cada tres días para protegerse. Sin esta defensa, los jugos digestivos digerirían nuestros propios órganos."
+    "headline": "¿Por qué tus dedos se vuelven blancos con el frío?",
+    "body": "Cuando tus manos se enfrían, que tus dedos se pongan blancos no es solo señal de frío. Tu cuerpo muestra un reflejo de supervivencia increíble: los capilares de las yemas se cierran por completo para que la sangre caliente se quede en el tronco, protegiendo tus órganos vitales."
   },
   "ar": {
-    "headline": "هل حمض المعدة قوي لدرجة تذويب المعادن؟",
-    "body": "الحمض في معدتنا قوي لدرجة كافية لإذابة شفرة حلاقة. ومع ذلك، تجدد المعدة بطانتها الداخلية بالكامل كل ثلاثة أيام حماية لنفسها. لولا هذا الدفاع، لهضمت العصارات الهضمية أعضاءنا بسهولة."
+    "headline": "لماذا تصبح أصابعك بيضاء تماماً في البرد؟",
+    "body": "عندما برودة يديك، تحول أصابعك إلى اللون الأبيض ليس مجرد علامة برد. يُظهر جسمك رد فعل مذهل للبقاء: تغلق الشعيرات الدموية في أطراف أصابعك تماماً ليبقى الدم الدافئ في جذعك حمايةً للأعضاء الحيوية."
   },
   "reel_hook": {
-    "tr": "Midenizdeki asit sıradan bir metal jileti gerçekten eritebilir mi?",
-    "en": "Can the acid in your stomach really dissolve a razor blade?",
-    "es": "¿Puede el ácido de tu estómago disolver una cuchilla de afeitar?",
-    "ar": "هل يستطيع حمض المعدة حقاً إذابة شفرة حلاقة؟"
+    "tr": "Soğukta parmaklarınız neden beyazlaşır?",
+    "en": "Why do your fingers turn white in the cold?",
+    "es": "¿Por qué tus dedos se ponen blancos con el frío?",
+    "ar": "لماذا تصبح أصابعك بيضاء في البرد؟"
   },
   "story_question": {
-    "tr": "Mideniz iç astarını ne sıklıkla tamamen yeniler?",
-    "en": "How often does the stomach completely renew its inner lining?",
-    "es": "¿Con qué frecuencia el estómago renueva por completo su revestimiento?",
-    "ar": "كم مرة تجدد المعدة بطانتها الداخلية بالكامل؟"
+    "tr": "Vücudumuz soğukta ilk olarak nereye kan pompalamayı bırakır?",
+    "en": "Where does our body stop pumping blood first in the cold?",
+    "es": "¿A dónde deja de bombear sangre primero nuestro cuerpo con el frío?",
+    "ar": "أين يتوقف الجسم عن ضخ الدم أولاً في البرد؟"
   },
   "story_options": [
-    "Her 3 günde bir",
-    "Ayda bir kez",
-    "Yılda bir kez"
+    "Parmak uçları ve burun",
+    "Bacak kasları",
+    "Karın bölgesi"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#vücudumuz",
-    "#ilginçbilgiler",
+    "#vücut",
     "#sağlık",
+    "#ilginçbilgiler",
+    "#keşfet",
     "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı vücut sırrı için takip et!",
-    "en": "Follow for more surprising body secrets like this!",
-    "es": "¡Síguenos para más secretos corporales sorprendentes como este!",
-    "ar": "تابعنا للمزيد من أسرار الجسم المدهشة مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que escuche esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Library of Congress Science Reference Services",
-    "url": "https://www.loc.gov/everyday-mysteries/item/how-does-your-stomach-digest-itself/"
+    "name": "Cleveland Clinic",
+    "url": "https://my.clevelandclinic.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Mide Asidiniz Camı Eritecek Kadar Güçlü Mü?",
+  "_topic": "Parmaklarınız Soğukta Neden Bembeyaz Olur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-07T00:07:59.116307+00:00",
+  "generated_at": "2026-10-07T11:47:09.172451+00:00",
   "topic_guard_days": 180
 }

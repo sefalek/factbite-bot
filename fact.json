@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerimiz Karanlığa Neden Geç Alışır?",
-    "body": "Sinemalara girdiğinizde içeriyi ilk başta görememeniz sadece ışık değişimi değil. Göz bebeklerimizin tamamen genişlemesi ve retinadaki ışığa duyarlı hücrelerin kendini sıfırlaması tam yirmi dakika sürüyor."
+    "headline": "Esnerken Gözlerimiz Neden Yaşarır?",
+    "body": "Derin bir esneme sırasında yüz kaslarımız öyle güçlü bir şekilde sıkışır ki, bu basınç gözyaşı bezlerimize baskı yapar. Bezler sıkışınca, sanki ağlıyormuşuz gibi dışarıya aniden gözyaşı pompalanır."
   },
   "en": {
-    "headline": "Why Our Eyes Take Time to Adjust to the Dark",
-    "body": "When you enter a dark cinema, not seeing anything isn't just about light change. It takes a full twenty minutes for our pupils to fully dilate and light-sensitive cells in the retina to reset."
+    "headline": "Why Do Our Eyes Water When We Yawn?",
+    "body": "During a deep yawn, our facial muscles contract so strongly that this pressure pushes against our tear glands. When the glands are squeezed, tears are suddenly pumped out as if we were crying."
   },
   "es": {
-    "headline": "Por qué nuestros ojos tardan en adaptarse a la oscuridad",
-    "body": "Cuando entras a un cine oscuro, no ver nada no es solo cuestión de cambio de luz. Los ojos tardan exactamente veinte minutos en dilatar las pupilas y reiniciar las células sensibles de la retina."
+    "headline": "¿Por qué se nos lagrimean los ojos al bostezar?",
+    "body": "Durante un bostezo profundo, los músculos faciales se contraen con tanta fuerza que ejercen presión sobre las glándulas lagrimales. Al comprimirse, se bombean lágrimas de repente como si estuviéramos llorando."
   },
   "ar": {
-    "headline": "لماذا تستغرق عيوننا وقتاً للتكيف مع الظلام؟",
-    "body": "عندما تدخل سينما مظلمة، فإن عدم رؤيتهم ليس مجرد تغيير في الضوء. تستغرق بؤبؤ العين عشرين دقيقة كاملة لتتوسع تماماً وتتمكن خلايا الشبكية الحساسة للضوء من إعادة ضبط نفسها."
+    "headline": "لماذا تدمع أعيننا عندما نتثاءب؟",
+    "body": "أثناء التثاءب العميق، تنقبض عضلات وجهنا بقوة لدرجة أن هذا الضغط يؤثر على غدد الدموع. وعندما تُضغط الغدد، يتم ضخ الدموع فجأة وكأننا نبكي."
   },
   "reel_hook": {
-    "tr": "Sinemaya girdiğinizde içeriyi neden ilk an tamamen karanlık görürsünüz?",
-    "en": "Why does the inside look completely pitch black when you first enter a cinema?",
-    "es": "¿Por qué el interior se ve completamente oscuro cuando entras a un cine?",
-    "ar": "لماذا تبدو القاعة مظلمة تماماً عند دخولك السينما لأول وهلة؟"
+    "tr": "Hiç fark ettin mi, esnerken gözlerinden neden yaş gelir?",
+    "en": "Have you ever noticed why your eyes water when you yawn?",
+    "es": "¿Alguna vez has notado por qué se te lloran los ojos al bostezar?",
+    "ar": "هل لاحظت من قبل لماذا تدمع عيناك عندما تتثاءب؟"
   },
   "story_question": {
-    "tr": "Gözlerimizin karanlığa tam olarak alışması ortalama ne kadar sürer?",
-    "en": "How long does it take on average for our eyes to fully adapt to the dark?",
-    "es": "¿Cuánto tiempo tardan nuestros ojos en promedio en adaptarse por completo a la oscuridad?",
-    "ar": "ما هو متوسط الوقت الذي تستغرقه عيوننا للتكيف تماماً مع الظلام؟"
+    "tr": "Sence esnerken gözlerimizin yaşarmasının temel sebebi nedir?",
+    "en": "What do you think is the main reason our eyes water when we yawn?",
+    "es": "¿Cuálcrees que es la razón principal por la que se nos lagrimean los ojos al bostezar?",
+    "ar": "برأيك، ما هو السبب الرئيسي لتدمع أعيننا عند التثاءب؟"
   },
   "story_options": [
-    "5 dakika",
-    "20 dakika",
-    "1 saat"
+    "Yüz kaslarının bas manteneri",
+    "Uykusuzluk sinyali",
+    "Havanın kuruluğu"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#biliyormuydunuz",
-    "#vücudumuz",
-    "#göz",
-    "#teknoloji"
+    "#ilginçbilgiler",
+    "#vucudumuz",
+    "#keşfet",
+    "#eğitim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المثيرة مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
+    "surprise": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "American Academy of Ophthalmology",
-    "url": "https://www.aao.org"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerimiz Karanlığa Neden Geç Alışır?",
+  "_topic": "Esnerken Gözlerimiz Neden Yaşarır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-07T15:34:18.873322+00:00",
+  "generated_at": "2026-10-07T17:59:46.152069+00:00",
   "topic_guard_days": 180
 }

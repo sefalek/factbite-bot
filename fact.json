@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudundaki Kanın Tamamı",
-    "body": "Vücudumuzdaki tüm kan damarlarını uç uca ekleyebilsek, dünyânın çevresini iki kezden fazla dönmeyi başarabilirler! Sadece birkaç litrelik kan, bu kadar devasa bir uzunluğu besliyor."
+    "headline": "Gözlerimiz Karanlığa Neden Geç Alışır?",
+    "body": "Sinemalara girdiğinizde içeriyi ilk başta görememeniz sadece ışık değişimi değil. Göz bebeklerimizin tamamen genişlemesi ve retinadaki ışığa duyarlı hücrelerin kendini sıfırlaması tam yirmi dakika sürüyor."
   },
   "en": {
-    "headline": "All the Blood in the Human Body",
-    "body": "If you laid end-to-end every blood vessel in a single human body, they could wrap around the Earth more than twice! Just a few liters of blood feed this massive network."
+    "headline": "Why Our Eyes Take Time to Adjust to the Dark",
+    "body": "When you enter a dark cinema, not seeing anything isn't just about light change. It takes a full twenty minutes for our pupils to fully dilate and light-sensitive cells in the retina to reset."
   },
   "es": {
-    "headline": "Toda la sangre del cuerpo humano",
-    "body": "Si pusiéramos extremo con extremo todos los vasos sanguíneos del cuerpo humano, ¡podrían dar la vuelta a la Tierra más de dos veces! Solo unos pocos litros de sangre alimentan esta red masiva."
+    "headline": "Por qué nuestros ojos tardan en adaptarse a la oscuridad",
+    "body": "Cuando entras a un cine oscuro, no ver nada no es solo cuestión de cambio de luz. Los ojos tardan exactamente veinte minutos en dilatar las pupilas y reiniciar las células sensibles de la retina."
   },
   "ar": {
-    "headline": "كل دماء جسم الإنسان",
-    "body": "لو وضعنا كل الأوعية الدموية في جسم الإنسان من طرف إلى طرف، لتمكنت من التفاف حول الأرض أكثر من مرتين! بضع لترات فقط من الدم تغذي هذه الشبكة الهائلة."
+    "headline": "لماذا تستغرق عيوننا وقتاً للتكيف مع الظلام؟",
+    "body": "عندما تدخل سينما مظلمة، فإن عدم رؤيتهم ليس مجرد تغيير في الضوء. تستغرق بؤبؤ العين عشرين دقيقة كاملة لتتوسع تماماً وتتمكن خلايا الشبكية الحساسة للضوء من إعادة ضبط نفسها."
   },
   "reel_hook": {
-    "tr": "Damarlarınızı tek bir şerit haline getirsek nereye kadar uzanırdı?",
-    "en": "If we laid your blood vessels in a single line, how far would they reach?",
-    "es": "¿Hasta dónde llegarían tus vasos sanguíneos si los estiraras en una sola línea?",
-    "ar": "إلى أي مدى ستصل أوعيتك الدموية لو قمنا بمدها في خط واحد؟"
+    "tr": "Sinemaya girdiğinizde içeriyi neden ilk an tamamen karanlık görürsünüz?",
+    "en": "Why does the inside look completely pitch black when you first enter a cinema?",
+    "es": "¿Por qué el interior se ve completamente oscuro cuando entras a un cine?",
+    "ar": "لماذا تبدو القاعة مظلمة تماماً عند دخولك السينما لأول وهلة؟"
   },
   "story_question": {
-    "tr": "İnsan vücudundaki tüm damarların toplam uzunluğu Dünya'nın çevresini kaç kez dönebilir?",
-    "en": "How many times could the total length of all blood vessels wrap around the Earth?",
-    "es": "¿Cuántas veces podría envolver la Tierra la longitud total de todos los vasos sanguíneos?",
-    "ar": "كم مرة يمكن أن تحيط الطول الإجمالي لجميع الأوعية الدموية بالأرض؟"
+    "tr": "Gözlerimizin karanlığa tam olarak alışması ortalama ne kadar sürer?",
+    "en": "How long does it take on average for our eyes to fully adapt to the dark?",
+    "es": "¿Cuánto tiempo tardan nuestros ojos en promedio en adaptarse por completo a la oscuridad?",
+    "ar": "ما هو متوسط الوقت الذي تستغرقه عيوننا للتكيف تماماً مع الظلام؟"
   },
   "story_options": [
-    "1 kez",
-    "2.5 kez",
-    "5 kez"
+    "5 dakika",
+    "20 dakika",
+    "1 saat"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
+    "#biliyormuydunuz",
     "#vücudumuz",
-    "#ilginçbilgiler",
-    "#anatomi",
-    "#keşfet",
-    "#sağlık"
+    "#göz",
+    "#teknoloji"
   ],
   "cta": {
-    "tr": "Bunu arkadaşına gönder, vücudumuzdaki bu devasa fabrikayı bilsin!",
-    "en": "Send this to a friend so they know about this massive factory inside us!",
-    "es": "¡Envíaselo a un amigo para que conozca esta fábrica masiva dentro de nosotros!",
-    "ar": "أرسل هذا إلى صديق ليعرف عن هذا المصنع الضخم داخلنا!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المثيرة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "American Academy of Ophthalmology",
+    "url": "https://www.aao.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudundaki Kanın Tamamı",
+  "_topic": "Gözlerimiz Karanlığa Neden Geç Alışır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-07T13:16:40.308261+00:00",
+  "generated_at": "2026-10-07T15:34:18.873322+00:00",
   "topic_guard_days": 180
 }

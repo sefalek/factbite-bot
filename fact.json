@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudunun Gizli Gücü",
-    "body": "Göz kırpmak o kadar sıradan bir hareket gibi gelir ki. Ama biliyor musunuz, ömrümüzün yaklaşık beş yılını göz kırparak geçiriyoruz!"
+    "headline": "İnsan Dili Neden Asla Yorgunluk Hissetmez?",
+    "body": "Vücudumuzdaki en güçlü veya en çok çalışan kaslardan biri olan dilimiz, gün boyunca binlerce kelime söyler, yutkunur ve yemek yer. Peki yüzlerce kas gibi sürekli hareket eden dilimiz neden diğer kaslar gibi kramp girmez veya yorulmaz? Cevap, onun özel lif yapısında ve sürekli kan akışında saklı."
   },
   "en": {
-    "headline": "The Hidden Power of the Human Body",
-    "body": "Blinking feels like such a simple action. But did you know we spend about five years of our lives just blinking?"
+    "headline": "Why Does the Human Tongue Never Get Tired?",
+    "body": "Our tongue, one of the hardest working muscles in our body, speaks thousands of words, swallows, and eats all day long. So why doesn't it get cramps or feel exhausted like other muscles? The answer lies in its unique fiber structure and constant blood flow."
   },
   "es": {
-    "headline": "El poder oculto del cuerpo humano",
-    "body": "Parpadear parece un movimiento muy simple. Pero, ¿sabías que pasamos unos cinco años de nuestra vida parpadeando?"
+    "headline": "¿Por qué la lengua humana nunca se cansa?",
+    "body": "Nuestra lengua, uno de los músculos que más trabaja en el cuerpo, pronuncia miles de palabras, traga y come todo el día. Entonces, ¿por qué no sufre calambres ni se agota como los otros músculos? La respuesta está en su estructura de fibras única y su constante flujo sanguíneo."
   },
   "ar": {
-    "headline": "القدرة الخفية لجسم الإنسان",
-    "body": "يبدو الرمش حركة بسيطة للغاية. ولكن هل تعلم أننا نقضي حوالي خمس سنوات من حياتنا في الرمش فقط؟"
+    "headline": "لماذا لا يشعر اللسان البشري بالتعب أبداً؟",
+    "body": "لساننا، وهو أحد أكثر العضلات عملًا في جسمنا، ينطق بآلاف الكلمات ويبتلع ويأكل طوال اليوم. فلماذا لا يصاب بالتشنج أو الإرهاق كباقي العضلات؟ يكمن الجواب في بنيته الفريدة من الألياف وتدفق الدم المستمر."
   },
   "reel_hook": {
-    "tr": "Ömrünüzün tam beş yılını ne yaparak harcıyorsunuz biliyor musunuz?",
-    "en": "Do you know what you spend a full five years of your life doing?",
-    "es": "¿Sabes qué haces durante cinco años enteros de tu vida?",
-    "ar": "هل تعلم ماذا تقضي خمس سنوات كاملة من حياتك في فعله؟"
+    "tr": "Tüm gün konuşuyorsun ama dilin neden asla kramp girip yorulmuyor?",
+    "en": "You talk all day long, but why does your tongue never cramp or get tired?",
+    "es": "Hablas todo el día, ¿por qué tu lengua nunca sufre un calambre ni se cansa?",
+    "ar": "أنت تتحدث طوال اليوم، فللماذا لا يصاب لسانك بالتشنج أو التعب أبداً؟"
   },
   "story_question": {
-    "tr": "Sizce insan günde ortalama kaç kez göz kırpar?",
-    "en": "How many times on average do you think a person blinks a day?",
-    "es": "¿Cuántas veces crees que parpadea una persona al día en promedio?",
-    "ar": "كم مرة تعتقد أن الشخص يرمش في اليوم في المتوسط؟"
+    "tr": "Sence insan dili hangi kas grubuna dahildir?",
+    "en": "Which muscle group do you think the human tongue belongs to?",
+    "es": "¿A qué grupo muscular crees que pertenece la lengua humana?",
+    "ar": "برأيك، إلى أي مجموعة عضلية ينتمي اللسان البشري؟"
   },
   "story_options": [
-    "5.000 - 10.000",
-    "15.000 - 20.000",
-    "30.000 - 40.000"
+    "İskelet Kası",
+    "Hidrostatik Organ",
+    "Düz Kas"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#insan",
-    "#biliyormusunuz",
     "#vücut",
     "#ilginçbilgiler",
+    "#sağlık",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunu kimin sürekli konuşarak yorulmadığını düşündüğün arkadaşına gönder!",
+    "en": "Send this to that friend who you think never gets tired of talking!",
+    "es": "¡Envíaselo a ese amigo que crees que nunca se cansa de hablar!",
+    "ar": "أرسل هذا إلى صديقك الذي تعتقد أنه لا يتعب أبداً من الكلام!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "American Academy of Ophthalmology",
-    "url": "https://www.aao.org"
+    "name": "Healthline",
+    "url": "https://www.healthline.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudunun Gizli Gücü",
+  "_topic": "İnsan Dili Neden Asla Yorgunluk Hissetmez?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-08T17:56:04.415730+00:00",
+  "generated_at": "2026-10-08T19:08:42.714110+00:00",
   "topic_guard_days": 180
 }

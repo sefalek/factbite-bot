@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kulağınızın Arkasındaki O Çıkıntı Ne İşe Yarar?",
-    "body": "Kulağınızın hemen arkasında, kafatassınızın çıkıntılı bir kemiği var. Mastoid adı verilen bu kemik, içi tamamen bal peteği gibi hava boşluklarıyla dolu sağlam bir odadır. Sadece bir kemik gibi görünse de, aslında orta kulak enfeksiyonlarının beyninize sıçramasını engelleyen gizli bir koruma kalkanıdır."
+    "headline": "Parmak Uçlarımız Aslında Düşündüğümüzden Çok Daha Hassas",
+    "body": "Parmak uçlarınızla bir cam yüzeydeki sadece 13 nanometre yüksekliğindeki bir çıkıntıyı bile hissedebileceğinizi biliyor muydunuz? Eğer parmaklarınız bir araba büyüklüğünde olsaydı, bu hassasiyet sayesinde yerdeki ev boyutundaki taşları bile parmaklarınızla fark edebilirsiniz!"
   },
   "en": {
-    "headline": "What is the Purpose of the Bump Behind Your Ear?",
-    "body": "Right behind your ear, there is a prominent bone of your skull. Known as the mastoid, this bone is a solid chamber completely filled with honeycomb-like air spaces. Although it looks like just a bone, it is actually a hidden protective shield that prevents middle ear infections from spreading to your brain."
+    "headline": "Your Fingertips Are Way More Sensitive Than You Think",
+    "body": "Did you know your fingertips can detect a bump just 13 nanometers high on a smooth glass surface? If your fingers were the size of a car, that sensitivity would allow you to feel house-sized boulders on the ground!"
   },
   "es": {
-    "headline": "¿Para qué sirve el bulto detrás de tu oreja?",
-    "body": "Justo detrás de tu oreja, hay un hueso prominente en tu cráneo. Conocido como mastoides, este hueso es una cámara sólida llena de espacios de aire en forma de panal. Aunque parece solo un hueso, en realidad es un escudo protector oculto que evita que las infecciones del oído medio se extiendan a tu cerebro."
+    "headline": "Las yemas de tus dedos son mucho más sensibles de lo que crees",
+    "body": "¿Sabías que tus dedos pueden detectar un relieve de apenas 13 nanómetros en una superficie lisa? ¡Si tus dedos tuvieran el tamaño de un coche, esa sensibilidad te permitiría notar rocas del tamaño de una casa en el suelo!"
   },
   "ar": {
-    "headline": "ما هي فائدة النتوء خلف أذنك؟",
-    "body": "مباشرة خلف أذنك، توجد عظمة بارزة في جمجمتك. تُعرف باسم العظمة الخشائية، وهي غرفة صلبة مليئة بالكامل بمساحات هوائية تشبه خلايا النحل. على الرغم من أنها تبدو وكها مجرد عظمة، إلا أنها في الواقع درع حماية خفي يمنع التهابات الأذن الوسطى من الانتشار إلى دماغك."
+    "headline": "أطراف أصابعك أكثر حساسية بكثير مما تتخيل",
+    "body": "هل تعلم أن أطراف أصابعك يمكنها استشعار نتوء يبلغ ارتفاعه 13 نانومتراً فقط على سطح أملس؟ لو كانت أصابعك بحجم سيارة، لتمكنك هذه الحساسية من الشعور بصخور بحجم منزل على الأرض!"
   },
   "reel_hook": {
-    "tr": "Kulağınızın arkasındaki o kemiğin neden orada olduğunu biliyor musunuz?",
-    "en": "Do you know why that bone behind your ear is actually there?",
-    "es": "¿Sabes por qué ese hueso detrás de tu oreja está realmente ahí?",
-    "ar": "هل تعلم لماذا توجد تلك العظمة خلف أذنك حقاً؟"
+    "tr": "Parmak uçlarınızın dünyadaki en hassas şeylerden biri olduğunu biliyor musunuz?",
+    "en": "Did you know your fingertips are among the most sensitive things on Earth?",
+    "es": "¿Sabías que las yemas de tus dedos son de las cosas más sensibles de la Tierra?",
+    "ar": "هل تعلم أن أطراف أصابعك هي من أكثر الأشياء حساسية على وجه الأرض؟"
   },
   "story_question": {
-    "tr": "Kulağımızın arkasındaki bu kemik hangi hastalıktan korunmamızı sağlar?",
-    "en": "Which infection does the bone behind our ear protect us from?",
-    "es": "¿De qué enfermedad nos protege el hueso detrás de nuestra oreja?",
-    "ar": "ما هو المرض الذي تحمينا منه العظمة خلف أذننا؟"
+    "tr": "Parmak uçlarınızla cam üzerindeki en küçük pürüzü hissettiğinizde bu boyut ne kadardır?",
+    "en": "What is the size of the smallest bump you can feel on glass with your fingertips?",
+    "es": "¿Cuál es el tamaño del relieve más pequeño que puedes sentir en el vidrio?",
+    "ar": "ما هو حجم أصغر نتوء يمكنك الشعور به على الزجاج بأطراف أصابعك؟"
   },
   "story_options": [
-    "Orta kulak enfeksiyonu",
-    "Göz tansiyonu",
-    "Sinüzit"
+    "13 nanometre",
+    "1 milimetre",
+    "1 mikrometre"
   ],
   "hashtags": [
     "#FactBite",
-    "#anatomi",
     "#bilim",
-    "#vücudumuz",
-    "#sağlık",
+    "#insan",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#teknoloji",
+    "#keşfet",
+    "#faydalibilgiler"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı vücut sırları için bizi takip etmeyi unutmayın!",
-    "en": "Don't forget to follow us for more surprising body secrets!",
-    "es": "¡No olvides seguirnos para más secretos corporales sorprendentes!",
-    "ar": "لا تنس متابعتنا للمزيد من أسرار الجسم المدهشة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı insan bedeni sırrı için takip et!",
+    "en": "Follow for more surprising human body secrets like this!",
+    "es": "¡Sigue para más secretos sorprendentes del cuerpo humano como este!",
+    "ar": "تابعنا للمزيد من أسرار جسم الإنسان المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Anatomy & Physiology Sources",
-    "url": "https://www.ncbi.nlm.nih.gov/books/NBK537145/"
+    "name": "Colloids and Surfaces B: Biointerfaces / Uppsala University",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S092777651300350X"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kulağınızın Arkasındaki O Çıkıntı Ne İşe Yarar?",
+  "_topic": "Parmak Uçlarımız Aslında Düşündüğümüzden Çok Daha Hassas",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-08T00:25:18.913895+00:00",
+  "generated_at": "2026-10-08T12:02:28.393855+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Cam Tanesi Kadar Küçük Bir Kemik",
-    "body": "Vücudumuzdaki en küçük kemik olan Üzengi kemiği, kulak içinde yer alır ve neredeyse bir pirinç tanesi kadardır. Bu minik yapı, ses titreşimlerini iç kulağa ileterek duymamızı sağlar."
+    "headline": "İnsan Vücudunun Gizli Gücü",
+    "body": "Göz kırpmak o kadar sıradan bir hareket gibi gelir ki. Ama biliyor musunuz, ömrümüzün yaklaşık beş yılını göz kırparak geçiriyoruz!"
   },
   "en": {
-    "headline": "A Bone As Small As a Grain of Sand",
-    "body": "The stapes, the smallest bone in the human body located inside the ear, is roughly the size of a grain of rice. This tiny structure transmits sound vibrations to the inner ear."
+    "headline": "The Hidden Power of the Human Body",
+    "body": "Blinking feels like such a simple action. But did you know we spend about five years of our lives just blinking?"
   },
   "es": {
-    "headline": "Un hueso tan pequeño como un grano de arena",
-    "body": "El estribo, el hueso más pequeño del cuerpo humano ubicado dentro del oído, es aproximadamente del tamaño de un grano de arroz. Esta pequeña estructura transmite las vibraciones sonoras al oído interno."
+    "headline": "El poder oculto del cuerpo humano",
+    "body": "Parpadear parece un movimiento muy simple. Pero, ¿sabías que pasamos unos cinco años de nuestra vida parpadeando?"
   },
   "ar": {
-    "headline": "عظمة بحجم حبة الرمل",
-    "body": "عظمة الركاب، وهي أصغر عظمة في جسم الإنسان وتقع داخل الأذن، تقارب حجم حبة الأرز. تنقل هذه البنية الصغيرة اهتمامات الصوت إلى الأذن الداخلية."
+    "headline": "القدرة الخفية لجسم الإنسان",
+    "body": "يبدو الرمش حركة بسيطة للغاية. ولكن هل تعلم أننا نقضي حوالي خمس سنوات من حياتنا في الرمش فقط؟"
   },
   "reel_hook": {
-    "tr": "Vücudunuzdaki en küçük kemiğin boyutuna inanamayacaksınız!",
-    "en": "You won't believe the size of the smallest bone in your body!",
-    "es": "¡No vas a creer el tamaño del hueso más pequeño de tu cuerpo!",
-    "ar": "لن تصدق حجم أصغر عظمة في جسمك!"
+    "tr": "Ömrünüzün tam beş yılını ne yaparak harcıyorsunuz biliyor musunuz?",
+    "en": "Do you know what you spend a full five years of your life doing?",
+    "es": "¿Sabes qué haces durante cinco años enteros de tu vida?",
+    "ar": "هل تعلم ماذا تقضي خمس سنوات كاملة من حياتك في فعله؟"
   },
   "story_question": {
-    "tr": "İnsan vücudundaki en küçük kemik nerededir?",
-    "en": "Where is the smallest bone in the human body located?",
-    "es": "¿Dónde se encuentra el hueso más pequeño del cuerpo humano?",
-    "ar": "أين تقع أصغر عظمة في جسم الإنسان؟"
+    "tr": "Sizce insan günde ortalama kaç kez göz kırpar?",
+    "en": "How many times on average do you think a person blinks a day?",
+    "es": "¿Cuántas veces crees que parpadea una persona al día en promedio?",
+    "ar": "كم مرة تعتقد أن الشخص يرمش في اليوم في المتوسط؟"
   },
   "story_options": [
-    "Kulak",
-    "Serçe Parmağı",
-    "Burun"
+    "5.000 - 10.000",
+    "15.000 - 20.000",
+    "30.000 - 40.000"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#anatomi",
-    "#vücudumuz",
     "#bilim",
-    "#keşfet",
-    "#ilginç"
+    "#insan",
+    "#biliyormusunuz",
+    "#vücut",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip et!",
-    "en": "Follow us for more interesting facts like this!",
-    "es": "¡Síguenos para más datos interesantes como este!",
-    "ar": "تابعنا للمزيد من الحقائق المثيرة مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Anatomy & Physiology",
-    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539824/"
+    "name": "American Academy of Ophthalmology",
+    "url": "https://www.aao.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Cam Tanesi Kadar Küçük Bir Kemik",
+  "_topic": "İnsan Vücudunun Gizli Gücü",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-08T15:42:12.409934+00:00",
+  "generated_at": "2026-10-08T17:56:04.415730+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzi Kadar Benzersiz Olan O Organımız",
-    "body": "Parmak izimizin herkeste farklı olduğunu biliyoruz, peki ya dilimiz? Tıpkı parmak izi gibi, dil izi de tamamen kişiye özeldir ve dünyada kimsede eşi benzeri yoktur."
+    "headline": "Cam Tanesi Kadar Küçük Bir Kemik",
+    "body": "Vücudumuzdaki en küçük kemik olan Üzengi kemiği, kulak içinde yer alır ve neredeyse bir pirinç tanesi kadardır. Bu minik yapı, ses titreşimlerini iç kulağa ileterek duymamızı sağlar."
   },
   "en": {
-    "headline": "The Body Part As Unique As Your Fingerprint",
-    "body": "We know fingerprints are unique to everyone, but what about our tongue? Just like a fingerprint, a tongue print is completely unique and unlike anyone else's in the world."
+    "headline": "A Bone As Small As a Grain of Sand",
+    "body": "The stapes, the smallest bone in the human body located inside the ear, is roughly the size of a grain of rice. This tiny structure transmits sound vibrations to the inner ear."
   },
   "es": {
-    "headline": "La parte del cuerpo tan única como tu huella dactilar",
-    "body": "Sabemos que las huellas dactilares son únicas, ¿pero qué pasa con nuestra lengua? Al igual que una huella, la impresión de la lengua es completamente única y no hay dos iguales en el mundo."
+    "headline": "Un hueso tan pequeño como un grano de arena",
+    "body": "El estribo, el hueso más pequeño del cuerpo humano ubicado dentro del oído, es aproximadamente del tamaño de un grano de arroz. Esta pequeña estructura transmite las vibraciones sonoras al oído interno."
   },
   "ar": {
-    "headline": "جزء الجسم الفريد من نوعه مثل بصمتك تماماً",
-    "body": "نحن نعلم أن بصمات الأصابع فريدة لكل شخص، ولكن ماذا عن لساننا؟ تماماً مثل بصمة الإصبع، فإن بصمة اللسان فريدة تماماً ولا تشبه أي شخص آخر في العالم."
+    "headline": "عظمة بحجم حبة الرمل",
+    "body": "عظمة الركاب، وهي أصغر عظمة في جسم الإنسان وتقع داخل الأذن، تقارب حجم حبة الأرز. تنقل هذه البنية الصغيرة اهتمامات الصوت إلى الأذن الداخلية."
   },
   "reel_hook": {
-    "tr": "Parmak izinin benzersiz olduğunu biliyorsun, peki ya vücudundaki bu gizli izin?",
-    "en": "You know fingerprints are unique, but what about this hidden print on your body?",
-    "es": "Sabes que las huellas son únicas, ¿pero qué pasa con esta huella oculta en tu cuerpo?",
-    "ar": "أنت تعلم أن بصمات الأصابع فريدة، فماذا عن هذه البصمة الخفية في جسمك؟"
+    "tr": "Vücudunuzdaki en küçük kemiğin boyutuna inanamayacaksınız!",
+    "en": "You won't believe the size of the smallest bone in your body!",
+    "es": "¡No vas a creer el tamaño del hueso más pequeño de tu cuerpo!",
+    "ar": "لن تصدق حجم أصغر عظمة في جسمك!"
   },
   "story_question": {
-    "tr": "Parmak izi dışında tamamen kişiye özel olan diğer vücut izimiz hangisidir?",
-    "en": "Aside from fingerprints, which other body print is completely unique to an individual?",
-    "es": "Aparte de las huellas dactilares, ¿cuál es la otra impresión corporal completamente única de una persona?",
-    "ar": "بغض النظر عن بصمات الأصابع، ما هي بصمة الجسم الأخرى الفريدة تماماً للشخص؟"
+    "tr": "İnsan vücudundaki en küçük kemik nerededir?",
+    "en": "Where is the smallest bone in the human body located?",
+    "es": "¿Dónde se encuentra el hueso más pequeño del cuerpo humano?",
+    "ar": "أين تقع أصغر عظمة في جسم الإنسان؟"
   },
   "story_options": [
-    "Dil İzi",
-    "Kulak Memesi İzi",
-    "Diş İzi"
+    "Kulak",
+    "Serçe Parmağı",
+    "Burun"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
+    "#bilgi",
+    "#anatomi",
     "#vücudumuz",
+    "#bilim",
     "#keşfet",
-    "#biliyormusunuz",
-    "#tıp"
+    "#ilginç"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip et!",
+    "en": "Follow us for more interesting facts like this!",
+    "es": "¡Síguenos para más datos interesantes como este!",
+    "ar": "تابعنا للمزيد من الحقائق المثيرة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Library of Congress",
-    "url": "https://www.loc.gov/everyday-mysteries"
+    "name": "Anatomy & Physiology",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK539824/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzi Kadar Benzersiz Olan O Organımız",
+  "_topic": "Cam Tanesi Kadar Küçük Bir Kemik",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-08T13:23:14.413736+00:00",
+  "generated_at": "2026-10-08T15:42:12.409934+00:00",
   "topic_guard_days": 180
 }

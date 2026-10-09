@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Karaciğeriniz Kendini Nasıl Yeniliyor?",
-    "body": "İnsan vücudunun en çalışkan organlarından biri karaciğerdir. Vücuttaki toksinleri filtreleyen bu devasa bez, aynı zamanda inanılmaz bir kendini yenileme kapasitesine sahiptir. Karaciğerinizin büyük bir kısmı alındığında bile, hücreler hızla bölünüp çoğalarak kısa sürede eski boyutuna ve eski işlevine geri dönebilir."
+    "headline": "İnsan Vücudundaki En Güçlü Kas Hakkında Yanıldığınız Detay",
+    "body": "Çoğumuz insan vücudundaki en güçlü kasın bacaklarımızdaki baldır veya çenemizdeki çiğneme kası olduğunu zannederiz. Ancak ağırlık oranına göre hesaplandığında şampiyon tamamen başka bir yerde saklıdır."
   },
   "en": {
-    "headline": "How Your Liver Regenerates Itself",
-    "body": "One of the hardest-working organs in the human body is the liver. Filtering toxins, this massive gland also has an incredible capacity for self-repair. Even if a large portion of your liver is removed, cells rapidly divide and multiply to restore its original size and function in a short time."
+    "headline": "The Detail You Got Wrong About the Strongest Muscle in the Human Body",
+    "body": "Most of us think the strongest muscle in the human body is the calf in our legs or the masseter in our jaw. However, when calculated by weight ratio, the champion is hidden somewhere completely different."
   },
   "es": {
-    "headline": "Cómo se regenera tu hígado",
-    "body": "Uno de los órganos más trabajadores del cuerpo humano es el hígado. Al filtrar toxinas, esta glándula masiva también tiene una capacidad increíble de autorreparación. Incluso si se extirpa una gran parte de tu hígado, las células se dividen y multiplican rápidamente para restaurar su tamaño y función originales."
+    "headline": "El detalle en el que te equivocas sobre el músculo más fuerte del cuerpo humano",
+    "body": "La mayoría de nosotros piensa que el músculo más fuerte del cuerpo humano es la pantorrilla o el masetero en la mandíbula. Sin embargo, calculado por relación de peso, el verdadero campeón está escondido en otro lugar."
   },
   "ar": {
-    "headline": "كيف يجدد كبدك نفسه",
-    "body": "يعد الكبد أحد أكثر الأعضاء نشاطًا في جسم الإنسان. أثناء تصفية السموم، يمتلك هذا العضو الضخم أيضًا قدرة مذهلة على الإصلاح الذاتي. حتى لو تم إزالة جزء كبير من كبدك، فإن الخلايا تنقسم وتتضاعف بسرعة لاستعادة حجمها ووظفتها الأصلية في وقت قصير."
+    "headline": "التفاصيل التي أخطأت فيها حول أقوى عضلات جسم الإنسان",
+    "body": "يعتقد معظمنا أن أقوى عضلة في جسم الإنسان هي عضلات الساق أو الفك. ومع ذلك، عند حسابها بناءً على نسبة الوزن، فإن البطل الحقيقي مخفي في مكان مختلف تماماً."
   },
   "reel_hook": {
-    "tr": "Vücudunuzun bu organı adeta anka kuşu gibi küllerinden yeniden doğuyor!",
-    "en": "This organ in your body is practically reborn from its ashes like a phoenix!",
-    "es": "¡Este órgano de tu cuerpo renace prácticamente de sus cenizas como un fénix!",
-    "ar": "هذا العضو في جسمك يولد من جديد عمليًا من رماده مثل الطائر الأسطوري!"
+    "tr": "Vücudunuzdaki en güçlü kasın nerede olduğunu bildiğinizi mi sanıyorsunuz? Yanılıyorsunuz.",
+    "en": "Think you know where the strongest muscle in your body is? You're wrong.",
+    "es": "¿Crees saber dónde está el músculo más fuerte de tu cuerpo? Te equivocas.",
+    "ar": "أتظن أنك تعرف مكان أقوى عضلة في جسمك؟ أنت مخطئ."
   },
   "story_question": {
-    "tr": "Vücudumuzda tamamen kendini yenileyebilen tek iç organ hangisidir?",
-    "en": "Which internal organ in our body can completely regenerate itself?",
-    "es": "¿Qué órgano interno de nuestro cuerpo puede regenerarse por completo?",
-    "ar": "ما هو العضو الداخلي في جسمنا الذي يمكنه تجديد نفسه بالكامل؟"
+    "tr": "Sizce insan vücudundaki ağırlığına göre en güçlü kas hangisidir?",
+    "en": "Which do you think is the strongest muscle in the human body by weight?",
+    "es": "¿Cuálcrees que es el músculo más fuerte del cuerpo humano según su peso?",
+    "ar": "برأيك، ما هي أقوى عضلة في جسم الإنسان حسب الوزن؟"
   },
   "story_options": [
-    "Karaciğer",
-    "Kalp",
-    "Böbrek"
+    "Çiğneme Kasları (Masseter)",
+    "Kalp Kası",
+    "Gözü Hareket Ettiren Kaslar"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#sağlık",
-    "#vücudumuz",
-    "#tıp",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#insan",
+    "#vücut",
+    "#biyoloji",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bunu bildiğinizi mi düşünüyorsunuz? Daha fazlası için takip edin!",
-    "en": "Think you knew this? Follow for more!",
-    "es": "¿Crees que sabías esto? ¡Síguenos para más!",
-    "ar": "هل كنت تعتقد أنك تعرف هذا؟ تابعنا للمزيد!"
+    "tr": "Benzer şaşırtıcı insan anatomisi gerçekleri için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more surprising human anatomy facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes de anatomía humana!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق المدهشة حول تشريح الإنسان!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "National Institutes of Health (NIH)",
-    "url": "https://www.nih.gov"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries/item/what-is-the-strongest-muscle-in-the-human-body/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Karaciğeriniz Kendini Nasıl Yeniliyor?",
+  "_topic": "İnsan Vücudundaki En Güçlü Kas Hakkında Yanıldığınız Detay",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-09T21:36:01.583691+00:00",
+  "generated_at": "2026-10-09T23:02:52.725628+00:00",
   "topic_guard_days": 180
 }

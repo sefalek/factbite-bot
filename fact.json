@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Mide Asidiniz Camı Eritebilir mi?",
-    "body": "Vücudumuzda çelikten sağlam kemikler var ama asıl şaşırtıcı olan midemiz. Mide asidimiz o kadar güçlü ki, bir jileti eritebilecek güçte. Peki neden kendi midemizi eritmiyor? Çünkü hücrelerimiz kendilerini sürekli yeniliyor."
+    "headline": "Kulak Memeniz Hayatınız Boyunca Büyümeye Devam Eder",
+    "body": "Vücudumuzun büyük bir kısmı ergenlikten sonra gelişmeyi durdurur. Ancak kulak mememiz ve burnumuz yerçekimi ve kıkırdağın sürekli değişimi nedeniyle ömür boyu uzamaya devam eder."
   },
   "en": {
-    "headline": "Can Your Stomach Acid Dissolve Glass?",
-    "body": "Our bodies have bones stronger than steel, but the real surprise is our stomach. Our stomach acid is strong enough to dissolve a razor blade. So why doesn't it digest our own stomach? Because our cells constantly renew themselves."
+    "headline": "Your Earlobes Never Stop Growing Throughout Your Life",
+    "body": "Most of our body stops growing after puberty. However, our earlobes and nose continue to lengthen throughout our lives due to gravity and the constant remodeling of cartilage."
   },
   "es": {
-    "headline": "¿Puede tu ácido estomacal disolver el vidrio?",
-    "body": "Nuestro cuerpo tiene huesos más fuertes que el acero, pero la verdadera sorpresa es nuestro estómago. Nuestro ácido estomacal es lo suficientemente fuerte como para disolver una hoja de afeitar. ¿Por qué no se digiere a sí mismo? Porque nuestras células se renuevan constantemente."
+    "headline": "Los lóbulos de tus orejas nunca dejan de crecer durante tu vida",
+    "body": "La mayor parte de nuestro cuerpo deja de crecer después de la pubertad. Sin embargo, los lóbulos de las orejas y la nariz continúan alargándose debido a la gravedad y al cambio constante del cartílago."
   },
   "ar": {
-    "headline": "هل يمكن لعضاضة المعدة إذابة الزجاج؟",
-    "body": "تحتوي أجسامنا على عظام أقوى من الفولاذ، لكن المفاجأة الحقيقية هي معدتنا. حمض المعدة قوي لدرجة أنه قادر على إذابة شفرة حلاقة. فلماذا لا تهضم المعدة نفسها؟ لأن خلاياها تجدد نفسها باستمرار."
+    "headline": "شحمة أذنيك لا تتوقف أبداً عن النمو طوال حياتك",
+    "body": "معظم أجسامنا يتوقف عن النمو بعد البلوغ. ومع ذلك، تستمر شحمة الأذن والأنف في النمو والامتداد طوال حياتنا بسبب الجاذبية والتغير المستمر في الغضاريف."
   },
   "reel_hook": {
-    "tr": "Midendeki bu gizli güç bir metali bile yok edebilir!",
-    "en": "This hidden power in your stomach can destroy even metal!",
-    "es": "¡Este poder oculto en tu estómago puede destruir incluso el metal!",
-    "ar": "هذه القوة الخفية في معدتك يمكنها تدمير المعدن حتى!"
+    "tr": "Vücudunuzda asla büyümeyi durdurmayan tek iki yeri biliyor musunuz?",
+    "en": "Do you know the only two parts of your body that never stop growing?",
+    "es": "¿Conoces las únicas dos partes de tu cuerpo que nunca dejan de crecer?",
+    "ar": "هل تعلم الجزأين الوحيدين في جسمك اللذين لا يتوقفان أبداً عن النمو؟"
   },
   "story_question": {
-    "tr": "Mide duvarınız kendini ne kadar sürede bir yeniler?",
-    "en": "How often does your stomach lining renew itself?",
-    "es": "¿Con qué frecuencia se renueva el revestimiento de tu estómago?",
-    "ar": "كم مرة تجدد بطانة معدتك نفسها؟"
+    "tr": "Hangi iki organımız ömür boyu büyümeye devam eder?",
+    "en": "Which two body parts continue to grow throughout life?",
+    "es": "¿Qué dos partes del cuerpo continúan creciendo durante toda la vida?",
+    "ar": "ما هما الجزأيان اللذان يستمران في النمو طوال الحياة؟"
   },
   "story_options": [
-    "Her 3-4 günde bir",
-    "Ayda bir",
-    "Yılda bir"
+    "Kulak memesi ve burun",
+    "Saç ve tırnaklar",
+    "Göz ve dişler"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#insan",
-    "#sağlık",
+    "#bilgi",
+    "#vücut",
+    "#anatomideğişimi",
     "#ilginçbilgiler",
-    "#vücudumuz",
-    "#keşfet"
+    "#keşfet",
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "If you're hearing this for the first time, don't forget to like!",
-    "es": "Si es la primera vez que escuchas esto, ¡no olvides dar me gusta!",
-    "ar": "إذا كنت تسمع هذا لأول مرة، فلا تنس الاعجاب!"
+    "tr": "Bunu ilk kez duyuyorsan beğen ve takip et!",
+    "en": "If this is your first time hearing this, like and follow!",
+    "es": "Si es la primera vez que escuchas esto, ¡dale a me gusta y síguenos!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فالرجاء الإعجاب والمتابعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Healthline",
-    "url": "https://www.healthline.com/health/stomach-acid-levels"
+    "name": "Library of Congress Science Reference Services",
+    "url": "https://www.loc.gov/everyday-mysteries"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Mide Asidiniz Camı Eritebilir mi?",
+  "_topic": "Kulak Memeniz Hayatınız Boyunca Büyümeye Devam Eder",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-09T15:19:17.054267+00:00",
+  "generated_at": "2026-10-09T18:39:29.856307+00:00",
   "topic_guard_days": 180
 }

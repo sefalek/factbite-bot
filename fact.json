@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Saç Teli Ne Kadar Ağırlık Taşır?",
-    "body": "Tek bir insan saç telinin zayıf göründüğüne bakmayın; aslında ortalama bir saç teli yaklaşık yüz gramlık bir ağırlığı taşıyabilir. Bu kulağa az gelebilir ama yüzbinlerce saç telinden oluşan sağlıklı bir insan saçı, teorik olarak bir fili bile taşıyabilecek kadar devasa bir kaldırma kuvvetine sahiptir."
+    "headline": "Gözleriniz Açıkken Hapşırmak Neden İmkânsızdır?",
+    "body": "Hapşırdığınız an, vücudunuz kaslarınızı kontrol eden refleks yollarıyla gözlerinizi otomatik olarak kapatır. Bu durum, basıncın etkisiyle gözlerinizin yuvalarından fırlamasını önlemek için değil; burnunuzdan çıkan havayla birlikte gözlerinize yabancı maddelerin girmesini engellemek için çalışan kusursuz bir koruma mekanizmasıdır."
   },
   "en": {
-    "headline": "How Much Weight Can a Human Hair Hold?",
-    "body": "Don't let a single human hair's delicate look fool you; on average, one hair strand can support about one hundred grams of weight. That might sound small, but a healthy head of hair consisting of hundreds of thousands of strands has, theoretically, the massive tensile strength to lift an elephant."
+    "headline": "Why Is It Impossible to Sneeze with Your Eyes Open?",
+    "body": "The moment you sneeze, your body automatically closes your eyes through reflex pathways that control your muscles. This isn't to prevent your eyes from popping out due to pressure, but rather a flawless protective mechanism working to keep foreign particles out of your eyes from the air expelled through your nose."
   },
   "es": {
-    "headline": "¿Cuánto peso puede soportar un cabello humano?",
-    "body": "No te dejes engañar por la aparente fragilidad de un solo cabello humano; en promedio, una hebra puede soportar unos cien gramos de peso. Puede parecer poco, pero una cabellera sana con cientos de miles de cabellos tiene, teóricamente, una resistencia a la tracción masiva capaz de levantar un elefante."
+    "headline": "¿Por qué es imposible estornudar con los ojos abiertos?",
+    "body": "En el momento en que estornudas, tu cuerpo cierra automáticamente los ojos mediante vías reflejas que controlan tus músculos. Esto no es para evitar que tus ojos salgan por la presión, sino un mecanismo de protección perfecto para evitar que entren partículas extrañas en tus ojos con el aire expulsado por la nariz."
   },
   "ar": {
-    "headline": "كم من الوزن يمكن أن تحمله شعرة بشرية واحدة؟",
-    "body": "لا تنخدع بالمظهر الرقيق لشعرة بشرية واحدة؛ في المتوسط، يمكن لخصلة شعر واحدة أن تحтриму وزناً يبلغ حوالي مئة جرام. قد يبدو هذا قليلاً، ولكن شعر الإنسان السليم المكون من مئات الآلاف من الخصلات يمتلك نظرياً قوة هائلة تكفي لرفع فيل."
+    "headline": "لماذا من المستحيل العطس وعيناك مفتوحتان؟",
+    "body": "في اللحظة التي تعس فيها، يغلق جسمك عينيك تلقائياً من خلال مسارات منعكسة تتحكم في عضلاتك. هذا ليس لمنع عينيك من الجحوظ بسبب الضغط، بل هو آلية حماية مثالية تعمل على إبعاد الجسيمات الغريبة عن عينيك مع الهواء الخارج من أنفك."
   },
   "reel_hook": {
-    "tr": "Tek bir saç teli ne kadar ağırlık kaldırabilir?",
-    "en": "How much weight can a single hair strand lift?",
-    "es": "¿Cuánto peso puede levantar un solo cabello?",
-    "ar": "كم من الوزن يمكن لشعرة واحدة أن ترفع؟"
+    "tr": "Hapşırdığınız an neden gözleriniz asla açık kalmaz?",
+    "en": "Why do your eyes never stay open the exact moment you sneeze?",
+    "es": "¿Por qué tus ojos nunca se quedan abiertos en el momento exacto en que estornudas?",
+    "ar": "لماذا لا تظل عيناك مفتوحتين أبداً في اللحظة التي تعس فيها؟"
   },
   "story_question": {
-    "tr": "Saçınızın toplamda kaç kilogramı taşıyabileceğini tahmin edersiniz?",
-    "en": "How many kilograms do you think your hair can support in total?",
-    "es": "¿Cuántos kilogramos crees que tu cabello puede soportar en total?",
-    "ar": "كم كيلوجراماً تعتقد أن شعرك يمكنه حمله بالكامل؟"
+    "tr": "Hapşırdığımızda gözlerimizin kapanmasının asıl sebebi nedir?",
+    "en": "What is the real reason our eyes close when we sneeze?",
+    "es": "¿Cuál es la verdadera razón por la que nuestros ojos se cierran al estornudar?",
+    "ar": "ما هو السبب الحقيقي وراء إغلاق أعيننا عند العطس؟"
   },
   "story_options": [
-    "100 kg",
-    "1 Ton",
-    "10-12 Ton"
+    "Gözlerin fırlamasını önlemek",
+    "Yabancı maddelerden korumak",
+    "Beynin anlık durması"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#ilginçbilgiler",
     "#vücudumuz",
+    "#sağlık",
     "#keşfet",
-    "#anatomi",
-    "#bilgi"
+    "#tarih"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı insan anatomisi gerçeği için bizi takip et!",
-    "en": "Follow us for more surprising human anatomy facts like this!",
-    "es": "¡Síguenos para más datos sorprendentes sobre la anatomía humana como este!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة حول تشريح جسم الإنسان مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Library of Congress Science Reference Services",
-    "url": "https://www.loc.gov/everyday-mysteries"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries/item/why-do-our-eyes-close-when-we-sneeze/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Saç Teli Ne Kadar Ağırlık Taşır?",
+  "_topic": "Gözleriniz Açıkken Hapşırmak Neden İmkânsızdır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-09T00:39:02.948252+00:00",
+  "generated_at": "2026-10-09T11:54:46.259392+00:00",
   "topic_guard_days": 180
 }

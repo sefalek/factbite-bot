@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzimiz Gibi Benzersiz Olan O Gizli Yerimiz",
-    "body": "Parmak izimizin eşsiz olduğunu hepimiz biliyoruz. Peki ya dil izimizin de en az parmak izimiz kadar tamamen kişiye özel olduğunu duymuş muydunuz? Tıpkı parmak uçlarımızdaki kıvrımlar gibi, dilimizin üzerindeki desenler de dünyada başka hiç kimse de yoktur."
+    "headline": "Karaciğeriniz Kendini Nasıl Yeniliyor?",
+    "body": "İnsan vücudunun en çalışkan organlarından biri karaciğerdir. Vücuttaki toksinleri filtreleyen bu devasa bez, aynı zamanda inanılmaz bir kendini yenileme kapasitesine sahiptir. Karaciğerinizin büyük bir kısmı alındığında bile, hücreler hızla bölünüp çoğalarak kısa sürede eski boyutuna ve eski işlevine geri dönebilir."
   },
   "en": {
-    "headline": "The Hidden Part of Us as Unique as a Fingerprint",
-    "body": "We all know fingerprints are unique. But did you know that your tongue print is just as personal? Much like the curves on your fingertips, the patterns on your tongue are completely one-of-a-kind in the world."
+    "headline": "How Your Liver Regenerates Itself",
+    "body": "One of the hardest-working organs in the human body is the liver. Filtering toxins, this massive gland also has an incredible capacity for self-repair. Even if a large portion of your liver is removed, cells rapidly divide and multiply to restore its original size and function in a short time."
   },
   "es": {
-    "headline": "Nuestra parte oculta tan única como una huella dactilar",
-    "body": "Todos sabemos que las huellas dactilares son únicas. ¿Pero sabías que la impresión de tu lengua es igual de personal? Al igual que las curvas de tus dedos, los patrones de tu lengua son completamente únicos en el mundo."
+    "headline": "Cómo se regenera tu hígado",
+    "body": "Uno de los órganos más trabajadores del cuerpo humano es el hígado. Al filtrar toxinas, esta glándula masiva también tiene una capacidad increíble de autorreparación. Incluso si se extirpa una gran parte de tu hígado, las células se dividen y multiplican rápidamente para restaurar su tamaño y función originales."
   },
   "ar": {
-    "headline": "الجزء الخفي منا الفريد من نوعه مثل بصمة الإصبع",
-    "body": "نعلم جميعًا أن بصمات الأصابع فريدة من نوعها. ولكن هل تعلم أن بصمة لسانك شخصية بنفس القدر؟ تمامًا مثل الانحناءات الموجودة على أطراف أصابعك، فإن الأنماط الموجودة على لسانك فريدة تمامًا في العالم."
+    "headline": "كيف يجدد كبدك نفسه",
+    "body": "يعد الكبد أحد أكثر الأعضاء نشاطًا في جسم الإنسان. أثناء تصفية السموم، يمتلك هذا العضو الضخم أيضًا قدرة مذهلة على الإصلاح الذاتي. حتى لو تم إزالة جزء كبير من كبدك، فإن الخلايا تنقسم وتتضاعف بسرعة لاستعادة حجمها ووظفتها الأصلية في وقت قصير."
   },
   "reel_hook": {
-    "tr": "Parmak izinizden başka kimseye benzemeyen tek bir yeriniz daha olduğunu biliyor muydunuz?",
-    "en": "Did you know you have one more part of you that is uniquely yours, besides your fingerprint?",
-    "es": "¿Sabías que tienes otra parte de ti que es exclusivamente tuya, además de tu huella dactilar?",
-    "ar": "هل تعلم أن لديك جزءًا آخر منك فريدًا لك وحدك، إلى جانب بصمة إصبعك؟"
+    "tr": "Vücudunuzun bu organı adeta anka kuşu gibi küllerinden yeniden doğuyor!",
+    "en": "This organ in your body is practically reborn from its ashes like a phoenix!",
+    "es": "¡Este órgano de tu cuerpo renace prácticamente de sus cenizas como un fénix!",
+    "ar": "هذا العضو في جسمك يولد من جديد عمليًا من رماده مثل الطائر الأسطوري!"
   },
   "story_question": {
-    "tr": "Parmak iziniz dışında dünyada sadece size ait olan başka hangi organınızın deseni tamamen eşsizdir?",
-    "en": "Besides your fingerprint, which other organ's pattern in the world is completely unique to you?",
-    "es": "Aparte de tu huella dactilar, ¿el patrón de qué otro órgano en el mundo es completamente único para ti?",
-    "ar": "بصرف النظر عن بصمة إصبعك، ما هو نمط أي عضو آخر في العالم الفريد تمامًا بالنسبة لك؟"
+    "tr": "Vücudumuzda tamamen kendini yenileyebilen tek iç organ hangisidir?",
+    "en": "Which internal organ in our body can completely regenerate itself?",
+    "es": "¿Qué órgano interno de nuestro cuerpo puede regenerarse por completo?",
+    "ar": "ما هو العضو الداخلي في جسمنا الذي يمكنه تجديد نفسه بالكامل؟"
   },
   "story_options": [
-    "Dil izi",
-    "Kulak memesinin şekli",
-    "Göz bebeği damarları"
+    "Karaciğer",
+    "Kalp",
+    "Böbrek"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#insan",
-    "#anatomi",
+    "#bilim",
+    "#sağlık",
+    "#vücudumuz",
+    "#tıp",
     "#keşfet",
-    "#bilim"
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunu bildiğinizi mi düşünüyorsunuz? Daha fazlası için takip edin!",
+    "en": "Think you knew this? Follow for more!",
+    "es": "¿Crees que sabías esto? ¡Síguenos para más!",
+    "ar": "هل كنت تعتقد أنك تعرف هذا؟ تابعنا للمزيد!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Anatomy & Human Body Records",
-    "url": "https://www.ncbi.nlm.nih.gov/"
+    "name": "National Institutes of Health (NIH)",
+    "url": "https://www.nih.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzimiz Gibi Benzersiz Olan O Gizli Yerimiz",
+  "_topic": "Karaciğeriniz Kendini Nasıl Yeniliyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-09T20:02:32.784751+00:00",
+  "generated_at": "2026-10-09T21:36:01.583691+00:00",
   "topic_guard_days": 180
 }

@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözleriniz Açıkken Hapşırmak Neden İmkânsızdır?",
-    "body": "Hapşırdığınız an, vücudunuz kaslarınızı kontrol eden refleks yollarıyla gözlerinizi otomatik olarak kapatır. Bu durum, basıncın etkisiyle gözlerinizin yuvalarından fırlamasını önlemek için değil; burnunuzdan çıkan havayla birlikte gözlerinize yabancı maddelerin girmesini engellemek için çalışan kusursuz bir koruma mekanizmasıdır."
+    "headline": "İnsan Vücudundaki Bakteri Sayısı",
+    "body": "Biliyor musunuz, vücudumuzdaki bakteri hücrelerinin sayısı, kendi insan hücrelerimizin sayısından daha fazladır. Yani aynaya baktığınızda gördüğünüz kişinin yarıdan fazlası aslında mikroskobik canlılardan oluşuyor!"
   },
   "en": {
-    "headline": "Why Is It Impossible to Sneeze with Your Eyes Open?",
-    "body": "The moment you sneeze, your body automatically closes your eyes through reflex pathways that control your muscles. This isn't to prevent your eyes from popping out due to pressure, but rather a flawless protective mechanism working to keep foreign particles out of your eyes from the air expelled through your nose."
+    "headline": "Number of Bacteria in the Human Body",
+    "body": "Did you know that the number of bacterial cells in our body actually exceeds the number of our own human cells? That means when you look in the mirror, more than half of what you see is actually microscopic organisms!"
   },
   "es": {
-    "headline": "¿Por qué es imposible estornudar con los ojos abiertos?",
-    "body": "En el momento en que estornudas, tu cuerpo cierra automáticamente los ojos mediante vías reflejas que controlan tus músculos. Esto no es para evitar que tus ojos salgan por la presión, sino un mecanismo de protección perfecto para evitar que entren partículas extrañas en tus ojos con el aire expulsado por la nariz."
+    "headline": "El número de bacterias en el cuerpo humano",
+    "body": "¿Sabías que el número de células bacterianas en nuestro cuerpo supera al de nuestras propias células humanas? ¡Esto significa que cuando te miras al espejo, más de la mitad de lo que ves son en realidad organismos microscópicos!"
   },
   "ar": {
-    "headline": "لماذا من المستحيل العطس وعيناك مفتوحتان؟",
-    "body": "في اللحظة التي تعس فيها، يغلق جسمك عينيك تلقائياً من خلال مسارات منعكسة تتحكم في عضلاتك. هذا ليس لمنع عينيك من الجحوظ بسبب الضغط، بل هو آلية حماية مثالية تعمل على إبعاد الجسيمات الغريبة عن عينيك مع الهواء الخارج من أنفك."
+    "headline": "عدد البكتيريا في جسم الإنسان",
+    "body": "هل تعلم أن عدد الخلايا البكتيرية في أجسامنا يتجاوز في الواقع عدد خلايا جسم الإنسان نفسه؟ هذا يعني أنه عندما تنظر في المرآة، فإن أكثر من نصف ما تراة يتكون في الواقع من كائنات مجهرية!"
   },
   "reel_hook": {
-    "tr": "Hapşırdığınız an neden gözleriniz asla açık kalmaz?",
-    "en": "Why do your eyes never stay open the exact moment you sneeze?",
-    "es": "¿Por qué tus ojos nunca se quedan abiertos en el momento exacto en que estornudas?",
-    "ar": "لماذا لا تظل عيناك مفتوحتين أبداً في اللحظة التي تعس فيها؟"
+    "tr": "Aynaya baktığında gördüğün kişinin sadece yarısı sensin!",
+    "en": "Only half of the person you see in the mirror is actually you!",
+    "es": "¡Solo la mitad de la persona que ves en el espejo eres realmente tú!",
+    "ar": "نصف الشخص الذي تراه في المرآة فقط هو أنت حقاً!"
   },
   "story_question": {
-    "tr": "Hapşırdığımızda gözlerimizin kapanmasının asıl sebebi nedir?",
-    "en": "What is the real reason our eyes close when we sneeze?",
-    "es": "¿Cuál es la verdadera razón por la que nuestros ojos se cierran al estornudar?",
-    "ar": "ما هو السبب الحقيقي وراء إغلاق أعيننا عند العطس؟"
+    "tr": "Vücudumuzdaki bakteri hücreleri insan hücrelerinden sizce kaç kat fazladır?",
+    "en": "By what factor do you think bacterial cells outnumber human cells in our body?",
+    "es": "¿Por qué factor crees que las células bacterianas superan a las humanas en nuestro cuerpo?",
+    "ar": "بأي معامل تعتقد أن الخلايا البكتيرية تفوق الخلايا البشرية في أجسامنا؟"
   },
   "story_options": [
-    "Gözlerin fırlamasını önlemek",
-    "Yabancı maddelerden korumak",
-    "Beynin anlık durması"
+    "Daha az",
+    "Neredeyse eşit",
+    "Çok daha fazla"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
+    "#biyoloji",
+    "#vücut",
+    "#mikrobiyoloji",
     "#ilginçbilgiler",
-    "#vücudumuz",
-    "#sağlık",
-    "#keşfet",
-    "#tarih"
+    "#sağlık"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Mantente atento a más datos sorprendentes como este!",
+    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Library of Congress",
-    "url": "https://www.loc.gov/everyday-mysteries/item/why-do-our-eyes-close-when-we-sneeze/"
+    "name": "National Institutes of Health (NIH)",
+    "url": "https://www.nih.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözleriniz Açıkken Hapşırmak Neden İmkânsızdır?",
+  "_topic": "İnsan Vücudundaki Bakteri Sayısı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-09T11:54:46.259392+00:00",
+  "generated_at": "2026-10-09T13:17:16.920885+00:00",
   "topic_guard_days": 180
 }

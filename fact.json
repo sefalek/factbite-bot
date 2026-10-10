@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerimiz Aslında Saniyede Kaç Kare Yakalar?",
-    "body": "Gözlerimizin bir kamera gibi kare kare çalıştığını düşünürüz, değil mi? Ama insan gözü ve beyni bundan çok daha farklı işler. Aslında dünyayı kesintisiz bir video gibi değil, sürekli güncellenen anlık algılar silsilesi olarak yaşarız. Bu yüzden ani hareketleri yakalamak bazen milisaniyelerimizi alır."
+    "headline": "Parmak İzimiz Gibi Benzersiz Olan Başka Ne Var?",
+    "body": "Parmak izimizin eşsiz olduğunu hepimiz biliyoruz. Peki ya dil izimiz? Tıpkı parmak izi gibi, her insanın dilinin üzerindeki pürüzler ve şekiller de tamamen kendine hastır ve dünyada bir eşi daha yoktur."
   },
   "en": {
-    "headline": "How Many Frames Per Second Do Our Eyes Actually Capture?",
-    "body": "We tend to think our eyes work like a camera, capturing frame by frame, right? But the human eye and brain operate quite differently. We don't actually experience the world as a seamless video, but rather as a continuous stream of updated perceptions. That's why catching sudden movements sometimes takes us milliseconds."
+    "headline": "What Else Is As Unique As Our Fingerprint?",
+    "body": "We all know our fingerprints are unique. But what about our tongue print? Just like a fingerprint, the texture and patterns on every human tongue are completely distinct and one of a kind."
   },
   "es": {
-    "headline": "¿Cuántos fotogramas por segundo capturan realmente nuestros ojos?",
-    "body": "Tendemos a pensar que nuestros ojos funcionan como una cámara, capturando fotograma a fotograma, ¿verdad? Pero el ojo humano y el cerebro operan de manera muy diferente. En realidad, no experimentamos el mundo como un video continuo, sino como un flujo constante de percepciones actualizadas."
+    "headline": "¿Qué otra cosa es tan única como nuestra huella dactilar?",
+    "body": "Todos sabemos que nuestras huellas dactilares son únicas. ¿Pero qué pasa con la huella de la lengua? Al igual que una huella dactilar, la textura y los patrones en la lengua de cada ser humano son completamente distintos."
   },
   "ar": {
-    "headline": "كم عدد الإطارات في الثانية التي تلتقطها عيوننا حقاً؟",
-    "body": "نحن نميل إلى التفكير في أن أعيننا تعمل مثل الكاميرا، تلتقط إطاراً تلو الآخر، أليس كذلك؟ لكن العين البشرية والدماغ يعملان بشكل مختلف تماماً. نحن لا نختبر العالم كفيديو سلس، بل كتدفق مستمر من الإدراكات المحدثة."
+    "headline": "ما هو الشيء الآخر الفريد مثل بصمة إصبعنا؟",
+    "body": "نحن نعلم جميعًا أن بصمات أصابعنا فريدة من نوعها. ولكن ماذا عن بصمة اللسان؟ تمامًا مثل بصمة الإصبع، فإن الملمس والأنماط الموجودة على لسان كل إنسان مميزة وفريدة تمامًا."
   },
   "reel_hook": {
-    "tr": "Gözlerinin dünyayı nasıl gördüğünü bildiğini mi sanıyorsun?",
-    "en": "Think you know how your eyes see the world?",
-    "es": "¿Crees que sabes cómo tus ojos ven el mundo?",
-    "ar": "أتظن أنك تعرف كيف ترى عيناك العالم؟"
+    "tr": "Parmak izinizi biliyorsunuz, peki ya dil izinizi?",
+    "en": "You know your fingerprint, but what about your tongue print?",
+    "es": "Conoces tu huella dactilar, ¿pero tu huella lingual?",
+    "ar": "أنت تعرف بصمة إصبعك، فماذا عن بصمة لسانك؟"
   },
   "story_question": {
-    "tr": "Sence insan gözü saniyede kaç karelik bir hıza eşdeğer bir algıya sahiptir?",
-    "en": "How many frames per second do you think human perception is equivalent to?",
-    "es": "¿A cuántos fotogramas por segundo crees que equivale la percepción humana?",
-    "ar": "بكم إطار في الثانية تقترب الإدراك البشري برأيك؟"
+    "tr": "Sizce vücudumuzda parmak izi dışında tamamen benzersiz olan başka hangi organımız vardır?",
+    "en": "Which other body part do you think is completely unique besides your fingerprint?",
+    "es": "¿Qué otra parte de nuestro cuerpo crees que es completamente única además de la huella dactilar?",
+    "ar": "برأيك، ما هو الجزء الآخر في جسمنا الفريد تمامًا بصرف النظر عن بصمة الإصبع؟"
   },
   "story_options": [
-    "24 Kare",
-    "60 Kare",
-    "Kare kavramı yok"
+    "Dil",
+    "Kulak memesinin şekli",
+    "Diş yapısı"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#göz",
-    "#insan",
-    "#keşfet",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#insan",
+    "#anatomivebilim",
+    "#biliyormuydunuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Sígueme para más datos como este!",
-    "ar": "تابع للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Neuroscience of Vision Research",
-    "url": "https://www.sciencedaily.com/news/plants_animals/nature/"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries/item/is-every-persons-tongue-print-as-unique-as-a-fingerprint/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerimiz Aslında Saniyede Kaç Kare Yakalar?",
+  "_topic": "Parmak İzimiz Gibi Benzersiz Olan Başka Ne Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-10T00:20:06.847979+00:00",
+  "generated_at": "2026-10-10T11:11:39.051478+00:00",
   "topic_guard_days": 180
 }

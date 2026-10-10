@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Diliniz Neden Bu Kadar Çabuk İyileşiyor?",
-    "body": "Ağzınızın içinde oluşan küçük bir kesik ya da yanık neden parmağınızdakinden çok daha hızlı kapanır? Bilim insanları, tükürüğümüzde bulunan ve yaraların iyileşme sürecini hızlandıran özel proteinlerin bu mucizevi hızın arkasında olduğunu söylüyor."
+    "headline": "Parmak Uçlarımızın Islakken Buruşmasının Sebebi",
+    "body": "Duşta parmaklarınızın buruştuğunu fark etmişsinizdir. Bunun derinin suyu emmesiyle ilgisi yok. Sinir sistemimiz, ıslak nesneleri daha iyi kavrayabilmemiz için parmaklarımızı bilerek buruşturur. Yani bu, doğanın bize sunduğu kusursuz bir kaymayı önleme mekanizmasıdır."
   },
   "en": {
-    "headline": "Why Does Your Tongue Heal So Fast?",
-    "body": "Why does a small cut or burn inside your mouth heal much faster than one on your finger? Scientists say special proteins found in our saliva that accelerate wound healing are behind this miraculous speed."
+    "headline": "Why Your Fingertips Wrinkle in Water",
+    "body": "You might have noticed your fingers wrinkling in the shower. This has nothing to do with skin absorbing water. Our nervous system intentionally wrinkles our fingers so we can grip wet objects better. It's a brilliant anti-slip mechanism provided by nature."
   },
   "es": {
-    "headline": "¿Por qué tu lengua se cura tan rápido?",
-    "body": "¿Por qué un pequeño corte o quemadura dentro de la boca se cura mucho más rápido que uno en el dedo? Los científicos dicen que las proteínas especiales en nuestra saliva que aceleran la curación de heridas están detrás de esta velocidad milagrosa."
+    "headline": "Por qué se arrugan las yemas de los dedos en el agua",
+    "body": "Habrás notado que tus dedos se arrugan en la ducha. Esto no tiene nada que ver con que la piel absorba agua. Nuestro sistema nervioso arruga intencionalmente los dedos para que podamos agarrar mejor los objetos mojados. Es un mecanismo antideslizante perfecto de la naturaleza."
   },
   "ar": {
-    "headline": "لماذا يلتئم لسانك بهذه السرعة؟",
-    "body": "لماذا يلتئم الجرح أو الحرق الصغير داخل الفم بشكل أسرع بكثير من الإصابة في إصبعك؟ يقول العلماء إن البروتينات الخاصة الموجودة في لعابنا والتي تسرع شفاء الجروح هي وراء هذه السرعة المعجزة."
+    "headline": "لماذا تجعد أطراف أصابعنا في الماء",
+    "body": "ربما لاحظت تجعد أصابعك أثناء الاستحمام. لا علاقة لهذا بامتصاص الجلد للماء. يقوم جهازنا العصبي بتجعد أصابعنا عمداً لكي نتمكن من الإمساك بالأجسام المبللة بشكل أفضل. إنها آلية مثالية لمنع الانزلاق من الطبيعة."
   },
   "reel_hook": {
-    "tr": "Ağzınızdaki yaralar neden parmağınızdakinden çok daha hızlı iyileşir?",
-    "en": "Why do wounds in your mouth heal much faster than on your finger?",
-    "es": "¿Por qué las heridas en tu boca sanan mucho más rápido que en tu dedo?",
-    "ar": "لماذا تلتئم الجروح في فمك بشكل أسرع بكثير من إصبعك؟"
+    "tr": "Parmaklarınız duşta neden buruşur zannediyorsunuz?",
+    "en": "Why do you think your fingers wrinkle in the shower?",
+    "es": "¿Por qué crees que se arrugan tus dedos en la ducha?",
+    "ar": "لماذا تعتقد أن أصابعك تجعد في الاستحمام؟"
   },
   "story_question": {
-    "tr": "Ağız içindeki yaraların inanılmaz hızla iyileşmesini sağlayan ana etken sizce nedir?",
-    "en": "What do you think is the main factor enabling wounds inside the mouth to heal with incredible speed?",
-    "es": "¿Cuál creen que es el principal factor que permite que las heridas dentro de la boca sanen con una velocidad increíble?",
-    "ar": "ما برأيك هو العامل الرئيسي الذي يمكّن الجروح داخل الفم من الشفاء بسرعة مذهلة؟"
+    "tr": "Parmakların suda buruşması neyin sonucudur?",
+    "en": "What causes fingers to wrinkle in water?",
+    "es": "¿Qué causa que los dedos se arruguen en el agua?",
+    "ar": "ما الذي يسبب تجعد الأصابع في الماء؟"
   },
   "story_options": [
-    "Tükürüğün iyileştirici gücü",
-    "Kan akışının çok yoğun olması",
-    "Hücrelerin sürekli yenilenmesi"
+    "Aktif sinir sistemi tepkisi",
+    "Deri hücrelerinin şişmesi",
+    "Suyun yağı çözmesi"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#sağlık",
     "#ilginçbilgiler",
     "#vücudumuz",
     "#keşfet",
-    "#biyoloji"
+    "#pratikbilgiler"
   ],
   "cta": {
-    "tr": "Bu şaşırtıcı bilgiyi öğrenmesini istediğin bir arkadaşına gönder!",
-    "en": "Send this to a friend who needs to know this surprising fact!",
-    "es": "¡Envía esto a un amigo que necesite saber este dato sorprendente!",
-    "ar": "أرسل هذا إلى صديق يحتاج إلى معرفة هذه الحقيقة المدهشة!"
+    "tr": "Bunu bildiğin arkadaşına gönder!",
+    "en": "Send this to a friend who should know this!",
+    "es": "¡Envíaselo a un amigo que deba saber esto!",
+    "ar": "أرسل هذا إلى صديق يجب أن يعرف هذا!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Institutes of Health (NIH)",
+    "name": "National Institutes of Health",
     "url": "https://www.nih.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Diliniz Neden Bu Kadar Çabuk İyileşiyor?",
+  "_topic": "Parmak Uçlarımızın Islakken Buruşmasının Sebebi",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-10T12:27:00.998271+00:00",
+  "generated_at": "2026-10-10T14:29:32.409305+00:00",
   "topic_guard_days": 180
 }

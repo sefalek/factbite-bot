@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzimiz Gibi Benzersiz Olan Başka Ne Var?",
-    "body": "Parmak izimizin eşsiz olduğunu hepimiz biliyoruz. Peki ya dil izimiz? Tıpkı parmak izi gibi, her insanın dilinin üzerindeki pürüzler ve şekiller de tamamen kendine hastır ve dünyada bir eşi daha yoktur."
+    "headline": "Diliniz Neden Bu Kadar Çabuk İyileşiyor?",
+    "body": "Ağzınızın içinde oluşan küçük bir kesik ya da yanık neden parmağınızdakinden çok daha hızlı kapanır? Bilim insanları, tükürüğümüzde bulunan ve yaraların iyileşme sürecini hızlandıran özel proteinlerin bu mucizevi hızın arkasında olduğunu söylüyor."
   },
   "en": {
-    "headline": "What Else Is As Unique As Our Fingerprint?",
-    "body": "We all know our fingerprints are unique. But what about our tongue print? Just like a fingerprint, the texture and patterns on every human tongue are completely distinct and one of a kind."
+    "headline": "Why Does Your Tongue Heal So Fast?",
+    "body": "Why does a small cut or burn inside your mouth heal much faster than one on your finger? Scientists say special proteins found in our saliva that accelerate wound healing are behind this miraculous speed."
   },
   "es": {
-    "headline": "¿Qué otra cosa es tan única como nuestra huella dactilar?",
-    "body": "Todos sabemos que nuestras huellas dactilares son únicas. ¿Pero qué pasa con la huella de la lengua? Al igual que una huella dactilar, la textura y los patrones en la lengua de cada ser humano son completamente distintos."
+    "headline": "¿Por qué tu lengua se cura tan rápido?",
+    "body": "¿Por qué un pequeño corte o quemadura dentro de la boca se cura mucho más rápido que uno en el dedo? Los científicos dicen que las proteínas especiales en nuestra saliva que aceleran la curación de heridas están detrás de esta velocidad milagrosa."
   },
   "ar": {
-    "headline": "ما هو الشيء الآخر الفريد مثل بصمة إصبعنا؟",
-    "body": "نحن نعلم جميعًا أن بصمات أصابعنا فريدة من نوعها. ولكن ماذا عن بصمة اللسان؟ تمامًا مثل بصمة الإصبع، فإن الملمس والأنماط الموجودة على لسان كل إنسان مميزة وفريدة تمامًا."
+    "headline": "لماذا يلتئم لسانك بهذه السرعة؟",
+    "body": "لماذا يلتئم الجرح أو الحرق الصغير داخل الفم بشكل أسرع بكثير من الإصابة في إصبعك؟ يقول العلماء إن البروتينات الخاصة الموجودة في لعابنا والتي تسرع شفاء الجروح هي وراء هذه السرعة المعجزة."
   },
   "reel_hook": {
-    "tr": "Parmak izinizi biliyorsunuz, peki ya dil izinizi?",
-    "en": "You know your fingerprint, but what about your tongue print?",
-    "es": "Conoces tu huella dactilar, ¿pero tu huella lingual?",
-    "ar": "أنت تعرف بصمة إصبعك، فماذا عن بصمة لسانك؟"
+    "tr": "Ağzınızdaki yaralar neden parmağınızdakinden çok daha hızlı iyileşir?",
+    "en": "Why do wounds in your mouth heal much faster than on your finger?",
+    "es": "¿Por qué las heridas en tu boca sanan mucho más rápido que en tu dedo?",
+    "ar": "لماذا تلتئم الجروح في فمك بشكل أسرع بكثير من إصبعك؟"
   },
   "story_question": {
-    "tr": "Sizce vücudumuzda parmak izi dışında tamamen benzersiz olan başka hangi organımız vardır?",
-    "en": "Which other body part do you think is completely unique besides your fingerprint?",
-    "es": "¿Qué otra parte de nuestro cuerpo crees que es completamente única además de la huella dactilar?",
-    "ar": "برأيك، ما هو الجزء الآخر في جسمنا الفريد تمامًا بصرف النظر عن بصمة الإصبع؟"
+    "tr": "Ağız içindeki yaraların inanılmaz hızla iyileşmesini sağlayan ana etken sizce nedir?",
+    "en": "What do you think is the main factor enabling wounds inside the mouth to heal with incredible speed?",
+    "es": "¿Cuál creen que es el principal factor que permite que las heridas dentro de la boca sanen con una velocidad increíble?",
+    "ar": "ما برأيك هو العامل الرئيسي الذي يمكّن الجروح داخل الفم من الشفاء بسرعة مذهلة؟"
   },
   "story_options": [
-    "Dil",
-    "Kulak memesinin şekli",
-    "Diş yapısı"
+    "Tükürüğün iyileştirici gücü",
+    "Kan akışının çok yoğun olması",
+    "Hücrelerin sürekli yenilenmesi"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
+    "#bilim",
+    "#sağlık",
     "#ilginçbilgiler",
-    "#insan",
-    "#anatomivebilim",
-    "#biliyormuydunuz"
+    "#vücudumuz",
+    "#keşfet",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bu şaşırtıcı bilgiyi öğrenmesini istediğin bir arkadaşına gönder!",
+    "en": "Send this to a friend who needs to know this surprising fact!",
+    "es": "¡Envía esto a un amigo que necesite saber este dato sorprendente!",
+    "ar": "أرسل هذا إلى صديق يحتاج إلى معرفة هذه الحقيقة المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Library of Congress",
-    "url": "https://www.loc.gov/everyday-mysteries/item/is-every-persons-tongue-print-as-unique-as-a-fingerprint/"
+    "name": "National Institutes of Health (NIH)",
+    "url": "https://www.nih.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzimiz Gibi Benzersiz Olan Başka Ne Var?",
+  "_topic": "Diliniz Neden Bu Kadar Çabuk İyileşiyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-10T11:11:39.051478+00:00",
+  "generated_at": "2026-10-10T12:27:00.998271+00:00",
   "topic_guard_days": 180
 }

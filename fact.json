@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudundaki En Güçlü Kas Hakkında Yanıldığınız Detay",
-    "body": "Çoğumuz insan vücudundaki en güçlü kasın bacaklarımızdaki baldır veya çenemizdeki çiğneme kası olduğunu zannederiz. Ancak ağırlık oranına göre hesaplandığında şampiyon tamamen başka bir yerde saklıdır."
+    "headline": "Gözlerimiz Aslında Saniyede Kaç Kare Yakalar?",
+    "body": "Gözlerimizin bir kamera gibi kare kare çalıştığını düşünürüz, değil mi? Ama insan gözü ve beyni bundan çok daha farklı işler. Aslında dünyayı kesintisiz bir video gibi değil, sürekli güncellenen anlık algılar silsilesi olarak yaşarız. Bu yüzden ani hareketleri yakalamak bazen milisaniyelerimizi alır."
   },
   "en": {
-    "headline": "The Detail You Got Wrong About the Strongest Muscle in the Human Body",
-    "body": "Most of us think the strongest muscle in the human body is the calf in our legs or the masseter in our jaw. However, when calculated by weight ratio, the champion is hidden somewhere completely different."
+    "headline": "How Many Frames Per Second Do Our Eyes Actually Capture?",
+    "body": "We tend to think our eyes work like a camera, capturing frame by frame, right? But the human eye and brain operate quite differently. We don't actually experience the world as a seamless video, but rather as a continuous stream of updated perceptions. That's why catching sudden movements sometimes takes us milliseconds."
   },
   "es": {
-    "headline": "El detalle en el que te equivocas sobre el músculo más fuerte del cuerpo humano",
-    "body": "La mayoría de nosotros piensa que el músculo más fuerte del cuerpo humano es la pantorrilla o el masetero en la mandíbula. Sin embargo, calculado por relación de peso, el verdadero campeón está escondido en otro lugar."
+    "headline": "¿Cuántos fotogramas por segundo capturan realmente nuestros ojos?",
+    "body": "Tendemos a pensar que nuestros ojos funcionan como una cámara, capturando fotograma a fotograma, ¿verdad? Pero el ojo humano y el cerebro operan de manera muy diferente. En realidad, no experimentamos el mundo como un video continuo, sino como un flujo constante de percepciones actualizadas."
   },
   "ar": {
-    "headline": "التفاصيل التي أخطأت فيها حول أقوى عضلات جسم الإنسان",
-    "body": "يعتقد معظمنا أن أقوى عضلة في جسم الإنسان هي عضلات الساق أو الفك. ومع ذلك، عند حسابها بناءً على نسبة الوزن، فإن البطل الحقيقي مخفي في مكان مختلف تماماً."
+    "headline": "كم عدد الإطارات في الثانية التي تلتقطها عيوننا حقاً؟",
+    "body": "نحن نميل إلى التفكير في أن أعيننا تعمل مثل الكاميرا، تلتقط إطاراً تلو الآخر، أليس كذلك؟ لكن العين البشرية والدماغ يعملان بشكل مختلف تماماً. نحن لا نختبر العالم كفيديو سلس، بل كتدفق مستمر من الإدراكات المحدثة."
   },
   "reel_hook": {
-    "tr": "Vücudunuzdaki en güçlü kasın nerede olduğunu bildiğinizi mi sanıyorsunuz? Yanılıyorsunuz.",
-    "en": "Think you know where the strongest muscle in your body is? You're wrong.",
-    "es": "¿Crees saber dónde está el músculo más fuerte de tu cuerpo? Te equivocas.",
-    "ar": "أتظن أنك تعرف مكان أقوى عضلة في جسمك؟ أنت مخطئ."
+    "tr": "Gözlerinin dünyayı nasıl gördüğünü bildiğini mi sanıyorsun?",
+    "en": "Think you know how your eyes see the world?",
+    "es": "¿Crees que sabes cómo tus ojos ven el mundo?",
+    "ar": "أتظن أنك تعرف كيف ترى عيناك العالم؟"
   },
   "story_question": {
-    "tr": "Sizce insan vücudundaki ağırlığına göre en güçlü kas hangisidir?",
-    "en": "Which do you think is the strongest muscle in the human body by weight?",
-    "es": "¿Cuálcrees que es el músculo más fuerte del cuerpo humano según su peso?",
-    "ar": "برأيك، ما هي أقوى عضلة في جسم الإنسان حسب الوزن؟"
+    "tr": "Sence insan gözü saniyede kaç karelik bir hıza eşdeğer bir algıya sahiptir?",
+    "en": "How many frames per second do you think human perception is equivalent to?",
+    "es": "¿A cuántos fotogramas por segundo crees que equivale la percepción humana?",
+    "ar": "بكم إطار في الثانية تقترب الإدراك البشري برأيك؟"
   },
   "story_options": [
-    "Çiğneme Kasları (Masseter)",
-    "Kalp Kası",
-    "Gözü Hareket Ettiren Kaslar"
+    "24 Kare",
+    "60 Kare",
+    "Kare kavramı yok"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
+    "#göz",
     "#insan",
-    "#vücut",
-    "#biyoloji",
-    "#gerçekler"
+    "#keşfet",
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı insan anatomisi gerçekleri için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more surprising human anatomy facts!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes de anatomía humana!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق المدهشة حول تشريح الإنسان!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Sígueme para más datos como este!",
+    "ar": "تابع للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Library of Congress",
-    "url": "https://www.loc.gov/everyday-mysteries/item/what-is-the-strongest-muscle-in-the-human-body/"
+    "name": "Neuroscience of Vision Research",
+    "url": "https://www.sciencedaily.com/news/plants_animals/nature/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudundaki En Güçlü Kas Hakkında Yanıldığınız Detay",
+  "_topic": "Gözlerimiz Aslında Saniyede Kaç Kare Yakalar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-09T23:02:52.725628+00:00",
+  "generated_at": "2026-10-10T00:20:06.847979+00:00",
   "topic_guard_days": 180
 }

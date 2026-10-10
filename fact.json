@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak Uçlarınız Neden Dokunmatik Ekranları Sevmez?",
-    "body": "Telefonunuza eldivenle dokunduğunuzda ekranın çalışmadığını fark etmişsinizdir. Bunun sebebi ekranların parmak izinize değil, vücudunuzdaki elektriğe tepki vermesidir."
+    "headline": "İnsan Vücudundaki En Güçlü Kas Değil, En Güçlü Basınç Üreten Bölgesi",
+    "body": "Çoğumuz çene kasımızın vücuttaki en güçlü kas olduğunu düşünürüz ama asıl şaşırtıcı olan kulak içindeki stapes yani üzengi kemiğidir. Vücudun en küçük kemiği olan bu yapı, ses dalgalarını iletmekle kalmaz; kulak zarından gelen basıncı en verimli şekilde iç kulağa aktararak inanılmaz bir mekanik avantaj sağlar."
   },
   "en": {
-    "headline": "Why Your Fingertips Don't Like Touchscreens",
-    "body": "You might have noticed touchscreens don't work with regular gloves. That's because they react to the electrical charge in your body, not just your touch."
+    "headline": "The Strongest Part of the Human Body isn't a Muscle",
+    "body": "Most of us think the jaw is the strongest muscle, but the true mechanical marvel is the stapes bone inside the ear. As the smallest bone in the body, it doesn't just transmit sound waves; it amplifies pressure from the eardrum to the inner ear with incredible efficiency."
   },
   "es": {
-    "headline": "Por qué a las yemas de tus dedos no les gustan las pantallas táctiles",
-    "body": "Habrás notado que las pantallas táctiles no funcionan con guantes normales. Esto se debe a que reaccionan a la carga eléctrica de tu cuerpo, no solo al tacto."
+    "headline": "La parte más fuerte del cuerpo humano no es un músculo",
+    "body": "Muchos creemos que la mandíbula es el músculo más fuerte, pero la verdadera maravilla mecánica es el estribo en el oído. Al ser el hueso más pequeño del cuerpo, no solo transmite ondas sonoras, sino que amplifica la presión del tímpano al oído interno con increíble eficiencia."
   },
   "ar": {
-    "headline": "لماذا لا تحب أطراف أصابعك شاشات اللمس؟",
-    "body": "ربما لاحظت أن شاشات اللمس لا تعمل بالقفازات العادية. ويرجع ذلك إلى أنها تتفاعل مع الشحنة الكهربائية في جسمك وليس فقط لمستك."
+    "headline": "أقوى جزء في جسم الإنسان ليس عضلة",
+    "body": "يعتقد معظمنا أن عضلات الفك هي الأقوى، لكن العجيبة الميكانيكية الحقيقية هي عظمة الركاب داخل الأذن. باعتبارها أصغر عظمة في الجسم، فهي لا تنقل موجات الصوت فحسب، بل تضخم الضغط من طبلة الأذن إلى الأذن الداخلية بكفاءة مذهلة."
   },
   "reel_hook": {
-    "tr": "Telefon ekranınız parmağınızı aslında hiç görmüyor, peki neyi hissediyor?",
-    "en": "Your phone screen actually doesn't see your finger at all, so what does it feel?",
-    "es": "La pantalla de tu teléfono en realidad no ve tu dedo, ¿qué es lo que siente?",
-    "ar": "شاشة هاتفك لا ترى إصبعك على الإطلاق، فما الذي تشعر به إذن؟"
+    "tr": "Vücudunuzdaki en güçlü basıncı üreten yerin neresi olduğunu biliyor musunuz? Cevap muhtemelen parmağınızın ucunda değil, kafatasınızın çok derinlerinde.",
+    "en": "Do you know where the highest pressure in your body is generated? The answer is probably not at your fingertips, but deep inside your skull.",
+    "es": "¿Sabes dónde se genera la mayor presión en tu cuerpo? La respuesta probablemente no esté en la punta de tus dedos, sino en lo profundo de tu cráneo.",
+    "ar": "هل تعلم أين يتولد أقوى ضغط في جسمك؟ الإجابة على الأرجح ليست في أطراف أصابعك، بل في عمق جمجمتك."
   },
   "story_question": {
-    "tr": "Dokunmatik ekranlar hangi fiziksel özelliğinize tepki verir?",
-    "en": "Which physical property do touchscreens react to?",
-    "es": "¿A qué propiedad física reaccionan las pantallas táctiles?",
-    "ar": "ما هي الخاصية الفيزيائية التي تستجيب لها شاشات اللمس؟"
+    "tr": "Vücudun en küçük kemiği olan üzengi (stapes) nerede bulunur?",
+    "en": "Where is the stapes, the smallest bone in the body, located?",
+    "es": "¿Dónde se encuentra el estribo, el hueso más pequeño del cuerpo?",
+    "ar": "أين تقع عظمة الركاب، وهي أصغر عظمة في الجسم؟"
   },
   "story_options": [
-    "Vücut elektriği",
-    "Parmak sıcaklığı",
-    "Deri basıncı"
+    "Kulak içi",
+    "Burun boşluğu",
+    "Parmak ucu"
   ],
   "hashtags": [
     "#FactBite",
-    "#teknoloji",
-    "#bilim",
-    "#telefon",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#İnsanVücudu",
+    "#Anatomi",
+    "#BilimSırları",
+    "#İlginçBilgiler",
+    "#BunuBiliyorMuydunuz"
   ],
   "cta": {
-    "tr": "Bunu bildiğinizi kimler tahmin ederdi? Yorumlarda buluşalım!",
-    "en": "Who would have guessed this? Let us know in the comments!",
-    "es": "¿Quién habría adivinado esto? ¡Cuéntanos en los comentarios!",
-    "ar": "من كان يتوقع ذلك؟ أخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı insan vücudu sırrı için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more amazing human body secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos asombrosos del cuerpo humano como este!",
+    "ar": "لا تنس متابعتنا للمزيد من أسرار جسم الإنسان المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "HowStuffWorks",
-    "url": "https://computer.howstuffworks.com/question716.htm"
+    "name": "Anatomy & Physiology Sources",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538497/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak Uçlarınız Neden Dokunmatik Ekranları Sevmez?",
+  "_topic": "İnsan Vücudundaki En Güçlü Kas Değil, En Güçlü Basınç Üreten Bölgesi",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-10T19:09:44.308839+00:00",
+  "generated_at": "2026-10-10T20:34:24.190742+00:00",
   "topic_guard_days": 180
 }

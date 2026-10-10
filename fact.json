@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudundaki En Güçlü Kas Değil, En Güçlü Basınç Üreten Bölgesi",
-    "body": "Çoğumuz çene kasımızın vücuttaki en güçlü kas olduğunu düşünürüz ama asıl şaşırtıcı olan kulak içindeki stapes yani üzengi kemiğidir. Vücudun en küçük kemiği olan bu yapı, ses dalgalarını iletmekle kalmaz; kulak zarından gelen basıncı en verimli şekilde iç kulağa aktararak inanılmaz bir mekanik avantaj sağlar."
+    "headline": "İnsan Kalbinin Ürettiği O Muazzam Enerji",
+    "body": "Kalbiniz sadece bir günde, bir kamyonu yaklaşık 32 kilometre taşıyabilecek kadar enerji üretir. Bu küçük kas, hiç durmadan çalışarak hayatınız boyunca inanılmaz bir mesafeyi kat etmenizi sağlar."
   },
   "en": {
-    "headline": "The Strongest Part of the Human Body isn't a Muscle",
-    "body": "Most of us think the jaw is the strongest muscle, but the true mechanical marvel is the stapes bone inside the ear. As the smallest bone in the body, it doesn't just transmit sound waves; it amplifies pressure from the eardrum to the inner ear with incredible efficiency."
+    "headline": "The Massive Energy Produced by the Human Heart",
+    "body": "In just one day, your heart generates enough energy to drive a truck for about 20 miles. This small muscle works non-stop, powering you through an incredible journey of a lifetime."
   },
   "es": {
-    "headline": "La parte más fuerte del cuerpo humano no es un músculo",
-    "body": "Muchos creemos que la mandíbula es el músculo más fuerte, pero la verdadera maravilla mecánica es el estribo en el oído. Al ser el hueso más pequeño del cuerpo, no solo transmite ondas sonoras, sino que amplifica la presión del tímpano al oído interno con increíble eficiencia."
+    "headline": "La Enorme Energía Producida por el Corazón Humano",
+    "body": "En solo un día, tu corazón genera suficiente energía para conducir un camión durante unos 32 kilómetros. Este pequeño músculo trabaja sin parar, impulsándote a lo largo de toda tu vida."
   },
   "ar": {
-    "headline": "أقوى جزء في جسم الإنسان ليس عضلة",
-    "body": "يعتقد معظمنا أن عضلات الفك هي الأقوى، لكن العجيبة الميكانيكية الحقيقية هي عظمة الركاب داخل الأذن. باعتبارها أصغر عظمة في الجسم، فهي لا تنقل موجات الصوت فحسب، بل تضخم الضغط من طبلة الأذن إلى الأذن الداخلية بكفاءة مذهلة."
+    "headline": "الطاقة الهائلة التي ينتجها قلب الإنسان",
+    "body": "في يوم واحد فقط، ينتج قلبك طاقة كافية لقيادة شاحنة لمسافة حوالي 20 ميلاً. تعمل هذه العضلة الصغيرة بلا توقف طوال حياتك."
   },
   "reel_hook": {
-    "tr": "Vücudunuzdaki en güçlü basıncı üreten yerin neresi olduğunu biliyor musunuz? Cevap muhtemelen parmağınızın ucunda değil, kafatasınızın çok derinlerinde.",
-    "en": "Do you know where the highest pressure in your body is generated? The answer is probably not at your fingertips, but deep inside your skull.",
-    "es": "¿Sabes dónde se genera la mayor presión en tu cuerpo? La respuesta probablemente no esté en la punta de tus dedos, sino en lo profundo de tu cráneo.",
-    "ar": "هل تعلم أين يتولد أقوى ضغط في جسمك؟ الإجابة على الأرجح ليست في أطراف أصابعك، بل في عمق جمجمتك."
+    "tr": "Bir günde ürettiğiniz enerjinin bir kamyonu taşıyabileceğini biliyor muydunuz?",
+    "en": "Did you know the energy you produce in a day could drive a truck?",
+    "es": "¿Sabías que la energía que produces en un día podría mover un camión?",
+    "ar": "هل كنت تعلم أن الطاقة التي تنتجها في يوم واحد يمكنها تحريك شاحنة؟"
   },
   "story_question": {
-    "tr": "Vücudun en küçük kemiği olan üzengi (stapes) nerede bulunur?",
-    "en": "Where is the stapes, the smallest bone in the body, located?",
-    "es": "¿Dónde se encuentra el estribo, el hueso más pequeño del cuerpo?",
-    "ar": "أين تقع عظمة الركاب، وهي أصغر عظمة في الجسم؟"
+    "tr": "İnsan kalbi ortalama bir günde kaç kez atar?",
+    "en": "How many times does the human heart beat in an average day?",
+    "es": "¿Cuántas veces late el corazón humano en un día promedio?",
+    "ar": "كم مرة ينبض قلب الإنسان في المتوسط في اليوم الواحد؟"
   },
   "story_options": [
-    "Kulak içi",
-    "Burun boşluğu",
-    "Parmak ucu"
+    "50.000 kez",
+    "100.000 kez",
+    "200.000 kez"
   ],
   "hashtags": [
     "#FactBite",
-    "#İnsanVücudu",
-    "#Anatomi",
-    "#BilimSırları",
-    "#İlginçBilgiler",
-    "#BunuBiliyorMuydunuz"
+    "#bilim",
+    "#insan",
+    "#sağlık",
+    "#biliyormusunuz",
+    "#keşfet",
+    "#anatomiveben"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı insan vücudu sırrı için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more amazing human body secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos asombrosos del cuerpo humano como este!",
-    "ar": "لا تنس متابعتنا للمزيد من أسرار جسم الإنسان المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.8
   },
   "source": {
-    "name": "Anatomy & Physiology Sources",
-    "url": "https://www.ncbi.nlm.nih.gov/books/NBK538497/"
+    "name": "British Heart Foundation",
+    "url": "https://www.bhf.org.uk"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudundaki En Güçlü Kas Değil, En Güçlü Basınç Üreten Bölgesi",
+  "_topic": "İnsan Kalbinin Ürettiği O Muazzam Enerji",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-10T20:34:24.190742+00:00",
+  "generated_at": "2026-10-10T23:50:26.084512+00:00",
   "topic_guard_days": 180
 }

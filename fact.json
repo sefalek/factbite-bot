@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerimizi Neden Sola Çeviririz?",
-    "body": "Bir şeye derinlemesine odaklandığımızda ya da zor bir soruya cevap ararken gözlerimiz istemsizce sola kayar. Bunun nedeni, beynimizin mantıksal ve matematiksel işlemlerden sorumlu olan sol yarımküresini dinlendirmek ve yaratıcılığı yöneten sağ lobu devreye sokmaktır."
+    "headline": "Parmak Uçlarınız Neden Dokunmatik Ekranları Sevmez?",
+    "body": "Telefonunuza eldivenle dokunduğunuzda ekranın çalışmadığını fark etmişsinizdir. Bunun sebebi ekranların parmak izinize değil, vücudunuzdaki elektriğe tepki vermesidir."
   },
   "en": {
-    "headline": "Why Do We Look to the Left?",
-    "body": "When we focus deeply or try to answer a difficult question, our eyes involuntarily shift to the left. This happens to rest the left hemisphere of our brain, which handles logic, and activate the right lobe, which manages creativity."
+    "headline": "Why Your Fingertips Don't Like Touchscreens",
+    "body": "You might have noticed touchscreens don't work with regular gloves. That's because they react to the electrical charge in your body, not just your touch."
   },
   "es": {
-    "headline": "¿Por qué miramos hacia la izquierda?",
-    "body": "Cuando nos concentramos profundamente o intentamos responder a una pregunta difícil, nuestros ojos se desvían involuntariamente hacia la izquierda. Esto ocurre para descansar el hemisferio izquierdo del cerebro y activar el lóbulo derecho."
+    "headline": "Por qué a las yemas de tus dedos no les gustan las pantallas táctiles",
+    "body": "Habrás notado que las pantallas táctiles no funcionan con guantes normales. Esto se debe a que reaccionan a la carga eléctrica de tu cuerpo, no solo al tacto."
   },
   "ar": {
-    "headline": "لماذا ننظر إلى اليسار؟",
-    "body": "عندما نركز بعمق أو نحاول الإجابة على سؤال صعب، تنحرف أعيننا لا إراديًا إلى اليسار لإراحة النصف الأيسر من الدماغ وتنشيط الفص الأيمن."
+    "headline": "لماذا لا تحب أطراف أصابعك شاشات اللمس؟",
+    "body": "ربما لاحظت أن شاشات اللمس لا تعمل بالقفازات العادية. ويرجع ذلك إلى أنها تتفاعل مع الشحنة الكهربائية في جسمك وليس فقط لمستك."
   },
   "reel_hook": {
-    "tr": "Zor bir soru sorulduğunda gözlerin neden hemen sola kayar hiç fark ettin mi?",
-    "en": "Have you ever noticed why your eyes automatically shift to the left when asked a hard question?",
-    "es": "¿Alguna vez has notado por qué tus ojos se van hacia la izquierda cuando te hacen una pregunta difícil?",
-    "ar": "هل لاحظت من قبل لماذا تتحرك عيناك تلقائيًا إلى اليسار عند سؤالك سؤالاً صعباً؟"
+    "tr": "Telefon ekranınız parmağınızı aslında hiç görmüyor, peki neyi hissediyor?",
+    "en": "Your phone screen actually doesn't see your finger at all, so what does it feel?",
+    "es": "La pantalla de tu teléfono en realidad no ve tu dedo, ¿qué es lo que siente?",
+    "ar": "شاشة هاتفك لا ترى إصبعك على الإطلاق، فما الذي تشعر به إذن؟"
   },
   "story_question": {
-    "tr": "Zor bir soru düşünürken genellikle hangi yöne bakarsınız?",
-    "en": "Which direction do you usually look when thinking about a hard question?",
-    "es": "¿En qué dirección sueles mirar al pensar en una pregunta difícil?",
-    "ar": "في أي اتجاه تنظر عادةً عند التفكير في سؤال صعب؟"
+    "tr": "Dokunmatik ekranlar hangi fiziksel özelliğinize tepki verir?",
+    "en": "Which physical property do touchscreens react to?",
+    "es": "¿A qué propiedad física reaccionan las pantallas táctiles?",
+    "ar": "ما هي الخاصية الفيزيائية التي تستجيب لها شاشات اللمس؟"
   },
   "story_options": [
-    "Sola",
-    "Sağa",
-    "Yukarıya"
+    "Vücut elektriği",
+    "Parmak sıcaklığı",
+    "Deri basıncı"
   ],
   "hashtags": [
     "#FactBite",
+    "#teknoloji",
     "#bilim",
-    "#psikoloji",
-    "#beyin",
+    "#telefon",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#öğrenme"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu bildiğinizi kimler tahmin ederdi? Yorumlarda buluşalım!",
+    "en": "Who would have guessed this? Let us know in the comments!",
+    "es": "¿Quién habría adivinado esto? ¡Cuéntanos en los comentarios!",
+    "ar": "من كان يتوقع ذلك؟ أخبرنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Cognitive Science Research",
-    "url": "https://www.sciencedirect.com"
+    "name": "HowStuffWorks",
+    "url": "https://computer.howstuffworks.com/question716.htm"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerimizi Neden Sola Çeviririz?",
+  "_topic": "Parmak Uçlarınız Neden Dokunmatik Ekranları Sevmez?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-10T17:38:47.635469+00:00",
+  "generated_at": "2026-10-10T19:09:44.308839+00:00",
   "topic_guard_days": 180
 }

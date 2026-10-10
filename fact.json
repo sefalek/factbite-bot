@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudundaki Şaşırtıcı Denge Merkezi",
-    "body": "Kulaklarınızın sadece duymakla kalmayıp, dünyada dik durmanızı da sağladığını biliyor muydunuz? İç kulaktaki sıvı, başınızı her hareket ettirdiğinizde beyne sinyaller göndererek dengenizi korur. Bu sıvı akmayı bıraksaydı, yürümek imkânsız hale gelirdi."
+    "headline": "Gözlerimizi Neden Sola Çeviririz?",
+    "body": "Bir şeye derinlemesine odaklandığımızda ya da zor bir soruya cevap ararken gözlerimiz istemsizce sola kayar. Bunun nedeni, beynimizin mantıksal ve matematiksel işlemlerden sorumlu olan sol yarımküresini dinlendirmek ve yaratıcılığı yöneten sağ lobu devreye sokmaktır."
   },
   "en": {
-    "headline": "The Surprising Balance Center of the Human Body",
-    "body": "Did you know your ears don't just help you hear, but also keep you upright? The fluid in your inner ear sends signals to your brain with every head movement to maintain balance. If this fluid stopped moving, walking would be impossible."
+    "headline": "Why Do We Look to the Left?",
+    "body": "When we focus deeply or try to answer a difficult question, our eyes involuntarily shift to the left. This happens to rest the left hemisphere of our brain, which handles logic, and activate the right lobe, which manages creativity."
   },
   "es": {
-    "headline": "El sorprendente centro de equilibrio del cuerpo humano",
-    "body": "¿Sabías que tus oídos no solo sirven para oír, sino también para mantenerte erguido? El líquido en tu oído interno envía señales al cerebro con cada movimiento de cabeza para mantener el equilibrio. Si este líquido se detuviera, caminar sería imposible."
+    "headline": "¿Por qué miramos hacia la izquierda?",
+    "body": "Cuando nos concentramos profundamente o intentamos responder a una pregunta difícil, nuestros ojos se desvían involuntariamente hacia la izquierda. Esto ocurre para descansar el hemisferio izquierdo del cerebro y activar el lóbulo derecho."
   },
   "ar": {
-    "headline": "مركز التوازن المدهش في جسم الإنسان",
-    "body": "هل تعلم أن أذنيك لا تساعدانك على السمع فحسب، بل تبقيك منتصب القامة أيضاً؟ السائل الموجود في أذنك الداخلية يرسل إشارات إلى مخك مع كل حركة رأس للحفاظ على توازنك. لو توقف هذا السائل عن الحركة، لصبح المشي مستحيلاً."
+    "headline": "لماذا ننظر إلى اليسار؟",
+    "body": "عندما نركز بعمق أو نحاول الإجابة على سؤال صعب، تنحرف أعيننا لا إراديًا إلى اليسار لإراحة النصف الأيسر من الدماغ وتنشيط الفص الأيمن."
   },
   "reel_hook": {
-    "tr": "Yürürken asla düşmemenizin arkasındaki o gizli sıvıyı biliyor musunuz?",
-    "en": "Do you know the hidden fluid behind why you never fall while walking?",
-    "es": "¿Conoces el líquido oculto detrás de por qué nunca te caes al caminar?",
-    "ar": "هل تعرف السائل الخفي وراء عدم سقوطك أبداً أثناء المشي؟"
+    "tr": "Zor bir soru sorulduğunda gözlerin neden hemen sola kayar hiç fark ettin mi?",
+    "en": "Have you ever noticed why your eyes automatically shift to the left when asked a hard question?",
+    "es": "¿Alguna vez has notado por qué tus ojos se van hacia la izquierda cuando te hacen una pregunta difícil?",
+    "ar": "هل لاحظت من قبل لماذا تتحرك عيناك تلقائيًا إلى اليسار عند سؤالك سؤالاً صعباً؟"
   },
   "story_question": {
-    "tr": "Dengeyi sağlayan sıvı hangi organımızda bulunur?",
-    "en": "In which organ is the fluid that provides balance located?",
-    "es": "¿En qué órgano se encuentra el líquido que proporciona el equilibrio?",
-    "ar": "في أي عضو يقع السائل الذي يوفر التوازن؟"
+    "tr": "Zor bir soru düşünürken genellikle hangi yöne bakarsınız?",
+    "en": "Which direction do you usually look when thinking about a hard question?",
+    "es": "¿En qué dirección sueles mirar al pensar en una pregunta difícil?",
+    "ar": "في أي اتجاه تنظر عادةً عند التفكير في سؤال صعب؟"
   },
   "story_options": [
-    "İç Kulak",
-    "Göz",
-    "Beyincik"
+    "Sola",
+    "Sağa",
+    "Yukarıya"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#vücut",
-    "#sağlık",
+    "#psikoloji",
+    "#beyin",
     "#ilginçbilgiler",
     "#keşfet",
-    "#biyoloji"
+    "#öğrenme"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "National Institutes of Health",
-    "url": "https://www.nih.gov"
+    "name": "Cognitive Science Research",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudundaki Şaşırtıcı Denge Merkezi",
+  "_topic": "Gözlerimizi Neden Sola Çeviririz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-10T16:17:43.261210+00:00",
+  "generated_at": "2026-10-10T17:38:47.635469+00:00",
   "topic_guard_days": 180
 }

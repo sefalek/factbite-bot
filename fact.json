@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudundaki En Güçlü Basınç Üreten Bölge",
-    "body": "Vücudumuzun en güçlü kasının hangisi olduğu sıkça tartışılır, ancak iş ürettiği mekanik basınca geldiğinde şampiyon çene kasımızdır! Çiğneme sırasında azı dişlerimize binen yük, yüz kilograma kadar çıkabilir. Bu inanılmaz kuvvet, kemiklerimizin ve diş minesinin ne kadar dayanıklı olduğunun en net kanıtıdır."
+    "headline": "İnsan Gözü Ne Kadar Keskin?",
+    "body": "Gözlerimiz o kadar hassastır ki, Dünya düz olsaydı ve karanlıkta olsaydınız, sadece bir mum alevini 50 kilometre uzaktan görebilirdiniz."
   },
   "en": {
-    "headline": "The Most Powerful Pressure-Producing Area in the Human Body",
-    "body": "People often debate which muscle in the body is the strongest, but when it comes to mechanical pressure, the masseter muscle in our jaw takes the crown! During chewing, the force applied to our molars can reach up to a hundred kilograms. This incredible strength is clear proof of how durable our bones and tooth enamel really are."
+    "headline": "How Sharp Is the Human Eye?",
+    "body": "Our eyes are so sensitive that if the Earth were flat and you were in complete darkness, you could see a single candle flame from 50 kilometers away."
   },
   "es": {
-    "headline": "La zona del cuerpo humano que produce mayor presión",
-    "body": "A menudo se debate cuál es el músculo más fuerte del cuerpo, ¡pero cuando se trata de presión mecánica, el músculo masetero de la mandíbula se lleva el primer puesto! Al masticar, la fuerza aplicada en nuestros molares puede alcanzar hasta cien kilogramos. Esta increíble fuerza es una prueba clara de lo resistentes que son nuestros huesos y el esmalte dental."
+    "headline": "¿Qué tan agudo es el ojo humano?",
+    "body": "Nuestros ojos son tan sensibles que si la Tierra fuera plana y estuvieras en completa oscuridad, podrías ver la llama de una sola vela a 50 kilómetros de distancia."
   },
   "ar": {
-    "headline": "المنطقة الأكثر إنتاجاً للضغط في جسم الإنسان",
-    "body": "غالباً ما يتم النقاش حول أقوى عضلة في الجسم، ولكن عندما يتعلق الأمر بالضغط الميكانيكي، فإن عضلة الفك تتصدر القائمة! أثناء المضغ، يمكن للقوة المطبقة على أضراسنا أن تصل إلى مئتي رطل. هذه القوة الهائلة هي دليل واضح على مدى متانة عظامنا وميناء أسناننا."
+    "headline": "ما مدى ححدة العين البشرية؟",
+    "body": "عصبيتنا حساسة لدرجة أنه لو كانت الأرض مسطحة وكنت في ظلام دامس، لتمكنت من رؤية لهب شمعة واحدة من مسافة 50 كيلومتراً."
   },
   "reel_hook": {
-    "tr": "Dişlerinle bir taşı kırabilecek kadar güçlü olduğunu biliyor musun?",
-    "en": "Did you know your bite is strong enough to crush a stone?",
-    "es": "¿Sabías que tu mordedura es lo suficientemente fuerte como para romper una piedra?",
-    "ar": "هل تعلم أن قوة عضتك قوية بما يكفي لتحطيم حجر؟"
+    "tr": "Karanlıkta 50 kilometre uzaktaki tek bir mumu görebileceğinizi biliyor muydunuz?",
+    "en": "Did you know you could see a single candle from 50 kilometers away in the dark?",
+    "es": "¿Sabías que podrías ver una sola vela a 50 km de distancia en la oscuridad?",
+    "ar": "هل كنت تعلم أن بإمكانك رؤية شمعة واحدة على بعد 50 كيلومتراً في الظلام؟"
   },
   "story_question": {
-    "tr": "Çene kasımızın azı dişlerimize uygulayabildiği maksimum basınç yaklaşık kaç kilograma ulaşabilir?",
-    "en": "What is the approximate maximum pressure our jaw muscles can apply to our molars?",
-    "es": "¿Cuál es la presión máxima aproximada que los músculos de nuestra mandíbula pueden aplicar a nuestros molares?",
-    "ar": "ما هو تقريباً أقصى ضغط يمكن أن تطبقه عضلات فكنا على أضراسنا؟"
+    "tr": "Sizce insan gözü en fazla kaç kilometre uzaktaki bir ışığı fark edebilir?",
+    "en": "What is the maximum distance you think the human eye can spot a light?",
+    "es": "¿Cuál crees que es la distancia máxima a la que el ojo humano puede ver una luz?",
+    "ar": "برأيك، ما هي أقصى مسافة يمكن للعين البشرية أن تلاحظ فيها ضوءاً ما؟"
   },
   "story_options": [
-    "20 kg",
-    "100 kg",
-    "250 kg"
+    "10 km",
+    "50 km",
+    "100 km"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#insan",
-    "#vücut",
-    "#biyoloji",
+    "#göz",
+    "#gerçekler",
+    "#keşfet",
     "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع بهذه المعلومة لأول مرة!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who needs to hear this!",
+    "es": "¡Envíaselo a un amigo que necesite saber esto!",
+    "ar": "أرسل هذا لصديق بحاجة لمعرفة ذلك!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Library of Congress & Healthline",
-    "url": "https://www.loc.gov/everyday-mysteries/item/how-strong-is-the-human-jaw/"
+    "name": "NASA Science / Vision Research",
+    "url": "https://science.nasa.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudundaki En Güçlü Basınç Üreten Bölge",
+  "_topic": "İnsan Gözü Ne Kadar Keskin?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-11T17:56:26.531096+00:00",
+  "generated_at": "2026-10-11T19:23:36.366122+00:00",
   "topic_guard_days": 180
 }

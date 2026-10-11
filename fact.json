@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Kalbinin Ürettiği O Muazzam Enerji",
-    "body": "Kalbiniz sadece bir günde, bir kamyonu yaklaşık 32 kilometre taşıyabilecek kadar enerji üretir. Bu küçük kas, hiç durmadan çalışarak hayatınız boyunca inanılmaz bir mesafeyi kat etmenizi sağlar."
+    "headline": "İnsan Vücudundaki Sıcaklık Üretim Sırrı",
+    "body": "Üşüdüğümüzde istemsizce titreriz; peki kaslarımız bu hareketi yaparken aslında neyi tetikler? Titreme, beyindeki hipotalamusun kasları hızla kasıp gevşeterek normalin katbekat üzerinde ısı üretmesini sağlayan biyolojik bir kalorifer sistemidir."
   },
   "en": {
-    "headline": "The Massive Energy Produced by the Human Heart",
-    "body": "In just one day, your heart generates enough energy to drive a truck for about 20 miles. This small muscle works non-stop, powering you through an incredible journey of a lifetime."
+    "headline": "The Body's Hidden Heat Secret",
+    "body": "When we get cold, we shiver involuntarily, but what triggers this? Shivering is a biological heating system where the hypothalamus rapidly contracts and relaxes muscles to generate massive amounts of heat."
   },
   "es": {
-    "headline": "La Enorme Energía Producida por el Corazón Humano",
-    "body": "En solo un día, tu corazón genera suficiente energía para conducir un camión durante unos 32 kilómetros. Este pequeño músculo trabaja sin parar, impulsándote a lo largo de toda tu vida."
+    "headline": "El Secreto Oculto de la Temperatura Corporal",
+    "body": "Cuando tenemos frío, temblamos involuntariamente. Este temblor es un sistema de calefacción biológico donde el hipotálamo hace que los músculos se contraigan rápidamente para generar calor masivo."
   },
   "ar": {
-    "headline": "الطاقة الهائلة التي ينتجها قلب الإنسان",
-    "body": "في يوم واحد فقط، ينتج قلبك طاقة كافية لقيادة شاحنة لمسافة حوالي 20 ميلاً. تعمل هذه العضلة الصغيرة بلا توقف طوال حياتك."
+    "headline": "سر إنتاج الحرارة في جسم الإنسان",
+    "body": "عندما نشعر بالبرد، نرتجف لا إرادياً؛ فالارتعاش هو نظام تدفئة بيولوجي حيث يقبض الدماغ العضلات ويسرع حركتها لتوليد حرارة هائلة."
   },
   "reel_hook": {
-    "tr": "Bir günde ürettiğiniz enerjinin bir kamyonu taşıyabileceğini biliyor muydunuz?",
-    "en": "Did you know the energy you produce in a day could drive a truck?",
-    "es": "¿Sabías que la energía que produces en un día podría mover un camión?",
-    "ar": "هل كنت تعلم أن الطاقة التي تنتجها في يوم واحد يمكنها تحريك شاحنة؟"
+    "tr": "Üşüdüğümüzde neden titreriz hiç düşündünüz mü?",
+    "en": "Have you ever wondered why we shiver when we're cold?",
+    "es": "¿Alguna vez te has preguntado por qué temblamos cuando tenemos frío?",
+    "ar": "هل تمنيت يوماً أن تعرف لماذا نرتجف عندما نشعر بالبرد؟"
   },
   "story_question": {
-    "tr": "İnsan kalbi ortalama bir günde kaç kez atar?",
-    "en": "How many times does the human heart beat in an average day?",
-    "es": "¿Cuántas veces late el corazón humano en un día promedio?",
-    "ar": "كم مرة ينبض قلب الإنسان في المتوسط في اليوم الواحد؟"
+    "tr": "Titreme sırasında kaslarımızın ürettiği enerji normal duruma göre kaç kat artabilir?",
+    "en": "How many times can the energy produced by our muscles increase during shivering?",
+    "es": "¿Cuántas veces puede aumentar la energía producida por nuestros músculos al temblar?",
+    "ar": "كم مضاعفاً تزداد الطاقة التي تنتجها عضلاتنا أثناء الارتعاش مقارنة بالحالة الطبيعية؟"
   },
   "story_options": [
-    "50.000 kez",
-    "100.000 kez",
-    "200.000 kez"
+    "2 kat",
+    "5 kat",
+    "Sadece normal ısı üretimi"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#insan",
-    "#sağlık",
-    "#biliyormusunuz",
-    "#keşfet",
-    "#anatomiveben"
+    "#vucut",
+    "#saglik",
+    "#ilginc",
+    "#kesfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.8
+    "overall": 8.7
   },
   "source": {
-    "name": "British Heart Foundation",
-    "url": "https://www.bhf.org.uk"
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Kalbinin Ürettiği O Muazzam Enerji",
+  "_topic": "İnsan Vücudundaki Sıcaklık Üretim Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-10T23:50:26.084512+00:00",
+  "generated_at": "2026-10-11T11:24:40.881093+00:00",
   "topic_guard_days": 180
 }

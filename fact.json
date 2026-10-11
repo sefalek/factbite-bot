@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yutkunurken Kulaklarınız Neden Tıklar?",
-    "body": "Esnerken ya da yutkunurken kulaklarınızdan gelen o hafif tıklama sesini hiç fark ettiniz mi? Bu ses, orta kulaktaki basıncı dış dünya ile eşitleyen Eustachian borusunun aniden açılmasıyla oluşur. Uçakta seyahat ederken kulaklarımızın tıkanmasını önleyen de tam olarak bu mekanizmadır."
+    "headline": "Gözleriniz Neden Sadece Size Özel?",
+    "body": "Parmak izimizin benzersiz olduğunu hepimiz biliyoruz. Peki, tıpkı parmak izi gibi tamamen size özel olan ve hayatınız boyunca hiç değişmeyen başka bir yeriniz daha olduğunu biliyor muydunuz? Gözünüzün renkli kısmı olan irisin arkasındaki damar deseni ve retinamız, anne karnından itibaren kişiye özel olarak şekillenir ve ömür boyu aynı kalır. Hatta tek yumurta ikizlerinin bile parmak izleri ve göz retinaları birbirinden tamamen farklıdır."
   },
   "en": {
-    "headline": "Why Do Your Ears Click When You Swallow?",
-    "body": "Have you ever noticed that slight clicking sound in your ears when you yawn or swallow? This sound is caused by the sudden opening of the Eustachian tube, which equalizes pressure in the middle ear with the outside world. This exact mechanism prevents our ears from popping during flights."
+    "headline": "Why Your Eyes Are Completely Unique",
+    "body": "We all know our fingerprints are unique. But did you know you have another feature, just like a fingerprint, that is entirely unique to you and never changes throughout your life? The vascular pattern behind the iris and our retina form uniquely before birth and remain the same for a lifetime. Even identical twins have completely different fingerprints and retinas."
   },
   "es": {
-    "headline": "Por Qué Truenan Tus Oídos al Tragar?",
-    "body": "¿Alguna vez has notado ese ligero sonido de chasquido en tus oídos cuando bostezas o tragas? Este sonido es causado por la apertura repentina de la trompa de Eustaquio, que iguala la presión en el oído medio con el mundo exterior. Este mecanismo exacto es el que evita que nuestros oídos se tapen durante los vuelos."
+    "headline": "¿Por qué tus ojos son completamente únicos?",
+    "body": "Todos sabemos que nuestras huellas dactilares son únicas. Pero, ¿sabías que tienes otra característica, al igual que una huella, que es totalmente única para ti y nunca cambia en toda tu vida? El patrón vascular detrás del iris y nuestra retina se forman de manera única antes de nacer y siguen siendo los mismos para siempre. Incluso los gemelos idénticos tienen huellas y retinas completamente diferentes."
   },
   "ar": {
-    "headline": "لماذا تطقطق أذناك عند البلع؟",
-    "body": "هل لاحظت من قبل صوت الطقطقة الخفيف في أذنيك عندما تثاءب أو تبلع؟ ناتج هذا الصوت عن الانفتاح المفاجئ لقناة استاكيوس، والتي تعادل الضغط في الأذن الوسطى مع العالم الخارجي. هذه الآلية بالضبط هي ما يمنع أذنيك من الانسداد أثناء الرحلات الجوية."
+    "headline": "لماذا عيناك فريدتان تماماً؟",
+    "body": "نحن نعلم جميعاً أن بصمات أصابعنا فريدة من نوعها. ولكن هل كنت تعلم أن لديك ميزة أخرى، تشبه بصمة الإصبع، وهي فريدة تماماً بالنسبة لك ولا تتغير أبداً طوال حياتك؟ النمط وعائي خلف القزحية وشبكتنا يتشكلان بشكل فريد قبل الولادة ويبقيان كما هما مدى الحياة. حتى التوائم المتطابقة لديهم بصمات أصابع وشبكية عين مختلفة تماماً."
   },
   "reel_hook": {
-    "tr": "Yutkunduğunuzda kulaklarınızdan gelen o garip sesin nedenini biliyor musunuz?",
-    "en": "Do you know the reason behind that weird sound in your ears when you swallow?",
-    "es": "¿Conoces la razón detrás de ese extraño sonido en tus oídos cuando tragas?",
-    "ar": "هل تعرف سبب هذا الصوت الغريب في أذنيك عندما تبلع؟"
+    "tr": "Parmak izin gibi benzersiz olan tek şeyin parmakların olmadığını biliyor musun?",
+    "en": "Did you know your fingers aren't the only thing with a unique print?",
+    "es": "¿Sabías que tus dedos no son lo único con una huella única?",
+    "ar": "هل كنت تعلم أن أصابعك ليست وحدها التي تمتلك بصمة فريدة؟"
   },
   "story_question": {
-    "tr": "Kulaklarımızdaki bu basınç dengeleyici boru hangi vücut parçamıza bağlanır?",
-    "en": "Which part of our body does this pressure-equalizing tube connect to?",
-    "es": "¿A qué parte de nuestro cuerpo se conecta este tubo que equilibra la presión?",
-    "ar": "بأي جزء من جسمنا تتصل قناة معادلة الضغط هذه؟"
+    "tr": "Tıpkı parmak izi gibi tamamen size özel olan ve ömür boyu değişmeyen o diğer vücut bölümümüz hangisidir?",
+    "en": "Which other body part, just like a fingerprint, is entirely unique to you and never changes?",
+    "es": "¿Qué otra parte del cuerpo, al igual que una huella dactilares, es totalmente única para ti y nunca cambia?",
+    "ar": "ما هو جزء الجسم الآخر، تماماً مثل بصمة الإصبع، الفريد تماماً بالنسبة لك ولا يتغير أبداً؟"
   },
   "story_options": [
-    "Boğazın arka kısmına",
-    "Burun boşluğuna",
-    "Doğrudan beyne"
+    "Göz Retinası ve İris",
+    "Kulak Memesi Şekli",
+    "Diş Yapısı"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#anatomi",
     "#ilginçbilgiler",
-    "#sağlık",
-    "#vücudumuz",
-    "#keşfet"
+    "#insan",
+    "#biyoloji",
+    "#keşfet",
+    "#anatom"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "tr": "Bunu ilk defa duyan bir arkadaşına gönder!",
     "en": "Send this to a friend who is hearing this for the first time!",
     "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
     "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Healthline",
-    "url": "https://www.healthline.com/health/ear-clicking"
+    "name": "American Academy of Ophthalmology",
+    "url": "https://www.aao.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yutkunurken Kulaklarınız Neden Tıklar?",
+  "_topic": "Gözleriniz Neden Sadece Size Özel?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-11T12:44:35.750642+00:00",
+  "generated_at": "2026-10-11T16:42:18.835400+00:00",
   "topic_guard_days": 180
 }

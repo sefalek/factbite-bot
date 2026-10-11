@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Gözü Ne Kadar Keskin?",
-    "body": "Gözlerimiz o kadar hassastır ki, Dünya düz olsaydı ve karanlıkta olsaydınız, sadece bir mum alevini 50 kilometre uzaktan görebilirdiniz."
+    "headline": "Parmak İziniz Gibi Benzersiz Başka Bir Yeriniz Daha Var",
+    "body": "Dünyada parmak izi herkeste farklıdır derler, değil mi? Ama vücudumuzda bir yer daha var ki o da tıpkı parmak izi gibi tamamen size özel ve asla taklit edilemez: Dil iziniz! Her insanın dil üzerindeki çizgilerin dizilimi ve şekli benzersizdir; tıpkı parmak izi gibi dünyada bir eşiniz daha yok."
   },
   "en": {
-    "headline": "How Sharp Is the Human Eye?",
-    "body": "Our eyes are so sensitive that if the Earth were flat and you were in complete darkness, you could see a single candle flame from 50 kilometers away."
+    "headline": "You Have Another Unique Part Just Like Your Fingerprint",
+    "body": "They say everyone's fingerprint is unique, right? But there is another part of our body that is completely unique to you, just like a fingerprint, and can never be copied: Your tongue print! The arrangement and shape of the lines on every human's tongue are entirely one-of-a-kind."
   },
   "es": {
-    "headline": "¿Qué tan agudo es el ojo humano?",
-    "body": "Nuestros ojos son tan sensibles que si la Tierra fuera plana y estuvieras en completa oscuridad, podrías ver la llama de una sola vela a 50 kilómetros de distancia."
+    "headline": "Tienes Otra Parte Única Al Igual Que Tus Huellas Dactilares",
+    "body": "Dicen que la huella dactilar de cada persona es única, ¿verdad? Pero hay otra parte de nuestro cuerpo que es completamente exclusiva para ti: ¡la huella de tu lengua! La disposición y forma de las líneas en la lengua de cada ser humano son irrepetibles."
   },
   "ar": {
-    "headline": "ما مدى ححدة العين البشرية؟",
-    "body": "عصبيتنا حساسة لدرجة أنه لو كانت الأرض مسطحة وكنت في ظلام دامس، لتمكنت من رؤية لهب شمعة واحدة من مسافة 50 كيلومتراً."
+    "headline": "لديك جزء فريد آخر تماماً مثل بصمة إصبعك",
+    "body": "يقولون إن بصمة إصبع كل شخص فريدة، أليس كذلك؟ لكن هناك جزءاً آخر في جسمنا فريد تماماً بالنسبة لك تماماً مثل بصمة الإصبع: بصمة لسانك! ترتيب وشكل الخطوط على لسان كل إنسان فريدان من نوعهما تماماً."
   },
   "reel_hook": {
-    "tr": "Karanlıkta 50 kilometre uzaktaki tek bir mumu görebileceğinizi biliyor muydunuz?",
-    "en": "Did you know you could see a single candle from 50 kilometers away in the dark?",
-    "es": "¿Sabías que podrías ver una sola vela a 50 km de distancia en la oscuridad?",
-    "ar": "هل كنت تعلم أن بإمكانك رؤية شمعة واحدة على بعد 50 كيلومتراً في الظلام؟"
+    "tr": "Dünyada parmak izinizden başka bir yerinizin daha tamamen size özel olduğunu biliyor muydunuz?",
+    "en": "Did you know there is another part of you completely unique besides your fingerprint?",
+    "es": "¿Sabías que hay otra parte de ti completamente única además de tu huella dactilar?",
+    "ar": "هل كنت تعلم أن هناك جزءاً آخر منك فريد تماماً بغض النظر عن بصمة إصبعك؟"
   },
   "story_question": {
-    "tr": "Sizce insan gözü en fazla kaç kilometre uzaktaki bir ışığı fark edebilir?",
-    "en": "What is the maximum distance you think the human eye can spot a light?",
-    "es": "¿Cuál crees que es la distancia máxima a la que el ojo humano puede ver una luz?",
-    "ar": "برأيك، ما هي أقصى مسافة يمكن للعين البشرية أن تلاحظ فيها ضوءاً ما؟"
+    "tr": "Vücudunuzda parmak iziniz dışında tamamen benzersiz olan diğer yer neresidir?",
+    "en": "What is the other completely unique part of your body besides your fingerprint?",
+    "es": "¿Cuál es la otra parte completamente única de tu cuerpo además de tu huella dactilar?",
+    "ar": "ما هو الجزء الآخر الفريد تماماً في جسمك بصرف النظر عن بصمة إصبعك؟"
   },
   "story_options": [
-    "10 km",
-    "50 km",
-    "100 km"
+    "Dil izi",
+    "Kulak memesi",
+    "Diş yapısı"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#insan",
-    "#göz",
-    "#gerçekler",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#İlginçBilgiler",
+    "#Vücudumuz",
+    "#Bilim",
+    "#ŞaşırtıcıGerçekler",
+    "#Keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who needs to hear this!",
-    "es": "¡Envíaselo a un amigo que necesite saber esto!",
-    "ar": "أرسل هذا لصديق بحاجة لمعرفة ذلك!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "NASA Science / Vision Research",
-    "url": "https://science.nasa.gov/"
+    "name": "National Library of Medicine",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Gözü Ne Kadar Keskin?",
+  "_topic": "Parmak İziniz Gibi Benzersiz Başka Bir Yeriniz Daha Var",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-11T19:23:36.366122+00:00",
+  "generated_at": "2026-10-11T20:55:26.824770+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudundaki Sıcaklık Üretim Sırrı",
-    "body": "Üşüdüğümüzde istemsizce titreriz; peki kaslarımız bu hareketi yaparken aslında neyi tetikler? Titreme, beyindeki hipotalamusun kasları hızla kasıp gevşeterek normalin katbekat üzerinde ısı üretmesini sağlayan biyolojik bir kalorifer sistemidir."
+    "headline": "Yutkunurken Kulaklarınız Neden Tıklar?",
+    "body": "Esnerken ya da yutkunurken kulaklarınızdan gelen o hafif tıklama sesini hiç fark ettiniz mi? Bu ses, orta kulaktaki basıncı dış dünya ile eşitleyen Eustachian borusunun aniden açılmasıyla oluşur. Uçakta seyahat ederken kulaklarımızın tıkanmasını önleyen de tam olarak bu mekanizmadır."
   },
   "en": {
-    "headline": "The Body's Hidden Heat Secret",
-    "body": "When we get cold, we shiver involuntarily, but what triggers this? Shivering is a biological heating system where the hypothalamus rapidly contracts and relaxes muscles to generate massive amounts of heat."
+    "headline": "Why Do Your Ears Click When You Swallow?",
+    "body": "Have you ever noticed that slight clicking sound in your ears when you yawn or swallow? This sound is caused by the sudden opening of the Eustachian tube, which equalizes pressure in the middle ear with the outside world. This exact mechanism prevents our ears from popping during flights."
   },
   "es": {
-    "headline": "El Secreto Oculto de la Temperatura Corporal",
-    "body": "Cuando tenemos frío, temblamos involuntariamente. Este temblor es un sistema de calefacción biológico donde el hipotálamo hace que los músculos se contraigan rápidamente para generar calor masivo."
+    "headline": "Por Qué Truenan Tus Oídos al Tragar?",
+    "body": "¿Alguna vez has notado ese ligero sonido de chasquido en tus oídos cuando bostezas o tragas? Este sonido es causado por la apertura repentina de la trompa de Eustaquio, que iguala la presión en el oído medio con el mundo exterior. Este mecanismo exacto es el que evita que nuestros oídos se tapen durante los vuelos."
   },
   "ar": {
-    "headline": "سر إنتاج الحرارة في جسم الإنسان",
-    "body": "عندما نشعر بالبرد، نرتجف لا إرادياً؛ فالارتعاش هو نظام تدفئة بيولوجي حيث يقبض الدماغ العضلات ويسرع حركتها لتوليد حرارة هائلة."
+    "headline": "لماذا تطقطق أذناك عند البلع؟",
+    "body": "هل لاحظت من قبل صوت الطقطقة الخفيف في أذنيك عندما تثاءب أو تبلع؟ ناتج هذا الصوت عن الانفتاح المفاجئ لقناة استاكيوس، والتي تعادل الضغط في الأذن الوسطى مع العالم الخارجي. هذه الآلية بالضبط هي ما يمنع أذنيك من الانسداد أثناء الرحلات الجوية."
   },
   "reel_hook": {
-    "tr": "Üşüdüğümüzde neden titreriz hiç düşündünüz mü?",
-    "en": "Have you ever wondered why we shiver when we're cold?",
-    "es": "¿Alguna vez te has preguntado por qué temblamos cuando tenemos frío?",
-    "ar": "هل تمنيت يوماً أن تعرف لماذا نرتجف عندما نشعر بالبرد؟"
+    "tr": "Yutkunduğunuzda kulaklarınızdan gelen o garip sesin nedenini biliyor musunuz?",
+    "en": "Do you know the reason behind that weird sound in your ears when you swallow?",
+    "es": "¿Conoces la razón detrás de ese extraño sonido en tus oídos cuando tragas?",
+    "ar": "هل تعرف سبب هذا الصوت الغريب في أذنيك عندما تبلع؟"
   },
   "story_question": {
-    "tr": "Titreme sırasında kaslarımızın ürettiği enerji normal duruma göre kaç kat artabilir?",
-    "en": "How many times can the energy produced by our muscles increase during shivering?",
-    "es": "¿Cuántas veces puede aumentar la energía producida por nuestros músculos al temblar?",
-    "ar": "كم مضاعفاً تزداد الطاقة التي تنتجها عضلاتنا أثناء الارتعاش مقارنة بالحالة الطبيعية؟"
+    "tr": "Kulaklarımızdaki bu basınç dengeleyici boru hangi vücut parçamıza bağlanır?",
+    "en": "Which part of our body does this pressure-equalizing tube connect to?",
+    "es": "¿A qué parte de nuestro cuerpo se conecta este tubo que equilibra la presión?",
+    "ar": "بأي جزء من جسمنا تتصل قناة معادلة الضغط هذه؟"
   },
   "story_options": [
-    "2 kat",
-    "5 kat",
-    "Sadece normal ısı üretimi"
+    "Boğazın arka kısmına",
+    "Burun boşluğuna",
+    "Doğrudan beyne"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#insan",
-    "#vucut",
-    "#saglik",
-    "#ilginc",
-    "#kesfet"
+    "#anatomi",
+    "#ilginçbilgiler",
+    "#sağlık",
+    "#vücudumuz",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "surprise": 8,
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Scientific American",
-    "url": "https://www.scientificamerican.com"
+    "name": "Healthline",
+    "url": "https://www.healthline.com/health/ear-clicking"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudundaki Sıcaklık Üretim Sırrı",
+  "_topic": "Yutkunurken Kulaklarınız Neden Tıklar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-11T11:24:40.881093+00:00",
+  "generated_at": "2026-10-11T12:44:35.750642+00:00",
   "topic_guard_days": 180
 }

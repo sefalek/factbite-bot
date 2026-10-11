@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İziniz Gibi Benzersiz Başka Bir Yeriniz Daha Var",
-    "body": "Dünyada parmak izi herkeste farklıdır derler, değil mi? Ama vücudumuzda bir yer daha var ki o da tıpkı parmak izi gibi tamamen size özel ve asla taklit edilemez: Dil iziniz! Her insanın dil üzerindeki çizgilerin dizilimi ve şekli benzersizdir; tıpkı parmak izi gibi dünyada bir eşiniz daha yok."
+    "headline": "İnsan Vücudundaki O Gizli Cetvel",
+    "body": "Bileğinizden dirseğinize kadar olan uzunluk, tam olarak ayak tabanınızın uzunluğuna eşittir! Vücudumuzun bu kusursuz oranı, doğanın bizi nasıl harika bir mühendislikle tasarladığını gösteriyor."
   },
   "en": {
-    "headline": "You Have Another Unique Part Just Like Your Fingerprint",
-    "body": "They say everyone's fingerprint is unique, right? But there is another part of our body that is completely unique to you, just like a fingerprint, and can never be copied: Your tongue print! The arrangement and shape of the lines on every human's tongue are entirely one-of-a-kind."
+    "headline": "The Hidden Ruler in Your Body",
+    "body": "The length from your wrist to your elbow is exactly equal to the length of the sole of your foot! This flawless proportion of our body shows how nature designed us with incredible engineering."
   },
   "es": {
-    "headline": "Tienes Otra Parte Única Al Igual Que Tus Huellas Dactilares",
-    "body": "Dicen que la huella dactilar de cada persona es única, ¿verdad? Pero hay otra parte de nuestro cuerpo que es completamente exclusiva para ti: ¡la huella de tu lengua! La disposición y forma de las líneas en la lengua de cada ser humano son irrepetibles."
+    "headline": "La regla oculta en tu cuerpo",
+    "body": "¡La longitud desde tu muñeca hasta tu codo es exactamente igual a la longitud de la planta de tu pie! Esta proporción perfecta de nuestro cuerpo demuestra cómo la naturaleza nos diseñó con una ingeniería increíble."
   },
   "ar": {
-    "headline": "لديك جزء فريد آخر تماماً مثل بصمة إصبعك",
-    "body": "يقولون إن بصمة إصبع كل شخص فريدة، أليس كذلك؟ لكن هناك جزءاً آخر في جسمنا فريد تماماً بالنسبة لك تماماً مثل بصمة الإصبع: بصمة لسانك! ترتيب وشكل الخطوط على لسان كل إنسان فريدان من نوعهما تماماً."
+    "headline": "المسطرة المخفية في جسمك",
+    "body": "الطول من معصمك إلى مرفقك يساوي تماماً طول باطن قدمك! تُظهر هذه النسبة المثالية في جسمنا كيف صممتنا الطبيعة بهندسة مذهلة."
   },
   "reel_hook": {
-    "tr": "Dünyada parmak izinizden başka bir yerinizin daha tamamen size özel olduğunu biliyor muydunuz?",
-    "en": "Did you know there is another part of you completely unique besides your fingerprint?",
-    "es": "¿Sabías que hay otra parte de ti completamente única además de tu huella dactilar?",
-    "ar": "هل كنت تعلم أن هناك جزءاً آخر منك فريد تماماً بغض النظر عن بصمة إصبعك؟"
+    "tr": "Bileğinizi dirseğinize hiç ölçtünüz mü?",
+    "en": "Have you ever measured your wrist to your elbow?",
+    "es": "¿Alguna vez has medido tu muñeca hasta tu codo?",
+    "ar": "هل قيست معصمك إلى مرفقك من قبل؟"
   },
   "story_question": {
-    "tr": "Vücudunuzda parmak iziniz dışında tamamen benzersiz olan diğer yer neresidir?",
-    "en": "What is the other completely unique part of your body besides your fingerprint?",
-    "es": "¿Cuál es la otra parte completamente única de tu cuerpo además de tu huella dactilar?",
-    "ar": "ما هو الجزء الآخر الفريد تماماً في جسمك بصرف النظر عن بصمة إصبعك؟"
+    "tr": "Bilekten dirseğe olan uzunluk hangi vücut kısmımıza eşittir?",
+    "en": "The length from wrist to elbow is equal to which body part?",
+    "es": "¿A qué parte del cuerpo es igual la longitud de la muñeca al codo?",
+    "ar": "الطول من المعصم إلى المرفق يساوى أي جزء من الجسم؟"
   },
   "story_options": [
-    "Dil izi",
-    "Kulak memesi",
-    "Diş yapısı"
+    "Ayak tabanı",
+    "Burun uzunluğu",
+    "Avuç içi genişliği"
   ],
   "hashtags": [
     "#FactBite",
-    "#İlginçBilgiler",
-    "#Vücudumuz",
-    "#Bilim",
-    "#ŞaşırtıcıGerçekler",
-    "#Keşfet"
+    "#insanvücudu",
+    "#bilim",
+    "#ilginçbilgiler",
+    "#biyoloji",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Hemen kollarını test et, sonucu yoruma yaz!",
+    "en": "Test your arms now and write the result in the comments!",
+    "es": "¡Prueba tus brazos ahora y escribe el resultado en los comentarios!",
+    "ar": "اختبر ذراعيك الآن واكتب النتيجة في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "National Library of Medicine",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/"
+    "name": "Human Body Proportions & Leonardo da Vinci",
+    "url": "https://www.britannica.com/science/human-body"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İziniz Gibi Benzersiz Başka Bir Yeriniz Daha Var",
+  "_topic": "İnsan Vücudundaki O Gizli Cetvel",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-11T20:55:26.824770+00:00",
+  "generated_at": "2026-10-11T22:41:46.865887+00:00",
   "topic_guard_days": 180
 }

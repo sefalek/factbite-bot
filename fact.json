@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerimizi neden kapalı tutamayız?",
-    "body": "Esnerken gözlerimizin istem dışı kapanmasının nedeni, beynimizin yüz kaslarımızı kontrol eden sinyalleri aynı anda ve ortak bir refleksle yönetmesidir."
+    "headline": "Dil İzimiz Gibi Benzersiz Bir Yerimiz Var",
+    "body": "Parmak izimizin benzersiz olduğunu hepimiz biliyoruz. Peki ya dil izimiz? Tıpkı parmak izi gibi, her insanın dil izi de tamamen kendine hastır ve dünyada başka kimseyle eşleşmez."
   },
   "en": {
-    "headline": "Why can't we keep our eyes open?",
-    "body": "The reason our eyes close involuntarily when we yawn is that our brain manages the signals controlling our facial muscles simultaneously and through a shared reflex."
+    "headline": "We Have Something Unique Just Like Our Fingerprint",
+    "body": "We all know our fingerprints are unique. But what about our tongue print? Just like a fingerprint, every human's tongue print is completely unique and matches no one else in the world."
   },
   "es": {
-    "headline": "¿Por qué no podemos mantener los ojos abiertos?",
-    "body": "La razón por la cual nuestros ojos se cierran involuntariamente cuando bostezamos es que nuestro cerebro gestiona las señales que controlan los músculos faciales simultáneamente y mediante un reflejo compartido."
+    "headline": "Tenemos algo único al igual que nuestra huella digital",
+    "body": "Todos sabemos que nuestras huellas dactilares son únicas. ¿Pero qué pasa con la huella de nuestra lengua? Al igual que una huella, la de cada ser humano es completamente única y no coincide con la de nadie más."
   },
   "ar": {
-    "headline": "لماذا لا نستطيع إبقاء أعيننا مفتوحة؟",
-    "body": "السبب وراء إغلاق أعيننا لا إراديًا عندما نتثاءب هو أن دماغنا يدير الإشارات المتحكمة في عضلات وجهنا في وقت واحد ومن خلال منعكس مشترك."
+    "headline": "لدينا شيء فريد تماماً مثل بصمة إصبعنا",
+    "body": "نعلم جميعاً أن بصمات أصابعنا فريدة من نوعها. ولكن ماذا عن بصمة اللسان؟ تماماً مثل بصمة الإصبع، فإن بصمة لسان كل إنسان فريدة تماماً ولا تتطابق مع أي شخص آخر في العالم."
   },
   "reel_hook": {
-    "tr": "Esnerken gözlerin neden otomatik olarak kapanır hiç düşündün mü?",
-    "en": "Have you ever wondered why your eyes automatically close when you yawn?",
-    "es": "¿Alguna vez te has preguntado por qué tus ojos se cierran automáticamente cuando bostezas?",
-    "ar": "هل فكرت يومًا لماذا تغلق عيناك تلقائيًا عندما تتثاءب؟"
+    "tr": "Parmak izinizi unutun; dünyada sadece size ait olan çok daha tuhaf bir izin daha var.",
+    "en": "Forget your fingerprint; there is a much stranger print in the world that belongs only to you.",
+    "es": "Olvida tu huella dactilar; hay otra huella mucho más extraña en el mundo que te pertenece solo a ti.",
+    "ar": "انسَ بصمة إصبعك؛ فهناك بصمة أغرب بكثير في العالم تخصك وحدك."
   },
   "story_question": {
-    "tr": "Esnerken gözlerin kapanması hangi vücut sistemimizle doğrudan ilgilidir?",
-    "en": "Which of our body systems is directly related to our eyes closing when we yawn?",
-    "es": "¿Con qué sistema de nuestro cuerpo está directamente relacionado el cierre de ojos al bostezar?",
-    "ar": "ما هو نظام جسمنا المرتبط ارتباطًا مباشرًا بإغلاق العينين عند التثاءب؟"
+    "tr": "Vücudumuzda parmak izimiz dışında tamamen benzersiz olan diğer organımız hangisidir?",
+    "en": "Which other organ in our body is completely unique besides our fingerprint?",
+    "es": "¿Qué otro órgano de nuestro cuerpo es completamente único además de nuestra huella dactilar?",
+    "ar": "ما هو العضو الآخر في جسمنا الفريد تماماً بصرف النظر عن بصمة إصبعنا؟"
   },
   "story_options": [
-    "Sinir sistemi ve refleksler",
-    "Dolaşım sistemi",
-    "Sindirim sistemi"
+    "Dilimiz",
+    "Kulağımız",
+    "Burnumuz"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#vücudumuz",
+    "#insan",
+    "#vücut",
     "#keşfet",
-    "#tarih",
-    "#doğa"
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 8,
+    "surprise": 9,
+    "shareability": 9,
     "clarity": 10,
-    "overall": 8.7
+    "overall": 9.2
   },
   "source": {
-    "name": "Scientific American",
-    "url": "https://www.scientificamerican.com"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerimizi neden kapalı tutamayız?",
+  "_topic": "Dil İzimiz Gibi Benzersiz Bir Yerimiz Var",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-13T16:01:29.441948+00:00",
+  "generated_at": "2026-10-13T19:45:36.875641+00:00",
   "topic_guard_days": 180
 }

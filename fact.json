@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dil İzimiz Gibi Benzersiz Bir Yerimiz Var",
-    "body": "Parmak izimizin benzersiz olduğunu hepimiz biliyoruz. Peki ya dil izimiz? Tıpkı parmak izi gibi, her insanın dil izi de tamamen kendine hastır ve dünyada başka kimseyle eşleşmez."
+    "headline": "Gözleri Olmayan Tek Organımız",
+    "body": "Vücudumuzdaki dişlerimiz, tıpkı parmak izimiz gibi tamamen size özeldir. Ağzınızdaki yapının kopyası başka hiçbir insanta bulunamaz."
   },
   "en": {
-    "headline": "We Have Something Unique Just Like Our Fingerprint",
-    "body": "We all know our fingerprints are unique. But what about our tongue print? Just like a fingerprint, every human's tongue print is completely unique and matches no one else in the world."
+    "headline": "The Only Organ Without Eyes",
+    "body": "Your teeth are completely unique to you, just like a fingerprint. No other human has the exact same dental structure."
   },
   "es": {
-    "headline": "Tenemos algo único al igual que nuestra huella digital",
-    "body": "Todos sabemos que nuestras huellas dactilares son únicas. ¿Pero qué pasa con la huella de nuestra lengua? Al igual que una huella, la de cada ser humano es completamente única y no coincide con la de nadie más."
+    "headline": "El único órgano sin ojos",
+    "body": "Tus dientes son completamente únicos para ti, al igual que una huella dactilar. Ningún otro ser humano tiene exactamente la misma estructura dental."
   },
   "ar": {
-    "headline": "لدينا شيء فريد تماماً مثل بصمة إصبعنا",
-    "body": "نعلم جميعاً أن بصمات أصابعنا فريدة من نوعها. ولكن ماذا عن بصمة اللسان؟ تماماً مثل بصمة الإصبع، فإن بصمة لسان كل إنسان فريدة تماماً ولا تتطابق مع أي شخص آخر في العالم."
+    "headline": "العضو الوحيد الذي ليس له عيون",
+    "body": "أنانيك فريدة تماماً بالنسبة لك، تماماً مثل بصمة الإصبع. لا يوجد لدى أي إنسان آخر نفس بنية الأسنان بالضبط."
   },
   "reel_hook": {
-    "tr": "Parmak izinizi unutun; dünyada sadece size ait olan çok daha tuhaf bir izin daha var.",
-    "en": "Forget your fingerprint; there is a much stranger print in the world that belongs only to you.",
-    "es": "Olvida tu huella dactilar; hay otra huella mucho más extraña en el mundo que te pertenece solo a ti.",
-    "ar": "انسَ بصمة إصبعك؛ فهناك بصمة أغرب بكثير في العالم تخصك وحدك."
+    "tr": "Parmak izinizi biliyorsunuz, peki ya vücudunuzdaki bu gizli kimliği?",
+    "en": "You know your fingerprint, but what about this hidden identity on your body?",
+    "es": "Conoces tu huella dactilar, pero ¿qué hay de esta identidad oculta en tu cuerpo?",
+    "ar": "أنت تعرف بصمة إصبعك، ولكن ماذا عن هذه الهوية المخفية على جسمك؟"
   },
   "story_question": {
-    "tr": "Vücudumuzda parmak izimiz dışında tamamen benzersiz olan diğer organımız hangisidir?",
-    "en": "Which other organ in our body is completely unique besides our fingerprint?",
-    "es": "¿Qué otro órgano de nuestro cuerpo es completamente único además de nuestra huella dactilar?",
-    "ar": "ما هو العضو الآخر في جسمنا الفريد تماماً بصرف النظر عن بصمة إصبعنا؟"
+    "tr": "Parmak izi dışında tamamen benzersiz olan vücut bölgemiz hangisidir?",
+    "en": "Which body part is completely unique besides the fingerprint?",
+    "es": "¿Qué parte del cuerpo es completamente única además de la huella dactilar?",
+    "ar": "ما هو جزء الجسم الفريد تماماً بصرف النظر عن بصمة الإصبع؟"
   },
   "story_options": [
-    "Dilimiz",
-    "Kulağımız",
-    "Burnumuz"
+    "Dişler",
+    "Kulak memesi",
+    "Dirsek"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
     "#insan",
-    "#vücut",
-    "#keşfet",
-    "#bilim"
+    "#bilim",
+    "#biyoloji",
+    "#ilginçbilgiler",
+    "#vücudumuz",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
+    "en": "Don't forget to like if this is your first time hearing it!",
+    "es": "¡No olvides dar me gusta si es la primera vez que lo escuchas!",
+    "ar": "لا تنس الإعجاب إذا كانت هذه هي المرة الأولى التي تسمع فيها ذلك!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.2
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Library of Congress",
-    "url": "https://www.loc.gov/everyday-mysteries"
+    "name": "Forensic Dental Science",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4485392/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dil İzimiz Gibi Benzersiz Bir Yerimiz Var",
+  "_topic": "Gözleri Olmayan Tek Organımız",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-13T19:45:36.875641+00:00",
+  "generated_at": "2026-10-13T20:33:30.110615+00:00",
   "topic_guard_days": 180
 }

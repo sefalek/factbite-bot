@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerimiz Karanlığa Neden Bir Anda Değil de Yavaşça Alışır?",
-    "body": "Sinemalara girdiğinizde içeriyi ilk başta neden neredeyse hiç göremezsiniz? Cevap retinanızdaki özel bir maddede saklı: Rodopsin. Karanlıkta bu pigmentin tamamen aktif hale gelmesi yaklaşık yirmi dakikanızı alır. Yani acele etmeyin, gözleriniz aslında içerideki ışık seviyesine ayak uydurmak için biyolojik bir kimya laboratuvarı gibi çalışıyor."
+    "headline": "Sol Kulağınız Neden Duygusal Sesleri Daha İyi Yakalar?",
+    "body": "Beynimizin sol ve sağ yarım küreleri dünyayı farklı işler. Sağ kulağımız kelimeleri ve mantığı daha çabuk yakalarken, sol kulağımız doğrudan duygusal sesleri ve tonları işleyen sağ beyne bağlanır. Bu yüzden sevdiğimiz birinden gelen tatlı bir fısıltıyı ya da hüzünlü bir melodiyi farkında olmadan hep sol kulağımızla dinleriz."
   },
   "en": {
-    "headline": "Why Do Our Eyes Adapt to the Dark Slowly Instead of Instantly?",
-    "body": "When you step into a dark cinema, why can't you see anything at first? The answer lies in a special pigment in your retina called rhodopsin. It takes about twenty minutes for this pigment to fully activate in the dark. So take your time; your eyes are running a biological chemistry lab to match the low light."
+    "headline": "Why Your Left Ear Catches Emotional Sounds Better",
+    "body": "The left and right hemispheres of our brain process the world differently. While our right ear picks up words and logic faster, our left ear connects directly to the right brain, which processes emotional sounds and tones. That is why we instinctively listen to a sweet whisper from a loved one or a sad melody with our left ear."
   },
   "es": {
-    "headline": "¿Por qué nuestros ojos se adaptan a la oscuridad lentamente en lugar de al instante?",
-    "body": "Cuando entras a un cine oscuro, ¿por qué no puedes ver casi nada al principio? La respuesta está en un pigmento especial en tu retina llamado rodopsina. Este pigmento tarda unos veinte minutos en activarse por completo en la oscuridad. Tus ojos están trabajando como un laboratorio químico para adaptarse."
+    "headline": "Por qué tu oído izquierdo capta mejor los sonidos emocionales",
+    "body": "Los hemisferios izquierdo y derecho de nuestro cerebro procesan el mundo de manera diferente. Mientras que el oído derecho capta palabras y lógica más rápido, el oído izquierdo se conecta directamente al cerebro derecho, que procesa sonidos y tonos emocionales. Por eso escuchamos instintivamente un susurro o una melodía triste con el oído izquierdo."
   },
   "ar": {
-    "headline": "لماذا تتكيف عيوننا مع الظلام ببطء بدلاً من الفورية؟",
-    "body": "عندما تدخل صناعة سينما مظلمة، لماذا لا يمكنك رؤية أي شيء تقريبًا في البداية؟ الإجابة تكمن في صبغة خاصة في شبكية العين تسمى الرودوبسين. يستغرق تنشيط هذه الصبغة بالكامل حوالي عشرين دقيقة في الظلام لتتأقلم عيونك مع الإضاءة المنخفضة."
+    "headline": "لماذا تلتقط أذنك اليسرى الأصوات العاطفية بشكل أفضل؟",
+    "body": "يعالج نصفا الدماغ الأيمن والأيسر العالم بشكل مختلف. بينما تلتقت الأذن اليمنى الكلمات والمنطق بشكل أسرع، تتصل الأذن اليسرى مباشرة بالدماغ الأيمن الذي يعالج الأصوات والنغمات العاطفية. ولهذا السبب نستمع غريزياً إلى الهمسات أو الألحان الحزينة بأذننا اليسرى."
   },
   "reel_hook": {
-    "tr": "Sinemaya girdiğinizde içeriyi neden ilk 20 saniye tamamen karanlık görürsünüz?",
-    "en": "Why does a dark room look completely black for the first 20 seconds?",
-    "es": "¿Por qué una habitación oscura se ve totalmente negra los primeros 20 segundos?",
-    "ar": "لماذا تبدو الغرفة المظلمة سوداء تمامًا لأول 20 ثانية؟"
+    "tr": "Hangi kulağınızla dinlediğiniz duyduklarınızın anlamını tamamen değiştirebilir.",
+    "en": "Which ear you use to listen can completely change the meaning of what you hear.",
+    "es": "Qué oído usas para escuchar puede cambiar por completo el significado de lo que oyes.",
+    "ar": "الأذن التي تستخدمها للاستماع يمكنها أن تغير تماماً معنى ما تسمعه."
   },
   "story_question": {
-    "tr": "Gözlerimizin karanlığa tamamen alışması ortalama ne kadar sürer?",
-    "en": "On average, how long does it take for our eyes to fully adapt to the dark?",
-    "es": "En promedio, ¿cuánto tiempo tardan nuestros ojos en adaptarse por completo a la oscuridad?",
-    "ar": "في المتوسط، كم يستغرق عيوننا لتتكيّف تماماً مع الظلام؟"
+    "tr": "Sizce telefonla konuşurken hangi kulağınızı daha çok tercih ediyorsunuz?",
+    "en": "Which ear do you prefer using most when talking on the phone?",
+    "es": "¿Qué oído prefieres usar más al hablar por teléfono?",
+    "ar": "ما هي الأذن التي تفضل استخدامها أكثر عند التحدث على الهاتف؟"
   },
   "story_options": [
-    "5 dakika",
-    "20 dakika",
-    "1 saat"
+    "Sol Kulağım",
+    "Sağ Kulağım",
+    "Fark Etmiyor"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#biyoloji",
-    "#göz",
+    "#kulak",
+    "#psikoloji",
+    "#beyin",
     "#ilginçbilgiler",
-    "#sağlık",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyuyorsan beğenmeyi ve takip etmeyi unutma!",
-    "en": "If you just learned this, don't forget to like and follow!",
-    "es": "Si acabas de aprender esto, ¡no olvides darle a Me gusta y seguir!",
-    "ar": "إذا تعلمت هذا للتو، فلا تنس الإعجاب والمتابعة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Mantente atento a más datos sorprendentes como este!",
+    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "American Academy of Ophthalmology",
-    "url": "https://www.aao.org"
+    "name": "PubMed Central / Auditory Lateralization Studies",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5573426/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerimiz Karanlığa Neden Bir Anda Değil de Yavaşça Alışır?",
+  "_topic": "Sol Kulağınız Neden Duygusal Sesleri Daha İyi Yakalar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-13T21:50:07.148689+00:00",
+  "generated_at": "2026-10-13T23:13:10.681787+00:00",
   "topic_guard_days": 180
 }

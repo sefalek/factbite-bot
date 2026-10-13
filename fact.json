@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sol Kulağınız Neden Duygusal Sesleri Daha İyi Yakalar?",
-    "body": "Beynimizin sol ve sağ yarım küreleri dünyayı farklı işler. Sağ kulağımız kelimeleri ve mantığı daha çabuk yakalarken, sol kulağımız doğrudan duygusal sesleri ve tonları işleyen sağ beyne bağlanır. Bu yüzden sevdiğimiz birinden gelen tatlı bir fısıltıyı ya da hüzünlü bir melodiyi farkında olmadan hep sol kulağımızla dinleriz."
+    "headline": "Yüzümüz Neden Aynadaki Gibi Değil?",
+    "body": "Fotoğraflarda çıktığımız hali neden aynada gördüğümüze hiç benzemez? Aslında her gün baktığımız o yansıma gerçekte olduğumuz kişi değil, sadece ters çevrilmiş bir versiyonumuzdur. Beynimiz kendi yüzümüzün aynadaki haline o kadar alışır ki, fotoğraf çekildiğinde gördüğümüz düz hali bize garip ve yabancı gelir."
   },
   "en": {
-    "headline": "Why Your Left Ear Catches Emotional Sounds Better",
-    "body": "The left and right hemispheres of our brain process the world differently. While our right ear picks up words and logic faster, our left ear connects directly to the right brain, which processes emotional sounds and tones. That is why we instinctively listen to a sweet whisper from a loved one or a sad melody with our left ear."
+    "headline": "Why We Look Different in Photos Than in the Mirror",
+    "body": "Why doesn't the way we look in photos ever match what we see in the mirror? The reflection we look at every day isn't actually who we are, but just a flipped version of us. Our brains get so used to the mirrored version of our own faces that the un-flipped photo version always feels strange and unfamiliar to us."
   },
   "es": {
-    "headline": "Por qué tu oído izquierdo capta mejor los sonidos emocionales",
-    "body": "Los hemisferios izquierdo y derecho de nuestro cerebro procesan el mundo de manera diferente. Mientras que el oído derecho capta palabras y lógica más rápido, el oído izquierdo se conecta directamente al cerebro derecho, que procesa sonidos y tonos emocionales. Por eso escuchamos instintivamente un susurro o una melodía triste con el oído izquierdo."
+    "headline": "¿Por qué nos vemos diferentes en las fotos que en el espejo?",
+    "body": "¿Por qué el aspecto que tenemos en las fotos nunca coincide con lo que vemos en el espejo? El reflejo que miramos todos los días no es realmente quién somos, sino una versión invertida. Nuestro cerebro se acostumbra tanto al espejo que la versión real de la foto nos parece extraña."
   },
   "ar": {
-    "headline": "لماذا تلتقط أذنك اليسرى الأصوات العاطفية بشكل أفضل؟",
-    "body": "يعالج نصفا الدماغ الأيمن والأيسر العالم بشكل مختلف. بينما تلتقت الأذن اليمنى الكلمات والمنطق بشكل أسرع، تتصل الأذن اليسرى مباشرة بالدماغ الأيمن الذي يعالج الأصوات والنغمات العاطفية. ولهذا السبب نستمع غريزياً إلى الهمسات أو الألحان الحزينة بأذننا اليسرى."
+    "headline": "لماذا نبدو مختلفين في الصور عن المرآة؟",
+    "body": "لماذا لا يبدو شكلنا في الصور مطابقاً لما نراه في المرآة أبداً؟ الانعكاس الذي ننظر إليه كل يوم ليس في الواقع هو من نحن، بل هو مجرد نسخة مقلوبة. اعتاد دماغنا على صورة وجهنا في المرآة لدرجة أن الصورة العادية تبدو غريبة ومألوفة بشكل غريب."
   },
   "reel_hook": {
-    "tr": "Hangi kulağınızla dinlediğiniz duyduklarınızın anlamını tamamen değiştirebilir.",
-    "en": "Which ear you use to listen can completely change the meaning of what you hear.",
-    "es": "Qué oído usas para escuchar puede cambiar por completo el significado de lo que oyes.",
-    "ar": "الأذن التي تستخدمها للاستماع يمكنها أن تغير تماماً معنى ما تسمعه."
+    "tr": "Aynadaki yüzün ile fotoğraftaki yüzün neden tamamen farklı?",
+    "en": "Why your face in the mirror looks completely different in photos?",
+    "es": "¿Por qué tu cara en el espejo es completamente diferente en las fotos?",
+    "ar": "لماذا يبدو وجهك في المرآة مختلفاً تماماً في الصور؟"
   },
   "story_question": {
-    "tr": "Sizce telefonla konuşurken hangi kulağınızı daha çok tercih ediyorsunuz?",
-    "en": "Which ear do you prefer using most when talking on the phone?",
-    "es": "¿Qué oído prefieres usar más al hablar por teléfono?",
-    "ar": "ما هي الأذن التي تفضل استخدامها أكثر عند التحدث على الهاتف؟"
+    "tr": "Kendinizi hangisinde daha çok görmeye alışkınsınız?",
+    "en": "Which version are you more used to seeing?",
+    "es": "¿A cuál versión estás más acostumbrado a ver?",
+    "ar": "أي نسخة أنت معتاد على رؤيتها أكثر؟"
   },
   "story_options": [
-    "Sol Kulağım",
-    "Sağ Kulağım",
-    "Fark Etmiyor"
+    "Ayna Yansıması",
+    "Fotoğraf Hali",
+    "İkisi de Fark Etmez"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#kulak",
+    "#ayna",
+    "#fotoğraf",
     "#psikoloji",
-    "#beyin",
     "#ilginçbilgiler",
+    "#bilim",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
-    "en": "Stay tuned for more surprising facts like this!",
-    "es": "¡Mantente atento a más datos sorprendentes como este!",
-    "ar": "ترقبوا المزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Sizce hangisi gerçek yüzünüz? Yorumlarda buluşalım!",
+    "en": "Which one do you think is your real face? Let us know in the comments!",
+    "es": "¿Cuál crees que es tu verdadera cara? ¡Cuéntanos en los comentarios!",
+    "ar": "برأيك أيهما وجهك الحقيقي؟ أخبرنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "PubMed Central / Auditory Lateralization Studies",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5573426/"
+    "name": "Psychology Today",
+    "url": "https://www.psychologytoday.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Sol Kulağınız Neden Duygusal Sesleri Daha İyi Yakalar?",
+  "_topic": "Yüzümüz Neden Aynadaki Gibi Değil?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-13T23:13:10.681787+00:00",
+  "generated_at": "2026-10-13T23:53:43.026884+00:00",
   "topic_guard_days": 180
 }

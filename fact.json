@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Aynalar Bize Neden Yalan Söyler?",
-    "body": "Sabah aynaya baktığınızda gördüğünüz yüz, aslında gerçek yüzünüz değil. Aynalar görüntüyü ters çevirir; yani sağ gözünüz solda görünür. İnsanlar yüzleri simetrik olmadığı için aynadaki yansımalarına yabancıdır, ancak fotoğraflardaki halimiz gerçek halimize çok daha yakındır."
+    "headline": "İnsan Gözünün Bilmediğiniz O Garip Sınırı",
+    "body": "Gözlerimiz harika detaylar yakalar ama gökyüzüne baktığınızda gördüğünüz o uçuşan küçük cisimlerin aslında orada olmadığını biliyor muydunuz? Göz içindeki sıvının gölgeleri olan bu 'sineklikler' tamamen kendi kafamızın içindedir."
   },
   "en": {
-    "headline": "Why Mirrors Lie to Us",
-    "body": "The face you see in the mirror every morning is not actually your real face. Mirrors reverse the image, meaning your right eye appears on the left. Because human faces are asymmetric, people are unfamiliar with their reflection, but photos show much closer to what we actually look like."
+    "headline": "The Strange Limit of the Human Eye",
+    "body": "Our eyes catch amazing details, but did you know those floating little shapes you see in the sky aren't actually there? These 'floaters', which are shadows in the eye fluid, are entirely inside our own heads."
   },
   "es": {
-    "headline": "Por qué los espejos nos mienten",
-    "body": "El rostro que ves en el espejo cada mañana no es realmente tu cara real. Los espejos invierten la imagen, lo que significa que tu ojo derecho aparece a la izquierda. Como los rostros humanos no son simétricos, las personas no están familiarizadas con su reflejo, pero las fotos muestran cómo nos vemos realmente."
+    "headline": "El extraños límite del ojo humano",
+    "body": "Nuestros ojos captan detalles increíble, pero ¿sabías que esas pequeñas formas flotantes que ves en el cielo en realidad no están ahí? Estas 'moscas volantes', que son sombras en el líquido del ojo, están completamente dentro de nuestra propia cabeza."
   },
   "ar": {
-    "headline": "لماذا تجذبنا المرايا وتكذب علينا؟",
-    "body": "الوجه الذي تراه في المرآة كل صباح ليس وجهك الحقيقي تماماً. تعكس المرايا الصورة، مما يعني أن عينك اليمنى تظهر على اليسار. وبسبب عدم تماثل وجوه البشر، فإننا غير معتادين على انعكاسنا، لكن الصور الفوتوغرافية توضح شكلنا الحقيقي بشكل أكبر."
+    "headline": "الحد الغريب للعين البشرية",
+    "body": "تخترق عيوننا تفاصيل مذهلة، ولكن هل تعلم أن تلك الأشكال الصغيرة العائمة التي تراها في السماء ليست موجودة حقاً؟ هذه الشوائب، وهي ظلال في سائل العين، موجودة بالكامل داخل رؤوسنا."
   },
   "reel_hook": {
-    "tr": "Her sabah aynada gördüğünüz o yüz... Aslında hiç de öyle görünmüyor.",
-    "en": "The face you see in the mirror every morning... doesn't actually look like that.",
-    "es": "El rostro que ves en el espejo cada mañana... en realidad no se ve así.",
-    "ar": "الوجه الذي تراه في المرآة كل صباح... لا يبدو هكذا حقاً."
+    "tr": "Gökyüzüne baktığınızda gördüğünüz o şeylerin aslında orada olmadığını söylesem?",
+    "en": "What if I told you those things you see when looking at the sky aren't actually there?",
+    "es": "¿Qué pasaría si te dijera que esas cosas que ves al mirar el cielo en realidad no están ahí?",
+    "ar": "ماذا لو أخبرتك أن تلك الأشياء التي تراها عند النظر إلى السماء ليست موجودة حقاً؟"
   },
   "story_question": {
-    "tr": "Sizce hangisi gerçek yüzümüzü daha doğru gösterir?",
-    "en": "Which one do you think shows our real face more accurately?",
-    "es": "¿Cuál crees que muestra nuestro rostro real con más precisión?",
-    "ar": "برأيك، أيهما يظهر وجهنا الحقيقي بدقة أكبر؟"
+    "tr": "Gözünüzde uçuşan o minik cisimlere ne ad verilir?",
+    "en": "What are those tiny floating objects in your eye called?",
+    "es": "¿Cómo se llaman esos pequeños objetos flotantes en tu ojo?",
+    "ar": "ما ماذا تُسمى تلك الأشياء الصغيرة العائمة في عينك؟"
   },
   "story_options": [
-    "Aynadaki yansımamız",
-    "Çekildiğimiz fotoğraflar",
-    "İkisi de tamamen aynı"
+    "Miodesopsit (Göz sinekleri)",
+    "Optik pikseller",
+    "Retina tozları"
   ],
   "hashtags": [
     "#FactBite",
-    "#ayna",
     "#bilim",
-    "#psychology",
+    "#göz",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#gerçekler"
+    "#keşfet",
+    "#vücudumuz"
   ],
   "cta": {
-    "tr": "Aynadaki görüntünüze mi yoksa fotoğraflara mı daha çok güveniyorsunuz? Yorumlarda buluşalım!",
-    "en": "Do you trust your mirror reflection or photos more? Let us know in the comments!",
-    "es": "¿Confías más en tu reflejo en el espejo o en las fotos? ¡Cuéntanos en los comentarios!",
-    "ar": "هل تثق في انعكاس مرآتك أم في الصور أكثر؟ أخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla bilgi için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Sígueme para más datos como este!",
+    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "American Psychological Association",
-    "url": "https://www.apa.org"
+    "name": "American Academy of Ophthalmology",
+    "url": "https://www.aao.org/eye-health/diseases/what-are-floaters"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Aynalar Bize Neden Yalan Söyler?",
+  "_topic": "İnsan Gözünün Bilmediğiniz O Garip Sınırı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-14T10:19:39.239320+00:00",
+  "generated_at": "2026-10-14T13:45:20.273327+00:00",
   "topic_guard_days": 180
 }

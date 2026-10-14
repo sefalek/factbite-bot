@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yazı Yazarken Dilimizin Neden Hep Aynı Yöne Gitmesi?",
-    "body": "Bir şeye odaklandığınızda, özellikle yazı yazarken veya ip geçirirken dilinizin neden hep dışarı çıkıp aynı köşeye kıvrıldığını hiç düşündünüz mü? Beynimiz ellerimizi kontrol eden motor becerileri çalıştırırken, hemen yanındaki dil kaslarına da istemsiz sinyaller gönderir. Yani diliniz, ellerinizin gizli yardımcısıdır!"
+    "headline": "Yutkunsanız Bile Aslında Nefes Alıyorsunuz",
+    "body": "Yemek yerken veya sadece yutkunurken boğazımızın ne yaptığına hiç dikkat ettiniz mi? Beynimiz o kadar mükemmel bir zamanlama mekanizmasına sahiptir ki, yutkuna anında nefes alıp vermeyi saliseler içinde keser ve soluk borusunu kapatır. Yani boğazınızda her saniye mini bir trafik polisi görev yapar."
   },
   "en": {
-    "headline": "Why Does Our Tongue Always Go to the Same Side When We Focus?",
-    "body": "Have you ever wondered why your tongue sticks out and curves to the same corner when you're focusing, like when writing or threading a needle? When our brain controls fine motor skills for our hands, it accidentally sends signals to the neighboring tongue muscles. Your tongue is basically your hands' secret assistant!"
+    "headline": "You Actually Breathe Right Through Your Swallows",
+    "body": "Have you ever noticed what your throat does when you swallow? Our brain has such a perfect timing mechanism that it cuts off breathing for milliseconds during a swallow and closes the windpipe. A mini traffic cop works in your throat every second."
   },
   "es": {
-    "headline": "¿Por qué nuestra lengua siempre va hacia el mismo lado cuando nos concentramos?",
-    "body": "¿Alguna vez te has preguntado por qué tu lengua se asoma y se curva hacia el mismo rincón cuando te concentras, como al escribir o enhebrar una aguja? Cuando nuestro cerebro controla las habilidades motoras finas de las manos, envía señales involuntarias a los músculos vecinos de la lengua. ¡Tu lengua es el asistente secreto de tus manos!"
+    "headline": "En realidad respiras justo mientras tragas",
+    "body": "¿Alguna vez has notado lo que hace tu garganta al tragar? Nuestro cerebro tiene un mecanismo de sincronización tan perfecto que corta la respiración durante milisegundos al tragar y cierra la tráquea. Un mini policía de tránsito trabaja en tu garganta cada segundo."
   },
   "ar": {
-    "headline": "لماذا تذهب لساننا دائماً إلى نفس الجانب عندما نركز؟",
-    "body": "هل فكرت يوماً في سبب خروج لسانك وانحنائه نحو نفس الزاوية عندما تركز، مثل الكتابة أو إدخال الخيط في الإبرة؟ عندما يتحكم دماغنا في المهارات الحركية الدقيقة لأيدينا، فإنه يرسل إشارات غير مقصودة إلى عضلات اللسان المجاورة. لسانك هو ببساطة المساعد السري ليديك!"
+    "headline": "أنت تنفس في الواقع أثناء البلع",
+    "body": "هل لاحظت من قبل ما يفعله حلقك عندما تبتلع؟ يمتلك دماغنا آلية توقيت مثالية لدرجة أنه يقطع التنفس لأجزاء من الثانية أثناء البلع ويغلق القصبة الهوائية. يعمل شرطي مرور صغير في حلقك كل ثانية."
   },
   "reel_hook": {
-    "tr": "Odaklandığınızda diliniz neden hep aynı köşeye kaçar?",
-    "en": "Why does your tongue always drift to the same corner when you focus?",
-    "es": "¿Por qué tu lengua siempre se va hacia el mismo rincón cuando te concentras?",
-    "ar": "لماذا ينجرف لسانك دائماً إلى نفس الزاوية عندما تركز؟"
+    "tr": "Yutkunuşunuzla nefesiniz arasındaki o gizli savaşı biliyor musunuz?",
+    "en": "Do you know the secret battle between your swallow and your breath?",
+    "es": "¿Conoces la batalla secreta entre tu trago y tu aliento?",
+    "ar": "هل تعلم المعركة السرية بين بلعك وتنفسك؟"
   },
   "story_question": {
-    "tr": "Bu istemsiz hareket sırasında dilinizin hangi yöne gittiğini fark ettiniz mi hiç?",
-    "en": "Have you ever noticed which direction your tongue goes during this involuntary movement?",
-    "es": "¿Alguna vez has notado hacia qué dirección va tu lengua durante este movimiento involuntario?",
-    "ar": "هل لاحظت من قبل إلى أي اتجاه يذهب لسانك خلال هذه الحركة اللاإادية؟"
+    "tr": "Yutkuncusunuz her an nefes almayı kestiğinizi biliyor muydunuz?",
+    "en": "Did you know you stop breathing every time you swallow?",
+    "es": "¿Sabías que dejas de respirar cada vez que tragas?",
+    "ar": "هل كنت تعلم أنك تتوقف عن التنفس في كل مرة تبتلع فيها؟"
   },
   "story_options": [
-    "Sürekli sağ köşeye",
-    "Sürekli sol köşeye",
-    "Hiç dikkat etmedim"
+    "Evet, biliyordum",
+    "Yeni öğrendim",
+    "İnanması zor"
   ],
   "hashtags": [
     "#FactBite",
-    "#ilginçbilgiler",
     "#bilim",
     "#vücudumuz",
+    "#ilginçbilgiler",
+    "#anatomi",
     "#keşfet",
-    "#psikoloji",
-    "#biliyormusunuz"
+    "#sağlık"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan bir arkadaşına gönder!",
-    "en": "Send this to a friend who is learning this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté aprendiendo esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يتعلم هذا لأول مرة!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que escuche esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.8
   },
   "source": {
-    "name": "PubMed Central / Motor Cortex Studies",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/"
+    "name": "Anatomy and Physiology of Swallowing",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK535395/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yazı Yazarken Dilimizin Neden Hep Aynı Yöne Gitmesi?",
+  "_topic": "Yutkunsanız Bile Aslında Nefes Alıyorsunuz",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-14T22:04:59.146879+00:00",
+  "generated_at": "2026-10-14T23:27:45.391023+00:00",
   "topic_guard_days": 180
 }

@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yüzümüz Neden Aynadaki Gibi Değil?",
-    "body": "Fotoğraflarda çıktığımız hali neden aynada gördüğümüze hiç benzemez? Aslında her gün baktığımız o yansıma gerçekte olduğumuz kişi değil, sadece ters çevrilmiş bir versiyonumuzdur. Beynimiz kendi yüzümüzün aynadaki haline o kadar alışır ki, fotoğraf çekildiğinde gördüğümüz düz hali bize garip ve yabancı gelir."
+    "headline": "Aynalar Bize Neden Yalan Söyler?",
+    "body": "Sabah aynaya baktığınızda gördüğünüz yüz, aslında gerçek yüzünüz değil. Aynalar görüntüyü ters çevirir; yani sağ gözünüz solda görünür. İnsanlar yüzleri simetrik olmadığı için aynadaki yansımalarına yabancıdır, ancak fotoğraflardaki halimiz gerçek halimize çok daha yakındır."
   },
   "en": {
-    "headline": "Why We Look Different in Photos Than in the Mirror",
-    "body": "Why doesn't the way we look in photos ever match what we see in the mirror? The reflection we look at every day isn't actually who we are, but just a flipped version of us. Our brains get so used to the mirrored version of our own faces that the un-flipped photo version always feels strange and unfamiliar to us."
+    "headline": "Why Mirrors Lie to Us",
+    "body": "The face you see in the mirror every morning is not actually your real face. Mirrors reverse the image, meaning your right eye appears on the left. Because human faces are asymmetric, people are unfamiliar with their reflection, but photos show much closer to what we actually look like."
   },
   "es": {
-    "headline": "¿Por qué nos vemos diferentes en las fotos que en el espejo?",
-    "body": "¿Por qué el aspecto que tenemos en las fotos nunca coincide con lo que vemos en el espejo? El reflejo que miramos todos los días no es realmente quién somos, sino una versión invertida. Nuestro cerebro se acostumbra tanto al espejo que la versión real de la foto nos parece extraña."
+    "headline": "Por qué los espejos nos mienten",
+    "body": "El rostro que ves en el espejo cada mañana no es realmente tu cara real. Los espejos invierten la imagen, lo que significa que tu ojo derecho aparece a la izquierda. Como los rostros humanos no son simétricos, las personas no están familiarizadas con su reflejo, pero las fotos muestran cómo nos vemos realmente."
   },
   "ar": {
-    "headline": "لماذا نبدو مختلفين في الصور عن المرآة؟",
-    "body": "لماذا لا يبدو شكلنا في الصور مطابقاً لما نراه في المرآة أبداً؟ الانعكاس الذي ننظر إليه كل يوم ليس في الواقع هو من نحن، بل هو مجرد نسخة مقلوبة. اعتاد دماغنا على صورة وجهنا في المرآة لدرجة أن الصورة العادية تبدو غريبة ومألوفة بشكل غريب."
+    "headline": "لماذا تجذبنا المرايا وتكذب علينا؟",
+    "body": "الوجه الذي تراه في المرآة كل صباح ليس وجهك الحقيقي تماماً. تعكس المرايا الصورة، مما يعني أن عينك اليمنى تظهر على اليسار. وبسبب عدم تماثل وجوه البشر، فإننا غير معتادين على انعكاسنا، لكن الصور الفوتوغرافية توضح شكلنا الحقيقي بشكل أكبر."
   },
   "reel_hook": {
-    "tr": "Aynadaki yüzün ile fotoğraftaki yüzün neden tamamen farklı?",
-    "en": "Why your face in the mirror looks completely different in photos?",
-    "es": "¿Por qué tu cara en el espejo es completamente diferente en las fotos?",
-    "ar": "لماذا يبدو وجهك في المرآة مختلفاً تماماً في الصور؟"
+    "tr": "Her sabah aynada gördüğünüz o yüz... Aslında hiç de öyle görünmüyor.",
+    "en": "The face you see in the mirror every morning... doesn't actually look like that.",
+    "es": "El rostro que ves en el espejo cada mañana... en realidad no se ve así.",
+    "ar": "الوجه الذي تراه في المرآة كل صباح... لا يبدو هكذا حقاً."
   },
   "story_question": {
-    "tr": "Kendinizi hangisinde daha çok görmeye alışkınsınız?",
-    "en": "Which version are you more used to seeing?",
-    "es": "¿A cuál versión estás más acostumbrado a ver?",
-    "ar": "أي نسخة أنت معتاد على رؤيتها أكثر؟"
+    "tr": "Sizce hangisi gerçek yüzümüzü daha doğru gösterir?",
+    "en": "Which one do you think shows our real face more accurately?",
+    "es": "¿Cuál crees que muestra nuestro rostro real con más precisión?",
+    "ar": "برأيك، أيهما يظهر وجهنا الحقيقي بدقة أكبر؟"
   },
   "story_options": [
-    "Ayna Yansıması",
-    "Fotoğraf Hali",
-    "İkisi de Fark Etmez"
+    "Aynadaki yansımamız",
+    "Çekildiğimiz fotoğraflar",
+    "İkisi de tamamen aynı"
   ],
   "hashtags": [
     "#FactBite",
     "#ayna",
-    "#fotoğraf",
-    "#psikoloji",
-    "#ilginçbilgiler",
     "#bilim",
-    "#keşfet"
+    "#psychology",
+    "#ilginçbilgiler",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Sizce hangisi gerçek yüzünüz? Yorumlarda buluşalım!",
-    "en": "Which one do you think is your real face? Let us know in the comments!",
-    "es": "¿Cuál crees que es tu verdadera cara? ¡Cuéntanos en los comentarios!",
-    "ar": "برأيك أيهما وجهك الحقيقي؟ أخبرنا في التعليقات!"
+    "tr": "Aynadaki görüntünüze mi yoksa fotoğraflara mı daha çok güveniyorsunuz? Yorumlarda buluşalım!",
+    "en": "Do you trust your mirror reflection or photos more? Let us know in the comments!",
+    "es": "¿Confías más en tu reflejo en el espejo o en las fotos? ¡Cuéntanos en los comentarios!",
+    "ar": "هل تثق في انعكاس مرآتك أم في الصور أكثر؟ أخبرنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Psychology Today",
-    "url": "https://www.psychologytoday.com"
+    "name": "American Psychological Association",
+    "url": "https://www.apa.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yüzümüz Neden Aynadaki Gibi Değil?",
+  "_topic": "Aynalar Bize Neden Yalan Söyler?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-13T23:53:43.026884+00:00",
+  "generated_at": "2026-10-14T10:19:39.239320+00:00",
   "topic_guard_days": 180
 }

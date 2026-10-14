@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Gözünün Bilmediğiniz O Garip Sınırı",
-    "body": "Gözlerimiz harika detaylar yakalar ama gökyüzüne baktığınızda gördüğünüz o uçuşan küçük cisimlerin aslında orada olmadığını biliyor muydunuz? Göz içindeki sıvının gölgeleri olan bu 'sineklikler' tamamen kendi kafamızın içindedir."
+    "headline": "Kulak Memeniz Asla Durmaz",
+    "body": "Hayatınız boyunca vücudunuzun çoğu organı büyümeyi belli bir yaşta durdurur. Ancak kulak memeniz ve burnunuz, yer çekiminin ve kıkırdak yapının esnemesiyle sessizce büyümeye devam eder."
   },
   "en": {
-    "headline": "The Strange Limit of the Human Eye",
-    "body": "Our eyes catch amazing details, but did you know those floating little shapes you see in the sky aren't actually there? These 'floaters', which are shadows in the eye fluid, are entirely inside our own heads."
+    "headline": "Your Earlobe Never Stops",
+    "body": "Throughout your life, most of your body's organs stop growing at a certain age. However, your earlobe and nose quietly keep growing due to gravity and cartilage stretching."
   },
   "es": {
-    "headline": "El extraños límite del ojo humano",
-    "body": "Nuestros ojos captan detalles increíble, pero ¿sabías que esas pequeñas formas flotantes que ves en el cielo en realidad no están ahí? Estas 'moscas volantes', que son sombras en el líquido del ojo, están completamente dentro de nuestra propia cabeza."
+    "headline": "Tu lóbulo nunca se detiene",
+    "body": "A lo largo de tu vida, la mayoría de los órganos de tu cuerpo dejan de crecer a cierta edad. Sin embargo, tu lóbulo y tu nariz siguen creciendo silenciosamente debido a la gravedad y al estiramiento del cartílago."
   },
   "ar": {
-    "headline": "الحد الغريب للعين البشرية",
-    "body": "تخترق عيوننا تفاصيل مذهلة، ولكن هل تعلم أن تلك الأشكال الصغيرة العائمة التي تراها في السماء ليست موجودة حقاً؟ هذه الشوائب، وهي ظلال في سائل العين، موجودة بالكامل داخل رؤوسنا."
+    "headline": "شحمة أذنك لا تتوقف أبداً",
+    "body": "طوال حياتك، تتوقف معظم أعضاء جسمك عن النمو في عمر معين. ومع ذلك، تستمر شحمة أذنك وأنفك في النمو بهدوء بسبب الجاذبية وتمدد الغضاريف."
   },
   "reel_hook": {
-    "tr": "Gökyüzüne baktığınızda gördüğünüz o şeylerin aslında orada olmadığını söylesem?",
-    "en": "What if I told you those things you see when looking at the sky aren't actually there?",
-    "es": "¿Qué pasaría si te dijera que esas cosas que ves al mirar el cielo en realidad no están ahí?",
-    "ar": "ماذا لو أخبرتك أن تلك الأشياء التي تراها عند النظر إلى السماء ليست موجودة حقاً؟"
+    "tr": "Aynaya her baktığınızda o iki yeriniz büyüyor, fark ettiniz mi?",
+    "en": "Every time you look in the mirror, those two parts are growing, did you notice?",
+    "es": "Cada vez que te miras al espejo, esas dos partes crecen, ¿te has dado cuenta?",
+    "ar": "في كل مرة تنظر فيها في المرآة، يتزايد حجم هذين الجزأين، هل لاحظت ذلك؟"
   },
   "story_question": {
-    "tr": "Gözünüzde uçuşan o minik cisimlere ne ad verilir?",
-    "en": "What are those tiny floating objects in your eye called?",
-    "es": "¿Cómo se llaman esos pequeños objetos flotantes en tu ojo?",
-    "ar": "ما ماذا تُسمى تلك الأشياء الصغيرة العائمة في عينك؟"
+    "tr": "Sizce vücutta büyümeye devam eden başka hangi yapı vardır?",
+    "en": "What other structure in the body do you think keeps growing?",
+    "es": "¿Qué otra estructura en el cuerpo crees que sigue creciendo?",
+    "ar": "ما هي البنية الأخرى في الجسم برأيك التي تستمر في النمو؟"
   },
   "story_options": [
-    "Miodesopsit (Göz sinekleri)",
-    "Optik pikseller",
-    "Retina tozları"
+    "Saçlar",
+    "Tırnaklar",
+    "Gözbebekleri"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#göz",
-    "#biyoloji",
+    "#biliyormusunuz",
     "#ilginçbilgiler",
+    "#vücudumuz",
     "#keşfet",
-    "#vücudumuz"
+    "#bilimnotları"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Sígueme para más datos como este!",
-    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
+    "tr": "Hangi organınızın büyüdüğünü öğrenmek için kaydetmeyi unutmayın!",
+    "en": "Don't forget to save to learn which organ is growing!",
+    "es": "¡No olvides guardar para saber qué órgano sigue creciendo!",
+    "ar": "لا تنس حفظ المنشور لتتعرف على العضو الذي ينمو!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "American Academy of Ophthalmology",
-    "url": "https://www.aao.org/eye-health/diseases/what-are-floaters"
+    "name": "Anatomy & Cell Biology Research",
+    "url": "https://www.ncbi.nlm.nih.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Gözünün Bilmediğiniz O Garip Sınırı",
+  "_topic": "Kulak Memeniz Asla Durmaz",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-14T13:45:20.273327+00:00",
+  "generated_at": "2026-10-14T15:53:30.303343+00:00",
   "topic_guard_days": 180
 }

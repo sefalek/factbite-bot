@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudunun Şaşırtıcı Mikro Kaplıcası",
-    "body": "Cildimizin en üst katmanı olan epidermisteki hücreler sürekli yenilenir ve ölü hücreler dökülür. Aslında evimizdeki tozların büyük bir kısmının kaynağı kendi tenimizdir. Her dakika binlerce deri hücresini etrafa saçıyoruz."
+    "headline": "İnsan Burnunun Şaşırtıcı Hafızası",
+    "body": "Burnumuz, trilyonlarca farklı kokuyu ayırt edebilir ve unutulmaz anıları en canlı şekilde saklar."
   },
   "en": {
-    "headline": "The Human Body's Surprising Micro-Spa",
-    "body": "Cells in the epidermis, the outermost layer of our skin, constantly renew themselves and dead cells shed. In fact, our own skin is the source of a large portion of the dust in our homes. Every minute, we scatter thousands of skin cells into the air."
+    "headline": "The Surprising Memory of the Human Nose",
+    "body": "Our nose can distinguish trillions of different scents and stores unforgettable memories vividly."
   },
   "es": {
-    "headline": "El Sorprendente Micro-Spa del Cuerpo Humano",
-    "body": "Las células de la epidermis, la capa más externa de nuestra piel, se renuevan constantemente y las células muertas se desprenden. De hecho, nuestra propia piel es la fuente de gran parte del polvo en nuestros hogares. Cada minuto, esparcemos miles de células de la piel."
+    "headline": "La Sorprendente Memoria de la Nariz Humana",
+    "body": "Nuestra nariz puede distinguir billones de aromas diferentes y almacena recuerdos vívidamente."
   },
   "ar": {
-    "headline": "المنتجع المصغر المذهل في جسم الإنسان",
-    "body": "تتجدد الخلايا في البشرة، وهي الطبقة الخارجية من جلدنا، باستمرار وتتساقط الخلايا الميتة. في الواقع، جلدنا هو مصدر جزء كبير من الغبار في منازلنا. في كل دقيقة، ننشر آلاف خلايا الجلد في الهواء."
+    "headline": "ذاكرة الأنف البشري المدهشة",
+    "body": "يمكن لأنفك التمييز بين تريليونات الروائح المختلفة وتخزين الذكريات بشكل واضح."
   },
   "reel_hook": {
-    "tr": "Evimizdeki tozun nereden geldiğini biliyor musun?",
-    "en": "Do you know where the dust in your home comes from?",
-    "es": "¿Sabes de dónde viene el polvo de tu casa?",
-    "ar": "هل تعلم من أين يأتي الغبار في منزلك؟"
+    "tr": "Hangi duyu organınız sizi zamanda on yıl geriye götürebilir?",
+    "en": "Which sensory organ can take you back ten years in time?",
+    "es": "¿Qué órgano sensorial puede transportarte diez años atrás en el tiempo?",
+    "ar": "ما هو عضو الحواس الذي يمكنه إرجاعك عشر سنوات إلى الوراء؟"
   },
   "story_question": {
-    "tr": "Evdeki tozun en büyük kaynağı sizce nedir?",
-    "en": "What do you think is the biggest source of dust at home?",
-    "es": "¿Cuál crees que es la mayor fuente de polvo en el hogar?",
-    "ar": "ما برأيك هو المصدر الأكبر للغبار في المنزل؟"
+    "tr": "Beynimizin hafızayla en güçlü bağ kuran duyusu hangisidir?",
+    "en": "Which sense has the strongest connection to human memory in our brain?",
+    "es": "¿Qué sentido tiene la conexión más fuerte con la memoria en nuestro cerebro?",
+    "ar": "أي حاسة لها أقوى ارتباط بالذاكرة في دماغنا؟"
   },
   "story_options": [
-    "Dökülen deri hücreleri",
-    "Kıyafet lifleri",
-    "Dışarıdan gelen toprak"
+    "Koku",
+    "Görme",
+    "İşitme"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
+    "#beyin",
+    "#hafıza",
+    "#psikoloji",
     "#ilginçbilgiler",
-    "#insan",
-    "#sağlık",
-    "#keşfet",
-    "#faydalıbilgiler"
+    "#sağlık"
   ],
   "cta": {
-    "tr": "Bu gerçeği şaşırdığın bir arkadaşına gönder!",
-    "en": "Send this fact to a friend who will be amazed!",
-    "es": "¡Envía este dato a un amigo que se sorprenderá!",
-    "ar": "أرسل هذه الحقيقة لصديق سندهش!"
+    "tr": "Benzer içerikler için bizi takip etmeyi unutmayın!",
+    "en": "Don't forget to follow us for more content like this!",
+    "es": "¡No olvides seguirnos para más contenido como este!",
+    "ar": "لا تنس متابعتنا للمزيد من المحتوى مثل هذا!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.8
+    "overall": 8.7
   },
   "source": {
-    "name": "National Geographic & Dermatology Science",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Science",
+    "url": "https://www.science.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudunun Şaşırtıcı Mikro Kaplıcası",
+  "_topic": "İnsan Burnunun Şaşırtıcı Hafızası",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-14T19:13:48.560595+00:00",
+  "generated_at": "2026-10-14T20:36:27.354089+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Burnunun Şaşırtıcı Hafızası",
-    "body": "Burnumuz, trilyonlarca farklı kokuyu ayırt edebilir ve unutulmaz anıları en canlı şekilde saklar."
+    "headline": "Yazı Yazarken Dilimizin Neden Hep Aynı Yöne Gitmesi?",
+    "body": "Bir şeye odaklandığınızda, özellikle yazı yazarken veya ip geçirirken dilinizin neden hep dışarı çıkıp aynı köşeye kıvrıldığını hiç düşündünüz mü? Beynimiz ellerimizi kontrol eden motor becerileri çalıştırırken, hemen yanındaki dil kaslarına da istemsiz sinyaller gönderir. Yani diliniz, ellerinizin gizli yardımcısıdır!"
   },
   "en": {
-    "headline": "The Surprising Memory of the Human Nose",
-    "body": "Our nose can distinguish trillions of different scents and stores unforgettable memories vividly."
+    "headline": "Why Does Our Tongue Always Go to the Same Side When We Focus?",
+    "body": "Have you ever wondered why your tongue sticks out and curves to the same corner when you're focusing, like when writing or threading a needle? When our brain controls fine motor skills for our hands, it accidentally sends signals to the neighboring tongue muscles. Your tongue is basically your hands' secret assistant!"
   },
   "es": {
-    "headline": "La Sorprendente Memoria de la Nariz Humana",
-    "body": "Nuestra nariz puede distinguir billones de aromas diferentes y almacena recuerdos vívidamente."
+    "headline": "¿Por qué nuestra lengua siempre va hacia el mismo lado cuando nos concentramos?",
+    "body": "¿Alguna vez te has preguntado por qué tu lengua se asoma y se curva hacia el mismo rincón cuando te concentras, como al escribir o enhebrar una aguja? Cuando nuestro cerebro controla las habilidades motoras finas de las manos, envía señales involuntarias a los músculos vecinos de la lengua. ¡Tu lengua es el asistente secreto de tus manos!"
   },
   "ar": {
-    "headline": "ذاكرة الأنف البشري المدهشة",
-    "body": "يمكن لأنفك التمييز بين تريليونات الروائح المختلفة وتخزين الذكريات بشكل واضح."
+    "headline": "لماذا تذهب لساننا دائماً إلى نفس الجانب عندما نركز؟",
+    "body": "هل فكرت يوماً في سبب خروج لسانك وانحنائه نحو نفس الزاوية عندما تركز، مثل الكتابة أو إدخال الخيط في الإبرة؟ عندما يتحكم دماغنا في المهارات الحركية الدقيقة لأيدينا، فإنه يرسل إشارات غير مقصودة إلى عضلات اللسان المجاورة. لسانك هو ببساطة المساعد السري ليديك!"
   },
   "reel_hook": {
-    "tr": "Hangi duyu organınız sizi zamanda on yıl geriye götürebilir?",
-    "en": "Which sensory organ can take you back ten years in time?",
-    "es": "¿Qué órgano sensorial puede transportarte diez años atrás en el tiempo?",
-    "ar": "ما هو عضو الحواس الذي يمكنه إرجاعك عشر سنوات إلى الوراء؟"
+    "tr": "Odaklandığınızda diliniz neden hep aynı köşeye kaçar?",
+    "en": "Why does your tongue always drift to the same corner when you focus?",
+    "es": "¿Por qué tu lengua siempre se va hacia el mismo rincón cuando te concentras?",
+    "ar": "لماذا ينجرف لسانك دائماً إلى نفس الزاوية عندما تركز؟"
   },
   "story_question": {
-    "tr": "Beynimizin hafızayla en güçlü bağ kuran duyusu hangisidir?",
-    "en": "Which sense has the strongest connection to human memory in our brain?",
-    "es": "¿Qué sentido tiene la conexión más fuerte con la memoria en nuestro cerebro?",
-    "ar": "أي حاسة لها أقوى ارتباط بالذاكرة في دماغنا؟"
+    "tr": "Bu istemsiz hareket sırasında dilinizin hangi yöne gittiğini fark ettiniz mi hiç?",
+    "en": "Have you ever noticed which direction your tongue goes during this involuntary movement?",
+    "es": "¿Alguna vez has notado hacia qué dirección va tu lengua durante este movimiento involuntario?",
+    "ar": "هل لاحظت من قبل إلى أي اتجاه يذهب لسانك خلال هذه الحركة اللاإادية؟"
   },
   "story_options": [
-    "Koku",
-    "Görme",
-    "İşitme"
+    "Sürekli sağ köşeye",
+    "Sürekli sol köşeye",
+    "Hiç dikkat etmedim"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#beyin",
-    "#hafıza",
-    "#psikoloji",
     "#ilginçbilgiler",
-    "#sağlık"
+    "#bilim",
+    "#vücudumuz",
+    "#keşfet",
+    "#psikoloji",
+    "#biliyormusunuz"
   ],
   "cta": {
-    "tr": "Benzer içerikler için bizi takip etmeyi unutmayın!",
-    "en": "Don't forget to follow us for more content like this!",
-    "es": "¡No olvides seguirnos para más contenido como este!",
-    "ar": "لا تنس متابعتنا للمزيد من المحتوى مثل هذا!"
+    "tr": "Bunu ilk kez duyan bir arkadaşına gönder!",
+    "en": "Send this to a friend who is learning this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté aprendiendo esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يتعلم هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Science",
-    "url": "https://www.science.org"
+    "name": "PubMed Central / Motor Cortex Studies",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Burnunun Şaşırtıcı Hafızası",
+  "_topic": "Yazı Yazarken Dilimizin Neden Hep Aynı Yöne Gitmesi?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-14T20:36:27.354089+00:00",
+  "generated_at": "2026-10-14T22:04:59.146879+00:00",
   "topic_guard_days": 180
 }

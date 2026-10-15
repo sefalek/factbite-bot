@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Solak Olmanın Şaşırtıcı Bedeli",
-    "body": "Dünya nüfusunun sadece yüzde onu solaktır. Ancak yapılan araştırmalar, solakların sağlaklara kıyasla günlük hayatın içine gizlenmiş pek çok tasarımsal zorlukla karşılaştığını gösteriyor. Makaslardan konserve açacaklarına kadar pek çok eşya, sağ elini kullanan çoğunluğa göre üretildiği için solakların refleks olarak ekstra bir adaptasyon süreci geçirmesine neden olur."
+    "headline": "Solak İnsanlar Neden Daha Çabuk Sinirlenir?",
+    "body": "Beynimizin iki yarım küresi vücudu çapraz kontrol eder. Solakların sağ beyinleri duygusal işleme merkezleriyle daha yoğun bağlantılara sahiptir. Bu durum, günlük hayatta karşılaştıkları ufak tefek aksiliklerde bile duygusal tepkilerini çok daha hızlı ve yoğun yaşamalarına neden olur."
   },
   "en": {
-    "headline": "The Surprising Cost of Being Left-Handed",
-    "body": "Only ten percent of the world's population is left-handed. However, studies show that left-handers face many design challenges hidden in daily life compared to right-handers. Since many items, from scissors to can openers, are produced for the right-handed majority, left-handers instinctively go through an extra adaptation process."
+    "headline": "Why Left-Handed People Get Angered Faster?",
+    "body": "The two hemispheres of our brain cross-control the body. Left-handed people have denser connections in their right brain with emotional processing centers. This causes them to experience emotional reactions much faster and more intensely, even to minor daily frustrations."
   },
   "es": {
-    "headline": "El Sorprendente Costo de Ser Zurdo",
-    "body": "Solo el diez por ciento de la población mundial es zurda. Sin embargo, los estudios muestran que los zurdos enfrentan muchos desafíos de diseño ocultos en la vida diaria en comparación con los diestros. Dado que muchos artículos, desde tijeras hasta abrelatas, se producen para la mayoría diestra, los zurdos pasan por un proceso de adaptación adicional."
+    "headline": "¿Por qué las personas zurdas se enojan más rápido?",
+    "body": "Los dos hemisferios de nuestro cerebro controlan el cuerpo de forma cruzada. Las personas zurdas tienen conexiones más densas en su cerebro derecho con los centros de procesamiento emocional. Esto hace que experimenten reacciones emocionales mucho más rápido e intensamente."
   },
   "ar": {
-    "headline": "التكلفة المدهشة لكونك أعسر",
-    "body": "عشرة بالمائة فقط من سكان العالم يستخدمون أيديهم اليسرى. ومع ذلك، تُظهر الدراسات أن مستخدمي اليد اليسرى يواجهون العديد من تحديات التصميم المخفية في الحياة اليومية مقارنة بمستخدمي اليد اليمنى."
+    "headline": "لماذا يغضب الأشخاص الذين يستخدمون اليد اليسرى بسرعة أكبر؟",
+    "body": "نصفا الدماغ يتحكمان بالجسم بشكل متعاكس. يمتلك مستخدمو اليسرى ارتباطات أقوى في الجانب الأيمن من الدماغ مع مراكز معالجة المشاعر، مما يجعلهم يختبرون ردود الفعل العاطفية بشكل أسرع وأكثر حدة."
   },
   "reel_hook": {
-    "tr": "Dünyanın en gizli ayrımcılığına uğrayan grubu kimler biliyor musunuz?",
-    "en": "Do you know who the most secretly discriminated group in the world is?",
-    "es": "¿Sabes cuál es el grupo más discriminado en secreto del mundo?",
-    "ar": "هل تعلم من هي المجموعة الأكثر تعرضاً للتمييز سرا في العالم؟"
+    "tr": "Solakların çabuk sinirlenmesinin bilimsel bir sebebi olduğunu biliyor muydunuz?",
+    "en": "Did you know there is a scientific reason why left-handed people get angry quickly?",
+    "es": "¿Sabías que hay una razón científica por la que los zurdos se enojan rápido?",
+    "ar": "هل تعلم أن هناك سبباً علمياً لغضب مستخدمي اليسرى بسرعة؟"
   },
   "story_question": {
-    "tr": "Günlük hayatta kullanılan hangi alet solaklar için en büyük eziyettir?",
-    "en": "Which everyday tool is the biggest pain for left-handers?",
-    "es": "¿Qué herramienta cotidiana es la mayor molestia para los zurdos?",
-    "ar": "ما هي الأداة اليومية التي تعتبر الإزعاج الأكبر للأعسر؟"
+    "tr": "Sizce solak olmak günlük hayatta en çok hangi alanda zorluk çıkarır?",
+    "en": "In your opinion, in which area does being left-handed cause the most difficulty?",
+    "es": "En tu opinión, ¿en qué área causa más dificultad ser zurdo?",
+    "ar": "برأيك، في أي مجال يسبب استخدام اليد اليسرى أكبر صعوبة؟"
   },
   "story_options": [
-    "Makas",
-    "Bilgisayar faresi",
-    "Otomobil vitesi"
+    "Makas kullanmak",
+    "Yazı yazarken bulaşması",
+    "Konserve açacağı"
   ],
   "hashtags": [
     "#FactBite",
-    "#solak",
+    "#solaklar",
     "#bilim",
+    "#psikoloji",
+    "#beyin",
     "#ilginçbilgiler",
-    "#günlükhayat",
-    "#psikoloji"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Solaksan bu zorluğu yorumda paylaş!",
-    "en": "If you are left-handed, share this struggle in the comments!",
-    "es": "¡Si eres zurdo, comparte esta lucha en los comentarios!",
-    "ar": "إذا كنت أعسر، شاركنا هذه المعاناة في التعليقات!"
+    "tr": "Solak bir arkadaşını etiketle, bakalım bu duruma ne diyecek!",
+    "en": "Tag a left-handed friend and see what they think about this!",
+    "es": "¡Etiqueta a un amigo zurdo y mira qué opina de esto!",
+    "ar": "قم بتوسيم صديق أعسر وانظر ما رأيه في ذلك!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Journal of Hand Therapy",
-    "url": "https://www.jhandtherapy.org/"
+    "name": "Journal of Affective Disorders & Brain Hemispheric Research",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Solak Olmanın Şaşırtıcı Bedeli",
+  "_topic": "Solak İnsanlar Neden Daha Çabuk Sinirlenir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-15T21:58:01.449260+00:00",
+  "generated_at": "2026-10-15T23:19:06.435178+00:00",
   "topic_guard_days": 180
 }

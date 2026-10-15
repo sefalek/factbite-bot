@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Issız Bir Adada Yalnız Yaşamak",
-    "body": "Dünyadan tamamen kopuk, okyanusun ortasında yapayalnız bir adada yaşamak kulağa nasıl geliyor? Bilim insanları uzun süre izolasyonun insan beyni üzerindeki etkilerini inceledi ve ortaya çok ilginç sonuçlar çıktı. Sürekli kendi kendine konuşmak ve zaman algısını tamamen yitirmek, bu deneyimin en yaygın parçalarından sadece birkaçı."
+    "headline": "Çok Sıcak Kahve Neden Daha Tatlı Gelir?",
+    "body": "Kahveniz soğudukça ekşidiğini hiç fark ettiniz mi? Bu sadece size öyle gelmiyor; çünkü dilimizdeki tat alıcılar sıcaklığa doğrudan duyarlıdır. Sıcaklık arttıkça tatlılık algısı belirgin şekilde artar, soğudukça ise asidite ve acılık öne çıkar."
   },
   "en": {
-    "headline": "Living Alone on a Deserted Island",
-    "body": "How does it sound to live completely cut off from the world on a solitary island in the middle of the ocean? Scientists have long studied the effects of isolation on the human brain, revealing fascinating results. Constantly talking to oneself and completely losing track of time are just a few common parts of this experience."
+    "headline": "Why Hot Coffee Tastes Sweeter",
+    "body": "Have you ever noticed your coffee turning sour as it cools? It is not just your imagination; taste receptors on our tongue are sensitive to temperature. As coffee cools down, sweetness fades while acidity and bitterness take over."
   },
   "es": {
-    "headline": "Vivir solo en una isla desierta",
-    "body": "¿Cómo suena vivir completamente desconectado del mundo en una isla solitaria en medio del océano? Los científicos han estudiado durante mucho tiempo los efectos del aislamiento en el cerebro humano, revelando resultados fascinantes. Hablar solo constantemente y perder por completo la noción del tiempo son solo algunas de las partes comunes de esta experiencia."
+    "headline": "Por qué el café caliente sabe más dulce",
+    "body": "¿Has notado que tu café se vuelve ácido al enfriarse? No es imaginación; los receptores del gusto en nuestra lengua responden directamente a la temperatura. Con el calor percibimos más dulzor, mientras que al enfriarse destaca la acidez."
   },
   "ar": {
-    "headline": "العيش وحدك على جزيرة مهجورة",
-    "body": "كيف يبدو العيش بمعزل تام عن العالم على جزيرة منعزلة في وسط المحيط؟ لقد درس العلماء منذ فترة طويلة آثار عزلة الإنسان على الدماغ البشري، مما كشف عن نتائج رائعة. التحدث إلى النفس باستمرار وفقدان الإحساس بالوقت تمامًا ما هي إلا أمثلة قليلة شائعة لهذه التجربة."
+    "headline": "لماذا يبدو القهوة الساخنة أكثر حلاوة",
+    "body": "هل لاحظت أن قهوتك تصبح أكثر حموضة عندما تبرد؟ هذا ليس مجرد وهم، فمستقبلات التذوق في لساننا حساسة للحرارة بشكل مباشر. مع ارتفاع الحرارة ندرك الحلاوة أكثر، بينما تبرز الحموضة مع البرودة."
   },
   "reel_hook": {
-    "tr": "Okyanusun ortasında yapayalnız kalırsanız beyninize ne olur?",
-    "en": "What happens to your brain if you are left completely alone in the middle of the ocean?",
-    "es": "¿Qué le pasa a tu cerebro si te quedas completamente solo en medio del océano?",
-    "ar": "ماذا يحدث لعقلك إذا تركت وحدك تمامًا في وسط المحيط؟"
+    "tr": "Kahvenizin tadı soğudukça neden tamamen değişir?",
+    "en": "Why does the taste of your coffee completely change as it cools?",
+    "es": "¿Por qué cambia tanto el sabor de tu café cuando se enfría?",
+    "ar": "لماذا يتغير طعم قهوتك تماماً عندما تبرد؟"
   },
   "story_question": {
-    "tr": "Uzun süreli izolasyonda insanlar ilk olarak neyi kaybeder?",
-    "en": "What do people lose first during long-term isolation?",
-    "es": "¿Qué es lo primero que pierden las personas durante el aislamiento prolongado?",
-    "ar": "ما الذي يفقده الناس أولاً أثناء العزلة طويلة الأمد؟"
+    "tr": "Sizce kahvenizi hangi sıcaklıkta içtiğiniz en ideal tat profilini verir?",
+    "en": "At what temperature do you think coffee yields its ideal flavor profile?",
+    "es": "¿A qué temperatura crees que el café ofrece su perfil de sabor ideal?",
+    "ar": "بأي درجة حرارة تعتقد أن القهوة تقدم نكهتها المثالية؟"
   },
   "story_options": [
-    "Zaman algısını",
-    "Konuşma yetisini",
-    "Anıları"
+    "Sıcakken (Tatlı)",
+    "Ilıkken (Dengeli)",
+    "Soğukken (Sert)"
   ],
   "hashtags": [
     "#FactBite",
-    "#izolasyon",
-    "#psikoloji",
+    "#kahve",
     "#bilim",
-    "#insan",
+    "#ilginçbilgiler",
+    "#gastronomi",
     "#keşfet",
-    "#ilginçbilgiler"
+    "#günlükbilgi"
   ],
   "cta": {
-    "tr": "Sizce günlerce kimseyle konuşmadan durabilir misiniz? Yorumlarda buluşalım!",
-    "en": "Do you think you could go days without talking to anyone? Let us know in the comments!",
-    "es": "¿Crees que podrías pasar días sin hablar con nadie? ¡Cuéntanos en los comentarios!",
-    "ar": "هل تعتقد أنك تستطيع قضاء أيام دون التحدث إلى أي شخص؟ أخبرنا في التعليقات!"
+    "tr": "Kahveni en son nasıl içtin? Yorumlarda buluşalım!",
+    "en": "How do you drink your coffee? Let's discuss in the comments!",
+    "es": "¿Cómo tomas tu café? ¡Hablemos en los comentarios!",
+    "ar": "كيف تشرب قهوتك؟ دعونا نتناقش في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.5
+    "surprise": 9,
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "Psychology Today",
-    "url": "https://www.psychologytoday.com"
+    "name": "Journal of Agricultural and Food Chemistry",
+    "url": "https://pubs.acs.org/journal/jafcau"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Issız Bir Adada Yalnız Yaşamak",
+  "_topic": "Çok Sıcak Kahve Neden Daha Tatlı Gelir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-15T17:36:25.063674+00:00",
+  "generated_at": "2026-10-15T18:55:51.639606+00:00",
   "topic_guard_days": 180
 }

@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tuvalete Giderken Telefonu Neden Yanımıza Alırız?",
-    "body": "Tuvalete giderken telefonunuzu elinize almak sıradan bir alışkanlık gibi görünebilir; ancak bu durum aslında beyninizin 'can sıkıntısı' ile başa çıkma yöntemidir. Beyin, boş anlarda bile sürekli bir uyarıcı arar ve sosyal medya akışı, bu boşluğu anında dolduran en hızlı kaçış noktasıdır."
+    "headline": "Neden Uykudan Uyanır Uyanmaz Esneriz?",
+    "body": "Sabah uykudan uyanır uyanmaz yaptığımız o derin esneme, sadece uykusuzluktan değil. Beynimiz uykunun sersemliğinden sıyrılıp tam kapasite çalışmaya başlarken ciddi bir ısı üretir. İşte bu esneme hareketi, tıpkı ısınan bir bilgisayarı soğutan fan gibi, beynimize derin bir nefesle serin hava çekerek onu anında uyandırmanın en doğal yoludur."
   },
   "en": {
-    "headline": "Why Do We Always Take Our Phones to the Bathroom?",
-    "body": "Taking your phone to the bathroom might seem like a simple habit, but it's actually your brain's way of dealing with boredom. The brain constantly seeks stimulation, and the social media feed is the fastest escape route."
+    "headline": "Why Do We Yawn Right After Waking Up?",
+    "body": "That deep yawn right after waking up in the morning isn't just about sleepiness. As our brain transitions from sleep fog to full capacity, it generates significant heat. This stretching and yawning mechanism acts just like a cooling fan for an overheating computer, drawing in cool air to instantly wake the brain up."
   },
   "es": {
-    "headline": "¿Por qué siempre llevamos el teléfono al baño?",
-    "body": "Llevar el teléfono al baño puede parecer un hábito simple, pero en realidad es la forma en que tu cerebro lidia con el aburrimiento. El cerebro busca estímulos constantemente y el feed de redes sociales es la vía de escape."
+    "headline": "¿Por qué bostezamos justo después de despertar?",
+    "body": "Ese profundo bostezo justo después de despertar por la mañana no es solo por somnolencia. A medida que nuestro cerebro pasa de la niebla del sueño a su plena capacidad, genera un calor considerable. Este bostezo actúa como un ventilador para una computadora que se calienta, aspirando aire fresco para despertar el cerebro al instante."
   },
   "ar": {
-    "headline": "لماذا نأخذ هواتفنا دائماً إلى الحمام؟",
-    "body": "قد تبدو مرافقق الهاتف إلى الحمام عادلة بسيطة، لكنها في الواقع طريقة عقلك للتعامل مع الملل. يبحث الدماغ عن التحفيز باستمرار، وتعتبر وسائل التواصل الاجتماعي أسرع مخرج."
+    "headline": "لماذا نتثاءب فور الاستيقاظ من النوم؟",
+    "body": "ذلك التثاؤب العميق فور الاستيقاظ صباحاً ليس سببه النعاس فحسب. فعندما ينتقل دماغنا من ضباب النوم إلى كامل طاقته، فإنه يولد حرارة كبيرة. تعمل هذه الحركة تماماً مثل مروحة التبريد لجهاز حكومي يسخن، حيث تسحب الهواء البارد لتوقظ الدماغ فوراً."
   },
   "reel_hook": {
-    "tr": "Neden tuvalete telefonla girmeden duramıyoruz?",
-    "en": "Why can't we stop taking our phones to the bathroom?",
-    "es": "¿Por qué no podemos dejar de llevar el teléfono al baño?",
-    "ar": "لماذا لا يمكننا التوقف عن أخذ هواتفنا إلى الحمام؟"
+    "tr": "Sabah uyanır uyanmaz neden hemen esneriz biliyor musun?",
+    "en": "Do you know why we yawn the exact moment we wake up?",
+    "es": "¿Sabes por qué bostezamos justo en el momento en que nos despertamos?",
+    "ar": "هل تعلم لماذا نتثاءب في اللحظة التي نستيقظ فيها؟"
   },
   "story_question": {
-    "tr": "Tuvalette telefonla ortalama kaç dakika geçiriyorsunuz?",
-    "en": "How many minutes do you average on your phone in the bathroom?",
-    "es": "¿Cuántos minutos pasas en promedio con el teléfono en el baño?",
-    "ar": "كم عدد الدقائق التي تقضيها في المتوسط على هاتفك في الحمام؟"
+    "tr": "Sence esnemenin temel biyolojik amacı nedir?",
+    "en": "What do you think is the main biological purpose of yawning?",
+    "es": "¿Cuál crees que es el principal propósito biológico del bostezo?",
+    "ar": "برأيك ما هو الغرض البيولوجي الأساسي للتثاؤب؟"
   },
   "story_options": [
-    "5 dakikadan az",
-    "5-15 dakika",
-    "15 dakikadan çok"
+    "Beyni soğutmak",
+    "Oksijen depolamak",
+    "Kasları esnetmek"
   ],
   "hashtags": [
     "#FactBite",
-    "#psikoloji",
-    "#teknoloji",
-    "#alışkanlık",
     "#bilim",
+    "#biyoloji",
+    "#ilginçbilgiler",
+    "#sağlık",
+    "#beyin",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu mutlaka yapan arkadaşına gönder!",
-    "en": "Send this to a friend who always does this!",
-    "es": "¡Envíaselo a un amigo que siempre hace esto!",
-    "ar": "أرسل هذا لصديق يفعل هذا دائماً!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is learning this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté descubriendo esto por primera vez!",
+    "ar": "أرسل هذا لصديق يتعرف على هذه المعلومة لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
+    "surprise": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Psychology Today",
-    "url": "https://www.psychologytoday.com"
+    "name": "The New York Times",
+    "url": "https://www.nytimes.com/2007/10/02/health/02yawn.html"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tuvalete Giderken Telefonu Neden Yanımıza Alırız?",
+  "_topic": "Neden Uykudan Uyanır Uyanmaz Esneriz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-15T11:23:31.356030+00:00",
+  "generated_at": "2026-10-15T13:26:50.347573+00:00",
   "topic_guard_days": 180
 }

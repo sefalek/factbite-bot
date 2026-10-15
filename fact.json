@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Neden Uykudan Uyanır Uyanmaz Esneriz?",
-    "body": "Sabah uykudan uyanır uyanmaz yaptığımız o derin esneme, sadece uykusuzluktan değil. Beynimiz uykunun sersemliğinden sıyrılıp tam kapasite çalışmaya başlarken ciddi bir ısı üretir. İşte bu esneme hareketi, tıpkı ısınan bir bilgisayarı soğutan fan gibi, beynimize derin bir nefesle serin hava çekerek onu anında uyandırmanın en doğal yoludur."
+    "headline": "Solakların Dünyasında Yaşamak",
+    "body": "Nüfusun sadece yüzde onu solaktır ve dünya tamamen sağ elini kullananlar için tasarlanmıştır. Bu yüzden solaklar her gün kapı kollarından makaslara kadar görünmez küçük engellerle mücadele eder."
   },
   "en": {
-    "headline": "Why Do We Yawn Right After Waking Up?",
-    "body": "That deep yawn right after waking up in the morning isn't just about sleepiness. As our brain transitions from sleep fog to full capacity, it generates significant heat. This stretching and yawning mechanism acts just like a cooling fan for an overheating computer, drawing in cool air to instantly wake the brain up."
+    "headline": "Living in a Right-Handed World",
+    "body": "Only ten percent of the population is left-handed, and the world is entirely designed for right-handers. That is why left-handers battle invisible little obstacles every day, from doorknobs to scissors."
   },
   "es": {
-    "headline": "¿Por qué bostezamos justo después de despertar?",
-    "body": "Ese profundo bostezo justo después de despertar por la mañana no es solo por somnolencia. A medida que nuestro cerebro pasa de la niebla del sueño a su plena capacidad, genera un calor considerable. Este bostezo actúa como un ventilador para una computadora que se calienta, aspirando aire fresco para despertar el cerebro al instante."
+    "headline": "Vivir en un Mundo para diestros",
+    "body": "Solo el diez por ciento de la población es zurda, y el mundo está diseñado completamente para diestros. Por eso los zurdos luchan contra pequeños obstáculos invisibles cada día."
   },
   "ar": {
-    "headline": "لماذا نتثاءب فور الاستيقاظ من النوم؟",
-    "body": "ذلك التثاؤب العميق فور الاستيقاظ صباحاً ليس سببه النعاس فحسب. فعندما ينتقل دماغنا من ضباب النوم إلى كامل طاقته، فإنه يولد حرارة كبيرة. تعمل هذه الحركة تماماً مثل مروحة التبريد لجهاز حكومي يسخن، حيث تسحب الهواء البارد لتوقظ الدماغ فوراً."
+    "headline": "العيش في عالم مخصص لمن يستخدمون اليد اليمنى",
+    "body": "عشرة بالمائة فقط من السكان يستخدمون أيديهم اليسرى، والعالم مصمم بالكامل لأصحاب اليد اليمنى. ولهذا السبب يواجه مستخدمو اليسرى عقبات صغيرة كل يوم."
   },
   "reel_hook": {
-    "tr": "Sabah uyanır uyanmaz neden hemen esneriz biliyor musun?",
-    "en": "Do you know why we yawn the exact moment we wake up?",
-    "es": "¿Sabes por qué bostezamos justo en el momento en que nos despertamos?",
-    "ar": "هل تعلم لماذا نتثاءب في اللحظة التي نستيقظ فيها؟"
+    "tr": "Dünyanın en gizli yüzde onu arasında mısın?",
+    "en": "Are you among the world's hidden top ten percent?",
+    "es": "¿Estás entre el diez por ciento oculto del mundo?",
+    "ar": "هل أنت من بين النسبة الخفية البالغة عشرة بالمائة؟"
   },
   "story_question": {
-    "tr": "Sence esnemenin temel biyolojik amacı nedir?",
-    "en": "What do you think is the main biological purpose of yawning?",
-    "es": "¿Cuál crees que es el principal propósito biológico del bostezo?",
-    "ar": "برأيك ما هو الغرض البيولوجي الأساسي للتثاؤب؟"
+    "tr": "Solak insanların nüfusa oranı yaklaşık yüzde kaçtır?",
+    "en": "What is the approximate percentage of left-handed people?",
+    "es": "¿Cuál es el porcentaje aproximado de personas zurdas?",
+    "ar": "ما هي النسبة التقريبية للأشخاص الذين يستخدمون اليد اليسرى؟"
   },
   "story_options": [
-    "Beyni soğutmak",
-    "Oksijen depolamak",
-    "Kasları esnetmek"
+    "Yüzde 5",
+    "Yüzde 10",
+    "Yüzde 20"
   ],
   "hashtags": [
     "#FactBite",
+    "#solak",
     "#bilim",
-    "#biyoloji",
     "#ilginçbilgiler",
-    "#sağlık",
-    "#beyin",
-    "#keşfet"
+    "#insan",
+    "#keşfet",
+    "#günlükbilgi"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is learning this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté descubriendo esto por primera vez!",
-    "ar": "أرسل هذا لصديق يتعرف على هذه المعلومة لأول مرة!"
+    "tr": "Sen hangi elini kullanıyorsun? Yorumlarda buluşalım!",
+    "en": "Which hand do you use? Let us know in the comments!",
+    "es": "¿Qué mano usas? ¡Cuéntanos en los comentarios!",
+    "ar": "أي يد تستخدم؟ أخبرنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
+    "surprise": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "The New York Times",
-    "url": "https://www.nytimes.com/2007/10/02/health/02yawn.html"
+    "name": "World Health Organization & Human Anatomy Studies",
+    "url": "https://www.who.int"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Neden Uykudan Uyanır Uyanmaz Esneriz?",
+  "_topic": "Solakların Dünyasında Yaşamak",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-15T13:26:50.347573+00:00",
+  "generated_at": "2026-10-15T15:41:13.114368+00:00",
   "topic_guard_days": 180
 }

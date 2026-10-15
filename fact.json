@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çok Sıcak Kahve Neden Daha Tatlı Gelir?",
-    "body": "Kahveniz soğudukça ekşidiğini hiç fark ettiniz mi? Bu sadece size öyle gelmiyor; çünkü dilimizdeki tat alıcılar sıcaklığa doğrudan duyarlıdır. Sıcaklık arttıkça tatlılık algısı belirgin şekilde artar, soğudukça ise asidite ve acılık öne çıkar."
+    "headline": "Telefon Ekranları Tuvaletten Daha Mı Kirli?",
+    "body": "Gün boyunca elimizden düşmeyen telefonlar, üzerlerinde barındırdıkları bakteri kolonileriyle bilinen pek çok ev eşyasından ve hatta tuvalet oturaklarından bile daha fazla mikroba ev sahipliği yapabiliyor. Bunun temel sebebi, telefonların sürekli ellerimizle temas etmesi ve ekranlarının yaydığı ısı sayesinde bakterilerin üremesi için mükemmel bir ortam sunmasıdır."
   },
   "en": {
-    "headline": "Why Hot Coffee Tastes Sweeter",
-    "body": "Have you ever noticed your coffee turning sour as it cools? It is not just your imagination; taste receptors on our tongue are sensitive to temperature. As coffee cools down, sweetness fades while acidity and bitterness take over."
+    "headline": "Are Phone Screens Dirtier Than Toilets?",
+    "body": "Phones that never leave our hands all day can host more microbes than many household items known for harboring bacterial colonies, and even toilet seats. The main reason is that phones constantly touch our hands and the heat emitted by their screens creates a perfect breeding ground for bacteria."
   },
   "es": {
-    "headline": "Por qué el café caliente sabe más dulce",
-    "body": "¿Has notado que tu café se vuelve ácido al enfriarse? No es imaginación; los receptores del gusto en nuestra lengua responden directamente a la temperatura. Con el calor percibimos más dulzor, mientras que al enfriarse destaca la acidez."
+    "headline": "¿Las pantallas de los teléfonos están más sucias que los inodoros?",
+    "body": "Los teléfonos que no se despegan de nuestras manos en todo el día pueden albergar más microbios que muchos artículos del hogar conocidos por albergar colonias bacterianas, e incluso que los asientos de los inodoros. La razón principal es que los teléfonos están en constante contacto con nuestras manos y el calor que emiten sus pantallas crea un caldo de cultivo perfecto para las bacterias."
   },
   "ar": {
-    "headline": "لماذا يبدو القهوة الساخنة أكثر حلاوة",
-    "body": "هل لاحظت أن قهوتك تصبح أكثر حموضة عندما تبرد؟ هذا ليس مجرد وهم، فمستقبلات التذوق في لساننا حساسة للحرارة بشكل مباشر. مع ارتفاع الحرارة ندرك الحلاوة أكثر، بينما تبرز الحموضة مع البرودة."
+    "headline": "هل شاشات الهواتف أوسخ من المراحيض؟",
+    "body": "الهواتف التي لا تفارق أيدينا طوال اليوم يمكنها أن تستضيف ميكروبات أكثر من العديد من الأدوات المنزلية المعروفة باحتوائها على مستعمرات البكتيريا، بل وحتى مقاعد المراحيض. السبب الرئيسي هو أن الهواتف تلامس أيدينا باستمرار والحرارة التي تنبعث من شاشاتها توفر بيئة مثالية لتكاثر البكتيريا."
   },
   "reel_hook": {
-    "tr": "Kahvenizin tadı soğudukça neden tamamen değişir?",
-    "en": "Why does the taste of your coffee completely change as it cools?",
-    "es": "¿Por qué cambia tanto el sabor de tu café cuando se enfría?",
-    "ar": "لماذا يتغير طعم قهوتك تماماً عندما تبرد؟"
+    "tr": "Her gün yüzlerce kez dokunduğumuz o akıllı telefonunuz, tuvaletten daha mı kirli?",
+    "en": "Is that smartphone you touch hundreds of times a day dirtier than a toilet?",
+    "es": "¿Ese teléfono inteligente que tocascientos de veces al día está más sucio que un inodoro?",
+    "ar": "هل هاتفك الذكي الذي تلمسه مئات المرات يومياً أوسخ من المرحاض؟"
   },
   "story_question": {
-    "tr": "Sizce kahvenizi hangi sıcaklıkta içtiğiniz en ideal tat profilini verir?",
-    "en": "At what temperature do you think coffee yields its ideal flavor profile?",
-    "es": "¿A qué temperatura crees que el café ofrece su perfil de sabor ideal?",
-    "ar": "بأي درجة حرارة تعتقد أن القهوة تقدم نكهتها المثالية؟"
+    "tr": "Sizce telefonunuzu en son ne zaman dezenfekte etmelisiniz?",
+    "en": "When do you think you should last disinfect your phone?",
+    "es": "¿Cuándo crees que deberías desinfectar tu teléfono por última vez?",
+    "ar": "برأيك متى يجب عليك تطهير هاتفك آخر مرة؟"
   },
   "story_options": [
-    "Sıcakken (Tatlı)",
-    "Ilıkken (Dengeli)",
-    "Soğukken (Sert)"
+    "Her gün",
+    "Haftada bir",
+    "Asla etmem"
   ],
   "hashtags": [
     "#FactBite",
-    "#kahve",
+    "#telefon",
+    "#teknoloji",
     "#bilim",
+    "#hijyen",
     "#ilginçbilgiler",
-    "#gastronomi",
-    "#keşfet",
-    "#günlükbilgi"
+    "#sağlık"
   ],
   "cta": {
-    "tr": "Kahveni en son nasıl içtin? Yorumlarda buluşalım!",
-    "en": "How do you drink your coffee? Let's discuss in the comments!",
-    "es": "¿Cómo tomas tu café? ¡Hablemos en los comentarios!",
-    "ar": "كيف تشرب قهوتك؟ دعونا نتناقش في التعليقات!"
+    "tr": "Bunu ilk kez duyuyorsan beğen ve takip et!",
+    "en": "Like and follow if this is your first time hearing this!",
+    "es": "¡Dale me gusta y síguenos si es la primera vez que lo escuchas!",
+    "ar": "اضغط إعجاب وتابعنا إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9.2
   },
   "source": {
-    "name": "Journal of Agricultural and Food Chemistry",
-    "url": "https://pubs.acs.org/journal/jafcau"
+    "name": "Microbiology Research",
+    "url": "https://www.ncbi.nlm.nih.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çok Sıcak Kahve Neden Daha Tatlı Gelir?",
+  "_topic": "Telefon Ekranları Tuvaletten Daha Mı Kirli?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-15T18:55:51.639606+00:00",
+  "generated_at": "2026-10-15T20:18:00.598679+00:00",
   "topic_guard_days": 180
 }

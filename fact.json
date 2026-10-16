@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uçakta İnternet Neden Bu Kadar Yavaş?",
-    "body": "Binlerce metre yüksekte uçarken internetin bu kadar yavaş olmasının sebebi sadece uzaklık değil. Sinyaller yerdeki baz istasyonlarından uçağa ulaşana kadar yüzlerce kilometre yol kat ediyor ve bu sırada devasa engellerle karşılaşıyor. Üstelik uçak saatte yüzlerce kilometre hızla hareket ederken bağlantı sürekli el değiştirmek zorunda kalıyor."
+    "headline": "Kuşlar Neden Hiçbir Zaman Uykusuzluktan Bayılmaz?",
+    "body": "Geceleri havada uçan ya da açık denizde uyuyan kuşların sırrını biliyor musunuz? Beyinlerinin sadece yarısı uyurken, diğer yarısı açık kalır ve tek gözleri açık şekilde uçmaya devam edebilirler."
   },
   "en": {
-    "headline": "Why Is Plane Wi-Fi So Slow?",
-    "body": "When flying thousands of meters high, the reason internet is so slow isn't just distance. Signals travel hundreds of kilometers from ground towers to the aircraft, facing massive obstacles along the way. Plus, as the plane moves at hundreds of kilometers per hour, the connection constantly has to switch between towers."
+    "headline": "Why Birds Never Collapse from Lack of Sleep",
+    "body": "Do you know the secret of birds that fly at night or sleep in the open ocean? Only half of their brain sleeps while the other half stays awake, allowing them to keep flying with one eye open."
   },
   "es": {
-    "headline": "Por qué el Wi-Fi del avión es tan lento",
-    "body": "Cuando vuelas a miles de metros de altura, la razón por la que el internet es tan lento no es solo la distancia. Las señales viajan cientos de kilómetros desde las torres terrestres hasta el avión, enfrentando enormes obstáculos. Además, mientras el avión se mueve a gran velocidad, la conexión debe cambiar constantemente."
+    "headline": "Por qué las aves nunca colapsan por falta de sueño",
+    "body": "¿Conoces el secreto de las aves que vuelan de noche o duermen en mar abierto? Solo la mitad de su cerebro duerme mientras la otra mitad permanece despierta, lo que les permite seguir volando con un ojo abierto."
   },
   "ar": {
-    "headline": "لماذا إنترنت الطائرة بطيء جداً؟",
-    "body": "عندما تحلق على ارتفاعات آلاف الأمتار، فإن سبب بطء الإنترنت ليس المسافة وحدها. تقطع الإشارات مئات الكلاترومترات من أبراج الأرض إلى الطائرة، مواجهة عقبات ضخمة. بالإضافة إلى ذلك، بينما تتحرك الطائرة بسرعة هائلة، يجب على الاتصال التبديل باستمرار."
+    "headline": "لماذا لا تنهار الطيور أبداً بسبب قلة النوم",
+    "body": "هل تعرف سر الطيور التي تطير ليلاً أو تنام في عرض البحر؟ نصف دماغها فقط ينام بينما يظل النصف الآخر مستيقظاً، مما يسمح لها بمواصلة الطيران وعين واحدة مفتوحة."
   },
   "reel_hook": {
-    "tr": "Binlerce metre yüksekte internetimiz neden hep sürünür?",
-    "en": "Why does our internet always crawl thousands of meters in the air?",
-    "es": "¿Por qué nuestro internet siempre va tan lento a miles de metros de altura?",
-    "ar": "لماذا يتحرك إنترنتنا ببطء شديد على ارتفاع آلاف الأمتار؟"
+    "tr": "Günlerce hiç durmadan uçup nasıl uyumuyorlar?",
+    "en": "How do they fly nonstop for days without sleeping?",
+    "es": "¿Cómo vuelan sin parar durante días sin dormir?",
+    "ar": "كيف تطير دونหยุด لأيام دون أن تنام؟"
   },
   "story_question": {
-    "tr": "Uçak Wi-Fi'ının yavaş olmasındaki en büyük etken sizce hangisidir?",
-    "en": "What do you think is the biggest factor for slow plane Wi-Fi?",
-    "es": "¿Cuál crees que es el mayor factor de la lentitud del Wi-Fi en un avión?",
-    "ar": "ما برأيك هو العامل الأكبر لبطء إنترنت الطائرة؟"
+    "tr": "Uykudayken bile tek gözünüzün açık kalmasını ister miydiniz?",
+    "en": "Would you want to keep one eye open even while sleeping?",
+    "es": "¿Te gustaría mantener un ojo abierto incluso mientras duermes?",
+    "ar": "هل كنت تتمنى أن تبقي عينًا واحدة مفتوحة حتى أثناء النوم؟"
   },
   "story_options": [
-    "Uçağın hızı",
-    "Sinyal mesafesi",
-    "Aşırı kullanıcı"
+    "Kesinlikle evet!",
+    "Çok yorucu olurdu",
+    "Korkunç bir rüya gibi"
   ],
   "hashtags": [
     "#FactBite",
-    "#teknoloji",
     "#bilim",
-    "#uçak",
-    "#internet",
-    "#ilginçbilgiler"
+    "#doğa",
+    "#kuşlar",
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
+    "tr": "Bu şaşırtıcı bilgiyi paylaşarak arkadaşlarını da şaşırt!",
+    "en": "Surprise your friends by sharing this amazing fact!",
+    "es": "¡Sorprende a tus amigos compartiendo este dato increíble!",
+    "ar": "فاجئ أصدقائك بمشاركة هذه الحقيقة المذهلة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
-    "clarity": 9,
-    "overall": 8.7
+    "surprise": 9,
+    "shareability": 8,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Aviation Communication Insights",
-    "url": "https://www.example.com"
+    "name": "Avian Sleep Behavior Studies",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uçakta İnternet Neden Bu Kadar Yavaş?",
+  "_topic": "Kuşlar Neden Hiçbir Zaman Uykusuzluktan Bayılmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-16T17:11:38.270130+00:00",
+  "generated_at": "2026-10-16T18:41:39.470613+00:00",
   "topic_guard_days": 180
 }

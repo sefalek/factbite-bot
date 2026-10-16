@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yazı Yazarken Dilimiz Neden Hep Dışarı Çıkar?",
-    "body": "Derse odaklandığınızda, iğneye iplik geçirirken ya da zor bir oyun oynarken dilinizin istemsizce dışarı kaydığını veya yana doğru kıvrıldığını fark ettiniz mi? Bu garip refleksin arkasında beyindeki motor korteks yatıyor. Ellerinizi kontrol eden sinir hücreleri, ağzı ve dili yöneten bölgelerle beyinde neredeyse yan yanadır ve çok sıkı komşuluk eder. Hassas ve yoğun bir fiziksel işe odaklandığınızda, bu sinirsel enerji komşu bölgeye sızar ve dilinizi de harekete geçirir."
+    "headline": "Tuvalet Kağıdı Neden Kare Değil?",
+    "body": "Tuvalet kağıtları rulo yapıldıkları için rulo şeklindedir ancak neden kare yerine daire formundadır hiç düşündünüz mü? Kare olsalardı, her dönüşte kağıt gerilip kopar ve pürüzsüz bir akış imkansız olurdu. Daire formundaki kusursuz simetri, kağıdın sarsılmadan ve eşit hızda açılmasını sağlar."
   },
   "en": {
-    "headline": "Why Does Our Tongue Stick Out When We Concentrate?",
-    "body": "Have you ever noticed your tongue sticking out or shifting to the side when you concentrate hard, like threading a needle or playing a tough game? This quirky reflex comes down to the motor cortex in your brain. The brain regions controlling your hands sit right next to the areas managing your mouth and tongue. When you focus intensely on fine motor skills, that neural energy spills over and activates your tongue too."
+    "headline": "Why Toilet Paper Isn't Square",
+    "body": "Toilet paper rolls are cylindrical, but have you ever wondered why they aren't square? If they were square, the paper would pull and snap with every turn, making a smooth pull impossible. The perfect symmetry of a circle ensures the paper unwinds smoothly and at an even speed."
   },
   "es": {
-    "headline": "¿Por qué sacamos la lengua al concentrarnos?",
-    "body": "¿Alguna vez has notado que tu lengua se sale o se mueve hacia un lado cuando te concentras mucho, como al enhebrar una aguja? Este curioso reflejo se debe a la corteza motora del cerebro. Las regiones cerebrales que controlan las manos están justo al lado de las que manejan la boca y la lengua. Al concentrarte en tareas manuales precisas, esa energía neuronal se desborda y activa la lengua."
+    "headline": "Por qué el papel higiénico no es cuadrado",
+    "body": "Los rollos de papel higiénico son cilíndricos, ¿pero te has preguntado por qué no son cuadrados? Si lo fueran, el papel se tensaría y rompería en cada giro, haciendo imposible un flujo suave. La simetría perfecta de un círculo asegura que el rollo se desenrolle sin tirones y a velocidad constante."
   },
   "ar": {
-    "headline": "لماذا يخرج لساننا عند التركيز الشديد؟",
-    "body": "هل لاحظت يوماً أن لسانك يبرز أو يتحرك إلى جانب فمك عندما تركز بشدة، مثل إدخال خيط في إبرة؟ يرجع هذا الانعكاس الغريب إلى القشرة الحركية في الدماغ. المناطق الدماغية التي تتحكم في اليدين تقع بجوار تلك التي تدير الفم واللسان، وعندما تركز في مهام دقيقة، تتسرب هذه الطاقة العصبية لتنشط اللسان أيضاً."
+    "headline": "لماذا ليس ورق التواليت مربعاً؟",
+    "body": "لفافات ورق التواليت دائرية الشكل، ولكن هل فكرت يوماً لماذا ليست مربعة؟ لو كانت مربعة، لتمزق الورق مع كل دورة مما يجعل السحب السلس مستحيلاً. تضمن التناظر المثالي للدائرة أن ينفك الورق بسلاسة وبسرعة متساوية."
   },
   "reel_hook": {
-    "tr": "Zor bir şey yaparken diliniz neden istemsizce dışarı çıkar?",
-    "en": "Why does your tongue automatically stick out when you do something hard?",
-    "es": "¿Por qué tu lengua sale sola cuando haces algo difícil?",
-    "ar": "لماذا يخرج لسانك تلقائياً عندما تفعل شيئاً صعباً؟"
+    "tr": "Tuvalet kağıdı rulosu neden asla kare olamaz?",
+    "en": "Why could a toilet paper roll never be square?",
+    "es": "¿Por qué un rollo de papel higiénico nunca puede ser cuadrado?",
+    "ar": "لماذا لا يمكن للفة ورق التواليت أن تكون مربعة أبداً؟"
   },
   "story_question": {
-    "tr": "Zor bir işe odaklandığınızda diliniz hangi yöne doğru daha çok kayar?",
-    "en": "Which way does your tongue usually drift when you focus on a hard task?",
-    "es": "¿Hacia dónde suele desviarse tu lengua al concentrarte en una tarea difícil?",
-    "ar": "إلى أي اتجاه يميل لسانك عادة عند التركيز في مهمة صعبة؟"
+    "tr": "Tuvalet kağıdı rulosu kare olsaydı ne olurdu?",
+    "en": "What would happen if a toilet paper roll were square?",
+    "es": "¿Qué pasaría si un rollo de papel higiénico fuera cuadrado?",
+    "ar": "ماذا لو كانت لفة ورق التواليت مربعة الشكل؟"
   },
   "story_options": [
-    "Sağ köseye",
-    "Sol köseye",
-    "Hafifçe dışarı"
+    "Sürekli kopar ve sıkışır",
+    "Daha az yer kaplardı",
+    "Hiçbir şey değişmezdi"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#beyin",
-    "#psikoloji",
-    "#keşfet",
-    "#foslav"
+    "#Tasarım",
+    "#İlginçBilgiler",
+    "#Fizik",
+    "#GünlükYaşam",
+    "#Bilim",
+    "#Keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk kez fark edenler çift tıklasın ve takip etmeyi unutmasın!",
-    "en": "Double tap if you just noticed this and hit follow for more!",
-    "es": "¡Toca dos doble si acabas de notar esto y síguenos!",
-    "ar": "اضغط مرتين إذا لاحظت هذا للتو ولا تنس المتابعة!"
+    "tr": "Bunu daha önce fark etmiş miydin? Yorumlarda buluşalım!",
+    "en": "Did you ever notice this before? Let us know in the comments!",
+    "es": "¿Habías notado esto antes? ¡Cuéntanos en los comentarios!",
+    "ar": "هل لاحظت هذا من قبل؟ شاركنا برأيك في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "PubMed Central / Motor Cortex Studies",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/"
+    "name": "Industrial Design Principles",
+    "url": "https://www.manufacturingtoolbox.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yazı Yazarken Dilimiz Neden Hep Dışarı Çıkar?",
+  "_topic": "Tuvalet Kağıdı Neden Kare Değil?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-16T21:57:12.855175+00:00",
+  "generated_at": "2026-10-16T23:01:50.829792+00:00",
   "topic_guard_days": 180
 }

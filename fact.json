@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerini Kapattığında Gördüğün O Renkler",
-    "body": "Gözlerini sıkıca kapattığında karanlıkta gördüğün o dalgalı renkler ve desenler boşluktan ibaret değil. Göz kürene hafifçe bastırdığında ya da karanlıkta beklediğinde retindeki hücrelerin kendi kendine ürettiği 'fosfen' adı verilen bu ışık oyunları, beynimizin görsel dünyayı yaratma biçimidir."
+    "headline": "Yazı Yazarken Dilimiz Neden Hep Dışarı Çıkar?",
+    "body": "Derse odaklandığınızda, iğneye iplik geçirirken ya da zor bir oyun oynarken dilinizin istemsizce dışarı kaydığını veya yana doğru kıvrıldığını fark ettiniz mi? Bu garip refleksin arkasında beyindeki motor korteks yatıyor. Ellerinizi kontrol eden sinir hücreleri, ağzı ve dili yöneten bölgelerle beyinde neredeyse yan yanadır ve çok sıkı komşuluk eder. Hassas ve yoğun bir fiziksel işe odaklandığınızda, bu sinirsel enerji komşu bölgeye sızar ve dilinizi de harekete geçirir."
   },
   "en": {
-    "headline": "Those Colors You See When You Close Your Eyes",
-    "body": "Those swirling colors and patterns you see in the dark when you close your eyes tightly are not just empty space. These light shows, called 'phosphenes', produced autonomously by the cells in your retina when you apply gentle pressure or sit in the dark, are how our brain creates the visual world."
+    "headline": "Why Does Our Tongue Stick Out When We Concentrate?",
+    "body": "Have you ever noticed your tongue sticking out or shifting to the side when you concentrate hard, like threading a needle or playing a tough game? This quirky reflex comes down to the motor cortex in your brain. The brain regions controlling your hands sit right next to the areas managing your mouth and tongue. When you focus intensely on fine motor skills, that neural energy spills over and activates your tongue too."
   },
   "es": {
-    "headline": "Esos colores que ves cuando cierras los ojos",
-    "body": "Esos colores y patrones arremolinados que ves en la oscuridad cuando cierras los ojos con fuerza no son solo espacio vacío. Estos juegos de luz, llamados 'fosfenos', producidos de forma autónoma por las células de tu retina, son la forma en que nuestro cerebro crea el mundo visual."
+    "headline": "¿Por qué sacamos la lengua al concentrarnos?",
+    "body": "¿Alguna vez has notado que tu lengua se sale o se mueve hacia un lado cuando te concentras mucho, como al enhebrar una aguja? Este curioso reflejo se debe a la corteza motora del cerebro. Las regiones cerebrales que controlan las manos están justo al lado de las que manejan la boca y la lengua. Al concentrarte en tareas manuales precisas, esa energía neuronal se desborda y activa la lengua."
   },
   "ar": {
-    "headline": "تلك الألوان التي تراها عند إغلاق عينيك",
-    "body": "تلك الألوان والأنماط الدوامية التي تراها في الظلام عندما تغلق عينيك بقوة ليست مجرد مسافة فارغة. عروض الضوء هذه، التي تسمى 'الفوسفين'، والتي تنتجها الخلايا الموجودة في شبكية العين تلقائيًا، هي الطريقة التي يخلق بها دماغنا العالم المرئي."
+    "headline": "لماذا يخرج لساننا عند التركيز الشديد؟",
+    "body": "هل لاحظت يوماً أن لسانك يبرز أو يتحرك إلى جانب فمك عندما تركز بشدة، مثل إدخال خيط في إبرة؟ يرجع هذا الانعكاس الغريب إلى القشرة الحركية في الدماغ. المناطق الدماغية التي تتحكم في اليدين تقع بجوار تلك التي تدير الفم واللسان، وعندما تركز في مهام دقيقة، تتسرب هذه الطاقة العصبية لتنشط اللسان أيضاً."
   },
   "reel_hook": {
-    "tr": "Gözlerini kapattığında gördüğün o renklerin nereden geldiğini biliyor musun?",
-    "en": "Do you know where those colors you see when you close your eyes come from?",
-    "es": "gelen ¿Sabes de dónde vienen esos colores que ves cuando cierras los ojos?",
-    "ar": "هل تعلم من أين تأتي تلك الألوان التي تراها عندما تغلق عينيك؟"
+    "tr": "Zor bir şey yaparken diliniz neden istemsizce dışarı çıkar?",
+    "en": "Why does your tongue automatically stick out when you do something hard?",
+    "es": "¿Por qué tu lengua sale sola cuando haces algo difícil?",
+    "ar": "لماذا يخرج لسانك تلقائياً عندما تفعل شيئاً صعباً؟"
   },
   "story_question": {
-    "tr": "Gözleriniz kapalıyken karanlıkta gördğünüz bu renklerin ve desenlerin bilimsel adı nedir?",
-    "en": "What is the scientific name of these colors and patterns you see in the dark?",
-    "es": "¿Cuál es el nombre científico de estos colores y patrones que ves en la oscuridad?",
-    "ar": "ما هو الاسم العلمي لهذه الألوان والأنماط التي تراها في الظلام؟"
+    "tr": "Zor bir işe odaklandığınızda diliniz hangi yöne doğru daha çok kayar?",
+    "en": "Which way does your tongue usually drift when you focus on a hard task?",
+    "es": "¿Hacia dónde suele desviarse tu lengua al concentrarte en una tarea difícil?",
+    "ar": "إلى أي اتجاه يميل لسانك عادة عند التركيز في مهمة صعبة؟"
   },
   "story_options": [
-    "Fosfen",
-    "Retinose",
-    "Optik İllüzyon"
+    "Sağ köseye",
+    "Sol köseye",
+    "Hafifçe dışarı"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#biliyormuydunuz",
-    "#göz",
-    "#biyoloji",
-    "#uzay",
-    "#enteresan"
+    "#ilginçbilgiler",
+    "#beyin",
+    "#psikoloji",
+    "#keşfet",
+    "#foslav"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
+    "tr": "Bunu ilk kez fark edenler çift tıklasın ve takip etmeyi unutmasın!",
+    "en": "Double tap if you just noticed this and hit follow for more!",
+    "es": "¡Toca dos doble si acabas de notar esto y síguenos!",
+    "ar": "اضغط مرتين إذا لاحظت هذا للتو ولا تنس المتابعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "American Academy of Ophthalmology",
-    "url": "https://www.aao.org"
+    "name": "PubMed Central / Motor Cortex Studies",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerini Kapattığında Gördüğün O Renkler",
+  "_topic": "Yazı Yazarken Dilimiz Neden Hep Dışarı Çıkar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-16T19:54:48.117758+00:00",
+  "generated_at": "2026-10-16T21:57:12.855175+00:00",
   "topic_guard_days": 180
 }

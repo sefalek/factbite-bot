@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözümüzün İçindeki O Gizli Boşluk",
-    "body": "Göz küremizin tam arkasında, gelen ışığı algılayan hücrelerin olmadığı kör bir nokta var. Beynimiz bu boşluğu kendi kapatır; etraftaki renkleri ve dokuları o kadar akıllıca kopyalar ki, hayatımız boyunca eksik bir kare görmeyiz."
+    "headline": "Çikolata Yerken Kalbimiz Neden Hızlanır?",
+    "body": "Çikolata yemek sadece damak zevki değil, bedenimizde küçük bir kimya laboratuvarı işletmek gibidir. İçindeki teobromin maddesi, kalbimizin ritmini doğrudan etkileyerek hafifçe hızlanmasını sağlar."
   },
   "en": {
-    "headline": "The Hidden Blind Spot Inside Our Eyes",
-    "body": "Right at the back of our eyeball, there is a blind spot where light-detecting cells are completely absent. Our brain fills in this gap automatically, copying surrounding colors and textures so cleverly that we never notice a missing frame in our daily vision."
+    "headline": "Why Does Our Heart Beat Faster When Eating Chocolate?",
+    "body": "Eating chocolate isn't just about taste; it's like running a tiny chemistry lab inside our bodies. Theobromine inside it directly affects our heart rhythm, causing it to speed up slightly."
   },
   "es": {
-    "headline": "El Punto Ciego Oculto en Nuestros Ojos",
-    "body": "Justo en la parte posterior de nuestro globo ocular, hay un punto ciego donde faltan por completo las células fotosensibles. Nuestro cerebro rellena este vacío de forma automática, copiando los colores y texturas circundantes con tanta astucia que nunca notamos un fotograma faltante."
+    "headline": "¿Por qué se acelera nuestro corazón al comer chocolate?",
+    "body": "Comer chocolate no es solo cuestión de gusto; es como operar un pequeño laboratorio químico en nuestro cuerpo. La teobromina que contiene afecta directamente nuestro ritmo cardíaco, haciendo que se acelere ligeramente."
   },
   "ar": {
-    "headline": "البقعة العمياء الخفية داخل أعيننا",
-    "body": "في الجزء الخلفي تماماً من مقلة العين، توجد بقعة عمياء تخلو تماماً من الخلايا المستقبلة للضوء. يقوم دماغنا بملء هذه الفراغات تلقائياً، ناسخاً الألوان والأنماط المحيطة بذكاء شديد لدرجة أننا لا نلاحظ أبداً أي نقص في رؤيتنا اليومية."
+    "headline": "لماذا تتسارع ضربات قلوبنا عند تناول الشوكولاتة؟",
+    "body": "تناول الشوكولاتة ليس مجرد متعة لتذوق الطعام، بل هو تشغيل لمختبر كيميائي صغير داخل أجسامنا. مادة الثيوبرومين الموجودة فيها تؤثر بشكل مباشر على إيقاع قلبنا، مما يجعله يتسارع قليلاً."
   },
   "reel_hook": {
-    "tr": "Gözünüzün tam ortasında sürekli kayıp olan devasa bir delik var, ama beyin sizden saklıyor.",
-    "en": "There is a massive missing hole right in the middle of your vision, but your brain is hiding it from you.",
-    "es": "Hay un agujero gigante y perdido justo en medio de tu visión, pero tu cerebro te lo está ocultando.",
-    "ar": "توجد فجوة ضائعة ضخمة في منتصف رؤيتك تماماً، لكن دماغك يخفيها عنك."
+    "tr": "Her çikolata yediğinizde kalbiniz neden normalden farklı atar?",
+    "en": "Why does your heart beat differently every time you eat chocolate?",
+    "es": "¿Por qué tu corazón late diferente cada vez que comes chocolate?",
+    "ar": "لماذا ينبض قلبك بشكل مختلف في كل مرة تتناول فيها الشوكولاتة؟"
   },
   "story_question": {
-    "tr": "Beynimizin bu kör noktayı doldurmak için kullandığı yöntemi biliyor muydunuz?",
-    "en": "Did you know how our brain fills in this blind spot?",
-    "es": "¿Sabías cómo nuestro cerebro rellena este punto ciego?",
-    "ar": "هل كنت تعلم كيف يملأ دماغنا هذه البقعة العمياء؟"
+    "tr": "Çikolatanın kalbi hızlandıran bu maddesinin adı nedir?",
+    "en": "What is the name of this substance in chocolate that speeds up the heart?",
+    "es": "¿Cómo se llama esta sustancia del chocolate que acelera el corazón?",
+    "ar": "ما هو اسم هذه المادة الموجودة في الشوكولاتة التي تسارع ضربات القلب؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Hayır, ilk defa duydum",
-    "İnanması çok güç"
+    "Teobromin",
+    "Kafein",
+    "Glukoz"
   ],
   "hashtags": [
     "#FactBite",
+    "#çikolata",
     "#bilim",
-    "#göz",
-    "#anatomi",
-    "#beyin",
+    "#sağlık",
     "#ilginçbilgiler",
+    "#kalp",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "The Royal Institution",
-    "url": "https://www.rigb.org/"
+    "name": "Healthline",
+    "url": "https://www.healthline.com/health/theobromine-effects"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözümüzün İçindeki O Gizli Boşluk",
+  "_topic": "Çikolata Yerken Kalbimiz Neden Hızlanır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-16T11:18:46.908005+00:00",
+  "generated_at": "2026-10-16T13:16:52.130415+00:00",
   "topic_guard_days": 180
 }

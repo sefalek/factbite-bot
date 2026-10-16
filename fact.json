@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çikolata Yerken Kalbimiz Neden Hızlanır?",
-    "body": "Çikolata yemek sadece damak zevki değil, bedenimizde küçük bir kimya laboratuvarı işletmek gibidir. İçindeki teobromin maddesi, kalbimizin ritmini doğrudan etkileyerek hafifçe hızlanmasını sağlar."
+    "headline": "Uçakta İnternet Neden Bu Kadar Yavaş?",
+    "body": "Binlerce metre yüksekte uçarken internetin bu kadar yavaş olmasının sebebi sadece uzaklık değil. Sinyaller yerdeki baz istasyonlarından uçağa ulaşana kadar yüzlerce kilometre yol kat ediyor ve bu sırada devasa engellerle karşılaşıyor. Üstelik uçak saatte yüzlerce kilometre hızla hareket ederken bağlantı sürekli el değiştirmek zorunda kalıyor."
   },
   "en": {
-    "headline": "Why Does Our Heart Beat Faster When Eating Chocolate?",
-    "body": "Eating chocolate isn't just about taste; it's like running a tiny chemistry lab inside our bodies. Theobromine inside it directly affects our heart rhythm, causing it to speed up slightly."
+    "headline": "Why Is Plane Wi-Fi So Slow?",
+    "body": "When flying thousands of meters high, the reason internet is so slow isn't just distance. Signals travel hundreds of kilometers from ground towers to the aircraft, facing massive obstacles along the way. Plus, as the plane moves at hundreds of kilometers per hour, the connection constantly has to switch between towers."
   },
   "es": {
-    "headline": "¿Por qué se acelera nuestro corazón al comer chocolate?",
-    "body": "Comer chocolate no es solo cuestión de gusto; es como operar un pequeño laboratorio químico en nuestro cuerpo. La teobromina que contiene afecta directamente nuestro ritmo cardíaco, haciendo que se acelere ligeramente."
+    "headline": "Por qué el Wi-Fi del avión es tan lento",
+    "body": "Cuando vuelas a miles de metros de altura, la razón por la que el internet es tan lento no es solo la distancia. Las señales viajan cientos de kilómetros desde las torres terrestres hasta el avión, enfrentando enormes obstáculos. Además, mientras el avión se mueve a gran velocidad, la conexión debe cambiar constantemente."
   },
   "ar": {
-    "headline": "لماذا تتسارع ضربات قلوبنا عند تناول الشوكولاتة؟",
-    "body": "تناول الشوكولاتة ليس مجرد متعة لتذوق الطعام، بل هو تشغيل لمختبر كيميائي صغير داخل أجسامنا. مادة الثيوبرومين الموجودة فيها تؤثر بشكل مباشر على إيقاع قلبنا، مما يجعله يتسارع قليلاً."
+    "headline": "لماذا إنترنت الطائرة بطيء جداً؟",
+    "body": "عندما تحلق على ارتفاعات آلاف الأمتار، فإن سبب بطء الإنترنت ليس المسافة وحدها. تقطع الإشارات مئات الكلاترومترات من أبراج الأرض إلى الطائرة، مواجهة عقبات ضخمة. بالإضافة إلى ذلك، بينما تتحرك الطائرة بسرعة هائلة، يجب على الاتصال التبديل باستمرار."
   },
   "reel_hook": {
-    "tr": "Her çikolata yediğinizde kalbiniz neden normalden farklı atar?",
-    "en": "Why does your heart beat differently every time you eat chocolate?",
-    "es": "¿Por qué tu corazón late diferente cada vez que comes chocolate?",
-    "ar": "لماذا ينبض قلبك بشكل مختلف في كل مرة تتناول فيها الشوكولاتة؟"
+    "tr": "Binlerce metre yüksekte internetimiz neden hep sürünür?",
+    "en": "Why does our internet always crawl thousands of meters in the air?",
+    "es": "¿Por qué nuestro internet siempre va tan lento a miles de metros de altura?",
+    "ar": "لماذا يتحرك إنترنتنا ببطء شديد على ارتفاع آلاف الأمتار؟"
   },
   "story_question": {
-    "tr": "Çikolatanın kalbi hızlandıran bu maddesinin adı nedir?",
-    "en": "What is the name of this substance in chocolate that speeds up the heart?",
-    "es": "¿Cómo se llama esta sustancia del chocolate que acelera el corazón?",
-    "ar": "ما هو اسم هذه المادة الموجودة في الشوكولاتة التي تسارع ضربات القلب؟"
+    "tr": "Uçak Wi-Fi'ının yavaş olmasındaki en büyük etken sizce hangisidir?",
+    "en": "What do you think is the biggest factor for slow plane Wi-Fi?",
+    "es": "¿Cuál crees que es el mayor factor de la lentitud del Wi-Fi en un avión?",
+    "ar": "ما برأيك هو العامل الأكبر لبطء إنترنت الطائرة؟"
   },
   "story_options": [
-    "Teobromin",
-    "Kafein",
-    "Glukoz"
+    "Uçağın hızı",
+    "Sinyal mesafesi",
+    "Aşırı kullanıcı"
   ],
   "hashtags": [
     "#FactBite",
-    "#çikolata",
+    "#teknoloji",
     "#bilim",
-    "#sağlık",
-    "#ilginçbilgiler",
-    "#kalp",
-    "#keşfet"
+    "#uçak",
+    "#internet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla bilgi için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "تابعنا للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Healthline",
-    "url": "https://www.healthline.com/health/theobromine-effects"
+    "name": "Aviation Communication Insights",
+    "url": "https://www.example.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çikolata Yerken Kalbimiz Neden Hızlanır?",
+  "_topic": "Uçakta İnternet Neden Bu Kadar Yavaş?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-16T13:16:52.130415+00:00",
+  "generated_at": "2026-10-16T17:11:38.270130+00:00",
   "topic_guard_days": 180
 }

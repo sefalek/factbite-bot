@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Solak İnsanlar Neden Daha Çabuk Sinirlenir?",
-    "body": "Beynimizin iki yarım küresi vücudu çapraz kontrol eder. Solakların sağ beyinleri duygusal işleme merkezleriyle daha yoğun bağlantılara sahiptir. Bu durum, günlük hayatta karşılaştıkları ufak tefek aksiliklerde bile duygusal tepkilerini çok daha hızlı ve yoğun yaşamalarına neden olur."
+    "headline": "Gözümüzün İçindeki O Gizli Boşluk",
+    "body": "Göz küremizin tam arkasında, gelen ışığı algılayan hücrelerin olmadığı kör bir nokta var. Beynimiz bu boşluğu kendi kapatır; etraftaki renkleri ve dokuları o kadar akıllıca kopyalar ki, hayatımız boyunca eksik bir kare görmeyiz."
   },
   "en": {
-    "headline": "Why Left-Handed People Get Angered Faster?",
-    "body": "The two hemispheres of our brain cross-control the body. Left-handed people have denser connections in their right brain with emotional processing centers. This causes them to experience emotional reactions much faster and more intensely, even to minor daily frustrations."
+    "headline": "The Hidden Blind Spot Inside Our Eyes",
+    "body": "Right at the back of our eyeball, there is a blind spot where light-detecting cells are completely absent. Our brain fills in this gap automatically, copying surrounding colors and textures so cleverly that we never notice a missing frame in our daily vision."
   },
   "es": {
-    "headline": "¿Por qué las personas zurdas se enojan más rápido?",
-    "body": "Los dos hemisferios de nuestro cerebro controlan el cuerpo de forma cruzada. Las personas zurdas tienen conexiones más densas en su cerebro derecho con los centros de procesamiento emocional. Esto hace que experimenten reacciones emocionales mucho más rápido e intensamente."
+    "headline": "El Punto Ciego Oculto en Nuestros Ojos",
+    "body": "Justo en la parte posterior de nuestro globo ocular, hay un punto ciego donde faltan por completo las células fotosensibles. Nuestro cerebro rellena este vacío de forma automática, copiando los colores y texturas circundantes con tanta astucia que nunca notamos un fotograma faltante."
   },
   "ar": {
-    "headline": "لماذا يغضب الأشخاص الذين يستخدمون اليد اليسرى بسرعة أكبر؟",
-    "body": "نصفا الدماغ يتحكمان بالجسم بشكل متعاكس. يمتلك مستخدمو اليسرى ارتباطات أقوى في الجانب الأيمن من الدماغ مع مراكز معالجة المشاعر، مما يجعلهم يختبرون ردود الفعل العاطفية بشكل أسرع وأكثر حدة."
+    "headline": "البقعة العمياء الخفية داخل أعيننا",
+    "body": "في الجزء الخلفي تماماً من مقلة العين، توجد بقعة عمياء تخلو تماماً من الخلايا المستقبلة للضوء. يقوم دماغنا بملء هذه الفراغات تلقائياً، ناسخاً الألوان والأنماط المحيطة بذكاء شديد لدرجة أننا لا نلاحظ أبداً أي نقص في رؤيتنا اليومية."
   },
   "reel_hook": {
-    "tr": "Solakların çabuk sinirlenmesinin bilimsel bir sebebi olduğunu biliyor muydunuz?",
-    "en": "Did you know there is a scientific reason why left-handed people get angry quickly?",
-    "es": "¿Sabías que hay una razón científica por la que los zurdos se enojan rápido?",
-    "ar": "هل تعلم أن هناك سبباً علمياً لغضب مستخدمي اليسرى بسرعة؟"
+    "tr": "Gözünüzün tam ortasında sürekli kayıp olan devasa bir delik var, ama beyin sizden saklıyor.",
+    "en": "There is a massive missing hole right in the middle of your vision, but your brain is hiding it from you.",
+    "es": "Hay un agujero gigante y perdido justo en medio de tu visión, pero tu cerebro te lo está ocultando.",
+    "ar": "توجد فجوة ضائعة ضخمة في منتصف رؤيتك تماماً، لكن دماغك يخفيها عنك."
   },
   "story_question": {
-    "tr": "Sizce solak olmak günlük hayatta en çok hangi alanda zorluk çıkarır?",
-    "en": "In your opinion, in which area does being left-handed cause the most difficulty?",
-    "es": "En tu opinión, ¿en qué área causa más dificultad ser zurdo?",
-    "ar": "برأيك، في أي مجال يسبب استخدام اليد اليسرى أكبر صعوبة؟"
+    "tr": "Beynimizin bu kör noktayı doldurmak için kullandığı yöntemi biliyor muydunuz?",
+    "en": "Did you know how our brain fills in this blind spot?",
+    "es": "¿Sabías cómo nuestro cerebro rellena este punto ciego?",
+    "ar": "هل كنت تعلم كيف يملأ دماغنا هذه البقعة العمياء؟"
   },
   "story_options": [
-    "Makas kullanmak",
-    "Yazı yazarken bulaşması",
-    "Konserve açacağı"
+    "Evet, biliyordum",
+    "Hayır, ilk defa duydum",
+    "İnanması çok güç"
   ],
   "hashtags": [
     "#FactBite",
-    "#solaklar",
     "#bilim",
-    "#psikoloji",
+    "#göz",
+    "#anatomi",
     "#beyin",
     "#ilginçbilgiler",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Solak bir arkadaşını etiketle, bakalım bu duruma ne diyecek!",
-    "en": "Tag a left-handed friend and see what they think about this!",
-    "es": "¡Etiqueta a un amigo zurdo y mira qué opina de esto!",
-    "ar": "قم بتوسيم صديق أعسر وانظر ما رأيه في ذلك!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Journal of Affective Disorders & Brain Hemispheric Research",
-    "url": "https://www.sciencedirect.com"
+    "name": "The Royal Institution",
+    "url": "https://www.rigb.org/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Solak İnsanlar Neden Daha Çabuk Sinirlenir?",
+  "_topic": "Gözümüzün İçindeki O Gizli Boşluk",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-15T23:19:06.435178+00:00",
+  "generated_at": "2026-10-16T11:18:46.908005+00:00",
   "topic_guard_days": 180
 }

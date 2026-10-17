@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Karanlıkta Gördüğümüz O Renk",
-    "body": "Gözlerinizi kapattığınızda veya tamamen karanlık bir odaya girdiğinizde gördüğünüz o griye çalan morumsu ışıltı tamamen boşluktan ibaret değil. Bilim insanları buna 'fosfen' diyor. Gözümüzün içindeki sinir hücreleri, ışıksız ortamda bile kendi kendilerine elektrik sinyalleri üreterek bu renkli oyunları yaratır."
+    "headline": "Ayak Tabanınızın Şaşırtıcı Sırrı",
+    "body": "Ayak tabanınız vücudunuzun en hassas bölgelerinden biridir ve buraya uygulanan bazı uyarılar istemsizce gülmenize neden olur. Ancak bu hassasiyetin çok eski bir hayatta kalma amacı vardı; atalarımız tehlikeli yüzeyleri ve küçük engelleri bu sayede hızla fark ediyordu."
   },
   "en": {
-    "headline": "The Color We See in the Dark",
-    "body": "When you close your eyes or enter a pitch-black room, that grayish-purple glow you see isn't just nothingness. Scientists call this 'phosphene.' The nerve cells inside our eyes generate electrical signals even in the dark, creating these colorful displays."
+    "headline": "The Surprising Secret of Your Soles",
+    "body": "The soles of your feet are among the most sensitive areas of your body, and certain stimuli here cause involuntary laughter. However, this sensitivity had a very ancient survival purpose; our ancestors used it to quickly detect dangerous surfaces and small obstacles."
   },
   "es": {
-    "headline": "El color que vemos en la oscuridad",
-    "body": "Cuando cierras los ojos o entras en una habitación totalmente oscura, ese brillo violáceo grisáceo que ves no es la nada. Los científicos lo llaman 'fosfeno'. Las células nerviosas dentro de nuestros ojos generan señales eléctricas incluso en la oscuridad, creando estas pantallas coloridas."
+    "headline": "El sorprendente secreto de la planta de tus pies",
+    "body": "La planta de tus pies es una de las zonas más sensibles de tu cuerpo y ciertos estímulos aquí provocan risa involuntaria. Sin embargo, esta sensibilidad tenía un propósito de supervivencia muy antiguo; nuestros antepasados la usaban para detectar rápidamente superficies peligrosas y pequeños obstáculos."
   },
   "ar": {
-    "headline": "اللون الذي نراه في الظلام",
-    "body": "عندما تغلق عينيك أو تدخل غرفة مظلمة تماماً، فإن ذلك الوهج الأرجواني المائل للرمادي ليس مجرد فراغ. يطلق العلماء على هذا اسم 'الفوسفين'. تولد الخلايا العصبيّة داخل أعيننا إشارات كهربائية حتى في الظلام، مما يخلق هذه العروض الملونة."
+    "headline": "السر المذهل لباطن قدميك",
+    "body": "يعد باطن قدميك من أكثر المناطق حساسية في جسمك، وتؤدي بعض المؤثرات هنا إلى ضحكة لا إرادية. ومع ذلك، كانت هذه الحساسية ذات غرض قديم جداً للبقاء؛ فقد استخدمها أجدادنا للكشف السريع عن الأسطح الخطرة والعقبات الصغيرة."
   },
   "reel_hook": {
-    "tr": "Gözlerinizi kapattığınızda o karanlıkta gördüğünüz renkler nereden geliyor?",
-    "en": "Where do those colors you see in the dark when you close your eyes come from?",
-    "es": "¿De dónde vienen esos colores que ves en la oscuridad cuando cierras los ojos?",
-    "ar": "من أين تأتي تلك الألوان التي تراها في الظلام عندما تغلق عينيك؟"
+    "tr": "Ayak tabanınız neden bu kadar hassas biliyor musunuz?",
+    "en": "Do you know why the soles of your feet are so sensitive?",
+    "es": "¿Sabes por qué la planta de tus pies es tan sensible?",
+    "ar": "هل تعلم لماذا باطن قدميك حساس إلى هذا الحد؟"
   },
   "story_question": {
-    "tr": "Karanlıkta gördüğünüz bu görsel patlamaların bilimsel adını biliyor muydunuz?",
-    "en": "Did you know the scientific name for these visual bursts you see in the dark?",
-    "es": "¿Sabías el nombre científico de estas ráfagas visuales que ves en la oscuridad?",
-    "ar": "هل كنت تعلم الاسم العلمي لهذه الانفجارات المرئية التي تراها في الظلام؟"
+    "tr": "Ayak tabanındaki bu aşırı hassasiyet ilk insanlarda neyi fark etmeyi sağlıyordu?",
+    "en": "What did this extreme sensitivity in the soles help early humans detect?",
+    "es": "¿Qué ayudaba a detectar esta sensibilidad extrema en los primeros humanos?",
+    "ar": "ما الذي كانت تساعد هذه الحساسية الشديدة البشر الأوائل على اكتشافه؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "İlk defa duydum",
-    "Tahmin etmiştim"
+    "Tehlikeli yüzeyleri ve engelleri",
+    "Sıcaklık değişimlerini",
+    "Su kaynaklarının yerini"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#göz",
+    "#insan",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#psikoloji",
     "#keşfet",
-    "#uzay"
+    "#vücudumuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç gerçek için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق المماثلة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "American Academy of Ophthalmology",
-    "url": "https://www.aao.org/"
+    "name": "Neuroscience and Human Anatomy Archives",
+    "url": "https://www.sciencedirect.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Karanlıkta Gördüğümüz O Renk",
+  "_topic": "Ayak Tabanınızın Şaşırtıcı Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-17T14:18:30.064154+00:00",
+  "generated_at": "2026-10-17T16:08:22.780701+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tuvalet Kağıdı Neden Kare Değil?",
-    "body": "Tuvalet kağıtları rulo yapıldıkları için rulo şeklindedir ancak neden kare yerine daire formundadır hiç düşündünüz mü? Kare olsalardı, her dönüşte kağıt gerilip kopar ve pürüzsüz bir akış imkansız olurdu. Daire formundaki kusursuz simetri, kağıdın sarsılmadan ve eşit hızda açılmasını sağlar."
+    "headline": "Neden hep sağ tarafımızda uyuruz?",
+    "body": "Yatakta sağ tarafınıza dönüp uyumak size en rahat pozisyon mu geliyor? Aslında bunun arkasında yer çekiminin kalbimiz üzerindeki fiziksel etkisi var. Sol tarafımıza yattığımızda kalbimiz göğüs kafesimizin içinde hafifçe yer değiştirebilir ve bu da uzun vadede o organ üzerinde ekstra bir baskı yaratır. Vücudumuz bu minik fiziksel baskıyı sevmediği için bizi uykuda bile bilinçsizce en dengeli ve rahat ettiği sağ tarafa yönlendirir."
   },
   "en": {
-    "headline": "Why Toilet Paper Isn't Square",
-    "body": "Toilet paper rolls are cylindrical, but have you ever wondered why they aren't square? If they were square, the paper would pull and snap with every turn, making a smooth pull impossible. The perfect symmetry of a circle ensures the paper unwinds smoothly and at an even speed."
+    "headline": "Why do we always sleep on our right side?",
+    "body": "Does turning to your right side in bed feel like the most comfortable sleeping position? Actually, this is driven by the physical effect of gravity on our heart. When we sleep on our left side, the heart can shift slightly inside the chest cavity, creating subtle pressure over time. Because our body dislikes this minor physical stress, it subconsciously guides us toward the right side, where it feels most balanced and at ease, even while we sleep."
   },
   "es": {
-    "headline": "Por qué el papel higiénico no es cuadrado",
-    "body": "Los rollos de papel higiénico son cilíndricos, ¿pero te has preguntado por qué no son cuadrados? Si lo fueran, el papel se tensaría y rompería en cada giro, haciendo imposible un flujo suave. La simetría perfecta de un círculo asegura que el rollo se desenrolle sin tirones y a velocidad constante."
+    "headline": "¿Por qué siempre dormimos del lado derecho?",
+    "body": "¿Girarse hacia el lado derecho en la cama te parece la postura más cómoda? En realidad, esto se debe al efecto físico de la gravedad sobre nuestro corazón. Cuando dormimos del lado izquierdo, el corazón puede desplazarse ligeramente dentro de la cavidad torácica, generando una presión sutil a lo largo del tiempo. Como a nuestro cuerpo no le gusta esta pequeña tensión física, nos guía inconscientemente hacia el lado derecho, donde se siente más equilibrado y cómodo, incluso mientras dormimos."
   },
   "ar": {
-    "headline": "لماذا ليس ورق التواليت مربعاً؟",
-    "body": "لفافات ورق التواليت دائرية الشكل، ولكن هل فكرت يوماً لماذا ليست مربعة؟ لو كانت مربعة، لتمزق الورق مع كل دورة مما يجعل السحب السلس مستحيلاً. تضمن التناظر المثالي للدائرة أن ينفك الورق بسلاسة وبسرعة متساوية."
+    "headline": "لماذا ننام دائماً على جانبنا الأيمن؟",
+    "body": "هل تبدو لك الاستدارة إلى الجانب الأيمن في السرير هي وضعية النوم الأكثر راحة؟ في الواقع، يعود هذا إلى التأثير الجسدي للجاذبية على قلبنا. فعندما ننام على جانبنا الأيسر، يمكن أن يتحرك القلب قليلاً داخل تجويف الصدر، مما يخلق ضغطاً طفيفاً بمرور الوقت. ولأن جسمنا لا يفضل هذا الضغط الجسدي البسيط، فإنه يوجهنا لا شعورياً نحو الجانب الأيمن حيث يشعر بأكبر قدر من التوازن والراحة، حتى أثناء النوم."
   },
   "reel_hook": {
-    "tr": "Tuvalet kağıdı rulosu neden asla kare olamaz?",
-    "en": "Why could a toilet paper roll never be square?",
-    "es": "¿Por qué un rollo de papel higiénico nunca puede ser cuadrado?",
-    "ar": "لماذا لا يمكن للفة ورق التواليت أن تكون مربعة أبداً؟"
+    "tr": "Yatakta hep aynı tarafa dönüyorsanız, sebebi bu!",
+    "en": "If you always turn to the same side in bed, this is why!",
+    "es": "Si siempre te giras hacia el mismo lado en la cama, ¡esta es la razón!",
+    "ar": "إذا كنت تستدير دائماً إلى نفس الجانب في السرير، فهذا هو السبب!"
   },
   "story_question": {
-    "tr": "Tuvalet kağıdı rulosu kare olsaydı ne olurdu?",
-    "en": "What would happen if a toilet paper roll were square?",
-    "es": "¿Qué pasaría si un rollo de papel higiénico fuera cuadrado?",
-    "ar": "ماذا لو كانت لفة ورق التواليت مربعة الشكل؟"
+    "tr": "Siz uykuda en çok hangi pozisyonda kalmayı tercih edersiniz?",
+    "en": "Which sleeping position do you prefer to stay in?",
+    "es": "¿En qué postura prefieres quedarte dormido?",
+    "ar": "ما هي وضعية النوم التي تفضل البقاء فيها؟"
   },
   "story_options": [
-    "Sürekli kopar ve sıkışır",
-    "Daha az yer kaplardı",
-    "Hiçbir şey değişmezdi"
+    "Sağ taraf",
+    "Sol taraf",
+    "Sırt üstü"
   ],
   "hashtags": [
     "#FactBite",
-    "#Tasarım",
-    "#İlginçBilgiler",
-    "#Fizik",
-    "#GünlükYaşam",
-    "#Bilim",
-    "#Keşfet"
+    "#uyku",
+    "#sağlık",
+    "#bilim",
+    "#vücut",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu daha önce fark etmiş miydin? Yorumlarda buluşalım!",
-    "en": "Did you ever notice this before? Let us know in the comments!",
-    "es": "¿Habías notado esto antes? ¡Cuéntanos en los comentarios!",
-    "ar": "هل لاحظت هذا من قبل؟ شاركنا برأيك في التعليقات!"
+    "tr": "Bunu hangi arkadaşının bilmesi gerekiyor? Yorumda etiketle!",
+    "en": "Which friend needs to know this? Tag them in the comments!",
+    "es": "¿Qué amigo necesita saber esto? ¡Etiquétalo en los comentarios!",
+    "ar": "أي صديق يحتاج إلى معرفة هذا؟ قم بالإشارة إليه في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Industrial Design Principles",
-    "url": "https://www.manufacturingtoolbox.com"
+    "name": "Sleep Foundation",
+    "url": "https://www.sleepfoundation.org/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tuvalet Kağıdı Neden Kare Değil?",
+  "_topic": "Neden hep sağ tarafımızda uyuruz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-16T23:01:50.829792+00:00",
+  "generated_at": "2026-10-17T09:21:05.971108+00:00",
   "topic_guard_days": 180
 }

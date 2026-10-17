@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Aslında Ne Kadar Uzun Yaşıyoruz?",
-    "body": "Göz kırparken geçen o minicik anı hiç düşündünüz mü? Ortalama bir insan hayatı boyunca yaklaşık 38 gününü sadece göz kırparak geçiriyor. Beynimiz bu kesintileri o kadar ustalıkla birleştiriyor ki dünyayı karanlıkta kalmadan izlemeye devam ediyoruz."
+    "headline": "Tuhaf Zaman Algısı",
+    "body": "Zamanın akıp gittiğini hissettiğimiz o anlar... Aslında beynimiz yeni anılar kaydederken zamanı daha yavaş, sıradan günlerde ise çok daha hızlı algılıyor. Yani hafta sonu tatilinin bu kadar çabuk bitmesi tamamen beynimizin bir oyunu."
   },
   "en": {
-    "headline": "How Long Do We Actually Live?",
-    "body": "Have you ever thought about that tiny moment while blinking? An average human spends about 38 days of their life just blinking. Our brain stitches these gaps together so smoothly that we keep watching the world without ever plunging into darkness."
+    "headline": "The Strange Perception of Time",
+    "body": "Those moments when time just flies by... Actually, our brains perceive time slower when recording new memories, and much faster on ordinary days. So the weekend ending so quickly is completely a trick of our brain."
   },
   "es": {
-    "headline": "¿Cuánto tiempo vivimos realmente?",
-    "body": "¿Alguna vez has pensado en ese pequeño momento al parpadear? Un ser humano promedio pasa unos 38 días de su vida simplemente parpadeando. Nuestro cerebro une estos espacios tan hábilmente que seguimos viendo el mundo sin sumirnos en la oscuridad."
+    "headline": "La Extraña Percepción del Tiempo",
+    "body": "Esos momentos en que el tiempo vuela... En realidad, nuestro cerebro percibe el tiempo más lento al grabar nuevos recuerdos y mucho más rápido en días ordinarios. Así que el fin de semana terminando tan rápido es un truco de nuestro cerebro."
   },
   "ar": {
-    "headline": "كم من الوقت نعيشه حقًا؟",
-    "body": "هل فكرت يومًا في تلك اللحظة الصغيرة عند الطرف؟ يقضي الإنسان العادي حوالي 38 يومًا من حياته في الطرف فقط. يقوم دماغنا بربط هذه الفجوات بسلاسة شديدة لدرجة أننا نستمر في مراقبة العالم دون أن نغرق في الظلام."
+    "headline": "إراك غريب للوقت",
+    "body": "تلك اللحظات التي يمر فيها الوقت بسرعة... في الواقع، يدرك أماغنا الوقت بشكل أبطأ عند تسجيل ذكريات جديدة، وبسرعة أكبر بكثير في الأيام العادية. لذا فإن انتهاء عطلة نهاية الأسبوع بهذه السرعة هو خدعة من دماغنا تماماً."
   },
   "reel_hook": {
-    "tr": "Ömrünüzün tam 38 gününü bomboş bir şey yaparak harcıyorsunuz!",
-    "en": "You are wasting a full 38 days of your life doing absolutely nothing!",
-    "es": "¡Estás desperdiciando 38 días enteros de tu vida sin hacer nada!",
-    "ar": "أنت تضيع 38 يومًا كاملة من حياتك في لا شيء تقريبًا!"
+    "tr": "Hafta sonu neden bu kadar çabuk bitiyor sanıyorsun?",
+    "en": "Why do you think the weekend ends so fast?",
+    "es": "¿Por qué crees que el fin de semana termina tan rápido?",
+    "ar": "لماذا تعتقد أن عطلة نهاية الأسبوع تنتهي بهذه السرعة؟"
   },
   "story_question": {
-    "tr": "Sizce bir insan günde ortalama kaç kez göz kırpar?",
-    "en": "How many times do you think an average person blinks a day?",
-    "es": "¿Cuántas veces crees que parpadea una persona promedio al día?",
-    "ar": "برأيك، كم مرة يطرف الإنسان العادي في اليوم؟"
+    "tr": "Zamanın daha yavaş geçtiğini hissettiğiniz anlar genellikle hangisidir?",
+    "en": "When do you usually feel like time is passing slower?",
+    "es": "¿Cuándo sientes normalmente que el tiempo pasa más lento?",
+    "ar": "متى تشعر عادة أن الوقت يمر بشكل أبطأ؟"
   },
   "story_options": [
-    "5.000 - 10.000",
-    "15.000 - 20.000",
-    "25.000 - 30.000"
+    "Yeni bir yer keşfederken",
+    "Çalışırken veya ders çalışırken",
+    "Hiçbir şey yapmadan otורurken"
   ],
   "hashtags": [
     "#FactBite",
+    "#zaman",
+    "#psikoloji",
+    "#beyin",
     "#bilim",
-    "#insan",
-    "#ilginçbilgiler",
-    "#keşfet",
-    "#biliyormusunuz",
-    "#göz"
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Sence de zaman son yıllarda hızlandı mı? Yorumlarda buluşalım!",
+    "en": "Do you think time has sped up in recent years too? Let us know in the comments!",
+    "es": "¿Crees que el tiempo también se ha acelerado en los últimos años? ¡Cuéntanos en los comentarios!",
+    "ar": "هل تعتقد أن الوقت قد تسارع في السنوات الأخيرة أيضاً؟ أخبرنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "American Academy of Ophthalmology",
-    "url": "https://www.aao.org"
+    "name": "American Psychological Association",
+    "url": "https://www.apa.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Aslında Ne Kadar Uzun Yaşıyoruz?",
+  "_topic": "Tuhaf Zaman Algısı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-17T10:38:05.082361+00:00",
+  "generated_at": "2026-10-17T12:12:31.384986+00:00",
   "topic_guard_days": 180
 }

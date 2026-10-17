@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Neden Kafamızı Sallayarak Düşünürüz?",
-    "body": "Zor bir soruyla karşılaştığımızda veya odaklanmaya çalışırken kafamızı hafifçe yana yatırmak ya da sallamak istemsizce yaptığımız bir şeydir. Beynimiz, karmaşık verileri işlerken ve uzamsal hesaplamalar yaparken vestibüler sistemi, yani iç kulaktaki denge merkezini devreye sokar. Kafanın küçük hareketleri, beyne anlık konum ve yönelim sinyalleri göndererek zihinsel işlemciyi rahatlatır ve odaklanmayı hızlandırır. Yani fiziksel denge arayışı, aslında zihinsel dengeyi bulmanın kısa yoludur."
+    "headline": "Neden Yalnızken Şarkı Söyleriz?",
+    "body": "Yalnız olduğumuzda banyoda ya da odada kendi kendimize şarkı söylemek çok yaygındır. Beynimiz bu sırada serbest bırakılan dopamin sayesinde kendini güvende ve mutlu hisseder. Sesimizin akustiği de bizi rahatlatır."
   },
   "en": {
-    "headline": "Why Do We Tilt Our Heads When Thinking?",
-    "body": "When faced with a difficult question or trying to focus, slightly tilting or nodding our heads is something we do involuntarily. While processing complex data and spatial calculations, our brain engages the vestibular system, the balance center in the inner ear. Small head movements send instant position and orientation signals to the brain, easing the mental processor and speeding up focus. In other words, the search for physical balance is actually a shortcut to mental clarity."
+    "headline": "Why Do We Sing When We Are Alone?",
+    "body": "Singing to ourselves in the shower or room when alone is very common. Our brain feels safe and happy thanks to the dopamine released during this time. The acoustics of our voice also soothe us."
   },
   "es": {
-    "headline": "¿Por qué inclinamos la cabeza al pensar?",
-    "body": "Ante una pregunta difícil o al intentar concentrarnos, inclinar o mover ligeramente la cabeza es algo que hacemos involuntariamente. Al procesar datos complejos y cálculos espaciales, nuestro cerebro activa el sistema vestibular, el centro del equilibrio en el oído interno. Los pequeños movimientos de cabeza envían señales instantáneas de posición al cerebro, aliviando el procesamiento mental. En otras palabras, la búsqueda de equilibrio físico es un atajo para la claridad mental."
+    "headline": "¿Por qué cantamos cuando estamos solos?",
+    "body": "Cantar solos en la ducha o en la habitación es muy común. Nuestro cerebro se siente seguro y feliz gracias a la dopamina liberada en ese momento. La acústica de nuestra voz también nos reconforta."
   },
   "ar": {
-    "headline": "لماذا نميل رؤوسنا عندما نفكر؟",
-    "body": "عندما نواجه سؤالاً صعبة أو نحاول التركيز، فإن إمالة رؤوسنا قليلاً هي حركة لا إرادية نقوم بها. أثناء معالجة البيانات المعقدة، يشغل الدماغ الجهاز الدهليزي، وهو مركز التوازن في الأذن الداخلية. تفرز حركات الرأس الصغيرة إشارات فورية للموقع، مما يسهل المعالجة الذهنية وياسرع التركيز. بمعنى آخر، يعد البحث عن التوازن الجسدي اختصاراً للصفاء الذهني."
+    "headline": "لماذا نغني عندما نكون وحدنا؟",
+    "body": "الغناء لأنفسنا في الحمام أو الغرفة عندما نكون وحدنا أمر شائع جداً. يشعر دماغنا بالأمان والسعادة بفضل الدوبامين المفرز خلال هذا الوقت. كما أن صدى أصواتنا يريحنا."
   },
   "reel_hook": {
-    "tr": "Zor bir şey düşünürken kafanı neden istemsizce yana yatırırsın?",
-    "en": "Why do you involuntarily tilt your head when thinking about something hard?",
-    "es": "¿Por qué inclinas involuntariamente la cabeza al pensar en algo difícil?",
-    "ar": "لماذا تميل رأسك لا إرادياً عندما تفكر في شيء صعب؟"
+    "tr": "Neden hepimiz yalnız kalınca şarkı söyleme isteği duyarız? Cevabı beyin kimyanızda saklı.",
+    "en": "Why do we all feel the urge to sing when we're alone? The answer is hidden in your brain chemistry.",
+    "es": "¿Por qué todos sentimos la necesidad de cantar cuando estamos solos? La respuesta se oculta en la química de tu cerebro.",
+    "ar": "لماذا نشعر جميعاً بالرغبة في الغناء عندما نكون وحدنا؟ الإجابة مخفية في كيمياء دماغك."
   },
   "story_question": {
-    "tr": "Zor bir soru çözerken en çok hangi bedensel hareketi yaparsınız?",
-    "en": "Which physical movement do you do the most when solving a difficult question?",
-    "es": "¿Qué movimiento físico haces más al resolver una pregunta difícil?",
-    "ar": "ما هي الحركة الجسدية التي تقوم بها أكثر عند حل سؤال صعبة؟"
+    "tr": "Yalnızken şarkı söyler misiniz?",
+    "en": "Do you sing when you're alone?",
+    "es": "¿Cantas cuando estás solo?",
+    "ar": "هل تغني عندما تكون وحدك؟"
   },
   "story_options": [
-    "Kafayı eğmek",
-    "Saçla oynamak",
-    "Gözleri kapatmak"
+    "Kesinlikle!",
+    "Asla",
+    "Sadece banyoda"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#psikoloji",
-    "#beyin",
-    "#ilginçbilgiler",
-    "#odaklanma",
-    "#keşfet"
+    "#Psikoloji",
+    "#Müzik",
+    "#Beyin",
+    "#Yalnızlık",
+    "#İlginçBilgiler"
   ],
   "cta": {
-    "tr": "Bunu en çok hangi arkadaşın yapıyor? Etiketle!",
-    "en": "Which friend does this the most? Tag them!",
-    "es": "¿Qué amigo hace esto más? ¡Etiquétalo!",
-    "ar": "أي صديق يفعل هذا أكثر؟ قم بالإشارة إليه!"
+    "tr": "Bunu kesinlikle yapıyorsan arkadaşına gönder!",
+    "en": "Send this to a friend who definitely does this!",
+    "es": "¡Envíaselo a un amigo que definitivamente hace esto!",
+    "ar": "أرسل هذا لصديق يفعل هذا بالتأكيد!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 9,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.75
   },
   "source": {
-    "name": "Vestibular System and Cognitive Processing Research",
-    "url": "https://www.sciencedirect.com"
+    "name": "Psychology Today",
+    "url": "https://www.psychologytoday.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Neden Kafamızı Sallayarak Düşünürüz?",
+  "_topic": "Neden Yalnızken Şarkı Söyleriz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-17T17:48:44.531013+00:00",
+  "generated_at": "2026-10-17T21:15:42.897000+00:00",
   "topic_guard_days": 180
 }

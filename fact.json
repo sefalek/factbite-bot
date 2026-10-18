@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sakız Yuttuğumuzda Mide Onu Neden Eritemez?",
-    "body": "Çocukken sakız yutmanın yedi yıl mide de kaldığı söylenir. Aslında sakızlar sindirilmez, ancak yedi yıl da içeride kalmaz. Vücut onu doğal yollarla dışarı atar, fakat sentetik yapısı sayesinde mide asidi onu parçalayamaz."
+    "headline": "Neden hep aynı burundan nefes alırız?",
+    "body": "Gün boyunca burnumuzun iki deliği de eşit çalışmaz. Aslında beyin, nefesi tek bir burun deliğinden alıp diğerini 'dinlenmeye' bırakır. Bu döngü her birkaç saatte bir otomatik olarak yer değiştirir."
   },
   "en": {
-    "headline": "Why Can't the Stomach Digest Swallowed Gum?",
-    "body": "We were told swallowing gum means it stays in the stomach for seven years. In reality, gum isn't digested, but it doesn't stay inside for years either. The body passes it naturally, but its synthetic base prevents stomach acid from breaking it down."
+    "headline": "Why do we always breathe through only one nostril at a time?",
+    "body": "Throughout the day, both nostrils don't work equally. In fact, the brain directs airflow mostly through one nostril while letting the other 'rest'. This cycle switches automatically every few hours."
   },
   "es": {
-    "headline": "¿Por qué el estómago no puede digerir el chicle tragado?",
-    "body": "De niños nos decían que tragar chicle significaba que se quedaba en el estómago durante siete años. En realidad, el chicle no se digiere, pero tampoco se queda dentro por años. El cuerpo lo expulsa naturalmente, aunque su base sintética evita que los ácidos estomacales lo descompongan."
+    "headline": "¿Por qué respiramos principalmente por una sola fosa nasal?",
+    "body": "A lo largo del día, ambas fosas nasales no trabajan por igual. De hecho, el cerebro dirige el flujo de aire principalmente por una mientras deja que la otra 'descanse'. Este ciclo cambia automáticamente cada pocas horas."
   },
   "ar": {
-    "headline": "لماذا لا تستطيع المعدة هضم العلكة المبتلعة؟",
-    "body": "اعتادوا إخبارنا أن ابتلاع العلكة يجعلها تبقى في المعدة لمدة سبع سنوات. في الواقع، لا يتم هضم العلكة، لكنها لا تبقى في الداخل لسنوات طويلة أيضاً. يطردها الجسم بشكل طبيعي، لكن تركيبتها الاصطناعية تمنع أحماض المعدة من تفكيكها."
+    "headline": "لماذا نتنفس دائماً من منخر واحد في كل مرة؟",
+    "body": "طوال اليوم، لا يعمل كلا المنخرين بالتساوي. في الواقع، يوجه الدماغ تدفق الهواء بشكل أساسي عبر منخر واحد بينما يترك الآخر 'يرتاح'. تتغير هذه الدورة تلقائياً كل بضع ساعات."
   },
   "reel_hook": {
-    "tr": "Sakız yuttuğunuzda gerçekten 7 yıl midede mi kalıyor?",
-    "en": "Does swallowed gum really stay in your stomach for 7 years?",
-    "es": "¿El chicle tragado realmente se queda en tu estómago durante 7 años?",
-    "ar": "هل تبقى العلكة المبتلعة في معدتك حقاً لمدة 7 سنوات؟"
+    "tr": "Şu an burnunun sadece tek bir deliğinden nefes aldığını biliyor muydun?",
+    "en": "Did you know you are currently breathing through only one of your nostrils?",
+    "es": "¿Sabías que en este momento solo estás respirando por una de tus fosas nasales?",
+    "ar": "هل تعلم أنك تتنفس حالياً من منخر واحد فقط؟"
   },
   "story_question": {
-    "tr": "Sakızın sindirilememesinin temel sebebi nedir?",
-    "en": "What is the main reason gum cannot be digested?",
-    "es": "¿Cuál es la razón principal por la que el chicle no se puede digerir?",
-    "ar": "ما هو السبب الرئيسي لعدم إمكانية هضم العلكة؟"
+    "tr": "Burnumuzdaki bu delik değişim döngüsü ortalama ne kadar sürer?",
+    "en": "How long does this nostril switching cycle usually take on average?",
+    "es": "¿Cuánto dura en promedio este ciclo de cambio de fosas nasales?",
+    "ar": "ما هي المدة التي تستغرقها عادة دورة تبديل المنخرين هذه؟"
   },
   "story_options": [
-    "Sentetik polimerler içermesi",
-    "Şeker oranının çok yüksek olması",
-    "Mide asidinin tamamen yok olması"
+    "1-2 saat",
+    "4-6 saat",
+    "12-24 saat"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#sağlık",
-    "#ilginçbilgiler",
-    "#bilim",
-    "#merak",
-    "#vücudumuz"
+    "#burun",
+    "#anatom",
+    "#bilimselgerçekler",
+    "#vücudumuz",
+    "#şaşırtıcı",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bu efsaneyi yanlış bilen arkadaşına gönder!",
-    "en": "Send this to a friend who still believes this myth!",
-    "es": "¡Envíaselo a un amigo que aún crea en este mito!",
-    "ar": "أرسل هذا لصديق لا يزال يؤمن بهذه الأسطورة!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi ve takip etmeyi unutma!",
+    "en": "If you're hearing this for the first time, don't forget to like and follow!",
+    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a me gusta y seguirnos!",
+    "ar": "إذا كنت تسمع هذا لأول مرة، فلا تنس الإعجاب والمتابعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
     "name": "Healthline",
-    "url": "https://www.healthline.com/health/what-happens-if-you-swallow-gum"
+    "url": "https://www.healthline.com/health/nasal-cycle"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Sakız Yuttuğumuzda Mide Onu Neden Eritemez?",
+  "_topic": "Neden hep aynı burundan nefes alırız?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-17T22:40:41.174902+00:00",
+  "generated_at": "2026-10-18T09:36:34.650905+00:00",
   "topic_guard_days": 180
 }

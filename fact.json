@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Neden hep aynı burundan nefes alırız?",
-    "body": "Gün boyunca burnumuzun iki deliği de eşit çalışmaz. Aslında beyin, nefesi tek bir burun deliğinden alıp diğerini 'dinlenmeye' bırakır. Bu döngü her birkaç saatte bir otomatik olarak yer değiştirir."
+    "headline": "Hapşırırken Gözlerimiz Neden Otomatik Kapanır?",
+    "body": "Hapşırdığınız anı kontrol edemezsiniz, peki ya gözlerinizin neden sıkıca kapandığını biliyor musunuz? Vücudumuz bu refleksle yabancı maddelerin gözümüze sıçramasını engeller."
   },
   "en": {
-    "headline": "Why do we always breathe through only one nostril at a time?",
-    "body": "Throughout the day, both nostrils don't work equally. In fact, the brain directs airflow mostly through one nostril while letting the other 'rest'. This cycle switches automatically every few hours."
+    "headline": "Why Do Our Eyes Close Automatically When We Sneeze?",
+    "body": "You cannot control the moment you sneeze, but do you know why your eyes shut tightly? Our body uses this reflex to prevent foreign particles from splashing into our eyes."
   },
   "es": {
-    "headline": "¿Por qué respiramos principalmente por una sola fosa nasal?",
-    "body": "A lo largo del día, ambas fosas nasales no trabajan por igual. De hecho, el cerebro dirige el flujo de aire principalmente por una mientras deja que la otra 'descanse'. Este ciclo cambia automáticamente cada pocas horas."
+    "headline": "¿Por qué se cierran nuestros ojos automáticamente al estornudar?",
+    "body": "No puedes controlar el momento en que estornudas, ¿pero sabes por qué tus ojos se cierran fuertemente? Nuestro cuerpo usa este reflejo para evitar que entren partículas extrañas."
   },
   "ar": {
-    "headline": "لماذا نتنفس دائماً من منخر واحد في كل مرة؟",
-    "body": "طوال اليوم، لا يعمل كلا المنخرين بالتساوي. في الواقع، يوجه الدماغ تدفق الهواء بشكل أساسي عبر منخر واحد بينما يترك الآخر 'يرتاح'. تتغير هذه الدورة تلقائياً كل بضع ساعات."
+    "headline": "لماذا تغلق أعيننا تلقائياً عند العطس؟",
+    "body": "لا يمكنك التحكم في لحظة العطس، ولكن هل تعلم لماذا تغلق عينك بقوة؟ يستخدم جسمنا هذا المنعكس لمنع الأجسام الغريبة من دخول العين."
   },
   "reel_hook": {
-    "tr": "Şu an burnunun sadece tek bir deliğinden nefes aldığını biliyor muydun?",
-    "en": "Did you know you are currently breathing through only one of your nostrils?",
-    "es": "¿Sabías que en este momento solo estás respirando por una de tus fosas nasales?",
-    "ar": "هل تعلم أنك تتنفس حالياً من منخر واحد فقط؟"
+    "tr": "Hapşırırken gözlerinizi açık tutmayı hiç denediniz mi?",
+    "en": "Have you ever tried to keep your eyes open while sneezing?",
+    "es": "¿Alguna vez has intentado mantener los ojos abiertos al estornudar?",
+    "ar": "هل محت من قبل أن تبقي عينيك مفتوحتين أثناء العطس؟"
   },
   "story_question": {
-    "tr": "Burnumuzdaki bu delik değişim döngüsü ortalama ne kadar sürer?",
-    "en": "How long does this nostril switching cycle usually take on average?",
-    "es": "¿Cuánto dura en promedio este ciclo de cambio de fosas nasales?",
-    "ar": "ما هي المدة التي تستغرقها عادة دورة تبديل المنخرين هذه؟"
+    "tr": "Hapşırırken gözlerinizi açık tutabilir misiniz?",
+    "en": "Can you keep your eyes open while sneezing?",
+    "es": "¿Puedes mantener los ojos abiertos al estornudar?",
+    "ar": "هل يمكنك إبقاء عينيك مفتوحتين أثناء العطس؟"
   },
   "story_options": [
-    "1-2 saat",
-    "4-6 saat",
-    "12-24 saat"
+    "Evet, çok kolay",
+    "Hayır, imkansız",
+    "Sadece tek gözle"
   ],
   "hashtags": [
     "#FactBite",
-    "#burun",
-    "#anatom",
-    "#bilimselgerçekler",
+    "#bilim",
+    "#ilginçbilgiler",
+    "#sağlık",
     "#vücudumuz",
-    "#şaşırtıcı",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi ve takip etmeyi unutma!",
-    "en": "If you're hearing this for the first time, don't forget to like and follow!",
-    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a me gusta y seguirnos!",
-    "ar": "إذا كنت تسمع هذا لأول مرة، فلا تنس الإعجاب والمتابعة!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Healthline",
-    "url": "https://www.healthline.com/health/nasal-cycle"
+    "name": "Library of Congress",
+    "url": "https://www.loc.gov/everyday-mysteries/item/why-do-our-eyes-close-when-we-sneeze/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Neden hep aynı burundan nefes alırız?",
+  "_topic": "Hapşırırken Gözlerimiz Neden Otomatik Kapanır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-18T09:36:34.650905+00:00",
+  "generated_at": "2026-10-18T11:00:56.882812+00:00",
   "topic_guard_days": 180
 }

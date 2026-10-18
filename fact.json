@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Klavyenizdeki O Küçük Çıkıntılar Ne İşe Yarar?",
-    "body": "Bilgisayar klavyenizin F ve J tuşlarının üzerinde neden küçük çıkıntılar olduğunu hiç merak ettiniz mi? Bu minik kabarıklıklar, daktilo çağında parmaklarınızı klavyeye bakmadan doğru konuma, yani 'ana sıra'ya yerleştirmenizi sağlamak için tasarlanmıştır. Böylece ellerinizi hiç kaldırmadan hızla yazabilirsiniz."
+    "headline": "Çakmak Neden Tırnağınızı Acıtır?",
+    "body": "Eski model çakmakların üzerindeki o pürüzlü tekerleği hızlıca çevirdiğinizde parmağınızı neden yaktığını veya acıttığını hiç düşündünüz mü? Aslında o tekerlek metal değil; inanılmaz sertleştirilmiş ve özel olarak dişlendirilmiş yapısıyla derinizi adeta mikroskobik düzeyde tıraş eder."
   },
   "en": {
-    "headline": "What Are Those Small Bumps on Your Keyboard For?",
-    "body": "Have you ever wondered why the F and J keys on your computer keyboard have small bumps? These tiny ridges were designed in the typewriter era to help position your fingers in the correct home row without looking, allowing you to type quickly."
+    "headline": "Why Does a Lighter Hurt Your Finger?",
+    "body": "Have you ever wondered why spinning that rough wheel on an old lighter fast burns or hurts your thumb? That wheel isn't actually soft metal; its hardened, specially serrated structure microscopically shaves your skin."
   },
   "es": {
-    "headline": "¿Para qué sirven esas pequeñas protuberancias en tu teclado?",
-    "body": "¿Alguna vez te has preguntado por qué las teclas F y J tienen pequeñas protuberancias? Estas diminutas crestas fueron diseñadas en la era de las máquinas de escribir para ayudar a colocar tus dedos en la fila base sin mirar."
+    "headline": "Por qué un encendedor te lastima el dedo",
+    "body": "¿Te has preguntado por qué girar rápido esa rueda rugosa de un viejo encendedor te quema o duele? Esa rueda no es metal blando; su estructura endurecida afeita literalmente tu piel a nivel microscópico."
   },
   "ar": {
-    "headline": "ما فائدة تلك النتوءات الصغيرة على لوحة المفاتيح؟",
-    "body": "هل تساءلت يوماً عن سبب وجود نتوءات صغيرة على مفتاحي F و J في لوحة المفاتيح؟ صُممت هذه البروزات الدقيقة في عصر الآلات الكاتبة لمساعدتك على وضع أصابعك في الصف الرئيسي دون أن تنظر."
+    "headline": "لماذا تؤذي ولاعة الحريق إصبعك؟",
+    "body": "هل فكرت يومًا لماذا تحرقك أو تؤلمك إدارة تلك العجلة الخشنة في الولاعة القديمة بسرعة؟ تلك العجلة ليست معدنًا ناعماً، بل تحلق بشرتك على المستوى المجهري."
   },
   "reel_hook": {
-    "tr": "Bilgisayar klavyenizdeki o iki tuş neden diğerlerinden farklı?",
-    "en": "Why are those two keys on your keyboard different from the rest?",
-    "es": "¿Por qué esas dos teclas de tu teclado son diferentes?",
-    "ar": "لماذا يختلف هذان المفتاحان على لوحة المفاتيح عن البقية؟"
+    "tr": "Çakmağın o küçük tekerleği parmağınızı neden aniden yakar?",
+    "en": "Why does that small lighter wheel suddenly burn your finger?",
+    "es": "¿Por qué esa pequeña rueda del encendedor te quema de repente?",
+    "ar": "لماذا تحرق عجلة الولاعة الصغيرة إصبعك فجأة؟"
   },
   "story_question": {
-    "tr": "F ve J tuşlarındaki bu çıkıntıların asıl amacını biliyor muydunuz?",
-    "en": "Did you know the real purpose of these bumps on the F and J keys?",
-    "es": "¿Conocías el propósito real de estas protuberancias en las teclas F y J?",
-    "ar": "هل كنت تعرف الغرض الحقيقي من هذه النتوءات على مفتاحي F و J؟"
+    "tr": "Çakmak tekerleğinin yapıldığı bu özel malzeme sizce nedir?",
+    "en": "What do you think this special wheel material is made of?",
+    "es": "¿De qué material crees que está hecha esta rueda?",
+    "ar": "ماذا تعتقد أن هذه المادة المصنوعة منها العجلة؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Yeni öğrendim",
-    "Hiç dikkat etmemiştim"
+    "Sertleştirilmiş Çelik",
+    "Özel Alaşımlı Demir",
+    "Tungsten Karbür"
   ],
   "hashtags": [
     "#FactBite",
-    "#teknoloji",
     "#bilgi",
-    "#ilginç",
-    "#bilim",
+    "#ilginçbilgiler",
+    "#teknoloji",
+    "#keşfet",
     "#pratikbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç detay için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting details like this!",
-    "es": "¡No olvides seguirnos para más detalles interesantes!",
-    "ar": "لا تنس متابعة المزيد من التفاصيل المثيرة للاهتمام مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı detay için takipte kal!",
+    "en": "Follow for more surprising details like this!",
+    "es": "¡Síguenos para más detalles sorprendentes como este!",
+    "ar": "تابع للمزيد من التفاصيل المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "QWERTY Keyboard History",
-    "url": "https://www.smithsonianmag.com"
+    "name": "Mechanics of Friction and Lighter Design",
+    "url": ""
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Klavyenizdeki O Küçük Çıkıntılar Ne İşe Yarar?",
+  "_topic": "Çakmak Neden Tırnağınızı Acıtır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-18T21:17:11.566414+00:00",
+  "generated_at": "2026-10-18T22:37:24.465931+00:00",
   "topic_guard_days": 180
 }

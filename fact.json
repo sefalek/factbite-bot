@@ -1,68 +1,75 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Hapşırırken Gözlerimiz Neden Otomatik Kapanır?",
-    "body": "Hapşırdığınız anı kontrol edemezsiniz, peki ya gözlerinizin neden sıkıca kapandığını biliyor musunuz? Vücudumuz bu refleksle yabancı maddelerin gözümüze sıçramasını engeller."
+    "headline": "Telefon Ekranlarındaki O Görünmez Tehlike",
+    "body": "Her gün elimizden düşürmediğimiz telefon ekranları, üzerlerinde barındırdıkları bakteri yoğunluğu bakımından aslında tuvalet oturağından çok daha kirli olabilir. Çünkü cihazlarımızı gün boyunca her yere bırakır, ellerimizi yıkasak bile ekranı tekrar tekrar yüzümüze yaklaştırırız. Düzenli temizlenmeyen yüzeyler, mikroskobik canlılar için kusursuz bir yaşam alanı sunar."
   },
   "en": {
-    "headline": "Why Do Our Eyes Close Automatically When We Sneeze?",
-    "body": "You cannot control the moment you sneeze, but do you know why your eyes shut tightly? Our body uses this reflex to prevent foreign particles from splashing into our eyes."
+    "headline": "The Invisible Danger On Your Phone Screen",
+    "body": "Phone screens that we use constantly every day can actually be much dirtier than a toilet seat due to the bacteria density they harbor. Because we leave our devices everywhere throughout the day and bring the screen close to our faces again and again. Surfaces that are not cleaned regularly provide a perfect living space for microscopic organisms."
   },
   "es": {
-    "headline": "¿Por qué se cierran nuestros ojos automáticamente al estornudar?",
-    "body": "No puedes controlar el momento en que estornudas, ¿pero sabes por qué tus ojos se cierran fuertemente? Nuestro cuerpo usa este reflejo para evitar que entren partículas extrañas."
+    "headline": "El peligro invisible en la pantalla de tu teléfono",
+    "body": "Las pantallas de los teléfonos que usamos constantemente todos los días pueden ser mucho más sucias que la taza de un baño debido a la densidad de bacterias que albergan. Dejamos nuestros dispositivos en todas partes y acercamos la pantalla a nuestra cara una y otra vez. Las superficies que no se limpian regularmente ofrecen un hábitat perfecto para los microorganismos."
   },
   "ar": {
-    "headline": "لماذا تغلق أعيننا تلقائياً عند العطس؟",
-    "body": "لا يمكنك التحكم في لحظة العطس، ولكن هل تعلم لماذا تغلق عينك بقوة؟ يستخدم جسمنا هذا المنعكس لمنع الأجسام الغريبة من دخول العين."
+    "headline": "الخطر الخفي على شاشة هاتفك",
+    "body": "شاشات الهواتف التي نستخدمها باستمرار كل يوم يمكن أن تكون في الواقع أذرى بكثير من مقعد المرحاض نظراً لكثافة البكتيريا التي تحتضنها. نحن نترك أجهزتنا في كل مكان ونقرب الشاشة من وجوه مراراً وتكراراً. الأسطح التي لا يتم تنظيفها بانتظام توفر بيئة مثالية للكائنات الدقيقة."
+  },
+  "reel__hook": {
+    "tr": "Telefonun mu, yoksa tuvalet mi daha kirli?",
+    "en": "Is your phone or a toilet seat dirtier?",
+    "es": "¿Está más sucio tu teléfono o un inodoro?",
+    "ar": "هل هاتفك أم مقعد المرحاض أثقل اتساخاً؟"
   },
   "reel_hook": {
-    "tr": "Hapşırırken gözlerinizi açık tutmayı hiç denediniz mi?",
-    "en": "Have you ever tried to keep your eyes open while sneezing?",
-    "es": "¿Alguna vez has intentado mantener los ojos abiertos al estornudar?",
-    "ar": "هل محت من قبل أن تبقي عينيك مفتوحتين أثناء العطس؟"
+    "tr": "Telefonun mu, yoksa tuvalet mi daha kirli?",
+    "en": "Is your phone or a toilet seat dirtier?",
+    "es": "¿Está más sucio tu teléfono o un inodoro?",
+    "ar": "هل هاتفك أم مقعد المرحاض أثقل اتساخاً؟"
   },
   "story_question": {
-    "tr": "Hapşırırken gözlerinizi açık tutabilir misiniz?",
-    "en": "Can you keep your eyes open while sneezing?",
-    "es": "¿Puedes mantener los ojos abiertos al estornudar?",
-    "ar": "هل يمكنك إبقاء عينيك مفتوحتين أثناء العطس؟"
+    "tr": "Telefon ekranınızı en son ne zaman dezenfekte ettiniz?",
+    "en": "When was the last time you disinfected your phone screen?",
+    "es": "¿Cuándo fue la última vez que desinfectaste la pantalla de tu teléfono?",
+    "ar": "متى كانت آخر مرة قمت فيها بتعقيم شاشة هاتفك؟"
   },
   "story_options": [
-    "Evet, çok kolay",
-    "Hayır, imkansız",
-    "Sadece tek gözle"
+    "Bugün",
+    "Haftada bir",
+    "Hiç hatırlamıyorum"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
+    "#teknoloji",
     "#sağlık",
-    "#vücudumuz",
-    "#keşfet"
+    "#bilgi",
+    "#telefon",
+    "#hijyen",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المثيرة للاهتمام مثل هذه!"
+    "tr": "Ekranını ne sıklıkla siliyorsun? Yorumlarda buluşalım!",
+    "en": "How often do you clean your screen? Let us know in the comments!",
+    "es": "¿Con qué frecuencia limpias tu pantalla? ¡Cuéntanos en los comentarios!",
+    "ar": "كم مرة تنظف شاشتك؟ شاركنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "Library of Congress",
-    "url": "https://www.loc.gov/everyday-mysteries/item/why-do-our-eyes-close-when-we-sneeze/"
+    "name": "Microbiology Research & Public Health Studies",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Hapşırırken Gözlerimiz Neden Otomatik Kapanır?",
+  "_topic": "Telefon Ekranlarındaki O Görünmez Tehlike",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-18T11:00:56.882812+00:00",
+  "generated_at": "2026-10-18T12:38:31.250402+00:00",
   "topic_guard_days": 180
 }

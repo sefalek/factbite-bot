@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tuş Takımlarındaki O Gizli Çıkıntılar Neden Var?",
-    "body": "Bilgisayar klavyesindeki 'F' ve 'J' tuşlarına ya da telefonların arama ekranındaki '5' tuşuna hiç dikkat ettiniz mi? Üzerlerinde küçük birer kabartma çıkıntı bulunur. Bunlar süs değildir; ekrana veya klavyeye bakmadan, sadece parmak dokunuşuyla doğru parmak pozisyonunu bulmanızı sağlayan harika birer rehberdir."
+    "headline": "Klavyenizdeki O Küçük Çıkıntılar Ne İşe Yarar?",
+    "body": "Bilgisayar klavyenizin F ve J tuşlarının üzerinde neden küçük çıkıntılar olduğunu hiç merak ettiniz mi? Bu minik kabarıklıklar, daktilo çağında parmaklarınızı klavyeye bakmadan doğru konuma, yani 'ana sıra'ya yerleştirmenizi sağlamak için tasarlanmıştır. Böylece ellerinizi hiç kaldırmadan hızla yazabilirsiniz."
   },
   "en": {
-    "headline": "Why Do Keyboards Have Small Bumps on Certain Keys?",
-    "body": "Have you ever noticed the tiny bumps on the 'F' and 'J' keys of a computer keyboard, or the '5' on a phone keypad? They aren't decorative; they act as a brilliant tactile guide to help you find the correct finger positioning without looking."
+    "headline": "What Are Those Small Bumps on Your Keyboard For?",
+    "body": "Have you ever wondered why the F and J keys on your computer keyboard have small bumps? These tiny ridges were designed in the typewriter era to help position your fingers in the correct home row without looking, allowing you to type quickly."
   },
   "es": {
-    "headline": "¿Por qué los teclados tienen pequeñas protuberancias en ciertas teclas?",
-    "body": "¿Alguna vez has notado las pequeñas protuberancias en las teclas 'F' y 'J' de un teclado, o en el '5' de un teléfono? No son decorativas; sirven como una guía táctil para encontrar la posición correcta de los dedos sin mirar."
+    "headline": "¿Para qué sirven esas pequeñas protuberancias en tu teclado?",
+    "body": "¿Alguna vez te has preguntado por qué las teclas F y J tienen pequeñas protuberancias? Estas diminutas crestas fueron diseñadas en la era de las máquinas de escribir para ayudar a colocar tus dedos en la fila base sin mirar."
   },
   "ar": {
-    "headline": "لماذا توجد نتوءات صغيرة على مفاتيح لوحة المفاتيح؟",
-    "body": "هل لاحظت من قبل النتوءات الصغيرة على حرفي F و J في لوحة المفاتيح، أو رقم 5 في الهاتف؟ إنها ليست للتزيين، بل تعمل كدليل باللمس لمساعدتك في العثور على الوضع الصحيح للأصابع دون النظر."
+    "headline": "ما فائدة تلك النتوءات الصغيرة على لوحة المفاتيح؟",
+    "body": "هل تساءلت يوماً عن سبب وجود نتوءات صغيرة على مفتاحي F و J في لوحة المفاتيح؟ صُممت هذه البروزات الدقيقة في عصر الآلات الكاتبة لمساعدتك على وضع أصابعك في الصف الرئيسي دون أن تنظر."
   },
   "reel_hook": {
-    "tr": "Klavyeye bakmadan nasıl bu kadar hızlı yazabiliyorsunuz sanıyorsunuz?",
-    "en": "How do you think you can type so fast without looking at the keyboard?",
-    "es": "¿Cómo crees que puedes escribir tan rápido sin mirar el teclado?",
-    "ar": "كيف تعتقد أنك تستطيع الكتابة بهذه السرعة دون النظر إلى لوحة المفاتيح؟"
+    "tr": "Bilgisayar klavyenizdeki o iki tuş neden diğerlerinden farklı?",
+    "en": "Why are those two keys on your keyboard different from the rest?",
+    "es": "¿Por qué esas dos teclas de tu teclado son diferentes?",
+    "ar": "لماذا يختلف هذان المفتاحان على لوحة المفاتيح عن البقية؟"
   },
   "story_question": {
-    "tr": "Klavyedeki bu kabartmalı tuşlar ilk olarak hangi amaçla tasarlanmıştır?",
-    "en": "For what primary purpose were these bumped keys on keyboards first designed?",
-    "es": "¿Con qué propósito principal se diseñaron estas teclas con protuberancias?",
-    "ar": "ما هو الغرض الأساسي من تصميم هذه المفاتيح البارزة في لوحات المفاتيح؟"
+    "tr": "F ve J tuşlarındaki bu çıkıntıların asıl amacını biliyor muydunuz?",
+    "en": "Did you know the real purpose of these bumps on the F and J keys?",
+    "es": "¿Conocías el propósito real de estas protuberancias en las teclas F y J?",
+    "ar": "هل كنت تعرف الغرض الحقيقي من هذه النتوءات على مفتاحي F و J؟"
   },
   "story_options": [
-    "Görme engelliler için Braille alfabesi",
-    "On parmak yazımında doğru parmak yerleşimi",
-    "Üretim sırasında parça kalitesini test etmek"
+    "Evet, biliyordum",
+    "Yeni öğrendim",
+    "Hiç dikkat etmemiştim"
   ],
   "hashtags": [
     "#FactBite",
     "#teknoloji",
     "#bilgi",
     "#ilginç",
-    "#pratik",
-    "#keşfet"
+    "#bilim",
+    "#pratikbilgiler"
   ],
   "cta": {
-    "tr": "Bunu bildiğini muhtemelen unutmuştun. Arkadaşına gönder!",
-    "en": "You probably forgot you knew this. Send it to a friend!",
-    "es": "Probablemente olvidaste que sabías esto. ¡Envíaselo a un amigo!",
-    "ar": "ربما نسيت أنك تعلم هذا. أرسله إلى صديق!"
+    "tr": "Bunun gibi daha fazla ilginç detay için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting details like this!",
+    "es": "¡No olvides seguirnos para más detalles interesantes!",
+    "ar": "لا تنس متابعة المزيد من التفاصيل المثيرة للاهتمام مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "QWERTY Keyboard History & Ergonomics",
-    "url": "https://www.britannica.com/technology/keyboard-technology"
+    "name": "QWERTY Keyboard History",
+    "url": "https://www.smithsonianmag.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tuş Takımlarındaki O Gizli Çıkıntılar Neden Var?",
+  "_topic": "Klavyenizdeki O Küçük Çıkıntılar Ne İşe Yarar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-18T17:54:02.162900+00:00",
+  "generated_at": "2026-10-18T21:17:11.566414+00:00",
   "topic_guard_days": 180
 }

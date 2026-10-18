@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tuvalet Kağıdı Rulolarının Ortasındaki O Boşluk Neden Var?",
-    "body": "Tuvalet kağıdı rulolarının ortasındaki o boşluğun sadece rulo yapmak için olduğunu düşünüyorsanız, yanılıyorsunuz! Aslında bu boşluk, kağıt makinelerinin taşıyıcı millere kusursuz bir şekilde oturmasını ve sorunsuz dönmesini sağlamak için özel olarak tasarlanmıştır."
+    "headline": "Tuş Takımlarındaki O Gizli Çıkıntılar Neden Var?",
+    "body": "Bilgisayar klavyesindeki 'F' ve 'J' tuşlarına ya da telefonların arama ekranındaki '5' tuşuna hiç dikkat ettiniz mi? Üzerlerinde küçük birer kabartma çıkıntı bulunur. Bunlar süs değildir; ekrana veya klavyeye bakmadan, sadece parmak dokunuşuyla doğru parmak pozisyonunu bulmanızı sağlayan harika birer rehberdir."
   },
   "en": {
-    "headline": "Why Is There a Hole in the Middle of Toilet Paper Rolls?",
-    "body": "If you think the hole in the middle of toilet paper rolls is just for rolling, you are wrong! Actually, this empty space is specifically designed to fit perfectly onto the carrier spindles of paper machines and spin smoothly."
+    "headline": "Why Do Keyboards Have Small Bumps on Certain Keys?",
+    "body": "Have you ever noticed the tiny bumps on the 'F' and 'J' keys of a computer keyboard, or the '5' on a phone keypad? They aren't decorative; they act as a brilliant tactile guide to help you find the correct finger positioning without looking."
   },
   "es": {
-    "headline": "¿Por qué hay un hueco en el centro de los rollos de papel higiénico?",
-    "body": "Si piensas que el hueco en el medio de los rollos de papel higiénico es solo para enrollar, ¡te equivocas! En realidad, este espacio vacío está diseñado específicamente para encajar perfectamente en los ejes de las máquinas de papel y girar sin problemas."
+    "headline": "¿Por qué los teclados tienen pequeñas protuberancias en ciertas teclas?",
+    "body": "¿Alguna vez has notado las pequeñas protuberancias en las teclas 'F' y 'J' de un teclado, o en el '5' de un teléfono? No son decorativas; sirven como una guía táctil para encontrar la posición correcta de los dedos sin mirar."
   },
   "ar": {
-    "headline": "لماذا توجد فجوة في منتصف لفائف ورق التواليت؟",
-    "body": "إذا كنت تعتقد أن الفجوة في منتصف لفائف ورق التواليت هي فقط لللف، فأنت مخطط! في الواقع، تم تصميم هذه المساحة الفارغة خصيصًا لتتناسب تمامًا مع أعمدة آلات الورق وتدور بسلاسة."
+    "headline": "لماذا توجد نتوءات صغيرة على مفاتيح لوحة المفاتيح؟",
+    "body": "هل لاحظت من قبل النتوءات الصغيرة على حرفي F و J في لوحة المفاتيح، أو رقم 5 في الهاتف؟ إنها ليست للتزيين، بل تعمل كدليل باللمس لمساعدتك في العثور على الوضع الصحيح للأصابع دون النظر."
   },
   "reel_hook": {
-    "tr": "Tuvalet kağıdı rulosunun ortasındaki o boşluk sizce ne işe yarıyor?",
-    "en": "What do you think the hole in the middle of a toilet paper roll is for?",
-    "es": "¿Para qué crees que sirve el hueco en el medio del rollo de papel higiénico?",
-    "ar": "برأيك ما هو الغرض من الفجوة الموجودة في منتصف رول ورق التواليت؟"
+    "tr": "Klavyeye bakmadan nasıl bu kadar hızlı yazabiliyorsunuz sanıyorsunuz?",
+    "en": "How do you think you can type so fast without looking at the keyboard?",
+    "es": "¿Cómo crees que puedes escribir tan rápido sin mirar el teclado?",
+    "ar": "كيف تعتقد أنك تستطيع الكتابة بهذه السرعة دون النظر إلى لوحة المفاتيح؟"
   },
   "story_question": {
-    "tr": "Sizce tuvalet kağıdı rulolarının ortasındaki boşluk başka hangi amaçla kullanılabilir?",
-    "en": "What other purpose do you think the hole in toilet paper rolls could serve?",
-    "es": "¿Qué otro propósito crees que podría tener el hueco en los rollos de papel higiénico?",
-    "ar": "ما هو الغرض الآخر برأيك الذي يمكن أن تلعبه الفجوة في لفائف ورق التواليت؟"
+    "tr": "Klavyedeki bu kabartmalı tuşlar ilk olarak hangi amaçla tasarlanmıştır?",
+    "en": "For what primary purpose were these bumped keys on keyboards first designed?",
+    "es": "¿Con qué propósito principal se diseñaron estas teclas con protuberancias?",
+    "ar": "ما هو الغرض الأساسي من تصميم هذه المفاتيح البارزة في لوحات المفاتيح؟"
   },
   "story_options": [
-    "Kablo düzenleyici",
-    "Çocuk oyuncakları",
-    "Hiçbiri"
+    "Görme engelliler için Braille alfabesi",
+    "On parmak yazımında doğru parmak yerleşimi",
+    "Üretim sırasında parça kalitesini test etmek"
   ],
   "hashtags": [
     "#FactBite",
-    "#ilginçbilgiler",
-    "#bilim",
-    "#günlükyaşam",
-    "#keşfet",
-    "#faydalıbilgiler",
-    "#tarih"
+    "#teknoloji",
+    "#bilgi",
+    "#ilginç",
+    "#pratik",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydunuz? Yorumlarda buluşalım ve takip etmeyi unutmayın!",
-    "en": "Did you know this before? Let us know in the comments and don't forget to follow!",
-    "es": "¿Sabías esto antes? ¡Déjanos tu comentario y no olvides seguirnos!",
-    "ar": "هل كنت تعلم هذا من قبل؟ شاركنا برأيك في التعليقات ولا تنس المتابعة!"
+    "tr": "Bunu bildiğini muhtemelen unutmuştun. Arkadaşına gönder!",
+    "en": "You probably forgot you knew this. Send it to a friend!",
+    "es": "Probablemente olvidaste que sabías esto. ¡Envíaselo a un amigo!",
+    "ar": "ربما نسيت أنك تعلم هذا. أرسله إلى صديق!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Manufacturing & Packaging Insights",
-    "url": "https://www.manufacturing.net"
+    "name": "QWERTY Keyboard History & Ergonomics",
+    "url": "https://www.britannica.com/technology/keyboard-technology"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tuvalet Kağıdı Rulolarının Ortasındaki O Boşluk Neden Var?",
+  "_topic": "Tuş Takımlarındaki O Gizli Çıkıntılar Neden Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-18T16:21:58.208224+00:00",
+  "generated_at": "2026-10-18T17:54:02.162900+00:00",
   "topic_guard_days": 180
 }

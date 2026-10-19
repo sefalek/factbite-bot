@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tükenmez Kalemlerin Arkasındaki O Küçük Delik Aslında Ne İşe Yarar?",
-    "body": "Çoğumuz onun mürekkebin kurumaması için yapıldığını düşünürüz ama gerçek çok daha hayatidir. Üst kapağı yanlışlıkla yuttuğunuzda, o delik hava akışını sağlayarak nefes almanıza imkan tanır."
+    "headline": "Asansörlerdeki O Aynalar Neden Var?",
+    "body": "Asansöre bindiğinizde aynaya bakmak alışkanlıktır. Peki bu aynaların sadece saçınızı düzeltmek için orada olduğunu mu sanıyorsunuz? Asıl sebep tamamen psikolojik: Asansörün hareket ederken yarattığı o sıkışmışlık ve klostrofobi hissinden sizi uzaklaştırmak. Beyniniz aynadaki genişlik illüzyonuna odaklanarak zamanın daha hızlı geçtiğini hisseder ve o dar alan korkusunu unutarak rahatlar."
   },
   "en": {
-    "headline": "What is the Purpose of the Small Hole on Ballpoint Pen Caps?",
-    "body": "Most of us think it's to prevent the ink from drying, but the real reason is much more vital. If someone accidentally swallows the cap, that hole maintains airflow and prevents suffocation."
+    "headline": "Why Are There Mirrors in Elevators?",
+    "body": "Looking in the mirror when stepping into an elevator is a habit. But do you think they are only there to fix your hair? The real reason is purely psychological: to distract you from the cramped and claustrophobic feeling of the elevator moving. Your brain focuses on the illusion of space in the mirror, making time feel faster and helping you forget the fear of tight spaces."
   },
   "es": {
-    "headline": "¿Para qué sirve el pequeño agujero en la parte superior de los bolígrafos?",
-    "body": "Muchos piensan que es para evitar que la tinta se seque, pero la razón real es mucho más vital. Si alguien traga la tapa por accidente, ese agujero permite el paso del aire para evitar la asfixia."
+    "headline": "¿Por qué hay espejos en los ascensores?",
+    "body": "Mirarse al espejo al entrar en un ascensor es un hábito. ¿Pero crees que solo están ahí para arreglarte el cabello? La verdadera razón es puramente psicológica: distraerte de la sensación de encierro y claustrofobia al moverse. Tu cerebro se concentra en la ilusión de amplitud del espejo, haciendo que el tiempo pase más rápido y olvidando el miedo al espacio reducido."
   },
   "ar": {
-    "headline": "ما هو الغرض من الثقب الصغير الموجود على أغطية أقلام الحبر الجاف؟",
-    "body": "يعتقد معظمنا أنه لمنع الحبر من الجفاف، لكن السبب الحقيقي أكثر أهمية بكثير. إذا ابتلاع شخص الغطاء بالخطأ، فإن هذا الثقب يحافظ على تدفق الهواء لمنع الاختناق."
+    "headline": "لماذا توجد مرايا في المصاعد؟",
+    "body": "النظر في المرآة عند دخول المصعد هو عادة. ولكن هل تعتقد أنها موجودة فقط لتعديل شعرك؟ السبب الحقيقي نفس صرف: إلهاء شعورك بالضيق ورهاب الأماكن المغلقة أثناء حركة المصعد. يركز عقلك على وهم الاتساع في المرآة، مما يجعل الوقت يبدو أسرع ويساعدك على نسيان الخوف من الأماكن الضيقة."
   },
   "reel_hook": {
-    "tr": "Tükenmez kalemlerin arkasındaki o küçük deliğin hayat kurtarabileceğini biliyor muydunuz?",
-    "en": "Did you know that the small hole on the back of ballpoint pens can actually save a life?",
-    "es": "¿Sabías que el pequeño agujero en los bolígrafos puede salvar una vida?",
-    "ar": "هل كنت تعلم أن الثقب الصغير الموجود على أقلام الحبر يمكن أن ينقذ حياة؟"
+    "tr": "Asansördeki aynaların saçınızı düzeltmekten çok daha gizli bir görevi var.",
+    "en": "Mirrors in elevators have a much more secret job than fixing your hair.",
+    "es": "Los espejos en los ascensores tienen una función mucho más secreta que arreglarte el cabello.",
+    "ar": "المرايا في المصاعد لها وظيفة سرية أكثر بكثير من مجرد تعديل شعرك."
   },
   "story_question": {
-    "tr": "Sizce tükenmez kalem kapağındaki bu delik ilk olarak hangi amaçla tasarlandı?",
-    "en": "What do you think was the original purpose of this hole on the pen cap?",
-    "es": "¿Cuál crees que fue el propósito original de este agujero en la tapa?",
-    "ar": "برأيك ما هو الغرض الأصلي من هذا الثقب الموجود على غطاء القلم؟"
+    "tr": "Sizce asansör aynaları ilk olarak ne amaçla konulmuştur?",
+    "en": "Why do you think elevator mirrors were first installed?",
+    "es": "¿Para qué crees que se instalaron por primera vez los espejos en los ascensores?",
+    "ar": "برأيك، ما هو الغرض الأساسي من وضع المرايا في المصاعد لأول مرة؟"
   },
   "story_options": [
-    "Mürekkebin kurumasını önlemek",
-    "Nefes borusunun tıkanmasını önlemek",
-    "Hava basıncını eşitlemek"
+    "Dekorasyon için",
+    "Klostrofobiyi önlemek için",
+    "Güvenlik kameralarını gizlemek için"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
+    "#asansör",
+    "#psikoloji",
     "#ilginçbilgiler",
-    "#teknoloji",
-    "#hayatkurtarıcı",
-    "#keşfet",
-    "#pratikbilgiler"
+    "#bilim",
+    "#günlükhayat",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi hayat kurtaran detaylar için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more life-saving details like this!",
-    "es": "¡No olvides seguirnos para más detalles que salvan vidas!",
-    "ar": "لا تنس متابعتنا لمزيد من التفاصيل التي تمنح الحياة!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع بهذه المعلومة لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "ISO 11540 Safety Standard",
-    "url": "https://www.iso.org"
+    "name": "Popular Science",
+    "url": "https://www.popsci.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tükenmez Kalemlerin Arkasındaki O Küçük Delik Aslında Ne İşe Yarar?",
+  "_topic": "Asansörlerdeki O Aynalar Neden Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-19T21:27:47.406262+00:00",
+  "generated_at": "2026-10-19T22:51:08.699508+00:00",
   "topic_guard_days": 180
 }

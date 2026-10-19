@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uçak Pencerelerindeki O Küçük Delik Ne İşe Yarar?",
-    "body": "Hiç uçak penceresinin alt kısmında minik bir delik fark ettiniz mi? O delik dekoratif değil, hayat kurtarıyor. Kabin içindeki ve dışındaki basınç farkını dengeleyerek camların patlamasını önlüyor ve içerideki nemi dışarı atarak buzlanmayı engelliyor."
+    "headline": "Tükenmez Kalemlerin Arkasındaki Küçük Delik",
+    "body": "Hiç tükenmez kalemin gövdesindeki o minik deliği fark ettiniz mi? Sadece süs değil; kalemin içindeki hava basıncını eşitleyerek mürekkebin akmasını sağlayan hayati bir detaydır."
   },
   "en": {
-    "headline": "What is That Tiny Hole in Airplane Windows For?",
-    "body": "Have you ever noticed a tiny hole at the bottom of an airplane window? That hole isn't decorative, it saves lives. It balances the pressure difference between the cabin and the outside, preventing the panes from blowing out and keeping moisture away to stop fogging."
+    "headline": "The Tiny Hole in Ballpoint Pens",
+    "body": "Have you ever noticed that tiny hole in the barrel of a ballpoint pen? It is not just for decoration; it equalizes air pressure inside the pen to keep the ink flowing smoothly."
   },
   "es": {
-    "headline": "¿Para qué sirve ese pequeño agujero en las ventanillas de los aviones?",
-    "body": "¿Alguna vez has notado un pequeño agujero en la parte inferior de la ventanilla de un avión? Ese agujero no es decorativo, salva vidas. Equilibra la diferencia de presión entre la cabina y el exterior, evitando que los cristales se rompan y expulsando la humedad."
+    "headline": "El Pequeño Agujero en los Bolígrafos",
+    "body": "¿Alguna vez has notado ese pequeño agujero en el cuerpo de un bolígrafo? No es solo por decoración; equilibra la presión del aire en el interior para mantener la tinta fluyendo."
   },
   "ar": {
-    "headline": "ما فائدة تلك الثقوب الصغيرة في نوافذ الطائرات؟",
-    "body": "هل لاحظت يوماً ثقباً صغيراً في أسفل نافذة الطائرة؟ هذا الثقب ليس للتزيين، بل إنه ينقذ الأرواح. فهو يوازن فرق الضغط بين المقصورة والخارج لمنع تحطم الزجاج، ويطرد الرطوبة لمنع تشكل الضباب."
+    "headline": "الثقب الصغير في أقلام الحبر الجاف",
+    "body": "هل لاحظت يوماً ذلك الثقب الصغير في جسم قلم الحبر الجاف؟ إنه ليس للزينة فقط؛ بل يعادل ضغط الهواء بداخل القلم للحفاظ على تدفق الحبر بسلاسة."
   },
   "reel_hook": {
-    "tr": "Uçak penceresindeki o delik düşündüğünüzden çok daha kritik!",
-    "en": "That tiny hole in your airplane window is way more critical than you think!",
-    "es": "¡Ese pequeño agujero en la ventanilla del avión es mucho más crucial de lo que crees!",
-    "ar": "هذا الثقب الصغير في نافذة طائرتك أكثر أهمية بكثير مما تتخيل!"
+    "tr": "Tükenmez kalemin arkasındaki o deliğin neden orada olduğunu biliyor musunuz?",
+    "en": "Do you know why that hole in the back of your pen is there?",
+    "es": "¿Sabes por qué está ese agujero en la parte trasera de tu bolígrafo?",
+    "ar": "هل تعلم لماذا يوجد هذا الثقب في خلفية قلمك؟"
   },
   "story_question": {
-    "tr": "Uçak pencerelerindeki bu küçük deliğin temel amacı sizce nedir?",
-    "en": "What do you think is the main purpose of this tiny hole in airplane windows?",
-    "es": "¿Cuálcrees que es el propósito principal de este pequeño agujero en las ventanillas de los aviones?",
-    "ar": "برأيك، ما هو الغرض الرئيسي من هذا الثقب الصغير في نوافذ الطائرات؟"
+    "tr": "Sizce tükenmez kalemdeki bu delik ne işe yarıyor?",
+    "en": "What do you think the hole in a ballpoint pen is for?",
+    "es": "¿Para quécrees que sirve el agujero en un bolígrafo?",
+    "ar": "برأيك ما فائدة هذا الثقب في القلم؟"
   },
   "story_options": [
-    "Basıncı dengelemek",
-    "Hava akışı sağlamak",
-    "Sesi azaltmak"
+    "Hava basıncını eşitlemek",
+    "Mürekkebi doldurmak",
+    "Nefes almayı sağlamak"
   ],
   "hashtags": [
     "#FactBite",
-    "#havacilik",
-    "#teknoloji",
     "#bilgi",
-    "#ilgincbilgiler",
-    "#ucak",
-    "#bilim"
+    "#ilginçbilgiler",
+    "#teknoloji",
+    "#keşfet",
+    "#pratikbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Federal Aviation Administration",
-    "url": "https://www.faa.gov"
+    "name": "BIC",
+    "url": "https://www.bic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uçak Pencerelerindeki O Küçük Delik Ne İşe Yarar?",
+  "_topic": "Tükenmez Kalemlerin Arkasındaki Küçük Delik",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-19T17:36:55.019234+00:00",
+  "generated_at": "2026-10-19T19:00:27.346241+00:00",
   "topic_guard_days": 180
 }

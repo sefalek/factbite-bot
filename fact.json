@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Asansörlerdeki O Aynalar Neden Var?",
-    "body": "Asansöre bindiğinizde aynaya bakmak alışkanlıktır. Peki bu aynaların sadece saçınızı düzeltmek için orada olduğunu mu sanıyorsunuz? Asıl sebep tamamen psikolojik: Asansörün hareket ederken yarattığı o sıkışmışlık ve klostrofobi hissinden sizi uzaklaştırmak. Beyniniz aynadaki genişlik illüzyonuna odaklanarak zamanın daha hızlı geçtiğini hisseder ve o dar alan korkusunu unutarak rahatlar."
+    "headline": "Klavye Tuşlarındaki Gizli Sır",
+    "body": "Klavyedeki F ve J harflerinin üzerinde neden küçük birer kabarıklık olduğunu hiç merak ettiniz mi? Bu minik çıkıntılar tamamen dokunma hissiyatı için tasarlanmıştır. Onlar sayesinde klavyeye bakmadan, iki elinizin de işaret parmağını doğru yere koyarak hızlıca yazmaya başlayabilirsiniz."
   },
   "en": {
-    "headline": "Why Are There Mirrors in Elevators?",
-    "body": "Looking in the mirror when stepping into an elevator is a habit. But do you think they are only there to fix your hair? The real reason is purely psychological: to distract you from the cramped and claustrophobic feeling of the elevator moving. Your brain focuses on the illusion of space in the mirror, making time feel faster and helping you forget the fear of tight spaces."
+    "headline": "The Secret on Your Keyboard",
+    "body": "Have you ever wondered why the F and J keys on a keyboard have tiny bumps on them? These small ridges are designed entirely for tactile feedback. Thanks to them, you can start typing quickly without looking at the keyboard by simply placing your index fingers in the right spot."
   },
   "es": {
-    "headline": "¿Por qué hay espejos en los ascensores?",
-    "body": "Mirarse al espejo al entrar en un ascensor es un hábito. ¿Pero crees que solo están ahí para arreglarte el cabello? La verdadera razón es puramente psicológica: distraerte de la sensación de encierro y claustrofobia al moverse. Tu cerebro se concentra en la ilusión de amplitud del espejo, haciendo que el tiempo pase más rápido y olvidando el miedo al espacio reducido."
+    "headline": "El secreto en las teclas de tu teclado",
+    "body": "¿Alguna vez te has preguntado por qué las teclas F y J del teclado tienen pequeñas protuberancias? Estas diminutas crestas están diseñadas completamente para el tacto. Gracias a ellas, puedes empezar a escribir rápido sin mirar el teclado colocando los dedos índice en el lugar correcto."
   },
   "ar": {
-    "headline": "لماذا توجد مرايا في المصاعد؟",
-    "body": "النظر في المرآة عند دخول المصعد هو عادة. ولكن هل تعتقد أنها موجودة فقط لتعديل شعرك؟ السبب الحقيقي نفس صرف: إلهاء شعورك بالضيق ورهاب الأماكن المغلقة أثناء حركة المصعد. يركز عقلك على وهم الاتساع في المرآة، مما يجعل الوقت يبدو أسرع ويساعدك على نسيان الخوف من الأماكن الضيقة."
+    "headline": "السر الخفي في أزرار لوحة المفاتيح",
+    "body": "هل فكرت يومًا في سبب وجود نتوءات صغيرة على حرفي F و J في لوحة المفاتيح؟ هذه العلامات البارزة مصممة خصيصًا لمساعدتك على الكتابة باللمس دون الحاجة للظن أو النظر."
   },
   "reel_hook": {
-    "tr": "Asansördeki aynaların saçınızı düzeltmekten çok daha gizli bir görevi var.",
-    "en": "Mirrors in elevators have a much more secret job than fixing your hair.",
-    "es": "Los espejos en los ascensores tienen una función mucho más secreta que arreglarte el cabello.",
-    "ar": "المرايا في المصاعد لها وظيفة سرية أكثر بكثير من مجرد تعديل شعرك."
+    "tr": "Klavyeye bakmadan nasıl bu kadar hızlı yazabiliyorsunuz sanıyorsunuz?",
+    "en": "How do you think you can type this fast without looking at the keyboard?",
+    "es": "¿Cómo crees que puedes escribir tan rápido sin mirar el teclado?",
+    "ar": "كيف تعتقد أنك يمكنك الكتابة بهذه السرعة دون النظر إلى لوحة المفاتيح؟"
   },
   "story_question": {
-    "tr": "Sizce asansör aynaları ilk olarak ne amaçla konulmuştur?",
-    "en": "Why do you think elevator mirrors were first installed?",
-    "es": "¿Para qué crees que se instalaron por primera vez los espejos en los ascensores?",
-    "ar": "برأيك، ما هو الغرض الأساسي من وضع المرايا في المصاعد لأول مرة؟"
+    "tr": "Klavyedeki bu çıkıntılı tuşları daha önce fark etmiş miydiniz?",
+    "en": "Did you notice these bumped keys on the keyboard before?",
+    "es": "¿Habías notado estas teclas con relieve en el teclado antes?",
+    "ar": "هل لاحظت هذه الأزرار البارزة على لوحة المفاتيح من قبل؟"
   },
   "story_options": [
-    "Dekorasyon için",
-    "Klostrofobiyi önlemek için",
-    "Güvenlik kameralarını gizlemek için"
+    "Evet, her zaman kullanıyorum",
+    "Hayır, yeni öğrendim",
+    "Dikkat etmemiştim"
   ],
   "hashtags": [
     "#FactBite",
-    "#asansör",
-    "#psikoloji",
+    "#teknoloji",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#bilim",
-    "#günlükhayat",
-    "#keşfet"
+    "#klavye",
+    "#pratikbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع بهذه المعلومة لأول مرة!"
+    "tr": "Bunun gibi daha fazla ilginç detay için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting details like this!",
+    "es": "¡No olvides seguirnos para más detalles interesantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من التفاصيل المثيرة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 9,
+    "surprise": 8,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Popular Science",
-    "url": "https://www.popsci.com"
+    "name": "QWERTY Keyboard Design History",
+    "url": "https://www.keyboardco.com/blog/index.php/2012/12/why-do-f-and-j-keys-have-bumps/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Asansörlerdeki O Aynalar Neden Var?",
+  "_topic": "Klavye Tuşlarındaki Gizli Sır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-19T22:51:08.699508+00:00",
+  "generated_at": "2026-10-19T23:57:37.453712+00:00",
   "topic_guard_days": 180
 }

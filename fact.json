@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tükenmez Kalemlerin Arkasındaki Küçük Delik",
-    "body": "Hiç tükenmez kalemin gövdesindeki o minik deliği fark ettiniz mi? Sadece süs değil; kalemin içindeki hava basıncını eşitleyerek mürekkebin akmasını sağlayan hayati bir detaydır."
+    "headline": "Gömleklerin Arka Kısmındaki O Küçük Halka Neden Var?",
+    "body": "Gömleklerin sırtında yer alan o kumaş halkanın dekoratif olduğunu düşünüyorsanız yanılıyorsunuz. 1960'larda Doğu Yakası'ndaki üniversite öğrencilerinin dolapları olmadığı için ceketlerini ve gömleklerini kancalara asabilmesi amacıyla tasarlanmıştı. Hatta bir dönem kolej ilişkilerinde de oldukça popülerdi."
   },
   "en": {
-    "headline": "The Tiny Hole in Ballpoint Pens",
-    "body": "Have you ever noticed that tiny hole in the barrel of a ballpoint pen? It is not just for decoration; it equalizes air pressure inside the pen to keep the ink flowing smoothly."
+    "headline": "Why Is There That Small Loop on the Back of Shirts?",
+    "body": "If you think that fabric loop on the back of shirts is just decorative, you're mistaken. In the 1960s, East Coast college students didn't have lockers, so it was designed to hang shirts and jackets on hooks. It even became quite popular in college dating culture for a time."
   },
   "es": {
-    "headline": "El Pequeño Agujero en los Bolígrafos",
-    "body": "¿Alguna vez has notado ese pequeño agujero en el cuerpo de un bolígrafo? No es solo por decoración; equilibra la presión del aire en el interior para mantener la tinta fluyendo."
+    "headline": "¿Por qué hay esa pequeña presilla en la espalda de las camisas?",
+    "body": "Si crees que esa presilla de tela en la espalda de las camisas es solo decorativa, te equivocas. En la década de 1960, los estudiantes universitarios de la Costa Este no tenían casilleros, por lo que fue diseñada para colgar camisas y chaquetas en ganchos. Incluso se volvió bastante popular en la cultura de citas universitarias durante un tiempo."
   },
   "ar": {
-    "headline": "الثقب الصغير في أقلام الحبر الجاف",
-    "body": "هل لاحظت يوماً ذلك الثقب الصغير في جسم قلم الحبر الجاف؟ إنه ليس للزينة فقط؛ بل يعادل ضغط الهواء بداخل القلم للحفاظ على تدفق الحبر بسلاسة."
+    "headline": "لماذا توجد تلك العروة الصغيرة على ظهر القمصان؟",
+    "body": "إذا كنت تعتقد أن تلك العروة القماشية على ظهر القمصان للزينة فقط، فأنت مخطئ. في ستينيات القرن الماضي، لم يكن لدى طلاب الجامعات في الساحل الشرقي خزائن، لذا صُممت لتعليق القمصان والستات على الخطافات. بل وأصبحت شائعة جداً في ثقافة المواعدة الجامعية لفترة من الزمن."
   },
   "reel_hook": {
-    "tr": "Tükenmez kalemin arkasındaki o deliğin neden orada olduğunu biliyor musunuz?",
-    "en": "Do you know why that hole in the back of your pen is there?",
-    "es": "¿Sabes por qué está ese agujero en la parte trasera de tu bolígrafo?",
-    "ar": "هل تعلم لماذا يوجد هذا الثقب في خلفية قلمك؟"
+    "tr": "Gömleğinizin sırtındaki o minik halkanın asıl ne için olduğunu biliyor musunuz?",
+    "en": "Do you know what that tiny loop on the back of your shirt is actually for?",
+    "es": "¿Sabes para qué sirve realmente esa pequeña presilla en la espalda de tu camisa?",
+    "ar": "هل تعلم ما هو الغرض الحقيقي من تلك العروة الصغيرة على ظهر قميصك؟"
   },
   "story_question": {
-    "tr": "Sizce tükenmez kalemdeki bu delik ne işe yarıyor?",
-    "en": "What do you think the hole in a ballpoint pen is for?",
-    "es": "¿Para quécrees que sirve el agujero en un bolígrafo?",
-    "ar": "برأيك ما فائدة هذا الثقب في القلم؟"
+    "tr": "Gömleklerindeki bu halkayı kimlerin popülerleştirdiği biliniyor?",
+    "en": "Who is known for popularizing this loop on shirts?",
+    "es": "¿Quiénes popularizaron esta presilla en las camisas?",
+    "ar": "من المعروف أنه نشر هذه العروة على القمصان؟"
   },
   "story_options": [
-    "Hava basıncını eşitlemek",
-    "Mürekkebi doldurmak",
-    "Nefes almayı sağlamak"
+    "Üniversite öğrencileri",
+    "Askerler",
+    "Terziler"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
+    "#gömlek",
+    "#moda",
     "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#pratikbilgiler"
+    "#tarih",
+    "#giyim",
+    "#biliyormusunuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Benzer şaşırtıcı detaylar için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more surprising details!",
+    "es": "¡No olvides seguirnos para más detalles sorprendentes!",
+    "ar": "لا تنس المتابعة للمزيد من التفاصيل المدهشة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "BIC",
-    "url": "https://www.bic.com"
+    "name": "GQ / clothing history archives",
+    "url": "https://www.gq.com/story/locker-loop-shirt-history"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tükenmez Kalemlerin Arkasındaki Küçük Delik",
+  "_topic": "Gömleklerin Arka Kısmındaki O Küçük Halka Neden Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-19T19:00:27.346241+00:00",
+  "generated_at": "2026-10-19T20:26:15.116471+00:00",
   "topic_guard_days": 180
 }

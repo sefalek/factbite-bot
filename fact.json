@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kot Pantolonlardaki O Küçük Cepler Aslında Ne İçin Var?",
-    "body": "Kot pantolonların sağ ön cebindeki o minicik cep dikkatinizi çekti mi? Kotların atası sayılan ilk modellerde bu cep, madeni para ya da anahtar koymak için değil, o dönemin popüler aksesuarı olan cep saatlerini korumak için tasarlanmıştı. Yıllar geçse de bu klasik detay modaya direnmeye devam ediyor."
+    "headline": "Çorapların burnundaki o gizli dikiş",
+    "body": "Çoğumuz çorapları ters çevirip giyeriz ya da o dikiş parmaklarımızı rahatsız eder diye düşünürüz. Aslında o dikiş, çorabın ucunun sökülmesini engellemek için atılan özel bir kördüğümdür. Ancak teknolojinin gelişmesine rağmen makineler o sonucu elle bağlamak zorundadır."
   },
   "en": {
-    "headline": "What Are Those Tiny Pockets on Jeans Actually For?",
-    "body": "Have you ever noticed that tiny pocket inside the front pocket of your jeans? On the earliest models, it wasn't meant for coins or keys—it was originally designed to protect pocket watches, which were extremely popular back then. Even after all these years, this classic detail refuses to disappear from fashion."
+    "headline": "The hidden seam on your socks",
+    "body": "Most of us think that toe seam is just there or bothers our toes. Actually, it is a special blind knot to prevent unraveling. Despite tech, machines still struggle to close that tip like hand-linking."
   },
   "es": {
-    "headline": "¿Para qué sirven realmente esos bolsillos pequeños en los vaqueros?",
-    "body": "¿Alguna vez has notado ese pequeñísimo bolsillo dentro del bolsillo delantero de tus vaqueros? En los primeros modelos, no se hizo para monedas o llaves, sino para proteger los relojes de bolsillo, que eran muy populares en aquella época. A pesar de los años, este detalle clásico sigue presente en la moda."
+    "headline": "La costura oculta en las puntas de los calcetines",
+    "body": "Muchos pensamos que esa costura está ahí por molestarnos. En realidad, es un nudo especial para evitar que se des hagan. A pesar de la tecnología, las máquinas aún imitan el cierre manual."
   },
   "ar": {
-    "headline": "ما هو الغرض الحقيقي من تلك الجيوب الصغيرة في الجينز؟",
-    "body": "هل لاحظت يوماً ذلك الجيب الصغير جداً داخل جيب بنطالك الجينز الأمامي؟ في النماذج الأولى، لم يُصمم للعملات المعدنية أو المفاتيح، بل وُضع خصيصاً لحماية ساعات الجيب التي كانت شائعة جداً في ذلك الوقت. وعلى الرغم من مرور السنوات، ما زالت هذه اللمسة الكلاسيكية موجودة حتى اليوم."
+    "headline": "الخياطة المخفية في مقدمة الجوارب",
+    "body": "يعتقد معظمنا أن خياطة أصابع الجوارب مزعجة فقط. في الواقع، هي عقدة خاصة لمنع التفكك. على الرغم من التكنولوجيا، لا تزال الآلات تواجه صعوبة في إغلاقها."
   },
   "reel_hook": {
-    "tr": "Kot pantolonunuzun o minik cebini hiç kullandınız mı?",
-    "en": "Have you ever actually used that tiny pocket on your jeans?",
-    "es": "¿Alguna vez has usado ese pequeño bolsillo de tus vaqueros?",
-    "ar": "هل استخدمت يوماً ذلك الجيب الصغير في بنطالك الجينز؟"
+    "tr": "Çorapların ucundaki o rahatsız edici dikiş neden var hiç düşündünüz mü?",
+    "en": "Have you ever wondered why that annoying seam is at the toe of your socks?",
+    "es": "¿Alguna vez te has preguntado por qué existe esa molesta costura en los calcetines?",
+    "ar": "هل فكرت يوماً لماذا توجد تلك الخياطة المزعجة في مقدمة جوربك؟"
   },
   "story_question": {
-    "tr": "Kot pantolonlardaki o küçük cep ilk olarak ne için üretilmişti?",
-    "en": "What was the tiny pocket on jeans originally made for?",
-    "es": "¿Para qué se creó originalmente el pequeño bolsillo de los vaqueros?",
-    "ar": "ما الهدف الأساسي من صنع الجيب الصغير في بنطال الجينز؟"
+    "tr": "Çoraplardaki parmak ucu dikişini ilk kimin bulduğunu tahmin edebilir misiniz?",
+    "en": "Can you guess who invented the toe seam on socks?",
+    "es": "¿Puedes adivinar quién inventó la costura de los calcetines?",
+    "ar": "هل يمكنك تخمن من اختراع خياطة أصابع الجوارب؟"
   },
   "story_options": [
-    "Cep saati taşımak",
-    "Kibrit saklamak",
-    "Bilet koymak"
+    "Antik Romalılar",
+    "Sanayi Devrimi Terzileri",
+    "El Örgüsü Geleneği"
   ],
   "hashtags": [
     "#FactBite",
-    "#moda",
+    "#çorap",
     "#ilginçbilgiler",
-    "#tarih",
-    "#giyim",
-    "#biliyormusunuz",
+    "#gündelikyaşam",
+    "#teknoloji",
+    "#bilgi",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı detay için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising details like this!",
-    "es": "¡No olvides seguirnos para más detalles sorprendentes como este!",
-    "ar": "لا تنس المتابعة للمزيد من التفاصيل المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla detay için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more details like this!",
+    "es": "¡No olvides seguirnos para más detalles como este!",
+    "ar": "لا تنس المتابعة للمزيد من التفاصيل مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.5
   },
   "source": {
-    "name": "Levi Strauss & Co. Archives",
-    "url": "https://www.levistrauss.com/"
+    "name": "Textile History and Manufacturing Insights",
+    "url": ""
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kot Pantolonlardaki O Küçük Cepler Aslında Ne İçin Var?",
+  "_topic": "Çorapların burnundaki o gizli dikiş",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-19T13:06:08.590235+00:00",
+  "generated_at": "2026-10-19T15:37:57.365103+00:00",
   "topic_guard_days": 180
 }

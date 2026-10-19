@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sol Kolunuz Neden Kalp Ağrısını Daha Yoğun Hissettirir?",
-    "body": "Kalp krizi sırasında sol kola vuran ağrı bir tesadüf değil. Kalpten ve sol koldan gelen sinirler omuriliğe aynı bölgeden bağlanır. Beyin, bu iki sinyali birbirinden ayırt edemez ve ağrıyı sol kolda hissedersiniz."
+    "headline": "Kot Pantolonlardaki O Küçük Cepler Aslında Ne İçin Var?",
+    "body": "Kot pantolonların sağ ön cebindeki o minicik cep dikkatinizi çekti mi? Kotların atası sayılan ilk modellerde bu cep, madeni para ya da anahtar koymak için değil, o dönemin popüler aksesuarı olan cep saatlerini korumak için tasarlanmıştı. Yıllar geçse de bu klasik detay modaya direnmeye devam ediyor."
   },
   "en": {
-    "headline": "Why Does Heart Pain Radiate Down Your Left Arm?",
-    "body": "The pain in the left arm during a heart attack is no coincidence. Nerves from the heart and the left arm connect to the exact same region in the spinal cord. The brain cannot distinguish between these two signals, making you feel the pain in your left arm."
+    "headline": "What Are Those Tiny Pockets on Jeans Actually For?",
+    "body": "Have you ever noticed that tiny pocket inside the front pocket of your jeans? On the earliest models, it wasn't meant for coins or keys—it was originally designed to protect pocket watches, which were extremely popular back then. Even after all these years, this classic detail refuses to disappear from fashion."
   },
   "es": {
-    "headline": "¿Por qué el dolor de corazón se irradia al brazo izquierdo?",
-    "body": "El dolor en el brazo izquierdo durante un ataque cardíaco no es coincidencia. Los nervios del corazón y del brazo izquierdo se conectan a la misma región de la médula espinal. El cerebro no puede distinguir entre ambas señales y sientes el dolor en el brazo."
+    "headline": "¿Para qué sirven realmente esos bolsillos pequeños en los vaqueros?",
+    "body": "¿Alguna vez has notado ese pequeñísimo bolsillo dentro del bolsillo delantero de tus vaqueros? En los primeros modelos, no se hizo para monedas o llaves, sino para proteger los relojes de bolsillo, que eran muy populares en aquella época. A pesar de los años, este detalle clásico sigue presente en la moda."
   },
   "ar": {
-    "headline": "لماذا ينتشر ألم القلب إلى الذراع اليسرى؟",
-    "body": "الألم في الذراع اليسرى أثناء نوبة قلبية ليس مصادفة. الأعصاب القادمة من القلب والذراع اليسرى تتصل بنفس المنطقة في الحبل الشوكي. الدماغ لا يمكنه التمييز بين الإشارتين، فتخال الألم في ذراعك."
+    "headline": "ما هو الغرض الحقيقي من تلك الجيوب الصغيرة في الجينز؟",
+    "body": "هل لاحظت يوماً ذلك الجيب الصغير جداً داخل جيب بنطالك الجينز الأمامي؟ في النماذج الأولى، لم يُصمم للعملات المعدنية أو المفاتيح، بل وُضع خصيصاً لحماية ساعات الجيب التي كانت شائعة جداً في ذلك الوقت. وعلى الرغم من مرور السنوات، ما زالت هذه اللمسة الكلاسيكية موجودة حتى اليوم."
   },
   "reel_hook": {
-    "tr": "Kalbiniz ağrırken neden sol kolunuz uyuşur?",
-    "en": "Why does your left arm go numb when your heart hurts?",
-    "es": "¿Por qué se adormece tu brazo izquierdo cuando te duele el corazón?",
-    "ar": "لماذا تنمل ذراعك اليسرى عندما يؤلمك قلبك؟"
+    "tr": "Kot pantolonunuzun o minik cebini hiç kullandınız mı?",
+    "en": "Have you ever actually used that tiny pocket on your jeans?",
+    "es": "¿Alguna vez has usado ese pequeño bolsillo de tus vaqueros?",
+    "ar": "هل استخدمت يوماً ذلك الجيب الصغير في بنطالك الجينز؟"
   },
   "story_question": {
-    "tr": "Bu sinir karmaşası vücudumuzun başka hangi bölgesinde görülür?",
-    "en": "In which other body part does this nerve confusion occur?",
-    "es": "¿En qué otra parte del cuerpo ocurre esta confusión de nervios?",
-    "ar": "في أي جزء آخر من الجسم يحدث هذا الخلط العصبي؟"
+    "tr": "Kot pantolonlardaki o küçük cep ilk olarak ne için üretilmişti?",
+    "en": "What was the tiny pocket on jeans originally made for?",
+    "es": "¿Para qué se creó originalmente el pequeño bolsillo de los vaqueros?",
+    "ar": "ما الهدف الأساسي من صنع الجيب الصغير في بنطال الجينز؟"
   },
   "story_options": [
-    "Sağ kol ve karaciğer",
-    "Omuz ve safra kesesi",
-    "Sağ bacak ve mide"
+    "Cep saati taşımak",
+    "Kibrit saklamak",
+    "Bilet koymak"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#sağlık",
-    "#anatomi",
-    "#vücudumuz",
+    "#moda",
     "#ilginçbilgiler",
-    "#tıp"
+    "#tarih",
+    "#giyim",
+    "#biliyormusunuz",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu kimin bilmesi gerekiyor? Yorumlarda etiketle!",
-    "en": "Who needs to know this? Tag them in the comments!",
-    "es": "¡¿Quién necesita saber esto? ¡Etiquétalos en los comentarios!",
-    "ar": "من يحتاج لمعرفة هذا؟ قم بالإشارة إليه في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı detay için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising details like this!",
+    "es": "¡No olvides seguirnos para más detalles sorprendentes como este!",
+    "ar": "لا تنس المتابعة للمزيد من التفاصيل المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "American Heart Association",
-    "url": "https://www.heart.org"
+    "name": "Levi Strauss & Co. Archives",
+    "url": "https://www.levistrauss.com/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Sol Kolunuz Neden Kalp Ağrısını Daha Yoğun Hissettirir?",
+  "_topic": "Kot Pantolonlardaki O Küçük Cepler Aslında Ne İçin Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-19T10:45:42.516616+00:00",
+  "generated_at": "2026-10-19T13:06:08.590235+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,70 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çakmakların Üzerindeki O Garip Sır",
-    "body": "Çoğumuz çakmakların sadece gazla çalıştığını sanır ama içindeki o küçük metal parça hayat kurtarıcı bir detay saklar."
+    "headline": "Trafik Lambalarının O Gizli Delikleri",
+    "body": "Trafik lambalarında rüzgardan devrilmesin diye küçük kapaklar bulunur; bu delikler rüzgarın geçmesine izin vererek yapının sağlam kalmasını sağlar."
   },
   "en": {
-    "headline": "The Strange Secret on Lighters",
-    "body": "Most of us think lighters only run on gas, but that tiny metal piece inside hides a lifesaving detail."
+    "headline": "The Hidden Vents in Traffic Lights",
+    "body": "Traffic lights have small vents to prevent them from tipping over in the wind; these holes allow wind to pass through, keeping the structure stable."
   },
   "es": {
-    "headline": "El extraños secreto en los encendedores",
-    "body": "La mayoría pensamos que los encededores funcionan solo con gas, pero esa pequeña pieza de metal esconde un detalle salvavidas."
+    "headline": "Los agujeros ocultos en los semáforos",
+    "body": "Los semáforos tienen pequeñas aberturas para evitar que el viento los derribe; estos agujeros permiten que el viento pase, manteniendo la estructura estable."
   },
   "ar": {
-    "headline": "السر الغريب في الولاعات",
-    "body": "معظمنا يعتقد أن الولاعات تعمل بالغاز فقط، لكن تلك القطعة المعدنية الصغبرة تخفي تفصيلاً منقذاً للحياة."
+    "headline": "الثقوب المخفية في إشارات المرور",
+    "body": "تحتوي إشارات المرور على فتحات صغيرة لمنعها من الانقلاب بفعل الرياح؛ فهي تسمح بمرور الهواء للحفاظ على استقرار الهيكل."
   },
   "reel_hook": {
-    "tr": "Çakmağınızı çevirin ve o küçük metal parçaya dikkatlice bakın.",
-    "en": "Flip your lighter over and look closely at that tiny metal piece.",
-    "es": "Voltea tu encendedor y mira de cerca esa pequeña pieza de metal.",
-    "ar": "اقلب ولاعتك ونظر عن قرب إلى تلك القطعة المعدنية الصغيرة."
+    "tr": "Trafik ışıklarının arkasında neden o delikler var hiç dikkat ettiniz mi?",
+    "en": "Have you ever noticed why there are those holes behind traffic lights?",
+    "es": "¿Alguna vez has notado por qué hay esos agujeros detrás de los semáforos?",
+    "ar": "هل لاحظت من قبل سبب وجود تلك الثقوب خلف إشارات المرور؟"
   },
   "story_question": {
-    "tr": "Çakmağın çarkının yanındaki o metal parça ne işe yarar?",
-    "en": "What is that metal piece next to the lighter wheel for?",
-    "es": "¿Para qué sirve esa pieza de metal al lado de la rueda del encendedor?",
-    "ar": "ما فائدة تلك القطعة المعدنية بجانب عجلة الولاعة؟"
+    "tr": "Trafik lambalarındaki bu deliklerin asıl amacı sizce nedir?",
+    "en": "What do you think is the main purpose of these holes in traffic lights?",
+    "es": "¿Cuálcrees que es el propósito principal de estos agujeros en los semáforos?",
+    "ar": "برأيك ما هو الغرض الأساسي من هذه الثقوب في إشارات المرور؟"
   },
   "story_options": [
-    "Alev ayarı",
-    "Güvenlik kilidi",
-    "Taş değişimi"
+    "Rüzgar direncini azaltmak",
+    "Kabloları soğutmak",
+    "Yağmur suyunu tahliye etmek"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginç",
-    "#pratik",
-    "#keşfet",
     "#bilim",
+    "#ilginçbilgiler",
+    "#teknoloji",
+    "#keşfet",
+    "#faydalıbilgiler",
     "#gündem"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyduysan beğen ve takip et!",
-    "en": "If you heard this for the first time, like and follow!",
-    "es": "Si escuchaste esto por primera vez, ¡dale a me gusta y síguenos!",
-    "ar": "إذا سمعت هذا لأول مرة، اضغط إعجاب وتابعنا!"
+    "tr": "Bunun gibi daha fazla ilginç detay için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting details like this!",
+    "es": "¡No olvides seguirnos para más detalles interesantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من التفاصيل المثيرة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "10": 10,
+    "clarity": 10,
+    "overall": 9.4
   },
   "source": {
-    "name": "Bic Design History",
-    "url": "https://www.bic.com"
+    "name": "Federal Highway Administration",
+    "url": "https://mutcd.fhwa.dot.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çakmakların Üzerindeki O Garip Sır",
+  "_topic": "Trafik Lambalarının O Gizli Delikleri",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-20T15:44:17.776454+00:00",
+  "generated_at": "2026-10-20T19:00:57.209535+00:00",
   "topic_guard_days": 180
 }

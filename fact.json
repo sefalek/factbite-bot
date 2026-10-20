@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Klavye Tuşlarındaki Gizli Sır",
-    "body": "Klavyedeki F ve J harflerinin üzerinde neden küçük birer kabarıklık olduğunu hiç merak ettiniz mi? Bu minik çıkıntılar tamamen dokunma hissiyatı için tasarlanmıştır. Onlar sayesinde klavyeye bakmadan, iki elinizin de işaret parmağını doğru yere koyarak hızlıca yazmaya başlayabilirsiniz."
+    "headline": "Tetris Oynamanın Beklenmeyen Zihinsel Etkisi",
+    "body": "Travmatik bir olay yaşadıktan sonra saatler içinde Tetris oynamak, beynin o anıyı işle biçimini değiştirerek istenmeyen Flashback'leri (anı parlamalarını) büyük ölçüde azaltabiliyor. Görsel-uzamsal bulmacalar zihni meşgul ederek travmatik hafızanın sağlamlaşmasını engelliyor."
   },
   "en": {
-    "headline": "The Secret on Your Keyboard",
-    "body": "Have you ever wondered why the F and J keys on a keyboard have tiny bumps on them? These small ridges are designed entirely for tactile feedback. Thanks to them, you can start typing quickly without looking at the keyboard by simply placing your index fingers in the right spot."
+    "headline": "The Unexpected Mental Effect of Playing Tetris",
+    "body": "Playing Tetris within hours after a traumatic event can significantly reduce unwanted flashbacks by changing how the brain processes that memory. Visuo-spatial puzzles keep the mind busy and prevent the traumatic memory from consolidating."
   },
   "es": {
-    "headline": "El secreto en las teclas de tu teclado",
-    "body": "¿Alguna vez te has preguntado por qué las teclas F y J del teclado tienen pequeñas protuberancias? Estas diminutas crestas están diseñadas completamente para el tacto. Gracias a ellas, puedes empezar a escribir rápido sin mirar el teclado colocando los dedos índice en el lugar correcto."
+    "headline": "El inesperado efecto mental de jugar a Tetris",
+    "body": "Jugar a Tetris pocas horas después de un evento traumático puede reducir significativamente los flashbacks no deseados al cambiar cómo el cerebro procesa ese recuerdo. Los acertijos visuales y espaciales mantienen la mente ocupada y evitan que la memoria traumática se consolide."
   },
   "ar": {
-    "headline": "السر الخفي في أزرار لوحة المفاتيح",
-    "body": "هل فكرت يومًا في سبب وجود نتوءات صغيرة على حرفي F و J في لوحة المفاتيح؟ هذه العلامات البارزة مصممة خصيصًا لمساعدتك على الكتابة باللمس دون الحاجة للظن أو النظر."
+    "headline": "التأثير العقلي غير المتوقع لعبد لعبة تتريس",
+    "body": "يمكن أن يؤدي لعب تتريس في غضون ساعات بعد حدث صادم إلى تقليل ذكريات الماضي غير المرغوب فيها بشكل كبير عن طريق تغيير طريقة معالجة الدماغ لتلك الذاكرة. تشغل الألغاز المرئية والمكانية العقل وتمنع ترسيخ الذاكرة المؤلمة."
   },
   "reel_hook": {
-    "tr": "Klavyeye bakmadan nasıl bu kadar hızlı yazabiliyorsunuz sanıyorsunuz?",
-    "en": "How do you think you can type this fast without looking at the keyboard?",
-    "es": "¿Cómo crees que puedes escribir tan rápido sin mirar el teclado?",
-    "ar": "كيف تعتقد أنك يمكنك الكتابة بهذه السرعة دون النظر إلى لوحة المفاتيح؟"
+    "tr": "Travmatik bir olayın etkisini sadece bir video oyunuyla azaltabileceğinizi biliyor muydunuz?",
+    "en": "Did you know you can reduce the impact of a traumatic event with just a video game?",
+    "es": "¿Sabías que puedes reducir el impacto de un evento traumático con solo un videojuego?",
+    "ar": "هل كنت تعلم أنه يمكنك تقليل تأثير حدث صادم باستخدام لعبة فيديو فقط؟"
   },
   "story_question": {
-    "tr": "Klavyedeki bu çıkıntılı tuşları daha önce fark etmiş miydiniz?",
-    "en": "Did you notice these bumped keys on the keyboard before?",
-    "es": "¿Habías notado estas teclas con relieve en el teclado antes?",
-    "ar": "هل لاحظت هذه الأزرار البارزة على لوحة المفاتيح من قبل؟"
+    "tr": "Sizce beynin hafızayı kaydetme sürecini hangi basit aktivite değiştirebilir?",
+    "en": "Which simple activity do you think can change how the brain records memory?",
+    "es": "¿Qué actividad simple crees que puede cambiar cómo el cerebro registra la memoria?",
+    "ar": "ما النشاط البسيط برأيك الذي يمكن أن يغير طريقة تسجيل الدماغ للذاكرة؟"
   },
   "story_options": [
-    "Evet, her zaman kullanıyorum",
-    "Hayır, yeni öğrendim",
-    "Dikkat etmemiştim"
+    "Tetris oynamak",
+    "Kitap okumak",
+    "Müzik dinlemek"
   ],
   "hashtags": [
     "#FactBite",
-    "#teknoloji",
-    "#bilgi",
+    "#bilim",
+    "#psikoloji",
+    "#tetris",
+    "#beyin",
     "#ilginçbilgiler",
-    "#klavye",
-    "#pratikbilgiler"
+    "#araştırma"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç detay için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting details like this!",
-    "es": "¡No olvides seguirnos para más detalles interesantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من التفاصيل المثيرة مثل هذه!"
+    "tr": "Bunun gibi şaşırtıcı bilimsel gerçekler için bizi takip etmeyi unutmayın!",
+    "en": "Don't forget to follow us for more surprising scientific facts like this!",
+    "es": "¡No olvides seguirnos para más datos científicos sorprendentes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق العلمية المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 8,
-    "clarity": 10,
+    "surprise": 9,
+    "shareability": 9,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "QWERTY Keyboard Design History",
-    "url": "https://www.keyboardco.com/blog/index.php/2012/12/why-do-f-and-j-keys-have-bumps/"
+    "name": "Oxford University / Molecular Psychiatry",
+    "url": "https://www.nature.com/articles/mp201723"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Klavye Tuşlarındaki Gizli Sır",
+  "_topic": "Tetris Oynamanın Beklenmeyen Zihinsel Etkisi",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-19T23:57:37.453712+00:00",
+  "generated_at": "2026-10-20T13:35:47.054174+00:00",
   "topic_guard_days": 180
 }

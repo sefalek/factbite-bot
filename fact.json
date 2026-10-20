@@ -1,70 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Trafik Lambalarının O Gizli Delikleri",
-    "body": "Trafik lambalarında rüzgardan devrilmesin diye küçük kapaklar bulunur; bu delikler rüzgarın geçmesine izin vererek yapının sağlam kalmasını sağlar."
+    "headline": "Kilitlerin Altındaki O Küçük Delik",
+    "body": "Asma kilitlerin altındaki o minik deliğin sadece su akıtmak için olduğunu düşünüyorsanız yanılıyorsunuz. Asıl amacı, kilit kışın donduğunda içine yağ damlatılarak kolayca açılmasını sağlamaktır."
   },
   "en": {
-    "headline": "The Hidden Vents in Traffic Lights",
-    "body": "Traffic lights have small vents to prevent them from tipping over in the wind; these holes allow wind to pass through, keeping the structure stable."
+    "headline": "The Tiny Hole Under Padlocks",
+    "body": "If you think the tiny hole under padlocks is just for draining water, you are wrong. Its main purpose is to allow oil to be dropped inside to easily open it when it freezes in winter."
   },
   "es": {
-    "headline": "Los agujeros ocultos en los semáforos",
-    "body": "Los semáforos tienen pequeñas aberturas para evitar que el viento los derribe; estos agujeros permiten que el viento pase, manteniendo la estructura estable."
+    "headline": "El Pequeño Agujero Debajo de los Candados",
+    "body": "Si crees que el pequeño agujero debajo de los candados es solo para drenar agua, te equivocas. Su propósito principal es permitir verter aceite dentro para abrirlo fácilmente cuando se congela en invierno."
   },
   "ar": {
-    "headline": "الثقوب المخفية في إشارات المرور",
-    "body": "تحتوي إشارات المرور على فتحات صغيرة لمنعها من الانقلاب بفعل الرياح؛ فهي تسمح بمرور الهواء للحفاظ على استقرار الهيكل."
+    "headline": "الفتحة الصغيرة تحت الأقفال",
+    "body": "إذا كنت تعتقد أن الفتحة الصغيرة تحت الأقفال مخصصة فقط لتصريف المياه، فأنت مخطئ. غرضها الأساسي هو السماح بقطر الزيت للداخل لفتحها بسهولة عندما تتجمد في الشتاء."
   },
   "reel_hook": {
-    "tr": "Trafik ışıklarının arkasında neden o delikler var hiç dikkat ettiniz mi?",
-    "en": "Have you ever noticed why there are those holes behind traffic lights?",
-    "es": "¿Alguna vez has notado por qué hay esos agujeros detrás de los semáforos?",
-    "ar": "هل لاحظت من قبل سبب وجود تلك الثقوب خلف إشارات المرور؟"
+    "tr": "Asma kilitlerin altındaki o deliğin neden orada olduğunu biliyor musunuz?",
+    "en": "Do you know why that hole under padlocks is there?",
+    "es": "¿Sabes por qué está ese agujero debajo de los candados?",
+    "ar": "هل تعلم لماذا توجد تلك الفتحة تحت الأقفال؟"
   },
   "story_question": {
-    "tr": "Trafik lambalarındaki bu deliklerin asıl amacı sizce nedir?",
-    "en": "What do you think is the main purpose of these holes in traffic lights?",
-    "es": "¿Cuálcrees que es el propósito principal de estos agujeros en los semáforos?",
-    "ar": "برأيك ما هو الغرض الأساسي من هذه الثقوب في إشارات المرور؟"
+    "tr": "Asma kilitlerin altındaki deliğin ana işlevi nedir?",
+    "en": "What is the main function of the hole under padlocks?",
+    "es": "¿Cuál es la función principal del agujero debajo de los candados?",
+    "ar": "ما هي الوظيفة الرئيسية للفتحة تحت الأقفال؟"
   },
   "story_options": [
-    "Rüzgar direncini azaltmak",
-    "Kabloları soğutmak",
-    "Yağmur suyunu tahliye etmek"
+    "Yağlama ve su tahliyesi",
+    "Kilidin ağırlığını azaltmak",
+    "Üretim sırasında havalandırma"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
+    "#kilit",
+    "#bilgi",
+    "#pratikbilgiler",
+    "#ilginç",
     "#teknoloji",
-    "#keşfet",
-    "#faydalıbilgiler",
-    "#gündem"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç detay için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting details like this!",
-    "es": "¡No olvides seguirnos para más detalles interesantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من التفاصيل المثيرة مثل هذه!"
+    "tr": "Bunun gibi daha fazla günlük sırrı kaçırmamak için takip et!",
+    "en": "Follow so you don't miss more daily secrets like this!",
+    "es": "¡Sígueme para no perderte más secretos diarios como este!",
+    "ar": "اتبعني حتى لا تفوتك المزيد من الأسرار اليومية مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "10": 10,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.4
+    "overall": 9
   },
   "source": {
-    "name": "Federal Highway Administration",
-    "url": "https://mutcd.fhwa.dot.gov/"
+    "name": "Hardware Retailing",
+    "url": "https://www.hardwareretailing.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Trafik Lambalarının O Gizli Delikleri",
+  "_topic": "Kilitlerin Altındaki O Küçük Delik",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-20T19:00:57.209535+00:00",
+  "generated_at": "2026-10-20T20:28:58.239370+00:00",
   "topic_guard_days": 180
 }

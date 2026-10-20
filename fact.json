@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kilitlerin Altındaki O Küçük Delik",
-    "body": "Asma kilitlerin altındaki o minik deliğin sadece su akıtmak için olduğunu düşünüyorsanız yanılıyorsunuz. Asıl amacı, kilit kışın donduğunda içine yağ damlatılarak kolayca açılmasını sağlamaktır."
+    "headline": "Kurşun Kalemlerin İçindeki Gizli Madde",
+    "body": "Okulda hepimiz kurşun kalem kullandık ama adının aksine içinde tek bir gram bile kurşun yok. Aslında o siyah kısım, tamamen karbon atomlarından oluşan grafit ve kil karışımıdır. Yani kaleminize her baktığınızda, elinizde toksik bir metal değil, elmasın akrabası olan saf bir element tutuyorsunuz."
   },
   "en": {
-    "headline": "The Tiny Hole Under Padlocks",
-    "body": "If you think the tiny hole under padlocks is just for draining water, you are wrong. Its main purpose is to allow oil to be dropped inside to easily open it when it freezes in winter."
+    "headline": "The Hidden Material Inside Pencils",
+    "body": "We all used pencils in school, but despite the name, there isn't a single gram of lead inside. That dark core is actually a mixture of graphite and clay made entirely of carbon atoms. Every time you look at your pencil, you're holding pure carbon, a close relative of diamond."
   },
   "es": {
-    "headline": "El Pequeño Agujero Debajo de los Candados",
-    "body": "Si crees que el pequeño agujero debajo de los candados es solo para drenar agua, te equivocas. Su propósito principal es permitir verter aceite dentro para abrirlo fácilmente cuando se congela en invierno."
+    "headline": "El material oculto dentro de los lápices",
+    "body": "Todos usamos lápices en la escuela, pero a pesar de su nombre, no contienen ni un solo gramo de plomo. Esa parte oscura es en realidad una mezcla de grafito y arcilla hecha completamente de átomos de carbono. Cada vez que miras tu lápiz, sostienes carbono puro, un pariente cercano del diamante."
   },
   "ar": {
-    "headline": "الفتحة الصغيرة تحت الأقفال",
-    "body": "إذا كنت تعتقد أن الفتحة الصغيرة تحت الأقفال مخصصة فقط لتصريف المياه، فأنت مخطئ. غرضها الأساسي هو السماح بقطر الزيت للداخل لفتحها بسهولة عندما تتجمد في الشتاء."
+    "headline": "المادة الخفية داخل أقلام الرصاص",
+    "body": "استخدمنا جميعاً أقلام الرصاص في المدرسة، ولكن على عكس اسمها، لا يوجد فيها جرام واحد من الرصاص. هذا الجزء الداكن هو في الواقع مزيج من الجرافيت والصلصال المكون بالكامل من ذرات الكربون. في كل مرة تنظر فيها إلى قلمك، أنت تحرص على حمل كربون نقي، وهو قريب جداً للماس."
   },
   "reel_hook": {
-    "tr": "Asma kilitlerin altındaki o deliğin neden orada olduğunu biliyor musunuz?",
-    "en": "Do you know why that hole under padlocks is there?",
-    "es": "¿Sabes por qué está ese agujero debajo de los candados?",
-    "ar": "هل تعلم لماذا توجد تلك الفتحة تحت الأقفال؟"
+    "tr": "Kurşun kaleminizde aslında hiç kurşun olmadığını biliyor muydunuz?",
+    "en": "Did you know your pencil doesn't actually contain any lead?",
+    "es": "¿Sabías que tu lápiz en realidad no contiene plomo?",
+    "ar": "هل كنت تعلم أن قلم رصاصك لا يحتوي في الواقع على أي رصاص؟"
   },
   "story_question": {
-    "tr": "Asma kilitlerin altındaki deliğin ana işlevi nedir?",
-    "en": "What is the main function of the hole under padlocks?",
-    "es": "¿Cuál es la función principal del agujero debajo de los candados?",
-    "ar": "ما هي الوظيفة الرئيسية للفتحة تحت الأقفال؟"
+    "tr": "Kurşun kalemlerin içindeki grafit hangi ünlü değerli taşın akrabasıdır?",
+    "en": "Graphite inside pencils is a close relative of which famous gemstone?",
+    "es": "¿A qué piedra preciosa famosa está emparentado el grafito de los lápices?",
+    "ar": "الجرافيت الموجود داخل أقلام الرصاص قريب لأي حجر كريم شهير؟"
   },
   "story_options": [
-    "Yağlama ve su tahliyesi",
-    "Kilidin ağırlığını azaltmak",
-    "Üretim sırasında havalandırma"
+    "Elmas",
+    "Yakut",
+    "Zümrüt"
   ],
   "hashtags": [
     "#FactBite",
-    "#kilit",
-    "#bilgi",
-    "#pratikbilgiler",
-    "#ilginç",
-    "#teknoloji",
-    "#keşfet"
+    "#bilim",
+    "#ilginçbilgiler",
+    "#keşfet",
+    "#eğitim",
+    "#genelkültür"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla günlük sırrı kaçırmamak için takip et!",
-    "en": "Follow so you don't miss more daily secrets like this!",
-    "es": "¡Sígueme para no perderte más secretos diarios como este!",
-    "ar": "اتبعني حتى لا تفوتك المزيد من الأسرار اليومية مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip et!",
+    "en": "Follow to not miss more surprising facts like this!",
+    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
+    "ar": "اتبعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Hardware Retailing",
-    "url": "https://www.hardwareretailing.com"
+    "name": "Encyclopædia Britannica",
+    "url": "https://www.britannica.com/science/graphite-mineral"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kilitlerin Altındaki O Küçük Delik",
+  "_topic": "Kurşun Kalemlerin İçindeki Gizli Madde",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-20T20:28:58.239370+00:00",
+  "generated_at": "2026-10-20T22:08:51.134190+00:00",
   "topic_guard_days": 180
 }

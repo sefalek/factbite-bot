@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kurşun Kalemlerin İçindeki Gizli Madde",
-    "body": "Okulda hepimiz kurşun kalem kullandık ama adının aksine içinde tek bir gram bile kurşun yok. Aslında o siyah kısım, tamamen karbon atomlarından oluşan grafit ve kil karışımıdır. Yani kaleminize her baktığınızda, elinizde toksik bir metal değil, elmasın akrabası olan saf bir element tutuyorsunuz."
+    "headline": "Klavye Tuşlarındaki O Çıkıntılar Neden Var?",
+    "body": "Bilgisayar klavyenizin 'F' ve 'J' tuşlarına hiç dikkat ettiniz mi? Üzerlerinde küçük çıkıntılar vardır. Bu çıkıntılar, parmaklarınızın klavyeye bakmadan ana konumu bulmasını sağlar; böylece ekrana odaklanarak hızlıca yazabilirsiniz."
   },
   "en": {
-    "headline": "The Hidden Material Inside Pencils",
-    "body": "We all used pencils in school, but despite the name, there isn't a single gram of lead inside. That dark core is actually a mixture of graphite and clay made entirely of carbon atoms. Every time you look at your pencil, you're holding pure carbon, a close relative of diamond."
+    "headline": "Why Do Keyboard Keys Have Bumps?",
+    "body": "Have you ever noticed the tiny bumps on the 'F' and 'J' keys of your computer keyboard? They help your fingers find the home row without looking, allowing you to type fast while staying focused on the screen."
   },
   "es": {
-    "headline": "El material oculto dentro de los lápices",
-    "body": "Todos usamos lápices en la escuela, pero a pesar de su nombre, no contienen ni un solo gramo de plomo. Esa parte oscura es en realidad una mezcla de grafito y arcilla hecha completamente de átomos de carbono. Cada vez que miras tu lápiz, sostienes carbono puro, un pariente cercano del diamante."
+    "headline": "¿Por qué las teclas del teclado tienen protuberancias?",
+    "body": "¿Alguna vez has notado los pequeños relieves en las teclas 'F' y 'J' de tu teclado? Ayudan a tus dedos a encontrar la posición base sin mirar, permitiéndote escribir rápido mientras te concentras en la pantalla."
   },
   "ar": {
-    "headline": "المادة الخفية داخل أقلام الرصاص",
-    "body": "استخدمنا جميعاً أقلام الرصاص في المدرسة، ولكن على عكس اسمها، لا يوجد فيها جرام واحد من الرصاص. هذا الجزء الداكن هو في الواقع مزيج من الجرافيت والصلصال المكون بالكامل من ذرات الكربون. في كل مرة تنظر فيها إلى قلمك، أنت تحرص على حمل كربون نقي، وهو قريب جداً للماس."
+    "headline": "لماذا توجد نتوءات على مفاتيح لوحة المفاتيح؟",
+    "body": "هل لاحظت يوماً النتوءات الصغيرة على مفتاحي F و J في لوحة المفاتيح؟ إنها تساعد أصابعك في العثور على وضعية البداية دون النظر، مما يتيح لك الكتابة بسرعة مع التركيز على الشاشة."
   },
   "reel_hook": {
-    "tr": "Kurşun kaleminizde aslında hiç kurşun olmadığını biliyor muydunuz?",
-    "en": "Did you know your pencil doesn't actually contain any lead?",
-    "es": "¿Sabías que tu lápiz en realidad no contiene plomo?",
-    "ar": "هل كنت تعلم أن قلم رصاصك لا يحتوي في الواقع على أي رصاص؟"
+    "tr": "Klavyenizdeki 'F' ve 'J' tuşlarında neden o küçük çıkıntılar var hiç düşündünüz mü?",
+    "en": "Have you ever wondered why the 'F' and 'J' keys on your keyboard have those tiny bumps?",
+    "es": "¿Alguna vez te has preguntado por qué las teclas 'F' y 'J' de tu teclado tienen esas pequeñas protuberancias?",
+    "ar": "هل تساءلت يوماً لماذا توجد تلك النتوءات الصغيرة على مفتاحي F و J في لوحة مفاتيحك؟"
   },
   "story_question": {
-    "tr": "Kurşun kalemlerin içindeki grafit hangi ünlü değerli taşın akrabasıdır?",
-    "en": "Graphite inside pencils is a close relative of which famous gemstone?",
-    "es": "¿A qué piedra preciosa famosa está emparentado el grafito de los lápices?",
-    "ar": "الجرافيت الموجود داخل أقلام الرصاص قريب لأي حجر كريم شهير؟"
+    "tr": "Klavyenizdeki F ve J tuşlarındaki çıkıntıların ne işe yaradığını biliyor muydunuz?",
+    "en": "Did you know what the bumps on the F and J keys are for?",
+    "es": "¿Sabías para qué sirven las protuberancias en las teclas F y J?",
+    "ar": "هل كنت تعرف الغرض من النتوءات الموجودة على مفتاحي F و J؟"
   },
   "story_options": [
-    "Elmas",
-    "Yakut",
-    "Zümrüt"
+    "Evet, biliyordum",
+    "Yeni öğrendim",
+    "Hiç dikkat etmemiştim"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#keşfet",
-    "#eğitim",
-    "#genelkültür"
+    "#teknoloji",
+    "#bilgi",
+    "#İlginçBilgiler",
+    "#klavye",
+    "#pratikbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip et!",
-    "en": "Follow to not miss more surprising facts like this!",
-    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
-    "ar": "اتبعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
+    "surprise": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Encyclopædia Britannica",
-    "url": "https://www.britannica.com/science/graphite-mineral"
+    "name": "QWERTY Keyboard History & Design",
+    "url": "https://en.wikipedia.org/wiki/Computer_keyboard"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kurşun Kalemlerin İçindeki Gizli Madde",
+  "_topic": "Klavye Tuşlarındaki O Çıkıntılar Neden Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-20T22:08:51.134190+00:00",
+  "generated_at": "2026-10-20T23:25:48.839904+00:00",
   "topic_guard_days": 180
 }

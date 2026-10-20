@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tetris Oynamanın Beklenmeyen Zihinsel Etkisi",
-    "body": "Travmatik bir olay yaşadıktan sonra saatler içinde Tetris oynamak, beynin o anıyı işle biçimini değiştirerek istenmeyen Flashback'leri (anı parlamalarını) büyük ölçüde azaltabiliyor. Görsel-uzamsal bulmacalar zihni meşgul ederek travmatik hafızanın sağlamlaşmasını engelliyor."
+    "headline": "Çakmakların Üzerindeki O Garip Sır",
+    "body": "Çoğumuz çakmakların sadece gazla çalıştığını sanır ama içindeki o küçük metal parça hayat kurtarıcı bir detay saklar."
   },
   "en": {
-    "headline": "The Unexpected Mental Effect of Playing Tetris",
-    "body": "Playing Tetris within hours after a traumatic event can significantly reduce unwanted flashbacks by changing how the brain processes that memory. Visuo-spatial puzzles keep the mind busy and prevent the traumatic memory from consolidating."
+    "headline": "The Strange Secret on Lighters",
+    "body": "Most of us think lighters only run on gas, but that tiny metal piece inside hides a lifesaving detail."
   },
   "es": {
-    "headline": "El inesperado efecto mental de jugar a Tetris",
-    "body": "Jugar a Tetris pocas horas después de un evento traumático puede reducir significativamente los flashbacks no deseados al cambiar cómo el cerebro procesa ese recuerdo. Los acertijos visuales y espaciales mantienen la mente ocupada y evitan que la memoria traumática se consolide."
+    "headline": "El extraños secreto en los encendedores",
+    "body": "La mayoría pensamos que los encededores funcionan solo con gas, pero esa pequeña pieza de metal esconde un detalle salvavidas."
   },
   "ar": {
-    "headline": "التأثير العقلي غير المتوقع لعبد لعبة تتريس",
-    "body": "يمكن أن يؤدي لعب تتريس في غضون ساعات بعد حدث صادم إلى تقليل ذكريات الماضي غير المرغوب فيها بشكل كبير عن طريق تغيير طريقة معالجة الدماغ لتلك الذاكرة. تشغل الألغاز المرئية والمكانية العقل وتمنع ترسيخ الذاكرة المؤلمة."
+    "headline": "السر الغريب في الولاعات",
+    "body": "معظمنا يعتقد أن الولاعات تعمل بالغاز فقط، لكن تلك القطعة المعدنية الصغبرة تخفي تفصيلاً منقذاً للحياة."
   },
   "reel_hook": {
-    "tr": "Travmatik bir olayın etkisini sadece bir video oyunuyla azaltabileceğinizi biliyor muydunuz?",
-    "en": "Did you know you can reduce the impact of a traumatic event with just a video game?",
-    "es": "¿Sabías que puedes reducir el impacto de un evento traumático con solo un videojuego?",
-    "ar": "هل كنت تعلم أنه يمكنك تقليل تأثير حدث صادم باستخدام لعبة فيديو فقط؟"
+    "tr": "Çakmağınızı çevirin ve o küçük metal parçaya dikkatlice bakın.",
+    "en": "Flip your lighter over and look closely at that tiny metal piece.",
+    "es": "Voltea tu encendedor y mira de cerca esa pequeña pieza de metal.",
+    "ar": "اقلب ولاعتك ونظر عن قرب إلى تلك القطعة المعدنية الصغيرة."
   },
   "story_question": {
-    "tr": "Sizce beynin hafızayı kaydetme sürecini hangi basit aktivite değiştirebilir?",
-    "en": "Which simple activity do you think can change how the brain records memory?",
-    "es": "¿Qué actividad simple crees que puede cambiar cómo el cerebro registra la memoria?",
-    "ar": "ما النشاط البسيط برأيك الذي يمكن أن يغير طريقة تسجيل الدماغ للذاكرة؟"
+    "tr": "Çakmağın çarkının yanındaki o metal parça ne işe yarar?",
+    "en": "What is that metal piece next to the lighter wheel for?",
+    "es": "¿Para qué sirve esa pieza de metal al lado de la rueda del encendedor?",
+    "ar": "ما فائدة تلك القطعة المعدنية بجانب عجلة الولاعة؟"
   },
   "story_options": [
-    "Tetris oynamak",
-    "Kitap okumak",
-    "Müzik dinlemek"
+    "Alev ayarı",
+    "Güvenlik kilidi",
+    "Taş değişimi"
   ],
   "hashtags": [
     "#FactBite",
+    "#bilgi",
+    "#ilginç",
+    "#pratik",
+    "#keşfet",
     "#bilim",
-    "#psikoloji",
-    "#tetris",
-    "#beyin",
-    "#ilginçbilgiler",
-    "#araştırma"
+    "#gündem"
   ],
   "cta": {
-    "tr": "Bunun gibi şaşırtıcı bilimsel gerçekler için bizi takip etmeyi unutmayın!",
-    "en": "Don't forget to follow us for more surprising scientific facts like this!",
-    "es": "¡No olvides seguirnos para más datos científicos sorprendentes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق العلمية المدهشة مثل هذه!"
+    "tr": "Bunu ilk defa duyduysan beğen ve takip et!",
+    "en": "If you heard this for the first time, like and follow!",
+    "es": "Si escuchaste esto por primera vez, ¡dale a me gusta y síguenos!",
+    "ar": "إذا سمعت هذا لأول مرة، اضغط إعجاب وتابعنا!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "Oxford University / Molecular Psychiatry",
-    "url": "https://www.nature.com/articles/mp201723"
+    "name": "Bic Design History",
+    "url": "https://www.bic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tetris Oynamanın Beklenmeyen Zihinsel Etkisi",
+  "_topic": "Çakmakların Üzerindeki O Garip Sır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-20T13:35:47.054174+00:00",
+  "generated_at": "2026-10-20T15:44:17.776454+00:00",
   "topic_guard_days": 180
 }

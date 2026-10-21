@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yolculukta Okuduğumuz Kitaplar",
-    "body": "Araçta veya otobüste kitap okurken neden mideniz bulanır hiç düşündünüz mü? Aslında bu bir zehirlenme sanısıdır! Gözleriniz kitaba odaklandığı için hareketsiz olduğunuzu düşünür, ancak iç kulaktaki denge merkezimiz hareket ettiğimizi söyler. Beynimiz bu iki çelişkili sinyali aldığında zehirlendiğinizi zanneder ve mide bulantısıyla tepki verir."
+    "headline": "Trafik Levhalarının Arkasındaki Gizli Renk",
+    "body": "Yolculuk ederken hepimiz o büyük trafik levhalarını görürüz. Ön yüzleri genelde parlak yeşil ya da mavidir ama arkalarına hiç dikkat ettiniz mi? Neredeyse istisnasız hepsi mat gridir. Bunun sebebi sadece çirkin görünmesini engellemek değil; arkadaki gri boya, güneş ışığını yansıtarak sürücülerin gözünü almasını önler ve gece saatlerinde far ışıklarının dağılmasını sağlar."
   },
   "en": {
-    "headline": "Books We Read While Traveling",
-    "body": "Have you ever wondered why you get carsick while reading a book in a vehicle? Actually, this is perceived as poisoning! Because your eyes focus on the book, they think you are stationary, but the balance center in your inner ear tells you that you are moving. When your brain receives these two conflicting signals, it thinks you are poisoned and reacts with nausea."
+    "headline": "The Hidden Color Behind Road Signs",
+    "body": "We all see those large road signs while traveling. Their fronts are usually bright green or blue, but have you ever noticed the back? Almost without exception, they are matte gray. The reason isn't just to prevent them from looking ugly; the gray paint on the back prevents sunlight from blinding drivers and helps scatter headlights at night."
   },
   "es": {
-    "headline": "Los libros que leemos al viajar",
-    "body": "¿Alguna vez te has preguntado por qué te mareas al leer un libro en un vehículo? ¡En realidad, esto se percibe como un envenenamiento! Como tus ojos se concentran en el libro, piensan que estás quieto, pero el centro de equilibrio en tu oído interno te dice que te estás moviendo. Cuando tu cerebro recibe estas dos señales contradictorias, piensa que estás envenenado y reacciona con náuseas."
+    "headline": "El color oculto detrás de las señales de tráfico",
+    "body": "Todos vemos esas grandes señales de tráfico cuando viajamos. Sus frentes suelen ser de color verde brillante o azul, pero ¿alguna vez has notado la parte trasera? Casi sin excepción, son de color gris mate. La razón no es solo evitar que se vean feas; la pintura gris de la parte trasera evita que la luz solar deslumbre a los conductores y ayuda a dispersar las luces delanteras por la noche."
   },
   "ar": {
-    "headline": "الكتب التي نقرأها أثناء السفر",
-    "body": "هل فكرت يوماً في سبب شعورك بالغثيان أثناء قراءة كتاب في السيارة؟ في الواقع، يتم تفسير هذا على أنه تسمم! نظراً لأن عينيك تركزان على الكتاب، فهما تعتقدان أنك ثابت، لكن مركز التوازن في أذنك الداخلية يخبرك أنك تتحرك. عندما يتلقى دماغك هاتين الإشارتمين المتعارضتين، يعتقد أنك تسممت ويتفاعل بالغثيان."
+    "headline": "اللون الخفي خلف إشارات المرور",
+    "body": "نرى جميعاً تلك اللوحات المرورية الكبيرة أثناء السفر. وعادة ما تكون واجهاتها باللون الأخضر الساطع أو الأزرق، ولكن هل لاحظت الخلفية من قبل؟ بدون استثناء تقريبا، فهي رمادية غير لامعة. والسبب ليس فقط لمنعها من الظهور بمظهر سيء؛ فالطلاء الرمادي في الخلف يمنع ضوء الشمس من إبهار السائقين ويساعد في تشتت أضواء السيارات ليلاً."
   },
   "reel_hook": {
-    "tr": "Seyahat ederken kitap okumak neden midenizi bulandırır?",
-    "en": "Why does reading a book while traveling make you sick?",
-    "es": "¿Por qué leer un libro mientras viajas te marea?",
-    "ar": "لماذا تجعلك قراءة كتاب أثناء السفر تشعر بالغثيان؟"
+    "tr": "O büyük trafik levhalarının arkasının neden hep gri olduğunu hiç merak ettiniz mi?",
+    "en": "Have you ever wondered why the back of those large road signs is always gray?",
+    "es": "¿Alguna vez te has preguntado por qué la parte trasera de esas grandes señales de tráfico es siempre gris?",
+    "ar": "هل تاءلت من قبل عن سبب كون ظهر تلك اللوحات المرورية الكبيرة رمادياً دائماً؟"
   },
   "story_question": {
-    "tr": "Araçta kitap okurken yaşanan mide bulantısının asıl sebebi nedir?",
-    "en": "What is the real reason for motion sickness while reading in a vehicle?",
-    "es": "¿Cuál es la verdadera razón del mareo por movimiento al leer en un vehículo?",
-    "ar": "ما هو السبب الحقيقي لدوار الحركة أثناء القراءة في السيارة؟"
+    "tr": "Trafik levhalarının arka yüzünün gri olmasının ana sebebi sizce nedir?",
+    "en": "What do you think is the main reason the back of road signs is gray?",
+    "es": "¿Cuálcrees que es la principal razón por la que la parte trasera de las señales de tráfico es gris?",
+    "ar": "برأيك، ما هو السبب الرئيسي وراء كون خلفية إشارات المرور رمادية؟"
   },
   "story_options": [
-    "Zihinsel yorgunluk",
-    "Beynin zehirlendiğini sanması",
-    "Temiz hava eksikliği"
+    "Güneş yansımasını önlemek",
+    "Paslanmayı geciktirmek",
+    "Üretim maliyetini düşürmek"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#sağlık",
-    "#seyahat",
+    "#trafik",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#vücudumuz"
+    "#keşfet",
+    "#dünya",
+    "#pratikbilgiler"
   ],
   "cta": {
-    "tr": "Bunu sık yaşayan arkadaşına gönder!",
-    "en": "Send this to a friend who experiences this often!",
-    "es": "¡Envíaselo a un amigo que experimente esto a menudo!",
-    "ar": "أرسل هذا لصديق يعاني من هذا غالباً!"
+    "tr": "Bunun gibi günlük hayattaki detaylar için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for everyday details like this!",
+    "es": "¡No olvides seguirnos para ver más detalles cotidianos como este!",
+    "ar": "لا تنس متابعتنا لمزيد من التفاصيل اليومية مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Healthline",
-    "url": "https://www.healthline.com/health/motion-sickness"
+    "name": "Manual on Uniform Traffic Control Devices (MUTCD)",
+    "url": "https://mutcd.fhwa.dot.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yolculukta Okuduğumuz Kitaplar",
+  "_topic": "Trafik Levhalarının Arkasındaki Gizli Renk",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-21T11:44:20.515652+00:00",
+  "generated_at": "2026-10-21T13:49:45.881135+00:00",
   "topic_guard_days": 180
 }

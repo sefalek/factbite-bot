@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çamaşır İplerindeki O Ahşap Mandalların Gizli Tasarımı",
-    "body": "Çoğumuz çamaşır mandallarını sadece tek parça ahşap sanırız ama ortasındaki o kıvrık tel aslında harika bir mühendislik harikasıdır. O yaylı tel sistemi, mandalın iki ucunu eşit güçle sıkarak çamaşırın rüzgarda uçmasını engeller. Aslında her mandal mini bir kaldıraç mekanizmasıdır."
+    "headline": "Yolculukta Okuduğumuz Kitaplar",
+    "body": "Araçta veya otobüste kitap okurken neden mideniz bulanır hiç düşündünüz mü? Aslında bu bir zehirlenme sanısıdır! Gözleriniz kitaba odaklandığı için hareketsiz olduğunuzu düşünür, ancak iç kulaktaki denge merkezimiz hareket ettiğimizi söyler. Beynimiz bu iki çelişkili sinyali aldığında zehirlendiğinizi zanneder ve mide bulantısıyla tepki verir."
   },
   "en": {
-    "headline": "The Hidden Engineering Behind Wooden Clothespins",
-    "body": "Most of us think clothespins are just simple wooden pieces, but that twisted wire in the middle is actually an engineering marvel. That spring-loaded wire system clamps both ends with equal force to keep clothes from blowing away in the wind. Every clothespin is essentially a mini lever mechanism."
+    "headline": "Books We Read While Traveling",
+    "body": "Have you ever wondered why you get carsick while reading a book in a vehicle? Actually, this is perceived as poisoning! Because your eyes focus on the book, they think you are stationary, but the balance center in your inner ear tells you that you are moving. When your brain receives these two conflicting signals, it thinks you are poisoned and reacts with nausea."
   },
   "es": {
-    "headline": "La ingeniería oculta detrás de las pinzas de ropa de madera",
-    "body": "La mayoría de creemos que las pinzas son simples trozos de madera, pero ese alambre retorcido en el medio es en realidad una maravilla de la ingeniería. Ese sistema de alambre con resorte sujeta ambos extremos con igual fuerza para evitar que la ropa se vuele con el viento. Cada pinza es esencialmente un mini mecanismo de palanca."
+    "headline": "Los libros que leemos al viajar",
+    "body": "¿Alguna vez te has preguntado por qué te mareas al leer un libro en un vehículo? ¡En realidad, esto se percibe como un envenenamiento! Como tus ojos se concentran en el libro, piensan que estás quieto, pero el centro de equilibrio en tu oído interno te dice que te estás moviendo. Cuando tu cerebro recibe estas dos señales contradictorias, piensa que estás envenenado y reacciona con náuseas."
   },
   "ar": {
-    "headline": "الهندسة الخفية وراء مشابك الغسيل الخشبية",
-    "body": "يعتقد معظمنا أن مشابك الغسيل مجرد قطع خشبية بسيطة، لكن السلك الملتوي في المنتصف هو في الواقع أعجوبة هندسية. نظام السلك الزنبركي هذا يضغط على الطرفين بقوة متساوية لمنع تطاير الملابس في الرياح. كل مشبك هو في الأساس آلية رافعة صغيرة."
+    "headline": "الكتب التي نقرأها أثناء السفر",
+    "body": "هل فكرت يوماً في سبب شعورك بالغثيان أثناء قراءة كتاب في السيارة؟ في الواقع، يتم تفسير هذا على أنه تسمم! نظراً لأن عينيك تركزان على الكتاب، فهما تعتقدان أنك ثابت، لكن مركز التوازن في أذنك الداخلية يخبرك أنك تتحرك. عندما يتلقى دماغك هاتين الإشارتمين المتعارضتين، يعتقد أنك تسممت ويتفاعل بالغثيان."
   },
   "reel_hook": {
-    "tr": "Çamaşır mandalını yıllardır yanlış açıyorsunuz desem?",
-    "en": "What if I told you that you've been opening clothespins wrong for years?",
-    "es": "¿Y si te dijera que has estado abriendo las pinzas de ropa mal durante años?",
-    "ar": "ماذا لو أخبرتك أنك كنت تفتح مشابك الغسيل بشكل خاطئ لسنوات؟"
+    "tr": "Seyahat ederken kitap okumak neden midenizi bulandırır?",
+    "en": "Why does reading a book while traveling make you sick?",
+    "es": "¿Por qué leer un libro mientras viajas te marea?",
+    "ar": "لماذا تجعلك قراءة كتاب أثناء السفر تشعر بالغثيان؟"
   },
   "story_question": {
-    "tr": "Sizce çamaşır mandalındaki o tel ilk kez hangi yıl icat edildi?",
-    "en": "In which year do you think that wire on the clothespin was first invented?",
-    "es": "¿En qué año crees que se inventó por primera vez ese alambre en la pinza de ropa?",
-    "ar": "في أي سنة برأيك تم اختراع ذلك السلك على مشبك الغسيل لأول مرة؟"
+    "tr": "Araçta kitap okurken yaşanan mide bulantısının asıl sebebi nedir?",
+    "en": "What is the real reason for motion sickness while reading in a vehicle?",
+    "es": "¿Cuál es la verdadera razón del mareo por movimiento al leer en un vehículo?",
+    "ar": "ما هو السبب الحقيقي لدوار الحركة أثناء القراءة في السيارة؟"
   },
   "story_options": [
-    "1853",
-    "1910",
-    "1785"
+    "Zihinsel yorgunluk",
+    "Beynin zehirlendiğini sanması",
+    "Temiz hava eksikliği"
   ],
   "hashtags": [
     "#FactBite",
-    "#mühendislik",
+    "#bilim",
+    "#sağlık",
+    "#seyahat",
     "#ilginçbilgiler",
-    "#pratikbilgiler",
-    "#tasarım",
-    "#keşfet",
-    "#bilim"
+    "#vücudumuz"
   ],
   "cta": {
-    "tr": "Bunun gibi günlük eşyaların gizli sırlarını kaçırmamak için bizi takip et!",
-    "en": "Follow us not to miss the hidden secrets of everyday objects like this!",
-    "es": "¡Síguenos para no perderte los secretos ocultos de objetos cotidianos como este!",
-    "ar": "تابعنا لكي لا تفوت الأسرار الخفية للأسياء اليومية مثل هذه!"
+    "tr": "Bunu sık yaşayan arkadaşına gönder!",
+    "en": "Send this to a friend who experiences this often!",
+    "es": "¡Envíaselo a un amigo que experimente esto a menudo!",
+    "ar": "أرسل هذا لصديق يعاني من هذا غالباً!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "surprise": 9,
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Design History & Engineering Mechanics",
-    "url": "https://www.smithsonianmag.com"
+    "name": "Healthline",
+    "url": "https://www.healthline.com/health/motion-sickness"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çamaşır İplerindeki O Ahşap Mandalların Gizli Tasarımı",
+  "_topic": "Yolculukta Okuduğumuz Kitaplar",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-21T10:08:30.157927+00:00",
+  "generated_at": "2026-10-21T11:44:20.515652+00:00",
   "topic_guard_days": 180
 }

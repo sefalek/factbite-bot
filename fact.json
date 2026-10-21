@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çoğu İnsan Klavyedeki O Çıkıntıları Yanlış Biliyor",
-    "body": "Klavyenizdeki 'F' ve 'J' tuşlarının üzerinde neden küçük birer çıkıntı olduğunu hiç merak ettiniz mi? Bunlar sadece parmağınız kaymasın diye değil. Onlar, klavyeye hiç bakmadan, yani on parmak yazarken ellerinizi doğru konuma yerleştirmeniz için tasarlanmış harika birer rehberdir."
+    "headline": "Tarihin En Pahalı Hatası",
+    "body": "NASA, 1999 yılında Mars'a gönderdiği iklim yörünge aracını metre ve inç karışıklığı yüzünden kaybetti. Lockheed Martin ekibi verileri İngiliz ölçü birimiyle gönderirken, NASA metrik sistemi kullanıyordu. 125 milyon dolarlık araç Mars atmosferinde parçalandı."
   },
   "en": {
-    "headline": "Most People Misunderstand Those Bumps on the Keyboard",
-    "body": "Have you ever wondered why the 'F' and 'J' keys on your keyboard have tiny bumps on them? They aren't just there to keep your fingers from slipping. They are designed as a brilliant guide to help you position your hands correctly without ever looking at the keyboard."
+    "headline": "History's Most Expensive Mistake",
+    "body": "In 1999, NASA lost its Mars Climate Orbiter due to a mix-up between metric and imperial units. The Lockheed Martin team sent data in pounds, while NASA expected metric units. The $125 million spacecraft disintegrated in the Martian atmosphere."
   },
   "es": {
-    "headline": "La Mayoría Interpreta Mal Esos Relieves en el Teclado",
-    "body": "¿Alguna vez te has preguntado por qué las teclas 'F' y 'J' de tu teclado tienen pequeños relieves? No están ahí solo para evitar que tus dedos resbalen. Fueron diseñadas como una guía brillante para ubicar tus manos correctamente sin mirar."
+    "headline": "El Error Más Caro de la Historia",
+    "body": "En 1999, la NASA perdió el orbitador climático de Marte debido a una confusión entre unidades métricas e imperiales. El equipo envió datos en libras mientras la NASA usaba el sistema métrico. La nave de 125 millones de dólares se desintegró."
   },
   "ar": {
-    "headline": "معظم الناس يفهمون تلك النتوءات على لوحة المفاتيح بشكل خاطئ",
-    "body": "هل فكرت يوماً لماذا تحتوي مفاتيح 'F' و 'J' على لوحة المفاتيح على نتوءات صغيرة؟ إنها ليست فقط لمنع انزلاق أصابعك، بل تم تصميمها كدليل عبقري لمساعدتك على وضع يديك بشكل صحيح دون النظر أبداً."
+    "headline": "أغلى خطأ في التاريخ",
+    "body": "في عام 1999، فقدت ناسا مسبار المريخ بسبب خطأ في تحويل الوحدات بين النظام الإمبراطوري والمتري. أرسل الفريق البيانات بالرطل بينما انتظرت ناسا النظام المتري، وتفككت المركبة التي تكلفت 125 مليون دولار في الغلاف الجوي."
   },
   "reel_hook": {
-    "tr": "Klavyenizdeki o iki küçük çıkıntının neden orada olduğunu gerçekten biliyor musunuz?",
-    "en": "Do you really know why those two tiny bumps on your keyboard are there?",
-    "es": "¿De verdad sabes por qué están ahí esos dos pequeños relieves en tu teclado?",
-    "ar": "هل تعلم حقاً لماذا توجد هاتان النتوءتان الصغيرتان على لوحة مفاتيحك؟"
+    "tr": "Tek bir yanlış birim yüzünden 125 milyon dolar uzayda nasıl yok oldu?",
+    "en": "How did a single unit mix-up vaporize 125 million dollars in space?",
+    "es": "¿Cómo hizo una simple confusión de unidades para evaporar 125 millones de dólares en el espacio?",
+    "ar": "كيف أدى خطأ بسيط في الوحدات إلى تبخر 125 مليون دولار في الفضاء؟"
   },
   "story_question": {
-    "tr": "Sizce 'F' ve 'J' tuşlarındaki bu çıkıntılar ilk olarak hangi amaçla tasarlandı?",
-    "en": "What do you think was the original purpose of these bumps on the 'F' and 'J' keys?",
-    "es": "¿Cuálcrees que fue el propósito original de estos relieves en las teclas 'F' y 'J'?",
-    "ar": "برأيك، ما هو الغرض الأصلي من هذه النتوءات على مفتاحي 'F' و 'J'؟"
+    "tr": "Bu milyarlık hatanın sebebi hangi iki sistemin çatışmasıydı?",
+    "en": "What two systems clashed to cause this multi-million dollar mistake?",
+    "es": "¿Qué dos sistemas chocaron para causar este error multimillonario?",
+    "ar": "ما النظامان اللذان تسببا في هذا الخطأ المكلف؟"
   },
   "story_options": [
-    "Kör kullanıcılar için Braille alfabesi",
-    "On parmak yazımında el pozisyonu rehberi",
-    "Üretim sırasında kalan plastik fazlalıklar"
+    "Metrik ve İngiliz Ölçü Birimi",
+    "Celsius ve Fahrenheit",
+    "UTC ve Yerel Saat"
   ],
   "hashtags": [
     "#FactBite",
-    "#klavye",
-    "#teknoloji",
-    "#ilginçbilgiler",
     "#bilim",
-    "#pratikbilgiler"
+    "#tarih",
+    "#nasa",
+    "#uzay",
+    "#ilginçbilgiler",
+    "#teknoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi hayat kurtaran detaylar için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more life-saving details like this!",
-    "es": "¡No olvides seguirnos para más detalles útiles como este!",
-    "ar": "لا تنس المتابعة لمزيد من التفاصيل المفيدة مثل هذه!"
+    "tr": "Benzer hataları kaçırmamak için takip et!",
+    "en": "Follow to not miss similar mistakes!",
+    "es": "¡Síguete para no perderte errores similares!",
+    "ar": "تابعنا لكي لا تفوتك أخطاء مماثلة!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "QWERTY Keyboard History",
-    "url": "https://www.smithsonianmag.com/innovation/history-qwerty-keyboard-180s/"
+    "name": "NASA official mishap investigation report",
+    "url": "https://nssdc.gsfc.nasa.gov/nmc/spacecraft/display.action?id=1998-073A"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çoğu İnsan Klavyedeki O Çıkıntıları Yanlış Biliyor",
+  "_topic": "Tarihin En Pahalı Hatası",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-21T20:33:53.884841+00:00",
+  "generated_at": "2026-10-21T22:08:22.352839+00:00",
   "topic_guard_days": 180
 }

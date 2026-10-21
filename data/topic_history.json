@@ -8664,5 +8664,21 @@
       "overall": 9
     },
     "generated_at": "2026-10-21T13:49:45.881135+00:00"
+  },
+  {
+    "language": "tr",
+    "category": "general",
+    "topic": "Kredi Kartlarının Arkasındaki Gizli Sayı",
+    "headline": "Kredi Kartlarının Arkasındaki Gizli Sayı",
+    "body": "Cüzdanınızdan kredi kartınızı çıkarın ve arkasına bakın. O imza şeridinin sonunda yer alan 3 veya 4 haneli sayı var ya; o sadece sıradan bir güvenlik kodu değildir. Aslında o sayı, kartınızın manyetik şeridindeki tüm kişisel şifreli verilerinizin o anki matematiksel algoritmayla taranıp özel bir formülle şifrelenmesinden üretilir. Yani kart numaranız veya son kullanma tarihiniz değiştiğinde, o küçük rakam da tamamen baştan hesaplanır.",
+    "format": "reel",
+    "quality": {
+      "curiosity": 9,
+      "surprise": 9,
+      "shareability": 8,
+      "clarity": 9,
+      "overall": 8.7
+    },
+    "generated_at": "2026-10-21T16:06:37.701274+00:00"
   }
 ]

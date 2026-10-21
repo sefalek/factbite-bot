@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Klavye Tuşlarındaki O Çıkıntılar Neden Var?",
-    "body": "Bilgisayar klavyenizin 'F' ve 'J' tuşlarına hiç dikkat ettiniz mi? Üzerlerinde küçük çıkıntılar vardır. Bu çıkıntılar, parmaklarınızın klavyeye bakmadan ana konumu bulmasını sağlar; böylece ekrana odaklanarak hızlıca yazabilirsiniz."
+    "headline": "Çamaşır İplerindeki O Ahşap Mandalların Gizli Tasarımı",
+    "body": "Çoğumuz çamaşır mandallarını sadece tek parça ahşap sanırız ama ortasındaki o kıvrık tel aslında harika bir mühendislik harikasıdır. O yaylı tel sistemi, mandalın iki ucunu eşit güçle sıkarak çamaşırın rüzgarda uçmasını engeller. Aslında her mandal mini bir kaldıraç mekanizmasıdır."
   },
   "en": {
-    "headline": "Why Do Keyboard Keys Have Bumps?",
-    "body": "Have you ever noticed the tiny bumps on the 'F' and 'J' keys of your computer keyboard? They help your fingers find the home row without looking, allowing you to type fast while staying focused on the screen."
+    "headline": "The Hidden Engineering Behind Wooden Clothespins",
+    "body": "Most of us think clothespins are just simple wooden pieces, but that twisted wire in the middle is actually an engineering marvel. That spring-loaded wire system clamps both ends with equal force to keep clothes from blowing away in the wind. Every clothespin is essentially a mini lever mechanism."
   },
   "es": {
-    "headline": "¿Por qué las teclas del teclado tienen protuberancias?",
-    "body": "¿Alguna vez has notado los pequeños relieves en las teclas 'F' y 'J' de tu teclado? Ayudan a tus dedos a encontrar la posición base sin mirar, permitiéndote escribir rápido mientras te concentras en la pantalla."
+    "headline": "La ingeniería oculta detrás de las pinzas de ropa de madera",
+    "body": "La mayoría de creemos que las pinzas son simples trozos de madera, pero ese alambre retorcido en el medio es en realidad una maravilla de la ingeniería. Ese sistema de alambre con resorte sujeta ambos extremos con igual fuerza para evitar que la ropa se vuele con el viento. Cada pinza es esencialmente un mini mecanismo de palanca."
   },
   "ar": {
-    "headline": "لماذا توجد نتوءات على مفاتيح لوحة المفاتيح؟",
-    "body": "هل لاحظت يوماً النتوءات الصغيرة على مفتاحي F و J في لوحة المفاتيح؟ إنها تساعد أصابعك في العثور على وضعية البداية دون النظر، مما يتيح لك الكتابة بسرعة مع التركيز على الشاشة."
+    "headline": "الهندسة الخفية وراء مشابك الغسيل الخشبية",
+    "body": "يعتقد معظمنا أن مشابك الغسيل مجرد قطع خشبية بسيطة، لكن السلك الملتوي في المنتصف هو في الواقع أعجوبة هندسية. نظام السلك الزنبركي هذا يضغط على الطرفين بقوة متساوية لمنع تطاير الملابس في الرياح. كل مشبك هو في الأساس آلية رافعة صغيرة."
   },
   "reel_hook": {
-    "tr": "Klavyenizdeki 'F' ve 'J' tuşlarında neden o küçük çıkıntılar var hiç düşündünüz mü?",
-    "en": "Have you ever wondered why the 'F' and 'J' keys on your keyboard have those tiny bumps?",
-    "es": "¿Alguna vez te has preguntado por qué las teclas 'F' y 'J' de tu teclado tienen esas pequeñas protuberancias?",
-    "ar": "هل تساءلت يوماً لماذا توجد تلك النتوءات الصغيرة على مفتاحي F و J في لوحة مفاتيحك؟"
+    "tr": "Çamaşır mandalını yıllardır yanlış açıyorsunuz desem?",
+    "en": "What if I told you that you've been opening clothespins wrong for years?",
+    "es": "¿Y si te dijera que has estado abriendo las pinzas de ropa mal durante años?",
+    "ar": "ماذا لو أخبرتك أنك كنت تفتح مشابك الغسيل بشكل خاطئ لسنوات؟"
   },
   "story_question": {
-    "tr": "Klavyenizdeki F ve J tuşlarındaki çıkıntıların ne işe yaradığını biliyor muydunuz?",
-    "en": "Did you know what the bumps on the F and J keys are for?",
-    "es": "¿Sabías para qué sirven las protuberancias en las teclas F y J?",
-    "ar": "هل كنت تعرف الغرض من النتوءات الموجودة على مفتاحي F و J؟"
+    "tr": "Sizce çamaşır mandalındaki o tel ilk kez hangi yıl icat edildi?",
+    "en": "In which year do you think that wire on the clothespin was first invented?",
+    "es": "¿En qué año crees que se inventó por primera vez ese alambre en la pinza de ropa?",
+    "ar": "في أي سنة برأيك تم اختراع ذلك السلك على مشبك الغسيل لأول مرة؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Yeni öğrendim",
-    "Hiç dikkat etmemiştim"
+    "1853",
+    "1910",
+    "1785"
   ],
   "hashtags": [
     "#FactBite",
-    "#teknoloji",
-    "#bilgi",
-    "#İlginçBilgiler",
-    "#klavye",
-    "#pratikbilgiler"
+    "#mühendislik",
+    "#ilginçbilgiler",
+    "#pratikbilgiler",
+    "#tasarım",
+    "#keşfet",
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunun gibi günlük eşyaların gizli sırlarını kaçırmamak için bizi takip et!",
+    "en": "Follow us not to miss the hidden secrets of everyday objects like this!",
+    "es": "¡Síguenos para no perderte los secretos ocultos de objetos cotidianos como este!",
+    "ar": "تابعنا لكي لا تفوت الأسرار الخفية للأسياء اليومية مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "QWERTY Keyboard History & Design",
-    "url": "https://en.wikipedia.org/wiki/Computer_keyboard"
+    "name": "Design History & Engineering Mechanics",
+    "url": "https://www.smithsonianmag.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Klavye Tuşlarındaki O Çıkıntılar Neden Var?",
+  "_topic": "Çamaşır İplerindeki O Ahşap Mandalların Gizli Tasarımı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-20T23:25:48.839904+00:00",
+  "generated_at": "2026-10-21T10:08:30.157927+00:00",
   "topic_guard_days": 180
 }

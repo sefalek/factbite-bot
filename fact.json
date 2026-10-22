@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Göz İçi Damarlarımız Neden Görüntüye Engel Olmaz?",
-    "body": "Gözümüzün tam önünde, retinanın üzerinde kan damarları ağı bulunur. Normalde bu damarların sürekli görüş alanımızda siyah çizgiler olarak görünmesi gerekir. Ancak beynimiz, sabit duran bu görüntüleri 'görmezden gelmeyi' öğrenir ve zihnimizde pürüzsüz bir dünya yaratır."
+    "headline": "Parmak İzimiz Gibi Eşsiz Olan O Organımız",
+    "body": "Parmak izimizin herkeste farklı olduğunu biliyoruz. Ama insan vücudunda bir yer daha var ki, en az parmak izi kadar tamamen size özel ve asla değişmiyor. Dil izimiz! Her insanın dil üzerindeki dokusu ve kıvrım deseni tamamen benzersizdir."
   },
   "en": {
-    "headline": "Why Don't Our Retinal Blood Vessels Block Our Vision?",
-    "body": "There is a network of blood vessels right in front of the retina. Normally, these vessels should constantly appear as dark lines in our field of view. However, our brain learns to 'ignore' these static images, creating a seamless world in our minds."
+    "headline": "The Body Part As Unique As Your Fingerprint",
+    "body": "We all know fingerprints are unique. But there is another part of the human body that is entirely unique to you and never changes, just like a fingerprint. Your tongue print! Every person's tongue texture and pattern is completely one-of-a-kind."
   },
   "es": {
-    "headline": "¿Por qué los vasos sanguíneos de nuestros ojos no bloquean la visión?",
-    "body": "Hay una red de vasos sanguíneos justo en frente de la retina. Normalmente, estos vasos deberían aparecer constantemente como líneas oscuras en nuestro campo de visión. Sin embargo, nuestro cerebro aprende a 'ignorar' estas imágenes estáticas, creando un mundo sin interrupciones."
+    "headline": "La parte del cuerpo tan única como tu huella digital",
+    "body": "Sabemos que las huellas dactilares son únicas. Pero hay otra parte del cuerpo humano que es completamente exclusiva para ti y nunca cambia, al igual que una huella. ¡Tu huella lingual! La textura y el patrón de la lengua de cada persona son totalmente únicos."
   },
   "ar": {
-    "headline": "لماذا لا تحجب الأوعية الدموية في شبكية العين رؤيتنا؟",
-    "body": "توجد شبكة من الأوعية الدموية مباشرة أمام شبكية العين. في الظروف العادية، يجب أن تظهر هذه الأوعية باستمرار كخطوط داكنة في مجال رؤيتنا. ومع ذلك، يتعلم دماغنا 'تجاهل' هذه الصور الثابتة، مما يخلق عالماً سلساً في أذهاننا."
+    "headline": "جزء من جسمك فريد تماماً مثل بصمة إصبعك",
+    "body": "نحن نعلم أن بصمات الأصابع فريدة. ولكن هناك جزءاً آخر من جسم الإنسان فريد تماماً بالنسبة لك ولا يتغير أبداً، تماماً مثل البصمة. إنها بصمة لسانك! نسيج لسان كل شخص ونمطه فريدان من نوعهما تماماً."
   },
   "reel_hook": {
-    "tr": "Gözünüzün içinde aslında her an gördüğün ama beyninizin sizden gizlediği şey ne?",
-    "en": "What is inside your eye that you see every moment, but your brain hides from you?",
-    "es": "¿Qué hay dentro de tu ojo que ves todo el tiempo, pero tu cerebro te oculta?",
-    "ar": "ما الذي يوجد داخل عينك وترآه طوال الوقت، لكن دماغك يخفيه عنك؟"
+    "tr": "Parmak iziniz gibi benzersiz olan başka bir yeriniz daha olduğunu biliyor muydunuz?",
+    "en": "Did you know you have another body part as unique as your fingerprint?",
+    "es": "¿Sabías que tienes otra parte del cuerpo tan única como tu huella digital?",
+    "ar": "هل تعلم أن لديك جزءاً آخر من جسمك فريداً مثل بصمة إصبعك؟"
   },
   "story_question": {
-    "tr": "Beynimizin bu 'görmezden gelme' yeteneği olmasmasaydı dünyayı nasıl görürdük?",
-    "en": "How would we see the world if our brain didn't have this 'ignoring' ability?",
-    "es": "¿Cómo veríamos el mundo si nuestro cerebro no tuviera esta capacidad de 'ignorar'?",
-    "ar": "كيف كنا لنرى العالم لو لم يكن لدى دماغنا هذه القدرة على 'التجاهل'؟"
+    "tr": "Vücudumuzda parmak izi dışında tamamen benzersiz olan diğer organımız hangisidir?",
+    "en": "Which other body part, besides your fingerprint, is completely unique?",
+    "es": "¿Qué otra parte del cuerpo, además de tu huella, es completamente única?",
+    "ar": "ما هو الجزء الآخر من الجسم، بالإضافة إلى بصمة إصبعك، الفريد تماماً؟"
   },
   "story_options": [
-    "Sürekli ağsı çizgilerle",
-    "Tamamen karanlıkta",
-    "Sadece siyah-beyaz"
+    "Dil izi",
+    "Kulak memesi",
+    "Diş yapısı"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#biyoloji",
+    "#bilgi",
+    "#insan",
+    "#anatomi",
     "#ilginçbilgiler",
-    "#insanvücudu",
-    "#keşfet",
-    "#göz"
+    "#vücut",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu kimin bilmesi gerekiyor? Yoruma etiketle!",
+    "en": "Who needs to know this? Tag them in the comments!",
+    "es": "¿Quién necesita saber esto? ¡Etiquétalo en los comentarios!",
+    "ar": "من بحاجة لمعرفة هذا؟ قم بالإشارة إليه في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Neuroscience and Visual Perception Studies",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2804576/"
+    "name": "Anatomy & Human Body Studies",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Göz İçi Damarlarımız Neden Görüntüye Engel Olmaz?",
+  "_topic": "Parmak İzimiz Gibi Eşsiz Olan O Organımız",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-22T19:07:08.013544+00:00",
+  "generated_at": "2026-10-22T21:08:53.537248+00:00",
   "topic_guard_days": 180
 }

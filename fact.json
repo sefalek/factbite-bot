@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kot Pantolonlardaki O Küçük Ceplerin Gerçek Amacı",
-    "body": "Kot pantolonların ön kısmındaki o minik cep, görünüşünün aksine bozuk para veya çakmak için tasarlanmadı. 1800'lerde cep saatlerini güvenle taşımak ve korumak için Levi's tarafından özel olarak eklendi."
+    "headline": "Göz İçi Damarlarımız Neden Görüntüye Engel Olmaz?",
+    "body": "Gözümüzün tam önünde, retinanın üzerinde kan damarları ağı bulunur. Normalde bu damarların sürekli görüş alanımızda siyah çizgiler olarak görünmesi gerekir. Ancak beynimiz, sabit duran bu görüntüleri 'görmezden gelmeyi' öğrenir ve zihnimizde pürüzsüz bir dünya yaratır."
   },
   "en": {
-    "headline": "The Real Purpose of Those Tiny Pockets on Jeans",
-    "body": "That tiny front pocket on jeans wasn't designed for spare change or lighters. It was originally added by Levi's in the 1800s to safely store and protect pocket watches."
+    "headline": "Why Don't Our Retinal Blood Vessels Block Our Vision?",
+    "body": "There is a network of blood vessels right in front of the retina. Normally, these vessels should constantly appear as dark lines in our field of view. However, our brain learns to 'ignore' these static images, creating a seamless world in our minds."
   },
   "es": {
-    "headline": "El verdadero propósito de esos pequeños bolsillos en los vaqueros",
-    "body": "Ese pequeño bolsillo delantero en los vaqueros no fue diseñado para monedas o mecheros. Fue añadido originalmente por Levi's en el siglo XIX para guardar y proteger los relojes de bolsillo."
+    "headline": "¿Por qué los vasos sanguíneos de nuestros ojos no bloquean la visión?",
+    "body": "Hay una red de vasos sanguíneos justo en frente de la retina. Normalmente, estos vasos deberían aparecer constantemente como líneas oscuras en nuestro campo de visión. Sin embargo, nuestro cerebro aprende a 'ignorar' estas imágenes estáticas, creando un mundo sin interrupciones."
   },
   "ar": {
-    "headline": "الغرض الحقيقي من تلك الجيوب الصغيرة على الجينز",
-    "body": "لم يتم تصميم الجيب الأمامي الصغير على الجينز للعملات المعدنية أو الولاعات. تم إضافته في الأصل بواسطة ليفا في القرن التاسع عشر لتخزين وحماية ساعات الجيب بأمان."
+    "headline": "لماذا لا تحجب الأوعية الدموية في شبكية العين رؤيتنا؟",
+    "body": "توجد شبكة من الأوعية الدموية مباشرة أمام شبكية العين. في الظروف العادية، يجب أن تظهر هذه الأوعية باستمرار كخطوط داكنة في مجال رؤيتنا. ومع ذلك، يتعلم دماغنا 'تجاهل' هذه الصور الثابتة، مما يخلق عالماً سلساً في أذهاننا."
   },
   "reel_hook": {
-    "tr": "Kot pantolonunuzun o minik cebini ne için kullanıyorsunuz?",
-    "en": "What do you actually use that tiny pocket on your jeans for?",
-    "es": "¿Para qué usas realmente ese pequeño bolsillo de tus vaqueros?",
-    "ar": "ماذا تستخدم حقا هذا الجيب الصغير على بنطالك الجينز؟"
+    "tr": "Gözünüzün içinde aslında her an gördüğün ama beyninizin sizden gizlediği şey ne?",
+    "en": "What is inside your eye that you see every moment, but your brain hides from you?",
+    "es": "¿Qué hay dentro de tu ojo que ves todo el tiempo, pero tu cerebro te oculta?",
+    "ar": "ما الذي يوجد داخل عينك وترآه طوال الوقت، لكن دماغك يخفيه عنك؟"
   },
   "story_question": {
-    "tr": "Kot pantolonlardaki o küçük cebin ilk çıkış amacını biliyor muydunuz?",
-    "en": "Did you know the original purpose of that tiny pocket on jeans?",
-    "es": "¿Conocías el propósito original de ese pequeño bolsillo en los vaqueros?",
-    "ar": "هل كنت تعلم الغرض الأصلي من هذا الجيب الصغير على الجينز؟"
+    "tr": "Beynimizin bu 'görmezden gelme' yeteneği olmasmasaydı dünyayı nasıl görürdük?",
+    "en": "How would we see the world if our brain didn't have this 'ignoring' ability?",
+    "es": "¿Cómo veríamos el mundo si nuestro cerebro no tuviera esta capacidad de 'ignorar'?",
+    "ar": "كيف كنا لنرى العالم لو لم يكن لدى دماغنا هذه القدرة على 'التجاهل'؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Yeni öğrendim",
-    "Hiç dikkat etmemiştim"
+    "Sürekli ağsı çizgilerle",
+    "Tamamen karanlıkta",
+    "Sadece siyah-beyaz"
   ],
   "hashtags": [
     "#FactBite",
-    "#giyim",
-    "#tarih",
-    "#moda",
-    "#bilgi",
-    "#ilginç",
-    "#keşfet"
+    "#bilim",
+    "#biyoloji",
+    "#ilginçbilgiler",
+    "#insanvücudu",
+    "#keşfet",
+    "#göz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı detay için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising details like this!",
-    "es": "¡No olvides seguirnos para más detalles sorprendentes como este!",
-    "ar": "لا تنس المتابعة للمزيد من التفاصيل المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Levi Strauss & Co.",
-    "url": "https://www.levistrauss.com/"
+    "name": "Neuroscience and Visual Perception Studies",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2804576/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kot Pantolonlardaki O Küçük Ceplerin Gerçek Amacı",
+  "_topic": "Göz İçi Damarlarımız Neden Görüntüye Engel Olmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-22T17:53:53.729970+00:00",
+  "generated_at": "2026-10-22T19:07:08.013544+00:00",
   "topic_guard_days": 180
 }

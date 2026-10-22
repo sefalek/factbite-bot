@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ayakkabıların En Ucundaki O Delikler Ne İşe Yarar?",
-    "body": "Spor ayakkabılarımızın en ucunda yer alan o ekstra delikler sadece süs değil! Eskiden basketbolcular ayakkabıları ayaklarına daha sıkı sabitlemek ve bilek burkulmalarını önlemek için bağcıkları bu gizli deliklerden geçirirdi."
+    "headline": "Sokak Lambalarının Altındaki O Küçük Delik Neden Var?",
+    "body": "Gece yürürken başınızı kaldırıp sokak lambalarına hiç baktınız mı? Çoğunun gövdesinde veya tepesinde küçük bir delik ya da kapak bulunur. Bu delik sadece montaj için değildir; içeride biriken sıcak havanın dışarı çıkmasını sağlayarak cihazın aşırı ısınmasını önleyen hayati bir havalandırma sistemidir."
   },
   "en": {
-    "headline": "What Are Those Extra Holes at the Top of Sneakers For?",
-    "body": "Those extra eyelets at the very top of your sneakers aren't just for decoration! Basketball players historically used them for a 'heel lock' lacing technique to keep their feet secure and prevent ankle sprains."
+    "headline": "Why is There a Small Hole Under Streetlights?",
+    "body": "Have you ever looked up at streetlights while walking at night? Most have a small hole or cap on their body or top. This hole isn't just for mounting; it's a vital ventilation system that prevents overheating by letting trapped hot air escape."
   },
   "es": {
-    "headline": "¿Para qué sirven esos agujeros extra en las zapatillas?",
-    "body": "¡Esos ojitos extra en la parte superior de tus zapatillas no son solo decorativos! Históricamente, los basquetbolistas los usaban para asegurar el talón y evitar esguinces de tobillo."
+    "headline": "¿Por qué hay un pequeño agujero debajo de las farolas?",
+    "body": "¿Alguna vez has mirado hacia arriba a las farolas mientras caminabas de noche? La mayoría tiene un pequeño agujero o tapa. Este agujero no es solo para el montaje; es un sistema de ventilación vital que evita el sobrecalentamiento."
   },
   "ar": {
-    "headline": "ما فائدة تلك الثقوب الإضافية في أعلى حذاء الرياضة؟",
-    "body": "تلك الثقوب الإضافية في أعلى حذائك الرياضي ليست للزينة فقط! استخدمها لاعبو كرة السلة تاريخياً لربط كعب القدم بإحكام ومنع التلتواءات."
+    "headline": "لماذا يوجد ثقب صغير تحت أعمدة الإنارة؟",
+    "body": "هل نظرت يوماً إلى أعمدة الإنارة أثناء المشي ليلاً؟ لمعظمها ثقب صغير أو غطاء. هذا الثقب ليس للتركيب فقط، بل هو نظام تهوية حيوي يمنع ارتفاع حرارة الجهاز."
   },
   "reel_hook": {
-    "tr": "Spor ayakkabındaki o en son delikler neden var hiç düşündün mü?",
-    "en": "Have you ever wondered what those very last holes on your sneakers are actually for?",
-    "es": "¿Alguna vez te has preguntado para qué sirven realmente esos últimos agujeros de tus zapatillas?",
-    "ar": "هل تساؤلت يوماً عن الغرض الحقيقي من تلك الثقوب الأخيرة في حذائك الرياضي؟"
+    "tr": "Sokak lambalarına baktığınızda o küçük detayı hiç fark ettiniz mi?",
+    "en": "Have you ever noticed that small detail when looking at streetlights?",
+    "es": "¿Alguna vez has notado ese pequeño detalle al mirar las farolas?",
+    "ar": "هل لاحظت ذلك التفاصيل الصغير عند النظر إلى أعمدة الإنارة؟"
   },
   "story_question": {
-    "tr": "Spor ayakkabınızdaki o ekstra delikleri daha önce hiç bağcık için kullandınız mı?",
-    "en": "Have you ever actually used those extra sneaker holes for lacing?",
-    "es": "¿Alguna vez has usado esos agujeros extra de las zapatillas para atarte los cordones?",
-    "ar": "هل سبق لك أن استخدمت تلك الثقوب الإضافية لربط حذائك؟"
+    "tr": "Sokak lambalarındaki bu küçük delik sizce ne işe yarıyor?",
+    "en": "What do you think this small hole in streetlights is for?",
+    "es": "¿Para quécrees que sirve este pequeño agujero en las farolas?",
+    "ar": "برأيك، ما فائدة هذا الثقب الصغير في أعمدة الإنارة؟"
   },
   "story_options": [
-    "Evet, her zaman kullanırım",
-    "Sadece süs sanıyordum",
-    "İlk defa duyuyorum"
+    "Havalandırma ve ısı dengesi",
+    "Su tahliyesi",
+    "Kablo geçişi"
   ],
   "hashtags": [
     "#FactBite",
-    "#sporayakkabı",
-    "#ilginçbilgiler",
-    "#pratikbilgiler",
+    "#sokaklambası",
     "#bilgi",
-    "#keşfet",
-    "#gündem"
+    "#şaşırtıcıgerçekler",
+    "#teknoloji",
+    "#gündelikyaşam",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu bildiğini şaşıran arkadaşına gönder!",
-    "en": "Send this to a friend who needs to know this!",
-    "es": "¡Envíaselo a un amigo que necesite saber esto!",
-    "ar": "أرسل هذا لصديق يحتاج لمعرفة هذه المعلومة!"
+    "tr": "Bunun gibi daha fazla gizli detayı kaçırmamak için takip et!",
+    "en": "Follow to not miss more hidden details like this!",
+    "es": "¡Sígueme para no perderte más detalles ocultos como este!",
+    "ar": "تابعنا لكي لا تفوتك المزيد من التفاصيل الخفية مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "Sneaker Lacing History",
-    "url": "https://www.mentalfloss.com"
+    "name": "Municipal Engineering Standards",
+    "url": "https://example.com/streetlight-ventilation"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ayakkabıların En Ucundaki O Delikler Ne İşe Yarar?",
+  "_topic": "Sokak Lambalarının Altındaki O Küçük Delik Neden Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-22T22:08:05.996977+00:00",
+  "generated_at": "2026-10-22T23:37:14.290722+00:00",
   "topic_guard_days": 180
 }

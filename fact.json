@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tuvalet Kağıdı Rulolarındaki O Görünmeyen Sır",
-    "body": "Evlerimizde her gün kullandığımız tuvalet kağıdı rulolarının ortasındaki o boşluk, sadece kartonu sarmak için değildir. Aslında taşıma sırasında ezilmeyi önleyen ve üretildiğiniz fabrikada otomatik makinelerin üzerine kusursuzca takılmasını sağlayan mühendislik harikası bir çaptır."
+    "headline": "Kot Pantolonlardaki O Küçük Ceplerin Gerçek Amacı",
+    "body": "Kot pantolonların ön kısmındaki o minik cep, görünüşünün aksine bozuk para veya çakmak için tasarlanmadı. 1800'lerde cep saatlerini güvenle taşımak ve korumak için Levi's tarafından özel olarak eklendi."
   },
   "en": {
-    "headline": "The Hidden Secret in Toilet Paper Rolls",
-    "body": "The hollow center in the toilet paper rolls we use every day isn't just for wrapping cardboard. It is actually an engineering marvel designed to prevent crushing during transport and allow them to be placed perfectly onto automated machines in the factory."
+    "headline": "The Real Purpose of Those Tiny Pockets on Jeans",
+    "body": "That tiny front pocket on jeans wasn't designed for spare change or lighters. It was originally added by Levi's in the 1800s to safely store and protect pocket watches."
   },
   "es": {
-    "headline": "El secreto oculto en los rollos de papel higiénico",
-    "body": "El centro hueco en los rollos de papel higiénico que usamos todos los días no es solo para enrollar cartón. En realidad, es una maravilla de ingeniería diseñada para evitar que se aplasten durante el transporte y permitir que se coloquen perfectamente en máquinas automáticas en la fábrica."
+    "headline": "El verdadero propósito de esos pequeños bolsillos en los vaqueros",
+    "body": "Ese pequeño bolsillo delantero en los vaqueros no fue diseñado para monedas o mecheros. Fue añadido originalmente por Levi's en el siglo XIX para guardar y proteger los relojes de bolsillo."
   },
   "ar": {
-    "headline": "السر الخفي في لفات ورق التواليت",
-    "body": "المركز المجوف في لفات ورق التواليت التي نستخدمها كل يوم ليس فقط لف الكرتون. إنه في الواقع أعجوبة هندسية مصممة لمنع السحق أثناء النقل والسماح بوضعها بشكل مثالي على الآلات الأوتوماتيكية في المصنع."
+    "headline": "الغرض الحقيقي من تلك الجيوب الصغيرة على الجينز",
+    "body": "لم يتم تصميم الجيب الأمامي الصغير على الجينز للعملات المعدنية أو الولاعات. تم إضافته في الأصل بواسطة ليفا في القرن التاسع عشر لتخزين وحماية ساعات الجيب بأمان."
   },
   "reel_hook": {
-    "tr": "Tuvalet kağıdı rulosunun ortasındaki o boşluğun ne işe yaradığını biliyor musun?",
-    "en": "Do you know what the hollow center in a toilet paper roll is actually for?",
-    "es": "¿Sabes para qué sirve realmente el centro hueco de un rollo de papel higiénico?",
-    "ar": "هل تعلم ما هو الغرض الحقيقي من المركز المجوف في لفة ورق التواليت؟"
+    "tr": "Kot pantolonunuzun o minik cebini ne için kullanıyorsunuz?",
+    "en": "What do you actually use that tiny pocket on your jeans for?",
+    "es": "¿Para qué usas realmente ese pequeño bolsillo de tus vaqueros?",
+    "ar": "ماذا تستخدم حقا هذا الجيب الصغير على بنطالك الجينز؟"
   },
   "story_question": {
-    "tr": "Sence bu boşluk ilk olarak ne için tasarlandı?",
-    "en": "What do you think this hollow space was originally designed for?",
-    "es": "¿Para qué crees que fue diseñado originalmente este espacio hueco?",
-    "ar": "برأيك، ما هو الغرض الأصلي من تصميم هذا الفراغ المجوف؟"
+    "tr": "Kot pantolonlardaki o küçük cebin ilk çıkış amacını biliyor muydunuz?",
+    "en": "Did you know the original purpose of that tiny pocket on jeans?",
+    "es": "¿Conocías el propósito original de ese pequeño bolsillo en los vaqueros?",
+    "ar": "هل كنت تعلم الغرض الأصلي من هذا الجيب الصغير على الجينز؟"
   },
   "story_options": [
-    "Makine uyumu için",
-    "Maliyet kısmak için",
-    "Kolay tutulsun diye"
+    "Evet, biliyordum",
+    "Yeni öğrendim",
+    "Hiç dikkat etmemiştim"
   ],
   "hashtags": [
     "#FactBite",
+    "#giyim",
+    "#tarih",
+    "#moda",
     "#bilgi",
-    "#ilginçbilgiler",
-    "#teknoloji",
-    "#keşfet",
-    "#faydalibilgiler",
-    "#gündem"
+    "#ilginç",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı detay için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising details like this!",
+    "es": "¡No olvides seguirnos para más detalles sorprendentes como este!",
+    "ar": "لا تنس المتابعة للمزيد من التفاصيل المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Industrial Manufacturing Standards",
-    "url": "https://www.manufacturing-standards.com"
+    "name": "Levi Strauss & Co.",
+    "url": "https://www.levistrauss.com/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tuvalet Kağıdı Rulolarındaki O Görünmeyen Sır",
+  "_topic": "Kot Pantolonlardaki O Küçük Ceplerin Gerçek Amacı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-22T15:58:00.722630+00:00",
+  "generated_at": "2026-10-22T17:53:53.729970+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Muz Kabukları Kaymaktan Çok Daha Fazlasını Yapar",
-    "body": "Sadece yere atılıp çizgi filmlerde kahramanları düşüren muz kabukları, aslında doğanın kendi su arıtma sistemidir. Kabukların içindeki lifli yapı, sudaki kurşun ve bakır gibi ağır metalleri bir sünger gibi emerek suyu temizleyebilir."
+    "headline": "Tuvalet Kağıdı Rulolarındaki O Görünmeyen Sır",
+    "body": "Evlerimizde her gün kullandığımız tuvalet kağıdı rulolarının ortasındaki o boşluk, sadece kartonu sarmak için değildir. Aslında taşıma sırasında ezilmeyi önleyen ve üretildiğiniz fabrikada otomatik makinelerin üzerine kusursuzca takılmasını sağlayan mühendislik harikası bir çaptır."
   },
   "en": {
-    "headline": "Banana Peels Do Much More Than Just Slip People Up",
-    "body": "Banana peels, usually famous for cartoon slips, are actually nature's own water purification system. The fibrous structure inside the peels can absorb heavy metals like lead and copper from water like a sponge."
+    "headline": "The Hidden Secret in Toilet Paper Rolls",
+    "body": "The hollow center in the toilet paper rolls we use every day isn't just for wrapping cardboard. It is actually an engineering marvel designed to prevent crushing during transport and allow them to be placed perfectly onto automated machines in the factory."
   },
   "es": {
-    "headline": "Las cáscaras de plátano hacen mucho más que hacer resbalar a la gente",
-    "body": "Las cáscaras de plátano, famosas por los resbalones de dibujos animados, son en realidad el sistema de purificación de agua de la naturaleza. Su estructura fibrosa puede absorber metales pesados como plomo y cobre."
+    "headline": "El secreto oculto en los rollos de papel higiénico",
+    "body": "El centro hueco en los rollos de papel higiénico que usamos todos los días no es solo para enrollar cartón. En realidad, es una maravilla de ingeniería diseñada para evitar que se aplasten durante el transporte y permitir que se coloquen perfectamente en máquinas automáticas en la fábrica."
   },
   "ar": {
-    "headline": "قشور الموز تفعل أكثر بكثير من مجرد التسبب في الانزلاق",
-    "body": "قشور الموز، المعروفة بالانزلاق في الرسوم المتحركة، هي في الواقع نظام تنقية المياه الطبيعي. يمكن لهيكلها الليفي امتصاص المعادن الثقيلة مثل الرصاص والنحاس مثل الإسفنج."
+    "headline": "السر الخفي في لفات ورق التواليت",
+    "body": "المركز المجوف في لفات ورق التواليت التي نستخدمها كل يوم ليس فقط لف الكرتون. إنه في الواقع أعجوبة هندسية مصممة لمنع السحق أثناء النقل والسماح بوضعها بشكل مثالي على الآلات الأوتوماتيكية في المصنع."
   },
   "reel_hook": {
-    "tr": "Çizgi filmlerde hepimizi güldüren o muz kabuğu var ya... Meğer devasa bir sırrı saklıyormuş.",
-    "en": "That banana peel that always makes us laugh in cartoons... turns out it hides a massive secret.",
-    "es": "Esa cáscara de plátano que siempre nos hace reír en los dibujos animados... resulta que oculta un gran secreto.",
-    "ar": "قشرة الموز التي تضحكنا دائماً في الرسوم المتحركة... اتضح أنها تخفي سرًا ضخمًا."
+    "tr": "Tuvalet kağıdı rulosunun ortasındaki o boşluğun ne işe yaradığını biliyor musun?",
+    "en": "Do you know what the hollow center in a toilet paper roll is actually for?",
+    "es": "¿Sabes para qué sirve realmente el centro hueco de un rollo de papel higiénico?",
+    "ar": "هل تعلم ما هو الغرض الحقيقي من المركز المجوف في لفة ورق التواليت؟"
   },
   "story_question": {
-    "tr": "Sence muz kabuğu başka hangi alanda kullanılıyor olabilir?",
-    "en": "In which other field do you think banana peels might be used?",
-    "es": "¿En qué otro campo crees que se podrían usar las cáscaras de plátano?",
-    "ar": "في أي مجال آخر تعتقد أنه يمكن استخدام قشور الموز؟"
+    "tr": "Sence bu boşluk ilk olarak ne için tasarlandı?",
+    "en": "What do you think this hollow space was originally designed for?",
+    "es": "¿Para qué crees que fue diseñado originalmente este espacio hueco?",
+    "ar": "برأيك، ما هو الغرض الأصلي من تصميم هذا الفراغ المجوف؟"
   },
   "story_options": [
-    "Ayakkabı Parlatma",
-    "Su Arıtma",
-    "Pil Yapımı"
+    "Makine uyumu için",
+    "Maliyet kısmak için",
+    "Kolay tutulsun diye"
   ],
   "hashtags": [
     "#FactBite",
     "#bilgi",
     "#ilginçbilgiler",
-    "#doğa",
-    "#bilim",
+    "#teknoloji",
     "#keşfet",
-    "#faydalıbilgiler"
+    "#faydalibilgiler",
+    "#gündem"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "ACS Sustainable Chemistry & Engineering",
-    "url": "https://pubs.acs.org/journal/ascecg"
+    "name": "Industrial Manufacturing Standards",
+    "url": "https://www.manufacturing-standards.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Muz Kabukları Kaymaktan Çok Daha Fazlasını Yapar",
+  "_topic": "Tuvalet Kağıdı Rulolarındaki O Görünmeyen Sır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-22T11:47:30.728762+00:00",
+  "generated_at": "2026-10-22T15:58:00.722630+00:00",
   "topic_guard_days": 180
 }

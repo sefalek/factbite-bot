@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tuvaletlerin Sifonunu Çekerken Neden Kapağı Kapatmalısınız?",
-    "body": "Sifon çektiğinizde yükselen görünmez su damlacıkları metrelerce havaya saçılır ve banyonuzdaki her şeye yerleşir."
+    "headline": "Yastığınız Ne Kadar Kirli?",
+    "body": "Geceleri uykudayken vücudumuz sadece dinlenmez; aynı zamanda milyonlarca ölü deri hücresi döker ve terler. Yastıklar bu nemi ve kalıntıları sünger gibi çeker. Birkaç yıl kullandığınız sıradan bir yastığın ağırlığının hatırı sayılır bir kısmı, işte bu biriken görünmeyen kalıntılardan ve mikroorganizmalardan oluşur."
   },
   "en": {
-    "headline": "Why You Should Always Close the Toilet Lid Before Flushing",
-    "body": "When you flush, invisible water droplets soar meters into the air and settle on everything in your bathroom."
+    "headline": "How Dirty Is Your Pillow?",
+    "body": "While we sleep at night, our bodies don't just rest; they also shed millions of dead skin cells and sweat. Pillows absorb this moisture and residue like a sponge. A significant portion of the weight of an ordinary pillow you've used for a couple of years consists of these accumulated invisible residues and microorganisms."
   },
   "es": {
-    "headline": "Por qué debes cerrar la tapa del inodoro antes de tirar de la cadena",
-    "body": "Al tirar de la cadena, gotas de agua invisibles se elevan metros en el aire y se depositan en todo tu baño."
+    "headline": "¿Qué tan sucia está tu almohada?",
+    "body": "Mientras dormimos por la noche, nuestros cuerpos no solo descansan; también desprenden millones de células muertas de la piel y sudor. Las almohadas absorben esta humedad y residuos como una esponja. Una parte significativa del peso de una almohada común que has usado durante un par de años consiste en estos residuos invisibles acumulados y microorganismos."
   },
   "ar": {
-    "headline": "لماذا يجب عليك إغلاق غطاء المرحاض قبل سحب السافون",
-    "body": "عند سحب السافون، تتطاير قطرات ماء غير مرئية أمتاراً في الهواء وتستقر على كل شيء في حمامك."
+    "headline": "ما مدى اتساخ وسادتك؟",
+    "body": "بينما ننام ليلاً، لا تستريح أجسامنا فحسب، بل نتخلص أيضاً من ملايين خلايا الجلد الميتة والعرق. تمتص الوسائد هذه الرطوبة والبقايا مثل الإسفنج. جزء كبير من وزن الوسادة العادية التي استخدَمْتَها لمدة عامين يتكون من هذه البقايا غير المرئية المتراكمة والكائنات الحية الدقيقة."
   },
   "reel_hook": {
-    "tr": "Bunu öğrendikten sonra sifonu bir daha asla kapağı açık çekmeyeceksiniz.",
-    "en": "You will never flush the toilet with the lid open after learning this.",
-    "es": "Nunca volverás a tirar de la cadena con la tapa abierta después de saber esto.",
-    "ar": "لن تقوم بسحب السافون وغطاء المرحاض مفتوحاً بعد معرفة هذا."
+    "tr": "Her gece başınızı koyduğunuz o yastık, aslında yıllar içinde ne kadar ağırlaşıyor biliyor musunuz?",
+    "en": "Do you know how heavy that pillow you rest your head on every night actually gets over the years?",
+    "es": "¿Sabes cuánto pesa realmente esa almohada en la que apoyas la cabeza cada noche a lo largo de los años?",
+    "ar": "هل تعلم كم تصبح ثقيلة حقاً تلك الوسادة التي تضع رأسك عليها كل ليلة على مر السنين؟"
   },
   "story_question": {
-    "tr": "Sifonu çekerken tuvalet kapağını genellikle kapatır mısınız?",
-    "en": "Do you usually close the toilet lid when flushing?",
-    "es": "¿Sueles cerrar la tapa del inodoro al tirar de la cadena?",
-    "ar": "هل تغلق غطاء المرحاض عادة عند سحب السافون؟"
+    "tr": "Birkaç yıldır kullanılan ortalama bir yastığın ağırlığının ne kadarı biriken kalıntılardan oluşur?",
+    "en": "What fraction of the weight of an average pillow used for a few years consists of accumulated residue?",
+    "es": "¿Qué fracción del peso de una almohada promedio usada durante unos años consiste en residuos acumulados?",
+    "ar": "ما هي نسبة وزن الوسادة العادية المستخدمة لبضع سنوات والتي تتكون من المخلفات المتراكمة؟"
   },
   "story_options": [
-    "Her zaman kapatırım",
-    "Bazen unutuyorum",
-    "Hiç kapatmazdım"
+    "Sadece %1'i",
+    "Yaklaşık %10'u",
+    "Yarısı"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#temizlik",
-    "#banyo",
-    "#ilginçbilgiler",
+    "#uyku",
     "#sağlık",
-    "#faydalibilgiler"
+    "#bilgi",
+    "#ilginçbilgiler",
+    "#ev",
+    "#temizlik"
   ],
   "cta": {
-    "tr": "Bu videoyu banyoda telefon kullanan bir arkadaşına gönder!",
-    "en": "Send this video to a friend who uses their phone in the bathroom!",
-    "es": "¡Envía este video a un amigo que usa el móvil en el baño!",
-    "ar": "أرسل هذا الفيديو لصديق يستخدم هاتفه في الحمام!"
+    "tr": "Yastığınızı en son ne zaman yıkadınız veya değiştirdiniz? Yorumlarda buluşalım!",
+    "en": "When was the last time you washed or changed your pillow? Let's meet in the comments!",
+    "es": "¿Cuándo fue la última vez que lavaste o cambiaste tu almohada? ¡Nos vemos en los comentarios!",
+    "ar": "متى كانتآخر مرة غسلت فيها وسادتك أو استبدلتها؟ لنلتقي في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Microbiology of the Built Environment",
-    "url": "https://journals.asm.org/"
+    "name": "Sleep Foundation",
+    "url": "https://www.sleepfoundation.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tuvaletlerin Sifonunu Çekerken Neden Kapağı Kapatmalısınız?",
+  "_topic": "Yastığınız Ne Kadar Kirli?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-23T17:53:45.610983+00:00",
+  "generated_at": "2026-10-23T18:56:54.074588+00:00",
   "topic_guard_days": 180
 }

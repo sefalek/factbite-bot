@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çorapların Burun Kısmındaki O Gizli Dikiş Neden Var?",
-    "body": "Sabah çoraplarınızı giyerken parmaklarınızı rahatsız eden o kalın dikişin aslında orada olmasının hayati bir sebebi var. Çoğumuz bunu kötü bir üretim hatası ya da ucuz işçilik zannederiz; ancak o dikiş, çorabın ucunun sökülmesini engelleyen özel bir örgü tekniğidir."
+    "headline": "Tuvaletlerin Sifonunu Çekerken Neden Kapağı Kapatmalısınız?",
+    "body": "Sifon çektiğinizde yükselen görünmez su damlacıkları metrelerce havaya saçılır ve banyonuzdaki her şeye yerleşir."
   },
   "en": {
-    "headline": "Why Is There That Hidden Seam on the Toe of Socks?",
-    "body": "That thick seam that bugs your toes when you put on socks in the morning actually has a vital reason for being there. Most of us think it's a poor manufacturing flaw or cheap labor; but that seam is a special knitting technique that prevents the toe from unraveling."
+    "headline": "Why You Should Always Close the Toilet Lid Before Flushing",
+    "body": "When you flush, invisible water droplets soar meters into the air and settle on everything in your bathroom."
   },
   "es": {
-    "headline": "¿Por qué existe esa costura oculta en la puntera de los calcetines?",
-    "body": "Esa costura gruesa que molesta en los dedos al ponerte los calcetines por la mañana en realidad tiene una razón vital para estar ahí. La mayoría pensamos que es un fallo de fabricación o mano de obra barata; pero esa costura es una técnica de tejido especial que evita que la punta se descosa."
+    "headline": "Por qué debes cerrar la tapa del inodoro antes de tirar de la cadena",
+    "body": "Al tirar de la cadena, gotas de agua invisibles se elevan metros en el aire y se depositan en todo tu baño."
   },
   "ar": {
-    "headline": "لماذا توجد تلك الحاكة الخفية في مقدمة الجوارب؟",
-    "body": "تلك الحاكة السميكة التي تزعج أصابعك عند ارتداء الجوارب صباحاً لها سبب حيوي وجودها هناك. يعتقد معظمنا أنها عيب تصنيع أو عمالة رخيصة؛ لكنها تقنية حياكة خاصة تمنع طرف الجورب من التفكك."
+    "headline": "لماذا يجب عليك إغلاق غطاء المرحاض قبل سحب السافون",
+    "body": "عند سحب السافون، تتطاير قطرات ماء غير مرئية أمتاراً في الهواء وتستقر على كل شيء في حمامك."
   },
   "reel_hook": {
-    "tr": "Sabah giydiğiniz çoraplardaki o rahatsız edici dikişin aslında hayat kurtardığını biliyor muydunuz?",
-    "en": "Did you know that annoying seam in the socks you wear every morning actually saves them?",
-    "es": "¿Sabías que esa molesta costura en los calcetines que te pones cada mañana en realidad los salva?",
-    "ar": "هل تعلم أن تلك الحاكة المزعجة في جواربك كل صباح تنقذها حقاً؟"
+    "tr": "Bunu öğrendikten sonra sifonu bir daha asla kapağı açık çekmeyeceksiniz.",
+    "en": "You will never flush the toilet with the lid open after learning this.",
+    "es": "Nunca volverás a tirar de la cadena con la tapa abierta después de saber esto.",
+    "ar": "لن تقوم بسحب السافون وغطاء المرحاض مفتوحاً بعد معرفة هذا."
   },
   "story_question": {
-    "tr": "Çoraplardaki o kalın dikiş sizce neden oradadır?",
-    "en": "Why do you think that thick seam in socks is there?",
-    "es": "¿Por qué crees que está esa costura gruesa en los calcetines?",
-    "ar": "برأيك، لماذا توجد تلك الحاكة السميكة في الجوارب؟"
+    "tr": "Sifonu çekerken tuvalet kapağını genellikle kapatır mısınız?",
+    "en": "Do you usually close the toilet lid when flushing?",
+    "es": "¿Sueles cerrar la tapa del inodoro al tirar de la cadena?",
+    "ar": "هل تغلق غطاء المرحاض عادة عند سحب السافون؟"
   },
   "story_options": [
-    "Sökülmeyi önlemek için",
-    "Ayağı sıcak tutmak için",
-    "Moda tasarımı gereği"
+    "Her zaman kapatırım",
+    "Bazen unutuyorum",
+    "Hiç kapatmazdım"
   ],
   "hashtags": [
     "#FactBite",
-    "#çorap",
-    "#gündelikyaşam",
+    "#bilgi",
+    "#temizlik",
+    "#banyo",
     "#ilginçbilgiler",
-    "#pratikbilgiler",
-    "#bilim"
+    "#sağlık",
+    "#faydalibilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi günlük hayattaki gizli detaylar için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more hidden details in daily life like this!",
-    "es": "¡No olvides seguirnos para más detalles ocultos de la vida diaria como este!",
-    "ar": "لا تنس المتابعة لمزيد من التفاصيل الخفية في الحياة اليومية مثل هذه!"
+    "tr": "Bu videoyu banyoda telefon kullanan bir arkadaşına gönder!",
+    "en": "Send this video to a friend who uses their phone in the bathroom!",
+    "es": "¡Envía este video a un amigo que usa el móvil en el baño!",
+    "ar": "أرسل هذا الفيديو لصديق يستخدم هاتفه في الحمام!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Textile History and Manufacturing Standards",
-    "url": "https://www.textileinstitute.org"
+    "name": "Microbiology of the Built Environment",
+    "url": "https://journals.asm.org/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çorapların Burun Kısmındaki O Gizli Dikiş Neden Var?",
+  "_topic": "Tuvaletlerin Sifonunu Çekerken Neden Kapağı Kapatmalısınız?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-23T15:49:03.929765+00:00",
+  "generated_at": "2026-10-23T17:53:45.610983+00:00",
   "topic_guard_days": 180
 }

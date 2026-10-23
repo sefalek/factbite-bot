@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ters Çevrilen Fiyat Etiketlerinin Sırrı",
-    "body": "Mağazalarda kıyafetlerin etiketlerini ters çevirip baktığınızda gördüğünüz o gizli sembollerin rastgele basıldığını mı sanıyorsunuz? Aslında bu işaretler, yıkama talimatından çok daha öte bir anlama sahip ve üretim bandındaki gizli bir standardı temsil ediyor."
+    "headline": "Salatalığın İç Sıcaklığı Neden Dışarısından Farklıdır?",
+    "body": "Salatalığın içi, su oranının çok yüksek olması nedeniyle dış ortamdan genellikle daha serindir. Kesildiğinde bu serinliği hemen hissedersiniz."
   },
   "en": {
-    "headline": "The Secret Behind Reversed Price Tags",
-    "body": "Do you think those hidden symbols you see when you flip clothing tags around in stores are printed at random? Actually, these marks hold a meaning far beyond washing instructions and represent a hidden standard on the production line."
+    "headline": "Why is a Cucumber's Internal Temperature Different?",
+    "body": "The inside of a cucumber is usually cooler than the outside due to its high water content. You can feel this coolness immediately when you slice it."
   },
   "es": {
-    "headline": "El secreto detrás de las etiquetas de precios al revés",
-    "body": "¿Crees que esos símbolos ocultos que ves cuando volteas las etiquetas de la ropa en las tiendas se imprimen al azar? En realidad, estas marcas tienen un significado mucho más allá de las instrucciones de lavado y representan un estándar oculto en la línea de producción."
+    "headline": "¿Por qué la temperatura interna de un pepino es diferente?",
+    "body": "El interior de un pepino suele ser más fresco que el exterior debido a su alto contenido de agua."
   },
   "ar": {
-    "headline": "سر بطاقات الأسعار المقلوبة",
-    "body": "هل تعتقد أن تلك الرموز المخفية التي تراها عندما تقلب بطاقات الملابس في المتاجر تتم طباعتها عشوائياً؟ في الواقع، تحمل هذه العلامات معناه أبعد بكثير من تعليمات الغسيل وتمثل معياراً خفياً على خط الإنتاج."
+    "headline": "لماذا تختلف درجة حرارة الخيار الداخلية؟",
+    "body": "يكون الجزء الداخلي للخيار عادة أبرد من الخارج بسبب محتواه العالي من الماء."
   },
   "reel_hook": {
-    "tr": "Mağazada kıyafetlerin etiketini neden hep ters çevirirler?",
-    "en": "Why do they always flip the clothing tags in stores?",
-    "es": "¿Por qué siempre voltean las etiquetas de la ropa en las tiendas?",
-    "ar": "لماذا يقلبون دائماً بطاقات الملابس في المتاجر؟"
+    "tr": "Biliyor musunuz, bir salatalığı ortadan ikiye kestiğinizde içindeki sıcaklık dışarısından tamamen farklıdır!",
+    "en": "Did you know that when you cut a cucumber in half, its internal temperature is completely different from the outside!",
+    "es": "¿Sabías que cuando cortas un pepino por la mitad, su temperatura interna es completamente diferente a la exterior?",
+    "ar": "هل تعلم أنك عندما تقطع الخيارة إلى نصفين، فإن درجة حرارتها الداخلية تختلف تماماً عن الخارج؟"
   },
   "story_question": {
-    "tr": "Kıyafet etiketlerindeki bu gizli sembollerin ilk olarak ne amaçla tasarlandığını biliyor musunuz?",
-    "en": "Do you know what purpose these hidden symbols on clothing tags were originally designed for?",
-    "es": "¿Sabes para qué propósito fueron diseñados originalmente estos símbolos ocultos en las etiquetas de la ropa?",
-    "ar": "هل تعرف الغرض الذي صُممت من أجله هذه الرموز المخفية على بطاقات الملابس في الأصل؟"
+    "tr": "Salatalığın içi dışına göre genellikle nasıldır?",
+    "en": "How does the inside of a cucumber usually compare to the outside?",
+    "es": "¿Cómo es generalmente el interior de un pepino en comparación con el exterior?",
+    "ar": "كيف تبدو حرارة داخل الخيار مقارنة بالخارج؟"
   },
   "story_options": [
-    "Kumaş kalitesini belirtmek için",
-    "Fabrika takip standardı için",
-    "Yıkama maliyetini düşürmek için"
+    "Daha serin",
+    "Daha sıcak",
+    "Aynı sıcaklıkta"
   ],
   "hashtags": [
     "#FactBite",
+    "#salatalık",
     "#bilgi",
-    "#moda",
-    "#giyim",
     "#ilginçbilgiler",
-    "#üretim"
+    "#doğa",
+    "#mutfak",
+    "keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gizli detayı kaçırmamak için takip et!",
-    "en": "Follow to not miss more hidden details like this!",
-    "es": "¡Síguenos para no perderte más detalles ocultos como este!",
-    "ar": "اتبعنا لكي لا تفوتك المزيد من التفاصيل المخفية مثل هذه!"
+    "tr": "Bunu daha önce fark etmiş miydin? Yorumlarda buluşalım!",
+    "en": "Did you notice this before? Let us know in the comments!",
+    "es": "¿Te habías dado cuenta de esto antes? ¡Déjanos tu comentario!",
+    "ar": "هل لاحظت هذا من قبل؟ شاركنا برأيك في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 8.75
   },
   "source": {
-    "name": "Textile Production Standards Archive",
-    "url": "https://example.com/textile-standards"
+    "name": "Botanical Science Insights",
+    "url": "https://example.com/cucumber-temperature"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ters Çevrilen Fiyat Etiketlerinin Sırrı",
+  "_topic": "Salatalığın İç Sıcaklığı Neden Dışarısından Farklıdır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-23T10:38:08.427937+00:00",
+  "generated_at": "2026-10-23T11:34:23.031734+00:00",
   "topic_guard_days": 180
 }

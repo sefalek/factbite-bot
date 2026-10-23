@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Karanlıkta Telefonu Baktıktan Sonra Diğer Gözünüze Ne Oluyor?",
-    "body": "Tek gözünüzle telefona bakıp karanlığa geçtiğinizde neden hiçbir şey göremezsiniz? Çünkü korsanlar bunu yüzyıllardır biliyordu; tek gözlerini kapalı tutarak karanlığa hazırlarlardı."
+    "headline": "Tuvalet Musluklarındaki O Gizli Sır",
+    "body": "Çoğu tuvalet musluğunun ucunda bulunan o küçük fileli parça, sadece suyu süzmek için değildir. Aslında o parça, tazyikli akan suyu milyonlarca minik hava kabarcığıyla karıştırarak yumuşak ve sıçratmayan bir akış sağlar. Böylece hem su tasarrufu yaparsınız hem de ellerinizi yıkarken etraf ıslanmaz."
   },
   "en": {
-    "headline": "What Happens to Your Other Eye After Looking at Your Phone in the Dark?",
-    "body": "Why can't you see anything when you look at your phone with one eye and step into the dark? Because pirates knew this for centuries, keeping one eye closed to adapt to the dark."
+    "headline": "The Hidden Secret in Faucets",
+    "body": "That small mesh piece at the tip of most faucets isn't just for filtering water. It actually mixes the high-pressure water with millions of tiny air bubbles to create a soft, splash-free flow. This saves water and keeps the sink area dry."
   },
   "es": {
-    "headline": "¿Qué le pasa a tu otro ojo después de mirar el teléfono en la oscuridad?",
-    "body": "¿Por qué no puedes ver nada cuando miras tu teléfono con un ojo y sales a la oscuridad? Porque los piratas sabían esto durante siglos, manteniendo un ojo cerrado para adaptarse."
+    "headline": "El secreto oculto en los grifos",
+    "body": "Esa pequeña pieza de malla en la punta de los grifos no es solo para filtrar el agua. En realidad, mezcla el agua a presión con millones de burbujas de aire para crear un flujo suave y sin salpicaduras, ahorrando agua."
   },
   "ar": {
-    "headline": "ماذا يحدث لعينك الأخرى بعد النظر إلى هاتفك في الظلام؟",
-    "body": "لماذا لا يمكنك رؤية أي شيء عندما تنظر إلى هاتفك عين واحدة وتنتقل إلى الظلام؟ لأن القراصنة عرفوا هذا لقرون، حيث أبقوا عينًا واحدة مغلقة للتكيف."
+    "headline": "السر الخفي في حنفيات المياه",
+    "body": "تلك القطعة الشبكية الصغيرة في نهاية الحنفيات ليست مجرد فلتر للمياه، بل تخلط الماء بفقاعات الهواء لتدفق ناعم بدون رذاذ وتوفير المياه."
   },
   "reel_hook": {
-    "tr": "Karanlıkta telefona baktıktan sonra neden sadece tek gözünüz kör olur?",
-    "en": "Why does only one eye go blind after looking at your phone in the dark?",
-    "es": "¿Por qué solo un ojo se queda ciego después de mirar tu teléfono en la oscuridad?",
-    "ar": "لماذا تصاب عين واحدة فقط بالعمى بعد النظر إلى هاتفك في الظلام؟"
+    "tr": "Muslukların ucundaki o küçük parçanın ne işe yarığını biliyor musun?",
+    "en": "Do you know what that tiny piece at the end of faucets actually does?",
+    "es": "¿Sabes para qué sirve esa pequeña pieza al final de los grifos?",
+    "ar": "هل تعرف ماذا تفعل تلك القطعة الصغيرة في نهاية الحنفيات؟"
   },
   "story_question": {
-    "tr": "Korsanların tek gözlerini kapatmasının asıl sebebi neydi?",
-    "en": "What was the real reason pirates covered one eye?",
-    "es": "¿Cuál era la verdadera razón por la que los piratas se tapaban un ojo?",
-    "ar": "ما هو السبب الحقيقي وراء تغطية القراصنة لعين واحدة؟"
+    "tr": "Musluk ucundaki bu parçanın ana görevi nedir?",
+    "en": "What is the main purpose of this faucet part?",
+    "es": "¿Cuál es el propósito principal de esta pieza?",
+    "ar": "ما هو الغرض الرئيسي من هذه القطعة؟"
   },
   "story_options": [
-    "Göz bandı havalı durduğu için",
-    "Karanlığa anında uyum sağlamak için",
-    "Savaşta yaralandığı için"
+    "Suyu havalandırıp sıçratmayı önlemek",
+    "Suyu sadece ısıtmak",
+    "Kireci tamamen yok etmek"
   ],
   "hashtags": [
     "#FactBite",
-    "#ilginçbilgiler",
-    "#bilim",
-    "#tarih",
-    "#göz",
+    "#bilgi",
+    "#teknoloji",
+    "#ilginç",
     "#keşfet",
-    "#faydalıbilgiler"
+    "#pratik"
   ],
   "cta": {
-    "tr": "Bunu bildiğinizi düşündüğünüz bir arkadaşınıza gönderin!",
-    "en": "Send this to a friend who you think knew this!",
-    "es": "¡Envíaselo a un amigo que creas que sabía esto!",
-    "ar": "أرسل هذا إلى صديق تعتقد أنه كان يعرف هذا!"
+    "tr": "Bunun gibi günlük hayattaki gizli detaylar için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more hidden daily details like this!",
+    "es": "¡No olvides seguirnos para más detalles ocultos!",
+    "ar": "لا تنس متابعتنا للمزيد من التفاصيل الخفية!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Smithsonian Magazine",
-    "url": "https://www.smithsonianmag.com"
+    "name": "Plumbing Basics",
+    "url": "https://www.example.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Karanlıkta Telefonu Baktıktan Sonra Diğer Gözünüze Ne Oluyor?",
+  "_topic": "Tuvalet Musluklarındaki O Gizli Sır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-23T21:53:28.134461+00:00",
+  "generated_at": "2026-10-23T23:31:12.245832+00:00",
   "topic_guard_days": 180
 }

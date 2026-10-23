@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Salatalığın İç Sıcaklığı Neden Dışarısından Farklıdır?",
-    "body": "Salatalığın içi, su oranının çok yüksek olması nedeniyle dış ortamdan genellikle daha serindir. Kesildiğinde bu serinliği hemen hissedersiniz."
+    "headline": "Dilimiz Neden Gün Boyu Üst Damarımıza Değer?",
+    "body": "Gün içinde fark etmeseniz bile diliniz genellikle üst damarınıza yapışıktır. Bunun tembel olmasından ziyade vücudunuzun dengeyi koruma ve çene kaslarını dinlendirme yöntemi olduğunu biliyor muydunuz?"
   },
   "en": {
-    "headline": "Why is a Cucumber's Internal Temperature Different?",
-    "body": "The inside of a cucumber is usually cooler than the outside due to its high water content. You can feel this coolness immediately when you slice it."
+    "headline": "Why Does Your Tongue Rest on the Roof of Your Mouth?",
+    "body": "Even if you don't notice it during the day, your tongue usually rests against the roof of your mouth. Did you know this isn't due to laziness, but rather your body's way of maintaining balance and relaxing jaw muscles?"
   },
   "es": {
-    "headline": "¿Por qué la temperatura interna de un pepino es diferente?",
-    "body": "El interior de un pepino suele ser más fresco que el exterior debido a su alto contenido de agua."
+    "headline": "¿Por qué tu lengua descansa en el paladar?",
+    "body": "Aunque no lo notes durante el día, tu lengua suele descansar contra el paladar. ¿Sabías que esto no se debe a la flojera, sino a la forma que tiene tu cuerpo de mantener el equilibrio y relajar los músculos de la mandíbula?"
   },
   "ar": {
-    "headline": "لماذا تختلف درجة حرارة الخيار الداخلية؟",
-    "body": "يكون الجزء الداخلي للخيار عادة أبرد من الخارج بسبب محتواه العالي من الماء."
+    "headline": "لماذا يستقر لسانك على سقف فمك؟",
+    "body": "حتى لو لم تلاحظ ذلك خلال اليوم، فإن لسانك عادة ما يستقر على سقف فمك. هل كنت تعلم أن هذا ليس بسبب الكسل، بل هو طريقة جسمك للحفاظ على التوازن وإرخاء عضلات الفك؟"
   },
   "reel_hook": {
-    "tr": "Biliyor musunuz, bir salatalığı ortadan ikiye kestiğinizde içindeki sıcaklık dışarısından tamamen farklıdır!",
-    "en": "Did you know that when you cut a cucumber in half, its internal temperature is completely different from the outside!",
-    "es": "¿Sabías que cuando cortas un pepino por la mitad, su temperatura interna es completamente diferente a la exterior?",
-    "ar": "هل تعلم أنك عندما تقطع الخيارة إلى نصفين، فإن درجة حرارتها الداخلية تختلف تماماً عن الخارج؟"
+    "tr": "Gün boyunca diliniz aslında nerede duruyor hiç düşündünüz mü?",
+    "en": "Have you ever thought about where your tongue actually rests all day?",
+    "es": "¿Alguna vez has pensado dónde descansa realmente tu lengua todo el día?",
+    "ar": "هل فكرت من قبل أين يستقر لسانك حقاً طوال اليوم؟"
   },
   "story_question": {
-    "tr": "Salatalığın içi dışına göre genellikle nasıldır?",
-    "en": "How does the inside of a cucumber usually compare to the outside?",
-    "es": "¿Cómo es generalmente el interior de un pepino en comparación con el exterior?",
-    "ar": "كيف تبدو حرارة داخل الخيار مقارنة بالخارج؟"
+    "tr": "Dinlenme halindeyken diliniz normalde nereye temas eder?",
+    "en": "Where does your tongue normally touch when at rest?",
+    "es": "¿Dónde toca normalmente tu lengua cuando está en reposo?",
+    "ar": "أين يلمس لسانك عادةً عندما يكون في وضع الراحة؟"
   },
   "story_options": [
-    "Daha serin",
-    "Daha sıcak",
-    "Aynı sıcaklıkta"
+    "Üst damar",
+    "Alt dişler",
+    "Boşlukta kalır"
   ],
   "hashtags": [
     "#FactBite",
-    "#salatalık",
-    "#bilgi",
+    "#dil",
+    "#vücutbilimi",
+    "#anatomi",
     "#ilginçbilgiler",
-    "#doğa",
-    "#mutfak",
-    "keşfet"
+    "#sağlık",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu daha önce fark etmiş miydin? Yorumlarda buluşalım!",
-    "en": "Did you notice this before? Let us know in the comments!",
-    "es": "¿Te habías dado cuenta de esto antes? ¡Déjanos tu comentario!",
-    "ar": "هل لاحظت هذا من قبل؟ شاركنا برأيك في التعليقات!"
+    "tr": "Bunu fark ettiğin anı yoruma yaz!",
+    "en": "Comment the moment you noticed this!",
+    "es": "¡Comenta el momento en que te diste cuenta de esto!",
+    "ar": "اكتب في التعليقات اللحظة التي لاحظت فيها ذلك!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.75
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Botanical Science Insights",
-    "url": "https://example.com/cucumber-temperature"
+    "name": "Healthline",
+    "url": "https://www.healthline.com/health/tongue-at-rest"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Salatalığın İç Sıcaklığı Neden Dışarısından Farklıdır?",
+  "_topic": "Dilimiz Neden Gün Boyu Üst Damarımıza Değer?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-23T11:34:23.031734+00:00",
+  "generated_at": "2026-10-23T14:03:32.015077+00:00",
   "topic_guard_days": 180
 }

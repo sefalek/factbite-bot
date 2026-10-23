@@ -1,52 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dilimiz Neden Gün Boyu Üst Damarımıza Değer?",
-    "body": "Gün içinde fark etmeseniz bile diliniz genellikle üst damarınıza yapışıktır. Bunun tembel olmasından ziyade vücudunuzun dengeyi koruma ve çene kaslarını dinlendirme yöntemi olduğunu biliyor muydunuz?"
+    "headline": "Çorapların Burun Kısmındaki O Gizli Dikiş Neden Var?",
+    "body": "Sabah çoraplarınızı giyerken parmaklarınızı rahatsız eden o kalın dikişin aslında orada olmasının hayati bir sebebi var. Çoğumuz bunu kötü bir üretim hatası ya da ucuz işçilik zannederiz; ancak o dikiş, çorabın ucunun sökülmesini engelleyen özel bir örgü tekniğidir."
   },
   "en": {
-    "headline": "Why Does Your Tongue Rest on the Roof of Your Mouth?",
-    "body": "Even if you don't notice it during the day, your tongue usually rests against the roof of your mouth. Did you know this isn't due to laziness, but rather your body's way of maintaining balance and relaxing jaw muscles?"
+    "headline": "Why Is There That Hidden Seam on the Toe of Socks?",
+    "body": "That thick seam that bugs your toes when you put on socks in the morning actually has a vital reason for being there. Most of us think it's a poor manufacturing flaw or cheap labor; but that seam is a special knitting technique that prevents the toe from unraveling."
   },
   "es": {
-    "headline": "¿Por qué tu lengua descansa en el paladar?",
-    "body": "Aunque no lo notes durante el día, tu lengua suele descansar contra el paladar. ¿Sabías que esto no se debe a la flojera, sino a la forma que tiene tu cuerpo de mantener el equilibrio y relajar los músculos de la mandíbula?"
+    "headline": "¿Por qué existe esa costura oculta en la puntera de los calcetines?",
+    "body": "Esa costura gruesa que molesta en los dedos al ponerte los calcetines por la mañana en realidad tiene una razón vital para estar ahí. La mayoría pensamos que es un fallo de fabricación o mano de obra barata; pero esa costura es una técnica de tejido especial que evita que la punta se descosa."
   },
   "ar": {
-    "headline": "لماذا يستقر لسانك على سقف فمك؟",
-    "body": "حتى لو لم تلاحظ ذلك خلال اليوم، فإن لسانك عادة ما يستقر على سقف فمك. هل كنت تعلم أن هذا ليس بسبب الكسل، بل هو طريقة جسمك للحفاظ على التوازن وإرخاء عضلات الفك؟"
+    "headline": "لماذا توجد تلك الحاكة الخفية في مقدمة الجوارب؟",
+    "body": "تلك الحاكة السميكة التي تزعج أصابعك عند ارتداء الجوارب صباحاً لها سبب حيوي وجودها هناك. يعتقد معظمنا أنها عيب تصنيع أو عمالة رخيصة؛ لكنها تقنية حياكة خاصة تمنع طرف الجورب من التفكك."
   },
   "reel_hook": {
-    "tr": "Gün boyunca diliniz aslında nerede duruyor hiç düşündünüz mü?",
-    "en": "Have you ever thought about where your tongue actually rests all day?",
-    "es": "¿Alguna vez has pensado dónde descansa realmente tu lengua todo el día?",
-    "ar": "هل فكرت من قبل أين يستقر لسانك حقاً طوال اليوم؟"
+    "tr": "Sabah giydiğiniz çoraplardaki o rahatsız edici dikişin aslında hayat kurtardığını biliyor muydunuz?",
+    "en": "Did you know that annoying seam in the socks you wear every morning actually saves them?",
+    "es": "¿Sabías que esa molesta costura en los calcetines que te pones cada mañana en realidad los salva?",
+    "ar": "هل تعلم أن تلك الحاكة المزعجة في جواربك كل صباح تنقذها حقاً؟"
   },
   "story_question": {
-    "tr": "Dinlenme halindeyken diliniz normalde nereye temas eder?",
-    "en": "Where does your tongue normally touch when at rest?",
-    "es": "¿Dónde toca normalmente tu lengua cuando está en reposo?",
-    "ar": "أين يلمس لسانك عادةً عندما يكون في وضع الراحة؟"
+    "tr": "Çoraplardaki o kalın dikiş sizce neden oradadır?",
+    "en": "Why do you think that thick seam in socks is there?",
+    "es": "¿Por qué crees que está esa costura gruesa en los calcetines?",
+    "ar": "برأيك، لماذا توجد تلك الحاكة السميكة في الجوارب؟"
   },
   "story_options": [
-    "Üst damar",
-    "Alt dişler",
-    "Boşlukta kalır"
+    "Sökülmeyi önlemek için",
+    "Ayağı sıcak tutmak için",
+    "Moda tasarımı gereği"
   ],
   "hashtags": [
     "#FactBite",
-    "#dil",
-    "#vücutbilimi",
-    "#anatomi",
+    "#çorap",
+    "#gündelikyaşam",
     "#ilginçbilgiler",
-    "#sağlık",
-    "#keşfet"
+    "#pratikbilgiler",
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunu fark ettiğin anı yoruma yaz!",
-    "en": "Comment the moment you noticed this!",
-    "es": "¡Comenta el momento en que te diste cuenta de esto!",
-    "ar": "اكتب في التعليقات اللحظة التي لاحظت فيها ذلك!"
+    "tr": "Bunun gibi günlük hayattaki gizli detaylar için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more hidden details in daily life like this!",
+    "es": "¡No olvides seguirnos para más detalles ocultos de la vida diaria como este!",
+    "ar": "لا تنس المتابعة لمزيد من التفاصيل الخفية في الحياة اليومية مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "Healthline",
-    "url": "https://www.healthline.com/health/tongue-at-rest"
+    "name": "Textile History and Manufacturing Standards",
+    "url": "https://www.textileinstitute.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dilimiz Neden Gün Boyu Üst Damarımıza Değer?",
+  "_topic": "Çorapların Burun Kısmındaki O Gizli Dikiş Neden Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-23T14:03:32.015077+00:00",
+  "generated_at": "2026-10-23T15:49:03.929765+00:00",
   "topic_guard_days": 180
 }

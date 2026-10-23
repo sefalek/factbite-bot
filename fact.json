@@ -1,51 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sokak Lambalarının Üzerindeki O Küçük Delik Ne İşe Yarar?",
-    "body": "Gece yolda yürürken aydınlatan sokak lambalarına hiç dikkat ettiniz mi? Çoğunun üst kısmında veya gövdesinde küçük bir delik bulunur. Bu delik, içerideki elektrik aksamının yağmur suyuyla dolmasını engellemek için tasarlanmış gibi görünse de asıl amacı tamamen farklıdır. İçerideki sıcaklık değişimlerinden dolayı oluşan hava basıncını dengeleyerek lambanın camının patlamasını önler."
+    "headline": "Karanlıkta Telefonu Baktıktan Sonra Diğer Gözünüze Ne Oluyor?",
+    "body": "Tek gözünüzle telefona bakıp karanlığa geçtiğinizde neden hiçbir şey göremezsiniz? Çünkü korsanlar bunu yüzyıllardır biliyordu; tek gözlerini kapalı tutarak karanlığa hazırlarlardı."
   },
   "en": {
-    "headline": "What is That Small Hole on Streetlights For?",
-    "body": "Have you ever noticed the streetlights illuminating your path at night? Most of them have a small hole on the top or body. While it might look like it's designed to keep rain from filling the electrical components, its true purpose is entirely different. It balances the air pressure caused by temperature changes inside, preventing the glass of the lamp from shattering."
+    "headline": "What Happens to Your Other Eye After Looking at Your Phone in the Dark?",
+    "body": "Why can't you see anything when you look at your phone with one eye and step into the dark? Because pirates knew this for centuries, keeping one eye closed to adapt to the dark."
   },
   "es": {
-    "headline": "¿Para qué sirve ese pequeño agujero en las farolas?",
-    "body": "¿Alguna vez has notado las farolas que iluminan tu camino por la noche? La mayoría tiene un pequeño agujero en la parte superior o en el cuerpo. Aunque parezca diseñado para evitar que el agua de lluvia llene los componentes eléctricos, su verdadero propósito es completamente diferente. Equilibra la presión del aire causada por los cambios de temperatura en el interior, evitando que el cristal de la lámpara se rompa."
+    "headline": "¿Qué le pasa a tu otro ojo después de mirar el teléfono en la oscuridad?",
+    "body": "¿Por qué no puedes ver nada cuando miras tu teléfono con un ojo y sales a la oscuridad? Porque los piratas sabían esto durante siglos, manteniendo un ojo cerrado para adaptarse."
   },
   "ar": {
-    "headline": "ما هو غرض تلك الثقوب الصغيرة في أعمدة الإنارة؟",
-    "body": "هل لاحظت من قبل أعمدة إنارة الشوارع التي تضيء طريقك ليلاً؟ يحتوي معظمها على ثقوب صغيرة في الأعلى أو على الجسم. وبينما قد تبدو وكأنها مصممة لمنع مياه الأمطار من ملء المكونات الكهربائية، إلا أن غرضها الحقيقي مختلف تماماً. فهي توازن ضغط الهواء الناتج عن تغيرات درجات الحرارة في الداخل، مما يمنع زجاج المصباح من الانفجار."
+    "headline": "ماذا يحدث لعينك الأخرى بعد النظر إلى هاتفك في الظلام؟",
+    "body": "لماذا لا يمكنك رؤية أي شيء عندما تنظر إلى هاتفك عين واحدة وتنتقل إلى الظلام؟ لأن القراصنة عرفوا هذا لقرون، حيث أبقوا عينًا واحدة مغلقة للتكيف."
   },
   "reel_hook": {
-    "tr": "Sokak lambalarındaki o küçük delik aslında ne işe yarıyor?",
-    "en": "What is that small hole on streetlights actually for?",
-    "es": "¿Para qué sirve realmente ese pequeño agujero en las farolas?",
-    "ar": "ما هو الغرض الحقيقي من ذلك الثقب الصغير في أعمدة الإنارة؟"
+    "tr": "Karanlıkta telefona baktıktan sonra neden sadece tek gözünüz kör olur?",
+    "en": "Why does only one eye go blind after looking at your phone in the dark?",
+    "es": "¿Por qué solo un ojo se queda ciego después de mirar tu teléfono en la oscuridad?",
+    "ar": "لماذا تصاب عين واحدة فقط بالعمى بعد النظر إلى هاتفك في الظلام؟"
   },
   "story_question": {
-    "tr": "Sokak lambalarındaki bu delik ilk bakışta ne için sanılır?",
-    "en": "What is this hole on streetlights commonly thought to be for at first glance?",
-    "es": "¿Para qué se suele pensar que sirve este agujero en las farolas a primera vista?",
-    "ar": "ما الذي يُعتقد عادةً أن هذا الثقب في أعمدة الإنارة مخصص له للوهلة الأولى؟"
+    "tr": "Korsanların tek gözlerini kapatmasının asıl sebebi neydi?",
+    "en": "What was the real reason pirates covered one eye?",
+    "es": "¿Cuál era la verdadera razón por la que los piratas se tapaban un ojo?",
+    "ar": "ما هو السبب الحقيقي وراء تغطية القراصنة لعين واحدة؟"
   },
   "story_options": [
-    "Su tahliyesi için",
-    "Böceklerin girmemesi için",
-    "Süs amacıyla"
+    "Göz bandı havalı durduğu için",
+    "Karanlığa anında uyum sağlamak için",
+    "Savaşta yaralandığı için"
   ],
   "hashtags": [
     "#FactBite",
-    "#sokaklambası",
-    "#bilgi",
-    "#teknoloji",
     "#ilginçbilgiler",
-    "#keşfet"
+    "#bilim",
+    "#tarih",
+    "#göz",
+    "#keşfet",
+    "#faydalıbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gizli detayı kaçırmamak için bizi takip et!",
-    "en": "Follow us to not miss more hidden details like this!",
-    "es": "¡Síguenos para no perderte más detalles ocultos como este!",
-    "ar": "تابعنا لكي لا تفوت المزيد من التفاصيل المخفية مثل هذه!"
+    "tr": "Bunu bildiğinizi düşündüğünüz bir arkadaşınıza gönderin!",
+    "en": "Send this to a friend who you think knew this!",
+    "es": "¡Envíaselo a un amigo que creas que sabía esto!",
+    "ar": "أرسل هذا إلى صديق تعتقد أنه كان يعرف هذا!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +56,14 @@
     "overall": 9.2
   },
   "source": {
-    "name": "Lighting Research Center",
-    "url": "https://www.lrc.rpi.edu/"
+    "name": "Smithsonian Magazine",
+    "url": "https://www.smithsonianmag.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Sokak Lambalarının Üzerindeki O Küçük Delik Ne İşe Yarar?",
+  "_topic": "Karanlıkta Telefonu Baktıktan Sonra Diğer Gözünüze Ne Oluyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-23T20:56:46.558598+00:00",
+  "generated_at": "2026-10-23T21:53:28.134461+00:00",
   "topic_guard_days": 180
 }

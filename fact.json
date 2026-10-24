@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tuvalet Musluklarındaki O Gizli Sır",
-    "body": "Çoğu tuvalet musluğunun ucunda bulunan o küçük fileli parça, sadece suyu süzmek için değildir. Aslında o parça, tazyikli akan suyu milyonlarca minik hava kabarcığıyla karıştırarak yumuşak ve sıçratmayan bir akış sağlar. Böylece hem su tasarrufu yaparsınız hem de ellerinizi yıkarken etraf ıslanmaz."
+    "headline": "Yolculukta Neden Uykumuz Gelir?",
+    "body": "Araba veya otobüs yolculuğundayken kaçınılmaz olarak uykumuzun gelmesinin sebebi sadece sıkılmak değil. Araçların çıkardığı o düşük frekanslı, monoton titreşimler vücudumuzu sallayarak bizi hızla dinlenme moduna sokar."
   },
   "en": {
-    "headline": "The Hidden Secret in Faucets",
-    "body": "That small mesh piece at the tip of most faucets isn't just for filtering water. It actually mixes the high-pressure water with millions of tiny air bubbles to create a soft, splash-free flow. This saves water and keeps the sink area dry."
+    "headline": "Why Do We Feel Sleepy During Travel?",
+    "body": "Getting sleepy during a car or bus ride isn't just about boredom. The low-frequency, monotonous vibrations from the vehicle gently rock our bodies, quickly pushing us into rest mode."
   },
   "es": {
-    "headline": "El secreto oculto en los grifos",
-    "body": "Esa pequeña pieza de malla en la punta de los grifos no es solo para filtrar el agua. En realidad, mezcla el agua a presión con millones de burbujas de aire para crear un flujo suave y sin salpicaduras, ahorrando agua."
+    "headline": "¿Por qué nos da sueño al viajar?",
+    "body": "Sentir sueño durante un viaje en coche o autobús no es solo por aburrimiento. Las vibraciones monótonas de baja frecuencia del vehículo mecen suavemente nuestro cuerpo, induciéndonos rápidamente al modo de descanso."
   },
   "ar": {
-    "headline": "السر الخفي في حنفيات المياه",
-    "body": "تلك القطعة الشبكية الصغيرة في نهاية الحنفيات ليست مجرد فلتر للمياه، بل تخلط الماء بفقاعات الهواء لتدفق ناعم بدون رذاذ وتوفير المياه."
+    "headline": "لماذا نشعر بالنعاس أثناء السفر؟",
+    "body": "الشعور بالنعاس أثناء رحلة بالسيارة أو الحافلة ليس بسبب الملل فقط. فالاهتزازات الرتيبة منخفضة التردد الصادرة عن المركبة تهز أجسامنا برفق، مما يدفعنا بسرعة إلى وضع الراحة."
   },
   "reel_hook": {
-    "tr": "Muslukların ucundaki o küçük parçanın ne işe yarığını biliyor musun?",
-    "en": "Do you know what that tiny piece at the end of faucets actually does?",
-    "es": "¿Sabes para qué sirve esa pequeña pieza al final de los grifos?",
-    "ar": "هل تعرف ماذا تفعل تلك القطعة الصغيرة في نهاية الحنفيات؟"
+    "tr": "Araca biner binmez neden uykumuz basar?",
+    "en": "Why does sleep hit the moment you get in a car?",
+    "es": "¿Por qué te da sueño en cuanto subes al coche?",
+    "ar": "لماذا يهاجمنا النعاس فور صعود السيارة؟"
   },
   "story_question": {
-    "tr": "Musluk ucundaki bu parçanın ana görevi nedir?",
-    "en": "What is the main purpose of this faucet part?",
-    "es": "¿Cuál es el propósito principal de esta pieza?",
-    "ar": "ما هو الغرض الرئيسي من هذه القطعة؟"
+    "tr": "Yolculukta uyumak en çok hangi taşıtta hoşunuza gider?",
+    "en": "In which vehicle do you enjoy sleeping the most?",
+    "es": "¿En qué medio de transporte te gusta más dormir?",
+    "ar": "في أي وسيلة نقل تستمتع بالنوم أكثر؟"
   },
   "story_options": [
-    "Suyu havalandırıp sıçratmayı önlemek",
-    "Suyu sadece ısıtmak",
-    "Kireci tamamen yok etmek"
+    "Otobüs",
+    "Araba",
+    "Tren"
   ],
   "hashtags": [
     "#FactBite",
+    "#seyahat",
     "#bilgi",
-    "#teknoloji",
-    "#ilginç",
-    "#keşfet",
-    "#pratik"
+    "#uyku",
+    "#ilginçbilgiler",
+    "#science",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi günlük hayattaki gizli detaylar için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more hidden daily details like this!",
-    "es": "¡No olvides seguirnos para más detalles ocultos!",
-    "ar": "لا تنس متابعتنا للمزيد من التفاصيل الخفية!"
+    "tr": "Bunu sürekli uyuyan arkadaşına gönder!",
+    "en": "Send this to your friend who always falls asleep!",
+    "es": "¡Envíaselo a tu amigo que siempre se duerme!",
+    "ar": "أرسل هذا لصديقك الذي ينام دائماً!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
+    "surprise": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Plumbing Basics",
-    "url": "https://www.example.com"
+    "name": "Sleep Foundation",
+    "url": "https://www.sleepfoundation.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tuvalet Musluklarındaki O Gizli Sır",
+  "_topic": "Yolculukta Neden Uykumuz Gelir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-23T23:31:12.245832+00:00",
+  "generated_at": "2026-10-24T09:33:07.063483+00:00",
   "topic_guard_days": 180
 }

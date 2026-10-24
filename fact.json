@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Evlerin Gizli Tasarımı",
-    "body": "Çoğu evde bulunan tavan vantilatörlerinin üzerinde küçük bir anahtar olduğunu biliyor muydunuz? Bu anahtar, vantilatörün dönme yönünü değiştirerek yazın serinleten havayı aşağı iterken, kışın ise tavandaki sıcak havayı odaya eşit şekilde yaymasını sağlar. Yani onu sadece yaz aleti olarak kullanmak büyük bir haksızlık!"
+    "headline": "Çoğu İnsan Evindeki Mikrofonların Yerini Yanlış Biliyor",
+    "body": "Telefonunuza her 'Hey' dediğinizde sesinizi duyan o küçük mikrofon delikleri, aslında düşündüğünüzden çok daha farklı bir yere gizlenmiştir. Çoğu kişi bu deliğin şarj soketinin yanında olduğunu sanır, ancak üreticiler sesi en net alabilmek ve paraziti önlemek için gövdenin en tepe noktasına, neredeyse görünmeyecek kadar küçük bir başka delik daha koyarlar."
   },
   "en": {
-    "headline": "The Hidden Ceiling Fan Secret",
-    "body": "Did you know most ceiling fans have a small switch on them? This switch changes the blade direction, pushing cool air down in the summer and circulating warm air trapped near the ceiling back into the room during winter. It is not just for summer!"
+    "headline": "Most People Get the Location of Microphones Wrong",
+    "body": "Every time you say 'Hey' to your phone, that small microphone hole is actually hidden in a much different place than you think. Most people assume this hole is near the charging port, but manufacturers place another tiny, nearly invisible hole at the very top of the body."
   },
   "es": {
-    "headline": "El Secreto Oculto del Ventilador",
-    "body": "¿Sabías que la mayoría de los ventiladores de techo tienen un pequeño interruptor? Este interruptor cambia la dirección de las aspas, empujando el aire fresco hacia abajo en verano y circulando el aire cálido del techo hacia la habitación en invierno."
+    "headline": "La mayoría de la gente se equivoca sobre la ubicación de los micrófonos",
+    "body": "Cada vez que le dices 'Oye' a tu teléfono, ese pequeño agujero de micrófono está escondido en un lugar muy diferente al que piensas. La mayoría cree que está cerca del puerto de carga, pero los fabricantes colocan otro agujero diminuto en la parte superior."
   },
   "ar": {
-    "headline": "سر مراوح السقف الخفي",
-    "body": "هل تعلم أن معظم مراوح السقف تحتوي على مفتاح صغير؟ يغير هذا المفتاح اتجاه الدوران لدفع الهواء البارد لأسفل في الصيف وتوزيع الهواء الدافئ في الشتاء."
+    "headline": "معظم الناس مخطئون بشأن مكان الميكروفونات",
+    "body": "في كل مرة تقول فيها مرحباً هاتفك، يكون ثقب الميكروفون مخفياً في مكان مختلف عما تعتقد. يعتقد معظم الناس أنه بجوار منفذ الشحن، لكن الشركات المصنعة تضع ثقباً آخر في أعلى الجهاز."
   },
   "reel_hook": {
-    "tr": "Evdeki bu düğmeye hiç dikkat ettiniz mi?",
-    "en": "Have you ever noticed this switch at home?",
-    "es": "¿Alguna vez has notado este interruptor en casa?",
-    "ar": "هل لاحظت هذا المفتاح في منزلك من قبل؟"
+    "tr": "Telefonunuzdaki o gizli ikinci deliğin ne işe yaradığını biliyor musunuz?",
+    "en": "Do you know what that second hidden hole on your phone actually does?",
+    "es": "¿Sabes para qué sirve ese segundo agujero oculto en tu teléfono?",
+    "ar": "هلรู้ไหมว่ารูที่สองที่ซ่อนอยู่บนโทรศัพท์ของคุณมีไว้ทำอะไร؟"
   },
   "story_question": {
-    "tr": "Tavan vantilatörünün kış modunda hangi yöne dönmesi gerekir?",
-    "en": "Which direction should a ceiling fan spin in winter mode?",
-    "es": "¿En qué dirección debe girar un ventilador de techo en modo invierno?",
-    "ar": "في أي اتجاه يجب أن تدور مروحة السقف في وضع الشتاء؟"
+    "tr": "Telefonunuzun gövdesinde kaç tane mikrofon deliği olduğunu hiç incelediniz mi?",
+    "en": "Have you ever checked how many microphone holes are on your phone's body?",
+    "es": "¿Alguna vez has comprobado cuántos agujeros de micrófono hay en tu teléfono?",
+    "ar": "هل فحصت من قبل عدد فتحات الميكروفون الموجودة على هاتفك؟"
   },
   "story_options": [
-    "Saat yönünde",
-    "Saat yönünün tersine",
-    "Fark etmez"
+    "Evet, dikkatimi çekmişti",
+    "Hayır, ilk defa duyuyorum",
+    "Sadece bir tane olduğunu sanıyordum"
   ],
   "hashtags": [
     "#FactBite",
-    "#ev",
-    "#tasarım",
+    "#teknoloji",
+    "#telefon",
     "#bilgi",
-    "#pratik",
-    "#yaşam",
-    "#keşfet"
+    "#ilginç",
+    "#keşfet",
+    "#pratikbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "Hit like if you just learned this for the first time!",
-    "es": "¡Dale a Me gusta si acabas de enterarte!",
-    "ar": "اضغط إعجاب إن كنت تعلم لأول مرة!"
+    "tr": "Bunun gibi daha fazla gizli detayı kaçırmamak için bizi takip et!",
+    "en": "Follow us not to miss more hidden details like this!",
+    "es": "¡Síguenos para no perderte más detalles ocultos como este!",
+    "ar": "تابعنا لكي لا تفوتك المزيد من التفاصيل المخفية مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Home Energy Saver",
-    "url": "https://www.energy.gov"
+    "name": "Mobile Hardware Design Standards",
+    "url": "https://www.gsmarena.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Evlerin Gizli Tasarımı",
+  "_topic": "Çoğu İnsan Evindeki Mikrofonların Yerini Yanlış Biliyor",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-24T10:55:02.472063+00:00",
+  "generated_at": "2026-10-24T12:43:08.920772+00:00",
   "topic_guard_days": 180
 }

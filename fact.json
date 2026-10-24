@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yolculukta Neden Uykumuz Gelir?",
-    "body": "Araba veya otobüs yolculuğundayken kaçınılmaz olarak uykumuzun gelmesinin sebebi sadece sıkılmak değil. Araçların çıkardığı o düşük frekanslı, monoton titreşimler vücudumuzu sallayarak bizi hızla dinlenme moduna sokar."
+    "headline": "Evlerin Gizli Tasarımı",
+    "body": "Çoğu evde bulunan tavan vantilatörlerinin üzerinde küçük bir anahtar olduğunu biliyor muydunuz? Bu anahtar, vantilatörün dönme yönünü değiştirerek yazın serinleten havayı aşağı iterken, kışın ise tavandaki sıcak havayı odaya eşit şekilde yaymasını sağlar. Yani onu sadece yaz aleti olarak kullanmak büyük bir haksızlık!"
   },
   "en": {
-    "headline": "Why Do We Feel Sleepy During Travel?",
-    "body": "Getting sleepy during a car or bus ride isn't just about boredom. The low-frequency, monotonous vibrations from the vehicle gently rock our bodies, quickly pushing us into rest mode."
+    "headline": "The Hidden Ceiling Fan Secret",
+    "body": "Did you know most ceiling fans have a small switch on them? This switch changes the blade direction, pushing cool air down in the summer and circulating warm air trapped near the ceiling back into the room during winter. It is not just for summer!"
   },
   "es": {
-    "headline": "¿Por qué nos da sueño al viajar?",
-    "body": "Sentir sueño durante un viaje en coche o autobús no es solo por aburrimiento. Las vibraciones monótonas de baja frecuencia del vehículo mecen suavemente nuestro cuerpo, induciéndonos rápidamente al modo de descanso."
+    "headline": "El Secreto Oculto del Ventilador",
+    "body": "¿Sabías que la mayoría de los ventiladores de techo tienen un pequeño interruptor? Este interruptor cambia la dirección de las aspas, empujando el aire fresco hacia abajo en verano y circulando el aire cálido del techo hacia la habitación en invierno."
   },
   "ar": {
-    "headline": "لماذا نشعر بالنعاس أثناء السفر؟",
-    "body": "الشعور بالنعاس أثناء رحلة بالسيارة أو الحافلة ليس بسبب الملل فقط. فالاهتزازات الرتيبة منخفضة التردد الصادرة عن المركبة تهز أجسامنا برفق، مما يدفعنا بسرعة إلى وضع الراحة."
+    "headline": "سر مراوح السقف الخفي",
+    "body": "هل تعلم أن معظم مراوح السقف تحتوي على مفتاح صغير؟ يغير هذا المفتاح اتجاه الدوران لدفع الهواء البارد لأسفل في الصيف وتوزيع الهواء الدافئ في الشتاء."
   },
   "reel_hook": {
-    "tr": "Araca biner binmez neden uykumuz basar?",
-    "en": "Why does sleep hit the moment you get in a car?",
-    "es": "¿Por qué te da sueño en cuanto subes al coche?",
-    "ar": "لماذا يهاجمنا النعاس فور صعود السيارة؟"
+    "tr": "Evdeki bu düğmeye hiç dikkat ettiniz mi?",
+    "en": "Have you ever noticed this switch at home?",
+    "es": "¿Alguna vez has notado este interruptor en casa?",
+    "ar": "هل لاحظت هذا المفتاح في منزلك من قبل؟"
   },
   "story_question": {
-    "tr": "Yolculukta uyumak en çok hangi taşıtta hoşunuza gider?",
-    "en": "In which vehicle do you enjoy sleeping the most?",
-    "es": "¿En qué medio de transporte te gusta más dormir?",
-    "ar": "في أي وسيلة نقل تستمتع بالنوم أكثر؟"
+    "tr": "Tavan vantilatörünün kış modunda hangi yöne dönmesi gerekir?",
+    "en": "Which direction should a ceiling fan spin in winter mode?",
+    "es": "¿En qué dirección debe girar un ventilador de techo en modo invierno?",
+    "ar": "في أي اتجاه يجب أن تدور مروحة السقف في وضع الشتاء؟"
   },
   "story_options": [
-    "Otobüs",
-    "Araba",
-    "Tren"
+    "Saat yönünde",
+    "Saat yönünün tersine",
+    "Fark etmez"
   ],
   "hashtags": [
     "#FactBite",
-    "#seyahat",
+    "#ev",
+    "#tasarım",
     "#bilgi",
-    "#uyku",
-    "#ilginçbilgiler",
-    "#science",
+    "#pratik",
+    "#yaşam",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu sürekli uyuyan arkadaşına gönder!",
-    "en": "Send this to your friend who always falls asleep!",
-    "es": "¡Envíaselo a tu amigo que siempre se duerme!",
-    "ar": "أرسل هذا لصديقك الذي ينام دائماً!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
+    "en": "Hit like if you just learned this for the first time!",
+    "es": "¡Dale a Me gusta si acabas de enterarte!",
+    "ar": "اضغط إعجاب إن كنت تعلم لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Sleep Foundation",
-    "url": "https://www.sleepfoundation.org"
+    "name": "Home Energy Saver",
+    "url": "https://www.energy.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yolculukta Neden Uykumuz Gelir?",
+  "_topic": "Evlerin Gizli Tasarımı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-24T09:33:07.063483+00:00",
+  "generated_at": "2026-10-24T10:55:02.472063+00:00",
   "topic_guard_days": 180
 }

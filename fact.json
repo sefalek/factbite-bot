@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Uçarken Neden Asla Yorulmaz Zannedersiniz?",
-    "body": "Gökyüzünde süzülen kuşlar saatlerce nasıl havada kalıyor hiç düşündünüz mü? Aslında sırrı kaslarında değil, iskelet sistemlerinde saklı. Kuşların kemiklerinin içi tıpkı bir kafes gibi boştur ve birbirine hava keseleriyle bağlıdır. Bu eşsiz yapı, gövdeyi inanılmaz derecede hafifletirken oksijenin tüm vücuda aynı anda pompalanmasını sağlar. Yani onlar sadece kanat çırpmaz, adeta havanın akışıyla bütünleşirler."
+    "headline": "Asansördeki O Aynalar Sadece Saçınızı Düzeltmeniz İçin Değil",
+    "body": "Asansörlerdeki aynaların ilk konulma sebebi asla makyajınızı tazelemek değil. İlk gökdelenler inşa edildiğinde insanlar asansörlerin hızından ve boşluk hissinden korkup panik atak geçiriyordu. Mühendisler bu sorunu çözmek için kabine aynalar koydu; böylece yolcuların dikkati tamamen dağılıyor ve zaman su gibi akıp geçiyordu."
   },
   "en": {
-    "headline": "Why Do Birds Never Seem to Get Tired While Flying?",
-    "body": "Have you ever wondered how birds gliding through the sky stay airborne for hours? The secret isn't just in their muscles, but in their skeletal system. A bird's bones are hollow like a lattice and connected to air sacs. This unique structure makes their bodies incredibly lightweight while allowing oxygen to be pumped throughout the body simultaneously. They don't just flap; they become one with the airflow."
+    "headline": "Those Elevator Mirrors Aren't Just for Fixing Your Hair",
+    "body": "The primary reason for putting mirrors in elevators was never to freshen up your makeup. When the first skyscrapers were built, people panicked over the speed and sense of emptiness in elevators. Engineers solved this by adding mirrors, distracting passengers completely and making the ride feel faster."
   },
   "es": {
-    "headline": "¿Por qué las aves nunca parecen cansarse al volar?",
-    "body": "¿Alguna vez te has preguntado cómo las aves que planean en el cielo se mantienen en el aire durante horas? El secreto no está solo en sus músculos, sino en su sistema esquelético. Los huesos de las aves son huecos y están conectados a sacos de aire. Esta estructura única hace que sus cuerpos sean increíblemente ligeros mientras permiten que el oxígeno se bombee por todo el cuerpo simultáneamente."
+    "headline": "Esos Espejos en los Ascensores No Son Solo para Arreglarte el Pelo",
+    "body": "La razón principal de colocar espejos en los ascensores nunca fue retocarte el maquillaje. Cuando se construyeron los primeros rascacielos, la gente entraba en pánico por la velocidad y el vacío. Los ingenieros lo resolvieron añadiendo espejos para distraer a los pasajeros y hacer que el viaje pareciera más corto."
   },
   "ar": {
-    "headline": "لماذا لا تتعب الطيور أبدًا أثناء الطيران؟",
-    "body": "هل فكرت يومًا كيف تبقى الطيور المحلقة في السماء في الهواء لساعات؟ السر ليس فقط في عضلاتها، بل في هيكلها العظمي. عظام الطيور مجوفة ومتصلة بأكياس هوائية. هذا الهيكل الفريد يجعل أجسامهم خفيفة بشكل لا يصدق بينما يسمح بضخ الأكسجين في جميع أنحاء الجسم في نفس الوقت."
+    "headline": "تلك المرايا في المصاعد ليست فقط لتعديل شعرك",
+    "body": "السبب الرئيسي لتواجد المرايا في المصاعد لم يكن أبداً لتعديل مكياجك. عندما بُنيت ناطحات السحاب الأولى، كان الناس يصابون بالذعر بسبب السرعة والإحساس بالفراغ. حل المهندسون هذه المشكلة بوضع المرايا لتشتيت انتباه الركاب وجعل الرحلة تبدو أقصر."
   },
   "reel_hook": {
-    "tr": "Gökyüzünde saatlerce kanat çırpmadan süzülen o kuşlar... Aslında havada kalmıyorlar, resmen uçmuyorlar!",
-    "en": "Those birds gliding in the sky for hours without flapping... They aren't actually staying in the air, they are floating!",
-    "es": "Esas aves planeando en el cielo durante horas sin batir las alas... ¡En realidad no están flotando!",
-    "ar": "تلك الطيور التي تحلق في السماء لساعات دون رفرفة... إنها لا تبقى في الهواء حقاً بالطريقة التي تعتقدها!"
+    "tr": "Asansördeki aynaların neden orada olduğunu biliyor musunuz?",
+    "en": "Do you know why those elevator mirrors are really there?",
+    "es": "¿Sabes por qué están realmente esos espejos en los ascensores?",
+    "ar": "هل تعرف لماذا توجد تلك المرايا في المصاعد حقاً؟"
   },
   "story_question": {
-    "tr": "Kuşların kemiklerinin içi boş olmasına rağmen kırılmamasını sağlayan şey nedir?",
-    "en": "What prevents birds' bones from breaking despite being hollow?",
-    "es": "¿Qué evita que los huesos de las aves se rompan a pesar de ser huecos?",
-    "ar": "ما الذي يمنع عظام الطيور من الانكسار على الرغم من كونها مجوفة؟"
+    "tr": "Asansörlere ayna konulmasının asıl sebebi nedir?",
+    "en": "What is the real reason mirrors were put in elevators?",
+    "es": "¿Cuál es la verdadera razón por la que se pusieron espejos en los ascensores?",
+    "ar": "ما هو السبب الحقيقي وراء وضع المرايا في المصاعد؟"
   },
   "story_options": [
-    "Özel hava keseleri ve kafes yapısı",
-    "Kemiklerinin esnek plastiğe benzer dokusu",
-    "Sürekli kalsiyum üreten tüyleri"
+    "Yolcuların panik atak geçirmesini engellemek",
+    "Asansörün alanını daha geniş göstermek",
+    "Temizlik kontrolünü kolaylaştırmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
-    "#kuşlar",
+    "#asansör",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#biyoloji"
+    "#mühendislik",
+    "#tarih",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "BBunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip et!",
-    "en": "Follow so you don't miss more amazing facts like this!",
-    "es": "¡Síguenos para no perderte más datos increíbles como este!",
-    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology & Avian Skeletal Adaptations",
-    "url": "https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/avian-skeletal-system"
+    "name": "The Otis Elevator Company Archives",
+    "url": "https://www.otis.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Uçarken Neden Asla Yorulmaz Zannedersiniz?",
+  "_topic": "Asansördeki O Aynalar Sadece Saçınızı Düzeltmeniz İçin Değil",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-24T17:56:10.453602+00:00",
+  "generated_at": "2026-10-24T19:26:27.785699+00:00",
   "topic_guard_days": 180
 }

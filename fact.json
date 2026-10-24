@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Asansördeki O Aynalar Sadece Saçınızı Düzeltmeniz İçin Değil",
-    "body": "Asansörlerdeki aynaların ilk konulma sebebi asla makyajınızı tazelemek değil. İlk gökdelenler inşa edildiğinde insanlar asansörlerin hızından ve boşluk hissinden korkup panik atak geçiriyordu. Mühendisler bu sorunu çözmek için kabine aynalar koydu; böylece yolcuların dikkati tamamen dağılıyor ve zaman su gibi akıp geçiyordu."
+    "headline": "Duşta Neden Hep Şarkı Söyleriz?",
+    "body": "Banyonun o seramik duvarları sesi hapseder ve yankı yapar. Bu akustik, sesinizi olduğundan çok daha güçlü ve pürüzsüz duyurur. Beynimiz bu kusursuz ses tonunu duyunca anında rahatlar, stres hormonu düşer ve kendimizi bir sahnedeymiş gibi özgür hissederiz."
   },
   "en": {
-    "headline": "Those Elevator Mirrors Aren't Just for Fixing Your Hair",
-    "body": "The primary reason for putting mirrors in elevators was never to freshen up your makeup. When the first skyscrapers were built, people panicked over the speed and sense of emptiness in elevators. Engineers solved this by adding mirrors, distracting passengers completely and making the ride feel faster."
+    "headline": "Why Do We Always Sing in the Shower?",
+    "body": "The tiled walls of the bathroom trap and echo sound. This acoustics makes your voice sound much stronger and smoother. When our brain hears this perfect tone, it instantly relaxes, stress hormones drop, and we feel as free as if we were on stage."
   },
   "es": {
-    "headline": "Esos Espejos en los Ascensores No Son Solo para Arreglarte el Pelo",
-    "body": "La razón principal de colocar espejos en los ascensores nunca fue retocarte el maquillaje. Cuando se construyeron los primeros rascacielos, la gente entraba en pánico por la velocidad y el vacío. Los ingenieros lo resolvieron añadiendo espejos para distraer a los pasajeros y hacer que el viaje pareciera más corto."
+    "headline": "¿Por qué siempre cantamos en la ducha?",
+    "body": "Las paredes de azulejos del baño atrapan y hacen eco del sonido. Esta acústica hace que tu voz suene mucho más fuerte y suave. Cuando nuestro cerebro escucha este tono perfecto, se relaja al instante, las hormonas del estrés bajan y nos sentimos libres como si estuviéramos en un escenario."
   },
   "ar": {
-    "headline": "تلك المرايا في المصاعد ليست فقط لتعديل شعرك",
-    "body": "السبب الرئيسي لتواجد المرايا في المصاعد لم يكن أبداً لتعديل مكياجك. عندما بُنيت ناطحات السحاب الأولى، كان الناس يصابون بالذعر بسبب السرعة والإحساس بالفراغ. حل المهندسون هذه المشكلة بوضع المرايا لتشتيت انتباه الركاب وجعل الرحلة تبدو أقصر."
+    "headline": "لماذا نغني دائماً أثناء الاستحمام؟",
+    "body": "جدران الحمام المبلطة تحبس الصوت وتصنع له صدى. هذه الصوتيات تجعل صوتك يبدو أقوى وأكثر سلاسة بكثير. عندما يسمع دماغنا هذه النبرة المثالية، يسترخي على الفور، وتنخفض هرمونات التوتر، فنشعر وكأننا على خشبة المسرح."
   },
   "reel_hook": {
-    "tr": "Asansördeki aynaların neden orada olduğunu biliyor musunuz?",
-    "en": "Do you know why those elevator mirrors are really there?",
-    "es": "¿Sabes por qué están realmente esos espejos en los ascensores?",
-    "ar": "هل تعرف لماذا توجد تلك المرايا في المصاعد حقاً؟"
+    "tr": "Banyoya girer girmez neden içimizden şarkı söylemek gelir?",
+    "en": "Why do we instantly feel like singing as soon as we step into the bathroom?",
+    "es": "¿Por qué nos dan ganas de cantar en cuanto entramos al baño?",
+    "ar": "لماذا نشعر برغبة ملحة في الغناء بمجرد دخولنا الحمام؟"
   },
   "story_question": {
-    "tr": "Asansörlere ayna konulmasının asıl sebebi nedir?",
-    "en": "What is the real reason mirrors were put in elevators?",
-    "es": "¿Cuál es la verdadera razón por la que se pusieron espejos en los ascensores?",
-    "ar": "ما هو السبب الحقيقي وراء وضع المرايا في المصاعد؟"
+    "tr": "Siz de banyoda şarkı söyleyenlerden misiniz?",
+    "en": "Are you one of those people who sing in the shower?",
+    "es": "¿Eres de los que cantan en la ducha?",
+    "ar": "هل أنت من الأشخاص الذين يغنون في الحمام؟"
   },
   "story_options": [
-    "Yolcuların panik atak geçirmesini engellemek",
-    "Asansörün alanını daha geniş göstermek",
-    "Temizlik kontrolünü kolaylaştırmak"
+    "Kesinlikle, sesim çok güzel çıkıyor",
+    "Arada sırada",
+    "Asla, sessizce yıkanırım"
   ],
   "hashtags": [
     "#FactBite",
-    "#asansör",
-    "#bilgi",
+    "#bilim",
     "#ilginçbilgiler",
-    "#mühendislik",
-    "#tarih",
-    "#keşfet"
+    "#psikoloji",
+    "#müzik",
+    "#günlükhayat",
+    "#foslav"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Banyodaki o harika sesin sırrını öğrenmek için arkadaşına gönder!",
+    "en": "Send this to a friend to reveal the secret of that great voice in the shower!",
+    "es": "¡Envíaselo a un amigo para descubrir el secreto de esa gran voz en la ducha!",
+    "ar": "أرسل هذا لصديقك لتكتشف سر ذلك الصوت الرائع في الحمام!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "The Otis Elevator Company Archives",
-    "url": "https://www.otis.com"
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com/article/why-does-the-shower-make-you-a-better-singer/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Asansördeki O Aynalar Sadece Saçınızı Düzeltmeniz İçin Değil",
+  "_topic": "Duşta Neden Hep Şarkı Söyleriz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-24T19:26:27.785699+00:00",
+  "generated_at": "2026-10-24T21:26:58.336010+00:00",
   "topic_guard_days": 180
 }

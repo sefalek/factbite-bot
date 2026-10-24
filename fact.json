@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Duşta Neden Hep Şarkı Söyleriz?",
-    "body": "Banyonun o seramik duvarları sesi hapseder ve yankı yapar. Bu akustik, sesinizi olduğundan çok daha güçlü ve pürüzsüz duyurur. Beynimiz bu kusursuz ses tonunu duyunca anında rahatlar, stres hormonu düşer ve kendimizi bir sahnedeymiş gibi özgür hissederiz."
+    "headline": "Evdeki Halılar Neden Statik Elektrik Yapar?",
+    "body": "Gün içinde halıya basıp bir yere dokunduğunuzda neden çarpılırsınız? Adım attıkça ayakkabınızla halı arasında sürtünmeyle elektron alışverişi olur ve vücudunuz küçük bir pil gibi yükle dolar."
   },
   "en": {
-    "headline": "Why Do We Always Sing in the Shower?",
-    "body": "The tiled walls of the bathroom trap and echo sound. This acoustics makes your voice sound much stronger and smoother. When our brain hears this perfect tone, it instantly relaxes, stress hormones drop, and we feel as free as if we were on stage."
+    "headline": "Why Do Indoor Carpets Cause Static Electricity?",
+    "body": "Why do you get zapped when walking on a carpet and touching something? With every step, friction between your shoes and the carpet transfers electrons, filling your body with a charge like a tiny battery."
   },
   "es": {
-    "headline": "¿Por qué siempre cantamos en la ducha?",
-    "body": "Las paredes de azulejos del baño atrapan y hacen eco del sonido. Esta acústica hace que tu voz suene mucho más fuerte y suave. Cuando nuestro cerebro escucha este tono perfecto, se relaja al instante, las hormonas del estrés bajan y nos sentimos libres como si estuviéramos en un escenario."
+    "headline": "¿Por qué las alfombras de casa generan electricidad estática?",
+    "body": "¿Por qué te da una pequeña descarga al caminar por la alfombra y tocar algo? Con cada paso, la fricción entre tus zapatos y la alfombra transfiere electrones, cargando tu cuerpo como una pequeña batería."
   },
   "ar": {
-    "headline": "لماذا نغني دائماً أثناء الاستحمام؟",
-    "body": "جدران الحمام المبلطة تحبس الصوت وتصنع له صدى. هذه الصوتيات تجعل صوتك يبدو أقوى وأكثر سلاسة بكثير. عندما يسمع دماغنا هذه النبرة المثالية، يسترخي على الفور، وتنخفض هرمونات التوتر، فنشعر وكأننا على خشبة المسرح."
+    "headline": "لماذا تسبب سجاد المنازل كهرباء ساكنة؟",
+    "body": "لماذا تتلقى صدمة خفيفة عند المشي على السجاد لمسلم شيء ما؟ مع كل خطوة، ينقل الاحتكاك بين حذائك والسجاد إلكترونات، ليملأ جسمك بشحنة تشبه بطارية صغيرة."
   },
   "reel_hook": {
-    "tr": "Banyoya girer girmez neden içimizden şarkı söylemek gelir?",
-    "en": "Why do we instantly feel like singing as soon as we step into the bathroom?",
-    "es": "¿Por qué nos dan ganas de cantar en cuanto entramos al baño?",
-    "ar": "لماذا نشعر برغبة ملحة في الغناء بمجرد دخولنا الحمام؟"
+    "tr": "Parmağınız kapı koluna değmeden önce o küçük kıvılcımı neden hissedersiniz?",
+    "en": "Why do you feel that tiny spark before your finger even touches the door handle?",
+    "es": "¿Por qué sientes esa pequeña chispa antes de que tu dedo toque el pomo de la puerta?",
+    "ar": "لماذا تشعر بتلك الشرارة الصغيرة قبل أن تلمس إصبعك مقبض الباب حتى؟"
   },
   "story_question": {
-    "tr": "Siz de banyoda şarkı söyleyenlerden misiniz?",
-    "en": "Are you one of those people who sing in the shower?",
-    "es": "¿Eres de los que cantan en la ducha?",
-    "ar": "هل أنت من الأشخاص الذين يغنون في الحمام؟"
+    "tr": "Vücudumuzda depolanan bu statik elektriğin voltajı kaç bin volta kadar çıkabilir?",
+    "en": "How many thousands of volts can this static electricity stored in our body reach?",
+    "es": "¿A cuántos miles de voltios puede llegar esta electricidad estática almacenada en nuestro cuerpo?",
+    "ar": "إلى كم ألف فولت يمكن أن تصل هذه الكهرباء الساكنة المخزنة في أجسامنا؟"
   },
   "story_options": [
-    "Kesinlikle, sesim çok güzel çıkıyor",
-    "Arada sırada",
-    "Asla, sessizce yıkanırım"
+    "1.000 Volt",
+    "10.000 Volt",
+    "25.000 Volt"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#psikoloji",
-    "#müzik",
-    "#günlükhayat",
-    "#foslav"
+    "#Fizik",
+    "#Bilim",
+    "#StatikElektrik",
+    "#İlginçBilgiler",
+    "#GündelikHayat"
   ],
   "cta": {
-    "tr": "Banyodaki o harika sesin sırrını öğrenmek için arkadaşına gönder!",
-    "en": "Send this to a friend to reveal the secret of that great voice in the shower!",
-    "es": "¡Envíaselo a un amigo para descubrir el secreto de esa gran voz en la ducha!",
-    "ar": "أرسل هذا لصديقك لتكتشف سر ذلك الصوت الرائع في الحمام!"
+    "tr": "Benzer günlük gizemler için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more daily mysteries!",
+    "es": "¡No olvides seguirnos para más misterios cotidianos!",
+    "ar": "لا تنس المتابعة لمزيد من الألغاز اليومية!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "Scientific American",
-    "url": "https://www.scientificamerican.com/article/why-does-the-shower-make-you-a-better-singer/"
+    "name": "Physics Classroom",
+    "url": "https://www.physicsclassroom.com/class/estatics/u4l1d.cfm"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Duşta Neden Hep Şarkı Söyleriz?",
+  "_topic": "Evdeki Halılar Neden Statik Elektrik Yapar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-24T21:26:58.336010+00:00",
+  "generated_at": "2026-10-24T22:45:18.571314+00:00",
   "topic_guard_days": 180
 }

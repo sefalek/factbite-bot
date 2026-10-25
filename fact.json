@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çileğin Dışındaki O Minik Noktalar Gerçekte Nedir?",
-    "body": "Çileğin üzerindeki o minik çıkıntıları meyvenin çekirdeği zannediyorsanız, yanılıyorsunuz! Botanik açısından çilek aslında bildiğimiz anlamda bir meyve bile değil. Üzerindeki o minik noktaların her biri, ayrı birer meyve!"
+    "headline": "Parmak İzimizden Daha Şaşırtıcı Olan O Eşsiz Yerimiz",
+    "body": "Parmak izimizin tamamen bize özel olduğunu biliyoruz. Ama vücudumuzda bir yerimiz daha var ki, o da tıpkı parmak izi gibi tamamen benzersiz ve dünyada kimsede aynısı yok. Dil izimiz! Evet, dilimizin üzerindeki doku ve çizgiler de parmak izi gibi sadece size özel."
   },
   "en": {
-    "headline": "What Are Those Tiny Dots on a Strawberry Really?",
-    "body": "If you think those tiny bumps on a strawberry are its seeds, you are mistaken! Botanically speaking, a strawberry is not even a true fruit. Each of those tiny dots on the outside is actually a separate fruit!"
+    "headline": "The Unique Part of Us More Surprising Than Our Fingerprint",
+    "body": "We know fingerprints are completely unique to us. But there is another part of our body that is just like a fingerprint, entirely unique with no match in the world. Our tongue print! Yes, the texture and patterns on your tongue are exclusive to you."
   },
   "es": {
-    "headline": "¿Qué son realmente esos pequeños puntos en una fresa?",
-    "body": "Si crees que esas pequeñas protuberancias en una fresa son sus semillas, ¡te equivocas! Botánicamente hablando, una fresa ni siquiera es una fruta real. ¡Cada uno de esos pequeños puntos es en realidad un fruto separado!"
+    "headline": "La parte de nosotros más sorprendente que nuestra huella dactilar",
+    "body": "Sabemos que las huellas dactilares son totalmente únicas para nosotros. Pero hay otra parte de nuestro cuerpo que es igual que una huella, completamente única y sin igual en el mundo. ¡Nuestra huella lingual! Sí, la textura y los patrones de tu lengua son exclusivos de ti."
   },
   "ar": {
-    "headline": "ما هي تلك النقاط الصغيرة حقاً على الفراولة؟",
-    "body": "إذا كنت تعتقد أن تلك النتوءات الصغيرة على الفراولة هي بذورها فأنت مخطئ! من الناحية النباتية، الفراولة ليست فاكهة حقيقية. وكل نقطة صغيرة على سطحها هي في الواقع ثمرة منفصلة!"
+    "headline": "الجزء الفريد فينا الأكثر إثارة للدهشة من بصمة إصبعنا",
+    "body": "نحن نعلم أن بصمات الأصابع فريدة تمامًا بالنسبة لنا. ولكن هناك جزءًا آخر من أجسامنا يشبه تمامًا بصمة الإصبع، فريد تمامًا وليس له مثيل في العالم. بصمة لسانك! نعم، النسيج والأنماط الموجودة على لسانك حصرية لك وحدك."
   },
   "reel_hook": {
-    "tr": "Çileğin üzerindeki o minik şeyler çekirdek değil!",
-    "en": "Those tiny things on a strawberry are not seeds!",
-    "es": "¡Esos pequeños puntos en la fresa no son semillas!",
-    "ar": "تلك الأشياء الصغيرة على الفراولة ليست بذوراً!"
+    "tr": "Parmak izinizin eşsiz olduğunu biliyorsunuz, peki ya vücudunuzdaki bu gizli izin?",
+    "en": "You know your fingerprint is unique, but what about this hidden print on your body?",
+    "es": "Sabes que tu huella dactilar es única, ¿pero qué pasa con esta huella oculta en tu cuerpo?",
+    "ar": "أنت تعلم أن بصمة إصبعك فريدة من نوعها، فماذا عن هذه البصمة الخفية على جسمك؟"
   },
   "story_question": {
-    "tr": "Çileğin üzerindeki o minik noktaların her birinin ayrı bir meyve olduğunu biliyor muydunuz?",
-    "en": "Did you know that each tiny dot on a strawberry is a separate fruit?",
-    "es": "¿Sabías que cada pequeño punto en una fresa es una fruta separada?",
-    "ar": "هل كنت تعلم أن كل نقطة صغيرة على الفراولة هي ثمرة منفصلة؟"
+    "tr": "Vücudumuzda parmak izi dışında tamamen benzersiz olan diğer organımız hangisidir?",
+    "en": "Which other body part is completely unique besides our fingerprint?",
+    "es": "¿Qué otra parte del cuerpo es completamente única además de nuestra huella dactilar?",
+    "ar": "ما هو الجزء الآخر من الجسم الفريد تمامًا إلى جانب بصمة إصبعك؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Hayır, ilk defa duydum",
-    "Şaşırtıcı ama inandırıcı"
+    "Dilimiz",
+    "Kulak mememiz",
+    "Burnumuz"
   ],
   "hashtags": [
     "#FactBite",
-    "#çilek",
-    "#bilim",
+    "#bilgi",
     "#ilginçbilgiler",
-    "#doğa",
-    "#botanik",
-    "#öğrenme"
+    "#anatomia",
+    "#keşfet",
+    "#bilim",
+    "#vücudumuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.8
   },
   "source": {
-    "name": "Encyclopædia Britannica",
-    "url": "https://www.britannica.com"
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çileğin Dışındaki O Minik Noktalar Gerçekte Nedir?",
+  "_topic": "Parmak İzimizden Daha Şaşırtıcı Olan O Eşsiz Yerimiz",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-25T19:33:52.100270+00:00",
+  "generated_at": "2026-10-25T21:30:00.146693+00:00",
   "topic_guard_days": 180
 }

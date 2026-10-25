@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kravat Neden Takılır?",
-    "body": "Sabahları boynunuza taktığınız o şık kravatın kökeni, aslında modadan çok uzak. 17. yüzyılda Hırvat paralı askerler, boyunlarına kumaş bağlar bağlamaz bunun savaşta ne kadar hayat kurtardığını fark ettiler: Yaraları sarmak, tozu toprağı engellemek ve hatta rüzgarda kıyafetleri sabitlemek için devasa bir ilk yardım bandajıydı."
+    "headline": "Kot Pantolonlardaki O Küçük Cep",
+    "body": "Kot pantolonların ön cebindeki o minik cebin aslında ne için tasarlandığını biliyor musunuz? Günümüzde çakmak veya bozuk para koymak için kullanılsa da, bu küçük cep 1800'lerde Levi Strauss tarafından cep saatlerini korumak için icat edilmişti."
   },
   "en": {
-    "headline": "Why Do We Wear Neckties?",
-    "body": "The origin of that stylish necktie you wear in the morning is actually far from fashion. In the 17th century, Croatian mercenaries realized that tying fabric around their necks was a lifesaver in battle: it served as a massive first aid bandage to wrap wounds, block dust, and secure uniforms in the wind."
+    "headline": "That Tiny Pocket on Jeans",
+    "body": "Do you know what that tiny pocket on the front of jeans was actually designed for? Although it's used today for lighters or loose change, this small pocket was invented in the 1800s by Levi Strauss to protect pocket watches."
   },
   "es": {
-    "headline": "¿Por qué usamos corbata?",
-    "body": "El origen de esa elegante corbata que te pones por la mañana está muy lejos de la moda. En el siglo XVII, los mercenarios croatas se dieron cuenta de que atarse tela al cuello salvaba vidas en la batalla: servía como un vendaje gigante para cubrir heridas, bloquear el polvo y asegurar la ropa del viento."
+    "headline": "Ese Bolsillo Pequeño en los Vaqueros",
+    "body": "¿Sabes para qué se diseñó realmente ese bolsillo diminuto en la parte delantera de los vaqueros? Aunque hoy se usa para encendedores o monedas sueltas, este pequeño bolsillo fue inventado en el siglo XIX por Levi Strauss para proteger los relojes de bolsillo."
   },
   "ar": {
-    "headline": "لماذا نرتدي ربطة العنق؟",
-    "body": "أصل ربطة العنق الأنيقة التي ترتديها صباحاً بعيد كل البعد عن الموضة. في القرن السابع عشر، أدرك المرتزقة الكروات أن ربط القماش حول رقابهم ينقذ حياتهم في المعركة؛ فقد كانت بمثابة ضمادة ضخمة للإسعافات الأولية لتضميد الجروح ومنع الغبار وتثبيت الملابس في الرياح."
+    "headline": "ذلك الجيب الصغير في الجينز",
+    "body": "هل تعلم الغرض الحقيقي من ذلك الجيب الصغير الموجود في أمامية بنطلون الجينز؟ على الرغم من استخدامه اليوم للولاعات أو العملات المعدنية، فقد تم ابتكار هذا الجيب الصغير في القرن التاسع عشر بواسطة ليفاي ستراوس لحماية ساعات الجيب."
   },
   "reel_hook": {
-    "tr": "Boynunuza taktığınız o şık şeyin aslında bir savaş aleti olduğunu biliyor muydunuz?",
-    "en": "Did you know that stylish thing around your neck is actually a battle tool?",
-    "es": "¿Sabías que esa cosa elegante en tu cuello es en realidad una herramienta de batalla?",
-    "ar": "هل تعلم أن هذا الشيء الأنيق حول رقبتك هو في الواقع أداة معركة؟"
+    "tr": "Kot pantolonunuzdaki o minik cebin ne işe yaradığını gerçekten biliyor musunuz?",
+    "en": "Do you really know what that tiny pocket on your jeans is for?",
+    "es": "¿Sabes realmente para qué sirve ese bolsillo diminuto en tus vaqueros?",
+    "ar": "هل تعرف حقاً ما هي فائدة ذلك الجيب الصغير في بنطالك الجينز؟"
   },
   "story_question": {
-    "tr": "Kravatın kökeni hangi ülkedeki askerlere dayanır?",
-    "en": "The origin of the necktie traces back to soldiers from which country?",
-    "es": "¿De qué país eran los soldados que dieron origen a la corbata?",
-    "ar": "إلى أي بلد يعود أصل جنود ربطة العنق؟"
+    "tr": "Kot pantolonlardaki o küçük cep ilk olarak neyi taşımak için yapıldı?",
+    "en": "What was that tiny pocket on jeans originally made to carry?",
+    "es": "¿Para qué se hizo originalmente ese pequeño bolsillo en los vaqueros?",
+    "ar": "ما الذي صُمم من أجله ذلك الجيب الصغير في الجينز في الأصل؟"
   },
   "story_options": [
-    "Hırvatistan",
-    "Fransa",
-    "İngiltere"
+    "Cep saati",
+    "Bozuk para",
+    "Çakmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#kravat",
-    "#tarih",
-    "#ilginçbilgiler",
-    "#gündem",
-    "#bilgi",
-    "#keşfet"
+    "#ModaTarihi",
+    "#İlginçBilgiler",
+    "#GiyimSırları",
+    "#Tarih",
+    "#GenelKültür"
   ],
   "cta": {
-    "tr": "Bunu ilk defa mı duydun? Kaydet ve arkadaşına gönder!",
-    "en": "Hearing this for the first time? Save and send to a friend!",
-    "es": "¿Es la primera vez que lo oyes? ¡Guárdalo y envíaselo a un amigo!",
-    "ar": "أول مرة تسمع بهذا؟ احفظه وأرسله لصديقك!"
+    "tr": "Bunu daha önce biliyor muydunuz? Yorumlarda buluşalım ve takip etmeyi unutmayın!",
+    "en": "Did you know this before? Let us know in the comments and don't forget to follow!",
+    "es": "¿Sabías esto antes? ¡Cuéntanos en los comentarios y no olvides seguirnos!",
+    "ar": "هل كنت تعرف هذا من قبل؟ أخبرنا في التعليقات ولا تنس المتابعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "BBC History",
-    "url": "https://www.bbc.com/news/magazine-29440615"
+    "name": "Levi Strauss & Co. Archives",
+    "url": "https://www.levistrauss.com/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kravat Neden Takılır?",
+  "_topic": "Kot Pantolonlardaki O Küçük Cep",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-25T09:50:05.582637+00:00",
+  "generated_at": "2026-10-25T11:21:29.344956+00:00",
   "topic_guard_days": 180
 }

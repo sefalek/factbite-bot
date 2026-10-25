@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzlerimiz Neden Bebekken Değil de Anne Karnında Oluşur?",
-    "body": "Parmak izlerimiz, dış dünyayla hiç temas etmediğimiz halde anne karnındaki ilk aylarımızda oluşur ve ömür boyu hiç değişmez. Bunun sebebi tamamen fizikseldir: Parmak uçlarındaki hızla büyüyen doku tabakasının alt katmanla sürtünmesi sonucu bu eşsiz desenler kendiliğinden şekillenir."
+    "headline": "Parmak Aralarındaki O Deri Neden Soyulur?",
+    "body": "Duştan veya havuzdan çıktıktan sonra parmak aralarınızın hafifçe soyulduğunu hiç fark ettiniz mi? Bunun sebebi sadece cildin kuruması değil. O bölgedeki deri, vücudun diğer yerlerine göre çok daha ince ve katlanmış yapıdadır. Suyla temas ettiğinde hızla şişer ve kuruma sürecinde mikro düzeyde dökülmeye başlar."
   },
   "en": {
-    "headline": "Why Do Our Fingerprints Form in the Womb Rather Than After Birth?",
-    "body": "Our fingerprints form during the first months in the womb without any contact with the outside world and never change. This happens due to pure physics: the friction between the rapidly growing tissue layer on the fingertips and the inner layer naturally creates these unique patterns."
+    "headline": "Why Does Skin Between Fingers Peel After Swimming?",
+    "body": "Have you ever noticed the skin between your fingers peeling slightly after a shower or pool? It's not just dryness. The skin in that area is much thinner and folded compared to the rest of the body. When it contacts water, it swells quickly and begins to shed at a micro-level during the drying process."
   },
   "es": {
-    "headline": "¿Por qué nuestras huellas dactilares se forman en el útero y no al nacer?",
-    "body": "Nuestras huellas dactilares se forman durante los primeros meses en el útero sin contacto con el mundo exterior y nunca cambian. Esto se debe a la física pura: la fricción entre la capa de tejido que crece rápidamente en las yemas de los dedos y la capa interna crea estos patrones únicos."
+    "headline": "¿Por qué se pela la piel entre los dedos?",
+    "body": "¿Alguna vez has notado que la piel entre tus dedos se pela ligeramente después de la ducha o la piscina? No es solo sequedad. La piel de esa zona es mucho más fina y plegada en comparación con el resto del cuerpo. Al entrar en contacto con el agua, se hincha rápidamente y comienza a descamarse a nivel microscópico."
   },
   "ar": {
-    "headline": "لماذا تتكون بصمات أصابعنا في الرحم وليس بعد الولادة؟",
-    "body": "تتكون بصمات أصابعنا خلال الأشهر الأولى في الرحم دون أي احتكاك بالعالم الخارجي ولا تتغير أبداً. يحدث هذا بسبب الفيزياء البحتة: الاحتكاك بين طبقة الأنسجة سريعة النمو على أطراف الأصابع والطبقة الداخلية يخلق هذه الأنماط الفريدة تلقائياً."
+    "headline": "لماذا تقشر الجلد بين الأصابع بعد السباحة؟",
+    "body": "هل لاحظت يوماً أن الجلد بين أصابعك يتقشر قليلاً بعد الاستحمام أو المسبح؟ الأمر ليس مجرد جفاف. الجلد في تلك المنطقة أرفع بكثير ومثني مقارنة بباقي الجسم. عندما يلامس الماء، ينتفخ بسرعة ويبدأ في التقشر على مستوى دقيق أثناء الجفاف."
   },
   "reel_hook": {
-    "tr": "Parmak izinizin hayatınız boyunca neden asla değişmediğini biliyor musunuz?",
-    "en": "Do you know why your fingerprint never changes throughout your life?",
-    "es": "¿Sabes por qué tu huella dactilar nunca cambia a lo largo de tu vida?",
-    "ar": "هل تعلم لماذا لا تتغير بصمة إصبعك طوال حياتك؟"
+    "tr": "Duştan sonra parmak aralarınız neden soyulur?",
+    "en": "Why does the skin between your fingers peel after a shower?",
+    "es": "¿Por qué se pela la piel entre tus dedos después de la ducha?",
+    "ar": "لماذا يتقشر الجلد بين أصابعك بعد الاستحمام؟"
   },
   "story_question": {
-    "tr": "Parmak izleri hangi ayda tamamen şekillenmiş olur?",
-    "en": "In which month do fingerprints completely form?",
-    "es": "¿En qué mes se forman por completo las huellas dactilares?",
-    "ar": "في أي شهر تتشكل بصمات الأصابع بالكامل؟"
+    "tr": "Sizce parmak aralarındaki derinin bu kadar hassas olmasının ana sebebi nedir?",
+    "en": "What do you think is the main reason why the skin between fingers is so sensitive?",
+    "es": "¿Cuál crees que es la principal razón por la que la piel entre los dedos es tan sensible?",
+    "ar": "برأيك ما هو السبب الرئيسي لكون الجلد بين الأصابع حساسة جداً؟"
   },
   "story_options": [
-    "3. Ay",
-    "6. Ay",
-    "Doğumdan sonra"
+    "Sürekli sürtünmeye maruz kalması",
+    "Ter bezlerinin yoğunluğu ve ince yapısı",
+    "Hava almayan kapalı bir bölge olması"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#biyoloji",
+    "#bilgi",
+    "#cilt",
+    "#sağlık",
     "#ilginçbilgiler",
-    "#insan",
-    "#keşfet",
-    "#faydalıbilgiler"
+    "#vücudumuz",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu ilk kez duyuyorsan beğenmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like!",
+    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a me gusta!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فلا تنس الإعجاب!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.5
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Dermatoloji ve Cilt Sağlığı Araştırmaları",
+    "url": "https://www.aad.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzlerimiz Neden Bebekken Değil de Anne Karnında Oluşur?",
+  "_topic": "Parmak Aralarındaki O Deri Neden Soyulur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-25T16:59:13.176884+00:00",
+  "generated_at": "2026-10-25T18:13:47.116840+00:00",
   "topic_guard_days": 180
 }

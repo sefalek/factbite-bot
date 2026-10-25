@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Tuvalet Kapılarındaki O Boşluk Neden Var?",
-    "body": "Herkese açık tuvalet kabinlerinin kapıları neden hiçbir zaman yere kadar uzanmaz hiç düşündünüz mü? Bu tasarım hatası değil, tamamen güvenlik ve pratiklik odaklı ustaca bir tercihtir. Acil bir sağlık sorunu bayılma veya kilitli kalma durumlarında müdahaleyi hızlandırır, havalandırmayı sağlar ve temizliği inanılmaz kolaylaştırır."
+    "headline": "Buzdolabındaki O Küçük Delik Ne İşe Yarar?",
+    "body": "Buzdolabının iç arka duvarında yer alan o minik deliğin tıkanması, içeride su birikmesine ve kötü kokulara yol açar. Asıl görevi, soğutma sırasında oluşan yoğuşma suyunu güvenle dışarı tahliye etmektir."
   },
   "en": {
-    "headline": "Why Is There a Gap in Public Restroom Doors?",
-    "body": "Have you ever wondered why public restroom stall doors never go all the way to the floor? It's not a design flaw, but a clever choice focused on safety and practicality. In case of medical emergencies, fainting, or getting locked inside, it speeds up intervention, improves ventilation, and makes cleaning incredibly easy."
+    "headline": "What is the Purpose of that Tiny Hole in the Fridge?",
+    "body": "The clogging of that tiny hole on the inner back wall of the refrigerator leads to water accumulation and bad odors inside. Its main task is to safely drain the condensation water formed during cooling."
   },
   "es": {
-    "headline": "¿Por qué hay un espacio en las puertas de los baños públicos?",
-    "body": "¿Alguna vez te has preguntado por qué las puertas de los baños públicos nunca llegan hasta el suelo? No es un error de diseño, sino una elección inteligente centrada en la seguridad y la práctica. En caso de emergencias médicas o desmayos, acelera la intervención, mejora la ventilación y facilita mucho la limpieza."
+    "headline": "¿Para qué sirve ese pequeño agujero en la nevera?",
+    "body": "La obstrucción de ese pequeño agujero en la pared trasera interior del refrigerador provoca acumulación de agua y malos olores en su interior. Su tarea principal es drenar de forma segura el agua de condensación."
   },
   "ar": {
-    "headline": "لماذا توجد فجوة أسفل أبواب الحمامات العامة؟",
-    "body": "هل فكرت يومًا لماذا لا تصل أبواب مقصورات الحمامات العامة إلى الأرض أبدًا؟ هذا ليس عيبًا في التصميم، بل هو اختيار ذكي يركز على الأمان والعملية. في حالات الطوارئ الصحية أو الإغلاق، فإنه يسرع التدفق والتهوية ويسهل التنظيف بشكل لا يصدق."
+    "headline": "ما هي فائدة تلك Th ثقوب الصغيرة في الثلاجة؟",
+    "body": "ؤدي انسداد هذا الثقب الصغير الموجود على الجدار الخلفي الداخلي للثلاجة إلى تجمع المياه والروائح الكريهة في الداخل. مهمته الرئيسية هي تصريف مياه التكثيف بأمان."
   },
   "reel_hook": {
-    "tr": "Tuvalet kabinlerinin altındaki o boşluğun hayat kurtaran sırrını biliyor musun?",
-    "en": "Do you know the life-saving secret behind that gap under restroom stalls?",
-    "es": "¿Conoces el secreto detrás de ese espacio debajo de los baños?",
-    "ar": "هل تعرف السر خلف تلك الفجوة أسفل مقصورات الحمامات؟"
+    "tr": "Buzdolabınızın içindeki o gizli deliğin ne işe yaradığını biliyor musunuz?",
+    "en": "Do you know what that hidden hole inside your fridge is for?",
+    "es": "¿Sabes para qué sirve ese agujero oculto dentro de tu nevera?",
+    "ar": "هل تعلم ما هي فائدة هذا الثقب المخفي داخل ثلاجتك؟"
   },
   "story_question": {
-    "tr": "Halka açık tuvalet kapılarının altındaki boşluk temel olarak ne için tasarlanmıştır?",
-    "en": "What is the main purpose of the gap at the bottom of public restroom doors?",
-    "es": "¿Cuál es el propósito principal del espacio en la parte inferior de las puertas de los baños?",
-    "ar": "ما هو الغرض الرئيسي من الفجوة الموجودة أسفل أبواب الحمامات العامة؟"
+    "tr": "Buzdolabındaki o küçük delik ne işe yarar?",
+    "en": "What does the small hole in the fridge do?",
+    "es": "¿Para qué sirve el pequeño agujero de la nevera?",
+    "ar": "ماذا تفعل الثقوب الصغيرة في الثلاجة؟"
   },
   "story_options": [
-    "Acil durumlar ve havalandırma",
-    "Sadece malzeme tasarrufu",
-    "Estetik görünüm"
+    "Su tahliyesi",
+    "Hava sirkülasyonu",
+    "Işık sensörü"
   ],
   "hashtags": [
     "#FactBite",
-    "#GenelKültür",
-    "#İlginçBilgiler",
-    "#Tasarım",
-    "#Bilim",
-    "#Keşfet"
+    "#buzdolabı",
+    "#ilginçbilgiler",
+    "#pratikbilgiler",
+    "#evyekat",
+    "#bilim",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gizli tasarım sırrı için takip et!",
-    "en": "Follow for more hidden design secrets like this!",
-    "es": "¡Sígueme para más secretos de diseño ocultos como este!",
-    "ar": "تابعنا للمزيد من أسرار التصميم الخفية مثل هذه!"
+    "tr": "Bunun gibi daha fazla hayat kurtaran detay için takip et!",
+    "en": "Follow for more life-saving details like this!",
+    "es": "¡Síguenos para más detalles salvavidas como este!",
+    "ar": "تابعنا للمزيد من التفاصيل المفيدة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Architectural Digest & Building Safety Codes",
-    "url": "https://www.architecturaldigest.com"
+    "name": "Ev Aletleri Kullanım Kılavuzları",
+    "url": "https://www.energystar.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Tuvalet Kapılarındaki O Boşluk Neden Var?",
+  "_topic": "Buzdolabındaki O Küçük Delik Ne İşe Yarar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-25T13:14:21.185250+00:00",
+  "generated_at": "2026-10-25T15:00:58.556977+00:00",
   "topic_guard_days": 180
 }

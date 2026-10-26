@@ -1,58 +1,57 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uzay Boşluğunda Kayan O Sesin Gizemi",
-    "body": "Uzayda ses yayılmaz derler, peki ya devasa bir kara delikten yayılan o ürkütücü uğultu? NASA, Perseus galaksi kümesindeki bir kara deliğin ses dalgalarını kaydetti. Bu ses o kadar derin ki, insan kulağının duyabileceği en düşük nota seviyesinden tam elli yedi oktav daha alçak."
+    "headline": "Uzayda Ağlayamazsınız!",
+    "body": "Dünyada döktüğümüz gözyaşları yerçekimi sayesinde aşağı doğru akar. Ancak yerçekimsiz uzay ortamında ağladığınızda, gözyaşınız gözünüzün etrafından aşağı akmaz; aksine yüzünüzde büyüyen büyük bir su topuna dönüşür. Hatta silmeye çalışırsanız etrafa yayılıp burnunuza ve ağzınıza kaçabilir!"
   },
   "en": {
-    "headline": "The Mystery of Sound in Deep Space",
-    "body": "They say sound can't travel in space, but what about the eerie hum emitted by a massive black hole? NASA recorded sound waves from a black hole in the Perseus galaxy cluster. This sound is so deep it is fifty-seven octaves below the lowest note human ears can hear."
+    "headline": "You Can't Cry in Space!",
+    "body": "On Earth, tears flow downward thanks to gravity. But when you cry in the zero-gravity environment of space, the tears don't roll down your face; instead, they form a growing ball of water around your eye. If you try to wipe it, it can spread and get into your nose and mouth!"
   },
   "es": {
-    "headline": "El misterio del sonido en el espacio profundo",
-    "body": "Se dice que el sonido no viaja en el espacio, pero ¿qué hay del zumbido espeluznante emitido por un agujero negro masivo? La NASA registró ondas sonoras de un agujero negro en el cúmulo de galaxias de Perseo. Este sonido es tan profundo que está cincuenta y siete octavas por debajo de la nota más baja que los oídos humanos pueden escuchar."
+    "headline": "¡No puedes llorar en el espacio!",
+    "body": "En la Tierra, las lágrimas fluyen hacia abajo gracias a la gravedad. Pero cuando lloras en el entorno de gravedad cero del espacio, las lágrimas no bajan por tu cara; en su lugar, forman una bola de agua que crece alrededor de tu ojo. Si intentas limpiarla, ¡puede extenderse y entrar en tu nariz y boca!"
   },
   "ar": {
-    "headline": "لغز الصوت في الفضاء السحيق",
-    "body": "يقولون إن الصوت لا ينتقل في الفضاء، فماذا عن الطنين المخيف المنبعث من ثقب أسود هائل؟ سجلت ناسا موجات صوتية من ثقب أسود في عناقيد مجرة ​​برشاوس. هذا الصوت عميق لدرجة أنه أقل بخمس七 وسبعين أوكتافًا من أدنى نقطة يمكن للأذن البشرية سماعها."
+    "headline": "لا يمكنك البكاء في الفضاء!",
+    "body": "على الأرض، تسقط الدموع إلى أسفل بفضل الجاذبية. ولكن عندما تبكي في بيئة منعدمة الجاذبية في الفضاء، لا تنزل الدموع على وجهك؛ بل تشكل كرة متنامية من الماء حول عينك. وإذا محاولت مسحها، فقد تنتشر وتدخل إلى أنفك وفمك!"
   },
   "reel_hook": {
-    "tr": "Uzayın derinliklerinden gelen bu sesi duyduğunuzda inanamayacaksınız...",
-    "en": "You won't believe it when you hear this sound coming from deep space...",
-    "es": "No lo creerás cuando escuches este sonido procedente del espacio profundo...",
-    "ar": "لن تصدق ذلك عندما تسمع هذا الصوت القادم من الفضاء السحيق..."
+    "tr": "Uzayda ağlarsanız ne olur biliyor musunuz? Cevap hayal ettiğinizden çok daha tuhaf.",
+    "en": "Do you know what happens if you cry in space? The answer is much weirder than you think.",
+    "es": "¿Sabes qué pasa si lloras en el espacio? La respuesta es mucho más extraña de lo que imaginas.",
+    "ar": "هل تعلم ماذا يحدث إذا بكيت في الفضاء؟ الإجابة أغرب بكثير مما تتخيل."
   },
   "story_question": {
-    "tr": "NASA'nın kaydettiği bu kara delik sesi insan kulağı tarafından normalde duyulabilir mi?",
-    "en": "Can this black hole sound recorded by NASA normally be heard by the human ear?",
-    "es": "¿Este sonido de agujero negro registrado por la NASA puede ser escuchado normalmente por el oído humano?",
-    "ar": "هل يمكن للأذن البشرية عادة سماع صوت الثقب الأسود الذي سجلته ناسا؟"
+    "tr": "Uzayda ağladığınızda oluşan su topu yüzünüzden nasıl temizlenir?",
+    "en": "How is the water ball formed from crying in space cleaned from your face?",
+    "es": "¿Cómo se limpia de tu cara la bola de agua formada al llorar en el espacio?",
+    "ar": "كيف يتم تنظيف كرة الماء المتكونة من البكاء في الفضاء عن وجهك؟"
   },
   "story_options": [
-    "Evet, çok dikkatli dinlenirse duyulur",
-    "Hayır, insan işitme sınırının çok altındadır",
-    "Yalnızca kulaklık takıldığında duyulabilir"
+    "Özel bir vakumlu havluyla emdirilir",
+    "Hafifçe sallanarak savrulur",
+    "Bir bezle silinir"
   ],
   "hashtags": [
     "#FactBite",
     "#uzay",
-    "#karadelik",
     "#bilim",
-    "#nasa",
-    "#astronomi",
-    "#keşif"
+    "#Astronot",
+    "#ilginçbilgiler",
+    "#uzayaraştırmaları"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla uzay sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more space secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos espaciales como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الفضاء مثل هذه!"
+    "tr": "Bunun gibi daha fazla uzay sırrı için takip et!",
+    "en": "Follow for more space secrets like this!",
+    "es": "¡Sígueme para más secretos espaciales como este!",
+    "ar": "اتبعني للمزيد من أسرار الفضاء مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
@@ -61,9 +60,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uzay Boşluğunda Kayan O Sesin Gizemi",
+  "_topic": "Uzayda Ağlayamazsınız!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-26T15:14:55.418172+00:00",
+  "generated_at": "2026-10-26T17:30:03.645881+00:00",
   "topic_guard_days": 180
 }

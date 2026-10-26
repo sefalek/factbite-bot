@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yüzme Bilmeyen Hayvan",
-    "body": "Gezegendeki memelilerin neredeyse tamamı doğuştan yüzme bilirken, dünyanın en büyük kara hayvanları olan filler için durum tam tersidir. Kütleleri ve vücut yapıları nedeniyle su üstünde kalamazlar ve yüzemezler."
+    "headline": "Uzay Boşluğunda Kayan O Sesin Gizemi",
+    "body": "Uzayda ses yayılmaz derler, peki ya devasa bir kara delikten yayılan o ürkütücü uğultu? NASA, Perseus galaksi kümesindeki bir kara deliğin ses dalgalarını kaydetti. Bu ses o kadar derin ki, insan kulağının duyabileceği en düşük nota seviyesinden tam elli yedi oktav daha alçak."
   },
   "en": {
-    "headline": "The Animal That Can't Swim",
-    "body": "While almost all mammals on Earth know how to swim instinctively, it's the exact opposite for elephants, the largest land animals in the world. Due to their mass and body structure, they cannot stay afloat and swim."
+    "headline": "The Mystery of Sound in Deep Space",
+    "body": "They say sound can't travel in space, but what about the eerie hum emitted by a massive black hole? NASA recorded sound waves from a black hole in the Perseus galaxy cluster. This sound is so deep it is fifty-seven octaves below the lowest note human ears can hear."
   },
   "es": {
-    "headline": "El animal que no sabe nadar",
-    "body": "Mientras que casi todos los mamíferos de la Tierra saben nadar por instinto, para los elefantes, los animales terrestres más grandes del mundo, ocurre todo lo contrario. Debido a su masa y estructura corporal, no pueden flotar ni nadar."
+    "headline": "El misterio del sonido en el espacio profundo",
+    "body": "Se dice que el sonido no viaja en el espacio, pero ¿qué hay del zumbido espeluznante emitido por un agujero negro masivo? La NASA registró ondas sonoras de un agujero negro en el cúmulo de galaxias de Perseo. Este sonido es tan profundo que está cincuenta y siete octavas por debajo de la nota más baja que los oídos humanos pueden escuchar."
   },
   "ar": {
-    "headline": "الحيوان الذي لا يسبح",
-    "body": "بينما تجيدเกือบ كل ثدييات الأرض السباحة بالفطرة، فإن الأمر مختلف تماماً بالنسبة للفيلة، وهي أكبر الحيوانات البرية في العالم. نظراً لكتلتها وبنيتها الجسدية، لا يمكنها الطفو على الماء أو السباحة."
+    "headline": "لغز الصوت في الفضاء السحيق",
+    "body": "يقولون إن الصوت لا ينتقل في الفضاء، فماذا عن الطنين المخيف المنبعث من ثقب أسود هائل؟ سجلت ناسا موجات صوتية من ثقب أسود في عناقيد مجرة ​​برشاوس. هذا الصوت عميق لدرجة أنه أقل بخمس七 وسبعين أوكتافًا من أدنى نقطة يمكن للأذن البشرية سماعها."
   },
   "reel_hook": {
-    "tr": "Dünyanın en büyük karada yaşayan hayvanı doğuştan neyi yapamaz?",
-    "en": "What is the one thing the largest land animal in the world cannot do by birth?",
-    "es": "¿Qué es lo único que el animal terrestre más grande del mundo no puede hacer por naturaleza?",
-    "ar": "ما هو الشيء الوحيد الذي لا يستطيع أكبر حيوان بري في العالم القيام به بالفطرة؟"
+    "tr": "Uzayın derinliklerinden gelen bu sesi duyduğunuzda inanamayacaksınız...",
+    "en": "You won't believe it when you hear this sound coming from deep space...",
+    "es": "No lo creerás cuando escuches este sonido procedente del espacio profundo...",
+    "ar": "لن تصدق ذلك عندما تسمع هذا الصوت القادم من الفضاء السحيق..."
   },
   "story_question": {
-    "tr": "Sizce aşağıdaki devasa hayvanlardan hangisi yüzemez?",
-    "en": "Which of these massive animals do you think cannot swim?",
-    "es": "¿Cuál de estos animales masivos crees que no puede nadar?",
-    "ar": "برأيك، أي من هذه الحيوانات الضخمة لا يستطيع السباحة؟"
+    "tr": "NASA'nın kaydettiği bu kara delik sesi insan kulağı tarafından normalde duyulabilir mi?",
+    "en": "Can this black hole sound recorded by NASA normally be heard by the human ear?",
+    "es": "¿Este sonido de agujero negro registrado por la NASA puede ser escuchado normalmente por el oído humano?",
+    "ar": "هل يمكن للأذن البشرية عادة سماع صوت الثقب الأسود الذي سجلته ناسا؟"
   },
   "story_options": [
-    "Fil",
-    "Su Aygırı",
-    "Gergedan"
+    "Evet, çok dikkatli dinlenirse duyulur",
+    "Hayır, insan işitme sınırının çok altındadır",
+    "Yalnızca kulaklık takıldığında duyulabilir"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#doğa",
-    "#hayvanlar",
-    "#ilginç",
+    "#uzay",
+    "#karadelik",
     "#bilim",
-    "#keşfet"
+    "#nasa",
+    "#astronomi",
+    "#keşif"
   ],
   "cta": {
-    "tr": "Bunun gibi şaşırtıcı gerçekler için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla uzay sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more space secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos espaciales como este!",
+    "ar": "لا تنس المتابعة لمزيد من أسرار الفضاء مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "NASA",
+    "url": "https://www.nasa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yüzme Bilmeyen Hayvan",
+  "_topic": "Uzay Boşluğunda Kayan O Sesin Gizemi",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-26T12:57:01.412417+00:00",
+  "generated_at": "2026-10-26T15:14:55.418172+00:00",
   "topic_guard_days": 180
 }

@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uzayda Ağlayamazsınız!",
-    "body": "Dünyada döktüğümüz gözyaşları yerçekimi sayesinde aşağı doğru akar. Ancak yerçekimsiz uzay ortamında ağladığınızda, gözyaşınız gözünüzün etrafından aşağı akmaz; aksine yüzünüzde büyüyen büyük bir su topuna dönüşür. Hatta silmeye çalışırsanız etrafa yayılıp burnunuza ve ağzınıza kaçabilir!"
+    "headline": "Uzayda Kaynak Yapmanın Ölümcül Yolu",
+    "body": "Dünyada iki metal parçayı birleştirmek için kaynak yaparsınız ve hemen kaynaşırlar. Ancak uzay boşluğunda, yani vakumda, aynı iki metal parçası birbirine dokunduğu anda yapışıp tek bir parça haline gelir. Bu tuhaf fizik kuralına 'soğuk kaynak' denir ve iki metal birbirini tanımayacak kadar pürüzsüzleşir."
   },
   "en": {
-    "headline": "You Can't Cry in Space!",
-    "body": "On Earth, tears flow downward thanks to gravity. But when you cry in the zero-gravity environment of space, the tears don't roll down your face; instead, they form a growing ball of water around your eye. If you try to wipe it, it can spread and get into your nose and mouth!"
+    "headline": "The Deadly Way to Weld in Space",
+    "body": "On Earth, you weld two pieces of metal together and they fuse. But in the vacuum of space, the moment two pieces of clean metal touch each other, they instantly bond and become a single piece. This bizarre rule of physics is called 'cold welding'."
   },
   "es": {
-    "headline": "¡No puedes llorar en el espacio!",
-    "body": "En la Tierra, las lágrimas fluyen hacia abajo gracias a la gravedad. Pero cuando lloras en el entorno de gravedad cero del espacio, las lágrimas no bajan por tu cara; en su lugar, forman una bola de agua que crece alrededor de tu ojo. Si intentas limpiarla, ¡puede extenderse y entrar en tu nariz y boca!"
+    "headline": "La Extraña Forma de Soldar en el Espacio",
+    "body": "En la Tierra, sueldas dos piezas de metal y se unen. Pero en el vacío del espacio, en el momento en que dos piezas de metal limpio se tocan, se fusionan instantáneamente y se convierten en una sola pieza. Esta extraña regla física se llama 'soldadura en frío'."
   },
   "ar": {
-    "headline": "لا يمكنك البكاء في الفضاء!",
-    "body": "على الأرض، تسقط الدموع إلى أسفل بفضل الجاذبية. ولكن عندما تبكي في بيئة منعدمة الجاذبية في الفضاء، لا تنزل الدموع على وجهك؛ بل تشكل كرة متنامية من الماء حول عينك. وإذا محاولت مسحها، فقد تنتشر وتدخل إلى أنفك وفمك!"
+    "headline": "الطريقة الغريبة لللحام في الفضاء",
+    "body": "على الأرض، تقوم لحام قطعتين من المعدن معاً لتتندمجا. ولكن في فراغ الفضاء، اللحظة التي تتلامس فيها قطعتان من المعدن النظيف، تلتصقان فوراً وتصبحان قطعة واحدة. تُسمى هذه القاعدة الفيزيائية الغريبة 'اللحام البارد'."
   },
   "reel_hook": {
-    "tr": "Uzayda ağlarsanız ne olur biliyor musunuz? Cevap hayal ettiğinizden çok daha tuhaf.",
-    "en": "Do you know what happens if you cry in space? The answer is much weirder than you think.",
-    "es": "¿Sabes qué pasa si lloras en el espacio? La respuesta es mucho más extraña de lo que imaginas.",
-    "ar": "هل تعلم ماذا يحدث إذا بكيت في الفضاء؟ الإجابة أغرب بكثير مما تتخيل."
+    "tr": "Uzay boşluğunda iki metal parçayı birbirine değdirirseniz ne olur?",
+    "en": "What happens if you touch two metal pieces together in the vacuum of space?",
+    "es": "¿Qué pasa si tocas dos piezas de metal en el vacío del espacio?",
+    "ar": "ماذا يحدث إذا لامست قطعتين من المعدن في فراغ الفضاء؟"
   },
   "story_question": {
-    "tr": "Uzayda ağladığınızda oluşan su topu yüzünüzden nasıl temizlenir?",
-    "en": "How is the water ball formed from crying in space cleaned from your face?",
-    "es": "¿Cómo se limpia de tu cara la bola de agua formada al llorar en el espacio?",
-    "ar": "كيف يتم تنظيف كرة الماء المتكونة من البكاء في الفضاء عن وجهك؟"
+    "tr": "Uzaydaki bu 'soğuk kaynak' olayının temel sebebi nedir?",
+    "en": "What is the main reason for this 'cold welding' phenomenon in space?",
+    "es": "¿Cuál es la razón principal de este fenómeno de 'soldadura en frío' en el espacio?",
+    "ar": "ما هو السبب الرئيسي لظاهرة 'اللحام البارد' في الفضاء؟"
   },
   "story_options": [
-    "Özel bir vakumlu havluyla emdirilir",
-    "Hafifçe sallanarak savrulur",
-    "Bir bezle silinir"
+    "Hava ve oksijenin tamamen olmaması",
+    "Güneş radyasyonunun metalleri eritmesi",
+    "Yerçekiminin sıfır olması"
   ],
   "hashtags": [
     "#FactBite",
     "#uzay",
     "#bilim",
-    "#Astronot",
+    "#fizik",
+    "#keşfet",
     "#ilginçbilgiler",
-    "#uzayaraştırmaları"
+    "#teknoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla uzay sırrı için takip et!",
-    "en": "Follow for more space secrets like this!",
-    "es": "¡Sígueme para más secretos espaciales como este!",
-    "ar": "اتبعني للمزيد من أسرار الفضاء مثل هذه!"
+    "tr": "Bunun gibi daha fazla bilgi için kaydetmeyi unutma!",
+    "en": "Don't forget to save for more facts like this!",
+    "es": "¡No olvides guardar para más datos como este!",
+    "ar": "لا تنس حفظ المنشور للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "NASA",
-    "url": "https://www.nasa.gov"
+    "name": "NASA Technical Reports Server",
+    "url": "https://ntrs.nasa.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uzayda Ağlayamazsınız!",
+  "_topic": "Uzayda Kaynak Yapmanın Ölümcül Yolu",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-26T17:30:03.645881+00:00",
+  "generated_at": "2026-10-26T19:59:30.531624+00:00",
   "topic_guard_days": 180
 }

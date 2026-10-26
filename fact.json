@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uzayda Kaynak Yapmanın Ölümcül Yolu",
-    "body": "Dünyada iki metal parçayı birleştirmek için kaynak yaparsınız ve hemen kaynaşırlar. Ancak uzay boşluğunda, yani vakumda, aynı iki metal parçası birbirine dokunduğu anda yapışıp tek bir parça haline gelir. Bu tuhaf fizik kuralına 'soğuk kaynak' denir ve iki metal birbirini tanımayacak kadar pürüzsüzleşir."
+    "headline": "Uzayda Yanınızdaki İnsanları Neden Duyamazsınız?",
+    "body": "Dünyada ses dalgaları hava yoluyla kulaklarımıza ulaşır. Ancak uzay tam bir vakumdur; yani sesin yayılmasını sağlayacak moleküller yoktur. Bu yüzden birbirimize ne kadar bağırsak da uzay boşluğunda tamamen sessizlik hüküm sürer."
   },
   "en": {
-    "headline": "The Deadly Way to Weld in Space",
-    "body": "On Earth, you weld two pieces of metal together and they fuse. But in the vacuum of space, the moment two pieces of clean metal touch each other, they instantly bond and become a single piece. This bizarre rule of physics is called 'cold welding'."
+    "headline": "Why Can't You Hear People Next to You in Space?",
+    "body": "On Earth, sound waves travel through the air to reach our ears. However, space is a complete vacuum, meaning there are no molecules to carry sound waves. No matter how loudly you shout, total silence rules in the vacuum of space."
   },
   "es": {
-    "headline": "La Extraña Forma de Soldar en el Espacio",
-    "body": "En la Tierra, sueldas dos piezas de metal y se unen. Pero en el vacío del espacio, en el momento en que dos piezas de metal limpio se tocan, se fusionan instantáneamente y se convierten en una sola pieza. Esta extraña regla física se llama 'soldadura en frío'."
+    "headline": "¿Por qué no puedes escuchar a las personas a tu lado en el espacio?",
+    "body": "En la Tierra, las ondas sonoras viajan por el aire. Sin embargo, el espacio es un vacío total, lo que significa que no hay moléculas para propagar el sonido. Por más que grites, en el espacio reina el silencio absoluto."
   },
   "ar": {
-    "headline": "الطريقة الغريبة لللحام في الفضاء",
-    "body": "على الأرض، تقوم لحام قطعتين من المعدن معاً لتتندمجا. ولكن في فراغ الفضاء، اللحظة التي تتلامس فيها قطعتان من المعدن النظيف، تلتصقان فوراً وتصبحان قطعة واحدة. تُسمى هذه القاعدة الفيزيائية الغريبة 'اللحام البارد'."
+    "headline": "لماذا لا يمكنك سماع الأشخاص بجوارك في الفضاء؟",
+    "body": "على الأرض، تنتقل موجات الصوت عبر الهواء لتصل إلى آذاننا. لكن الفضاء فراغ تام، مما يعني عدم وجود جزيئات لنقل الموجات الصوتية. بغض النظر عن مدى ارتفاع صراخك، يسود الصمت التام في الفضاء."
   },
   "reel_hook": {
-    "tr": "Uzay boşluğunda iki metal parçayı birbirine değdirirseniz ne olur?",
-    "en": "What happens if you touch two metal pieces together in the vacuum of space?",
-    "es": "¿Qué pasa si tocas dos piezas de metal en el vacío del espacio?",
-    "ar": "ماذا يحدث إذا لامست قطعتين من المعدن في فراغ الفضاء؟"
+    "tr": "Astronotlar uzayda birbirine bağırdığında neden tek bir ses bile duyulmaz?",
+    "en": "Why can't you hear a single sound when astronauts shout at each other in space?",
+    "es": "¿Por qué no se escucha ni un solo sonido cuando los astronautas se gritan en el espacio?",
+    "ar": "لماذا لا يمكنك سماع أي صوت على الإطلاق عندما يصرخ رواد الفضاء في وجه بعضهم في الفضاء؟"
   },
   "story_question": {
-    "tr": "Uzaydaki bu 'soğuk kaynak' olayının temel sebebi nedir?",
-    "en": "What is the main reason for this 'cold welding' phenomenon in space?",
-    "es": "¿Cuál es la razón principal de este fenómeno de 'soldadura en frío' en el espacio?",
-    "ar": "ما هو السبب الرئيسي لظاهرة 'اللحام البارد' في الفضاء؟"
+    "tr": "Uzay boşluğunda iki astronot birbiriyle nasıl iletişim kurar?",
+    "en": "How do two astronauts communicate in the vacuum of space?",
+    "es": "¿Cómo se comunican dos astronautas en el vacío del espacio?",
+    "ar": "كيف يتواصل رائدان فضاء في فراغ الفضاء؟"
   },
   "story_options": [
-    "Hava ve oksijenin tamamen olmaması",
-    "Güneş radyasyonunun metalleri eritmesi",
-    "Yerçekiminin sıfır olması"
+    "Radyo dalgaları ve mikrofonlarla",
+    "İşaret diliyle anlaşarak",
+    "Özel ses yansıtıcı kasklarla"
   ],
   "hashtags": [
     "#FactBite",
     "#uzay",
     "#bilim",
     "#fizik",
-    "#keşfet",
-    "#ilginçbilgiler",
-    "#teknoloji"
+    "#astronomi",
+    "#keşif",
+    "#bilgi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için kaydetmeyi unutma!",
-    "en": "Don't forget to save for more facts like this!",
-    "es": "¡No olvides guardar para más datos como este!",
-    "ar": "لا تنس حفظ المنشور للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla uzay sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more space secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos espaciales como este!",
+    "ar": "لا تنس المتابعة للمزيد من أسرار الفضاء مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "NASA Technical Reports Server",
-    "url": "https://ntrs.nasa.gov/"
+    "name": "NASA Space Science",
+    "url": "https://spaceplace.nasa.gov/sound-in-space/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uzayda Kaynak Yapmanın Ölümcül Yolu",
+  "_topic": "Uzayda Yanınızdaki İnsanları Neden Duyamazsınız?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-26T19:59:30.531624+00:00",
+  "generated_at": "2026-10-26T20:22:48.266004+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uzayda Yanınızdaki İnsanları Neden Duyamazsınız?",
-    "body": "Dünyada ses dalgaları hava yoluyla kulaklarımıza ulaşır. Ancak uzay tam bir vakumdur; yani sesin yayılmasını sağlayacak moleküller yoktur. Bu yüzden birbirimize ne kadar bağırsak da uzay boşluğunda tamamen sessizlik hüküm sürer."
+    "headline": "Uçakta Kulakların Neden Tıkanır?",
+    "body": "Uçak inişe geçtiğinde kulaklarında oluşan o rahatsız edici basınç hissinin sebebi kulak zarının arkasındaki hava ile kabin basıncının dengesini kaybetmesidir. Orta kulaktaki bu sıkışmayı eşitlemenin en doğal yolu yutkunmak veya esnemektir."
   },
   "en": {
-    "headline": "Why Can't You Hear People Next to You in Space?",
-    "body": "On Earth, sound waves travel through the air to reach our ears. However, space is a complete vacuum, meaning there are no molecules to carry sound waves. No matter how loudly you shout, total silence rules in the vacuum of space."
+    "headline": "Why Do Your Ears Pop on a Plane?",
+    "body": "That annoying pressure in your ears during landing happens when the air behind your eardrum loses balance with cabin pressure. The most natural way to equalize this middle ear squeeze is to yawn or swallow."
   },
   "es": {
-    "headline": "¿Por qué no puedes escuchar a las personas a tu lado en el espacio?",
-    "body": "En la Tierra, las ondas sonoras viajan por el aire. Sin embargo, el espacio es un vacío total, lo que significa que no hay moléculas para propagar el sonido. Por más que grites, en el espacio reina el silencio absoluto."
+    "headline": "¿Por qué se tapan los oídos en un avión?",
+    "body": "Esa molesta presión en los oídos durante el aterrizaje ocurre cuando el aire detrás del tímpano pierde el equilibrio con la presión de la cabina. La forma más natural de igualar esto es bostezar o tragar."
   },
   "ar": {
-    "headline": "لماذا لا يمكنك سماع الأشخاص بجوارك في الفضاء؟",
-    "body": "على الأرض، تنتقل موجات الصوت عبر الهواء لتصل إلى آذاننا. لكن الفضاء فراغ تام، مما يعني عدم وجود جزيئات لنقل الموجات الصوتية. بغض النظر عن مدى ارتفاع صراخك، يسود الصمت التام في الفضاء."
+    "headline": "لماذا تسد أذناك على متن الطائرة؟",
+    "body": "هذا الضغط المزعج في أذنيك أثناء الهبوط يحدث عندما يفقد الهواء خلف طبلة الأذن التوازن مع ضغط المقصورة. والطريقة الأكثر طبيعية لمعادلة هذا الضغط هي التثاؤب أو البللع."
   },
   "reel_hook": {
-    "tr": "Astronotlar uzayda birbirine bağırdığında neden tek bir ses bile duyulmaz?",
-    "en": "Why can't you hear a single sound when astronauts shout at each other in space?",
-    "es": "¿Por qué no se escucha ni un solo sonido cuando los astronautas se gritan en el espacio?",
-    "ar": "لماذا لا يمكنك سماع أي صوت على الإطلاق عندما يصرخ رواد الفضاء في وجه بعضهم في الفضاء؟"
+    "tr": "Uçak inerken kulakların neden hep aynı yerden tıkanır sanıyorsun?",
+    "en": "Why do you think your ears always pop in the exact same way when landing?",
+    "es": "¿Por qué crees que tus oídos siempre se tapan al aterrizar?",
+    "ar": "لماذا تعتقد أن أذنيك تسدان دائمًا بنفس الطريقة عند الهبوط؟"
   },
   "story_question": {
-    "tr": "Uzay boşluğunda iki astronot birbiriyle nasıl iletişim kurar?",
-    "en": "How do two astronauts communicate in the vacuum of space?",
-    "es": "¿Cómo se comunican dos astronautas en el vacío del espacio?",
-    "ar": "كيف يتواصل رائدان فضاء في فراغ الفضاء؟"
+    "tr": "Uçakta kulak tıkanmasını önlemenin en etkili yolu sence hangisidir?",
+    "en": "What do you think is the most effective way to prevent ear popping on a plane?",
+    "es": "¿Cuál crees que es la forma más eficaz de evitar que se tapen los oídos en un avión?",
+    "ar": "ما هي برأيك الطريقة الأكثر فعالية لمنع انسداد الأذن على متن الطائرة؟"
   },
   "story_options": [
-    "Radyo dalgaları ve mikrofonlarla",
-    "İşaret diliyle anlaşarak",
-    "Özel ses yansıtıcı kasklarla"
+    "Sakız çiğnemek",
+    "Uyumak",
+    "Su içmek"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
+    "#uçak",
     "#bilim",
-    "#fizik",
-    "#astronomi",
-    "#keşif",
-    "#bilgi"
+    "#sağlık",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla uzay sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more space secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos espaciales como este!",
-    "ar": "لا تنس المتابعة للمزيد من أسرار الفضاء مثل هذه!"
+    "tr": "Bunu sık sık uçan bir arkadaşına gönder!",
+    "en": "Send this to a friend who travels often!",
+    "es": "¡Envía esto a un amigo que viaje a menudo!",
+    "ar": "أرسل هذا لصديق يسافر كثيرًا!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "NASA Space Science",
-    "url": "https://spaceplace.nasa.gov/sound-in-space/"
+    "name": "American Academy of Otolaryngology",
+    "url": "https://www.entnet.org/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uzayda Yanınızdaki İnsanları Neden Duyamazsınız?",
+  "_topic": "Uçakta Kulakların Neden Tıkanır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-26T20:22:48.266004+00:00",
+  "generated_at": "2026-10-26T21:36:14.304030+00:00",
   "topic_guard_days": 180
 }

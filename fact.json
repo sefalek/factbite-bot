@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Cam Aslında Katı Değil, Çok Yavaş Akan Bir Sıvıdır Diyenler Yanılıyor!",
-    "body": "Eski pencerelerin alt kısmının daha kalın olması, camın yavaşça aktığı efsanesini doğurmuştur. Ancak cam, ne katı ne de sıvı; amorf katı adı verilen özel bir yapıdadır ve oda sıcaklığında akmaz."
+    "headline": "Uzayda Paslanmak Çok Farklı Olurdu",
+    "body": "Dünyada paslanma bildiğimiz gibi olur ama uzayda durum bambaşka. Hava ve oksijenin olmadığı havasız ortamda demir eşyalar pas tutmaz sanıyorsanız yanılıyorsunuz. Uzay boşluğunda iki metal parça birbirine dokunduğunda aralarında hiçbir engel kalmaz ve öylece yapışıp kalırlar. Bu garip durumun adı soğuk kaynağıdır."
   },
   "en": {
-    "headline": "The Myth That Glass is a Slow-Flowing Liquid is Actually Wrong!",
-    "body": "Thicker bottoms in old windows sparked the myth that glass slowly flows. However, glass is neither a solid nor a liquid; it is an amorphous solid that does not flow at room temperature."
+    "headline": "Welding in Space Without Heat",
+    "body": "Rust works as we know it on Earth, but space is completely different. If you think iron objects don't rust in the airless environment of space, you are mistaken. When two metal pieces touch in the vacuum of space, there is no barrier between them, and they simply fuse together. This strange phenomenon is called cold welding."
   },
   "es": {
-    "headline": "¡El mito de que el vidrio es un líquido de flujo lento es incorrecto!",
-    "body": "Los fondos más gruesos en ventanas antiguas crearon el mito de que el vidrio fluye lentamente. Sin embargo, el vidrio no es ni sólido ni líquido; es un sólido amorfó que no fluye a temperatura ambiente."
+    "headline": "Soldadura en el Espacio sin Calor",
+    "body": "El óxido funciona como lo conocemos en la Tierra, pero el espacio es completamente diferente. Si crees que los objetos de hierro no se oxidan en el ambiente sin aire del espacio, te equivocas. Cuando dos piezas de metal se tocan en el vacío del espacio, no hay barrera entre ellas y simplemente se fusionan. Este extrañísimo fenómeno se llama soldadura en frío."
   },
   "ar": {
-    "headline": "خرافة أن الزجاج سائل بطيء التدفق خاطئة تماماً!",
-    "body": "أثارت القواعد الأسمك في النوافذ القديمة خرافة أن الزجاج يتدفق ببطء. ومع ذلك، فالزجاج ليس صلباً ولا سائلاً؛ بل هو صلب غير متبلور لا يتدفق في درجة حرارة الغرفة."
+    "headline": "اللحام في الفضاء دون حرارة",
+    "body": "الصدأ يعمل كما نعرفه على الأرض، لكن الفضاء مختلف تماماً. إذا كنت تعتقد أن الأجسام الحديدية لا تصدأ في بيئة الفضاء الخالية من الهواء، فأنت مخطط. عندما تتلامس قطعتان معدنيتان في فراغ الفضاء، لا توجد حاجز بينهما وتنصهران معاً ببساطة. تُسمى هذه الظاهرة الغريبة باللحام البارد."
   },
   "reel_hook": {
-    "tr": "Eski camlar neden aşağıya doğru kalınlaşır sanıyorsunuz?",
-    "en": "Why do you think old glass windows get thicker at the bottom?",
-    "es": "Por qué crees que los vidrios antiguos son más gruesos abajo?",
-    "ar": "لماذا تعتقد أن زجاج النوافذ القديمة يصبح أسمك في الأسفل؟"
+    "tr": "Uzayda iki demir parça birbirine dokunursa ne olur?",
+    "en": "What happens if two pieces of iron touch in space?",
+    "es": "¿Qué pasa si dos piezas de hierro se tocan en el espacio?",
+    "ar": "ماذا يحدث إذا تلامس قطعتان من الحديد في الفضاء؟"
   },
   "story_question": {
-    "tr": "Eski pencerelerdeki kalınlaşmanın sebebi sizce nedir?",
-    "en": "What do you think is the reason for the thickness in old windows?",
-    "es": "CuálCrees que es la razón del grosor en las ventanas antiguas?",
-    "ar": "برأيك ما هو سبب زيادة سمك النوافذ القديمة في الأسفل؟"
+    "tr": "Uzayda iki metalin yapışmasına ne ad verilir?",
+    "en": "What is the fusion of two metals in space called?",
+    "es": "¿Cómo se llama la fusión de dos metales en el espacio?",
+    "ar": "ماذا يسمى اندماج معدنين في الفضاء؟"
   },
   "story_options": [
-    "Yavaşça akması",
-    "Üretim hatası",
-    "Eski üretim teknikleri"
+    "Soğuk Kaynağı",
+    "Manyetik Yapışma",
+    "Uzay Pası"
   ],
   "hashtags": [
     "#FactBite",
+    "#uzay",
     "#bilim",
-    "#ilginçbilgiler",
     "#fizik",
-    "#gerçekler",
-    "#keşfet"
+    "#keşfet",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla bilgi için takip et!",
+    "en": "Follow for more facts like this!",
+    "es": "¡Síguenos para más datos como este!",
+    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.8
+    "overall": 8.7
   },
   "source": {
-    "name": "American Ceramic Society",
-    "url": "https://ceramics.org/uc-berkeley-materials-scientist-debunks-the-stuck-glass-myth/"
+    "name": "NASA",
+    "url": "https://www.nasa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Cam Aslında Katı Değil, Çok Yavaş Akan Bir Sıvıdır Diyenler Yanılıyor!",
+  "_topic": "Uzayda Paslanmak Çok Farklı Olurdu",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-27T19:53:55.716602+00:00",
+  "generated_at": "2026-10-27T21:15:28.082696+00:00",
   "topic_guard_days": 180
 }

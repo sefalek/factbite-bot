@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dünyanın En Yüksek Dağı Everest Değil!",
-    "body": "Gözünüz hemen Himalayalar'a gitti değil mi? Ama yanlış! Dünyanın merkezinden ölçerseniz zirvesi uzaya en yakın olan dağ, Ekvador'daki Chimborazo Yanardağı'dır. Dünyanın ekvatorda şişkin olan yapısı sayesinde, Everest'ten bile kilometrelerce daha ileridedir."
+    "headline": "Satürn'ün Uydusu Titan'daki O Şaşırtıcı Nehirler",
+    "body": "Güneş sisteminde su dışında sıvı akıntısına sahip olan tek gök cismi Dünya sanıyorsanız yanılıyorsunuz. Satürn'ün dev uydusu Titan'ın yüzeyinde nehirler, göller ve hatta denizler var; ancak bu akarsuların içinde su değil, sıvı halde metan ve etan dolaşıyor. Yani Titan'da adeta doğal bir doğalgaz nehir sistemi akıyor."
   },
   "en": {
-    "headline": "The Tallest Mountain in the World is Not Everest!",
-    "body": "Your mind probably went straight to the Himalayas, right? But that's incorrect! Measured from the Earth's center, the mountain with its peak closest to space is Mount Chimborazo in Ecuador. Thanks to the Earth bulging at the equator, it sits miles ahead of Everest."
+    "headline": "The Surprising Rivers on Saturn's Moon Titan",
+    "body": "If you think Earth is the only celestial body in the solar system with liquid flows other than water, you are mistaken. Saturn's giant moon Titan has rivers, lakes, and even seas on its surface; however, these flows contain liquid methane and ethane instead of water. In other words, a natural natural gas river system flows on Titan."
   },
   "es": {
-    "headline": "¡La montaña más alta del mundo no es el Everest!",
-    "body": "Tu mente probablemente fue directo al Himalaya, ¿verdad? ¡Pero es incorrecto! Medido desde el centro de la Tierra, el pico más cercano al espacio es el volcán Chimborazo en Ecuador. Gracias a que la Tierra abulta en el ecuador, está kilómetros más lejos que el Everest."
+    "headline": "Los sorprendentes ríos en Titán, la luna de Saturno",
+    "body": "Si crees que la Tierra es el único cuerpo celeste del sistema solar con flujos líquidos además del agua, te equivocas. La luna gigante de Saturno, Titán, tiene ríos, lagos e incluso mares en su superficie; sin embargo, estos flujos contienen metano y etano líquido en lugar de agua. Es decir, un sistema natural de ríos de gas natural fluye en Titán."
   },
   "ar": {
-    "headline": "أطول جبل في العالم ليس إيفرست!",
-    "body": "ذهبت فكرتك مباشرة إلى جبال الهيمالايا، أليس كذلك؟ لكن هذا غير صحيح! إذا قسته من مركز الأرض، فإن الجبل الذي قممته هي الأقرب للفضاء هو بركان تشيمبورازو في الإكوادور. بفضل انتفاخ الأرض عند خط الاستواء، فإنه يرتفع لمسافة أبعد من إيفرست."
+    "headline": "الأنهار المذهلة على تيتان قمر زحل",
+    "body": "إذا كنت تعتقد أن الأرض هي الجسم السماوي الوحيد في النظام الشمسي الذي يحتوي على تدفقات سائلة غير الماء، فأنت مخطئ. يمتلك قمر زحل العملاق تيتان أنهارًا وبحارًا وحتى بحارًا على سطحه؛ ومع ذلك، تحتوي هذه التدفقات على الميثان والإيثان السائل بدلاً من الماء. وبعبارة أخرى، يتدفق نظام نهر الغاز الطبيعي على تيتان."
   },
   "reel_hook": {
-    "tr": "Dünyanın en yüksek dağının Everest olmadığını biliyor muydunuz?",
-    "en": "Did you know that the tallest mountain in the world isn't Everest?",
-    "es": "¿Sabías que la montaña más alta del mundo no es el Everest?",
-    "ar": "هل تعلم أن أطول جبل في العالم ليس إيفرست؟"
+    "tr": "Dünya dışında nehirlerin aktığı o tek yeri biliyor musunuz?",
+    "en": "Do you know the only place outside of Earth where rivers flow?",
+    "es": "¿Conoces el único lugar fuera de la Tierra donde fluyen los ríos?",
+    "ar": "هل تعرف المكان الوحيد خارج الأرض الذي تتدفق فيه الأنهار؟"
   },
   "story_question": {
-    "tr": "Sizce Everest'ten bile yüksek olan bu dağ hangi kıtadadır?",
-    "en": "Which continent do you think this mountain, taller than Everest, is located on?",
-    "es": "¿En qué continente crees que se encuentra esta montaña, más alta que el Everest?",
-    "ar": "في أي قارة تعتقد أن هذا الجبل، الأطول من إيفرست، يقع؟"
+    "tr": "Satürn'ün uydusu Titan'daki nehirlerde ne akmaktadır?",
+    "en": "What flows in the rivers on Saturn's moon Titan?",
+    "es": "¿Qué fluye en los ríos de la luna de Saturno, Titán?",
+    "ar": "ما الذي يتدفق في أنهار قمر زحل تيتان؟"
   },
   "story_options": [
-    "Güney Amerika",
-    "Asya",
-    "Afrika"
+    "Sıvı metan",
+    "Erimiş altın",
+    "Sıvı oksijen"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#coğrafya",
-    "#dağlar",
-    "#everest",
-    "#ilginçbilgiler",
-    "#science"
+    "#uzay",
+    "#bilim",
+    "#satürn",
+    "#titan",
+    "#astronomi",
+    "#keşif"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi büyüleyici uzay gerçekleri için takipte kal!",
+    "en": "Stay tuned for more fascinating space facts like this!",
+    "es": "¡Mantente al tanto de más datos espaciales fascinantes como este!",
+    "ar": "ترقبوا المزيد من الحقائق الفضائية الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 8.7
   },
   "source": {
-    "name": "NOAA",
-    "url": "https://oceanservice.noaa.gov/facts/highestmountain.html"
+    "name": "NASA Science",
+    "url": "https://solarsystem.nasa.gov/moons/saturn-moons/titan/in-depth/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dünyanın En Yüksek Dağı Everest Değil!",
+  "_topic": "Satürn'ün Uydusu Titan'daki O Şaşırtıcı Nehirler",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-27T16:48:28.425240+00:00",
+  "generated_at": "2026-10-27T18:39:23.313306+00:00",
   "topic_guard_days": 180
 }

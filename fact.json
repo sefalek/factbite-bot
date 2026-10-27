@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uzayda Paslanmak Çok Farklı Olurdu",
-    "body": "Dünyada paslanma bildiğimiz gibi olur ama uzayda durum bambaşka. Hava ve oksijenin olmadığı havasız ortamda demir eşyalar pas tutmaz sanıyorsanız yanılıyorsunuz. Uzay boşluğunda iki metal parça birbirine dokunduğunda aralarında hiçbir engel kalmaz ve öylece yapışıp kalırlar. Bu garip durumun adı soğuk kaynağıdır."
+    "headline": "Güneş'in Aslında Rengi Ne?",
+    "body": "Gökyüzüne baktığımızda Güneş'i sarı veya turuncu görürüz değil mi? Atmosfer ışığı kırdığı için onu öyle sanıyoruz. Ancak uzaydan bakıldığında Güneş'in gerçek rengi aslında saf beyazdır. Çünkü o, tüm renklerin birleşimidir!"
   },
   "en": {
-    "headline": "Welding in Space Without Heat",
-    "body": "Rust works as we know it on Earth, but space is completely different. If you think iron objects don't rust in the airless environment of space, you are mistaken. When two metal pieces touch in the vacuum of space, there is no barrier between them, and they simply fuse together. This strange phenomenon is called cold welding."
+    "headline": "What Color Is the Sun Actually?",
+    "body": "When we look at the sky, we see the Sun as yellow or orange, right? We think that because the atmosphere scatters the light. But from space, the Sun's true color is actually pure white because it combines all colors!"
   },
   "es": {
-    "headline": "Soldadura en el Espacio sin Calor",
-    "body": "El óxido funciona como lo conocemos en la Tierra, pero el espacio es completamente diferente. Si crees que los objetos de hierro no se oxidan en el ambiente sin aire del espacio, te equivocas. Cuando dos piezas de metal se tocan en el vacío del espacio, no hay barrera entre ellas y simplemente se fusionan. Este extrañísimo fenómeno se llama soldadura en frío."
+    "headline": "¿De qué color es realmente el Sol?",
+    "body": "Cuando miramos al cielo, vemos el Sol amarillo o naranja, ¿verdad? Pensamos eso porque la atmósfera dispersa la luz. Pero desde el espacio, el color real del Sol es en realidad blanco puro porque combina todos los colores."
   },
   "ar": {
-    "headline": "اللحام في الفضاء دون حرارة",
-    "body": "الصدأ يعمل كما نعرفه على الأرض، لكن الفضاء مختلف تماماً. إذا كنت تعتقد أن الأجسام الحديدية لا تصدأ في بيئة الفضاء الخالية من الهواء، فأنت مخطط. عندما تتلامس قطعتان معدنيتان في فراغ الفضاء، لا توجد حاجز بينهما وتنصهران معاً ببساطة. تُسمى هذه الظاهرة الغريبة باللحام البارد."
+    "headline": "ما هو لون الشمس الحقيقي؟",
+    "body": "عندما ننظر إلى السماء، نرى الشمس صفراء أو برتقالية، أليس كذلك؟ نعتقد ذلك لأن الغلاف الجوي يشتت الضوء. لكن من الفضاء، لون الشمس الحقيقي هو أبيض نقي في الواقع، لأنه يجمع كل الألوان معا!"
   },
   "reel_hook": {
-    "tr": "Uzayda iki demir parça birbirine dokunursa ne olur?",
-    "en": "What happens if two pieces of iron touch in space?",
-    "es": "¿Qué pasa si dos piezas de hierro se tocan en el espacio?",
-    "ar": "ماذا يحدث إذا تلامس قطعتان من الحديد في الفضاء؟"
+    "tr": "Güneş sarı değil! Peki gerçek rengini biliyor musun?",
+    "en": "The Sun is not yellow! Do you know its true color?",
+    "es": "¡El Sol no es amarillo! ¿Sabes cuál es su verdadero color?",
+    "ar": "الشمس ليست صفراء! هل تعرف لونها الحقيقي؟"
   },
   "story_question": {
-    "tr": "Uzayda iki metalin yapışmasına ne ad verilir?",
-    "en": "What is the fusion of two metals in space called?",
-    "es": "¿Cómo se llama la fusión de dos metales en el espacio?",
-    "ar": "ماذا يسمى اندماج معدنين في الفضاء؟"
+    "tr": "Uzaydan bakıldığında Güneş hangi renktir?",
+    "en": "What color does the Sun appear from space?",
+    "es": "¿De qué color se ve el Sol desde el espacio?",
+    "ar": "ما هو لون الشمس عند رؤيتها من الفضاء؟"
   },
   "story_options": [
-    "Soğuk Kaynağı",
-    "Manyetik Yapışma",
-    "Uzay Pası"
+    "Sarı",
+    "Beyaz",
+    "Turuncu"
   ],
   "hashtags": [
     "#FactBite",
+    "#güneş",
     "#uzay",
     "#bilim",
-    "#fizik",
     "#keşfet",
-    "#ilginçbilgiler"
+    "#astronomi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Síguenos para más datos como este!",
-    "ar": "اتبع لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذه الحقيقة لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
     "name": "NASA",
-    "url": "https://www.nasa.gov"
+    "url": "https://spaceplace.nasa.gov/hdr-sun/en/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uzayda Paslanmak Çok Farklı Olurdu",
+  "_topic": "Güneş'in Aslında Rengi Ne?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-27T21:15:28.082696+00:00",
+  "generated_at": "2026-10-27T22:55:33.799765+00:00",
   "topic_guard_days": 180
 }

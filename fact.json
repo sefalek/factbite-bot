@@ -1,70 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dünyanın En Yüksek Dağı Hangisidir? Cevap Everest Değil!",
-    "body": "Everest dünyanın en yüksek dağı olarak bilinir ancak bu sadece deniz seviyesinden ölçüldüğü içindir. Hawaii'deki Mauna Kea dağının tabanı okyanus tabanındadır ve dipte başlayan bu devasa yapı, tabandan zirveye ölçüldüğünde Everest'i ikiye katlar."
+    "headline": "Venüs'te Bir Gün, Bir Yıldan Neden Daha Uzundur?",
+    "body": "Güneş sistemindeki bazı gezegenlerin zaman algısı kafanızı karıştırabilir. Örneğin Venüs'ün kendi etrafında tam bir tur atması, Güneş etrafında dönmesinden daha uzun sürer. Bu yüzden Venüs'te bir gün, bir yıldan daha uzundur."
   },
   "en": {
-    "headline": "What Is The Tallest Mountain? The Answer Is Not Everest!",
-    "body": "Everest is known as the highest mountain, but only because it is measured from sea level. Mauna Kea in Hawaii starts at the ocean floor, and when measured from base to peak, this giant dwarfs Everest."
+    "headline": "Why Is a Day on Venus Longer Than Its Year?",
+    "body": "The perception of time on some planets in our solar system can be mind-boggling. For instance, it takes Venus longer to complete one rotation on its axis than to complete one orbit around the Sun. Therefore, a day on Venus is longer than its year."
   },
   "es": {
-    "headline": "¿Cuál Es La Montaña Más Alta? ¡La Respuesta No Es El Everest!",
-    "body": "El Everest es conocido como la montaña más alta, pero solo porque se mide desde el nivel del mar. La base del Mauna Kea en Hawái está en el fondo del océano y, al medirlo desde la base hasta la cima, duplica al Everest."
+    "headline": "¿Por qué un día en Venus es más largo que su año?",
+    "body": "La percepción del tiempo en algunos planetas de nuestro sistema solar puede ser desconcertante. Por ejemplo, a Venus le toma más tiempo completar una rotación sobre su propio eje que dar una vuelta completa alrededor del Sol. Por eso, un día en Venus es más largo que su año."
   },
   "ar": {
-    "headline": "ما هو أعلى جبل في العالم؟ الجواب ليس إيفرست!",
-    "body": "يُعرف إيفرست بأنه أعلى جبل، ولكن فقط لأنه يُقاس من مستوى سطح البحر. جبل مونا كيا في هاواي تبدأ قاعدته من قاع المحيط، وعند قياسه من القاعدة إلى القمة، يتجاوز إيفرست بمراحل."
+    "headline": "لماذا اليوم في كوكب الزهرة أطول من سنته؟",
+    "body": "قد يكون إدراك الوقت في بعض كواكب نظامنا الشمسي محيرا للعقل. على سبيل المثال، يستغرق كوكب الزهرة وقتا أطول لإكمال دورة واحدة حول محوره مقارنة بإكمال دورة واحدة حول الشمس. ولهذا السبب، فإن اليوم في الزهرة أطول من سنته."
   },
   "reel_hook": {
-    "tr": "Everest'in dünyanın en yüksek dağ olmadığını biliyor muydunuz?",
-    "en": "Did you know Everest is not actually the tallest mountain in the world?",
-    "es": "¿Sabías que el Everest no es en realidad la montaña más alta del mundo?",
-    "ar": "هل تعلم أن إيفرست ليس في الواقع أعلى جبل في العالم؟"
+    "tr": "Hangi gezegende bir gün, o gezegenin bir yılından daha uzun sürer biliyor musunuz?",
+    "en": "Do you know which planet has a day that lasts longer than its year?",
+    "es": "¿Sabes en qué planeta un día dura más que su año?",
+    "ar": "هل تعلم أي كوكب يكون فيه اليوم أطول من سنته؟"
   },
   "story_question": {
-    "tr": "Sizce deniz tabanından zirveye ölçülen dünyanın en yüksek dağı hangisidir?",
-    "en": "Which mountain do you think is the tallest when measured from base to peak?",
-    "es": "¿Cuál crees que es la montaña más alta medida desde su base?",
-    "ar": "ما هو الجبل الذي تعتقد أنه الأطول عند قياسه من القاعدة؟"
+    "tr": "Hangi gezegenin bir günü, bir yılından daha uzundur?",
+    "en": "Which planet's day is longer than its year?",
+    "es": "¿Qué planeta tiene un día más largo que su año?",
+    "ar": "أي كوكب يومه أطول من سنته؟"
   },
   "story_options": [
-    "Mauna Kea",
-    "Chimborazo",
-    "Kilimanjaro"
+    "Venüs",
+    "Mars",
+    "Jüpiter"
   ],
   "hashtags": [
     "#FactBite",
-    "#daglar",
-    "#everest",
-    "#bilgi",
-    "#doga",
-    "#kesfet",
-    "#ogrenme",
-    "#bilim"
+    "#Venüs",
+    "#Uzay",
+    "#Bilim",
+    "#Astronomi",
+    "#Gezegenler",
+    "#İlginçBilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Follow for more surprising facts like this!",
-    "es": "¡Síguenos para más datos sorprendentes como este!",
-    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla uzay sırrı için takipte kal!",
+    "en": "Stay tuned for more space secrets like this!",
+    "es": "¡Mantente atento a más secretos espaciales como este!",
+    "ar": "ترقبوا المزيد من أسرار الفضاء مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "USGS",
-    "url": "https://www.usgs.gov/"
+    "name": "NASA Solar System Exploration",
+    "url": "https://solarsystem.nasa.gov/planets/venus/in-depth/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dünyanın En Yüksek Dağı Hangisidir? Cevap Everest Değil!",
+  "_topic": "Venüs'te Bir Gün, Bir Yıldan Neden Daha Uzundur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-27T12:08:09.926787+00:00",
+  "generated_at": "2026-10-27T14:33:06.357104+00:00",
   "topic_guard_days": 180
 }

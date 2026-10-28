@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ay'da Bırakılan Ayak İzleri",
-    "body": "Apollo astronotlarının Ay'da bıraktığı ayak izleri, orada rüzgar ve erozyon olmadığı için milyonlarca yıl boyunca silinmeden kalabilir."
+    "headline": "Dünyanın En Derin Noktası Olan Mariana Çukuru'na Bırakılan Bir Demir Gülle Oraya Ne Kadar Sürede Ulaşır?",
+    "body": "Okyanusun en derin yeri Mariana Çukuru'na demir bir gülle bıraksanız, tabana ulaşıp ulaşamayacağını düşündünüz mü? Su altındaki o muazzam yoğunluk ve basınç nedeniyle, çukurun dibine varana kadar tamamen eriyip kaybolur mu yoksa düşmeye devam mı ederdi? Bilim insanları bu devasa derinliğin fizik kurallarıyla nasıl başa çıktığını açıkladı."
   },
   "en": {
-    "headline": "Footprints Left on the Moon",
-    "body": "The footprints left by Apollo astronauts on the Moon can remain intact for millions of years because there is no wind or erosion there."
+    "headline": "How Long Does It Take for an Iron Cannonball Dropped in the Mariana Trench to Reach the Bottom?",
+    "body": "Have you ever wondered if an iron cannonball dropped into the Mariana Trench would actually make it to the ocean floor? Due to the immense density and pressure underwater, would it completely dissolve and vanish before hitting the bottom, or keep falling? Scientists explained how this gigantic depth deals with the laws of physics."
   },
   "es": {
-    "headline": "Huellas dejadas en la Luna",
-    "body": "Las huellas dejadas por los astronautas del Apolo en la Luna pueden permanecer intactas durante millones de años porque no hay viento ni erosión allí."
+    "headline": "¿Cuánto tiempo tarda una bala de cañón de hierro lanzada a la Fosa de las Marianas en llegar al fondo?",
+    "body": "¿Alguna vez te has preguntado si una bala de cañón de hierro lanzada a la Fosa de las Marianas realmente llegaría al fondo del océano? Debido a la inmensa densidad y presión bajo el agua, ¿se disolvería por completo y desaparecería antes de tocar fondo, o seguiría cayendo? Los científicos explicaron cómo esta profundidad gigantesca lidia con las leyes de la física."
   },
   "ar": {
-    "headline": "الآثار المetruكة على القمر",
-    "body": "يمكن أن تبقى آثار الأقدام التي تركها رواد فضاء أبولو على القمر سليمة لملايين السنين لعدم وجود رياح أو تعرية هناك."
+    "headline": "كم يستغرق قنبلة حديدية تُلقى في خندق ماريانا لتصل إلى القاع؟",
+    "body": "هل فكرت يومًا ما إذا كانت قنبلة حديدية ألقيت في خندق ماريانا ستصل بالفعل إلى قاع المحيط؟ بسبب الكثافة الهائلة والضغط تحت الماء، هل ستذوب تمامًا وتختفي قبل اصطدامها بالقاع أم ستستمر في الساقط؟ أوضح العلماء كيف يتعامل هذا العمق الهائل مع قوانين الفيزياء."
   },
   "reel_hook": {
-    "tr": "Ay'daki ayak izleri oradan asla silinmeyecek mi?",
-    "en": "Will the footprints on the Moon never be erased from there?",
-    "es": "¿Las huellas en la Luna nunca se borrarán de allí?",
-    "ar": "هل ستظل آثار الأقدام على القمر موجودة ولن تمحى أبدًا؟"
+    "tr": "Mariana Çukuru'na demir bir gülle bırakırsanız ne olur?",
+    "en": "What happens if you drop an iron cannonball into the Mariana Trench?",
+    "es": "¿Qué pasa si dejas caer una bala de cañón de hierro en la Fosa de las Marianas?",
+    "ar": "ماذا يحدث إذا أسقطت قنبلة حديدية في خندق ماريانا؟"
   },
   "story_question": {
-    "tr": "Ay'daki ayak izlerinin silinmemesinin asıl sebebi nedir?",
-    "en": "What is the main reason why the footprints on the Moon do not erase?",
-    "es": "¿Cuál es la razón principal por la que las huellas en la Luna no se borran?",
-    "ar": "ما هو السبب الرئيسي لعدم محو آثار الأقدام على القمر؟"
+    "tr": "Sizce demir gülle Mariana Çukuru'nun dibine ulaşabilir mi?",
+    "en": "Do you think the iron cannonball can reach the bottom of the Mariana Trench?",
+    "es": "¿Crees que la bala de cañón de hierro puede llegar al fondo de la Fosa de las Marianas?",
+    "ar": "هل تعتقد أن القنبلة الحديدية يمكنها الوصول إلى قاع خندق ماريانا؟"
   },
   "story_options": [
-    "Atmosferin olmaması",
-    "Rüzgar ve erozyonun olmaması",
-    "Yerçekiminin sıfır olması"
+    "Evet, dümdüz iner",
+    "Basınçtan ezilir",
+    "Tabana ulaşır"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
     "#bilim",
-    "#ay",
-    "#astronomi",
-    "#keşif",
-    "#gerçekler"
+    "#okyanus",
+    "#marianachukuru",
+    "#fizik",
+    "#keşfet",
+    "#bilgi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için bizi takip et!",
+    "en": "Follow us so you don't miss more surprising facts like this!",
+    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
+    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "NASA",
-    "url": "https://www.nasa.gov"
+    "name": "NOAA Ocean Exploration",
+    "url": "https://oceanexplorer.noaa.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ay'da Bırakılan Ayak İzleri",
+  "_topic": "Dünyanın En Derin Noktası Olan Mariana Çukuru'na Bırakılan Bir Demir Gülle Oraya Ne Kadar Sürede Ulaşır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-28T18:49:37.968269+00:00",
+  "generated_at": "2026-10-28T20:12:09.838256+00:00",
   "topic_guard_days": 180
 }

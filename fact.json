@@ -1,51 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Güneş'in Aslında Rengi Ne?",
-    "body": "Gökyüzüne baktığımızda Güneş'i sarı veya turuncu görürüz değil mi? Atmosfer ışığı kırdığı için onu öyle sanıyoruz. Ancak uzaydan bakıldığında Güneş'in gerçek rengi aslında saf beyazdır. Çünkü o, tüm renklerin birleşimidir!"
+    "headline": "Güneş'in Aslında Mavi Olduğunu Biliyor muydunuz?",
+    "body": "Gökyüzünden baktığımızda sarı ya da turuncu gördüğümüz Güneş, uzayın boşluğundan bakıldığında aslında saf beyazdır. Atmosferimiz mavi dalga boylarını dağıttığı için onu sarıymış gibi görürüz."
   },
   "en": {
-    "headline": "What Color Is the Sun Actually?",
-    "body": "When we look at the sky, we see the Sun as yellow or orange, right? We think that because the atmosphere scatters the light. But from space, the Sun's true color is actually pure white because it combines all colors!"
+    "headline": "Did You Know the Sun Is Actually White?",
+    "body": "While we see it as yellow or orange from Earth, the Sun is actually pure white when viewed from space. Our atmosphere scatters blue wavelengths, making it appear yellow to us."
   },
   "es": {
-    "headline": "¿De qué color es realmente el Sol?",
-    "body": "Cuando miramos al cielo, vemos el Sol amarillo o naranja, ¿verdad? Pensamos eso porque la atmósfera dispersa la luz. Pero desde el espacio, el color real del Sol es en realidad blanco puro porque combina todos los colores."
+    "headline": "¿Sabías que el Sol es en realidad blanco?",
+    "body": "Aunque lo vemos amarillo o naranja desde la Tierra, el Sol es en realidad de un blanco puro cuando se ve desde el espacio. Nuestra atmósfera dispersa las longitudes de onda azules, haciéndolo parecer amarillo."
   },
   "ar": {
-    "headline": "ما هو لون الشمس الحقيقي؟",
-    "body": "عندما ننظر إلى السماء، نرى الشمس صفراء أو برتقالية، أليس كذلك؟ نعتقد ذلك لأن الغلاف الجوي يشتت الضوء. لكن من الفضاء، لون الشمس الحقيقي هو أبيض نقي في الواقع، لأنه يجمع كل الألوان معا!"
+    "headline": "هل كنت تعلم أن الشمس بيضاء في الواقع؟",
+    "body": "بينما نراها صفراء أو برتقالية من الأرض، فإن الشمس في الواقع بيضاء نقية عند رؤيتها من الفضاء. يقوم غلافنا الجوي بتشتيت الأطوال الموجية الزرقاء، مما يجعلها تبدو صفراء لنا."
   },
   "reel_hook": {
-    "tr": "Güneş sarı değil! Peki gerçek rengini biliyor musun?",
-    "en": "The Sun is not yellow! Do you know its true color?",
-    "es": "¡El Sol no es amarillo! ¿Sabes cuál es su verdadero color?",
-    "ar": "الشمس ليست صفراء! هل تعرف لونها الحقيقي؟"
+    "tr": "Güneş bildiğimiz renklerden çok farklı!",
+    "en": "The Sun is a completely different color than you think!",
+    "es": "¡El Sol es de un color completamente diferente al que crees!",
+    "ar": "الشمس بلون مختلف تماماً عما تعتقد!"
   },
   "story_question": {
-    "tr": "Uzaydan bakıldığında Güneş hangi renktir?",
-    "en": "What color does the Sun appear from space?",
-    "es": "¿De qué color se ve el Sol desde el espacio?",
-    "ar": "ما هو لون الشمس عند رؤيتها من الفضاء؟"
+    "tr": "Uzaydan bakıldığında Güneş'in gerçek rengi nedir?",
+    "en": "What is the true color of the Sun when viewed from space?",
+    "es": "¿Cuál es el verdadero color del Sol visto desde el espacio?",
+    "ar": "ما هو اللون الحقيقي للشمس عند رؤيتها من الفضاء؟"
   },
   "story_options": [
-    "Sarı",
     "Beyaz",
-    "Turuncu"
+    "Sarı",
+    "Kırmızı"
   ],
   "hashtags": [
     "#FactBite",
     "#güneş",
     "#uzay",
     "#bilim",
-    "#keşfet",
-    "#astronomi"
+    "#astronomi",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذه الحقيقة لأول مرة!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +55,14 @@
     "overall": 9
   },
   "source": {
-    "name": "NASA",
+    "name": "NASA Science",
     "url": "https://spaceplace.nasa.gov/hdr-sun/en/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Güneş'in Aslında Rengi Ne?",
+  "_topic": "Güneş'in Aslında Mavi Olduğunu Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-27T22:55:33.799765+00:00",
+  "generated_at": "2026-10-28T00:01:54.710689+00:00",
   "topic_guard_days": 180
 }

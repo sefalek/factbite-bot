@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Okyanusun 10 Kilometre Derinliğindeki O Şaşırtıcı Basınç",
-    "body": "Mariana Çukuru'nun dibindeki basınç, üzerinize yaklaşık 50 Jumbo jet uçağı binmiş gibi hissettirir. İnsan yapımı araçlar o derinliklere inerken adeta kağıt gibi büzüşür; ancak bazı canlılar bu ölümcül tonlarca ağırlığa hiçbir kemik kırmadan tamamen doğal bir şekilde meydan okur."
+    "headline": "Ay'da Bırakılan Ayak İzleri",
+    "body": "Apollo astronotlarının Ay'da bıraktığı ayak izleri, orada rüzgar ve erozyon olmadığı için milyonlarca yıl boyunca silinmeden kalabilir."
   },
   "en": {
-    "headline": "The Surprising Pressure 10 Kilometers Deep in the Ocean",
-    "body": "The pressure at the bottom of the Mariana Trench feels like having about 50 Jumbo jets stacked on top of you. Man-made vehicles crumple like paper at those depths, yet certain creatures defy this lethal weight completely naturally without breaking a single bone."
+    "headline": "Footprints Left on the Moon",
+    "body": "The footprints left by Apollo astronauts on the Moon can remain intact for millions of years because there is no wind or erosion there."
   },
   "es": {
-    "headline": "La sorprendente presión a 10 kilómetros de profundidad en el océano",
-    "body": "La presión en el fondo de la fosa de las Marianas se siente como tener unos 50 aviones Jumbo apilados encima de ti. Los vehículos hechos por el hombre se arrugan como papel a esas profundidades, pero ciertas criaturas desafían este peso letal de forma totalmente natural."
+    "headline": "Huellas dejadas en la Luna",
+    "body": "Las huellas dejadas por los astronautas del Apolo en la Luna pueden permanecer intactas durante millones de años porque no hay viento ni erosión allí."
   },
   "ar": {
-    "headline": "الضغط المذهل على عمق 10 كيلومترات في المحيط",
-    "body": "الضغط في قاع خنادق ماريانا يشبه وجود حوالي 50 طائرة جامبو فوقك. المركبات المصنوعة بشرياً تنكمش مثل الورق في تلك الأعماق، ومع ذلك تتحدى بعض الكائنات هذا الوزن المميت بشكل طبيعي تماماً."
+    "headline": "الآثار المetruكة على القمر",
+    "body": "يمكن أن تبقى آثار الأقدام التي تركها رواد فضاء أبولو على القمر سليمة لملايين السنين لعدم وجود رياح أو تعرية هناك."
   },
   "reel_hook": {
-    "tr": "Üzerinize 50 uçak binse ne olurdu?",
-    "en": "What would happen if 50 planes landed on you?",
-    "es": "¿Qué pasaría si 50 aviones cayeran sobre ti?",
-    "ar": "ماذا سيحدث لو هبطت عليك 50 طائرة؟"
+    "tr": "Ay'daki ayak izleri oradan asla silinmeyecek mi?",
+    "en": "Will the footprints on the Moon never be erased from there?",
+    "es": "¿Las huellas en la Luna nunca se borrarán de allí?",
+    "ar": "هل ستظل آثار الأقدام على القمر موجودة ولن تمحى أبدًا؟"
   },
   "story_question": {
-    "tr": "Okyanusun en derin noktasında sizce hangi temel sorun yaşanır?",
-    "en": "What do you think is the main issue at the deepest point of the ocean?",
-    "es": "¿Cuál crees que es el principal problema en el punto más profundo del océano?",
-    "ar": "ما برأيك المشكلة الرئيسية في أعمق نقطة بالمحيط؟"
+    "tr": "Ay'daki ayak izlerinin silinmemesinin asıl sebebi nedir?",
+    "en": "What is the main reason why the footprints on the Moon do not erase?",
+    "es": "¿Cuál es la razón principal por la que las huellas en la Luna no se borran?",
+    "ar": "ما هو السبب الرئيسي لعدم محو آثار الأقدام على القمر؟"
   },
   "story_options": [
-    "Aşırı Basınç",
-    "Mutlak Karanlık",
-    "Dondurucu Soğuk"
+    "Atmosferin olmaması",
+    "Rüzgar ve erozyonun olmaması",
+    "Yerçekiminin sıfır olması"
   ],
   "hashtags": [
     "#FactBite",
-    "#Okyanus",
-    "#MarianaÇukuru",
-    "#Bilim",
-    "#Doğa",
-    "#DerinDeniz",
-    "#Keşif"
+    "#uzay",
+    "#bilim",
+    "#ay",
+    "#astronomi",
+    "#keşif",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için kaydırmaya devam et!",
-    "en": "Keep swiping for more facts like this!",
-    "es": "¡Sigue deslizando para más datos como este!",
-    "ar": "استمر في التمرير لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
+    "shareability": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "NOAA Ocean Exploration",
-    "url": "https://oceanexplorer.noaa.gov/"
+    "name": "NASA",
+    "url": "https://www.nasa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Okyanusun 10 Kilometre Derinliğindeki O Şaşırtıcı Basınç",
+  "_topic": "Ay'da Bırakılan Ayak İzleri",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-28T17:48:06.622895+00:00",
+  "generated_at": "2026-10-28T18:49:37.968269+00:00",
   "topic_guard_days": 180
 }

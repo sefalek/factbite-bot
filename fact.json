@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Güneş Sistemi'ndeki O Garip Yağmur",
-    "body": "Dünyada yağmur yağdığında su damlaları düşer. Ancak Jüpiter ve Satürn gibi dev gaz gezegenlerinde gökyüzünden su yerine saf elmas yağar! Güçlü fırtınalar atmosferdeki metanı karbona dönüştürür ve bu karbon yüksek basınç altında parıl parıl elmaslara dönüşerek aşağıya doğru süzülür."
+    "headline": "Okyanusun 10 Kilometre Derinliğindeki O Şaşırtıcı Basınç",
+    "body": "Mariana Çukuru'nun dibindeki basınç, üzerinize yaklaşık 50 Jumbo jet uçağı binmiş gibi hissettirir. İnsan yapımı araçlar o derinliklere inerken adeta kağıt gibi büzüşür; ancak bazı canlılar bu ölümcül tonlarca ağırlığa hiçbir kemik kırmadan tamamen doğal bir şekilde meydan okur."
   },
   "en": {
-    "headline": "The Strange Rain in the Solar System",
-    "body": "When it rains on Earth, water drops fall. But on gas giants like Jupiter and Saturn, pure diamonds rain from the sky instead of water! Powerful storms turn atmospheric methane into carbon, which turns into glowing diamonds under high pressure and falls downward."
+    "headline": "The Surprising Pressure 10 Kilometers Deep in the Ocean",
+    "body": "The pressure at the bottom of the Mariana Trench feels like having about 50 Jumbo jets stacked on top of you. Man-made vehicles crumple like paper at those depths, yet certain creatures defy this lethal weight completely naturally without breaking a single bone."
   },
   "es": {
-    "headline": "La extraña lluvia del sistema solar",
-    "body": "Cuando llueve en la Tierra, caen gotas de agua. ¡Pero en los gigantes gaseosos como Júpiter y Saturno, llueven diamantes puros del cielo en lugar de agua! Las tormentas convierten el metano en carbono, que bajo alta presión se transforma en diamantes."
+    "headline": "La sorprendente presión a 10 kilómetros de profundidad en el océano",
+    "body": "La presión en el fondo de la fosa de las Marianas se siente como tener unos 50 aviones Jumbo apilados encima de ti. Los vehículos hechos por el hombre se arrugan como papel a esas profundidades, pero ciertas criaturas desafían este peso letal de forma totalmente natural."
   },
   "ar": {
-    "headline": "المطر الغريب في النظام الشمسي",
-    "body": "عندما تمطر على الأرض، تسقط قطرات الماء. ولكن في الكواكب العملاقة مثل المشتري وزحل، تهطل أمطار من الماس الخالص بدلاً من الماء! تحول العواصف القوية غاز الميثان إلى كربون، يتحول بدوره إلى ماس متألق تحت الضغط العالي."
+    "headline": "الضغط المذهل على عمق 10 كيلومترات في المحيط",
+    "body": "الضغط في قاع خنادق ماريانا يشبه وجود حوالي 50 طائرة جامبو فوقك. المركبات المصنوعة بشرياً تنكمش مثل الورق في تلك الأعماق، ومع ذلك تتحدى بعض الكائنات هذا الوزن المميت بشكل طبيعي تماماً."
   },
   "reel_hook": {
-    "tr": "Gökyüzünden su yerine elmas yağdığını biliyor muydunuz?",
-    "en": "Did you know that it rains diamonds instead of water from the sky?",
-    "es": "¿Sabías que llueven diamantes en lugar de agua del cielo?",
-    "ar": "هل تعلم أنه تمطر ماساً بدلاً من الماء من السماء؟"
+    "tr": "Üzerinize 50 uçak binse ne olurdu?",
+    "en": "What would happen if 50 planes landed on you?",
+    "es": "¿Qué pasaría si 50 aviones cayeran sobre ti?",
+    "ar": "ماذا سيحدث لو هبطت عليك 50 طائرة؟"
   },
   "story_question": {
-    "tr": "Hangi gezegende elmas yağmuru yağdığı bilinmektedir?",
-    "en": "On which planet is it known to rain diamonds?",
-    "es": "¿En qué planeta se sabe que llueven diamantes?",
-    "ar": "على أي كوكب يُعرف أنه تمطر ماساً؟"
+    "tr": "Okyanusun en derin noktasında sizce hangi temel sorun yaşanır?",
+    "en": "What do you think is the main issue at the deepest point of the ocean?",
+    "es": "¿Cuál crees que es el principal problema en el punto más profundo del océano?",
+    "ar": "ما برأيك المشكلة الرئيسية في أعمق نقطة بالمحيط؟"
   },
   "story_options": [
-    "Satürn",
-    "Mars",
-    "Merkür"
+    "Aşırı Basınç",
+    "Mutlak Karanlık",
+    "Dondurucu Soğuk"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#uzay",
-    "#astronomi",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#Okyanus",
+    "#MarianaÇukuru",
+    "#Bilim",
+    "#Doğa",
+    "#DerinDeniz",
+    "#Keşif"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla uzay sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more space secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos espaciales como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الفضاء مثل هذه!"
+    "tr": "Bunun gibi daha fazla gerçek için kaydırmaya devam et!",
+    "en": "Keep swiping for more facts like this!",
+    "es": "¡Sigue deslizando para más datos como este!",
+    "ar": "استمر في التمرير لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "NASA",
-    "url": "https://www.nasa.gov"
+    "name": "NOAA Ocean Exploration",
+    "url": "https://oceanexplorer.noaa.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Güneş Sistemi'ndeki O Garip Yağmur",
+  "_topic": "Okyanusun 10 Kilometre Derinliğindeki O Şaşırtıcı Basınç",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-28T15:09:09.105757+00:00",
+  "generated_at": "2026-10-28T17:48:06.622895+00:00",
   "topic_guard_days": 180
 }

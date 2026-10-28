@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dünyanın Merkezine En Yakın Yer",
-    "body": "Dünyanın merkezine en uzak noktanın Everest Dağı olduğunu biliyoruz. Peki ya dünyanın merkezine en yakın yerin neresi olduğunu tahmin edebilir misiniz? Cevap Everest değil, okyanusun ortasında yer alan Chimborazo Yanardağı'dır. Dünyanın ekvatorda şişkin olan yapısı nedeniyle bu dağ, zirvesiyle merkeze Everest'ten çok daha yakındır."
+    "headline": "Güneş Sistemi'ndeki O Garip Yağmur",
+    "body": "Dünyada yağmur yağdığında su damlaları düşer. Ancak Jüpiter ve Satürn gibi dev gaz gezegenlerinde gökyüzünden su yerine saf elmas yağar! Güçlü fırtınalar atmosferdeki metanı karbona dönüştürür ve bu karbon yüksek basınç altında parıl parıl elmaslara dönüşerek aşağıya doğru süzülür."
   },
   "en": {
-    "headline": "The Closest Place to Earth's Center",
-    "body": "We know that the furthest point from Earth's center is Mount Everest. But can you guess which place is actually closest to the center? The answer is not Everest, but Mount Chimborazo in the middle of the ocean. Due to Earth's equatorial bulge, its peak is much closer to the center than Everest."
+    "headline": "The Strange Rain in the Solar System",
+    "body": "When it rains on Earth, water drops fall. But on gas giants like Jupiter and Saturn, pure diamonds rain from the sky instead of water! Powerful storms turn atmospheric methane into carbon, which turns into glowing diamonds under high pressure and falls downward."
   },
   "es": {
-    "headline": "El lugar más cercano al centro de la Tierra",
-    "body": "Sabemos que el punto más alejado del centro de la Tierra es el Everest. ¿Pero puedes adivinar cuál es el lugar más cercano al centro? La respuesta no es el Everest, sino el volcán Chimborazo. Debido a la protuberancia de la Tierra en el ecuador, su cima está mucho más cerca del centro que el Everest."
+    "headline": "La extraña lluvia del sistema solar",
+    "body": "Cuando llueve en la Tierra, caen gotas de agua. ¡Pero en los gigantes gaseosos como Júpiter y Saturno, llueven diamantes puros del cielo en lugar de agua! Las tormentas convierten el metano en carbono, que bajo alta presión se transforma en diamantes."
   },
   "ar": {
-    "headline": "المكان الأقرب إلى مركز الأرض",
-    "body": "نعلم أن أبعد نقطة عن مركز الأرض هي جبل إيفرست. ولكن هل يمكنك تخمين المكان الأقرب فعلياً إلى المركز؟ الإجابة ليست إيفرست، بل بركان تشيمبورازو. بسبب انتفاخ الأرض عند خط الاستواء، فإن قمته أقرب بكثير إلى المركز مقارنة بإيفرست."
+    "headline": "المطر الغريب في النظام الشمسي",
+    "body": "عندما تمطر على الأرض، تسقط قطرات الماء. ولكن في الكواكب العملاقة مثل المشتري وزحل، تهطل أمطار من الماس الخالص بدلاً من الماء! تحول العواصف القوية غاز الميثان إلى كربون، يتحول بدوره إلى ماس متألق تحت الضغط العالي."
   },
   "reel_hook": {
-    "tr": "Dünyanın merkezine en yakın yerin Everest olduğunu mu sanıyorsunuz? Yanılıyorsunuz.",
-    "en": "Think Mount Everest is closest to Earth's center? You're wrong.",
-    "es": "¿Crees que el Everest es el lugar más cercano al centro de la Tierra? Te equivocas.",
-    "ar": "هل تعتقد أن إيفرست هو الأقرب لمركز الأرض؟ أنت مخطئ."
+    "tr": "Gökyüzünden su yerine elmas yağdığını biliyor muydunuz?",
+    "en": "Did you know that it rains diamonds instead of water from the sky?",
+    "es": "¿Sabías que llueven diamantes en lugar de agua del cielo?",
+    "ar": "هل تعلم أنه تمطر ماساً بدلاً من الماء من السماء؟"
   },
   "story_question": {
-    "tr": "Sizce dünyanın merkezine en yakın olan bu dağ hangi kıtada yer alıyor?",
-    "en": "In which continent do you think this mountain closest to Earth's center is located?",
-    "es": "¿En qué continente crees que se encuentra esta montaña más cercana al centro de la Tierra?",
-    "ar": "في أي قارة تعتقد يقع هذا الجبل الأقرب لمركز الأرض؟"
+    "tr": "Hangi gezegende elmas yağmuru yağdığı bilinmektedir?",
+    "en": "On which planet is it known to rain diamonds?",
+    "es": "¿En qué planeta se sabe que llueven diamantes?",
+    "ar": "على أي كوكب يُعرف أنه تمطر ماساً؟"
   },
   "story_options": [
-    "Asya",
-    "Güney Amerika",
-    "Afrika"
+    "Satürn",
+    "Mars",
+    "Merkür"
   ],
   "hashtags": [
     "#FactBite",
-    "#Coğrafya",
-    "#Bilgi",
-    "#Dünya",
-    "#Doğa",
-    "#Keşfet",
-    "#Bilim"
+    "#bilim",
+    "#uzay",
+    "#astronomi",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi şaşırtıcı coğrafi gerçekler için takip et!",
-    "en": "Follow for more surprising geographical facts like this!",
-    "es": "¡Síguenos para más datos geográficos sorprendentes como este!",
-    "ar": "تابعنا للمزيد من الحقائق الجغرافية المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla uzay sırrı için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more space secrets like this!",
+    "es": "¡No olvides seguirnos para más secretos espaciales como este!",
+    "ar": "لا تنس المتابعة لمزيد من أسرار الفضاء مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "NOAA & National Geographic",
-    "url": "https://oceanservice.noaa.gov/facts/highestpoint.html"
+    "name": "NASA",
+    "url": "https://www.nasa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dünyanın Merkezine En Yakın Yer",
+  "_topic": "Güneş Sistemi'ndeki O Garip Yağmur",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-28T12:48:04.689335+00:00",
+  "generated_at": "2026-10-28T15:09:09.105757+00:00",
   "topic_guard_days": 180
 }

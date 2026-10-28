@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Satürn'de Elmas Yağmuru Yağıyor!",
-    "body": "Güneş sistemindeki dev gaz gezegenleri Satürn ve Jüpiter, Dünya'da akıllara durgunluk verecek bir doğa olayına ev sahipliği yapıyor. Bu gezegenlerdeki yoğun atmosfer ve aşırı basınç, metan gazını karbona dönüştürerek havadan devasa elmas parçalarının yağmasına neden oluyor!"
+    "headline": "Dünyanın En Derin Noktasında Zaman Neden Yavaş Akar?",
+    "body": "Einstein'ın görelilik teorisine göre, yer çekimi zamanı büker. Mariana Çukuru'nun dibinde yer çekimi Dünya'nın diğer yerlerine göre çok az daha güçlüdür. Bu yüzden o derinlikte bulunan bir saat, yüzeydekine kıyasla saniyenin çok küçük bir kesri kadar daha yavaş ilerler."
   },
   "en": {
-    "headline": "It Rains Diamonds on Saturn!",
-    "body": "Gas giant planets Saturn and Jupiter in our solar system host a mind-blowing natural phenomenon. The dense atmosphere and extreme pressure on these planets turn methane gas into carbon, causing massive diamond pieces to rain down from the sky!"
+    "headline": "Why Time Moves Slower at the Deepest Point on Earth",
+    "body": "According to Einstein's theory of relativity, gravity bends time. At the bottom of the Mariana Trench, gravity is fractionally stronger than anywhere else on Earth. Therefore, a clock at that depth ticks slightly slower by a tiny fraction of a second compared to the surface."
   },
   "es": {
-    "headline": "¡Llueve diamantes en Saturno!",
-    "body": "Los planetas gigantes gaseosos Saturno y Júpiter en nuestro sistema solar albergan un fenómeno natural alucinante. La atmósfera densa y la presión extrema en estos planetas convierten el gas metano en carbono, ¡lo que hace que caigan enormes trozos de diamante desde el cielo!"
+    "headline": "Por qué el tiempo pasa más lento en el punto más profundo de la Tierra",
+    "body": "Según la teoría de la relatividad de Einstein, la gravedad curva el tiempo. En el fondo de la Fosa de las Marianas, la gravedad es una fracción más fuerte que en el resto de la Tierra. Por eso, un reloj a esa profundidad avanza un poco más lento en comparación con la superficie."
   },
   "ar": {
-    "headline": "تمطر ألماسًا على زحل!",
-    "body": "الكواكب الغازية العملاقة زحل والمشتر في نظامنا الشمسي تستضيف ظاهرة طبيعية مذهلة. الغلاف الجوي الكثيف والضغط الهائل على هذه الكواكب يحولان غاز الميثان إلى كربون، مما يتسبب في تساقط قطع ضخمة من الألماس من السماء!"
+    "headline": "لماذا يمر الوقت ببطء شديد في أعمق نقطة على وجه الأرض؟",
+    "body": "وفقاً لنظرية النسبية لأينشتاين، فإن الجاذبية تحني الزمن. في قاع خندق ماريانا، تكون الجاذبية أقوى بقليل مقارنة بأي مكان آخر على الأرض، ولهذا السبب تسير الساعة في تلك العمق أبطأ بجزء بسيط جداً من الثانية مقارنة بالس سطح."
   },
   "reel_hook": {
-    "tr": "Satürn'ün gökyüzünden milyarlarca ton elmas yağdırdığını biliyor muydunuz?",
-    "en": "Did you know that Saturn rains billions of tons of diamonds from its sky?",
-    "es": "¿Sabías que Saturno hace llover miles de millones de toneladas de diamantes desde su cielo?",
-    "ar": "هل كنت تعلم أن زحل يُمطر مليارات الأطنان من الألماس من سماءه؟"
+    "tr": "Dünyanın en derin yerinde zamanın daha yavaş aktığını biliyor muydunuz?",
+    "en": "Did you know that time actually moves slower at the deepest place on Earth?",
+    "es": "¿Sabías que el tiempo pasa más lento en el lugar más profundo de la Tierra?",
+    "ar": "هل تعلم أن الوقت يتحرك ببطء في أعمق مكان على الأرض؟"
   },
   "story_question": {
-    "tr": "Bu iki dev gezegenden hangisinde elmas yağmuru en yoğun görülür?",
-    "en": "On which of these two giant planets is the diamond rain most intense?",
-    "es": "¿En cuál de estos dos planetas gigantes es más intensa la lluvia de diamantes?",
-    "ar": "على أي من هذين الكوكبين العملاقين تكون أمطار الألماس أكثر كثافة؟"
+    "tr": "Sizce yer çekiminin zamanı büktüğü bu etki insan ömrünü ne kadar etkiler?",
+    "en": "How much do you think this time-bending effect of gravity impacts a human lifespan?",
+    "es": "¿Cuánto crees que este efecto de la gravedad afecta a la vida humana?",
+    "ar": "برأيك، إلى أي مدى يؤثر تأثير انحناء الزمن هذا على عمر الإنسان؟"
   },
   "story_options": [
-    "Satürn ve Jüpiter",
-    "Sadece Mars",
-    "Yalnızca Venüs"
+    "Farkedilemeyecek kadar az",
+    "Birkaç saniye fark eder",
+    "Hiçbir etkisi olmaz"
   ],
   "hashtags": [
     "#FactBite",
-    "#Satürn",
-    "#Uzay",
-    "#Bilim",
-    "#ElmasYağmuru",
-    "#Astronomi",
-    "#Keşif"
+    "#bilim",
+    "#fizik",
+    "#zaman",
+    "#keşfet",
+    "#ilginçbilgiler",
+    "#einstein"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla inanılmaz uzay gerçeği için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more incredible space facts like this!",
-    "es": "¡No olvides seguirnos para más increíbles datos espaciales como este!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق الفضائية المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla fizik sırrı için takipte kal!",
+    "en": "Stay tuned for more physics secrets like this!",
+    "es": "¡Sigue atento para más secretos de física como este!",
+    "ar": "ابق على تطلع لمزيد من أسرار الفيزياء مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "NASA Space Place",
-    "url": "https://spaceplace.nasa.gov/"
+    "name": "NASA & General Relativity Principles",
+    "url": "https://www.nasa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Satürn'de Elmas Yağmuru Yağıyor!",
+  "_topic": "Dünyanın En Derin Noktasında Zaman Neden Yavaş Akar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-28T21:39:29.399271+00:00",
+  "generated_at": "2026-10-28T22:59:40.552091+00:00",
   "topic_guard_days": 180
 }

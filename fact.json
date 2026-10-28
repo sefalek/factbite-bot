@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dünyanın En Derin Noktası Olan Mariana Çukuru'na Bırakılan Bir Demir Gülle Oraya Ne Kadar Sürede Ulaşır?",
-    "body": "Okyanusun en derin yeri Mariana Çukuru'na demir bir gülle bıraksanız, tabana ulaşıp ulaşamayacağını düşündünüz mü? Su altındaki o muazzam yoğunluk ve basınç nedeniyle, çukurun dibine varana kadar tamamen eriyip kaybolur mu yoksa düşmeye devam mı ederdi? Bilim insanları bu devasa derinliğin fizik kurallarıyla nasıl başa çıktığını açıkladı."
+    "headline": "Satürn'de Elmas Yağmuru Yağıyor!",
+    "body": "Güneş sistemindeki dev gaz gezegenleri Satürn ve Jüpiter, Dünya'da akıllara durgunluk verecek bir doğa olayına ev sahipliği yapıyor. Bu gezegenlerdeki yoğun atmosfer ve aşırı basınç, metan gazını karbona dönüştürerek havadan devasa elmas parçalarının yağmasına neden oluyor!"
   },
   "en": {
-    "headline": "How Long Does It Take for an Iron Cannonball Dropped in the Mariana Trench to Reach the Bottom?",
-    "body": "Have you ever wondered if an iron cannonball dropped into the Mariana Trench would actually make it to the ocean floor? Due to the immense density and pressure underwater, would it completely dissolve and vanish before hitting the bottom, or keep falling? Scientists explained how this gigantic depth deals with the laws of physics."
+    "headline": "It Rains Diamonds on Saturn!",
+    "body": "Gas giant planets Saturn and Jupiter in our solar system host a mind-blowing natural phenomenon. The dense atmosphere and extreme pressure on these planets turn methane gas into carbon, causing massive diamond pieces to rain down from the sky!"
   },
   "es": {
-    "headline": "¿Cuánto tiempo tarda una bala de cañón de hierro lanzada a la Fosa de las Marianas en llegar al fondo?",
-    "body": "¿Alguna vez te has preguntado si una bala de cañón de hierro lanzada a la Fosa de las Marianas realmente llegaría al fondo del océano? Debido a la inmensa densidad y presión bajo el agua, ¿se disolvería por completo y desaparecería antes de tocar fondo, o seguiría cayendo? Los científicos explicaron cómo esta profundidad gigantesca lidia con las leyes de la física."
+    "headline": "¡Llueve diamantes en Saturno!",
+    "body": "Los planetas gigantes gaseosos Saturno y Júpiter en nuestro sistema solar albergan un fenómeno natural alucinante. La atmósfera densa y la presión extrema en estos planetas convierten el gas metano en carbono, ¡lo que hace que caigan enormes trozos de diamante desde el cielo!"
   },
   "ar": {
-    "headline": "كم يستغرق قنبلة حديدية تُلقى في خندق ماريانا لتصل إلى القاع؟",
-    "body": "هل فكرت يومًا ما إذا كانت قنبلة حديدية ألقيت في خندق ماريانا ستصل بالفعل إلى قاع المحيط؟ بسبب الكثافة الهائلة والضغط تحت الماء، هل ستذوب تمامًا وتختفي قبل اصطدامها بالقاع أم ستستمر في الساقط؟ أوضح العلماء كيف يتعامل هذا العمق الهائل مع قوانين الفيزياء."
+    "headline": "تمطر ألماسًا على زحل!",
+    "body": "الكواكب الغازية العملاقة زحل والمشتر في نظامنا الشمسي تستضيف ظاهرة طبيعية مذهلة. الغلاف الجوي الكثيف والضغط الهائل على هذه الكواكب يحولان غاز الميثان إلى كربون، مما يتسبب في تساقط قطع ضخمة من الألماس من السماء!"
   },
   "reel_hook": {
-    "tr": "Mariana Çukuru'na demir bir gülle bırakırsanız ne olur?",
-    "en": "What happens if you drop an iron cannonball into the Mariana Trench?",
-    "es": "¿Qué pasa si dejas caer una bala de cañón de hierro en la Fosa de las Marianas?",
-    "ar": "ماذا يحدث إذا أسقطت قنبلة حديدية في خندق ماريانا؟"
+    "tr": "Satürn'ün gökyüzünden milyarlarca ton elmas yağdırdığını biliyor muydunuz?",
+    "en": "Did you know that Saturn rains billions of tons of diamonds from its sky?",
+    "es": "¿Sabías que Saturno hace llover miles de millones de toneladas de diamantes desde su cielo?",
+    "ar": "هل كنت تعلم أن زحل يُمطر مليارات الأطنان من الألماس من سماءه؟"
   },
   "story_question": {
-    "tr": "Sizce demir gülle Mariana Çukuru'nun dibine ulaşabilir mi?",
-    "en": "Do you think the iron cannonball can reach the bottom of the Mariana Trench?",
-    "es": "¿Crees que la bala de cañón de hierro puede llegar al fondo de la Fosa de las Marianas?",
-    "ar": "هل تعتقد أن القنبلة الحديدية يمكنها الوصول إلى قاع خندق ماريانا؟"
+    "tr": "Bu iki dev gezegenden hangisinde elmas yağmuru en yoğun görülür?",
+    "en": "On which of these two giant planets is the diamond rain most intense?",
+    "es": "¿En cuál de estos dos planetas gigantes es más intensa la lluvia de diamantes?",
+    "ar": "على أي من هذين الكوكبين العملاقين تكون أمطار الألماس أكثر كثافة؟"
   },
   "story_options": [
-    "Evet, dümdüz iner",
-    "Basınçtan ezilir",
-    "Tabana ulaşır"
+    "Satürn ve Jüpiter",
+    "Sadece Mars",
+    "Yalnızca Venüs"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#okyanus",
-    "#marianachukuru",
-    "#fizik",
-    "#keşfet",
-    "#bilgi"
+    "#Satürn",
+    "#Uzay",
+    "#Bilim",
+    "#ElmasYağmuru",
+    "#Astronomi",
+    "#Keşif"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için bizi takip et!",
-    "en": "Follow us so you don't miss more surprising facts like this!",
-    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
-    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla inanılmaz uzay gerçeği için bizi takip etmeyi unutma!",
+    "en": "Don't forget to follow us for more incredible space facts like this!",
+    "es": "¡No olvides seguirnos para más increíbles datos espaciales como este!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق الفضائية المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "NOAA Ocean Exploration",
-    "url": "https://oceanexplorer.noaa.gov/"
+    "name": "NASA Space Place",
+    "url": "https://spaceplace.nasa.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dünyanın En Derin Noktası Olan Mariana Çukuru'na Bırakılan Bir Demir Gülle Oraya Ne Kadar Sürede Ulaşır?",
+  "_topic": "Satürn'de Elmas Yağmuru Yağıyor!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-28T20:12:09.838256+00:00",
+  "generated_at": "2026-10-28T21:39:29.399271+00:00",
   "topic_guard_days": 180
 }

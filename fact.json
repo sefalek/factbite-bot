@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Güneş Sisteminin En Yalnız Gezegeni",
-    "body": "Güneş'e en yakın gezegen olan Merkür'ün yüzeyinde dursaydınız, gökyüzünde Dünya'dan gördüğümüzden çok daha küçük ve sönük bir Güneş görürdünüz. Ama işin en ilginç yanı, Merkür'ün yörüngesi o kadar basık ve hızlıdır ki, burada yaşasaydınız bir yıl bitmeden iki güneş doğumu ve batımı yaşardınız; yani Merkür'de bir gün, kendi yılından tam iki kat daha uzun sürer!"
+    "headline": "Dünyanın Merkezine En Yakın Yer",
+    "body": "Dünyanın merkezine en uzak noktanın Everest Dağı olduğunu biliyoruz. Peki ya dünyanın merkezine en yakın yerin neresi olduğunu tahmin edebilir misiniz? Cevap Everest değil, okyanusun ortasında yer alan Chimborazo Yanardağı'dır. Dünyanın ekvatorda şişkin olan yapısı nedeniyle bu dağ, zirvesiyle merkeze Everest'ten çok daha yakındır."
   },
   "en": {
-    "headline": "The Most Extreme Planet in Our Solar System",
-    "body": "If you stood on the surface of Mercury, the planet closest to the Sun, you would see a Sun much smaller and dimmer than the one we view from Earth. But the most fascinating part is that Mercury's orbit is so eccentric and fast that if you lived there, you would experience two sunrises and sunsets before a single year even finishes; meaning a single day on Mercury lasts twice as long as its entire year!"
+    "headline": "The Closest Place to Earth's Center",
+    "body": "We know that the furthest point from Earth's center is Mount Everest. But can you guess which place is actually closest to the center? The answer is not Everest, but Mount Chimborazo in the middle of the ocean. Due to Earth's equatorial bulge, its peak is much closer to the center than Everest."
   },
   "es": {
-    "headline": "El Planeta Más Extremo de Nuestro Sistema Solar",
-    "body": "Si estuvieras de pie en la superficie de Mercurio, el planeta más cercano al Sol, verías un Sol mucho más pequeño y tenue que el que vemos desde la Tierra. Pero lo más fascinante es que la órbita de Mercurio es tan elíptica y rápida que, si vivieras allí, experimentarías dos amaneceres y atardeceres antes de que termine un solo año; es decir, ¡un solo día en Mercurio dura el doble que todo su año!"
+    "headline": "El lugar más cercano al centro de la Tierra",
+    "body": "Sabemos que el punto más alejado del centro de la Tierra es el Everest. ¿Pero puedes adivinar cuál es el lugar más cercano al centro? La respuesta no es el Everest, sino el volcán Chimborazo. Debido a la protuberancia de la Tierra en el ecuador, su cima está mucho más cerca del centro que el Everest."
   },
   "ar": {
-    "headline": "الكوكب الأكثر تطرفاً في نظامنا الشمسي",
-    "body": "لو قفزت على سطح عطارد، الكوكب الأقرب إلى الشمس، لرأيت شميساً أصغر بكثير وأكثر خفوتاً من تلك التي نراها من الأرض. لكن الجزء الأكثر إثارة للاهتمام هو أن مدار عطارد بيضاوي وسريع للغاية لدرجة أنه لو كنت تعيش هناك، لشهدت شروقين وغروبين قبل أن ينتهي عام واحد حتى؛ مما يعني أن اليوم الواحد على عطارد يستغرق ضعف مدة عامه بأكمله!"
+    "headline": "المكان الأقرب إلى مركز الأرض",
+    "body": "نعلم أن أبعد نقطة عن مركز الأرض هي جبل إيفرست. ولكن هل يمكنك تخمين المكان الأقرب فعلياً إلى المركز؟ الإجابة ليست إيفرست، بل بركان تشيمبورازو. بسبب انتفاخ الأرض عند خط الاستواء، فإن قمته أقرب بكثير إلى المركز مقارنة بإيفرست."
   },
   "reel_hook": {
-    "tr": "Bir günde iki yıl yaşayabileceğiniz bir yer olduğunu biliyor musunuz?",
-    "en": "Did you know there is a place where you can live two years in a single day?",
-    "es": "¿Sabías que hay un lugar donde puedes vivir dos años en un solo día?",
-    "ar": "هل تعلم أن هناك مكاناً يمكنك أن تعيش فيه عامين في يوم واحد؟"
+    "tr": "Dünyanın merkezine en yakın yerin Everest olduğunu mu sanıyorsunuz? Yanılıyorsunuz.",
+    "en": "Think Mount Everest is closest to Earth's center? You're wrong.",
+    "es": "¿Crees que el Everest es el lugar más cercano al centro de la Tierra? Te equivocas.",
+    "ar": "هل تعتقد أن إيفرست هو الأقرب لمركز الأرض؟ أنت مخطئ."
   },
   "story_question": {
-    "tr": "Güneş sistemindeki hangi gezegende bir gün, bir yıldan daha uzun sürer?",
-    "en": "On which planet in our solar system does a single day last longer than its year?",
-    "es": "¿En qué planeta de nuestro sistema solar un solo día dura más que su año?",
-    "ar": "على أي كوكب في نظامنا الشمسي يستغرق اليوم الواحد وقتاً أطول من سنته؟"
+    "tr": "Sizce dünyanın merkezine en yakın olan bu dağ hangi kıtada yer alıyor?",
+    "en": "In which continent do you think this mountain closest to Earth's center is located?",
+    "es": "¿En qué continente crees que se encuentra esta montaña más cercana al centro de la Tierra?",
+    "ar": "في أي قارة تعتقد يقع هذا الجبل الأقرب لمركز الأرض؟"
   },
   "story_options": [
-    "Merkür",
-    "Venüs",
-    "Mars"
+    "Asya",
+    "Güney Amerika",
+    "Afrika"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
-    "#bilim",
-    "#merkür",
-    "#astronomi",
-    "#keşif",
-    "#güneşsistemi"
+    "#Coğrafya",
+    "#Bilgi",
+    "#Dünya",
+    "#Doğa",
+    "#Keşfet",
+    "#Bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı uzay gerçeği için takipte kal!",
-    "en": "Follow for more mind-blowing space facts like this!",
-    "es": "¡Síguenos para más datos espaciales alucinantes como este!",
-    "ar": "تابعنا للمزيد من الحقائق الفضائية المذهلة مثل هذه!"
+    "tr": "Bunun gibi şaşırtıcı coğrafi gerçekler için takip et!",
+    "en": "Follow for more surprising geographical facts like this!",
+    "es": "¡Síguenos para más datos geográficos sorprendentes como este!",
+    "ar": "تابعنا للمزيد من الحقائق الجغرافية المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "NASA Solar System Exploration",
-    "url": "https://solarsystem.nasa.gov/planets/mercury/in-depth/"
+    "name": "NOAA & National Geographic",
+    "url": "https://oceanservice.noaa.gov/facts/highestpoint.html"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Güneş Sisteminin En Yalnız Gezegeni",
+  "_topic": "Dünyanın Merkezine En Yakın Yer",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-28T11:21:35.275667+00:00",
+  "generated_at": "2026-10-28T12:48:04.689335+00:00",
   "topic_guard_days": 180
 }

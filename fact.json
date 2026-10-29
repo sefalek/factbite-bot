@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Penguenler Aslında Nasıl Yürür?",
-    "body": "Penguenlerin buz üstündeki paytak yürüyüşü çok sevimli görünür, değil mi? Ama işin aslı hiç de öyle değil. Onlar karada yürümeyi pek sevmezler çünkü vücut yapıları buna uygun değildir. Aslında onlar karada yürümek yerine enerji tasarrufu yapmak için buz üzerinde kaymayı tercih ederler. Bilim insanları bunun metabolizmalarını korumak için hayati bir strateji olduğunu söylüyor."
+    "headline": "Sol Kulağınızın Gizli Yeteneği",
+    "body": "Telefonu açarken veya fısıltıyla konuşulan bir şeyi dinlerken hangi kulağınızı kullanıyorsunuz? Beynimizin sağ yarım küresi sol kulağımızdan gelen sesleri işler ve bu yarı küre duyguları, tonları ve müzikal detayları anlamakta ustadır. Bu yüzden tatlı sözler veya acil yardım çağrıları hep sol kulağımıza fısıldandığında çok daha hızlı etki eder."
   },
   "en": {
-    "headline": "How Do Penguins Actually Walk?",
-    "body": "Penguins' waddling walk on ice looks very cute, right? But the reality is quite different. They don't really like walking on land because their bodies aren't built for it. Instead, they prefer sliding on ice to save energy. Scientists say this is a vital strategy to protect their metabolism."
+    "headline": "The Secret Ability of Your Left Ear",
+    "body": "Which ear do you use when answering the phone or listening to a whisper? The right hemisphere of our brain processes sounds coming from the left ear, and this hemisphere is a master at understanding emotions, tones, and musical details. That is why sweet words or cries for help have a much stronger impact when whispered into the left ear."
   },
   "es": {
-    "headline": "¿Cómo caminan realmente los pingüinos?",
-    "body": "El caminar tambaleante de los pingüinos sobre el hielo se ve muy tierno, ¿verdad? Pero la realidad es muy distinta. En realidad no les gusta caminar en la tierra porque sus cuerpos no están hechos para eso. Prefieren deslizarse sobre el hielo para ahorrar energía."
+    "headline": "La habilidad secreta de tu oreja izquierda",
+    "body": "¿Qué oreja usas cuando contestas el teléfono o escuchas un susurro? El hemisferio derecho de nuestro cerebro procesa los sonidos que provienen del oído izquierdo, y este hemisferio es experto en entender emociones, tonos y detalles musicales. Por eso, las palabras dulces o las llamadas de auxilio impactan mucho más cuando se susurran en el oído izquierdo."
   },
   "ar": {
-    "headline": "كيف تمشي البطاريق حقاً؟",
-    "body": "تبدو مشية البطاريق المتأرجحة على الجليد لطيفة للغاية، أليس كذلك؟ لكن الحقيقة مختلفة تماماً. فهي لا تحب المشي على اليابسة لأن أجسامها غير مصممة لذلك، وتفضل التزلج على الجليد لتوفير الطاقة."
+    "headline": "القدرة السرية لأذنك اليسرى",
+    "body": "أي أذن تستخدمها عند الرد على الهاتف أو الاستماع إلى همس؟ يقوم النصف الأيمن من دماغنا بمعالجة الأصوات القادمة من الأذن اليسرى، وهذا النصف بارع في فهم المشاعر والنغمات والتفاصيل الموسيقية. ولهذا السبب، فإن الكلمات اللطيفة أو استغاثات المساعدة يكون لها تأثير أقوى بكثير عندما تُهمس في الأذن اليسرى."
   },
   "reel_hook": {
-    "tr": "Buz üstünde paytak paytak yürüyen penguenlerin aslında başka bir sırrı var!",
-    "en": "Penguins walking wobbly on ice actually have another secret!",
-    "es": "¡Los pingüinos que caminan tambaleándose sobre el hielo tienen otro secreto!",
-    "ar": "البطاريق التي تمشي بتأرجح على الجليد لديها سر آخر حقاً!"
+    "tr": "Acil bir fısıltıyı hangi kulağınızla daha net duyardınız?",
+    "en": "Which ear would you use to hear an urgent whisper more clearly?",
+    "es": "¿Qué oreja usarías para escuchar un susurro urgente con más claridad?",
+    "ar": "أي أذن تستخدمها لسماع همسة عاجلة بشكل أكثر وضوحاً؟"
   },
   "story_question": {
-    "tr": "Penguenler karada neden paytak paytak yürür?",
-    "en": "Why do penguins waddle on land?",
-    "es": "¿Por qué los pingüinos caminan tambaleándose en la tierra?",
-    "ar": "لماذا تمشي البطاريق بطريقة متأرجحة على اليابسة؟"
+    "tr": "Duygusal ve tonsal sesleri hangi kulağımız daha hızlı işler?",
+    "en": "Which ear processes emotional and tonal sounds faster?",
+    "es": "¿Qué oído procesa más rápido los sonidos emocionales y tonales?",
+    "ar": "أي أذن تعالج الأصوات العاطفية والنغمية بشكل أسرع؟"
   },
   "story_options": [
-    "Enerji tasarrufu için",
-    "Denge kuramadıkları için",
-    "Kas yapıları zayıf olduğu için"
+    "Sol Kulak",
+    "Sağ Kulak",
+    "İkisi de Eşit"
   ],
   "hashtags": [
     "#FactBite",
-    "#penguen",
-    "#bilimselgerçekler",
+    "#bilim",
     "#ilginçbilgiler",
-    "#doğa",
-    "#hayvanlaralemi"
+    "#beyin",
+    "#psikoloji",
+    "#keşfet",
+    "#biliyormusunuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق الممتعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Follow for more surprising facts like this!",
+    "es": "¡Sígueme para más datos sorprendentes como este!",
+    "ar": "تابعنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
+    "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.5
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Journal of Cognitive Neuroscience",
+    "url": "https://www.mitpressjournals.org/jocn"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Penguenler Aslında Nasıl Yürür?",
+  "_topic": "Sol Kulağınızın Gizli Yeteneği",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-29T21:47:35.243367+00:00",
+  "generated_at": "2026-10-29T23:09:22.543628+00:00",
   "topic_guard_days": 180
 }

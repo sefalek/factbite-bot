@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dünyanın En Derin Noktasında Zaman Neden Yavaş Akar?",
-    "body": "Einstein'ın görelilik teorisine göre, yer çekimi zamanı büker. Mariana Çukuru'nun dibinde yer çekimi Dünya'nın diğer yerlerine göre çok az daha güçlüdür. Bu yüzden o derinlikte bulunan bir saat, yüzeydekine kıyasla saniyenin çok küçük bir kesri kadar daha yavaş ilerler."
+    "headline": "Diliniz Aslında Parmak İziniz Gibi Benzersizdir",
+    "body": "Parmak izinizi herkes bilir ama vücudunuzda bir yer daha var ki, tıpkı parmak izi gibi tamamen size özel ve asla taklit edilemez: Diliniz! Her insanın dil izi, boyutu, şekli ve üzerindeki papilla dizilimi tamamen kendine hastır."
   },
   "en": {
-    "headline": "Why Time Moves Slower at the Deepest Point on Earth",
-    "body": "According to Einstein's theory of relativity, gravity bends time. At the bottom of the Mariana Trench, gravity is fractionally stronger than anywhere else on Earth. Therefore, a clock at that depth ticks slightly slower by a tiny fraction of a second compared to the surface."
+    "headline": "Your Tongue Print Is Just As Unique As Your Fingerprint",
+    "body": "Everyone knows about fingerprints, but there is another part of your body that is entirely unique to you and impossible to fake: your tongue! Every human's tongue print, size, shape, and papillae pattern are completely one of a kind."
   },
   "es": {
-    "headline": "Por qué el tiempo pasa más lento en el punto más profundo de la Tierra",
-    "body": "Según la teoría de la relatividad de Einstein, la gravedad curva el tiempo. En el fondo de la Fosa de las Marianas, la gravedad es una fracción más fuerte que en el resto de la Tierra. Por eso, un reloj a esa profundidad avanza un poco más lento en comparación con la superficie."
+    "headline": "Tu Huella Lingual Es Tan Única Como Tu Huella Dactilar",
+    "body": "Todo el mundo conoce las huellas dactilares, pero hay otra parte de tu cuerpo que es completamente única y imposible de falsificar: ¡tu lengua! La forma, el tamaño y los patrones de las papilas de cada lengua humana son totalmente irrepetibles."
   },
   "ar": {
-    "headline": "لماذا يمر الوقت ببطء شديد في أعمق نقطة على وجه الأرض؟",
-    "body": "وفقاً لنظرية النسبية لأينشتاين، فإن الجاذبية تحني الزمن. في قاع خندق ماريانا، تكون الجاذبية أقوى بقليل مقارنة بأي مكان آخر على الأرض، ولهذا السبب تسير الساعة في تلك العمق أبطأ بجزء بسيط جداً من الثانية مقارنة بالس سطح."
+    "headline": "بصمة لسانك فريدة تماماً مثل بصمة أصبعك",
+    "body": "يعرف الجميع بصمات الأصابع، ولكن هناك جزءاً آخر من جسمك فريد تماماً بالنسبة لك ولا يمكن تزييفه أبداً: لسانك! بصمة لسان كل إنسان، وحجمه، وشكله، ونمط الحليمات فيه تختلف تماماً عن أي شخص آخر."
   },
   "reel_hook": {
-    "tr": "Dünyanın en derin yerinde zamanın daha yavaş aktığını biliyor muydunuz?",
-    "en": "Did you know that time actually moves slower at the deepest place on Earth?",
-    "es": "¿Sabías que el tiempo pasa más lento en el lugar más profundo de la Tierra?",
-    "ar": "هل تعلم أن الوقت يتحرك ببطء في أعمق مكان على الأرض؟"
+    "tr": "Vücudunuzda parmak izinizden başka kimlik olarak kullanılabilecek tek bir yer daha olduğunu biliyor muydunuz?",
+    "en": "Did you know there is only one other place on your body that can be used as an ID besides your fingerprint?",
+    "es": "¿Sabías que hay otra parte de tu cuerpo que puede usarse como identificación además de tu huella dactilar?",
+    "ar": "هل تعلم أن هناك مكاناً آخر فقط في جسمك يمكن استخدامه كهوية إلى جانب بصمة إصبعك؟"
   },
   "story_question": {
-    "tr": "Sizce yer çekiminin zamanı büktüğü bu etki insan ömrünü ne kadar etkiler?",
-    "en": "How much do you think this time-bending effect of gravity impacts a human lifespan?",
-    "es": "¿Cuánto crees que este efecto de la gravedad afecta a la vida humana?",
-    "ar": "برأيك، إلى أي مدى يؤثر تأثير انحناء الزمن هذا على عمر الإنسان؟"
+    "tr": "Vücudumuzda parmak izimiz dışında benzersiz olan o diğer organımız sizce hangisidir?",
+    "en": "Which other organ in our body do you think is unique besides our fingerprint?",
+    "es": "¿Cuál crees que es el otro órgano de nuestro cuerpo que es único además de nuestra huella dactilar?",
+    "ar": "برأيك ما هو العضو الآخر في جسمنا الفريد من نوعه بصرف النظر عن بصمة إصبعنا؟"
   },
   "story_options": [
-    "Farkedilemeyecek kadar az",
-    "Birkaç saniye fark eder",
-    "Hiçbir etkisi olmaz"
+    "Dilimiz",
+    "Kulak mememiz",
+    "Diş yapımız"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#fizik",
-    "#zaman",
-    "#keşfet",
     "#ilginçbilgiler",
-    "#einstein"
+    "#bilim",
+    "#insan",
+    "#anatomi",
+    "#şaşırtıcı"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla fizik sırrı için takipte kal!",
-    "en": "Stay tuned for more physics secrets like this!",
-    "es": "¡Sigue atento para más secretos de física como este!",
-    "ar": "ابق على تطلع لمزيد من أسرار الفيزياء مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "NASA & General Relativity Principles",
-    "url": "https://www.nasa.gov"
+    "name": "Forensic Science International",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S037907380500412X"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dünyanın En Derin Noktasında Zaman Neden Yavaş Akar?",
+  "_topic": "Diliniz Aslında Parmak İziniz Gibi Benzersizdir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-28T22:59:40.552091+00:00",
+  "generated_at": "2026-10-29T00:26:04.014630+00:00",
   "topic_guard_days": 180
 }

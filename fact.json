@@ -1,58 +1,58 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Arıların İğnesini Kaybetme Nedeni",
-    "body": "Bal arılarını insanlara soktuktan sonra hayatta kalamamasının sebebi iğnelerinin yapısıdır. Arının iğnesi düz değil, dikenlidir. İnsan cildi esnek olduğu için iğne saplandığında kilitlenir ve geri çıkmaz. Arı kaçmaya çalıştığında iğnesi ve bazı iç organları kopar."
+    "headline": "Penguenler Aslında Nasıl Yürür?",
+    "body": "Penguenlerin buz üstündeki paytak yürüyüşü çok sevimli görünür, değil mi? Ama işin aslı hiç de öyle değil. Onlar karada yürümeyi pek sevmezler çünkü vücut yapıları buna uygun değildir. Aslında onlar karada yürümek yerine enerji tasarrufu yapmak için buz üzerinde kaymayı tercih ederler. Bilim insanları bunun metabolizmalarını korumak için hayati bir strateji olduğunu söylüyor."
   },
   "en": {
-    "headline": "Why Honeybees Die After Stinging",
-    "body": "The reason honeybees cannot survive after stinging humans lies in the structure of their stingers. A bee's stinger is not smooth, but barbed. Because human skin is elastic, the stinger locks in place upon piercing and cannot be pulled back out. When the bee tries to fly away, the stinger and parts of its internal organs are torn away."
+    "headline": "How Do Penguins Actually Walk?",
+    "body": "Penguins' waddling walk on ice looks very cute, right? But the reality is quite different. They don't really like walking on land because their bodies aren't built for it. Instead, they prefer sliding on ice to save energy. Scientists say this is a vital strategy to protect their metabolism."
   },
   "es": {
-    "headline": "Por qué las abejas mueren tras picar",
-    "body": "La razón por la cual las abejas melíferas no pueden sobrevivir después de picar a los humanos radica en la estructura de su aguijón. El aguijón de una abeja no es liso, sino que tiene púas. Como la piel humana es elástica, el aguijón se bloquea al penetrar y no se puede extraer. Cuando la abeja intenta huir, el aguijón y parte de sus órganos internos se desgarran."
+    "headline": "¿Cómo caminan realmente los pingüinos?",
+    "body": "El caminar tambaleante de los pingüinos sobre el hielo se ve muy tierno, ¿verdad? Pero la realidad es muy distinta. En realidad no les gusta caminar en la tierra porque sus cuerpos no están hechos para eso. Prefieren deslizarse sobre el hielo para ahorrar energía."
   },
   "ar": {
-    "headline": "لماذا تموت نحل العسل بعد اللسع",
-    "body": "السبب وراء عدم قدرة نحل العسل على البقاء على قيد الحياة بعد لسع البشر يكمن في بنية إبرته. إبرة النحلة ليست ملساء بل شائكة. ونظراً لأن بشرة الإنسان مرنة، فإن الإبرة تتثبت في مكانها عند الاختراق ولا يمكن سحبها للخارج. عندما تحاول النحلة الهروب، تبتعد إبرتها وأجزاء من أعضائها الداخلية عنها."
+    "headline": "كيف تمشي البطاريق حقاً؟",
+    "body": "تبدو مشية البطاريق المتأرجحة على الجليد لطيفة للغاية، أليس كذلك؟ لكن الحقيقة مختلفة تماماً. فهي لا تحب المشي على اليابسة لأن أجسامها غير مصممة لذلك، وتفضل التزلج على الجليد لتوفير الطاقة."
   },
   "reel_hook": {
-    "tr": "Bir arı sizi soktuktan sonra neden ölür?",
-    "en": "Why does a bee die after it stings you?",
-    "es": "¿Por qué muere una abeja después de picarte?",
-    "ar": "لماذا تموت النحلة بعد أن تلسعك؟"
+    "tr": "Buz üstünde paytak paytak yürüyen penguenlerin aslında başka bir sırrı var!",
+    "en": "Penguins walking wobbly on ice actually have another secret!",
+    "es": "¡Los pingüinos que caminan tambaleándose sobre el hielo tienen otro secreto!",
+    "ar": "البطاريق التي تمشي بتأرجح على الجليد لديها سر آخر حقاً!"
   },
   "story_question": {
-    "tr": "Arıların iğnesi hangi canlılarda bu şekilde takılıp kalır?",
-    "en": "In which type of creatures does a bee's stinger get stuck like this?",
-    "es": "¿En qué tipo de seres vivos se atasca así el aguijón de una abeja?",
-    "ar": "في أي نوع من الكائنات الحية تعلق إبرة النحلة بهذه الطريقة؟"
+    "tr": "Penguenler karada neden paytak paytak yürür?",
+    "en": "Why do penguins waddle on land?",
+    "es": "¿Por qué los pingüinos caminan tambaleándose en la tierra?",
+    "ar": "لماذا تمشي البطاريق بطريقة متأرجحة على اليابسة؟"
   },
   "story_options": [
-    "Sadece insanlarda",
-    "Esnek derili memelilerde",
-    "Tüm hayvanlarda"
+    "Enerji tasarrufu için",
+    "Denge kuramadıkları için",
+    "Kas yapıları zayıf olduğu için"
   ],
   "hashtags": [
     "#FactBite",
-    "#arı",
+    "#penguen",
+    "#bilimselgerçekler",
+    "#ilginçbilgiler",
     "#doğa",
-    "#bilim",
-    "#biyoloji",
-    "#ilginçbilgiler"
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
-    "en": "Stay tuned for more facts like this!",
-    "es": "¡Sigue atento para más datos como este!",
-    "ar": "ابقَ على متابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.5
   },
   "source": {
     "name": "National Geographic",
@@ -60,9 +60,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Arıların İğnesini Kaybetme Nedeni",
+  "_topic": "Penguenler Aslında Nasıl Yürür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-29T20:08:41.987080+00:00",
+  "generated_at": "2026-10-29T21:47:35.243367+00:00",
   "topic_guard_days": 180
 }

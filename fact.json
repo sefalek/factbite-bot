@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Diliniz Aslında Parmak İziniz Gibi Benzersizdir",
-    "body": "Parmak izinizi herkes bilir ama vücudunuzda bir yer daha var ki, tıpkı parmak izi gibi tamamen size özel ve asla taklit edilemez: Diliniz! Her insanın dil izi, boyutu, şekli ve üzerindeki papilla dizilimi tamamen kendine hastır."
+    "headline": "Arıların İğnesi Neden Sadece Tek Bir Kez Batar?",
+    "body": "Bal arıları birini soktuktan sonra iğnelerini geri çekemez çünkü iğne ucu geriye dönük dikenlidir. İğneyle birlikte bazı iç organları da koptuğu için arı ne yazık ki hayatta kalamaz."
   },
   "en": {
-    "headline": "Your Tongue Print Is Just As Unique As Your Fingerprint",
-    "body": "Everyone knows about fingerprints, but there is another part of your body that is entirely unique to you and impossible to fake: your tongue! Every human's tongue print, size, shape, and papillae pattern are completely one of a kind."
+    "headline": "Why Can Bees Only Sting Once?",
+    "body": "Honeybees cannot pull their stingers out after stinging because the stinger has backward-facing barbs. Since vital organs are torn away with it, the bee unfortunately does not survive."
   },
   "es": {
-    "headline": "Tu Huella Lingual Es Tan Única Como Tu Huella Dactilar",
-    "body": "Todo el mundo conoce las huellas dactilares, pero hay otra parte de tu cuerpo que es completamente única y imposible de falsificar: ¡tu lengua! La forma, el tamaño y los patrones de las papilas de cada lengua humana son totalmente irrepetibles."
+    "headline": "¿Por qué las abejas solo pueden picar una vez?",
+    "body": "Las abejas melíferas no pueden sacar su aguijón después de picar porque tiene púas hacia atrás. Como algunos órganos vitales se desprenden con él, la abeja lamentablemente no sobrevive."
   },
   "ar": {
-    "headline": "بصمة لسانك فريدة تماماً مثل بصمة أصبعك",
-    "body": "يعرف الجميع بصمات الأصابع، ولكن هناك جزءاً آخر من جسمك فريد تماماً بالنسبة لك ولا يمكن تزييفه أبداً: لسانك! بصمة لسان كل إنسان، وحجمه، وشكله، ونمط الحليمات فيه تختلف تماماً عن أي شخص آخر."
+    "headline": "لماذا تلسع النحلة مرة واحدة فقط؟",
+    "body": "لا تستطيع النحلة سحب إبرتها بعد اللسع لأنها تحتوي على نتوءات مدببة للخلف. ونظراً لأن بعض الأعضاء الحيوية تنزع معها للأسف، فإن النحلة لا تنجو."
   },
   "reel_hook": {
-    "tr": "Vücudunuzda parmak izinizden başka kimlik olarak kullanılabilecek tek bir yer daha olduğunu biliyor muydunuz?",
-    "en": "Did you know there is only one other place on your body that can be used as an ID besides your fingerprint?",
-    "es": "¿Sabías que hay otra parte de tu cuerpo que puede usarse como identificación además de tu huella dactilar?",
-    "ar": "هل تعلم أن هناك مكاناً آخر فقط في جسمك يمكن استخدامه كهوية إلى جانب بصمة إصبعك؟"
+    "tr": "Bir bal arısı sizi soktuğunda aslında kendi ölüm fermanını imzaladığını biliyor muydunuz?",
+    "en": "Did you know that when a honeybee stings you, it is actually signing its own death warrant?",
+    "es": "¿Sabías que cuando una abeja te pica, en realidad está firmando su propia sentencia de muerte?",
+    "ar": "هل تعلم أن النحلة عندما تلسعك فهي توقع على شهادة وفاتها بنفسها؟"
   },
   "story_question": {
-    "tr": "Vücudumuzda parmak izimiz dışında benzersiz olan o diğer organımız sizce hangisidir?",
-    "en": "Which other organ in our body do you think is unique besides our fingerprint?",
-    "es": "¿Cuál crees que es el otro órgano de nuestro cuerpo que es único además de nuestra huella dactilar?",
-    "ar": "برأيك ما هو العضو الآخر في جسمنا الفريد من نوعه بصرف النظر عن بصمة إصبعنا؟"
+    "tr": "Arıların iğnesinin yapısı hangi yöne bakan dikenlere sahiptir?",
+    "en": "In which direction do the barbs on a bee's stinger face?",
+    "es": "¿En qué dirección apuntan las púas del aguijón de una abeja?",
+    "ar": "إلى أي اتجاه توجه النتوءات الموجودة على إبرة النحلة؟"
   },
   "story_options": [
-    "Dilimiz",
-    "Kulak mememiz",
-    "Diş yapımız"
+    "Geriye dönük",
+    "İleriye dönük",
+    "Düz"
   ],
   "hashtags": [
     "#FactBite",
-    "#ilginçbilgiler",
+    "#arı",
+    "#doğa",
     "#bilim",
-    "#insan",
-    "#anatomi",
-    "#şaşırtıcı"
+    "#hayvanlar",
+    "#ilginçbilgiler",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takip et!",
+    "en": "Follow for more amazing nature secrets like this!",
+    "es": "¡Síguenos para más secretos sorprendentes de la naturaleza!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Forensic Science International",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S037907380500412X"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Diliniz Aslında Parmak İziniz Gibi Benzersizdir",
+  "_topic": "Arıların İğnesi Neden Sadece Tek Bir Kez Batar?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-29T00:26:04.014630+00:00",
+  "generated_at": "2026-10-29T11:33:20.231338+00:00",
   "topic_guard_days": 180
 }

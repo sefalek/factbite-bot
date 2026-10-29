@@ -1,59 +1,58 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedilerin Kulaklarını Neden Dikleştirir?",
-    "body": "Kedilerin kulaklarında tam 32 farklı kas bulunur. Bu sayede kulaklarını tıpkı birer radyo anteni gibi 180 derece hareket ettirerek sesin kaynağını saniyenin onda biri kadar kısa bir sürede nokta atışı bulabilirler."
+    "headline": "Arıların İğnesini Kaybetme Nedeni",
+    "body": "Bal arılarını insanlara soktuktan sonra hayatta kalamamasının sebebi iğnelerinin yapısıdır. Arının iğnesi düz değil, dikenlidir. İnsan cildi esnek olduğu için iğne saplandığında kilitlenir ve geri çıkmaz. Arı kaçmaya çalıştığında iğnesi ve bazı iç organları kopar."
   },
   "en": {
-    "headline": "Why Do Cats Swivel Their Ears?",
-    "body": "Cats have a staggering 32 different muscles in each ear. This allows them to rotate their ears 180 degrees like tiny radar dishes, pinpointing the exact source of a sound in a fraction of a second."
+    "headline": "Why Honeybees Die After Stinging",
+    "body": "The reason honeybees cannot survive after stinging humans lies in the structure of their stingers. A bee's stinger is not smooth, but barbed. Because human skin is elastic, the stinger locks in place upon piercing and cannot be pulled back out. When the bee tries to fly away, the stinger and parts of its internal organs are torn away."
   },
   "es": {
-    "headline": "¿Por qué los gatos mueven las orejas?",
-    "body": "Los gatos tienen 32 músculos diferentes en cada oreja. Esto les permite girarlas 180 grados como pequeñas antenas de radar, localizando la fuente exacta de un sonido en una fracción de segundo."
+    "headline": "Por qué las abejas mueren tras picar",
+    "body": "La razón por la cual las abejas melíferas no pueden sobrevivir después de picar a los humanos radica en la estructura de su aguijón. El aguijón de una abeja no es liso, sino que tiene púas. Como la piel humana es elástica, el aguijón se bloquea al penetrar y no se puede extraer. Cuando la abeja intenta huir, el aguijón y parte de sus órganos internos se desgarran."
   },
   "ar": {
-    "headline": "لماذا تحرك القطط أذنيها بهذه الطرق؟",
-    "body": "تمتلك القطط 32 عضلة مختلفة في كل أذن. هذا يتيح لها تدوير أذنيها بمقدار 180 درجة مثل هوائيات الراديو الصغيرة، لتحديد المصدر الدقيق لأي صوت في جزء من الثانية."
+    "headline": "لماذا تموت نحل العسل بعد اللسع",
+    "body": "السبب وراء عدم قدرة نحل العسل على البقاء على قيد الحياة بعد لسع البشر يكمن في بنية إبرته. إبرة النحلة ليست ملساء بل شائكة. ونظراً لأن بشرة الإنسان مرنة، فإن الإبرة تتثبت في مكانها عند الاختراق ولا يمكن سحبها للخارج. عندما تحاول النحلة الهروب، تبتعد إبرتها وأجزاء من أعضائها الداخلية عنها."
   },
   "reel_hook": {
-    "tr": "Kedilerin kulaklarında tam 32 farklı kas olduğunu biliyor muydunuz?",
-    "en": "Did you know cats have exactly 32 different muscles in their ears?",
-    "es": "¿Sabías que los gatos tienen exactamente 32 músculos diferentes en sus orejas?",
-    "ar": "هل تعلم أن القطط تمتلك 32 عضلة مختلفة في أذنيها؟"
+    "tr": "Bir arı sizi soktuktan sonra neden ölür?",
+    "en": "Why does a bee die after it stings you?",
+    "es": "¿Por qué muere una abeja después de picarte?",
+    "ar": "لماذا تموت النحلة بعد أن تلسعك؟"
   },
   "story_question": {
-    "tr": "Kediler kulaklarını kaç derece döndürebilir?",
-    "en": "How many degrees can cats rotate their ears?",
-    "es": "¿Cuántos grados pueden girar las orejas los gatos?",
-    "ar": "ما هي الزاوية التي يمكن للقطط تدوير أذنيها فيها؟"
+    "tr": "Arıların iğnesi hangi canlılarda bu şekilde takılıp kalır?",
+    "en": "In which type of creatures does a bee's stinger get stuck like this?",
+    "es": "¿En qué tipo de seres vivos se atasca así el aguijón de una abeja?",
+    "ar": "في أي نوع من الكائنات الحية تعلق إبرة النحلة بهذه الطريقة؟"
   },
   "story_options": [
-    "90 derece",
-    "180 derece",
-    "360 derece"
+    "Sadece insanlarda",
+    "Esnek derili memelilerde",
+    "Tüm hayvanlarda"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler",
+    "#arı",
     "#doğa",
-    "#keşfet"
+    "#bilim",
+    "#biyoloji",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "En meraklı arkadaşına gönder!",
-    "en": "Send it to your most curious friend!",
-    "es": "¡Envíaselo a tu amigo más curioso!",
-    "ar": "أرسلها لصديقك الأكثر فضولاً!"
+    "tr": "Bunun gibi daha fazla gerçek için takipte kal!",
+    "en": "Stay tuned for more facts like this!",
+    "es": "¡Sigue atento para más datos como este!",
+    "ar": "ابقَ على متابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 9,
-    "overall": 9.0
+    "shareability": 8,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
     "name": "National Geographic",
@@ -61,9 +60,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedilerin Kulaklarını Neden Dikleştirir?",
+  "_topic": "Arıların İğnesini Kaybetme Nedeni",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-29T12:57:36.068907+00:00",
+  "generated_at": "2026-10-29T20:08:41.987080+00:00",
   "topic_guard_days": 180
 }

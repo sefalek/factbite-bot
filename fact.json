@@ -1,68 +1,66 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ay'ın Tozu Neden Barut Kokar?",
-    "body": "Apollo astronotları Ay'dan döndüklerinde kıyafetlerinin ve ekipmanlarının yanık barut gibi koktuğunu fark ettiler. Havadaki oksijenle temas eden Ay tozu, oksitlenerek bu tuhaf kokuyu yaratıyor."
+    "headline": "Cam Aslında Katı Değil, Sıvı Mı?",
+    "body": "Yıllarca camın çok yavaş akan bir sıvı olduğu söylendi. Ama fizik kuralları öyle diyor mu? Cam, ne katı ne de sıvı; o 'amorf katı' denen benzersiz bir yapıya sahip."
   },
   "en": {
-    "headline": "Why Does Moon Dust Smell Like Gunpowder?",
-    "body": "When Apollo astronauts returned from the Moon, they noticed their suits and gear smelled like spent gunpowder. When the airless Moon dust reacts with oxygen, it creates this strange odor."
+    "headline": "Is Glass Really a Slow-Moving Liquid?",
+    "body": "For years, people said glass is a slow-flowing liquid. But physics disagrees! Glass is neither a solid nor a liquid; it has a unique structure called an 'amorphous solid'."
   },
   "es": {
-    "headline": "¿Por qué el polvo lunar huele a pólvora?",
-    "body": "Cuando los astronautas del Apolo regresaron de la Luna, notaron que sus trajes olían a pólvora quemada. Al entrar en contacto con el oxígeno de la nave, el polvo lunar crea este extraño olor."
+    "headline": "¿Es el vidrio un líquido que fluye lentamente?",
+    "body": "Durante años se dijo que el vidrio era un líquido de flujo lento. ¡Pero la física dice lo contrario! No es ni sólido ni líquido; tiene una estructura única llamada 'sólido amorfo'."
   },
   "ar": {
-    "headline": "لماذا رائحة غبار القمري تشبه البارود؟",
-    "body": "عندما عاد رواد أبوللو من القمر، لاحظوا أن بدلاتهم ومعداتهم رائحتها تشبه البارود المحترق. عندما يتفاعل غبار القمر مع الأكسجين، يخلق هذه الرائحة الغريبة."
+    "headline": "هل الزجاج حقاً سائل بطيء الحركة؟",
+    "body": "لسنوات طويلة قيل إن الزجاج سائل بطيء التدفق. لكن الفيزياء تخالف ذلك! الزجاج ليس صلباً ولا سائلاً تماماً؛ بل يمتلك هيكلاً فريداً يسمى 'الصلب غير البلوري'."
   },
   "reel_hook": {
-    "tr": "Astronotlar Ay'dan dönerken kıyafetlerinin barut gibi koktuğunu fark etti, peki ama neden?",
-    "en": "Astronauts noticed their suits smelled like gunpowder coming back from the Moon, but why?",
-    "es": "Los astronautas notaron que sus trajes olían a pólvora al volver de la Luna, ¿por qué?",
-    "ar": "لاحظ رواد الفضاء أن بدلاتهم رائحتها تشبه البارود عند العودة من القمر، فلماذا؟"
+    "tr": "Pencerelerdeki camlar yıllar içinde gerçekten akar mı?",
+    "body": ""
   },
   "story_question": {
-    "tr": "Ay tozunun bu tuhaf kokuya sebep olmasının ana nedeni nedir?",
-    "en": "What is the main reason moon dust causes this strange odor?",
-    "es": "¿Cuál es la razón principal por la que el polvo lunar causa este extraño olor?",
-    "ar": "ما هو السبب الرئيسي وراء تسبب غبار القمر في هذه الرائحة الغريبة؟"
+    "tr": "Sizce cam hangi malzeme sınıfına girer?",
+    "en": "What material class do you think glass belongs to?",
+    "es": "¿A qué clase de material crees que pertenece el vidrio?",
+    "ar": "برأيك، إلى أي فئة من المواد ينتمي الزجاج؟"
   },
   "story_options": [
-    "Oksijenle tepkimeye girmesi",
-    "Güneş radyasyonu ile yanması",
-    "Ay'daki volkanik gazlar"
+    "Sıvı",
+    "Katı",
+    "Amorf Katı"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
     "#bilim",
-    "#ay",
-    "#astronomi",
-    "#ilginçbilgiler"
+    "#fizik",
+    "#ilginçbilgiler",
+    "#cam",
+    "#eğitim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla uzay sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more space secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos espaciales como este!",
-    "ar": "لا تنس متابعة المزيد من أسرار الفضاء مثل هذه!"
+    "tr": "Bunu ilk kez duyduğun arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذه المعلومة لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 9
+    "overall": 8.7
   },
   "source": {
-    "name": "NASA",
-    "url": "https://www.nasa.gov"
+    "name": "American Ceramic Society",
+    "url": "https://ceramics.org/news-and-events/ceramic-tech-today/glass-science-class-the-properties-of-glasses"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ay'ın Tozu Neden Barut Kokar?",
+  "_topic": "Cam Aslında Katı Değil, Sıvı Mı?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-30T00:22:00.874639+00:00",
+  "generated_at": "2026-10-30T12:53:22.772181+00:00",
   "topic_guard_days": 180
 }

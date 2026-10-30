@@ -1,66 +1,70 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Cam Aslında Katı Değil, Sıvı Mı?",
-    "body": "Yıllarca camın çok yavaş akan bir sıvı olduğu söylendi. Ama fizik kuralları öyle diyor mu? Cam, ne katı ne de sıvı; o 'amorf katı' denen benzersiz bir yapıya sahip."
+    "headline": "Kangurular Neden Aslında İleri Zıplayamaz?",
+    "body": "Kanguruların o ikonik zıplama hareketi hayatta kalmaları için şarttır ancak çok az kişi onların bu devasa sıçramaları yaparken fiziksel olarak geri zıplayamadıklarını bilir. Bunun sebebi kuyruklarını denge için kullanma biçimleridir; kuyruk adeta üçüncü bir bacak gibi çalışır ve geriye doğru hareket etmelerini tamamen imkansız kılar."
   },
   "en": {
-    "headline": "Is Glass Really a Slow-Moving Liquid?",
-    "body": "For years, people said glass is a slow-flowing liquid. But physics disagrees! Glass is neither a solid nor a liquid; it has a unique structure called an 'amorphous solid'."
+    "headline": "Why Kangaroos Actually Can't Jump Backward",
+    "body": "The iconic jumping motion of kangaroos is vital for their survival, but very few people know that they physically cannot jump backward while making these massive leaps. This is due to how they use their tails for balance; the tail acts almost like a third leg, making backward movement entirely impossible."
   },
   "es": {
-    "headline": "¿Es el vidrio un líquido que fluye lentamente?",
-    "body": "Durante años se dijo que el vidrio era un líquido de flujo lento. ¡Pero la física dice lo contrario! No es ni sólido ni líquido; tiene una estructura única llamada 'sólido amorfo'."
+    "headline": "Por qué los canguros no pueden saltar hacia atrás",
+    "body": "El icónico movimiento de salto de los canguros es vital para su supervivencia, pero muy poca gente sabe que físicamente no pueden saltar hacia atrás al dar estos enormes brincos. Esto se debe a cómo usan sus colas para mantener el equilibrio; la cola actúa casi como una tercera pierna, haciendo que el movimiento hacia atrás sea completamente imposible."
   },
   "ar": {
-    "headline": "هل الزجاج حقاً سائل بطيء الحركة؟",
-    "body": "لسنوات طويلة قيل إن الزجاج سائل بطيء التدفق. لكن الفيزياء تخالف ذلك! الزجاج ليس صلباً ولا سائلاً تماماً؛ بل يمتلك هيكلاً فريداً يسمى 'الصلب غير البلوري'."
+    "headline": "لماذا لا تستطيع الكنغر القفز للخلف حقاً",
+    "body": "حركة القفز الشهيرة للكنغر حيوية لبقائها، لكن قلة قليلة من الناس تعرف أنها لا تستطيع جسدياً القفز للخلف أثناء القيام بهذه القفزات الهائلة. يرجع هذا إلى طريقة استخدامها لذيلها التوازن؛ حيث يعمل الذيل تقريباً كقدم ثالثة، مما يجعل الحركة للخلف مستحيلة تماماً."
   },
+  "reel__hook": {},
   "reel_hook": {
-    "tr": "Pencerelerdeki camlar yıllar içinde gerçekten akar mı?",
-    "body": ""
+    "tr": "Kangurular hakkında bilmediğiniz o fiziksel imkansızlık!",
+    "en": "That physical impossibility about kangaroos you didn't know!",
+    "es": "¡Esa imposibilidad física sobre los canguros que no sabías!",
+    "ar": "تلك الاستحالة الجسدية حول الكنغر التي لم تكن تعرفها!"
   },
   "story_question": {
-    "tr": "Sizce cam hangi malzeme sınıfına girer?",
-    "en": "What material class do you think glass belongs to?",
-    "es": "¿A qué clase de material crees que pertenece el vidrio?",
-    "ar": "برأيك، إلى أي فئة من المواد ينتمي الزجاج؟"
+    "tr": "Kanguruların geri zıplayamamasının temel sebebi nedir?",
+    "en": "What is the main reason kangaroos cannot jump backward?",
+    "es": "¿Cuál es la razón principal por la que los canguros no pueden saltar hacia atrás?",
+    "ar": "ما هو السبب الرئيسي لعدم قدرة الكنغر على القفز للخلف؟"
   },
   "story_options": [
-    "Sıvı",
-    "Katı",
-    "Amorf Katı"
+    "Kuyruk yapısı ve denge mekanizması",
+    "Arka bacaklarının çok zayıf olması",
+    "Çok ağır olmaları"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#fizik",
+    "#kanguru",
+    "#bilgi",
+    "#doğa",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#cam",
-    "#eğitim"
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyduğun arkadaşına gönder!",
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
     "en": "Send this to a friend who is hearing this for the first time!",
     "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذه المعلومة لأول مرة!"
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "American Ceramic Society",
-    "url": "https://ceramics.org/news-and-events/ceramic-tech-today/glass-science-class-the-properties-of-glasses"
+    "name": "National Geographic & San Diego Zoo",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Cam Aslında Katı Değil, Sıvı Mı?",
+  "_topic": "Kangurular Neden Aslında İleri Zıplayamaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-30T12:53:22.772181+00:00",
+  "generated_at": "2026-10-30T15:06:20.152647+00:00",
   "topic_guard_days": 180
 }

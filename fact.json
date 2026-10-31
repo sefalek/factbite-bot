@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Açık Havada Yürüken Burnumuza Gelen O Koku Aslında Nedir?",
-    "body": "Yağmurdan sonra toprakta duyduğumuz o ferahlatıcı kokunun arkasında bakteriler var! Actinomycetes adı verilen bu mikroskobik canlılar, toprak kururken geosmin adlı bir bileşik salgılar. Yağmur damlaları toprağa çarptığında bu moleküller havaya karışır ve burnumuz bu kokuya karşı o kadar hassastır ki, milyonlarca damlacıkta sadece birkaç damlasını bile anında fark edebilir."
+    "headline": "Kuşlar Ne Zaman Uyur?",
+    "body": "Uçarken bile uyuyabilen frigate kuşları, havada süzülürken beynin sadece tek yarım küresini uyutur. Diğer gözü açık kalarak yönünü bulur; böylece günlerce karaya ayak basmadan gökyüzünde kalabilirler."
   },
   "en": {
-    "headline": "What is the scent we smell outdoors after the rain?",
-    "body": "There are bacteria behind that refreshing scent we smell in the soil after the rain! These microscopic organisms called Actinomycetes release a compound called geosmin as the soil dries. When raindrops hit the ground, these molecules mix into the air, and our noses are so sensitive to this scent that they can instantly detect even a tiny trace in millions of droplets."
+    "headline": "When Do Birds Sleep?",
+    "body": "Frigatebirds, which can sleep even while flying, put only one hemisphere of their brain to sleep while gliding. The other eye stays open to navigate, allowing them to remain in the sky for days without touching land."
   },
   "es": {
-    "headline": "¿Qué es ese olor que percibimos al aire libre después de la lluvia?",
-    "body": "¡Hay bacterias detrás de ese aroma refrescante que detectamos en la tierra después de la lluvia! Estos organismos microscópicos llamados Actinomycetes liberan un compuesto llamado geosmina cuando la tierra se seca. Cuando las gotas de lluvia golpean el suelo, estas moléculas se mezclan en el aire, y nuestras nariz es tan sensible a este olor que puede detectar instantáneamente incluso un rastro mínimo."
+    "headline": "¿Cuándo duermen las aves?",
+    "body": "Las fragatas, que pueden dormir incluso mientras vuelan, ponen a dormir solo un hemisferio de su cerebro mientras planean. El otro ojo permanece abierto para navegar, lo que les permite permanecer en el cielo durante días."
   },
   "ar": {
-    "headline": "ما هي تلك الرائحة التي نشمها في الهواء الطلق بعد المطر؟",
-    "body": "توجد بكتيريا وراء تلك الرائحة المنعشة التي نشمها في التربة بعد المطر! تفرز هذه الكائنات الدقيقة المسمى بالمتكتنات مركبا يسمى الجيوسمين عندما تجف التربة. عندما تسقط قطرات المطر على الأرض، تختلط هذه الجزيئات بالهواء، وتكون أنوفنا حساسة للغاية لدرجة أنها تستطيع اكتشاف حتى أثر صغير جدا."
+    "headline": "متى تنام الطيور؟",
+    "body": "طيور الفريغات، التي يمكنها النوم حتى أثناء الطيران، تنم نصف دماغها فقط أثناء الانزلاق. تبقى العين الأخرى مفتوحة للتنقل، مما يسمح لها بالبقاء في السماء لأيام دون لمس الأرض."
   },
   "reel_hook": {
-    "tr": "Yağmurdan sonra o aldığımız nefis toprak kokusunun aslında nereden geldiğini biliyor musunuz?",
-    "en": "Do you know where that delicious soil scent after the rain actually comes from?",
-    "es": "¿Sabes de dónde viene realmente ese delicioso olor a tierra después de la lluvia?",
-    "ar": "هل تعلم من أين تأتي حقا رائحة التربة الرائعة بعد المطر؟"
+    "tr": "Günlerce hiç durmadan havada kalan bir kuş, uyumaya vakti bulamaz sanıyorsanız yanılıyorsunuz.",
+    "en": "If you think a bird staying in the air for days without stopping has no time to sleep, you are wrong.",
+    "es": "Si crees que un ave que pasa días en el aire sin parar no tiene tiempo para dormir, te equivocas.",
+    "ar": "إذا كنت تعتقد أن طائراً يبقى في الهواء لأيام دون توقف ليس لديه وقت للنوم، فأنت مخطئ."
   },
   "story_question": {
-    "tr": "Yağmur sonrası toprakta yayılan bu meşhur kokunun adı nedir?",
-    "en": "What is the name of this famous scent spreading in the soil after rain?",
-    "es": "¿Cómo se llama este famoso aroma que se extiende en la tierra después de la lluvia?",
-    "ar": "ما هي اسم هذه الرائحة الشهيرة التي تنتشر في التربة بعد المطر؟"
+    "tr": "Sizce bu kuşlar havada uyurken ne kadar süre geçirebilir?",
+    "en": "How long do you think these birds can spend sleeping in the air?",
+    "es": "¿Cuánto tiempo crees que estas aves pueden pasar durmiendo en el aire?",
+    "ar": "برأيك، ما هي المدة التي يمكن أن تقضيها هذه الطيور نائمة في الهواء؟"
   },
   "story_options": [
-    "Geosmin",
-    "Klorofil",
-    "Ozon"
+    "Birkaç saat",
+    "Birkaç gün",
+    "Birkaç hafta"
   ],
   "hashtags": [
     "#FactBite",
-    "#toprakkokusu",
-    "#yağmur",
-    "#bilim",
+    "#kuşlar",
     "#doğa",
-    "#ilginçbilgiler"
+    "#bilim",
+    "#biyoloji",
+    "#hayvanlar",
+    "#keşif"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more interesting facts like this!",
-    "es": "¡No olvides seguirnos para más datos interesantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق المثيرة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takipte kal!",
+    "en": "Stay tuned for more surprising nature secrets like this!",
+    "es": "¡Mantente atento para más secretos sorprendentes de la naturaleza!",
+    "ar": "ترقبوا المزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
     "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com/science/article/petrichor-petrichor-rainfall-science"
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Açık Havada Yürüken Burnumuza Gelen O Koku Aslında Nedir?",
+  "_topic": "Kuşlar Ne Zaman Uyur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-31T16:13:34.098470+00:00",
+  "generated_at": "2026-10-31T17:33:11.378450+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Penguenler Siyah Beyaz Değil, Aslında...",
-    "body": "Penguenlerin smokin giymiş gibi görünen siyah-beyaz tüyleri aslında harika birer kamuflajdır. Yukarıdan bakan avcılar için okyanusun karanlığına, aşağıdan bakanlar içinse su yüzeyindeki güneş ışığına mükemmel uyum sağlarlar!"
+    "headline": "Parmak İzinden Daha Şaşırtıcı Olan O Organımız",
+    "body": "Parmak izimizin tamamen benzersiz olduğunu biliriz. Ancak vücudumuzda bir yer daha var ki, tıpkı parmak izi gibi tamamen size özel ve asla taklit edilemez: Dil iziniz! Her insanın dil üzerindeki doku ve pürüzsüzlük deseni, dünyaya gelen diğer milyarlarca insandan tamamen farklıdır."
   },
   "en": {
-    "headline": "Penguins Aren't Just Black and White, Actually...",
-    "body": "The black and white feathers of penguins, which make them look like they are wearing tuxedos, are actually incredible camouflage. They blend perfectly with the dark ocean when viewed from above, and with sunlight from below!"
+    "headline": "The Body Part Even More Unique Than Your Fingerprint",
+    "body": "We know fingerprints are completely unique. But there is another part of our body that is entirely custom to you and impossible to replicate, just like a fingerprint: your tongue print! Every human's tongue texture and pattern is completely different from everyone else on Earth."
   },
   "es": {
-    "headline": "Los pingüinos no son solo blancos y negros, en realidad...",
-    "body": "Las plumas blancas y negras de los pingüinos, que los hacen parecer con esmoquin, son en realidad un camuflaje increíble. ¡Se mezclan perfectamente con el océano oscuro desde arriba y con la luz del sol desde abajo!"
+    "headline": "La parte del cuerpo aún más única que tu huella dactilar",
+    "body": "Sabemos que las huellas dactilares son únicas. Pero hay otra parte de nuestro cuerpo que es totalmente propia e imposible de replicar: ¡la huella de tu lengua! El patrón y la textura de la lengua de cada ser humano son completamente diferentes a los de cualquier otra persona en la Tierra."
   },
   "ar": {
-    "headline": "البطاريق ليست بيضاء وسوداء فقط، في الواقع...",
-    "body": "ريش البطريق الأبيض والأسود، الذي يبدو وكأنه يرتدي بدلات رسمية، هو في الواقع تمويه مذهل. فهي تمتزج تمامًا مع المحيط المظلم من الأعلى، ومع ضوء الشمس من الأسفل!"
+    "headline": "جزء من جسمك أكثر فرادة من بصمة أصبعك",
+    "body": "نعلم أن بصمات الأصابع فريدة تماماً. ولكن هناك جزءاً آخر من أجسامنا خاص بك وحدك ولا يمكن تقليده تماماً مثل بصمة الإصبع: بصمة لسانك! نسيج لسان كل إنسان ونمطه مختلفان تماماً عن أي شخص آخر على وجه الأرض."
   },
   "reel_hook": {
-    "tr": "Penguenlerin o klasik siyah-beyaz tüyleri sadece şık görünmek için mi var sanıyorsun?",
-    "en": "Do you think penguins' classic black-and-white feathers are just for looking stylish?",
-    "es": "¿Crees que las plumas clásicas en blanco y negro de los pingüinos son solo para verse elegantes?",
-    "ar": "هل تعتقد أن ريش البطريق الكلاسيكي باللونين الأبيض والأسود هو فقط لتبدو أنيقة؟"
+    "tr": "Parmak izinizi biliyorsunuz, peki ya bu organınızı?",
+    "en": "You know your fingerprint, but what about this organ?",
+    "es": "Conoces tu huella, ¿pero qué pasa con este órgano?",
+    "ar": "تعرف بصمة إصبعك، فماذا عن هذا العضو؟"
   },
   "story_question": {
-    "tr": "Penguenlerin bu renk düzeni en çok hangi tehlikeden korunmalarını sağlar?",
-    "en": "Which danger does this color scheme protect penguins from the most?",
-    "es": "¿De qué peligro protege más este esquema de color a los pingüinos?",
-    "ar": "من أي خطر تحمي مخطط الألوان هذا البطاريق أكثر؟"
+    "tr": "Sence vücudumuzda parmak izi dışında tamamen benzersiz olan başka hangi organımız var?",
+    "en": "Which other body part do you think is completely unique besides your fingerprint?",
+    "es": "¿Qué otra parte del cuerpo crees que es completamente única además de tu huella?",
+    "ar": "برأيك، ما هو العضو الآخر في جسمك الفريد تماماً إلى جانب بصمة إصبعك؟"
   },
   "story_options": [
-    "Havadan ve sudan gelen avcılardan",
-    "Sadece soğuk havadan",
-    "Güneş ışığından"
+    "Dil İzi",
+    "Kulak Memesi",
+    "Diş Yapısı"
   ],
   "hashtags": [
     "#FactBite",
-    "#Penguenler",
-    "#DoğaMucizesi",
-    "#Bilgi",
-    "#HayvanlarlarAlemi",
-    "#Bilim",
-    "#Keşfet"
+    "#bilgi",
+    "#ilginçbilgiler",
+    "#bilim",
+    "#vücut",
+    "#keşfet",
+    "#faydalibilgiler"
   ],
   "cta": {
-    "tr": "Benzer doğa sırları için bizi takip etmeyi unutma!",
-    "en": "Don't forget to follow us for more nature secrets!",
-    "es": "¡No olvides seguirnos para más secretos de la naturaleza!",
-    "ar": "لا تنس متابعة للمزيد من أسرار الطبيعة!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
+    "en": "Don't forget to like if this is your first time hearing this!",
+    "es": "¡No olvides dar me gusta si es la primera vez que escuchas esto!",
+    "ar": "لا تنس الإعجاب إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Anatomy & Human Body Research",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Penguenler Siyah Beyaz Değil, Aslında...",
+  "_topic": "Parmak İzinden Daha Şaşırtıcı Olan O Organımız",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-31T10:57:14.151655+00:00",
+  "generated_at": "2026-10-31T12:21:05.478574+00:00",
   "topic_guard_days": 180
 }

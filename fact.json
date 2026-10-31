@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Ne Zaman Uyur?",
-    "body": "Uçarken bile uyuyabilen frigate kuşları, havada süzülürken beynin sadece tek yarım küresini uyutur. Diğer gözü açık kalarak yönünü bulur; böylece günlerce karaya ayak basmadan gökyüzünde kalabilirler."
+    "headline": "Muzlar Aslında Beraber Büyüdükleri Ağaçta Ters Döner",
+    "body": "Manavda gördüğümüz o eğri muzlar, aslında yerçekimine karşı büyük bir mücadele verir! Muz ağaçları yukarı doğru uzarken, üzerindeki meyveler güneşe ulaşabilmek için yerçekiminin ters yönüne, yani gökyüzüne doğru kıvrılarak büyür. İşte muzların o ikonik kavisli şekli tam olarak bu yüzden oluşur."
   },
   "en": {
-    "headline": "When Do Birds Sleep?",
-    "body": "Frigatebirds, which can sleep even while flying, put only one hemisphere of their brain to sleep while gliding. The other eye stays open to navigate, allowing them to remain in the sky for days without touching land."
+    "headline": "Bananas Actually Grow Upside Down",
+    "body": "Those curved bananas we see at the store actually fight gravity as they grow! While the banana plants grow upward, the fruits curve upward toward the sun, defying gravity. That's exactly why bananas get their iconic curved shape."
   },
   "es": {
-    "headline": "¿Cuándo duermen las aves?",
-    "body": "Las fragatas, que pueden dormir incluso mientras vuelan, ponen a dormir solo un hemisferio de su cerebro mientras planean. El otro ojo permanece abierto para navegar, lo que les permite permanecer en el cielo durante días."
+    "headline": "Los plátanos crecen al revés",
+    "body": "¡Esos plátanos curvados que vemos en la tienda en realidad luchan contra la gravedad! Mientras las plantas de plátano crecen hacia arriba, los frutos se curvan hacia el sol, desafiando la gravedad. Por eso adquieren esa forma."
   },
   "ar": {
-    "headline": "متى تنام الطيور؟",
-    "body": "طيور الفريغات، التي يمكنها النوم حتى أثناء الطيران، تنم نصف دماغها فقط أثناء الانزلاق. تبقى العين الأخرى مفتوحة للتنقل، مما يسمح لها بالبقاء في السماء لأيام دون لمس الأرض."
+    "headline": "الموز ينمو في الواقع مقلوباً",
+    "body": "تلك الموزات المنحنية التي نراها في المتاجر تقاوم الجاذبية أثناء نموها! بينما تنمو شجرة الموز للأعلى، تنحني الثمار نحو الشمس عكس اتجاه الجاذبية. هذا هو السبب الدقيق وراء شكلها المنحني."
   },
   "reel_hook": {
-    "tr": "Günlerce hiç durmadan havada kalan bir kuş, uyumaya vakti bulamaz sanıyorsanız yanılıyorsunuz.",
-    "en": "If you think a bird staying in the air for days without stopping has no time to sleep, you are wrong.",
-    "es": "Si crees que un ave que pasa días en el aire sin parar no tiene tiempo para dormir, te equivocas.",
-    "ar": "إذا كنت تعتقد أن طائراً يبقى في الهواء لأيام دون توقف ليس لديه وقت للنوم، فأنت مخطئ."
+    "tr": "Muzların neden hep o kavisli şekle sahip olduğunu hiç düşündünüz mü?",
+    "en": "Have you ever wondered why bananas always have that curved shape?",
+    "es": "¿Alguna vez te has preguntado por qué los plátanos tienen esa forma curvada?",
+    "ar": "هل تساءلت من قبل لماذا يمتلك الموز دائماً هذا الشكل المنحني؟"
   },
   "story_question": {
-    "tr": "Sizce bu kuşlar havada uyurken ne kadar süre geçirebilir?",
-    "en": "How long do you think these birds can spend sleeping in the air?",
-    "es": "¿Cuánto tiempo crees que estas aves pueden pasar durmiendo en el aire?",
-    "ar": "برأيك، ما هي المدة التي يمكن أن تقضيها هذه الطيور نائمة في الهواء؟"
+    "tr": "Muzların gökyüzüne doğru büyüme hareketine ne ad verilir?",
+    "en": "What is the upward growing movement of bananas called?",
+    "es": "¿Cómo se llama el movimiento de crecimiento de los plátanos hacia arriba?",
+    "ar": "ماذا يسمى نمو الموز نحو الأعلى عكس الجاذبية؟"
   },
   "story_options": [
-    "Birkaç saat",
-    "Birkaç gün",
-    "Birkaç hafta"
+    "Negatif Jeotropizma",
+    "Fotosentez Sıçraması",
+    "Helyotropik Büyüme"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
+    "#muz",
     "#bilim",
-    "#biyoloji",
-    "#hayvanlar",
-    "#keşif"
+    "#ilginçbilgiler",
+    "#doğa",
+    "#meyve",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takipte kal!",
-    "en": "Stay tuned for more surprising nature secrets like this!",
-    "es": "¡Mantente atento para más secretos sorprendentes de la naturaleza!",
-    "ar": "ترقبوا المزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.8
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Botanical Society of America",
+    "url": "https://www.botany.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Ne Zaman Uyur?",
+  "_topic": "Muzlar Aslında Beraber Büyüdükleri Ağaçta Ters Döner",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-31T17:33:11.378450+00:00",
+  "generated_at": "2026-10-31T19:11:03.198977+00:00",
   "topic_guard_days": 180
 }

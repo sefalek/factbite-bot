@@ -1,72 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Balıklar Aslında Nasıl Kusursuz Yürür?",
-    "body": "Denizlerin derinliklerindeki bazı balık türleri, yüzmek yerine okyanus tabanında adeta yürürler. Öyle ki, bu hareket için özel olarak evrimleşmiş göğüs yüzgeçlerini ayak gibi kullanırlar."
+    "headline": "Ay'da Tozun Kokusu",
+    "body": "Apollo astronotları Ay yürüyüşünden sonra Ay modülüne döndüklerinde şaşırtıcı bir şey fark ettiler: Giysilerine ve botlarına yapışan Ay tozu baruta benziyordu. Keskin ve yanık bir koku yayan bu toz, Dünya'ya döndüklerinde onları en çok şaşırtan detaylardan biri oldu."
   },
   "en": {
-    "headline": "How Fish Actually 'Walk' on the Ocean Floor",
-    "body": "Certain deep-sea fish species literally walk across the ocean floor instead of swimming, using specially evolved pectoral fins like tiny legs."
+    "headline": "The Smell of Moon Dust",
+    "body": "When Apollo astronauts returned to the lunar module after moonwalks, they noticed something surprising: the lunar dust clinging to their suits and boots smelled remarkably like spent gunpowder."
   },
   "es": {
-    "headline": "Cómo los peces 'caminan' realmente en el fondo marino",
-    "body": "Ciertas especies de peces de aguas profundas caminan literalmente por el fondo del océano en lugar de nadar, utilizando aletas pectorales especialmente evolucionadas como pequeñas patas."
+    "headline": "El olor del polvo lunar",
+    "body": "Cuando los astronautas del Apolo regresaron al módulo lunar tras los paseos espaciales, notaron algo sorprendente: el polvo lunar adherido a sus trajes olía a pólvora quemada."
   },
   "ar": {
-    "headline": "كيف تمشي الأسماك حقاً في قاع المحيط",
-    "body": "تمشي بعض أنواع الأسماك في أعماق البحار حرفياً عبر قاع المحيط بدلاً من السباحة، مستخدمة زعانف صدرية متطورة خصيصاً كأقدام صغيرة."
+    "headline": "رائحة غبار القمر",
+    "body": "عندما عاد رواد فضاء أبولو إلى وحدة الهبوط القمري، لاحظوا شيئاً مذهلاً: غبار القمر العالط ببدلاتهم كان رائحته تشبه البارود المحترق تماماً."
   },
   "reel_hook": {
-    "tr": "Yüzmediği halde okyanus tabanında yürüyen bir balık gördün mü?",
-    "base_lang": "Have you ever seen a fish that walks on the ocean floor instead of swimming?",
-    "en": "Have you ever seen a fish that walks on the ocean floor instead of swimming?",
-    "es": "¿Alguna vez has visto un pez que camina por el fondo del océano en lugar de nadar?",
-    "ar": "هل رأيت من قبل سمكة تمشي في قاع المحيط بدلاً من السباحة؟"
+    "tr": "Ay'ın kokusu olduğunu biliyor muydunuz? Ve bu koku dünyadaki hiçbir şeye benzemiyor.",
+    "en": "Did you know the Moon has a smell? And it's unlike anything on Earth.",
+    "es": "¿Sabías que la Luna tiene olor? Y no se parece a nada en la Tierra.",
+    "ar": "هل تعلم أن للقمر رائحة؟ وهي لا تشبه أي شيء على الأرض."
   },
   "story_question": {
-    "tr": "Sence bu yürüyen balıklar yüzgeçlerini neye benzeterek kullanır?",
-    "base_lang": "What do you think these walking fish use their fins to mimic?",
-    "en": "What do you think these walking fish use their fins to mimic?",
-    "es": "¿A qué crees que se asemejan las aletas de estos peces caminantes?",
-    "ar": "برأيك، ما الذي تشبهه زعانف هذه الأسماك الساشية؟"
+    "tr": "Astronotların tarifine göre Ay tozu neye kokuyor?",
+    "en": "According to astronauts, what does moon dust smell like?",
+    "es": "Según los astronautas, ¿a qué huele el polvo lunar?",
+    "ar": "وفقاً لرواد الفضاء، ما هي رائحة غبار القمر؟"
   },
   "story_options": [
-    "Küçük ayaklara",
-    "Kanatlara",
-    "Küreklere"
+    "Barut",
+    "Çilek",
+    "Çamur"
   ],
   "hashtags": [
     "#FactBite",
+    "#uzay",
     "#bilim",
-    "#doğa",
-    "#okyanus",
-    "#keşfet",
-    "#ilginçbilgiler",
-    "#hayvanlar"
+    "#apollo",
+    "#ay",
+    "#astronomi",
+    "#keşif"
   ],
   "cta": {
-    "tr": "Benzer şaşırtıcı doğa gerçekleri için takip et!",
-    "base_lang": "Follow for more surprising nature facts!",
-    "en": "Follow for more surprising nature facts!",
-    "es": "¡Síguenos para más datos sorprendentes sobre la naturaleza!",
-    "ar": "تابعنا للمزيد من حقائق الطبيعة المدهشة!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Marine Biology Conservation Society",
-    "url": "https://www.marinebiology.org"
+    "name": "NASA",
+    "url": "https://www.nasa.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Balıklar Aslında Nasıl Kusursuz Yürür?",
+  "_topic": "Ay'da Tozun Kokusu",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-31T22:14:03.533744+00:00",
+  "generated_at": "2026-10-31T23:48:54.885791+00:00",
   "topic_guard_days": 180
 }

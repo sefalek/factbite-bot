@@ -1,69 +1,75 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerinizi Kapattığınızda Gördüğünüz O Statik Karıncalanma Aslında Ne?",
-    "body": "Gözlerinizi kapattığınızda karanlıkta parlayan o renkli noktaları veya gri karıncalanmayı hepimiz görürüz. Beynimiz bu görsel gürültüye 'fosfen' adını verir. Işık olmasa bile retinadaki sinir hücrelerinin rastgele sinyal göndermesiyle oluşur."
+    "headline": "Kuşlar Nasıl Oluyor Da Bu Kadar Hafif?",
+    "body": "Gökyüzünün kralları olarak bildiğimiz kuşlar, aslında dışarıdan göründüklerinden çok daha şaşırtıcı bir iç yapıya sahiptir. Çoğu insan onların kemiklerinin tamamen içi boş olduğunu düşünür, ancak bu kemikler aslında birbirine çapraz kirişlerle bağlanmış inanılmaz sağlam köprüler gibidir. Hem uçabilecek kadar hafif hem de sert inişleri kaldırabilecek kadar dayanıklı olmalarının sırrı bu mühendislik harikası iskelet sisteminde saklıdır."
   },
   "en": {
-    "headline": "What Actually Is That Static Grid You See When You Close Your Eyes?",
-    "body": "We all see those colorful dots or gray static glowing in the dark when we close our eyes. Our brain calls this visual noise 'phosphenes'. It happens when retinal nerve cells fire randomly even without light."
+    "headline": "How Do Birds Manage to Be This Light?",
+    "body": "Birds, known as the kings of the skies, actually have an internal structure much more surprising than they look from the outside. Most people think their bones are completely hollow, but these bones are actually like incredibly strong bridges connected by cross-struts. The secret to being both light enough to fly and durable enough to handle hard landings lies in this engineering-marvel skeletal system."
   },
   "es": {
-    "headline": "¿Qué es en realidad esa estática que ves al cerrar los ojos?",
-    "body": "Todos vemos esos puntos de colores o estática gris brillando en la oscuridad al cerrar los ojos. Nuestro cerebro llama a este ruido visual 'fosfenos'. Ocurre cuando las células nerviosas de la retina se disparan al azar incluso sin luz."
+    "headline": "¿Cómo logran las aves ser tan ligeras?",
+    "body": "Las aves, conocidas como las reinas de los cielos, tienen en realidad una estructura interna mucho más sorprendente de lo que parece por fuera. La mayoría piensa que sus huesos son completamente huecos, pero en realidad funcionan como puentes increíblemente resistentes conectados por puntales cruzados. El secreto para ser lo suficientemente ligeras para volar y lo bastante duraderas para soportar aterrizajes duros radica en este sistema esquelético de ingeniería perfecta."
   },
   "ar": {
-    "headline": "ما هو حقاً ذلك الثابت الذي تراه عندما تغلق عينيك؟",
-    "body": "نرى جميعاً تلك النقاط الملونة أو التشويش الرمادي يلمع في الظلام عندما نغلق أعيننا. يطلق دماغنا على هذه الضوضاء البصرية اسم 'الفوسفين'. يحدث ذلك عندما تطلق الخلايا العصبية في الشبكية إشارات بشكل عشوائي حتى بدون ضوء."
+    "headline": "كيف تتمكن الطيور من أن تكون بهذا الخفة؟",
+    "body": "الطيور، المعروفة بملوك السماء، تمتلك في الواقع بنية داخلية تفاجئنا أكثر مما تبدو عليه من الخارج. يعتقد معظم الناس أن عظامها فارغة تماماً، لكن هذه العظام تشبه في الواقع جسوراً قوية للغاية متصلة بدعامات متقاطعة. السر في كونها خفيفة بما يكفي للطيران ومتينة بما يكفي لتحمل الهبوط القاسي يكمن في هذا الهيكل العظمي الذي يعد تحفة هندسية."
+  },
+  "reel__hook": {
+    "tr": "Uçan bu canlıların kemikleri hakkında bildiğiniz her şeyi unutun!",
+    "body": "",
+    "en": "Forget everything you know about the bones of these flying creatures!",
+    "es": "¡Olvídate de todo lo que sabes sobre los huesos de estas criaturas voladoras!",
+    "ar": "انسا كل ما تعرفه عن عظام هذه المخلوقات الطائرة!"
   },
   "reel_hook": {
-    "tr": "Gözlerinizi kapattığınızda gördüğünüz o renkli karıncalanma nereden geliyor?",
-    "en": "Where does that colorful static you see when you close your eyes come from?",
-    "es": "¿De dónde viene esa estática de colores que ves cuando cierras los ojos?",
-    "ar": "من أين يأتي ذلك التشويش الملون الذي تراه عندما تغلق عينيك؟"
+    "tr": "Uçan bu canlıların kemikleri hakkında bildiğiniz her şeyi unutun!",
+    "en": "Forget everything you know about the bones of these flying creatures!",
+    "es": "¡Olvídate de todo lo que sabes sobre los huesos de estas criaturas voladoras!",
+    "ar": "انسا كل ما تعرفه عن عظام هذه المخلوقات الطائرة!"
   },
   "story_question": {
-    "tr": "Gözlerinizi kapattığınızda gördüğünüz bu görsel gürültünün adı nedir?",
-    "en": "What is the name of this visual noise you see when you close your eyes?",
-    "es": "¿Cómo se llama este ruido visual que ves al cerrar los ojos?",
-    "ar": "ما هي التسمية العلمية لهذه الضوضاء البصرية التي تراها عند إغلاق عينيك؟"
+    "tr": "Kuşların içi boş olduğu sanılan kemikleri aslında neye benzer?",
+    "en": "What do the supposedly hollow bones of birds actually resemble?",
+    "es": "¿A qué se parecen realmente los huesos supuestamente huecos de las aves?",
+    "ar": "على ماذا تشبه حقاً عظام الطيور التي يُعتقد أنها فارغة؟"
   },
   "story_options": [
-    "Fosfen",
-    "Retinopati",
-    "Göz Gribi"
+    "Sağlam köprülere",
+    "Süngerimsi dokuya",
+    "Plastik borulara"
   ],
   "hashtags": [
     "#FactBite",
+    "#kuşlar",
     "#bilim",
-    "#göz",
+    "#doğa",
     "#ilginçbilgiler",
-    "#uzay",
-    "#keşfet",
     "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip et!",
-    "en": "Follow for more facts like this!",
-    "es": "¡Sígueme para más datos como este!",
-    "ar": "اتبع للمزيد من الحقائق مثل هذه!"
+    "tr": "Benzer şaşırtıcı gerçekler için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more surprising facts!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes!",
+    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "National Eye Institute",
-    "url": "https://www.nei.nih.gov"
+    "name": "Ornithology & Avian Skeletal Structure Studies",
+    "url": "https://www.audubon.org/news/how-do-birds-fly-bones"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerinizi Kapattığınızda Gördüğünüz O Statik Karıncalanma Aslında Ne?",
+  "_topic": "Kuşlar Nasıl Oluyor Da Bu Kadar Hafif?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-30T22:49:56.420838+00:00",
+  "generated_at": "2026-10-31T00:04:33.317569+00:00",
   "topic_guard_days": 180
 }

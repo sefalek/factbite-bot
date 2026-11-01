@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ay'da Yürüyenlerin Kokusu Var Mı?",
-    "body": "Apollo astronotları Ay yürüyüşünden dönüp ay modülüne girdiklerinde, kıyafetlerinin baruta benzer keskin bir koku yaydığını fark ettiler. Dünya'ya döndüklerinde bu toz incelendi; ilginç bir şekilde, Ay tozu suyla temas ettiğinde yanık barut gibi kokuyordu!"
+    "headline": "Parmak İzinden Daha Benzersiz Olan O Tek Yerimiz",
+    "body": "Parmağınızın ucundaki çizgiler size özel, evet. Ama vücudunuzda kimlik olarak kullanabileceğiniz bir yer daha var ki, dünyanın hiçbir yerinde bir eşi daha yok: Dil iziniz! Her insanın dilinin şekli, dokusu ve üzerindeki benzersiz pürüzler tıpkı parmak izi gibi tamamen size özeldir."
   },
   "en": {
-    "headline": "What Does the Moon Smell Like?",
-    "body": "When Apollo astronauts returned from moonwalks and entered the lunar module, they noticed their suits gave off a sharp, gunpowder-like smell. Back on Earth, this dust was analyzed; intriguingly, lunar dust smelled like spent gunpowder when it came into contact with water!"
+    "headline": "The Body Part Even More Unique Than Your Fingerprint",
+    "body": "The lines on your fingertips are unique to you, yes. But there is another part of your body you can use as ID that has no match anywhere in the world: your tongue print! Every person's tongue shape, texture, and unique bumps are entirely one-of-a-kind, just like a fingerprint."
   },
   "es": {
-    "headline": "¿A qué huele la Luna?",
-    "body": "Cuando los astronautas del Apolo regresaron de sus caminatas lunares y entraron al módulo, notaron que sus trajes despedían un olor fuerte a pólvora. De regreso en la Tierra, este polvo fue analizado; curiosamente, olía a pólvora quemada al entrar en contacto con el agua."
+    "headline": "La parte del cuerpo aún más única que tu huella dactilar",
+    "body": "Las líneas de las yemas de tus dedos son únicas para ti, sí. Pero hay otra parte de tu cuerpo que puedes usar como identificación y que no tiene igual en ninguna parte del mundo: ¡tu huella lingual! La forma, textura y protuberancias únicas de la lengua de cada persona son completamente irrepetibles, al igual que una huella dactilar."
   },
   "ar": {
-    "headline": "ما هي رائحة القمر؟",
-    "body": "عندما عاد رواد فضاء أبولو من سيرهم على سطح القمر ودخلوا المركبة، لاحظوا أن بدلاتهم تفوح منها رائحة قوية تشبه البارود. عند عودتهم إلى الأرض، تم تحليل هذا الغبار؛ المثير للدهشة أن غبار القمر كان رائحته تشبه البارود المحترق عند ملامسته للماء!"
+    "headline": "جزء الجسم الأكثر فرادة من بصمة إصبعك",
+    "body": "الخطوط الموجودة على أطراف أصابعك فريدة بالنسبة لك، نعم. ولكن هناك جزء آخر من جسمك يمكنك استخدامه كمعرف وليس له مثيل في أي مكان في العالم: بصمة لسانك! شكل لسان كل شخص، وملمسه، ونتوءاته الفريدة فريدة تمامًا من نوعها، تمامًا مثل بصمة الإصبع."
   },
   "reel_hook": {
-    "tr": "Ay'ın tozu Dünya'ya döndüğünüzde bakın neye benziyor...",
-    "en": "Look what moon dust actually smells like when you come back...",
-    "es": "Mira a qué huele realmente el polvo lunar cuando regresas...",
-    "ar": "انظر إلى ما رائحة غبار القمر حقاً عندما تعود..."
+    "tr": "Parmak izinizi biliyorsunuz, peki ya bu organınızı?",
+    "en": "You know your fingerprint, but what about this organ?",
+    "es": "Conoces tu huella dactilar, ¿pero qué pasa con este órgano?",
+    "ar": "انت تعرف بصمة إصبعك، ولكن ماذا عن هذا العضو؟"
   },
   "story_question": {
-    "tr": "Astronotların Ay'dan dönerken kıyafetlerinde duyduğu bu koku neye benziyordu?",
-    "en": "What did astronauts notice their suits smelled like coming back from the Moon?",
-    "es": "¿A qué olían los trajes de los astronautas al regresar de la Luna?",
-    "ar": "على ماذا كانت رائحة بدلات رواد الفضاء تشبه عند العودة من القمر؟"
+    "tr": "Vücudumuzda parmak izi dışında tamamen benzersiz olan tek bir yer daha olduğu doğru mu?",
+    "en": "Is it true that there is only one other place in our body completely unique besides the fingerprint?",
+    "es": "¿Es verdad que hay un solo lugar en nuestro cuerpo completamente único además de la huella dactilar?",
+    "ar": "هل صحيح أن هناك مكاناً آخر في جسمنا فريد تماماً بصرف النظر عن بصمة الإصبع؟"
   },
   "story_options": [
-    "Yanık barut",
-    "Islak toprak",
-    "Taze kahve"
+    "Evet, dil izimiz",
+    "Hayır, sadece parmak izi",
+    "Saç köklerimiz"
   ],
   "hashtags": [
     "#FactBite",
-    "#Ay",
-    "#Astronomi",
-    "#Uzay",
-    "#Bilim",
-    "#Apollo",
-    "#İlginçBilgiler"
+    "#ilginçbilgiler",
+    "#bilim",
+    "#vücudumuz",
+    "#keşfet",
+    "#anatomia",
+    "#biliyormuydunuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla uzay sırrı için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more space secrets like this!",
-    "es": "¡No olvides seguirnos para más secretos espaciales como este!",
-    "ar": "لا تنس المتابعة لمزيد من أسرار الفضاء مثل هذه!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "NASA",
-    "url": "https://www.nasa.gov/history/alsj/smell.html"
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ay'da Yürüyenlerin Kokusu Var Mı?",
+  "_topic": "Parmak İzinden Daha Benzersiz Olan O Tek Yerimiz",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-01T21:07:39.553697+00:00",
+  "generated_at": "2026-11-01T22:39:15.561175+00:00",
   "topic_guard_days": 180
 }

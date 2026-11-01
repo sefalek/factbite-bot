@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ay'da Tozun Kokusu",
-    "body": "Apollo astronotları Ay yürüyüşünden sonra Ay modülüne döndüklerinde şaşırtıcı bir şey fark ettiler: Giysilerine ve botlarına yapışan Ay tozu baruta benziyordu. Keskin ve yanık bir koku yayan bu toz, Dünya'ya döndüklerinde onları en çok şaşırtan detaylardan biri oldu."
+    "headline": "Biliyor musunuz?",
+    "body": "Göz bebeklerimiz, hiç beklemediğimiz anlarda sadece etrafımızdaki ışık değiştiği için değil; kafamızdan geçen yoğun bir düşünce, çözmeye çalıştığımız ani bir bulmaca veya derin bir odaklanma anında bile saniyenin küçük bir kesitinde aniden büyür ya da küçülür. Beynimiz o kadar hızlı çalışır ki, gözlerimiz adeta zihnimizin iç dünyasını dışarıya yansıtan bir ekran gibi anında tepki verir."
   },
   "en": {
-    "headline": "The Smell of Moon Dust",
-    "body": "When Apollo astronauts returned to the lunar module after moonwalks, they noticed something surprising: the lunar dust clinging to their suits and boots smelled remarkably like spent gunpowder."
+    "headline": "Did you know?",
+    "body": "Our pupils dilate or constrict in a split second not just when light changes, but even during intense focus, solving a sudden puzzle, or deep thinking. Our brain works so fast that our eyes instantly react, acting almost like a screen reflecting our inner mind."
   },
   "es": {
-    "headline": "El olor del polvo lunar",
-    "body": "Cuando los astronautas del Apolo regresaron al módulo lunar tras los paseos espaciales, notaron algo sorprendente: el polvo lunar adherido a sus trajes olía a pólvora quemada."
+    "headline": "¿Sabías que?",
+    "body": " nuestras pupilas se dilatan o contraen en una fracción de segundo no solo cuando cambia la luz, sino también durante un enfoque intenso, al resolver un rompecabezas o al pensar profundamente. Nuestro cerebro trabaja tan rápido que nuestros ojos reaccionan al instante."
   },
   "ar": {
-    "headline": "رائحة غبار القمر",
-    "body": "عندما عاد رواد فضاء أبولو إلى وحدة الهبوط القمري، لاحظوا شيئاً مذهلاً: غبار القمر العالط ببدلاتهم كان رائحته تشبه البارود المحترق تماماً."
+    "headline": "هل كنت تعلم؟",
+    "body": "تتوسع بؤبؤ العين أو تنقبض في جزء من الثانية ليس فقط عند تغير الضوء، بل وأيضاً أثناء التركيز الشديد أو التفكير العميق. يعمل دماغنا بسرعة كبيرة لدرجة أن عيوننا تتفاعل على الفور لتعكس ما يدور في عقولنا."
   },
   "reel_hook": {
-    "tr": "Ay'ın kokusu olduğunu biliyor muydunuz? Ve bu koku dünyadaki hiçbir şeye benzemiyor.",
-    "en": "Did you know the Moon has a smell? And it's unlike anything on Earth.",
-    "es": "¿Sabías que la Luna tiene olor? Y no se parece a nada en la Tierra.",
-    "ar": "هل تعلم أن للقمر رائحة؟ وهي لا تشبه أي شيء على الأرض."
+    "tr": "Göz bebeklerinizin sadece ışıktan dolayı değiştiğini mi sanıyorsunuz?",
+    "en": "Do you think your pupils only change because of light?",
+    "es": "crees que tus pupilas solo cambian por la luz?",
+    "ar": "هل تعتقد أن بؤبؤ عينك يتغير فقط بسبب الضوء؟"
   },
   "story_question": {
-    "tr": "Astronotların tarifine göre Ay tozu neye kokuyor?",
-    "en": "According to astronauts, what does moon dust smell like?",
-    "es": "Según los astronautas, ¿a qué huele el polvo lunar?",
-    "ar": "وفقاً لرواد الفضاء، ما هي رائحة غبار القمر؟"
+    "tr": "Göz bebekleri en çok hangi zihinsel durumda büyür?",
+    "en": "In which mental state do pupils dilate the most?",
+    "es": "¿En qué estado mental se dilatan más las pupilas?",
+    "ar": "في أي حالة ذهنية يتوسع بؤبؤ العين أكثر؟"
   },
   "story_options": [
-    "Barut",
-    "Çilek",
-    "Çamur"
+    "Yoğun odaklanma",
+    "Derin uyku",
+    "Mutluluk"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
     "#bilim",
-    "#apollo",
-    "#ay",
-    "#astronomi",
-    "#keşif"
+    "#insan",
+    "#biyo",
+    "#gerçekler",
+    "#keşfet",
+    "#psikoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos!",
+    "ar": "لا تنس متابعتنا لمزيد من الحقائق المذهلة!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "NASA",
-    "url": "https://www.nasa.gov"
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ay'da Tozun Kokusu",
+  "_topic": "Biliyor musunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-10-31T23:48:54.885791+00:00",
+  "generated_at": "2026-11-01T13:17:51.891752+00:00",
   "topic_guard_days": 180
 }

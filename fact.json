@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Biliyor musunuz?",
-    "body": "Göz bebeklerimiz, hiç beklemediğimiz anlarda sadece etrafımızdaki ışık değiştiği için değil; kafamızdan geçen yoğun bir düşünce, çözmeye çalıştığımız ani bir bulmaca veya derin bir odaklanma anında bile saniyenin küçük bir kesitinde aniden büyür ya da küçülür. Beynimiz o kadar hızlı çalışır ki, gözlerimiz adeta zihnimizin iç dünyasını dışarıya yansıtan bir ekran gibi anında tepki verir."
+    "headline": "Çöl Kumları Aslında Denizden Geliyor!",
+    "body": "Dünyanın en büyük çölü Sahra'daki kumların büyük kısmı, milyonlarca yıl önce kurumuş devasa bir iç denizden kalma fosillerle dolu. Rüzgar bu kumları binlerce kilometre taşıyıp okyanusun diğer ucundaki Amazon ormanlarına gübre olarak döküyor."
   },
   "en": {
-    "headline": "Did you know?",
-    "body": "Our pupils dilate or constrict in a split second not just when light changes, but even during intense focus, solving a sudden puzzle, or deep thinking. Our brain works so fast that our eyes instantly react, acting almost like a screen reflecting our inner mind."
+    "headline": "Desert Sands Actually Come From the Sea!",
+    "body": "Much of the sand in the Sahara, the world's largest desert, is full of fossils left from a giant inland sea that dried up millions of years ago. The wind carries this sand thousands of kilometers to fertilize the Amazon rainforest on the other side of the ocean."
   },
   "es": {
-    "headline": "¿Sabías que?",
-    "body": " nuestras pupilas se dilatan o contraen en una fracción de segundo no solo cuando cambia la luz, sino también durante un enfoque intenso, al resolver un rompecabezas o al pensar profundamente. Nuestro cerebro trabaja tan rápido que nuestros ojos reaccionan al instante."
+    "headline": "¡La arena del desierto en realidad viene del mar!",
+    "body": "Gran parte de la arena del Sáhara, el desierto más grande del mundo, está llena de fósiles de un gigantesco mar interior que se secó hace millones de años. El viento transporta esta arena a miles de kilómetros para fertilizar la selva amazónica al otro lado del océano."
   },
   "ar": {
-    "headline": "هل كنت تعلم؟",
-    "body": "تتوسع بؤبؤ العين أو تنقبض في جزء من الثانية ليس فقط عند تغير الضوء، بل وأيضاً أثناء التركيز الشديد أو التفكير العميق. يعمل دماغنا بسرعة كبيرة لدرجة أن عيوننا تتفاعل على الفور لتعكس ما يدور في عقولنا."
+    "headline": "رمال الصحراء تأتي في الواقع من البحر!",
+    "body": "جزء كبير من الرمال في الصحراء الكبرى، أكبر صحراء في العالم، مليء بالحفريات المتبقية من بحر داخلي عملاق جف قبل ملايين السنين. تنقل الرياح هذه الرمال لمسافات تبعد آلاف الكيلومترات لتسميد غابات الأアマزون على الجانب الآخر من المحيط."
   },
   "reel_hook": {
-    "tr": "Göz bebeklerinizin sadece ışıktan dolayı değiştiğini mi sanıyorsunuz?",
-    "en": "Do you think your pupils only change because of light?",
-    "es": "crees que tus pupilas solo cambian por la luz?",
-    "ar": "هل تعتقد أن بؤبؤ عينك يتغير فقط بسبب الضوء؟"
+    "tr": "Çölün ortasındaki bu kumların milyonlarca yıl önce denizde olduğunu biliyor muydunuz?",
+    "en": "Did you know that this sand in the middle of the desert was in the sea millions of years ago?",
+    "es": "¿Sabías que esta arena en medio del desierto estuvo en el mar hace millones de años?",
+    "ar": "هل كنت تعلم أن هذه الرمال في وسط الصحراء كانت في البحر قبل ملايين السنين؟"
   },
   "story_question": {
-    "tr": "Göz bebekleri en çok hangi zihinsel durumda büyür?",
-    "en": "In which mental state do pupils dilate the most?",
-    "es": "¿En qué estado mental se dilatan más las pupilas?",
-    "ar": "في أي حالة ذهنية يتوسع بؤبؤ العين أكثر؟"
+    "tr": "Sahra çölünün rüzgarları kumları nereye taşıyor?",
+    "en": "Where do the winds of the Sahara desert carry the sand?",
+    "es": "¿A dónde llevan los vientos del desierto del Sahara la arena?",
+    "ar": "إلى أين تأخذ رياح الصحراء الكبرى هذه الرمال؟"
   },
   "story_options": [
-    "Yoğun odaklanma",
-    "Derin uyku",
-    "Mutluluk"
+    "Amazon Ormanları",
+    "Alp Dağları",
+    "Antarktika Buzulları"
   ],
   "hashtags": [
     "#FactBite",
+    "#sahra",
+    "#çöl",
+    "#doğa",
     "#bilim",
-    "#insan",
-    "#biyo",
-    "#gerçekler",
-    "#keşfet",
-    "#psikoloji"
+    "#coğrafya",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس متابعتنا لمزيد من الحقائق المذهلة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more amazing facts like this!",
+    "es": "¡Mantente atento a más datos asombrosos como este!",
+    "ar": "ابق على متابعة للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com"
+    "name": "NASA Earth Observatory",
+    "url": "https://earthobservatory.nasa.gov/images/145453/saharan-dust-feeds-amazon-plants"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Biliyor musunuz?",
+  "_topic": "Çöl Kumları Aslında Denizden Geliyor!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-01T13:17:51.891752+00:00",
+  "generated_at": "2026-11-01T15:08:54.175385+00:00",
   "topic_guard_days": 180
 }

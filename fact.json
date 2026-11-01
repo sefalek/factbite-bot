@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kediler Neden Klavyenize Basar?",
-    "body": "Kedilerin bilgisayar klavyenize ya da kucağınıza oturmasının sebebi sadece ilgi istemek değil. Klavyenizden yayılan ısı ve ellerinizin çıkardığı tıkırtılar, avlanma hislerini tetikler. Ayrıca üzerinizdeki yoğun kokunuz, onlara güvende olduklarını hatırlatır."
+    "headline": "Parmak İzinden Daha Şaşırtıcı Bir Yerimiz Var",
+    "body": "Parmak izinizin dünyada sadece size özel olduğunu biliyorsunuz. Peki ya dil izinizin de tamamen size özel olduğunu duymuş muydunuz? Tıpkı parmak izi gibi, dilimizin üzerindeki desenler ve çizgiler de insanlara özeldir ve hayalet gibi asla değişmez."
   },
   "en": {
-    "headline": "Why Do Cats Sit on Your Keyboard?",
-    "body": "Cats sitting on your keyboard isn't just about demanding attention. The warmth from your device and the clicking sounds trigger their hunting instincts. Plus, your concentrated scent reminds them that they are safe."
+    "headline": "We Have Something Even More Surprising Than a Fingerprint",
+    "body": "You know your fingerprint is entirely unique to you in the world. But have you ever heard that your tongue print is also completely unique? Just like a fingerprint, the patterns and lines on our tongue are individual and never change."
   },
   "es": {
-    "headline": "¿Por qué los gatos se sientan en tu teclado?",
-    "body": "Que los gatos se sienten en tu teclado no es solo para llamar la atención. El calor del dispositivo y los clics activan sus instintos de caza. Además, tu olor concentrado les recuerda que están seguros."
+    "headline": "Tenemos algo aún más sorprendente que una huella dactilar",
+    "body": "¿Sabías que tu huella dactilar es completamente única en el mundo? Pero, ¿habías oído alguna vez que la huella de tu lengua también es totalmente única? Al igual que una huella digital, los patrones y líneas de nuestra lengua son individuales y nunca cambian."
   },
   "ar": {
-    "headline": "لماذا تجلس القطط على لوحة المفاتيح؟",
-    "body": "جلوس القطط على لوحة المفاتيح لا يقتصر فقط على طلب الاهتمام. حرارة الجهاز وأصوات النقر تحفز غريزة الصيد لديهم. بالإضافة إلى ذلك، تذكرهم رائحتهم المركزة بأنهم في أمان."
+    "headline": "لدينا ما هو أكثر دهشة من بصمة الإصبع",
+    "body": "تعلم أن بصمة إصبعك فريدة تماماً لك في العالم. ولكن هل سمعت من قبل أن بصمة لسانك فريدة تماماً أيضاً؟ تماماً مثل بصمة الإصبع، فإن الأنماط والخطوط الموجودة على لساننا فردية ولا تتغير أبداً."
   },
   "reel_hook": {
-    "tr": "Kediniz neden hep bilgisayarınızın üstüne oturur?",
-    "en": "Why does your cat always sit on your computer?",
-    "es": "¿Por qué tu gato siempre se sienta en tu computadora?",
-    "ar": "لماذا تجلس قطتك دائماً على حاسوبك؟"
+    "tr": "Parmak izinizi biliyorsunuz, peki ya dil izinizi?",
+    "en": "You know your fingerprint, but what about your tongue print?",
+    "es": "Conoces tu huella dactilar, ¿pero qué pasa con la de tu lengua?",
+    "ar": "أنت تعرف بصمة إصبعك، فماذا عن بصمة لسانك؟"
   },
   "story_question": {
-    "tr": "Kediniz en çok nereye oturmayı sever?",
-    "en": "Where does your cat like to sit the most?",
-    "es": "¿Dónde le gusta más sentarse a tu gato?",
-    "ar": "أين تحب قطتك الجلوس أكثر؟"
+    "tr": "Dil izinin parmak izi gibi benzersiz olduğunu biliyor muydunuz?",
+    "en": "Did you know that tongue prints are as unique as fingerprints?",
+    "es": "¿Sabías que las huellas de la lengua son tan únicas como las huellas dactilares?",
+    "ar": "هل كنت تعلم أن بصمات اللسان فريدة تماماً مثل بصمات الأصابع؟"
   },
   "story_options": [
-    "Klavyenin üstü",
-    "Kucağım",
-    "En yüksek yer"
+    "Evet, biliyordum",
+    "Hayır, ilk defa duydum",
+    "İnanması çok güç"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
     "#bilim",
-    "#hayvanlar",
     "#ilginçbilgiler",
-    "#kedidavranışları"
+    "#insan",
+    "#biyoloji",
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Senin kedin de böyle yapıyor mu? Yorumlarda buluşalım!",
-    "en": "Does your cat do this too? Let us know in the comments!",
-    "es": "¿Tu gato también hace esto? ¡Cuéntanos en los comentarios!",
-    "ar": "هل تفعل قطتك هذا أيضاً؟ أخبرنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
-    "clarity": 10,
+    "surprise": 9,
+    "shareability": 8,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Cat Behavior Studies",
-    "url": "https://www.petmd.com"
+    "name": "Anatomical Society Research",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kediler Neden Klavyenize Basar?",
+  "_topic": "Parmak İzinden Daha Şaşırtıcı Bir Yerimiz Var",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-01T18:17:36.298542+00:00",
+  "generated_at": "2026-11-01T19:26:31.814271+00:00",
   "topic_guard_days": 180
 }

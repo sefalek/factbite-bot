@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İziniz Gibi Eşsiz Olan Tek Bir Yeriniz Var",
-    "body": "Parmak izinizin dünyada sadece size özel olduğunu biliyorsunuz. Peki ya dil izinizin de tamamen size ait ve bir benzerinin daha olmadığını? Tıpkı parmak ucu çizgileriniz gibi, dilinizin üzerindeki pürüzler ve desenler de hayatta bir tanedir."
+    "headline": "Uykudayken Beynimizin Kendi Kendini Yıkadığını Biliyor muydunuz?",
+    "body": "Gündüz boyunca biriken zihinsel yorgunluk, geceleri kafamızı yastığa koyduğumuzda sıradan bir dinlenmeyle geçmiyor. Derin uykuya geçtiğimiz an, beynimizdeki hücreler adeta küçülüyor ve aralarında gizli bir kanal açılıyor. Omurilik sıvısı bu boşluklardan hızla akarak, gün boyu biriken toksinleri ve Alzheimer'a yol açabilecek atıkları adeta tazyikli su gibi temizliyor. Yani uykusuz kalmak sadece yorgunluk değil, beynin temizlik vaktini çalmak demektir."
   },
   "en": {
-    "headline": "You Have Only One Place As Unique As Your Fingerprint",
-    "body": "You know your fingerprint is one of a kind. But did you know your tongue print is also completely unique to you? Just like your fingertip patterns, the textures and contours on your tongue are entirely one of a kind."
+    "headline": "Did You Know Your Brain Washes Itself While You Sleep?",
+    "body": "The mental fatigue accumulated during the day doesn't just vanish with ordinary rest. The moment we enter deep sleep, brain cells actually shrink, opening up hidden channels between them. Cerebrospinal fluid rushes through these spaces, flushing out toxins and waste products like a power washer. Staying deprived of sleep isn't just about feeling tired; it means stealing your brain's cleaning time."
   },
   "es": {
-    "headline": "Tienes un solo lugar tan único como tus huellas dactilares",
-    "body": "Sabes que tu huella dactilar es única en el mundo. ¿Pero sabías que la impresión de tu lengua también te pertenece por completo y no hay otra igual? Al igual que las líneas de tus dedos, las texturas y patrones de tu lengua son únicos."
+    "headline": "¿Sabías que tu cerebro se lava a sí mismo mientras duermes?",
+    "body": "La fatiga mental acumulada durante el día no desaparece con un simple descanso. En el momento en que entramos en sueño profundo, las células cerebrales se contraen, abriendo canales ocultos entre ellas. El líquido cefalorraquídeo fluye rápidamente a través de estos espacios, eliminando toxinas como una hidrolavadora. Estar privado de sueño no es solo cansancio; es robarle a tu cerebro su tiempo de limpieza."
   },
   "ar": {
-    "headline": "لديك مكان واحد فريد تماماً مثل بصمة إصبعك",
-    "body": "أنت تعلم أن بصمة إصبعك فريدة من نوعها. ولكن هل تعلم أن بصمة لسانك تخصك وحدك تماماً ولا يوجد مثيل لها؟ تماماً مثل خطوط أطراف أصابعك، فإن التضاريس والأنماط على لسانك فريدة من نوعها في الحياة."
+    "headline": "هل كنت تعلم أن دماغك يغسل نفسه أثناء نومك؟",
+    "body": "الإرهاق الذهني المتراكم خلال اليوم لا يختفي بمجرد الراحة العادية. اللحظة التي ندخل فيها في نوم عميق، تنكمش خلايا الدماغ فعلياً لتفتح قنوات خفية فيما بينها. يتدفق السائل النخاعي عبر هذه الفراغات ليغسل السموم والنفايات مثل ضاغط الماء. حرمان نفسك من النوم ليس مجرد شعور بالتعب، بل هو سرقة وقت تنظيف دماغك."
   },
   "reel_hook": {
-    "tr": "Parmak izinizden başka kimseye benzemeyen tek bir yeriniz daha olduğunu biliyor muydunuz?",
-    "en": "Did you know you have one other place that is completely unique, just like your fingerprint?",
-    "es": "¿Sabías que tienes otro lugar que es completamente único, al igual que tus huellas dactilares?",
-    "ar": "هل تعلم أن لديك مكاناً آخر فريداً تماماً، تماماً مثل بصمة إصبعك؟"
+    "tr": "Geceleri kafanızı yastığa koyduğunuzda beyninizde tam olarak ne oluyor?",
+    "en": "What actually happens inside your brain the moment you hit the pillow at night?",
+    "es": "¿Qué pasa realmente dentro de tu cerebro en el momento en que apoyas la cabeza en la almohada?",
+    "ar": "ما الذي يحدث بالفعل داخل دماغك في اللحظة التي تضع فيها رأسك على الوسادة ليلاً؟"
   },
   "story_question": {
-    "tr": "Vücudumuzda parmak izi dışında tamamen benzersiz olan başka hangi organımız vardır?",
-    "en": "Which other part of our body is completely unique besides our fingerprints?",
-    "es": "¿Qué otra parte de nuestro cuerpo es completamente única además de nuestras huellas dactilares?",
-    "ar": "ما هو الجزء الآخر من جسمنا الفريد تماماً بصرف النظر عن بصمات أصابعنا؟"
+    "tr": "Derin uyku sırasında beyindeki atıkları temizleyen o özel sıvının adı nedir?",
+    "en": "What is the name of the special fluid that cleans waste in the brain during deep sleep?",
+    "es": "¿Cómo se llama el líquido especial que limpia los residuos en el cerebro durante el sueño profundo?",
+    "ar": "ما هو اسم السائل الخاص الذي ينظف الفضلات في الدماغ أثناء النوم العميق؟"
   },
   "story_options": [
-    "Dil izi",
-    "Kulak memesinin şekli",
-    "Saç teli kökü"
+    "Omurilik sıvısı",
+    "Kan plazması",
+    "Lenf sıvısı"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#insan",
-    "#anatomi",
-    "#biliyormusunuz",
+    "#bilim",
+    "#uyku",
+    "#beyin",
+    "#sağlık",
+    "#biyoloji",
     "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip etmeyi unutma!",
-    "en": "Don't forget to follow to not miss more amazing facts like this!",
-    "es": "¡No olvides seguirnos para no perderte más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bu bilgi beni uykusuz bırakır diyorsan beğen ve takip et!",
+    "en": "If this keeps you up tonight, hit like and follow!",
+    "es": "¡Si esto te quita el sueño, dale a me gusta y síguenos!",
+    "ar": "إذا كان هذا سيبقيك مستيقظاً tonight، اضغط إعجاب وتابعنا!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 10,
+    "shareability": 9,
+    "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Anatomy & Human Body Research",
-    "url": ""
+    "name": "Science Advances / University of Rochester Medical Center",
+    "url": "https://www.urmc.rochester.edu/news/story/to-sleep-perchance-to-clean-a-systems-mechanisms-for-cleaning-waste-from-the-brain"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İziniz Gibi Eşsiz Olan Tek Bir Yeriniz Var",
+  "_topic": "Uykudayken Beynimizin Kendi Kendini Yıkadığını Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-02T13:30:55.666019+00:00",
+  "generated_at": "2026-11-02T15:44:44.237593+00:00",
   "topic_guard_days": 180
 }

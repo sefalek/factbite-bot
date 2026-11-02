@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uykudayken Beynimizin Kendi Kendini Yıkadığını Biliyor muydunuz?",
-    "body": "Gündüz boyunca biriken zihinsel yorgunluk, geceleri kafamızı yastığa koyduğumuzda sıradan bir dinlenmeyle geçmiyor. Derin uykuya geçtiğimiz an, beynimizdeki hücreler adeta küçülüyor ve aralarında gizli bir kanal açılıyor. Omurilik sıvısı bu boşluklardan hızla akarak, gün boyu biriken toksinleri ve Alzheimer'a yol açabilecek atıkları adeta tazyikli su gibi temizliyor. Yani uykusuz kalmak sadece yorgunluk değil, beynin temizlik vaktini çalmak demektir."
+    "headline": "Soluk Borumuza Kaçan Su Neden Öksürtür?",
+    "body": "Yutkunduğumuzda soluk borumuz anlık olarak kapanır, ancak bazen bir damla su bile bu kapağın arkasına sızmayı başarır. Beynimiz bu tehlikeyi milisaniyeler içinde fark eder ve havayı yüksek basınçla dışarı atarak o suyu temizlemeye çalışır; işte öksürük tam olarak bu hayatta kalma refleksidir."
   },
   "en": {
-    "headline": "Did You Know Your Brain Washes Itself While You Sleep?",
-    "body": "The mental fatigue accumulated during the day doesn't just vanish with ordinary rest. The moment we enter deep sleep, brain cells actually shrink, opening up hidden channels between them. Cerebrospinal fluid rushes through these spaces, flushing out toxins and waste products like a power washer. Staying deprived of sleep isn't just about feeling tired; it means stealing your brain's cleaning time."
+    "headline": "Why Water Going Down the Wrong Pipe Makes Us Cough",
+    "body": "When we swallow, our windpipe closes instantly, but sometimes even a single drop manages to slip past. Our brain detects this danger in milliseconds and forces air out at high pressure to clear it out; coughing is precisely this vital survival reflex."
   },
   "es": {
-    "headline": "¿Sabías que tu cerebro se lava a sí mismo mientras duermes?",
-    "body": "La fatiga mental acumulada durante el día no desaparece con un simple descanso. En el momento en que entramos en sueño profundo, las células cerebrales se contraen, abriendo canales ocultos entre ellas. El líquido cefalorraquídeo fluye rápidamente a través de estos espacios, eliminando toxinas como una hidrolavadora. Estar privado de sueño no es solo cansancio; es robarle a tu cerebro su tiempo de limpieza."
+    "headline": "Por qué el agua en la vía respiratoria nos hace toser",
+    "body": "Al tragar, la tráquea se cierra al instante, pero a veces hasta una sola gota logra filtrarse. El cerebro detecta este peligro en milisegundos y expulsa aire a alta presión; la tos es exactamente este reflejo de supervivencia."
   },
   "ar": {
-    "headline": "هل كنت تعلم أن دماغك يغسل نفسه أثناء نومك؟",
-    "body": "الإرهاق الذهني المتراكم خلال اليوم لا يختفي بمجرد الراحة العادية. اللحظة التي ندخل فيها في نوم عميق، تنكمش خلايا الدماغ فعلياً لتفتح قنوات خفية فيما بينها. يتدفق السائل النخاعي عبر هذه الفراغات ليغسل السموم والنفايات مثل ضاغط الماء. حرمان نفسك من النوم ليس مجرد شعور بالتعب، بل هو سرقة وقت تنظيف دماغك."
+    "headline": "لماذا يجعcلنا دخول الماء في القصبة الهوائية نصعل؟",
+    "body": "عندما نبتلع، تغلق قصبتنا الهوائية فوراً، لكن أحياناً تتسرب قطرة واحدة. يكتشف الدماغ هذا الخطر في جزء من ألف من الثانية ويطرد الهواء بضغط عالٍ لإخراجه؛ السعال هو بالضبط رد الفعل الحيوي هذا."
   },
   "reel_hook": {
-    "tr": "Geceleri kafanızı yastığa koyduğunuzda beyninizde tam olarak ne oluyor?",
-    "en": "What actually happens inside your brain the moment you hit the pillow at night?",
-    "es": "¿Qué pasa realmente dentro de tu cerebro en el momento en que apoyas la cabeza en la almohada?",
-    "ar": "ما الذي يحدث بالفعل داخل دماغك في اللحظة التي تضع فيها رأسك على الوسادة ليلاً؟"
+    "tr": "Yanlış boruya kaçan tek bir damla su vücudunu neden alarma geçirir?",
+    "en": "Why does a single drop of water down the wrong pipe send your body into alarm?",
+    "es": "¿Por qué una sola gota de agua en la vía equivocada pone a tu cuerpo en alerta?",
+    "ar": "لماذا تجعل قطرة ماء واحدة في المسار الخاطئ جسمك في حالة إنذار؟"
   },
   "story_question": {
-    "tr": "Derin uyku sırasında beyindeki atıkları temizleyen o özel sıvının adı nedir?",
-    "en": "What is the name of the special fluid that cleans waste in the brain during deep sleep?",
-    "es": "¿Cómo se llama el líquido especial que limpia los residuos en el cerebro durante el sueño profundo?",
-    "ar": "ما هو اسم السائل الخاص الذي ينظف الفضلات في الدماغ أثناء النوم العميق؟"
+    "tr": "Su soluk borunuza kaçtığında beyniniz bu tehlikeyi ne kadar sürede fark eder?",
+    "en": "How quickly does your brain detect danger when water goes down your windpipe?",
+    "es": "¿Qué tan rápido detecta tu cerebro el peligro cuando el agua entra en tu tráquea?",
+    "ar": "ما سرعة اكتشاف دماغك للخطر عندما يدخل الماء إلى قصباتك الهوائية؟"
   },
   "story_options": [
-    "Omurilik sıvısı",
-    "Kan plazması",
-    "Lenf sıvısı"
+    "Milisaniyeler içinde",
+    "Birkaç saniye sonra",
+    "Öksürdükten sonra"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#uyku",
-    "#beyin",
     "#sağlık",
-    "#biyoloji",
-    "#keşfet"
+    "#ilginçbilgiler",
+    "#vücudumuz",
+    "#keşfet",
+    "#öğrenme"
   ],
   "cta": {
-    "tr": "Bu bilgi beni uykusuz bırakır diyorsan beğen ve takip et!",
-    "en": "If this keeps you up tonight, hit like and follow!",
-    "es": "¡Si esto te quita el sueño, dale a me gusta y síguenos!",
-    "ar": "إذا كان هذا سيبقيك مستيقظاً tonight، اضغط إعجاب وتابعنا!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip et!",
+    "en": "Follow for more fascinating facts like this!",
+    "es": "¡Síguenos para más datos fascinantes como este!",
+    "ar": "تابعنا لمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
+    "surprise": 8,
     "shareability": 9,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "Science Advances / University of Rochester Medical Center",
-    "url": "https://www.urmc.rochester.edu/news/story/to-sleep-perchance-to-clean-a-systems-mechanisms-for-cleaning-waste-from-the-brain"
+    "name": "Anatomi ve Solunum Refleksleri Literatürü",
+    "url": "https://www.ncbi.nlm.nih.gov/books/NBK470534/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uykudayken Beynimizin Kendi Kendini Yıkadığını Biliyor muydunuz?",
+  "_topic": "Soluk Borumuza Kaçan Su Neden Öksürtür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-02T15:44:44.237593+00:00",
+  "generated_at": "2026-11-02T20:53:10.903645+00:00",
   "topic_guard_days": 180
 }

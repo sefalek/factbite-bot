@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "İnsan Vücudundaki En Güçlü Organ Hangisidir? Cevap Kalp Değil!",
-    "body": "Hayatımızın her anı çalışan kalbimiz çok güçlüdür ancak vücudumuzdaki en güçlü kas kalp değil, çenemizdeki masseter kasıdır. Bu kas, dişleriniz üzerine binen yaklaşık yüz kiloluk bir basıncı kolayca tek başına kaldırabilir."
+    "headline": "Parmak İziniz Gibi Eşsiz Olan Tek Bir Yeriniz Var",
+    "body": "Parmak izinizin dünyada sadece size özel olduğunu biliyorsunuz. Peki ya dil izinizin de tamamen size ait ve bir benzerinin daha olmadığını? Tıpkı parmak ucu çizgileriniz gibi, dilinizin üzerindeki pürüzler ve desenler de hayatta bir tanedir."
   },
   "en": {
-    "headline": "What is the Strongest Muscle in the Human Body? The Answer Isn't the Heart!",
-    "body": "Our heart works every second, but the strongest muscle in our body by weight is actually the masseter muscle in the jaw, capable of closing the teeth with a force of up to 200 pounds."
+    "headline": "You Have Only One Place As Unique As Your Fingerprint",
+    "body": "You know your fingerprint is one of a kind. But did you know your tongue print is also completely unique to you? Just like your fingertip patterns, the textures and contours on your tongue are entirely one of a kind."
   },
   "es": {
-    "headline": "¿Cuál es el músculo más fuerte del cuerpo humano? ¡La respuesta no es el corazón!",
-    "body": "Nuestro corazón trabaja sin parar, pero el músculo más fuerte del cuerpo en proporción a su tamaño es el masetero en la mandíbula, capaz de ejercer una presión enorme al morder."
+    "headline": "Tienes un solo lugar tan único como tus huellas dactilares",
+    "body": "Sabes que tu huella dactilar es única en el mundo. ¿Pero sabías que la impresión de tu lengua también te pertenece por completo y no hay otra igual? Al igual que las líneas de tus dedos, las texturas y patrones de tu lengua son únicos."
   },
   "ar": {
-    "headline": "ما هي أقوى عضلة في جسم الإنسان؟ الإجابة ليست القلب!",
-    "body": "قلبنا يعمل بلا توقف، لكن أقوى عضلة في جسمنا من حيث الوزن هي العضلة الماضغة في الفك، القادرة على تطبيق ضغط هائل عند الإغلاق."
+    "headline": "لديك مكان واحد فريد تماماً مثل بصمة إصبعك",
+    "body": "أنت تعلم أن بصمة إصبعك فريدة من نوعها. ولكن هل تعلم أن بصمة لسانك تخصك وحدك تماماً ولا يوجد مثيل لها؟ تماماً مثل خطوط أطراف أصابعك، فإن التضاريس والأنماط على لسانك فريدة من نوعها في الحياة."
   },
   "reel_hook": {
-    "tr": "Bütün gün çalışır ama vücudumuzdaki en güçlü kas o değildir! Peki hangisidir?",
-    "en": "It works all day, but it's not the strongest muscle in our body! Which one is it?",
-    "es": "¡Trabaja todo el día pero no es el músculo más fuerte! ¿Cuál es?",
-    "ar": "تعمل طوال اليوم ولكنها ليست أقوى عضلة في أجسامنا! فما هي؟"
+    "tr": "Parmak izinizden başka kimseye benzemeyen tek bir yeriniz daha olduğunu biliyor muydunuz?",
+    "en": "Did you know you have one other place that is completely unique, just like your fingerprint?",
+    "es": "¿Sabías que tienes otro lugar que es completamente único, al igual que tus huellas dactilares?",
+    "ar": "هل تعلم أن لديك مكاناً آخر فريداً تماماً، تماماً مثل بصمة إصبعك؟"
   },
   "story_question": {
-    "tr": "Vücudumuzdaki en güçlü kas nerededir?",
-    "en": "Where is the strongest muscle in our body located?",
-    "es": "¿Dónde se encuentra el músculo más fuerte de nuestro cuerpo?",
-    "ar": "أين تقع أقوى عضلة في جسمنا؟"
+    "tr": "Vücudumuzda parmak izi dışında tamamen benzersiz olan başka hangi organımız vardır?",
+    "en": "Which other part of our body is completely unique besides our fingerprints?",
+    "es": "¿Qué otra parte de nuestro cuerpo es completamente única además de nuestras huellas dactilares?",
+    "ar": "ما هو الجزء الآخر من جسمنا الفريد تماماً بصرف النظر عن بصمات أصابعنا؟"
   },
   "story_options": [
-    "Çene",
-    "Bacak",
-    "Kalp"
+    "Dil izi",
+    "Kulak memesinin şekli",
+    "Saç teli kökü"
   ],
   "hashtags": [
     "#FactBite",
-    "#VücutMucizeleri",
-    "#Bilim",
-    "#İlginçBilgiler",
-    "#Anatomi",
-    "#Sağlık"
+    "#bilgi",
+    "#ilginçbilgiler",
+    "#insan",
+    "#anatomi",
+    "#biliyormusunuz",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que escuche esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip etmeyi unutma!",
+    "en": "Don't forget to follow to not miss more amazing facts like this!",
+    "es": "¡No olvides seguirnos para no perderte más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لكي لا تفوتك المزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Library of Congress Science Reference",
-    "url": "https://www.loc.gov/everyday-mysteries/item/what-is-the-strongest-muscle-in-the-human-body/"
+    "name": "Anatomy & Human Body Research",
+    "url": ""
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "İnsan Vücudundaki En Güçlü Organ Hangisidir? Cevap Kalp Değil!",
+  "_topic": "Parmak İziniz Gibi Eşsiz Olan Tek Bir Yeriniz Var",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-01T23:56:44.531254+00:00",
+  "generated_at": "2026-11-02T13:30:55.666019+00:00",
   "topic_guard_days": 180
 }

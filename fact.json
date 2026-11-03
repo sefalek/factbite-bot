@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmaklarınız Soğukta Neden Sosis Gibi Şişer?",
-    "body": "Soğuk havalarda dışarı çıktığınızda ellerinizin aniden şiştiğini ve parmaklarınızı bükmenin zorlaştığını fark ettiniz mi? Bu durum vücudunuzun sizi korumak için devreye soktuğu akıllıca bir hayatta kalma taktiğidir. Hava aşırı soğuduğunda, beyin hayati organlarınızı sıcak tutmak için kanı merkeze, yani kalbe ve beyne doğru çeker. Parmaklardaki kılcal damarlar hızla daralırken, ellerinizin dokularında sıvı birikmeye başlar ve bu da o tanıdık şişkinlik hissini yaratır."
+    "headline": "Parmaklarınız Neden Klavyeye Gitmez",
+    "body": "Telefonu elinizden düşürmediğiniz halde klavyede sürekli aynı tuşları karıştırıyorsunuz değil mi? Bunun nedeni beyninizin ellerinizi değil, sadece harflerin yerini ezberlemiş olmasıdır. Yani parmaklarınız kendi başlarına birer küçük hafıza kartı gibi çalışır."
   },
   "en": {
-    "headline": "Why Do Your Fingers Swell Up in the Cold?",
-    "body": "Have you ever noticed your hands suddenly swelling and your fingers feeling stiff when you step out into the cold? This is actually a clever survival tactic your body uses to protect you. When the weather drops, your brain redirects blood toward your vital organs like the heart and brain to keep them warm. As the capillaries in your fingers rapidly constrict, fluid begins to pool in the tissues of your hands, creating that familiar swollen feeling."
+    "headline": "Why Your Fingers Forget the Keyboard",
+    "body": "Even though you use your phone constantly, you still typo on keyboards, right? That's because your brain memorizes letter positions, not your hand movements. Your fingers literally act like independent memory cards."
   },
   "es": {
-    "headline": "¿Por qué se te hinchan los dedos con el frío?",
-    "body": "¿Alguna vez has notado que tus manos se hinchan de repente y te cuesta doblar los dedos cuando sales al frío? En realidad, esta es una inteligente táctica de supervivencia que usa tu cuerpo para protegerte. Cuando la temperatura baja, el cerebro redirige la sangre hacia tus órganos vitales para mantenerlos calientes. A medida que los capilares de los dedos se contraen rápidamente, el líquido comienza a acumularse en los tejidos."
+    "headline": "Por qué tus dedos olvidan el teclado",
+    "body": "Aunque usas el teléfono todo el tiempo, sigues fallando en el teclado, ¿verdad? Eso es porque tu cerebro memoriza las posiciones de las letras, no tus manos. Tus dedos actúan como pequeñas tarjetas de memoria."
   },
   "ar": {
-    "headline": "لماذا تتورم أصابعك في البرد؟",
-    "body": "هل لاحظت يوماً أن يديك تتورمان فجأة وتشعر بصعوبة في ثني أصابعك عند الخروج إلى الطقس البارد؟ هذه في الواقع تكتيك ذكي للبقاء على قيد الحياة يستخدمه جسمك لحمايتك. عندما تنخفض درجات الحرارة، يوجه الدماغ الدم نحو أعضائك الحيوية لإبقائها دافئة، مما يتسبب في تجمع السوائل في أنسجة يديك."
+    "headline": "لماذا تنسى أصابعك لوحة المفاتيح",
+    "body": "على الرغم من أنك تستخدم هاتفك باستمرار، إلا أنك تخطئ في لوحة المفاتيح أليس كذلك؟ هذا لأن عقلك يحفظ مواقع الحروف وليس حركات يدك. أصابعك تعمل كبطاقات ذاكرة مستقلة."
   },
   "reel_hook": {
-    "tr": "Soğukta parmaklarınız neden bir anda sosis gibi şişer?",
-    "en": "Why do your fingers suddenly swell up like sausages in the cold?",
-    "es": "¿Por qué tus dedos de repente se hinchan como salchichas con el frío?",
-    "ar": "لماذا تتورم أصابعك فجأة كالسجق في البرد؟"
+    "tr": "Gün boyunca binlerce kelime yazıyorsunuz ama gözünüzü kapattığınızda o tuşları bulamayabilirsiniz.",
+    "en": "You type thousands of words daily, but close your eyes and you might fail to find those keys.",
+    "es": "Escribes miles de palabras al día, pero cierra los ojos y podrías no encontrar esas teclas.",
+    "ar": "تكتب آلاف الكلمات يومياً، ولكن أغمض عينيك وقد تفشل في العثور على تلك المفاتيح."
   },
   "story_question": {
-    "tr": "Soğuk havalarda ellerin şişmesinin asıl sebebi sence nedir?",
-    "en": "What do you think is the real reason hands swell in cold weather?",
-    "es": "¿Cuálcrees que es la verdadera razón por la que las manos se hinchan con el frío?",
-    "ar": "ما هو السبب الحقيقي برأيك لتورم اليدين في الطقس البارد؟"
+    "tr": "Klavyeye bakmadan yazabildiğinizi mi düşünüyorsunuz?",
+    "en": "Do you think you can type without looking at the keyboard?",
+    "es": "¿Crees que puedes escribir sin mirar el teclado?",
+    "ar": "هل تعتقد أنك تستطيع الكتابة دون النظر إلى لوحة المفاتيح؟"
   },
   "story_options": [
-    "Kanın merkeze çekilmesi",
-    "Su içmeyi unutmak",
-    "Havanın kuruluğu"
+    "Evet, gözü kapalı yazarım",
+    "Hayır, ara sıra bakarım",
+    "Sadece telefon klavyesinde"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#sağlık",
-    "#vücudumuz",
-    "#ilginçbilgiler",
     "#bilim",
-    "#keşfet"
+    "#beyin",
+    "#teknoloji",
+    "#ilginçbilgiler",
+    "#psikoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
+    "en": "If this is news to you, hit that like button!",
+    "es": "¡Si esto es nuevo para ti, dale me gusta!",
+    "ar": "إذا كانت هذه معلومات جديدة لك، اضغط إعجاب!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.2
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Healthline & Medical News Today",
-    "url": "https://www.medicalnewstoday.com/articles/swollen-fingers-in-cold-weather"
+    "name": "Cognitive Neuroscience of Motor Skills",
+    "url": "https://www.sciencedirect.com/topics/neuroscience/motor-skill"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmaklarınız Soğukta Neden Sosis Gibi Şişer?",
+  "_topic": "Parmaklarınız Neden Klavyeye Gitmez",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-03T22:28:20.446087+00:00",
+  "generated_at": "2026-11-03T23:54:36.091462+00:00",
   "topic_guard_days": 180
 }

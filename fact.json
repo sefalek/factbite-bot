@@ -1,51 +1,51 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Yıldırımın Düştüğü Kumlar Cam Heykele Dönüşür",
-    "body": "Bir yıldırım kumlu bir araziye çarptığında, sıcaklığı saniyeler içinde 1800 dereceyi bulur. Bu inanılmaz ısı, kum taneciklerini anında eriterek yer altında 'fulgurit' adı verilen, kökleri andıran cam tüpler oluşturur."
+    "headline": "Dil İzimiz Gibi Eşsiz Olan O Diğer Yerimiz",
+    "body": "Parmak izimizin benzersiz olduğunu hepimiz biliyoruz. Peki dil izimizin de en az parmak izimiz kadar kişiye özel ve taklit edilemez olduğunu duymuş muydunuz? Tıpkı parmaklar gibi, dilimizin üzerindeki doku ve izler de dünyadaki başka hiçbir insanla aynı değildir."
   },
   "en": {
-    "headline": "Sand Struck by Lightning Turns into Glass",
-    "body": "When lightning strikes sandy ground, its temperature reaches 1800 degrees in seconds. This incredible heat instantly melts the sand grains, creating root-like glass tubes underground called 'fulgurites'."
+    "headline": "The Unique Body Part As One-of-a-Kind As Your Fingerprint",
+    "body": "We all know fingerprints are unique. But did you know your tongue print is just as personal and unrepeatable? Just like fingers, the texture and patterns on our tongue are unlike anyone else's in the world."
   },
   "es": {
-    "headline": "La Arena Alcanzada por un Rayo se Convierte en Vidrio",
-    "body": "Cuando un rayo impacta en un terreno arenoso, su temperatura alcanza los 1800 grados en segundos. Este calor increíble funde al instante los granos de arena, creando tubos de vidrio subterráneos similares a raíces llamados 'fulguritas'."
+    "headline": "Otra parte de nuestro cuerpo tan única como la huella dactilar",
+    "body": "Todos sabemos que las huellas dactilares son únicas. Pero, ¿sabías que la impresión de tu lengua es igual de personal e irrepetible? Al igual que los dedos, la textura y las marcas de nuestra lengua no son iguales a las de ninguna otra persona en el mundo."
   },
   "ar": {
-    "headline": "الرمال التي يضربها البرق تتحول إلى زجاج",
-    "body": "عندما يضرب البرق أرضاً رملية، تصل حرارته إلى 1800 درجة في ثوانٍ. هذه الحرارة الهائلة تصهر حبات الرمل فوراً، لتشكل أنابيب زجاجية تحت الأرض تشبه الجذور تسمى 'الفولجوريت'."
+    "headline": "المنطقة الفريدة في جسمك التي تشبه بصمة إصبعك تماماً",
+    "body": "نعلم جميعاً أن بصمات الأصابع فريدة من نوعها. ولكن هل كنت تعلم أن بصمة لسانك شخصية ولا تتكرر أيضاً؟ مثل الأصابع تماماً، فإن الملمس والأنماط الموجودة على لساننا ليست مطابقة لأي شخص آخر في العالم."
   },
   "reel_hook": {
-    "tr": "Ayaklarınızın altında yıldırımın yaptığı gizli bir sanat eseri var.",
-    "en": "There is a hidden art piece made by lightning beneath your feet.",
-    "es": "Hay una obra de arte oculta hecha por un rayo bajo tus pies.",
-    "ar": "هناك قطعة فنية مخفية صنعها البرق تحت قدميك."
+    "tr": "Parmak izinizi biliyorsunuz, peki ya bu organınızın izini?",
+    "en": "You know your fingerprint, but what about this organ's print?",
+    "es": "Conoces tu huella dactilar, ¿pero qué hay de la huella de este órgano?",
+    "ar": "أنت تعرف بصمة إصبعك، فماذا عن بصمة هذا العضو؟"
   },
   "story_question": {
-    "tr": "Yıldırımın kuma çarpmasıyla oluşan bu cam tüplere ne ad verilir?",
-    "en": "What are these glass tubes formed by lightning striking sand called?",
-    "es": "¿Cómo se llaman estos tubos de vidrio formados por el impacto de un rayo en la arena?",
-    "ar": "ما ماذا تسمى هذه الأنابيب الزجاجية المتكونة من ضرب البرق للرمال؟"
+    "tr": "Aşağıdaki vücut parçalarından hangisinin izi de parmak izi gibi tamamen benzersizdir?",
+    "en": "Which of the following body parts has a print that is completely unique, just like a fingerprint?",
+    "es": "¿Cuál de las siguientes partes del cuerpo tiene una huella completamente única, al igual que la huella dactilar?",
+    "ar": "أي من أجزاء الجسم التالية له بصمة فريدة تماماً تماماً مثل بصمة الإصبع؟"
   },
   "story_options": [
-    "Fulgurit",
-    "Kristalit",
-    "Obsidyen"
+    "Dil",
+    "Kulak memesinin ucu",
+    "Dirsek derisi"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
-    "#yıldırım",
+    "#bilgi",
     "#ilginçbilgiler",
+    "#vücudumuz",
+    "#bilim",
     "#keşfet",
-    "#fizik"
+    "#biliyormusunuz"
   ],
   "cta": {
     "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
     "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
     "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
@@ -56,14 +56,14 @@
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Journal of Forensic Sciences",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Yıldırımın Düştüğü Kumlar Cam Heykele Dönüşür",
+  "_topic": "Dil İzimiz Gibi Eşsiz Olan O Diğer Yerimiz",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-03T02:41:30.444443+00:00",
+  "generated_at": "2026-11-03T12:49:02.404761+00:00",
   "topic_guard_days": 180
 }

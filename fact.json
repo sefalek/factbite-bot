@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Diliniz Gibi Benzersiz Bir Organınız Daha Var",
-    "body": "Parmak izinizin eşsiz olduğunu biliyorsunuz. Peki ya dil izinizin de tıpkı parmak izi gibi tamamen size özel olduğunu? Hayatta hiç kimsenin dil dokusu bir diğerininkine benzemez."
+    "headline": "Dünyanın En Yalnız Gezegeni",
+    "body": "Güneş sistemimizde öyle bir gezegen var ki, etrafında milyarlarca kilometre boyunca hiçbir komşusu yok. Bilim insanları bu yalnız devi keşfettiklerinde şoke oldu."
   },
   "en": {
-    "headline": "You Have Another Organ As Unique As Your Tongue",
-    "body": "You know your fingerprints are unique. But did you know your tongue print is also completely unique to you? No two tongue textures in the world are alike."
+    "headline": "The Loneliest Planet in the Universe",
+    "body": "There is a planet in our solar system with no neighbors for billions of kilometers. Scientists were shocked when they discovered this lonely giant."
   },
   "es": {
-    "headline": "Tienes otro órgano tan único como tu lengua",
-    "body": "Sabes que tus huellas dactilares son únicas. ¿Pero sabías que la huella de tu lengua también es completamente tuya? No hay dos texturas de lengua iguales en el mundo."
+    "headline": "El Planeta Más Solitario",
+    "body": "Hay un planeta en nuestro sistema solar sin vecinos durante miles de millones de kilómetros. Los científicos se quedaron en shock al descubrir este gigante solitario."
   },
   "ar": {
-    "headline": "لديك عضو آخر فريد من نوعه مثل لسانك",
-    "body": "أنت تعلم أن بصمات أصابعك فريدة من نوعها. ولكن هل كنت تعلم أن بصمة لسانك تخصك وحدك تماماً؟ لا توجد بصمتا لسان متطابقتان في العالم."
+    "headline": "الكوكب الأكثر وحدة في الكون",
+    "body": "هناك كوكب في نظامنا الشمسي ليس له جيران لملايين الكيلومترات. لقد صُدم العلماء عندما اكتشفوا هذا العملاق الوحيد."
   },
   "reel_hook": {
-    "tr": "Parmak izinizi unutun, vücudunuzda çok daha tuhaf ve gizli bir imzanız daha var.",
-    "en": "Forget your fingerprints, your body hides an even weirder and more secret signature.",
-    "es": "Olvida tus huellas dactilares, tu cuerpo esconde una firma aún más extraña y secreta.",
-    "ar": "انسا بصمات أصابعك، فجسمك يخفي توقيعاً أغرب وأكثر سرية."
+    "tr": "Güneş sistemindeki en yalnız yeri biliyor musun?",
+    "en": "Do you know the loneliest place in the solar system?",
+    "es": "¿Conoces el lugar más solitario del sistema solar?",
+    "ar": "هل تعلم ما هو المكان الأكثر وحدة في النظام الشمسي؟"
   },
   "story_question": {
-    "tr": "Vücudumuzda parmak izi dışında tamamen benzersiz olan başka hangi organımız var?",
-    "en": "Which other body part is completely unique besides our fingerprints?",
-    "es": "¿Qué otra parte del cuerpo es completamente única además de nuestras huellas dactilares?",
-    "ar": "ما هو الجزء الآخر من الجسم الفريد تماماً بصمات أصابعنا؟"
+    "tr": "Güneş sistemindeki bu en yalnız gezegen hangisi olabilir?",
+    "en": "Which could be this loneliest planet in the solar system?",
+    "es": "¿Cuál podría ser este planeta más solitario del sistema solar?",
+    "ar": "ماذا يمكن أن يكون هذا الكوكب الأكثر وحدة في النظام الشمسي؟"
   },
   "story_options": [
-    "Dil",
-    "Kulak memesinin şekli",
-    "Diş yapısı"
+    "Neptün",
+    "Uranüs",
+    "Plüton"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#insan",
     "#bilim",
-    "#keşfet",
-    "#biliyormusunuz"
+    "#uzay",
+    "#gezegenler",
+    "#keşif",
+    "#astronomi",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla uzay sırrı için takipte kal!",
+    "en": "Stay tuned for more space secrets like this!",
+    "es": "¡Mantente atento a más secretos espaciales como este!",
+    "ar": "ترقبوا المزيد من أسرار الفضاء مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 8.7
   },
   "source": {
-    "name": "National Library of Medicine",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/"
+    "name": "NASA Solar System Exploration",
+    "url": "https://solarsystem.nasa.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Diliniz Gibi Benzersiz Bir Organınız Daha Var",
+  "_topic": "Dünyanın En Yalnız Gezegeni",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-03T18:54:18.173712+00:00",
+  "generated_at": "2026-11-03T20:07:12.903299+00:00",
   "topic_guard_days": 180
 }

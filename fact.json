@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Neden Hiçbir Zaman Yönünü Kaybetmez?",
-    "body": "Göç eden kuşlar binlerce kilometre boyunca uçarken pusula kullanmazlar. Çünkü onların gözlerinde dünyadaki manyetik alanı görmelerini sağlayan özel bir protein vardır! Yani gökyüzündeki o muazzam yolculukta, aslında yönü bizzat gözleriyle görürler."
+    "headline": "Parmaklarınız Soğukta Neden Sosis Gibi Şişer?",
+    "body": "Soğuk havalarda dışarı çıktığınızda ellerinizin aniden şiştiğini ve parmaklarınızı bükmenin zorlaştığını fark ettiniz mi? Bu durum vücudunuzun sizi korumak için devreye soktuğu akıllıca bir hayatta kalma taktiğidir. Hava aşırı soğuduğunda, beyin hayati organlarınızı sıcak tutmak için kanı merkeze, yani kalbe ve beyne doğru çeker. Parmaklardaki kılcal damarlar hızla daralırken, ellerinizin dokularında sıvı birikmeye başlar ve bu da o tanıdık şişkinlik hissini yaratır."
   },
   "en": {
-    "headline": "Why Birds Never Lose Their Way?",
-    "body": "Migrating birds do not use compasses while flying thousands of kilometers. Because their eyes contain a special protein that allows them to see the Earth's magnetic field! So on that huge journey in the sky, they actually see the direction with their own eyes."
+    "headline": "Why Do Your Fingers Swell Up in the Cold?",
+    "body": "Have you ever noticed your hands suddenly swelling and your fingers feeling stiff when you step out into the cold? This is actually a clever survival tactic your body uses to protect you. When the weather drops, your brain redirects blood toward your vital organs like the heart and brain to keep them warm. As the capillaries in your fingers rapidly constrict, fluid begins to pool in the tissues of your hands, creating that familiar swollen feeling."
   },
   "es": {
-    "headline": "¿Por qué las aves nunca pierden el rumbo?",
-    "body": "Las aves migratorias no usan brújulas mientras vuelan miles de kilómetros. ¡Porque sus ojos contienen una proteína especial que les permite ver el campo magnético de la Tierra! Así que en ese enorme viaje por el cielo, realmente ven la dirección con sus propios ojos."
+    "headline": "¿Por qué se te hinchan los dedos con el frío?",
+    "body": "¿Alguna vez has notado que tus manos se hinchan de repente y te cuesta doblar los dedos cuando sales al frío? En realidad, esta es una inteligente táctica de supervivencia que usa tu cuerpo para protegerte. Cuando la temperatura baja, el cerebro redirige la sangre hacia tus órganos vitales para mantenerlos calientes. A medida que los capilares de los dedos se contraen rápidamente, el líquido comienza a acumularse en los tejidos."
   },
   "ar": {
-    "headline": "لماذا لا تضيع الطيور طريقها أبداً؟",
-    "body": "الطيور المهاجرة لا تستخدم البوصلة أثناء الطيران لمسافات طويلة. لأن عيونها تحتوي على بروتين خاص يتيح لها رؤية المجال المغناطيسي للأرض! لذا في تلك الرحلة الهائلة في السماء، فإنها ترى الاتجاه حقاً بأعينها."
+    "headline": "لماذا تتورم أصابعك في البرد؟",
+    "body": "هل لاحظت يوماً أن يديك تتورمان فجأة وتشعر بصعوبة في ثني أصابعك عند الخروج إلى الطقس البارد؟ هذه في الواقع تكتيك ذكي للبقاء على قيد الحياة يستخدمه جسمك لحمايتك. عندما تنخفض درجات الحرارة، يوجه الدماغ الدم نحو أعضائك الحيوية لإبقائها دافئة، مما يتسبب في تجمع السوائل في أنسجة يديك."
   },
   "reel_hook": {
-    "tr": "Göç eden kuşların pusula kullanmadığını biliyor muydunuz? Aslında yönü doğrudan görürler!",
-    "en": "Did you know migrating birds don't use compasses? They actually see the direction directly!",
-    "es": "¿Sabías que las aves migratorias no usan brújulas? ¡De hecho, ven la dirección directamente!",
-    "ar": "هل تعلم أن الطيور المهاجرة لا تستخدم البوصلة؟ إنها ترى الاتجاه مباشرة!"
+    "tr": "Soğukta parmaklarınız neden bir anda sosis gibi şişer?",
+    "en": "Why do your fingers suddenly swell up like sausages in the cold?",
+    "es": "¿Por qué tus dedos de repente se hinchan como salchichas con el frío?",
+    "ar": "لماذا تتورم أصابعك فجأة كالسجق في البرد؟"
   },
   "story_question": {
-    "tr": "Kuşların dünyadaki manyetik alanı görmesini sağlayan şey nedir?",
-    "en": "What allows birds to see the Earth's magnetic field?",
-    "es": "¿Qué permite a las aves ver el campo magnético de la Tierra?",
-    "ar": "ما الذي يسمح للطيور برؤية المجال المغناطيسي للأرض؟"
+    "tr": "Soğuk havalarda ellerin şişmesinin asıl sebebi sence nedir?",
+    "en": "What do you think is the real reason hands swell in cold weather?",
+    "es": "¿Cuálcrees que es la verdadera razón por la que las manos se hinchan con el frío?",
+    "ar": "ما هو السبب الحقيقي برأيك لتورم اليدين في الطقس البارد؟"
   },
   "story_options": [
-    "Özel bir protein",
-    "Manyetik tüyler",
-    "Keskin bir koku"
+    "Kanın merkeze çekilmesi",
+    "Su içmeyi unutmak",
+    "Havanın kuruluğu"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#doğa",
-    "#kuşlar",
+    "#bilgi",
+    "#sağlık",
+    "#vücudumuz",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#biyoloji"
+    "#bilim",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Healthline & Medical News Today",
+    "url": "https://www.medicalnewstoday.com/articles/swollen-fingers-in-cold-weather"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Neden Hiçbir Zaman Yönünü Kaybetmez?",
+  "_topic": "Parmaklarınız Soğukta Neden Sosis Gibi Şişer?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-03T20:58:48.657140+00:00",
+  "generated_at": "2026-11-03T22:28:20.446087+00:00",
   "topic_guard_days": 180
 }

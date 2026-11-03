@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Cam Aslında Katı Değildir Bilgisi Neden Yanlış?",
-    "body": "Eski binaların pencerelerinin alt kısmı kalınlaşır ya da camlar aşağıya doğru akar diye biliriz. Ama fizikçiler bunun büyük bir şehir efsanesi olduğunu söylüyor. Cam, atomik yapısı düzensiz olduğu için tıpkı sıvılar gibi görünür ama aslında son derece yavaş akan bir sıvı değil, amorf bir katıdır."
+    "headline": "Yıldırımın Düştüğü Kumlar Cam Heykele Dönüşür",
+    "body": "Bir yıldırım kumlu bir araziye çarptığında, sıcaklığı saniyeler içinde 1800 dereceyi bulur. Bu inanılmaz ısı, kum taneciklerini anında eriterek yer altında 'fulgurit' adı verilen, kökleri andıran cam tüpler oluşturur."
   },
   "en": {
-    "headline": "Why Is the 'Glass is a Slow-Flowing Liquid' Myth Wrong?",
-    "body": "We often hear that old windows get thicker at the bottom because glass slowly flows down over time. But physicists say this is a massive urban legend. Because of its disordered atomic structure, glass looks like a liquid, but it is actually an amorphous solid, not a slow-flowing liquid."
+    "headline": "Sand Struck by Lightning Turns into Glass",
+    "body": "When lightning strikes sandy ground, its temperature reaches 1800 degrees in seconds. This incredible heat instantly melts the sand grains, creating root-like glass tubes underground called 'fulgurites'."
   },
   "es": {
-    "headline": "¿Por qué es falso que el vidrio sea un líquido de flujo lento?",
-    "body": "Se suele decir que los vidrios de edificios antiguos se engrosan abajo porque fluyen con el tiempo. Los físicos dicen que es un mito urbano. Debido a su estructura atómica desordenada parece un líquido, pero en realidad es un sólido amoroso y rígido."
+    "headline": "La Arena Alcanzada por un Rayo se Convierte en Vidrio",
+    "body": "Cuando un rayo impacta en un terreno arenoso, su temperatura alcanza los 1800 grados en segundos. Este calor increíble funde al instante los granos de arena, creando tubos de vidrio subterráneos similares a raíces llamados 'fulguritas'."
   },
   "ar": {
-    "headline": "لماذا تعتبر خرافة أن الزجاج سائل بطيء التدفق خاطئة؟",
-    "body": "نسمع غالباً أن النوافذ القديمة تصبح أسمك في الأسفل لأن الزجاج يتدفق ببطء. لكن الفيزيائيين يقولون إنها خرافة حضرية كبرى. بسبب بنيته الذرية غير العشوائية يبدو كالسائل، لكنه في الواقع صلب غير متبلور."
+    "headline": "الرمال التي يضربها البرق تتحول إلى زجاج",
+    "body": "عندما يضرب البرق أرضاً رملية، تصل حرارته إلى 1800 درجة في ثوانٍ. هذه الحرارة الهائلة تصهر حبات الرمل فوراً، لتشكل أنابيب زجاجية تحت الأرض تشبه الجذور تسمى 'الفولجوريت'."
   },
   "reel_hook": {
-    "tr": "Eski camların aşağıya doğru aktığı yalanı nasıl yayıldı?",
-    "en": "How did the lie that old glass flows downward spread?",
-    "es": "¿Cómo se extendió la mentira de que el vidrio viejo fluye hacia abajo?",
-    "ar": "كيف انتشرت كذبة أن الزجاج القديم يتدفق إلى الأسفل؟"
+    "tr": "Ayaklarınızın altında yıldırımın yaptığı gizli bir sanat eseri var.",
+    "en": "There is a hidden art piece made by lightning beneath your feet.",
+    "es": "Hay una obra de arte oculta hecha por un rayo bajo tus pies.",
+    "ar": "هناك قطعة فنية مخفية صنعها البرق تحت قدميك."
   },
   "story_question": {
-    "tr": "Cam aslında tam olarak hangi fiziksel duruma girer?",
-    "en": "Which physical state does glass actually belong to?",
-    "es": "¿A qué estado físico pertenece realmente el vidrio?",
-    "ar": "إلى أي حالة فيزيائية ينتمي الزجاج حقاً؟"
+    "tr": "Yıldırımın kuma çarpmasıyla oluşan bu cam tüplere ne ad verilir?",
+    "en": "What are these glass tubes formed by lightning striking sand called?",
+    "es": "¿Cómo se llaman estos tubos de vidrio formados por el impacto de un rayo en la arena?",
+    "ar": "ما ماذا تسمى هذه الأنابيب الزجاجية المتكونة من ضرب البرق للرمال؟"
   },
   "story_options": [
-    "Amorf katı",
-    "Aşırı akışkan sıvı",
-    "Akışkan gaz"
+    "Fulgurit",
+    "Kristalit",
+    "Obsidyen"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#fizik",
+    "#doğa",
+    "#yıldırım",
     "#ilginçbilgiler",
-    "#cam",
-    "#gerçekler"
+    "#keşfet",
+    "#fizik"
   ],
   "cta": {
-    "tr": "Bunu yanlış bilen arkadaşına gönder!",
-    "en": "Send this to a friend who gets this wrong!",
-    "es": "¡Envíaselo a un amigo que se equivoque con esto!",
-    "ar": "أرسل هذا لصديق مخطئ في هذه المعلومة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "American Institute of Physics",
-    "url": "https://www.aip.org"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Cam Aslında Katı Değildir Bilgisi Neden Yanlış?",
+  "_topic": "Yıldırımın Düştüğü Kumlar Cam Heykele Dönüşür",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-03T01:31:03.687296+00:00",
+  "generated_at": "2026-11-03T02:41:30.444443+00:00",
   "topic_guard_days": 180
 }

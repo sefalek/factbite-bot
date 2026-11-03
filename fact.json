@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dil İzimiz Gibi Eşsiz Olan O Diğer Yerimiz",
-    "body": "Parmak izimizin benzersiz olduğunu hepimiz biliyoruz. Peki dil izimizin de en az parmak izimiz kadar kişiye özel ve taklit edilemez olduğunu duymuş muydunuz? Tıpkı parmaklar gibi, dilimizin üzerindeki doku ve izler de dünyadaki başka hiçbir insanla aynı değildir."
+    "headline": "Okyanusun 4 Bin Metre Dibinde Hiç Beklemediğiniz Bir Şey Var",
+    "body": "Deniz tabanında binlerce kilometre boyunca uzanan devasa su altı dağ sıradağları, Everest'ten çok daha büyüktür. Dünyanın en uzun sıradağı olan Orto-Okyanus Sırtı sistemi, gezegenimizin kara yüzeyindeki tüm dağları adeta gölgede bırakır."
   },
   "en": {
-    "headline": "The Unique Body Part As One-of-a-Kind As Your Fingerprint",
-    "body": "We all know fingerprints are unique. But did you know your tongue print is just as personal and unrepeatable? Just like fingers, the texture and patterns on our tongue are unlike anyone else's in the world."
+    "headline": "There Is Something Unexpected 4,000 Meters Deep in the Ocean",
+    "body": "The massive underwater mountain ranges stretching for thousands of kilometers along the ocean floor are much larger than Everest. The Mid-Ocean Ridge system, the longest mountain range on Earth, completely dwarfs all mountains on our planet's land surface."
   },
   "es": {
-    "headline": "Otra parte de nuestro cuerpo tan única como la huella dactilar",
-    "body": "Todos sabemos que las huellas dactilares son únicas. Pero, ¿sabías que la impresión de tu lengua es igual de personal e irrepetible? Al igual que los dedos, la textura y las marcas de nuestra lengua no son iguales a las de ninguna otra persona en el mundo."
+    "headline": "Hay algo inesperado a 4.000 metros de profundidad en el océano",
+    "body": "Las masivas cordilleras submarinas que se extienden por miles de kilómetros en el fondo oceánico son mucho más grandes que el Everest. El sistema de la dorsal mesooceánica, la cordillera más larga de la Tierra, eclipsa por completo a todas las montañas de la superficie terrestre."
   },
   "ar": {
-    "headline": "المنطقة الفريدة في جسمك التي تشبه بصمة إصبعك تماماً",
-    "body": "نعلم جميعاً أن بصمات الأصابع فريدة من نوعها. ولكن هل كنت تعلم أن بصمة لسانك شخصية ولا تتكرر أيضاً؟ مثل الأصابع تماماً، فإن الملمس والأنماط الموجودة على لساننا ليست مطابقة لأي شخص آخر في العالم."
+    "headline": "هناك شيء غير متوقع على عمق 4000 متر في المحيط",
+    "body": "السلاسل الجبلية الضخمة تحت الماء التي تمتد لم آلاف الكيلومترات في قاع المحيط أكبر بكثير من إيفرست. نظام سلسلة منتصف المحيط، وهو أطول سلسلة جبلية على الأرض، يطغى تمامًا على جميع الجبال على سطح كوكبنا."
   },
   "reel_hook": {
-    "tr": "Parmak izinizi biliyorsunuz, peki ya bu organınızın izini?",
-    "en": "You know your fingerprint, but what about this organ's print?",
-    "es": "Conoces tu huella dactilar, ¿pero qué hay de la huella de este órgano?",
-    "ar": "أنت تعرف بصمة إصبعك، فماذا عن بصمة هذا العضو؟"
+    "tr": "Dünyanın en uzun dağ sıradağlarının karada olmadığını biliyor muydunuz?",
+    "en": "Did you know that the longest mountain range on Earth is not on land?",
+    "es": "¿Sabías que la cordillera más larga de la Tierra no está en tierra firme?",
+    "ar": "هل تعلم أن أطول سلسلة جبلية على الأرض ليست على اليابسة؟"
   },
   "story_question": {
-    "tr": "Aşağıdaki vücut parçalarından hangisinin izi de parmak izi gibi tamamen benzersizdir?",
-    "en": "Which of the following body parts has a print that is completely unique, just like a fingerprint?",
-    "es": "¿Cuál de las siguientes partes del cuerpo tiene una huella completamente única, al igual que la huella dactilar?",
-    "ar": "أي من أجزاء الجسم التالية له بصمة فريدة تماماً تماماً مثل بصمة الإصبع؟"
+    "tr": "Dünyanın en uzun su altı dağ sıradağlarının toplam uzunluğu yaklaşık ne kadardır?",
+    "en": "What is the approximate total length of the Earth's longest underwater mountain range?",
+    "es": "¿Cuál es la longitud total aproximada de la cordillera submarina más larga de la Tierra?",
+    "ar": "ما هو الطول الإجمالي التقريبي لأطول سلسلة جبلية تحت الماء على الأرض؟"
   },
   "story_options": [
-    "Dil",
-    "Kulak memesinin ucu",
-    "Dirsek derisi"
+    "10.000 km",
+    "65.000 km",
+    "120.000 km"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#vücudumuz",
+    "#okyanus",
     "#bilim",
-    "#keşfet",
-    "#biliyormusunuz"
+    "#coğrafya",
+    "#dünya",
+    "#keşif",
+    "#doğa"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Follow for more amazing facts like this!",
+    "es": "¡Sígueme para más datos asombrosos como este!",
+    "ar": "تابعنا للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Journal of Forensic Sciences",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/"
+    "name": "National Oceanic and Atmospheric Administration",
+    "url": "https://oceanexplorer.noaa.gov/facts/mid-ocean-ridge.html"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dil İzimiz Gibi Eşsiz Olan O Diğer Yerimiz",
+  "_topic": "Okyanusun 4 Bin Metre Dibinde Hiç Beklemediğiniz Bir Şey Var",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-03T12:49:02.404761+00:00",
+  "generated_at": "2026-11-03T16:22:40.637151+00:00",
   "topic_guard_days": 180
 }

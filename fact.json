@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmaklarınız Neden Klavyeye Gitmez",
-    "body": "Telefonu elinizden düşürmediğiniz halde klavyede sürekli aynı tuşları karıştırıyorsunuz değil mi? Bunun nedeni beyninizin ellerinizi değil, sadece harflerin yerini ezberlemiş olmasıdır. Yani parmaklarınız kendi başlarına birer küçük hafıza kartı gibi çalışır."
+    "headline": "Kuşlar Nasıl Oluyor Da Bulutların Arasında Donmuyor?",
+    "body": "Gökyüzünün binlerce metre yüksekliğinde sıcaklık sıfırın altına düşer. Ancak kuşlar tüylerinin altındaki özel hava cepleri sayesinde adeta doğal bir termal mont giyerler. Bu sistem, dondurucu soğukta bile vücut ısılarını mükemmel şekilde korumalarını sağlar."
   },
   "en": {
-    "headline": "Why Your Fingers Forget the Keyboard",
-    "body": "Even though you use your phone constantly, you still typo on keyboards, right? That's because your brain memorizes letter positions, not your hand movements. Your fingers literally act like independent memory cards."
+    "headline": "How Do Birds Never Freeze High Up in the Clouds?",
+    "body": "High in the sky, temperatures drop far below freezing. Yet birds wear a natural thermal jacket thanks to special air pockets trapped beneath their feathers. This system keeps their body heat perfectly insulated even in bitter cold."
   },
   "es": {
-    "headline": "Por qué tus dedos olvidan el teclado",
-    "body": "Aunque usas el teléfono todo el tiempo, sigues fallando en el teclado, ¿verdad? Eso es porque tu cerebro memoriza las posiciones de las letras, no tus manos. Tus dedos actúan como pequeñas tarjetas de memoria."
+    "headline": "¿Cómo hacen las aves para no congelarse en las alturas?",
+    "body": "A gran altura, la temperatura cae bajo cero. Sin embargo, las aves llevan una chaqueta térmica natural gracias a cámaras de aire bajo sus plumas. Este sistema mantiene su calor corporal perfectamente aislado incluso en el frío extremo."
   },
   "ar": {
-    "headline": "لماذا تنسى أصابعك لوحة المفاتيح",
-    "body": "على الرغم من أنك تستخدم هاتفك باستمرار، إلا أنك تخطئ في لوحة المفاتيح أليس كذلك؟ هذا لأن عقلك يحفظ مواقع الحروف وليس حركات يدك. أصابعك تعمل كبطاقات ذاكرة مستقلة."
+    "headline": "كيف لا تتجمد الطيور وهي تحلق في السحب العالية؟",
+    "body": "في أعالي السماء، تنخفض درجات الحرارة بشكل كبير. لكن الطيور ترتدي سترة حرارية طبيعية بفضل جيوب هوائية خاصة تحت ريشها، مما يحافظ على حرارتها تماماً حتى في البرد القارس."
   },
   "reel_hook": {
-    "tr": "Gün boyunca binlerce kelime yazıyorsunuz ama gözünüzü kapattığınızda o tuşları bulamayabilirsiniz.",
-    "en": "You type thousands of words daily, but close your eyes and you might fail to find those keys.",
-    "es": "Escribes miles de palabras al día, pero cierra los ojos y podrías no encontrar esas teclas.",
-    "ar": "تكتب آلاف الكلمات يومياً، ولكن أغمض عينيك وقد تفشل في العثور على تلك المفاتيح."
+    "tr": "Binlerce metre yükseklikte uçan kuşlar neden donmuyor?",
+    "en": "Why don't birds freeze when flying thousands of meters high?",
+    "es": "¿Por qué las aves no se congelan volando a miles de metros?",
+    "ar": "لماذا لا تتجمد الطيور أثناء الطيران على ارتفاعات شاهقة؟"
   },
   "story_question": {
-    "tr": "Klavyeye bakmadan yazabildiğinizi mi düşünüyorsunuz?",
-    "en": "Do you think you can type without looking at the keyboard?",
-    "es": "¿Crees que puedes escribir sin mirar el teclado?",
-    "ar": "هل تعتقد أنك تستطيع الكتابة دون النظر إلى لوحة المفاتيح؟"
+    "tr": "Kuşların yüksekte donmamasını sağlayan ana unsur nedir?",
+    "en": "What is the main factor keeping birds from freezing at high altitudes?",
+    "es": "¿Cuál es el factor principal que evita que las aves se congelen?",
+    "ar": "ما هو العامل الرئيسي الذي يمنع الطيور من التجمد في المرتفعات؟"
   },
   "story_options": [
-    "Evet, gözü kapalı yazarım",
-    "Hayır, ara sıra bakarım",
-    "Sadece telefon klavyesinde"
+    "Özel tüy altı hava cepleri",
+    "Çok hızlı kanat çırpma",
+    "Sürekli sıcak bölgelere göç"
   ],
   "hashtags": [
     "#FactBite",
+    "#kuşlar",
+    "#doğa",
     "#bilim",
-    "#beyin",
-    "#teknoloji",
     "#ilginçbilgiler",
-    "#psikoloji"
+    "#hayvanlaralemi"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "If this is news to you, hit that like button!",
-    "es": "¡Si esto es nuevo para ti, dale me gusta!",
-    "ar": "إذا كانت هذه معلومات جديدة لك، اضغط إعجاب!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "Cognitive Neuroscience of Motor Skills",
-    "url": "https://www.sciencedirect.com/topics/neuroscience/motor-skill"
+    "name": "Ornithology and Avian Biology Insights",
+    "url": "https://www.sciencedaily.com/news/plants_animals/birds/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmaklarınız Neden Klavyeye Gitmez",
+  "_topic": "Kuşlar Nasıl Oluyor Da Bulutların Arasında Donmuyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-03T23:54:36.091462+00:00",
+  "generated_at": "2026-11-04T13:04:02.553475+00:00",
   "topic_guard_days": 180
 }

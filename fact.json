@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Oluyor Da Bulutların Arasında Donmuyor?",
-    "body": "Gökyüzünün binlerce metre yüksekliğinde sıcaklık sıfırın altına düşer. Ancak kuşlar tüylerinin altındaki özel hava cepleri sayesinde adeta doğal bir termal mont giyerler. Bu sistem, dondurucu soğukta bile vücut ısılarını mükemmel şekilde korumalarını sağlar."
+    "headline": "Gözlerini Kapatınca Gördüğün O Işıklar Aslında Ne?",
+    "body": "Gözlerini kapattığında veya karanlıkta gördüğün o rengarenk kıpır kıpır desenler var ya... Onların dış dünyayla hiçbir ilgisi yok. Beynimizin görsel korteksi, dışarıdan hiç ışık almadığında bile kendi kendine sinyal üretmeye devam eder. Yani aslında gördüğün o parlamalar, beyninin kendi karanlığında yarattığı içsel birer ışıktır."
   },
   "en": {
-    "headline": "How Do Birds Never Freeze High Up in the Clouds?",
-    "body": "High in the sky, temperatures drop far below freezing. Yet birds wear a natural thermal jacket thanks to special air pockets trapped beneath their feathers. This system keeps their body heat perfectly insulated even in bitter cold."
+    "headline": "What Are Those Lights You See When You Close Your Eyes?",
+    "body": "Those colorful, moving patterns you see when you close your eyes in the dark have nothing to do with the outside world. Your brain's visual cortex keeps generating signals even when no light comes in. So those flashes are actually internal light shows created by your brain in its own darkness."
   },
   "es": {
-    "headline": "¿Cómo hacen las aves para no congelarse en las alturas?",
-    "body": "A gran altura, la temperatura cae bajo cero. Sin embargo, las aves llevan una chaqueta térmica natural gracias a cámaras de aire bajo sus plumas. Este sistema mantiene su calor corporal perfectamente aislado incluso en el frío extremo."
+    "headline": "¿Qué son esas luces que ves cuando cierras los ojos?",
+    "body": "Esos patrones coloridos y en movimiento que ves cuando cierras los ojos en la oscuridad no tienen nada que ver con el mundo exterior. La corteza visual de tu cerebro sigue generando señales incluso sin luz. Así que esos destellos son en realidad luces internas creadas por tu cerebro en su propia oscuridad."
   },
   "ar": {
-    "headline": "كيف لا تتجمد الطيور وهي تحلق في السحب العالية؟",
-    "body": "في أعالي السماء، تنخفض درجات الحرارة بشكل كبير. لكن الطيور ترتدي سترة حرارية طبيعية بفضل جيوب هوائية خاصة تحت ريشها، مما يحافظ على حرارتها تماماً حتى في البرد القارس."
+    "headline": "ما هي تلك الأضواء التي تراها عندما تغلق عينيك؟",
+    "body": "تلك الأنماط الملونة والمتحركة التي تراها عندما تغلق عينيك في الظلام ليس لها علاقة بالعالم الخارجي. تستمر القشرة البصرية في دماغك في توليد إشارات حتى عندما لا يدخل أي ضوء. لذا فإن تلك الوميضات هي في الواقع عروض ضوئية داخلية يخلقها دماغك في ظلامه الخاص."
   },
   "reel_hook": {
-    "tr": "Binlerce metre yükseklikte uçan kuşlar neden donmuyor?",
-    "en": "Why don't birds freeze when flying thousands of meters high?",
-    "es": "¿Por qué las aves no se congelan volando a miles de metros?",
-    "ar": "لماذا لا تتجمد الطيور أثناء الطيران على ارتفاعات شاهقة؟"
+    "tr": "Gözlerini kapattığında gördüğün o renkler dışarıdan gelmiyor...",
+    "en": "Those colors you see when you close your eyes aren't coming from outside...",
+    "es": "Esos colores que ves cuando cierras los ojos no vienen del exterior...",
+    "ar": "تلك الألوان التي تراها عندما تغلق عينيك لا تأتي من الخارج..."
   },
   "story_question": {
-    "tr": "Kuşların yüksekte donmamasını sağlayan ana unsur nedir?",
-    "en": "What is the main factor keeping birds from freezing at high altitudes?",
-    "es": "¿Cuál es el factor principal que evita que las aves se congelen?",
-    "ar": "ما هو العامل الرئيسي الذي يمنع الطيور من التجمد في المرتفعات؟"
+    "tr": "Gözlerinizi kapattığınızda karanlıkta gördüğünüz bu görsel desenlerin bilimsel adı nedir?",
+    "en": "What is the scientific name for these visual patterns seen in the dark when you close your eyes?",
+    "es": "¿Cuál es el nombre científico de estos Patrones visuales que se ven en la oscuridad?",
+    "ar": "ما هو الاسم العلمي لهذه الأنماط المرئية التي تظهر في الظلام؟"
   },
   "story_options": [
-    "Özel tüy altı hava cepleri",
-    "Çok hızlı kanat çırpma",
-    "Sürekli sıcak bölgelere göç"
+    "Fosfen",
+    "Retinopati",
+    "Optik İllüzyon"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
     "#bilim",
+    "#beyin",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#hayvanlaralemi"
+    "#psikoloji",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more fascinating facts like this!",
-    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
-    "ar": "لا تنس متابعتنا للمزيد من الحقائق الرائعة مثل هذه!"
+    "tr": "Bunu ilk defa duyuyorsan arkadaşına gönder!",
+    "en": "Send this to a friend if you're hearing it for the first time!",
+    "es": "¡Envíaselo a un amigo si es la primera vez que lo escuchas!",
+    "ar": "أرسل هذا إلى صديق إذا كنت تسمعه لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.2
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 9
   },
   "source": {
-    "name": "Ornithology and Avian Biology Insights",
-    "url": "https://www.sciencedaily.com/news/plants_animals/birds/"
+    "name": "National Eye Institute",
+    "url": "https://www.nei.nih.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Oluyor Da Bulutların Arasında Donmuyor?",
+  "_topic": "Gözlerini Kapatınca Gördüğün O Işıklar Aslında Ne?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-04T13:04:02.553475+00:00",
+  "generated_at": "2026-11-04T22:34:41.691277+00:00",
   "topic_guard_days": 180
 }

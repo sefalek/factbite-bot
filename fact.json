@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözlerini Kapatınca Gördüğün O Işıklar Aslında Ne?",
-    "body": "Gözlerini kapattığında veya karanlıkta gördüğün o rengarenk kıpır kıpır desenler var ya... Onların dış dünyayla hiçbir ilgisi yok. Beynimizin görsel korteksi, dışarıdan hiç ışık almadığında bile kendi kendine sinyal üretmeye devam eder. Yani aslında gördüğün o parlamalar, beyninin kendi karanlığında yarattığı içsel birer ışıktır."
+    "headline": "Avucunuzun İçindeki O Çizgiler Neden Var?",
+    "body": "Ellerinizi açın ve avucunuza bakın. Oradaki derin çizgiler sadece birer fal çizgisi değil. Anne karnındayken ellerimizi sıkıca yumduğumuz ve parmaklarımızı hareket ettirdiğimiz için deri orada katlanıyor. Bu sayede ellerimizi açıp kapatırken derimiz yırtılmıyor; doğanın mükemmel bir esneklik tasarımı!"
   },
   "en": {
-    "headline": "What Are Those Lights You See When You Close Your Eyes?",
-    "body": "Those colorful, moving patterns you see when you close your eyes in the dark have nothing to do with the outside world. Your brain's visual cortex keeps generating signals even when no light comes in. So those flashes are actually internal light shows created by your brain in its own darkness."
+    "headline": "Why Do You Have Those Lines On Your Palm?",
+    "body": "Open your hands and look at your palm. Those deep lines are not just for palmistry. While in the womb, as we tightly clench our fists and move our fingers, the skin folds there. This design prevents the skin from tearing when opening and closing our hands; it's nature's perfect flexibility design!"
   },
   "es": {
-    "headline": "¿Qué son esas luces que ves cuando cierras los ojos?",
-    "body": "Esos patrones coloridos y en movimiento que ves cuando cierras los ojos en la oscuridad no tienen nada que ver con el mundo exterior. La corteza visual de tu cerebro sigue generando señales incluso sin luz. Así que esos destellos son en realidad luces internas creadas por tu cerebro en su propia oscuridad."
+    "headline": "¿Por qué tienes esas líneas en la palma de la mano?",
+    "body": "Abre tus manos y mira tu palma. Esas líneas profundas no son solo para la quiromancia. Mientras estamos en el útero, al cerrar los puños con fuerza y mover los dedos, la piel se pliega allí. Este diseño evita que la piel se desgarre al abrir y cerrar las manos; ¡es el diseño de flexibilidad perfecto de la naturaleza!"
   },
   "ar": {
-    "headline": "ما هي تلك الأضواء التي تراها عندما تغلق عينيك؟",
-    "body": "تلك الأنماط الملونة والمتحركة التي تراها عندما تغلق عينيك في الظلام ليس لها علاقة بالعالم الخارجي. تستمر القشرة البصرية في دماغك في توليد إشارات حتى عندما لا يدخل أي ضوء. لذا فإن تلك الوميضات هي في الواقع عروض ضوئية داخلية يخلقها دماغك في ظلامه الخاص."
+    "headline": "لماذا توجد تلك الخطوط في راحة يدك؟",
+    "body": "افتح يديك وانظر إلى راحة يدك. تلك الخطوط العميقة ليست فقط لقراءة اليد. بينما نكون في الرحم، عندما نغلق قبضاننا بقوة ونحرك أصابعنا، ينثني الجلد هناك. يمنع هذا التصميم الجلد من التمزق عند فتح وإغلاق أيدينا؛ إنه تصميم المرونة المثالي للطبيعة!"
   },
   "reel_hook": {
-    "tr": "Gözlerini kapattığında gördüğün o renkler dışarıdan gelmiyor...",
-    "en": "Those colors you see when you close your eyes aren't coming from outside...",
-    "es": "Esos colores que ves cuando cierras los ojos no vienen del exterior...",
-    "ar": "تلك الألوان التي تراها عندما تغلق عينيك لا تأتي من الخارج..."
+    "tr": "Ellerinizdeki o çizgiler neden var hiç düşündünüz mü?",
+    "en": "Have you ever wondered why those lines on your hands exist?",
+    "es": "¿Alguna vez te has preguntado por qué existen esas líneas en tus manos?",
+    "ar": "هل تساؤلت من قبل عن سبب وجود تلك الخطوط على يديك؟"
   },
   "story_question": {
-    "tr": "Gözlerinizi kapattığınızda karanlıkta gördüğünüz bu görsel desenlerin bilimsel adı nedir?",
-    "en": "What is the scientific name for these visual patterns seen in the dark when you close your eyes?",
-    "es": "¿Cuál es el nombre científico de estos Patrones visuales que se ven en la oscuridad?",
-    "ar": "ما هو الاسم العلمي لهذه الأنماط المرئية التي تظهر في الظلام؟"
+    "tr": "Avucumuzdaki bu çizgiler ne zaman oluşmaya başlar?",
+    "en": "When do these lines on our palms start to form?",
+    "es": "¿Cuándo empiezan a formarse estas líneas en nuestras palmas?",
+    "ar": "متى تبدأ هذه الخطوط في راحة أيدينا بالتكون؟"
   },
   "story_options": [
-    "Fosfen",
-    "Retinopati",
-    "Optik İllüzyon"
+    "Doğumdan sonraki ilk ay",
+    "Anne karnındayken (yaklaşık 3. ay)",
+    "Sadece büyüdükçe çalışmaktan"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#beyin",
+    "#insan",
     "#biyoloji",
     "#ilginçbilgiler",
-    "#psikoloji",
-    "#keşfet"
+    "#vücudumuz"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan arkadaşına gönder!",
-    "en": "Send this to a friend if you're hearing it for the first time!",
-    "es": "¡Envíaselo a un amigo si es la primera vez que lo escuchas!",
-    "ar": "أرسل هذا إلى صديق إذا كنت تسمعه لأول مرة!"
+    "tr": "Bunu ilk defa duyan bir arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 9
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "National Eye Institute",
-    "url": "https://www.nei.nih.gov/"
+    "name": "Anatomy & Embryology Research",
+    "url": "https://www.ncbi.nlm.nih.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözlerini Kapatınca Gördüğün O Işıklar Aslında Ne?",
+  "_topic": "Avucunuzun İçindeki O Çizgiler Neden Var?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-04T22:34:41.691277+00:00",
+  "generated_at": "2026-11-05T00:13:49.466146+00:00",
   "topic_guard_days": 180
 }

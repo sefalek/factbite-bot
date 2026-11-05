@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Avucunuzun İçindeki O Çizgiler Neden Var?",
-    "body": "Ellerinizi açın ve avucunuza bakın. Oradaki derin çizgiler sadece birer fal çizgisi değil. Anne karnındayken ellerimizi sıkıca yumduğumuz ve parmaklarımızı hareket ettirdiğimiz için deri orada katlanıyor. Bu sayede ellerimizi açıp kapatırken derimiz yırtılmıyor; doğanın mükemmel bir esneklik tasarımı!"
+    "headline": "Parmak İzinin Sırrı: Neden Sadece Bizde Var Zannediyoruz?",
+    "body": "Parmak izimizin sadece insanlara ait olduğunu düşünürüz, değil mi? Ama koalalarda da durum tamamen aynı. Öyle ki, koala parmak izleri mikroskop altında bile insan izlerinden neredeyse ayırt edilemeyecek kadar benzer."
   },
   "en": {
-    "headline": "Why Do You Have Those Lines On Your Palm?",
-    "body": "Open your hands and look at your palm. Those deep lines are not just for palmistry. While in the womb, as we tightly clench our fists and move our fingers, the skin folds there. This design prevents the skin from tearing when opening and closing our hands; it's nature's perfect flexibility design!"
+    "headline": "The Fingerprint Secret: Why Do We Think It's Only Ours?",
+    "body": "We usually think fingerprints are exclusively human, right? But koalas have them too. In fact, koala fingerprints are so similar to human prints that they are almost indistinguishable even under a microscope."
   },
   "es": {
-    "headline": "¿Por qué tienes esas líneas en la palma de la mano?",
-    "body": "Abre tus manos y mira tu palma. Esas líneas profundas no son solo para la quiromancia. Mientras estamos en el útero, al cerrar los puños con fuerza y mover los dedos, la piel se pliega allí. Este diseño evita que la piel se desgarre al abrir y cerrar las manos; ¡es el diseño de flexibilidad perfecto de la naturaleza!"
+    "headline": "El secreto de las huellas dactilares: ¿Por qué creemos que son solo nuestras?",
+    "body": "Solemos pensar que las huellas dactilares son exclusivas de los humanos, ¿verdad? Pero los koalas también las tienen. De hecho, son tan similares a las nuestras que casi no se pueden distinguir ni bajo un microscopio."
   },
   "ar": {
-    "headline": "لماذا توجد تلك الخطوط في راحة يدك؟",
-    "body": "افتح يديك وانظر إلى راحة يدك. تلك الخطوط العميقة ليست فقط لقراءة اليد. بينما نكون في الرحم، عندما نغلق قبضاننا بقوة ونحرك أصابعنا، ينثني الجلد هناك. يمنع هذا التصميم الجلد من التمزق عند فتح وإغلاق أيدينا؛ إنه تصميم المرونة المثالي للطبيعة!"
+    "headline": "سر بصمات الأصابع: لماذا نعتقد أنها خاصة بنا فقط؟",
+    "body": "نعتقد عادة أن بصمات الأصابع بشرية بحتة، أليس كذلك؟ لكن الكوالا تمتلكها أيضاً لدرجة أن بصمات أصابعها تكاد تكون مطابقة للبشر حتى تحت المجهر."
   },
   "reel_hook": {
-    "tr": "Ellerinizdeki o çizgiler neden var hiç düşündünüz mü?",
-    "en": "Have you ever wondered why those lines on your hands exist?",
-    "es": "¿Alguna vez te has preguntado por qué existen esas líneas en tus manos?",
-    "ar": "هل تساؤلت من قبل عن سبب وجود تلك الخطوط على يديك؟"
+    "tr": "Parmak izine sahip tek canlı insan değil!",
+    "en": "Humans aren't the only ones with fingerprints!",
+    "es": "¡Los humanos no son los únicos con huellas dactilares!",
+    "ar": "البشر ليسوا الوحيدين الذين يمتلكون بصمات أصابع!"
   },
   "story_question": {
-    "tr": "Avucumuzdaki bu çizgiler ne zaman oluşmaya başlar?",
-    "en": "When do these lines on our palms start to form?",
-    "es": "¿Cuándo empiezan a formarse estas líneas en nuestras palmas?",
-    "ar": "متى تبدأ هذه الخطوط في راحة أيدينا بالتكون؟"
+    "tr": "Hangi hayvanın parmak izi insanunkine çok benzer?",
+    "en": "Which animal has fingerprints very similar to humans?",
+    "es": "¿Qué animal tiene huellas dactilares muy similares a las humanas?",
+    "ar": "ما هو الحيوان الذي لديه بصمات أصابع تشبه البشر جداً؟"
   },
   "story_options": [
-    "Doğumdan sonraki ilk ay",
-    "Anne karnındayken (yaklaşık 3. ay)",
-    "Sadece büyüdükçe çalışmaktan"
+    "Koala",
+    "Şempanze",
+    "Yunus"
   ],
   "hashtags": [
     "#FactBite",
+    "#bilgi",
+    "#doğa",
+    "#hayvanlar",
     "#bilim",
-    "#insan",
-    "#biyoloji",
-    "#ilginçbilgiler",
-    "#vücudumuz"
+    "#şaşırtıcı"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan bir arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunu bildiğini şaşıran bir arkadaşına gönder!",
+    "en": "Send this to a friend who'd be surprised!",
+    "es": "¡Envíaselo a un amigo que se sorprenderá!",
+    "ar": "أرسل هذا لصديق سيتفاجأ بهذه المعلومة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Anatomy & Embryology Research",
-    "url": "https://www.ncbi.nlm.nih.gov/"
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Avucunuzun İçindeki O Çizgiler Neden Var?",
+  "_topic": "Parmak İzinin Sırrı: Neden Sadece Bizde Var Zannediyoruz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-05T00:13:49.466146+00:00",
+  "generated_at": "2026-11-05T01:06:59.523982+00:00",
   "topic_guard_days": 180
 }

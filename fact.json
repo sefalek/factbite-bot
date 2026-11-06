@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Mide Asidinin Şaşırtıcı Gücü",
-    "body": "Midenizdeki asit o kadar güçlüdür ki, metal bir tıraş bıçağını bile eritebilecek kapasiteye sahiptir. Ancak mideniz, kendini bu asitten korumak için her birkaç günde bir iç yüzeyindeki hücreleri tamamen yeniler."
+    "headline": "Uykudayken Koku Alabilir Miyiz?",
+    "body": "Gözlerimiz kapalıyken dünyayla bağlantımız kesilmiş gibi hissederiz, değil mi? Ama beynimiz uyurken bile tetikte bekler. Bilimsel araştırmalar, uykudayken kokuları alabildiğimizi, hatta burnumuza gelen kötü bir kokunun bizi tehlikeye karşı anında uyandırabildiğini gösteriyor. Ancak tatlı veya hafif kokular uykumuzu bölmüyor."
   },
   "en": {
-    "headline": "The Surprising Power of Stomach Acid",
-    "body": "The acid in your stomach is so powerful it has the capacity to dissolve even a metal razor blade. However, your stomach completely renews its inner lining every few days to protect itself from this acid."
+    "headline": "Can We Smell While Sleeping?",
+    "body": "We feel disconnected from the world when our eyes are closed, right? But our brain stays on alert even while we sleep. Scientific research shows that we can process smells while sleeping, and a bad odor can actually wake us up instantly to danger, while pleasant scents don't disturb our sleep."
   },
   "es": {
-    "headline": "El sorprendente poder del ácido estomacal",
-    "body": "El ácido de tu estómago es tan potente que tiene la capacidad de disolver incluso una hoja de afeitar de metal. Sin embargo, tu estómago renueva por completo su revestimiento interno cada pocos días para protegerse de este ácido."
+    "headline": "¿Podemos oler mientras dormimos?",
+    "body": "Sentimos que estamos desconectados del mundo cuando cerramos los ojos, ¿verdad? Pero nuestro cerebro se mantiene alerta incluso mientras dormimos. Las investigaciones científicas demuestran que podemos procesar olores mientras dormimos, y un mal olor puede despertarnos al instante ante el peligro."
   },
   "ar": {
-    "headline": "القوة المدهشة لحمض المعدة",
-    "body": "الحمض الموجود في معدتك قوي لدرجة أنه قد يذيب شفرة حلاقة معدنية. ومع ذلك، تجدد معدتك بطانتها الداخلية بالكامل كل بضعة أيام لتحمي نفسها من هذا الحمض."
+    "headline": "هل يمكننا الشم أثناء النوم؟",
+    "body": "نشعر وكأننا منفصلون عن العالم عندما نغلق أعيننا، أليس كذلك؟ لكن أماغنا تبقى في حالة تأهب حتى أثناء النوم. تُظهر الأبحاث العلمية أنه يمكننا استنشاق الروائح أثناء النوم، ويمكن للرائحة الكريهة أن توقظنا فوراً لتنبيهنا بالخطر."
   },
   "reel_hook": {
-    "tr": "Midenizdeki asit bir demiri eritebilir mi?",
-    "en": "Can the acid in your stomach dissolve iron?",
-    "es": "¿Puede el ácido de tu estómago disolver el hierro?",
-    "ar": "هل يمكن لحمض المعدة أن يذيب الحديد؟"
+    "tr": "Evi saran mis gibi yemek kokusuna uykuda uyanmıyorsanız, bu yüzden!",
+    "en": "If you don't wake up to the smell of delicious food while sleeping, this is why!",
+    "es": "Si no te despiertas con el olor a comida deliciosa mientras duermes, ¡esta es la razón!",
+    "ar": "إذا لم تستيقظ على رائحة الطعام الشهي أثناء النوم, فهذا هو السبب!"
   },
   "story_question": {
-    "tr": "Mideniz kendini korumak için hücrelerini ne sıklıkla yeniler?",
-    "en": "How often does your stomach renew its cells to protect itself?",
-    "es": "¿Con qué frecuencia renueva tu estómago sus células para protegerse?",
-    "ar": "كم مرة تجدد معدتك خلاياها لحماية نفسها؟"
+    "tr": "Uykudayken sizce en çok hangi koku bizi anında uyandırır?",
+    "en": "Which smell do you think wakes us up instantly while sleeping?",
+    "es": "¿Qué olor crees que nos despierta al instante mientras dormimos?",
+    "ar": "ما هي الرائحة التي تعتقد أنها توقظنا فوراً أثناء النوم؟"
   },
   "story_options": [
-    "Her gün",
-    "Her birkaç günde bir",
-    "Ayda bir"
+    "Parfüm kokusu",
+    "Duman kokusu",
+    "Kahve kokusu"
   ],
   "hashtags": [
     "#FactBite",
+    "#uyku",
     "#bilim",
-    "#sağlık",
-    "#biyoloji",
+    "#beyin",
     "#ilginçbilgiler",
-    "#vücudumuz"
+    "#keşfet",
+    "#araştırma"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi ve takip etmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like and follow!",
+    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a me gusta y seguir!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فلا تنس الإعجاب والمتابعة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Library of Congress / Healthline",
-    "url": "https://www.loc.gov/everyday-mysteries/item/can-stomach-acid-dissolve-a-razor-blade/"
+    "name": "Sleep Research Society",
+    "url": "https://academic.oup.com/sleep"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Mide Asidinin Şaşırtıcı Gücü",
+  "_topic": "Uykudayken Koku Alabilir Miyiz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-06T12:58:31.632178+00:00",
+  "generated_at": "2026-11-06T14:14:52.012476+00:00",
   "topic_guard_days": 180
 }

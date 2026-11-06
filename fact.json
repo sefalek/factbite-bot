@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nasıl Oluyor Da Yüksek Gerilim Hatlarında Çarpılmıyor?",
-    "body": "Gökyüzünde yüz binlerce voltluk elektrik kablolarının üzerine konan kuşları sık sık görürüz, peki neden hiçbiri çarpılmaz? Sırrın asıl nedeni tüylerinde veya ayaklarında değil, tamamen elektrik akımının izlediği yolda gizli."
+    "headline": "Arıların Üç Gözü Olduğunu Biliyor muydunuz?",
+    "body": "Bal arılarının yönlerini bulmak ve tehlikeleri sezmek için sadece bildiğimiz iki büyük gözü yok. Kafalarının üst kısmında, tam üç tane ekstra gizli gözleri daha var! Bu minik gözler renkleri görmez ama ışık değişimlerini milisaniyeler içinde fark ederek onların uçuş rotasını kusursuz bir şekilde çizmelerini sağlar."
   },
   "en": {
-    "headline": "How Do Birds Sit on High-Voltage Power Lines Without Getting Electrocuted?",
-    "body": "We often see birds landing on hundreds of thousands of volts of electrical cables, but why do none of them get shocked? The real secret isn't in their feathers or feet, but entirely hidden in the path the electrical current takes."
+    "headline": "Did You Know Bees Have Five Eyes?",
+    "body": "Honeybees don't just have the two big eyes we normally see. On top of their heads, they have three extra hidden eyes! These tiny eyes don't see colors, but they detect changes in light within milliseconds, helping them chart their flight path perfectly."
   },
   "es": {
-    "headline": "¿Cómo se posan las aves en los cables de alta tensión sin electrocutarse?",
-    "body": "A menudo vemos aves posadas en cables eléctricos de cientos de miles de voltios, ¿por qué ninguna se electrocuta? El verdadero secreto no está en sus plumas ni en sus patas, sino completamente oculto en el camino que sigue la corriente eléctrica."
+    "headline": "¿Sabías que las abejas tienen cinco ojos?",
+    "body": "Las abejas no solo tienen los dos ojos grandes que solemos ver. ¡En la parte superior de su cabeza tienen tres ojos ocultos adicionales! Estos pequeños ojos no ven colores, pero detectan cambios de luz en milisegundos, ayudándoles a trazar su ruta de vuelo a la perfección."
   },
   "ar": {
-    "headline": "كيف تقف الطيور على خطوط الكهرباء ذات الجهد العالي دون أن تصعق بالكهرباء؟",
-    "body": "غالبًا ما نرى الطيور تحط على كابلات كهربائية تحمل مئات الآلاف من الفولتات، فلماذا لا يصعق أي منها؟ السر الحقيقي ليس في ريشها أو أقدامها، بل يكمن بالكامل في المسار الذي يسلكه التيار الكهربائي."
+    "headline": "هل كنت تعلم أن للنحل خمس عيون؟",
+    "body": "لا يمتلك النحل العيون الكبيرة التي نراها عادة فحسب، بل يوجد في أعلى رؤوسه ثلاثة عيون خفية إضافية! هذه العيون الصغيرة لا ترى الألوان، لكنها ترصد التغيرات في الضوء خلال جزء من الألف من الثانية، مما يساعدهن على رسم مسار طيرانهن بدقة متناهية."
   },
   "reel_hook": {
-    "tr": "Kilovoltsluk kabloların üzerinde duran kuşlar neden kızarmıyor?",
-    "en": "Why don't birds sitting on kilovolt cables get fried?",
-    "es": "¿Por qué las aves posadas en cables de kilovoltios no se fríen?",
-    "ar": "لماذا لا تشوى الطيور التي تقف على كابلات بالكيلوفولت؟"
+    "tr": "Bal arılarının kafasında toplam kaç göz olduğunu biliyor musunuz? Cevap sizi şaşırtacak.",
+    "en": "Do you know how many eyes are actually on a honeybee's head? The answer will surprise you.",
+    "es": "¿Sabes cuántos ojos tiene realmente una abeja en la cabeza? La respuesta te sorprenderá.",
+    "ar": "هل تعلم كم عدد العيون الموجودة بالفعل على رأس نحلة العسل؟ الإجابة ستفاجئك."
   },
   "story_question": {
-    "tr": "Sence kuşların elektrik çarpmamasının asıl sebebi nedir?",
-    "en": "What do you think is the real reason birds don't get electrocuted?",
-    "es": "¿Cuál crees que es la verdadera razón por la que las aves no se electrocutan?",
-    "ar": "برأيك ما هو السبب الحقيقي لعدم صعق الطيور بالكهرباء؟"
+    "tr": "Bal arılarının kafasının üstündeki o gizli minik gözlerin temel görevi sizce nedir?",
+    "en": "What do you think is the main function of those tiny hidden eyes on top of a bee's head?",
+    "es": "¿Cuálcrees que es la función principal de esos pequeños ojos ocultos en la cabeza de una abeja?",
+    "ar": "برأيك، ما هي الوظيفة الأساسية لتلك العيون الصغيرة الخفية في رأس النحلة؟"
   },
   "story_options": [
-    "Ayağındaki özel deri",
-    "Akımın devreyi tamamlamaması",
-    "Tüylerinin yalıtkan olması"
+    "Renkleri ayırt etmek",
+    "Işık değişimlerini ve yönü bulmak",
+    "Diğer arılarla iletişim kurmak"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#doğa",
-    "#kuşlar",
+    "#arılar",
     "#bilim",
+    "#doğa",
     "#ilginçbilgiler",
-    "#teknoloji"
+    "#keşfet",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takipte kalın!",
+    "en": "Stay tuned for more surprising nature secrets like this!",
+    "es": "¡Mantente atento a más secretos sorprendentes de la naturaleza como este!",
+    "ar": "ابق على متابعة لمزيد من أسرار الطبيعة المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "USGS Science for a Changing World",
-    "url": "https://www.usgs.gov"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nasıl Oluyor Da Yüksek Gerilim Hatlarında Çarpılmıyor?",
+  "_topic": "Arıların Üç Gözü Olduğunu Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-06T15:58:19.671308+00:00",
+  "generated_at": "2026-11-06T20:46:24.194478+00:00",
   "topic_guard_days": 180
 }

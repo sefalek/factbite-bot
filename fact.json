@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Arıların Üç Gözü Olduğunu Biliyor muydunuz?",
-    "body": "Bal arılarının yönlerini bulmak ve tehlikeleri sezmek için sadece bildiğimiz iki büyük gözü yok. Kafalarının üst kısmında, tam üç tane ekstra gizli gözleri daha var! Bu minik gözler renkleri görmez ama ışık değişimlerini milisaniyeler içinde fark ederek onların uçuş rotasını kusursuz bir şekilde çizmelerini sağlar."
+    "headline": "Parmak İzinden Başka Eşsiz Bir Yerimiz Daha Var",
+    "body": "Parmak izinizin dünyada sadece size özel olduğunu biliyorsunuz. Peki ya dil izinizin de parmak izi gibi tamamen benzersiz olduğunu? Tıpkı parmak uçlarımız gibi, her insanın dil kıvrımları ve deseni tamamen kendine hastır ve hayati boyunca hiç değişmez."
   },
   "en": {
-    "headline": "Did You Know Bees Have Five Eyes?",
-    "body": "Honeybees don't just have the two big eyes we normally see. On top of their heads, they have three extra hidden eyes! These tiny eyes don't see colors, but they detect changes in light within milliseconds, helping them chart their flight path perfectly."
+    "headline": "We Have Another Unique Feature Besides Our Fingerprints",
+    "body": "You know your fingerprint is entirely unique to you. But did you know your tongue print is just as one-of-a-kind? Much like our fingertips, every person's tongue contours and patterns are completely distinct and never change throughout their life."
   },
   "es": {
-    "headline": "¿Sabías que las abejas tienen cinco ojos?",
-    "body": "Las abejas no solo tienen los dos ojos grandes que solemos ver. ¡En la parte superior de su cabeza tienen tres ojos ocultos adicionales! Estos pequeños ojos no ven colores, pero detectan cambios de luz en milisegundos, ayudándoles a trazar su ruta de vuelo a la perfección."
+    "headline": "Tenemos otra característica única además de nuestras huellas dactilares",
+    "body": "Sabes que tu huella dactilar es completamente única para ti. ¿Pero sabías que la impresión de tu lengua también lo es? Al igual que las yemas de nuestros dedos, los contornos y patrones de la lengua de cada persona son totalmente distintos y nunca cambian."
   },
   "ar": {
-    "headline": "هل كنت تعلم أن للنحل خمس عيون؟",
-    "body": "لا يمتلك النحل العيون الكبيرة التي نراها عادة فحسب، بل يوجد في أعلى رؤوسه ثلاثة عيون خفية إضافية! هذه العيون الصغيرة لا ترى الألوان، لكنها ترصد التغيرات في الضوء خلال جزء من الألف من الثانية، مما يساعدهن على رسم مسار طيرانهن بدقة متناهية."
+    "headline": "لدينا ميزة فريدة أخرى إلى جانب بصمات أصابعنا",
+    "body": "أنت تعلم أن بصمة إصبعك فريدة تماماً بالنسبة لك. ولكن هل كنت تعلم أن بصمة لسانك فريدة تماماً أيضاً؟ تماماً مثل أطراف أصابعنا، فإن انحناءات وأنماط لسان كل شخص مميزة تماماً ولا تتغير طوال حياته."
   },
   "reel_hook": {
-    "tr": "Bal arılarının kafasında toplam kaç göz olduğunu biliyor musunuz? Cevap sizi şaşırtacak.",
-    "en": "Do you know how many eyes are actually on a honeybee's head? The answer will surprise you.",
-    "es": "¿Sabes cuántos ojos tiene realmente una abeja en la cabeza? La respuesta te sorprenderá.",
-    "ar": "هل تعلم كم عدد العيون الموجودة بالفعل على رأس نحلة العسل؟ الإجابة ستفاجئك."
+    "tr": "Parmak iziniz eşsiz ama vücudunuzda bir yer daha var ki, dünyada kimsede yok!",
+    "en": "Your fingerprint is unique, but there is another part of your body that no one else in the world has!",
+    "es": "¡Tu huella dactilar es única, pero hay otra parte de tu cuerpo que nadie más en el mundo tiene!",
+    "ar": "بصمة إصبعك فريدة، ولكن هناك جزء آخر من جسمك لا يملكه أي شخص آخر في العالم!"
   },
   "story_question": {
-    "tr": "Bal arılarının kafasının üstündeki o gizli minik gözlerin temel görevi sizce nedir?",
-    "en": "What do you think is the main function of those tiny hidden eyes on top of a bee's head?",
-    "es": "¿Cuálcrees que es la función principal de esos pequeños ojos ocultos en la cabeza de una abeja?",
-    "ar": "برأيك، ما هي الوظيفة الأساسية لتلك العيون الصغيرة الخفية في رأس النحلة؟"
+    "tr": "Vücudumuzda parmak izi dışında tamamen benzersiz olan diğer organımız hangisidir?",
+    "en": "Which other organ in our body is completely unique besides our fingerprint?",
+    "es": "¿Qué otro órgano de nuestro cuerpo es completamente único además de nuestra huella dactilar?",
+    "ar": "ما هو العضو الآخر في جسمنا الفريد تماماً إلى جانب بصمة الإصبع؟"
   },
   "story_options": [
-    "Renkleri ayırt etmek",
-    "Işık değişimlerini ve yönü bulmak",
-    "Diğer arılarla iletişim kurmak"
+    "Dil",
+    "Kulak memesinin şekli",
+    "Diş yapısı"
   ],
   "hashtags": [
     "#FactBite",
-    "#arılar",
-    "#bilim",
-    "#doğa",
+    "#bilgi",
+    "#anatomia",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#biyoloji"
+    "#insan",
+    "#gerçekler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı doğa sırrı için takipte kalın!",
-    "en": "Stay tuned for more surprising nature secrets like this!",
-    "es": "¡Mantente atento a más secretos sorprendentes de la naturaleza como este!",
-    "ar": "ابق على متابعة لمزيد من أسرار الطبيعة المذهلة مثل هذه!"
+    "tr": "Bunu daha önce biliyor muydun? Arkadaşına gönder!",
+    "en": "Did you know this before? Send it to a friend!",
+    "es": "¿Sabías esto antes? ¡Envíaselo a un amigo!",
+    "ar": "هل كنت تعلم هذا من قبل؟ أرسلها لصديقك!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 9,
+    "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Anatomy & Human Body Studies",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Arıların Üç Gözü Olduğunu Biliyor muydunuz?",
+  "_topic": "Parmak İzinden Başka Eşsiz Bir Yerimiz Daha Var",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-06T20:46:24.194478+00:00",
+  "generated_at": "2026-11-06T23:42:57.185762+00:00",
   "topic_guard_days": 180
 }

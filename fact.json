@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzinin Sırrı: Neden Sadece Bizde Var Zannediyoruz?",
-    "body": "Parmak izimizin sadece insanlara ait olduğunu düşünürüz, değil mi? Ama koalalarda da durum tamamen aynı. Öyle ki, koala parmak izleri mikroskop altında bile insan izlerinden neredeyse ayırt edilemeyecek kadar benzer."
+    "headline": "Ahtapotların Üç Kalbi Olduğunu Biliyor muydunuz?",
+    "body": "Denizlerin en akıllı canlılarından ahtapotların tam üç kalbi vardır. Bu kalplerden ikisi solungaçlara kan pompalarken, üçüncü kalp ise vücudun geri kalanına kan sağlar. İşin en ilginç kısmı ise ahtapot yüzmeye başladığında bu üçüncü kalp atmayı durdurur. Bu yüzden ahtapotlar yüzmektense sürünmeyi tercih ederler çünkü yüzmek onları inanılmaz derecede yorar."
   },
   "en": {
-    "headline": "The Fingerprint Secret: Why Do We Think It's Only Ours?",
-    "body": "We usually think fingerprints are exclusively human, right? But koalas have them too. In fact, koala fingerprints are so similar to human prints that they are almost indistinguishable even under a microscope."
+    "headline": "Did You Know Octopuses Have Three Hearts?",
+    "body": "One of the ocean's smartest creatures, the octopus, actually has three hearts. Two of them pump blood to the gills, while the third supplies the rest of the body. Interestingly, when an octopus starts swimming, this third heart stops beating. That is why they prefer crawling over swimming, as swimming exhausts them."
   },
   "es": {
-    "headline": "El secreto de las huellas dactilares: ¿Por qué creemos que son solo nuestras?",
-    "body": "Solemos pensar que las huellas dactilares son exclusivas de los humanos, ¿verdad? Pero los koalas también las tienen. De hecho, son tan similares a las nuestras que casi no se pueden distinguir ni bajo un microscopio."
+    "headline": "¿Sabías que los pulpos tienen tres corazones?",
+    "body": "Una de las criaturas más inteligentes del océano, el pulpo, tiene tres corazones. Dos de ellos bombean sangre a las branquias, mientras que el tercero abastece al resto del cuerpo. Lo más curioso es que cuando el pulpo comienza a nadar, este tercer corazón deja de latir, lo que hace que prefieran arrastrarse."
   },
   "ar": {
-    "headline": "سر بصمات الأصابع: لماذا نعتقد أنها خاصة بنا فقط؟",
-    "body": "نعتقد عادة أن بصمات الأصابع بشرية بحتة، أليس كذلك؟ لكن الكوالا تمتلكها أيضاً لدرجة أن بصمات أصابعها تكاد تكون مطابقة للبشر حتى تحت المجهر."
+    "headline": "هل كنت تعلم أن للخطبوط ثلاثة قلوب؟",
+    "body": "يمتلك المخلوق الأذكى في المحيطات، الأخطبوط، ثلاثة قلوب تماماً. اثنان منها يضخان الدم إلى الخياشيم، بينما يغذي القلب الثالث بقية الجسم. والأمر الأكثر إثارة للاهتمام هو أن هذا القلب الثالث يتوقف عن النبض عندما يبدأ الأخطبوط في السباحة، ولهذا السبب يفضلون الزحف."
   },
   "reel_hook": {
-    "tr": "Parmak izine sahip tek canlı insan değil!",
-    "en": "Humans aren't the only ones with fingerprints!",
-    "es": "¡Los humanos no son los únicos con huellas dactilares!",
-    "ar": "البشر ليسوا الوحيدين الذين يمتلكون بصمات أصابع!"
+    "tr": "Denizlerin bu gizli canlısı yüzmekten neden nefret eder?",
+    "en": "Why does this hidden creature of the sea hate swimming?",
+    "es": "¿Por qué esta criatura oculta del mar odia nadar?",
+    "ar": "لماذا يكره هذا المخلوق الخفي في البحر السباحة؟"
   },
   "story_question": {
-    "tr": "Hangi hayvanın parmak izi insanunkine çok benzer?",
-    "en": "Which animal has fingerprints very similar to humans?",
-    "es": "¿Qué animal tiene huellas dactilares muy similares a las humanas?",
-    "ar": "ما هو الحيوان الذي لديه بصمات أصابع تشبه البشر جداً؟"
+    "tr": "Yüzmeye başladığında kalplerinden biri duran deniz canlısı hangisidir?",
+    "en": "Which sea creature has one of its hearts stop when it starts swimming?",
+    "es": "¿Qué criatura marina detiene uno de suoi corazones al nadar?",
+    "ar": "ما هو المخلوق البحري الذي يتوقف أحد قلوبه عند البدء بالسباحة؟"
   },
   "story_options": [
-    "Koala",
-    "Şempanze",
-    "Yunus"
+    "Ahtapot",
+    "Yunus",
+    "Köpekbalığı"
   ],
   "hashtags": [
     "#FactBite",
     "#bilgi",
+    "#ilginçbilgiler",
+    "#deniz",
+    "#ahtapot",
     "#doğa",
-    "#hayvanlar",
-    "#bilim",
-    "#şaşırtıcı"
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunu bildiğini şaşıran bir arkadaşına gönder!",
-    "en": "Send this to a friend who'd be surprised!",
-    "es": "¡Envíaselo a un amigo que se sorprenderá!",
-    "ar": "أرسل هذا لصديق سيتفاجأ بهذه المعلومة!"
+    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "ScienceDaily",
-    "url": "https://www.sciencedaily.com"
+    "name": "Marine Biological Association",
+    "url": "https://www.mba.ac.uk"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzinin Sırrı: Neden Sadece Bizde Var Zannediyoruz?",
+  "_topic": "Ahtapotların Üç Kalbi Olduğunu Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-05T01:06:59.523982+00:00",
+  "generated_at": "2026-11-06T00:00:05.910185+00:00",
   "topic_guard_days": 180
 }

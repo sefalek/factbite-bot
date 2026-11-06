@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ahtapotların Üç Kalbi Olduğunu Biliyor muydunuz?",
-    "body": "Denizlerin en akıllı canlılarından ahtapotların tam üç kalbi vardır. Bu kalplerden ikisi solungaçlara kan pompalarken, üçüncü kalp ise vücudun geri kalanına kan sağlar. İşin en ilginç kısmı ise ahtapot yüzmeye başladığında bu üçüncü kalp atmayı durdurur. Bu yüzden ahtapotlar yüzmektense sürünmeyi tercih ederler çünkü yüzmek onları inanılmaz derecede yorar."
+    "headline": "Mide Asidinin Şaşırtıcı Gücü",
+    "body": "Midenizdeki asit o kadar güçlüdür ki, metal bir tıraş bıçağını bile eritebilecek kapasiteye sahiptir. Ancak mideniz, kendini bu asitten korumak için her birkaç günde bir iç yüzeyindeki hücreleri tamamen yeniler."
   },
   "en": {
-    "headline": "Did You Know Octopuses Have Three Hearts?",
-    "body": "One of the ocean's smartest creatures, the octopus, actually has three hearts. Two of them pump blood to the gills, while the third supplies the rest of the body. Interestingly, when an octopus starts swimming, this third heart stops beating. That is why they prefer crawling over swimming, as swimming exhausts them."
+    "headline": "The Surprising Power of Stomach Acid",
+    "body": "The acid in your stomach is so powerful it has the capacity to dissolve even a metal razor blade. However, your stomach completely renews its inner lining every few days to protect itself from this acid."
   },
   "es": {
-    "headline": "¿Sabías que los pulpos tienen tres corazones?",
-    "body": "Una de las criaturas más inteligentes del océano, el pulpo, tiene tres corazones. Dos de ellos bombean sangre a las branquias, mientras que el tercero abastece al resto del cuerpo. Lo más curioso es que cuando el pulpo comienza a nadar, este tercer corazón deja de latir, lo que hace que prefieran arrastrarse."
+    "headline": "El sorprendente poder del ácido estomacal",
+    "body": "El ácido de tu estómago es tan potente que tiene la capacidad de disolver incluso una hoja de afeitar de metal. Sin embargo, tu estómago renueva por completo su revestimiento interno cada pocos días para protegerse de este ácido."
   },
   "ar": {
-    "headline": "هل كنت تعلم أن للخطبوط ثلاثة قلوب؟",
-    "body": "يمتلك المخلوق الأذكى في المحيطات، الأخطبوط، ثلاثة قلوب تماماً. اثنان منها يضخان الدم إلى الخياشيم، بينما يغذي القلب الثالث بقية الجسم. والأمر الأكثر إثارة للاهتمام هو أن هذا القلب الثالث يتوقف عن النبض عندما يبدأ الأخطبوط في السباحة، ولهذا السبب يفضلون الزحف."
+    "headline": "القوة المدهشة لحمض المعدة",
+    "body": "الحمض الموجود في معدتك قوي لدرجة أنه قد يذيب شفرة حلاقة معدنية. ومع ذلك، تجدد معدتك بطانتها الداخلية بالكامل كل بضعة أيام لتحمي نفسها من هذا الحمض."
   },
   "reel_hook": {
-    "tr": "Denizlerin bu gizli canlısı yüzmekten neden nefret eder?",
-    "en": "Why does this hidden creature of the sea hate swimming?",
-    "es": "¿Por qué esta criatura oculta del mar odia nadar?",
-    "ar": "لماذا يكره هذا المخلوق الخفي في البحر السباحة؟"
+    "tr": "Midenizdeki asit bir demiri eritebilir mi?",
+    "en": "Can the acid in your stomach dissolve iron?",
+    "es": "¿Puede el ácido de tu estómago disolver el hierro?",
+    "ar": "هل يمكن لحمض المعدة أن يذيب الحديد؟"
   },
   "story_question": {
-    "tr": "Yüzmeye başladığında kalplerinden biri duran deniz canlısı hangisidir?",
-    "en": "Which sea creature has one of its hearts stop when it starts swimming?",
-    "es": "¿Qué criatura marina detiene uno de suoi corazones al nadar?",
-    "ar": "ما هو المخلوق البحري الذي يتوقف أحد قلوبه عند البدء بالسباحة؟"
+    "tr": "Mideniz kendini korumak için hücrelerini ne sıklıkla yeniler?",
+    "en": "How often does your stomach renew its cells to protect itself?",
+    "es": "¿Con qué frecuencia renueva tu estómago sus células para protegerse?",
+    "ar": "كم مرة تجدد معدتك خلاياها لحماية نفسها؟"
   },
   "story_options": [
-    "Ahtapot",
-    "Yunus",
-    "Köpekbalığı"
+    "Her gün",
+    "Her birkaç günde bir",
+    "Ayda bir"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
+    "#bilim",
+    "#sağlık",
+    "#biyoloji",
     "#ilginçbilgiler",
-    "#deniz",
-    "#ahtapot",
-    "#doğa",
-    "#bilim"
+    "#vücudumuz"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Marine Biological Association",
-    "url": "https://www.mba.ac.uk"
+    "name": "Library of Congress / Healthline",
+    "url": "https://www.loc.gov/everyday-mysteries/item/can-stomach-acid-dissolve-a-razor-blade/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ahtapotların Üç Kalbi Olduğunu Biliyor muydunuz?",
+  "_topic": "Mide Asidinin Şaşırtıcı Gücü",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-06T00:00:05.910185+00:00",
+  "generated_at": "2026-11-06T12:58:31.632178+00:00",
   "topic_guard_days": 180
 }

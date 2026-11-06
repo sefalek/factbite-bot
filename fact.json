@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uykudayken Koku Alabilir Miyiz?",
-    "body": "Gözlerimiz kapalıyken dünyayla bağlantımız kesilmiş gibi hissederiz, değil mi? Ama beynimiz uyurken bile tetikte bekler. Bilimsel araştırmalar, uykudayken kokuları alabildiğimizi, hatta burnumuza gelen kötü bir kokunun bizi tehlikeye karşı anında uyandırabildiğini gösteriyor. Ancak tatlı veya hafif kokular uykumuzu bölmüyor."
+    "headline": "Kuşlar Nasıl Oluyor Da Yüksek Gerilim Hatlarında Çarpılmıyor?",
+    "body": "Gökyüzünde yüz binlerce voltluk elektrik kablolarının üzerine konan kuşları sık sık görürüz, peki neden hiçbiri çarpılmaz? Sırrın asıl nedeni tüylerinde veya ayaklarında değil, tamamen elektrik akımının izlediği yolda gizli."
   },
   "en": {
-    "headline": "Can We Smell While Sleeping?",
-    "body": "We feel disconnected from the world when our eyes are closed, right? But our brain stays on alert even while we sleep. Scientific research shows that we can process smells while sleeping, and a bad odor can actually wake us up instantly to danger, while pleasant scents don't disturb our sleep."
+    "headline": "How Do Birds Sit on High-Voltage Power Lines Without Getting Electrocuted?",
+    "body": "We often see birds landing on hundreds of thousands of volts of electrical cables, but why do none of them get shocked? The real secret isn't in their feathers or feet, but entirely hidden in the path the electrical current takes."
   },
   "es": {
-    "headline": "¿Podemos oler mientras dormimos?",
-    "body": "Sentimos que estamos desconectados del mundo cuando cerramos los ojos, ¿verdad? Pero nuestro cerebro se mantiene alerta incluso mientras dormimos. Las investigaciones científicas demuestran que podemos procesar olores mientras dormimos, y un mal olor puede despertarnos al instante ante el peligro."
+    "headline": "¿Cómo se posan las aves en los cables de alta tensión sin electrocutarse?",
+    "body": "A menudo vemos aves posadas en cables eléctricos de cientos de miles de voltios, ¿por qué ninguna se electrocuta? El verdadero secreto no está en sus plumas ni en sus patas, sino completamente oculto en el camino que sigue la corriente eléctrica."
   },
   "ar": {
-    "headline": "هل يمكننا الشم أثناء النوم؟",
-    "body": "نشعر وكأننا منفصلون عن العالم عندما نغلق أعيننا، أليس كذلك؟ لكن أماغنا تبقى في حالة تأهب حتى أثناء النوم. تُظهر الأبحاث العلمية أنه يمكننا استنشاق الروائح أثناء النوم، ويمكن للرائحة الكريهة أن توقظنا فوراً لتنبيهنا بالخطر."
+    "headline": "كيف تقف الطيور على خطوط الكهرباء ذات الجهد العالي دون أن تصعق بالكهرباء؟",
+    "body": "غالبًا ما نرى الطيور تحط على كابلات كهربائية تحمل مئات الآلاف من الفولتات، فلماذا لا يصعق أي منها؟ السر الحقيقي ليس في ريشها أو أقدامها، بل يكمن بالكامل في المسار الذي يسلكه التيار الكهربائي."
   },
   "reel_hook": {
-    "tr": "Evi saran mis gibi yemek kokusuna uykuda uyanmıyorsanız, bu yüzden!",
-    "en": "If you don't wake up to the smell of delicious food while sleeping, this is why!",
-    "es": "Si no te despiertas con el olor a comida deliciosa mientras duermes, ¡esta es la razón!",
-    "ar": "إذا لم تستيقظ على رائحة الطعام الشهي أثناء النوم, فهذا هو السبب!"
+    "tr": "Kilovoltsluk kabloların üzerinde duran kuşlar neden kızarmıyor?",
+    "en": "Why don't birds sitting on kilovolt cables get fried?",
+    "es": "¿Por qué las aves posadas en cables de kilovoltios no se fríen?",
+    "ar": "لماذا لا تشوى الطيور التي تقف على كابلات بالكيلوفولت؟"
   },
   "story_question": {
-    "tr": "Uykudayken sizce en çok hangi koku bizi anında uyandırır?",
-    "en": "Which smell do you think wakes us up instantly while sleeping?",
-    "es": "¿Qué olor crees que nos despierta al instante mientras dormimos?",
-    "ar": "ما هي الرائحة التي تعتقد أنها توقظنا فوراً أثناء النوم؟"
+    "tr": "Sence kuşların elektrik çarpmamasının asıl sebebi nedir?",
+    "en": "What do you think is the real reason birds don't get electrocuted?",
+    "es": "¿Cuál crees que es la verdadera razón por la que las aves no se electrocutan?",
+    "ar": "برأيك ما هو السبب الحقيقي لعدم صعق الطيور بالكهرباء؟"
   },
   "story_options": [
-    "Parfüm kokusu",
-    "Duman kokusu",
-    "Kahve kokusu"
+    "Ayağındaki özel deri",
+    "Akımın devreyi tamamlamaması",
+    "Tüylerinin yalıtkan olması"
   ],
   "hashtags": [
     "#FactBite",
-    "#uyku",
+    "#bilgi",
+    "#doğa",
+    "#kuşlar",
     "#bilim",
-    "#beyin",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#araştırma"
+    "#teknoloji"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi ve takip etmeyi unutma!",
-    "en": "If this is your first time hearing this, don't forget to like and follow!",
-    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a me gusta y seguir!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فلا تنس الإعجاب والمتابعة!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Sleep Research Society",
-    "url": "https://academic.oup.com/sleep"
+    "name": "USGS Science for a Changing World",
+    "url": "https://www.usgs.gov"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uykudayken Koku Alabilir Miyiz?",
+  "_topic": "Kuşlar Nasıl Oluyor Da Yüksek Gerilim Hatlarında Çarpılmıyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-06T14:14:52.012476+00:00",
+  "generated_at": "2026-11-06T15:58:19.671308+00:00",
   "topic_guard_days": 180
 }

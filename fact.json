@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Görünmez Taşıyıcıları",
-    "body": "Okyanuslardaki balıkların çok azı bilir ki, dünyanın en büyük ormanları karada değil, su altındadır. Ancak okyanus tabanındaki bu devasa bitki örtüsü kendi kendine beslenemez. Binlerce kilometre uzaktaki çöllerden rüzgarla taşınan demir tozu olmasa, denizdeki yaşam açlıktan durma noktasına gelirdi. Gökyüzünden okyanuslara savrulan toz bulutları, aslında deniz ekosisteminin gizli yakıtıdır."
+    "headline": "Kuşlar Nezaketten Mi Bekliyor?",
+    "body": "Trafikte ya da kaldırımda yürürken karşınıza çıkan bir kuşa yol vermeye çalıştığınızda onun da tam sizinle aynı yöne hamle yaptığını fark etmişsinizdir. Aslında bu bir nezaket yarışı değil, tamamen iki beynin aynı anda aynı avcıdan kaçış hamlesini hesaplamaya çalışmasından kaynaklanan optik bir kilitlenmedir."
   },
   "en": {
-    "headline": "The Invisible Carriers of the Seas",
-    "body": "Few realize that the world's largest forests are actually underwater. Yet, this massive marine plant life cannot sustain itself alone. Without iron dust blown by the wind from deserts thousands of miles away, ocean life would nearly starve. Dust clouds drifting from the sky into the oceans are the hidden fuel of marine ecosystems."
+    "headline": "Are Birds Being Polite?",
+    "body": "When you try to step aside for a bird on the sidewalk and it moves in the exact same direction, it's not politeness. It's an optical lock caused by two brains simultaneously trying to calculate the same escape route from a potential predator."
   },
   "es": {
-    "headline": "Los transportadores invisibles de los mares",
-    "body": "Pocos saben que los bosques más grandes del mundo están bajo el agua. Sin embargo, esta vida vegetal marina no puede sostenerse sola. Sin el polvo de hierro traído por el viento desde desiertos lejanos, la vida en el océano casi colapsaría. Las nubes de polvo que viajan del cielo al mar son el combustible oculto de los océanos."
+    "headline": "¿Los pájaros son educados?",
+    "body": "Cuando intentas esquivar a un ave en la acera y se mueve exactamente en tu misma dirección, no es cortesía. Es un bloqueo óptico causado por dos cerebros intentando calcular al mismo tiempo la misma ruta de escape de un posible depredador."
   },
   "ar": {
-    "headline": "حاملوا البحار الخفيون",
-    "body": "قليلون يدركون أن أكبر غابات العالم موجودة تحت الماء. ومع ذلك، لا يمكن لهذه الحياة النباتية البحرية الضخمة أن تزدهر وحدها. لولا غبار الحديد الذي تحملته الرياح من الصحاري البعيدة، لتعرضت الحياة في المحيطات للمجاعة. سحب الغبار المتطايرة من السماء إلى المحيطات هي الوقود الخفي للنظم البيئية البحرية."
+    "headline": "هل الطيور مهذبة أم مرتبكة؟",
+    "body": "عندما تحاول إفساح المجال لطائر على الرصيف فيتحرك في نفس اتجاهك تماماً، فهذه ليست لياقة. إنه قفل بصري ناتج عن محاولة عقلين حساب نفس مسار الهروب من مفترس محتمل في نفس اللحظة."
   },
   "reel_hook": {
-    "tr": "Okyanusların yaşaması için binlerce kilometre uzaktaki çöllere muhtaç olduğunu biliyor muydunuz?",
-    "en": "Did you know oceans rely on deserts thousands of miles away to survive?",
-    "es": "¿Sabías que los océanos dependen de desiertos lejanos para sobrevivir?",
-    "ar": "هل تعلم أن المحيطات تعتمد على الصحاري البعيدة لكي تعيش؟"
+    "tr": "Karşınızdaki kuşla neden sürekli aynı yöne adim atarsınız?",
+    "en": "Why do you and that bird keep stepping in the same direction?",
+    "es": "¿Por qué tú y ese pájaro se mueven siempre hacia el mismo lado?",
+    "ar": "لماذا تتحرك أنت وذلك الطائر دائماً في نفس الاتجاه بالصدفة؟"
   },
   "story_question": {
-    "tr": "Okyanuslardaki canlılığı besleyen bu tozlar hangi coğrafyadan taşınır?",
-    "en": "Which geography supplies the dust that nourishes ocean life?",
-    "es": "¿Qué geografía suministra el polvo que alimenta la vida oceánica?",
-    "ar": "ما هي الجغرافيا التي تزود المحيطات بالغبار الذي يغذيها؟"
+    "tr": "Sizce bu anlık kararsızlık anında kuşlar ne düşünür?",
+    "en": "What do you think birds are thinking during this standoff?",
+    "es": "¿Qué crees que piensan las aves en ese momento de duda?",
+    "ar": "برأيك، ماذا يفكر الطائر في لحظة التردد المتبادل هذه؟"
   },
   "story_options": [
-    "Sahra Çölü",
-    "Gobi Çölü",
-    "Atakama Çölü"
+    "Yol veriyor",
+    "Beyinleri kilitleniyor",
+    "Oyun oynuyor"
   ],
   "hashtags": [
     "#FactBite",
-    "#okyanus",
+    "#kuşlar",
     "#doğa",
     "#bilim",
-    "#keşif",
-    "#ekosistem",
-    "#bilgi"
+    "#ilginçbilgiler",
+    "#hayvanlaralemi",
+    "#psikoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bu tarz anları kiminle yaşarsınız? Yorumlara yazın!",
+    "en": "Who do you always do this dance with? Let us know in the comments!",
+    "es": "¿Con quién te pasa esto siempre? ¡Déjalo en los comentarios!",
+    "ar": "مع من تتكرر معك هذه المواقف دائماً؟ شاركنا في التعليقات!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic & NASA Earth Science",
-    "url": "https://science.nasa.gov"
+    "name": "Ornithology and Animal Behavior Studies",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Görünmez Taşıyıcıları",
+  "_topic": "Kuşlar Nezaketten Mi Bekliyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-07T22:32:33.711139+00:00",
+  "generated_at": "2026-11-07T23:59:38.149545+00:00",
   "topic_guard_days": 180
 }

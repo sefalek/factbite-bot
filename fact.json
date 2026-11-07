@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sesimizin Kendi Kulaklarımıza Neden Farklı Geldiğini Biliyor musunuz?",
-    "body": "Kendi sesinizi bir kayıttan dinlediğinizde \"Bu ben olamam!\" dediğiniz olur mu? Aslında yalnız değilsiniz. Konuştuğumuzda sesimiz sadece havada yayılmaz; aynı zamanda kafatasımızdaki kemikler aracılığıyla doğrudan iç kulağımıza iletilir. Kemik iletimi, ses dalgalarını daha kalibre ve düşük frekanslı, yani daha tok gösterir. Ses kaydında ise kafatası kemiklerimiz devreden çıkar ve ses sadece havayla kulağımıza ulaşır. Bu yüzden dışarıdan duyduğumuz ses, bize hep yabancı ve daha ince gelir."
+    "headline": "Dünyanın En Derin Noktasındaki O Beklenmedik Misafir",
+    "body": "Okyanusun on bir kilometre derinliğindeki Mariana Çukuru'na inmek, uzaya gitmekten çok daha zordur. Oradaki basınç, üzerinize binlerce filin basmasıyla eşdeğerdir. Ancak insanlık oraya ulaştığında, o inanılmaz karanlıkta ve ezici baskıda bile tek bir şeyle karşılaştı: İnsan eliyle yapılmış plastik bir atık. Dünyanın en ücra köşesi bile izimizden kaçamadı."
   },
   "en": {
-    "headline": "Do You Know Why Your Voice Sounds So Different to You?",
-    "body": "Ever listened to a recording of your voice and thought, \"That's not me!\"? You're not alone. When we speak, our voice travels not just through the air, but directly to our inner ear via our skull bones. Bone conduction makes our voice sound deeper and richer. In a recording, your skull bones are cut out of the equation, and the sound only reaches your ear through the air. That's why your recorded voice always sounds unfamiliar and higher pitched."
+    "headline": "The Unexpected Visitor at Earth's Deepest Point",
+    "body": "Descending eleven kilometers down into the Mariana Trench is harder than going to space. The pressure there is equivalent to thousands of elephants standing on you. Yet, when humanity reached that incredible darkness and crushing weight, we found something unexpected: human-made plastic waste. Not even the most remote place on Earth escaped our trace."
   },
   "es": {
-    "headline": "¿Sabes por qué tu voz te suena tan diferente cuando la escuchas grabada?",
-    "body": "¿Alguna vez has escuchado una grabación de tu voz y has pensado: \"¡Ese no soy yo!\"? No estás solo. Cuando hablamos, nuestra voz no solo viaja por el aire, sino que llega directamente a nuestro oído interno a través de los huesos del cráneo. La conducción ósea hace que nuestra voz suene más profunda. En una grabación, los huesos de tu cráneo quedan fuera y el sonido solo llega por el aire. Por eso tu voz grabada siempre te suena extraña y más aguda."
+    "headline": "El Visitante Inesperado en el Punto Más Profundo de la Tierra",
+    "body": "Descender once kilómetros en la Fosa de las Marianas es más difícil que ir al espacio. La presión allí equivale a miles de elefantes pisándote. Sin embargo, cuando la humanidad llegó a esa oscuridad increíble y peso aplastante, encontramos algo inesperado: basura plástica hecha por el hombre. Ni el lugar más remoto de la Tierra escapó de nuestro rastro."
   },
   "ar": {
-    "headline": "هل تعلم لماذا يبدو صوتك مختلفاً تماماً عندما تسجله وتستمع إليه؟",
-    "body": "هل استمعت يوماً لتسجيل صوتك وقلت: \"هذا ليس صوتي!\"؟ لست وحدك. عندما نتحدث، لا ينتقل صوتنا عبر الهواء فحسب، بل يمر مباشرة إلى أذننا الداخلية عبر عظام الجمجمة. التوصيل العظمي يجعل الصوت يبدو أعمق وأكثر دفئاً. أما في التسجيل الصوتي، فتغيب عظام الجمجمة ويصل الصوت عبر الهواء وحده، ولهذا يبدو صوتك المسجل غريباً وأعلى نبرة دائماً."
+    "headline": "الضيف غير المتوقع في أعمق نقطة على الأرض",
+    "body": "الهبوط لمسافة أحد عشر كيلومتراً في خندق ماريانا أصعب من الذهاب إلى الفضاء. الضغط هناك يعادل آلاف الأسياد تقف عليك. ومع ذلك، عندما وصل البشريون إلى تلك الظلام المذهل والضغط الساحق، وجدنا شيئاً غير متوقع: نفايات بلاستيكية من صنع الإنسان. حتى أقاصي الأرض لم تفلت من أثرنا."
   },
   "reel_hook": {
-    "tr": "Kendi sesinizi kayıttan ilk duyduğunuzda neden nefret edersiniz?",
-    "en": "Why do you hate hearing your recorded voice for the first time?",
-    "es": "¿Por qué odias escuchar tu voz grabada por primera vez?",
-    "ar": "لماذا تكره سماع صوتك المسجل لأول مرة؟"
+    "tr": "Dünyanın en derin yerine ulaştığımızda orada bulmayı en son bekleyeceğiniz şeyle karşılaştık.",
+    "en": "When we reached the deepest place on Earth, we found the last thing you'd expect.",
+    "es": "Cuando llegamos al lugar más profundo de la Tierra, encontramos lo último que esperarías.",
+    "ar": "عندما وصلنا إلى أعمق مكان على الأرض، وجدنا آخر شيء قد تتوقعه."
   },
   "story_question": {
-    "tr": "Kendi sesimiz bize neden yabancı gelir?",
-    "en": "Why does our own voice sound foreign to us?",
-    "es": "¿Por qué nuestra propia voz nos suena extraña?",
-    "ar": "لماذا تبدو أصواتنا غريبة عنا؟"
+    "tr": "Okyanusun en derin noktası Mariana Çukuru kaç kilometre derinliktedir?",
+    "en": "How many kilometers deep is the Mariana Trench, the deepest point in the ocean?",
+    "es": "¿A qué profundidad está la Fosa de las Marianas, el punto más profundo del océano?",
+    "ar": "ما هو عمق خندق ماريانا، أعمق نقطة في المحيط، بالكيلومترات؟"
   },
   "story_options": [
-    "Sadece havayla iletildiği için",
-    "Kafatası kemikleri sesi değiştirdiği için",
-    "Mikrofonlar sesi bozduğu için"
+    "5 Kilometre",
+    "8 Kilometre",
+    "11 Kilometre"
   ],
   "hashtags": [
     "#FactBite",
-    "#ses",
     "#bilim",
-    "#ilginçbilgiler",
-    "#vücut",
-    "#fiziği",
-    "#keşfet"
+    "#okyanus",
+    "#marianachukuru",
+    "#doğa",
+    "#keşif",
+    "#çevre"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذه المعلومة لأول مرة!"
+    "tr": "Bu şoke edici gerçeği arkadaşına gönder, dünyanın en derin sırrını birlikte görün!",
+    "en": "Send this shocking fact to a friend and explore the deep together!",
+    "es": "¡Envía este hecho impactante a un amigo!",
+    "ar": "أرسل هذه الحقيقة لصديق!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "American Psychological Association",
-    "url": "https://www.apa.org/monitor/2014/12/bizarre-voice"
+    "name": "NOAA Ocean Exploration",
+    "url": "https://oceanexplorer.noaa.gov/facts/mariana-trench.html"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Sesimizin Kendi Kulaklarımıza Neden Farklı Geldiğini Biliyor musunuz?",
+  "_topic": "Dünyanın En Derin Noktasındaki O Beklenmedik Misafir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-07T19:25:42.162000+00:00",
+  "generated_at": "2026-11-07T20:51:02.664967+00:00",
   "topic_guard_days": 180
 }

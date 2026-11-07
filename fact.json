@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Elmas Yağmuru Yağan Gezegenler",
-    "body": "Dünya'da gökten su damlaları düşerken, evrenin başka yerlerinde durum çok daha zengin. Satürn ve Jüpiter gibi gaz devlerinin atmosferinde, karbon gazı devasa yıldırımlarla sıkışarak saf elmasa dönüşüyor ve gökten resmen elmas yağıyor."
+    "headline": "Kanguruların İki Ayrı Rahim Sistemi Vardır",
+    "body": "Kanguruların biyolojisi doğanın en şaşırtıcı mucizelerinden biridir. Dişi kanguruların sadece tek bir rahmi yoktur; vücutlarında birbirinden bağımsız çalışan iki ayrı rahim ve hatta iki farklı vajinal kanal bulunur. Bu olağanüstü sistem sayesinde bir yavrularını kesede büyütürken, diğeri hamileliğin çok erken aşamasında bekletme modunda tutulabilir. Böylece dışarıdaki zorlu doğa koşullarında anne, ikinci gebeliği güvenli bir zamana erteleme yeteneğine sahip olur."
   },
   "en": {
-    "headline": "Planets Where It Rains Diamonds",
-    "body": "While water droplets fall from the sky on Earth, things are much more valuable elsewhere in the universe. In the atmospheres of gas giants like Saturn and Jupiter, carbon gas is compressed by massive lightning bolts, turning into pure diamonds and literally raining down from the sky."
+    "headline": "Kangaroos Have Two Separate Uteri Systems",
+    "body": "Kangaroo biology is one of nature's most astonishing marvels. Female kangaroos do not just have a single uterus; they have two independent uteri and even separate vaginal canals working simultaneously. Thanks to this extraordinary system, while raising one joey in the pouch, a second pregnancy can be held in a paused state. This allows the mother to delay the second gestation until environmental conditions are safer."
   },
   "es": {
-    "headline": "Planetas donde llueve diamantes",
-    "body": "Mientras que en la Tierra caen gotas de agua del cielo, en otros lugares del universo la situación es mucho más valiosa. En las atmósferas de gigantes gaseosos como Saturno y Júpiter, el gas de carbono es comprimido por rayos masivos, convirtiéndose en diamantes puros y lloviendo literalmente del cielo."
+    "headline": "Los canguros tienen dos sistemas uterinos separados",
+    "body": "La biología de los canguros es una de las maravillas más asombrosas de la naturaleza. Las hembras no tienen un solo útero, sino dos úteros independientes y canales vaginales separados que funcionan simultáneamente. Gracias a este sistema extraordinario, mientras crían a una cría en la bolsa, un segundo embarazo puede mantenerse en pausa. Esto le permite a la madre retrasar la segunda gestación hasta que las condiciones sean más seguras."
   },
   "ar": {
-    "headline": "كواكب تمطر فيها الألماس",
-    "body": "بينما تسقط قطرات الماء من السماء على الأرض، فإن الوضع مختلف تماماً في أجزاء أخرى من الكون. ففي غلاف الجيوش الغازية مثل زحل والمشتري، يتم ضغط غاز الكربون بفعل صواعق هائلة، ليتحول إلى ألماس خالص ويهطل كالمطر من السماء."
+    "headline": "تمتلك الكنغرات نظامين منفصلين للرحم",
+    "body": "تعد بيولوجيا الكنگر واحدة من أكثر عجائب الطبيعة إثارة للدهشة. لا تمتلك إناث الكنگر رحماً واحداً فحسب، بل تمتلك رحمين مستقلين تماماً وقنوات مهبلية منفصلة تعمل في نفس الوقت. بفضل هذا النظام الاستثنائي، وبينما تتربي الصغار في الجيب، يمكن تعليق الحمل الثاني في وضع الانتظار، مما يماثل قدرة الأم على تأجيل الحمل الجديد حتى تصبح الظروف البيئية أكثر أماناً."
   },
   "reel_hook": {
-    "tr": "Gökten yağmur yerine elmas yağdığını söylesem?",
-    "en": "What if I told you it rains diamonds from the sky?",
-    "es": "¿Qué pasaría si te dijera que llueven diamantes del cielo?",
-    "ar": "ماذا لو قلت لك إن السماء تمطر ألماسًا؟"
+    "tr": "Bir anne kangurunun aynı anda iki farklı gebeliği yönetebildiğini biliyor muydunuz?",
+    "en": "Did you know a mother kangaroo can manage two different pregnancies at the same time?",
+    "es": "¿Sabías que una madre canguro puede gestionar dos embarazos diferentes al mismo tiempo?",
+    "ar": "هل تعلم أن أم الكنگر يمكنها إدارة حملين مختلفين في نفس الوقت؟"
   },
   "story_question": {
-    "tr": "Sence gökten elmas yağan bu dev gezegenler hangileridir?",
-    "en": "Which giant planets do you think experience diamond rain?",
-    "es": "¿Cuáles crees que son estos gigantes planetarios donde llueve diamantes?",
-    "ar": "برأيك، ما هي الكواكب العملاقة التي تشهد هطول ألماس؟"
+    "tr": "Dişi bir kangurunun kaç tane bağımsız rahmi vardır?",
+    "en": "How many independent uteri does a female kangaroo have?",
+    "es": "¿Cuántos úteros independientes tiene una hembra de canguro?",
+    "ar": "كم عدد الأرحام المستقلة التي تمتلكها أنثى الكنگر؟"
   },
   "story_options": [
-    "Satürn ve Jüpiter",
-    "Mars ve Venüs",
-    "Uranüs ve Neptün"
+    "1",
+    "2",
+    "3"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#uzay",
-    "#astronomi",
+    "#kanguru",
+    "#doğa",
+    "#biyoloji",
+    "#vahşiyaşam",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#evren"
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Stay tuned for more nature secrets like this!",
+    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
+    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "NASA Science",
-    "url": "https://solarsystem.nasa.gov/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Elmas Yağmuru Yağan Gezegenler",
+  "_topic": "Kanguruların İki Ayrı Rahim Sistemi Vardır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-07T11:47:02.005906+00:00",
+  "generated_at": "2026-11-07T12:57:29.086545+00:00",
   "topic_guard_days": 180
 }

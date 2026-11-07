@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Penguenler Hakkında Bilmediğiniz O Şaşırtıcı Gerçek",
-    "body": "Penguenleri hep paytak yürüyen, kısa bacaklı sevimli kuşlar olarak biliriz değil mi? Aslında işin aslı öyle değil. Onların o komik yürüyüşünün altında yatan fiziksel bir sır var. Penguenlerin bacakları aslında tüylerinin altında gizli ve oldukça uzundur; yani onlar adeta ömür boyu yarı çömelmiş pozisyonda yürürler."
+    "headline": "Sesimizin Kendi Kulaklarımıza Neden Farklı Geldiğini Biliyor musunuz?",
+    "body": "Kendi sesinizi bir kayıttan dinlediğinizde \"Bu ben olamam!\" dediğiniz olur mu? Aslında yalnız değilsiniz. Konuştuğumuzda sesimiz sadece havada yayılmaz; aynı zamanda kafatasımızdaki kemikler aracılığıyla doğrudan iç kulağımıza iletilir. Kemik iletimi, ses dalgalarını daha kalibre ve düşük frekanslı, yani daha tok gösterir. Ses kaydında ise kafatası kemiklerimiz devreden çıkar ve ses sadece havayla kulağımıza ulaşır. Bu yüzden dışarıdan duyduğumuz ses, bize hep yabancı ve daha ince gelir."
   },
   "en": {
-    "headline": "The Surprising Truth You Didn't Know About Penguins",
-    "body": "We always picture penguins as adorable short-legged birds waddling around, right? Well, that's not quite how it works. There's a hidden physical secret behind that funny walk. A penguin's legs are actually long and tucked away beneath their feathers, meaning they essentially spend their lives in a perpetual half-squat."
+    "headline": "Do You Know Why Your Voice Sounds So Different to You?",
+    "body": "Ever listened to a recording of your voice and thought, \"That's not me!\"? You're not alone. When we speak, our voice travels not just through the air, but directly to our inner ear via our skull bones. Bone conduction makes our voice sound deeper and richer. In a recording, your skull bones are cut out of the equation, and the sound only reaches your ear through the air. That's why your recorded voice always sounds unfamiliar and higher pitched."
   },
   "es": {
-    "headline": "La sorprendente verdad que no sabías sobre los pingüinos",
-    "body": "Siempre imaginamos a los pingüinos como aves adorables de patas cortas que caminan tambaleándose, ¿verdad? Bueno, la realidad es muy distinta. Hay un secreto físico detrás de esa graciosa caminata. Las patas de los pingüinos son en realidad largas y están escondidas bajo sus plumas; básicamente pasan la vida en una cuasi-sentadilla perpetua."
+    "headline": "¿Sabes por qué tu voz te suena tan diferente cuando la escuchas grabada?",
+    "body": "¿Alguna vez has escuchado una grabación de tu voz y has pensado: \"¡Ese no soy yo!\"? No estás solo. Cuando hablamos, nuestra voz no solo viaja por el aire, sino que llega directamente a nuestro oído interno a través de los huesos del cráneo. La conducción ósea hace que nuestra voz suene más profunda. En una grabación, los huesos de tu cráneo quedan fuera y el sonido solo llega por el aire. Por eso tu voz grabada siempre te suena extraña y más aguda."
   },
   "ar": {
-    "headline": "الحقيقة المدهشة التي لا تعرفها عن البطاريق",
-    "body": "دائماً ما نتخيل البطاريق كطيور لطيفة قصيرة الساقين تترنح أثناء المشي، أليس كذلك؟ الحقيقة ليست كذلك تماماً. هناك سر جسدي مخفي وراء تلك المشية المضحكة. سيقان البطاريق طويلة في الواقع ومختبئة تحت ريشها؛ مما يعني أنها تقضي حياتها فعلياً في وضعية القرفصاء المستمرة."
+    "headline": "هل تعلم لماذا يبدو صوتك مختلفاً تماماً عندما تسجله وتستمع إليه؟",
+    "body": "هل استمعت يوماً لتسجيل صوتك وقلت: \"هذا ليس صوتي!\"؟ لست وحدك. عندما نتحدث، لا ينتقل صوتنا عبر الهواء فحسب، بل يمر مباشرة إلى أذننا الداخلية عبر عظام الجمجمة. التوصيل العظمي يجعل الصوت يبدو أعمق وأكثر دفئاً. أما في التسجيل الصوتي، فتغيب عظام الجمجمة ويصل الصوت عبر الهواء وحده، ولهذا يبدو صوتك المسجل غريباً وأعلى نبرة دائماً."
   },
   "reel_hook": {
-    "tr": "Penguenlerin o komik yürüyüşünün arkasında devasa bir sır olduğunu biliyor muydunuz?",
-    "en": "Did you know there's a huge secret behind why penguins walk so funnily?",
-    "es": "¿Sabías que hay un gran secreto detrás de por qué los pingüinos caminan de esa forma tan graciosa?",
-    "ar": "هل تعلم أن هناك سرًا كبيرًا وراء سبب مشي البطاريق بهذه الطريقة المضحكة؟"
+    "tr": "Kendi sesinizi kayıttan ilk duyduğunuzda neden nefret edersiniz?",
+    "en": "Why do you hate hearing your recorded voice for the first time?",
+    "es": "¿Por qué odias escuchar tu voz grabada por primera vez?",
+    "ar": "لماذا تكره سماع صوتك المسجل لأول مرة؟"
   },
   "story_question": {
-    "tr": "Penguenlerin bacakları hakkında bilinen bu yanlışın sebebi sizce nedir?",
-    "en": "What do you think is the reason for this common misconception about penguin legs?",
-    "es": "¿Cuál crees que es la razón de este malentendido común sobre las patas de los pingüinos?",
-    "ar": "ما برأيك سبب هذا الاعتقاد الخاطئ الشائع حول سيقان البطاريق؟"
+    "tr": "Kendi sesimiz bize neden yabancı gelir?",
+    "en": "Why does our own voice sound foreign to us?",
+    "es": "¿Por qué nuestra propia voz nos suena extraña?",
+    "ar": "لماذا تبدو أصواتنا غريبة عنا؟"
   },
   "story_options": [
-    "Kısa olmaları",
-    "Tüylerin altında gizlenmesi",
-    "Hiç bacaklarının olmaması"
+    "Sadece havayla iletildiği için",
+    "Kafatası kemikleri sesi değiştirdiği için",
+    "Mikrofonlar sesi bozduğu için"
   ],
   "hashtags": [
     "#FactBite",
-    "#penguen",
-    "#bilgi",
-    "#doğa",
-    "#hayvanlar",
-    "#İlginçBilgiler",
-    "#bilim"
+    "#ses",
+    "#bilim",
+    "#ilginçbilgiler",
+    "#vücut",
+    "#fiziği",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذه المعلومة لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 9
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "San Diego Zoo Wildlife Alliance",
-    "url": "https://animals.sandiegozoo.org/animals/penguin"
+    "name": "American Psychological Association",
+    "url": "https://www.apa.org/monitor/2014/12/bizarre-voice"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Penguenler Hakkında Bilmediğiniz O Şaşırtıcı Gerçek",
+  "_topic": "Sesimizin Kendi Kulaklarımıza Neden Farklı Geldiğini Biliyor musunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-07T16:58:12.549711+00:00",
+  "generated_at": "2026-11-07T19:25:42.162000+00:00",
   "topic_guard_days": 180
 }

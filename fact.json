@@ -1,37 +1,37 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Penguenler Aslında Dizlerine Kadar Nasıl Gömülüdür?",
-    "body": "Dışarıdan bakıldığında penguenlerin hep paytak yürüyen, bacaksız kuşlar olduğunu sanırız. Ama gerçek çok farklı! Penguenlerin tüylerinin altında, insanlardaki gibi tam teşekküllü uyluk, diz ve kaval kemikleri gizlidir. Onlar aslında sürekli çömelmiş pozisyonda yürürler!"
+    "headline": "Penguenler Hakkında Bilmediğiniz O Şaşırtıcı Gerçek",
+    "body": "Penguenleri hep paytak yürüyen, kısa bacaklı sevimli kuşlar olarak biliriz değil mi? Aslında işin aslı öyle değil. Onların o komik yürüyüşünün altında yatan fiziksel bir sır var. Penguenlerin bacakları aslında tüylerinin altında gizli ve oldukça uzundur; yani onlar adeta ömür boyu yarı çömelmiş pozisyonda yürürler."
   },
   "en": {
-    "headline": "Are Penguins Actually Hiding Knees Under Their Feathers?",
-    "body": "From the outside, penguins look like waddling birds without legs. But the reality is quite different! Hidden beneath their feathers are fully functioning thighs, knees, and shin bones just like humans. They essentially walk around in a permanent squat!"
+    "headline": "The Surprising Truth You Didn't Know About Penguins",
+    "body": "We always picture penguins as adorable short-legged birds waddling around, right? Well, that's not quite how it works. There's a hidden physical secret behind that funny walk. A penguin's legs are actually long and tucked away beneath their feathers, meaning they essentially spend their lives in a perpetual half-squat."
   },
   "es": {
-    "headline": "¿Tienen los pingüinos rodillas escondidas bajo sus plumas?",
-    "body": "A simple vista, los pingüinos parecen aves sin piernas que caminan tambaleándose. ¡Pero la realidad es muy distinta! Ocultos bajo sus plumas hay fémures, rodillas y tibias completamente desarrollados, igual que los humanos. ¡Básicamente caminan en una cuclilla permanente!"
+    "headline": "La sorprendente verdad que no sabías sobre los pingüinos",
+    "body": "Siempre imaginamos a los pingüinos como aves adorables de patas cortas que caminan tambaleándose, ¿verdad? Bueno, la realidad es muy distinta. Hay un secreto físico detrás de esa graciosa caminata. Las patas de los pingüinos son en realidad largas y están escondidas bajo sus plumas; básicamente pasan la vida en una cuasi-sentadilla perpetua."
   },
   "ar": {
-    "headline": "هل تمتلك البطاريق ركباً مخفية تحت ريشها؟",
-    "body": "من الخارج، تبدو البطاريق طيوراً تترنح بلا أرجل. لكن الحقيقة مختلفة تماماً! مخفية تحت ريشها عظام فخذ ورك وساق متكاملة تماماً مثل البشر. إنها تمشي فعلياً وهي في وضعية القرفصاء الدائمة!"
+    "headline": "الحقيقة المدهشة التي لا تعرفها عن البطاريق",
+    "body": "دائماً ما نتخيل البطاريق كطيور لطيفة قصيرة الساقين تترنح أثناء المشي، أليس كذلك؟ الحقيقة ليست كذلك تماماً. هناك سر جسدي مخفي وراء تلك المشية المضحكة. سيقان البطاريق طويلة في الواقع ومختبئة تحت ريشها؛ مما يعني أنها تقضي حياتها فعلياً في وضعية القرفصاء المستمرة."
   },
   "reel_hook": {
-    "tr": "Penguenlerin bacakları hakkında bildiğiniz her şeyi unutun.",
-    "en": "Forget everything you know about penguin legs.",
-    "es": "Olvida todo lo que sabes sobre las patas de los pingüinos.",
-    "ar": "انسا كل ما تعرفه عن أرجل البطاريق."
+    "tr": "Penguenlerin o komik yürüyüşünün arkasında devasa bir sır olduğunu biliyor muydunuz?",
+    "en": "Did you know there's a huge secret behind why penguins walk so funnily?",
+    "es": "¿Sabías que hay un gran secreto detrás de por qué los pingüinos caminan de esa forma tan graciosa?",
+    "ar": "هل تعلم أن هناك سرًا كبيرًا وراء سبب مشي البطاريق بهذه الطريقة المضحكة؟"
   },
   "story_question": {
-    "tr": "Sence penguenlerin bacakları tüylerinin altında nasıl duruyor?",
-    "en": "How do you think penguin legs look under their feathers?",
-    "es": "¿Cómo crees que son las patas de los pingüinos bajo sus plumas?",
-    "ar": "كيف تعتقد أن أرجل البطاريق تبدو تحت ريشها؟"
+    "tr": "Penguenlerin bacakları hakkında bilinen bu yanlışın sebebi sizce nedir?",
+    "en": "What do you think is the reason for this common misconception about penguin legs?",
+    "es": "¿Cuál crees que es la razón de este malentendido común sobre las patas de los pingüinos?",
+    "ar": "ما برأيك سبب هذا الاعتقاد الخاطئ الشائع حول سيقان البطاريق؟"
   },
   "story_options": [
-    "Düz ve uzun bacaklar",
-    "Bükülü ve gizli dizler",
-    "Tek parça kemik yapısı"
+    "Kısa olmaları",
+    "Tüylerin altında gizlenmesi",
+    "Hiç bacaklarının olmaması"
   ],
   "hashtags": [
     "#FactBite",
@@ -39,21 +39,21 @@
     "#bilgi",
     "#doğa",
     "#hayvanlar",
-    "#ilginç",
+    "#İlginçBilgiler",
     "#bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more surprising facts like this!",
+    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
     "name": "San Diego Zoo Wildlife Alliance",
@@ -61,9 +61,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Penguenler Aslında Dizlerine Kadar Nasıl Gömülüdür?",
+  "_topic": "Penguenler Hakkında Bilmediğiniz O Şaşırtıcı Gerçek",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-07T14:56:49.036827+00:00",
+  "generated_at": "2026-11-07T16:58:12.549711+00:00",
   "topic_guard_days": 180
 }

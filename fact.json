@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çilekler Aslında Meyve Değil, Birer Kuruyemiş Mi?",
-    "body": "Manavda meyve olarak bildiğimiz çileğin üzerinde yer o minik noktaların her biri aslında ayrı birer meyve! Botanikçilere göre çilek, etli kısmı meyve sayılmayan, gerçek meyveleri dışındaki o minik çekirdekler olan yalancı bir meyve türüdür. Hatta bilimsel olarak kuruyemiş sınıfına bile yaklaşırlar."
+    "headline": "Diliniz İyileşirken Neden Bu Kadar Hızlı?",
+    "body": "Ağzınızın içinde oluşan küçük bir yara, vücudunuzun diğer yerlerindeki kesiklere göre inanılmaz bir hızla iyileşir. Bunun sırrı, tükürüğümüzde bulunan ve hücrelerin hızla çoğalmasını sağlayan özel büyüme faktörleridir. Doğa, en çok kullandığımız kası korumak için mucizevi bir sistem kurmuştur."
   },
   "en": {
-    "headline": "Strawberries Are Actually Not Fruits, But Nuts?",
-    "body": "Every single tiny dot on the strawberry we know as fruit is actually a separate fruit! According to botanists, the fleshy part of a strawberry is not the true fruit; the true fruits are those tiny seeds on the outside. Botanically, they even lean towards the nut family."
+    "headline": "Why Does Your Tongue Heal So Fast?",
+    "body": "A small wound inside your mouth heals at an incredible speed compared to cuts on other parts of your body. The secret lies in special growth factors found in our saliva that make cells multiply rapidly. Nature has built a miraculous system to protect the muscle we use the most."
   },
   "es": {
-    "headline": "¿Las fresas en realidad no son frutas, sino frutos secos?",
-    "body": "¡Cada uno de los pequeños puntos en la fresa que conocemos como fruta es en realidad un fruto separado! Según los botánicos, la parte carnosa no es la fruta verdadera; los verdaderos frutos son esas pequeñas semillas del exterior."
+    "headline": "¿Por qué tu lengua sana tan rápido?",
+    "body": "Una pequeña herida dentro de tu boca sana a una velocidad increíble en comparación con los cortes en otras partes de tu cuerpo. El secreto radica en los factores de crecimiento especiales que se encuentran en nuestra saliva y que hacen que las células se multipliquen rápidamente."
   },
   "ar": {
-    "headline": "هل الفراولة ليست فاكهة حقاً بل مكسرات؟",
-    "body": "كل نقطة صغيرة على الفراولة التي نعرفها كفاكهة هي في الواقع ثمرة منفصلة! وفقاً لعلماء النبات، فإن الجزء اللحمي ليس الثمرة الحقيقية، بل الثمار الحقيقية هي تلك البذور الصغيرة الموجودة في الخارج."
+    "headline": "لماذا يلتئم لسانك بهذه السرعة؟",
+    "body": "الجرح الصغير داخل فمك يلتئم بسرعة مذهلة مقارنة بالجروح في أجزاء أخرى من جسمك. يكمن السر في عوامل النمو الخاصة الموجودة في لعابنا والتي تجعل الخلايا تتضاعف بسرعة."
   },
   "reel_hook": {
-    "tr": "Manavdan aldığınız o kırmızı çileklerin aslında birer meyve olmadığını biliyor muydunuz?",
-    "en": "Did you know those red strawberries you buy aren't actually fruits?",
-    "es": "¿Sabías que esas fresas rojas que compras en realidad no son frutas?",
-    "ar": "هل تعلم أن تلك الفراولة الحمراء التي تشتريها ليست فاكهة حقاً؟"
+    "tr": "Vücudunuzun tek bir yeri var ki, neresi yaralanırsa yaralansın inanılmaz bir hızla iyileşir...",
+    "en": "There is one part of your body that heals at an incredible speed no matter how it gets hurt...",
+    "es": "Hay una parte de tu cuerpo que sana a una velocidad increíble sin importar cómo se lastime...",
+    "ar": "هناك جزء واحد من جسمك يلتئم بسرعة مذهلة بغض النظر عن كيفية تعرضه للإصابة..."
   },
   "story_question": {
-    "tr": "Çileğin dışındaki o minik noktaların gerçekte ne olduğunu biliyor musunuz?",
-    "en": "Do you know what those tiny dots on the outside of a strawberry really are?",
-    "es": "¿Sabes qué son realmente esos pequeños puntos en el exterior de una fresa?",
-    "ar": "هل تعلم ما هي تلك النقاط الصغيرة الموجودة على سطح الفراولة حقاً؟"
+    "tr": "Ağız içindeki yaraların bu kadar hızlı iyileşmesinin ana sebebi nedir?",
+    "en": "What is the main reason why wounds inside the mouth heal so fast?",
+    "es": "¿Cuál es la principal razón por la que las heridas dentro de la boca sanan tan rápido?",
+    "ar": "ما هو السبب الرئيسي لالتئام الجروح داخل الفم بهذه السرعة؟"
   },
   "story_options": [
-    "Ayrı birer meyve",
-    "Sadece çekirdek",
-    "Tohum kılıfı"
+    "Tükürükteki özel büyüme faktörleri",
+    "Kan akışının çok yavaş olması",
+    "Havanın hiç temas etmemesi"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#botanik",
-    "#çilek",
     "#bilim",
-    "#öğrenme"
+    "#sağlık",
+    "#insan",
+    "#biyoloji",
+    "#ilginçbilgiler",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more surprising facts like this!",
-    "es": "¡No olvides seguirnos para más datos sorprendentes como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunu bildiğini şaşıran bir arkadaşına gönder!",
+    "en": "Send this to a friend who would be amazed by this!",
+    "es": "¡Envíaselo a un amigo que se sorprendería con esto!",
+    "ar": "أرسل هذا إلى صديق ستفاجئه هذه المعلومة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.75
+    "overall": 8.7
   },
   "source": {
-    "name": "Encyclopædia Britannica",
-    "url": "https://www.britannica.com/plant/strawberry"
+    "name": "National Geographic & Medical News Today",
+    "url": "https://www.medicalnewstoday.com/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çilekler Aslında Meyve Değil, Birer Kuruyemiş Mi?",
+  "_topic": "Diliniz İyileşirken Neden Bu Kadar Hızlı?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-08T18:15:24.822861+00:00",
+  "generated_at": "2026-11-08T19:24:56.791452+00:00",
   "topic_guard_days": 180
 }

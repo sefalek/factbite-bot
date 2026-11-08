@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Diliniz İyileşirken Neden Bu Kadar Hızlı?",
-    "body": "Ağzınızın içinde oluşan küçük bir yara, vücudunuzun diğer yerlerindeki kesiklere göre inanılmaz bir hızla iyileşir. Bunun sırrı, tükürüğümüzde bulunan ve hücrelerin hızla çoğalmasını sağlayan özel büyüme faktörleridir. Doğa, en çok kullandığımız kası korumak için mucizevi bir sistem kurmuştur."
+    "headline": "Yıldızlararası Uzay Çöpü",
+    "body": "Dünyanın etrafında dönen sadece uydular yok. Yörüngede binlerce tonluk uzay çöpü saatte 28 bin kilometre hızla hareket ediyor. Bu hızdaki küçücük bir boya tanesi bile bir uzay aracını delebilecek yıkıcı güce sahip."
   },
   "en": {
-    "headline": "Why Does Your Tongue Heal So Fast?",
-    "body": "A small wound inside your mouth heals at an incredible speed compared to cuts on other parts of your body. The secret lies in special growth factors found in our saliva that make cells multiply rapidly. Nature has built a miraculous system to protect the muscle we use the most."
+    "headline": "Interstellar Space Junk",
+    "body": "There are not only satellites orbiting Earth. Thousands of tons of space debris move at 28,000 kilometers per hour. Even a tiny speck of paint at this speed has the destructive power to pierce a spacecraft."
   },
   "es": {
-    "headline": "¿Por qué tu lengua sana tan rápido?",
-    "body": "Una pequeña herida dentro de tu boca sana a una velocidad increíble en comparación con los cortes en otras partes de tu cuerpo. El secreto radica en los factores de crecimiento especiales que se encuentran en nuestra saliva y que hacen que las células se multipliquen rápidamente."
+    "headline": "Basura Espacial Interestelar",
+    "body": "No solo hay satélites orbitando la Tierra. Miles de toneladas de basura espacial se mueven a 28,000 kilómetros por hora. Incluso una pequeña mota de pintura a esta velocidad tiene el poder destructivo de perforar una nave espacial."
   },
   "ar": {
-    "headline": "لماذا يلتئم لسانك بهذه السرعة؟",
-    "body": "الجرح الصغير داخل فمك يلتئم بسرعة مذهلة مقارنة بالجروح في أجزاء أخرى من جسمك. يكمن السر في عوامل النمو الخاصة الموجودة في لعابنا والتي تجعل الخلايا تتضاعف بسرعة."
+    "headline": "حطام الفضاء بين النجوم",
+    "body": "لا توجد أقمار صناعية تدور حول الأرض فحسب. الآلاف من أطنان الحطام الفضائي تتحرك بسرعة 28 ألف كيلومتر في الساعة. حتى حبة طلاء صغيرة بهذه السرعة تمتلك قوة مدمرة قادرة على اختراق مركبة فضائية."
   },
   "reel_hook": {
-    "tr": "Vücudunuzun tek bir yeri var ki, neresi yaralanırsa yaralansın inanılmaz bir hızla iyileşir...",
-    "en": "There is one part of your body that heals at an incredible speed no matter how it gets hurt...",
-    "es": "Hay una parte de tu cuerpo que sana a una velocidad increíble sin importar cómo se lastime...",
-    "ar": "هناك جزء واحد من جسمك يلتئم بسرعة مذهلة بغض النظر عن كيفية تعرضه للإصابة..."
+    "tr": "Dünyanın çevresinde saatte 28 bin kilometre hızla uçan o tehlikeyi biliyor musunuz?",
+    "en": "Do you know about the danger flying around Earth at 28,000 kilometers per hour?",
+    "es": "¿Conoces el peligro que vuela alrededor de la Tierra a 28,000 kilómetros por hora?",
+    "ar": "هل تعرف الخطر الذي يطير حول الأرض بسرعة 28 ألف كيلومتر في الساعة؟"
   },
   "story_question": {
-    "tr": "Ağız içindeki yaraların bu kadar hızlı iyileşmesinin ana sebebi nedir?",
-    "en": "What is the main reason why wounds inside the mouth heal so fast?",
-    "es": "¿Cuál es la principal razón por la que las heridas dentro de la boca sanan tan rápido?",
-    "ar": "ما هو السبب الرئيسي لالتئام الجروح داخل الفم بهذه السرعة؟"
+    "tr": "Alçak Dünya yörüngesindeki en yaygın uzay çöpü türü nedir?",
+    "en": "What is the most common type of space debris in Low Earth Orbit?",
+    "es": "¿Cuál es el tipo más común de basura espacial en la órbita terrestre baja?",
+    "ar": "ما هو النوع الأكثر شيوعاً من الحطام الفضائي في مدار الأرض المنخفض؟"
   },
   "story_options": [
-    "Tükürükteki özel büyüme faktörleri",
-    "Kan akışının çok yavaş olması",
-    "Havanın hiç temas etmemesi"
+    "Eski roket parçaları",
+    "İşlevsiz uydular",
+    "Boya ve metal parçacıkları"
   ],
   "hashtags": [
     "#FactBite",
+    "#uzay",
     "#bilim",
-    "#sağlık",
-    "#insan",
-    "#biyoloji",
-    "#ilginçbilgiler",
-    "#keşfet"
+    "#teknoloji",
+    "#keşif",
+    "#astronomi"
   ],
   "cta": {
-    "tr": "Bunu bildiğini şaşıran bir arkadaşına gönder!",
-    "en": "Send this to a friend who would be amazed by this!",
-    "es": "¡Envíaselo a un amigo que se sorprendería con esto!",
-    "ar": "أرسل هذا إلى صديق ستفاجئه هذه المعلومة!"
+    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguirnos para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic & Medical News Today",
-    "url": "https://www.medicalnewstoday.com/"
+    "name": "NASA Orbital Debris Program Office",
+    "url": "https://orbitaldebris.jsc.nasa.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Diliniz İyileşirken Neden Bu Kadar Hızlı?",
+  "_topic": "Yıldızlararası Uzay Çöpü",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-08T19:24:56.791452+00:00",
+  "generated_at": "2026-11-08T21:05:37.899848+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kedi Kediliğini Unutunca",
-    "body": "Evdeki minik dostumuz kedi, aslında gününün büyük kısmını uyuyarak geçirir ama her kedinin yapamadığı gizli bir huyu vardır: Patileriyle havada klavye çalmak gibi görünse de, aslında onlar sadece koku bırakıyorlar."
+    "headline": "Sabahları Neden Esneriz?",
+    "body": "Uykudan uyanır uyanmaz yaptığımız o derin esneme sadece yorgunluktan mı ibaret? Bilim insanları, esnemenin aslında beynimizi soğutmak için çalışan doğal bir klima sistemi olduğunu söylüyor. Derin nefes aldığımızda beynimize serin kan pompalanıyor."
   },
   "en": {
-    "headline": "When Cats Forget",
-    "body": "Our little feline friends spend most of their day sleeping, but they have a hidden habit: when they knead you with their paws, they aren't just making biscuits, they are marking their territory."
+    "headline": "Why Do We Yawn in the Morning?",
+    "body": "Is that deep yawn right after waking up just about tiredness? Scientists say yawning is actually a natural AC system working to cool down our brain. When we take a deep breath, cool blood is pumped to our brain."
   },
   "es": {
-    "headline": "Cuando los Gatos Olvidan",
-    "body": "Nuestros pequeños amigos felinos pasan la mayor parte del día durmiendo, pero tienen un hábito oculto: cuando amasan con sus patas, no solo están relajados, están marcando su territorio."
+    "headline": "¿Por qué bostezamos por la mañana?",
+    "body": "¿Ese bostezo profundo justo al despertar es solo cansancio? Los científicos dicen que bostezar es en realidad un sistema de aire acondicionado natural que enfría nuestro cerebro. Al respirar hondo, bombea sangre fresca al cerebro."
   },
   "ar": {
-    "headline": "عندما تنسى القطط",
-    "body": "تقضي قططنا الأليفة معظم يومها في النوم، لكن لديهم عادة خفية: عندما يعجنون بمخالبهم، فإنهم لا يصنعون الكعك فحسب، بل يحددون مناطقهم."
+    "headline": "لماذا نتثاءب في الصباح؟",
+    "body": "هل هذا التثاؤب العنيف بعد الاستيقاظ مجرد تعب؟ يقول العلماء إن التثاؤب هو في الواقع نظام تكييف طبيعي لتبريد أدمغتنا. عندما نأخذ نفساً عميقاً، يتم ضخ دماء باردة إلى الدماغ."
   },
   "reel_hook": {
-    "tr": "Kediniz kucağınızdayken neden sürekli sizi patiler?",
-    "en": "Why does your cat constantly knead you while on your lap?",
-    "es": "¿Por qué tu gato te amasa constantemente mientras está en tu regazo?",
-    "ar": "لماذا تعجنك قطتك باستمرار أثناء وجودها في حجرك؟"
+    "tr": "Uyanır uyanmaz esnemenizin gerçek sebebini biliyor musunuz?",
+    "en": "Do you know the real reason why you yawn as soon as you wake up?",
+    "es": "¿Conoces la verdadera razón por la que bostezas en cuanto te despiertas?",
+    "ar": "هل تعلم السبب الحقيقي لتثاؤبك بمجرد استيقاظك؟"
   },
   "story_question": {
-    "tr": "Kedilerin patilerinde ne olduğunu biliyor musunuz?",
-    "en": "Do you know what cats have on their paws?",
-    "es": "¿Sabes qué tienen los gatos en sus patas?",
-    "ar": "هل تعلم ماذا توجد في مخالب القطط؟"
+    "tr": "Esnemenin ana görevi sizce nedir?",
+    "en": "What do you think is the main function of yawning?",
+    "es": "¿Cuál crees que es la función principal del bostezo?",
+    "ar": "ما هي الوظيفة الرئيسية للتثاؤب برأيك؟"
   },
   "story_options": [
-    "Koku bezleri",
-    "Ter bezleri",
-    "Hiçbiri"
+    "Beyni soğutmak",
+    "Oksijen toplamak",
+    "Kasları germek"
   ],
   "hashtags": [
     "#FactBite",
-    "#kedi",
-    "#bilgi",
-    "#hayvanlar",
-    "#ilginç",
-    "#evdecc",
-    "#keşfet"
+    "#bilim",
+    "#ilginçbilgiler",
+    "#sağlık",
+    "#beyin",
+    "#keşfet",
+    "#öğrenme"
   ],
   "cta": {
-    "tr": "Bunu bilen kedi sahibine gönder!",
-    "en": "Send this to a cat owner who needs to know!",
-    "es": "¡Envíaselo a un dueño de gato que deba saber esto!",
-    "ar": "أرسل هذا لصاحب قطة يجب أن يعرف ذلك!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que escuche esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
+    "surprise": 9,
+    "shareability": 8,
     "clarity": 9,
-    "overall": 8.8
+    "overall": 8.7
   },
   "source": {
-    "name": "Cat Behavior Associates",
-    "url": "https://catbehaviorassociates.com/why-do-cats-knead/"
+    "name": "Sleep Research Society",
+    "url": "https://academic.oup.com/sleep"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kedi Kediliğini Unutunca",
+  "_topic": "Sabahları Neden Esneriz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-08T15:14:23.347162+00:00",
+  "generated_at": "2026-11-08T17:10:29.747060+00:00",
   "topic_guard_days": 180
 }

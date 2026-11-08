@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşlar Nezaketten Mi Bekliyor?",
-    "body": "Trafikte ya da kaldırımda yürürken karşınıza çıkan bir kuşa yol vermeye çalıştığınızda onun da tam sizinle aynı yöne hamle yaptığını fark etmişsinizdir. Aslında bu bir nezaket yarışı değil, tamamen iki beynin aynı anda aynı avcıdan kaçış hamlesini hesaplamaya çalışmasından kaynaklanan optik bir kilitlenmedir."
+    "headline": "Kuşların Yuvalarını Aslında Sadece Çöp Toplayarak Yapmadığını Biliyor muydunuz?",
+    "body": "Kuşlar yuva yaparken sadece dal ve yaprak toplamaz; doğadaki bazı özel bitki örtülerini özellikle seçerler. Çünkü bu bitkiler, yuvadaki parazitleri uzaklaştıran doğal kimyasallar salgılar. Yani kuşlar, yavrularını korumak için mini bir eczane kurarlar."
   },
   "en": {
-    "headline": "Are Birds Being Polite?",
-    "body": "When you try to step aside for a bird on the sidewalk and it moves in the exact same direction, it's not politeness. It's an optical lock caused by two brains simultaneously trying to calculate the same escape route from a potential predator."
+    "headline": "Did You Know Birds Don't Just Gather Trash to Build Their Nests?",
+    "body": "When building nests, birds don't just collect twigs and leaves; they specifically choose certain types of foliage. These plants release natural chemicals that repel parasites, acting like a mini pharmacy to protect their chicks."
   },
   "es": {
-    "headline": "¿Los pájaros son educados?",
-    "body": "Cuando intentas esquivar a un ave en la acera y se mueve exactamente en tu misma dirección, no es cortesía. Es un bloqueo óptico causado por dos cerebros intentando calcular al mismo tiempo la misma ruta de escape de un posible depredador."
+    "headline": "¿Sabías que las aves no solo juntan basura para hacer sus nidos?",
+    "body": "Al construir nidos, las aves no solo recolectan ramas y hojas; eligen específicamente cierta vegetación. Estas plantas liberan químicos naturales que ahuyentan a los parásitos, funcionando como una mini farmacia para proteger a sus polluelos."
   },
   "ar": {
-    "headline": "هل الطيور مهذبة أم مرتبكة؟",
-    "body": "عندما تحاول إفساح المجال لطائر على الرصيف فيتحرك في نفس اتجاهك تماماً، فهذه ليست لياقة. إنه قفل بصري ناتج عن محاولة عقلين حساب نفس مسار الهروب من مفترس محتمل في نفس اللحظة."
+    "headline": "هل كنت تعلم أن الطيور لا تجمع القمامة فقط لبناء أعشاشها؟",
+    "body": "عند بناء الأعشاش، لا تجمع الطيور الأغصان والأوراق فحسب؛ بل تختار نباتات معينة بعناية. تطلق هذه النباتات مواد كيميائية طبيعية تطرد الطفيليات، وكأنها تبني صيدلية صغيرة لحماية صغارها."
   },
   "reel_hook": {
-    "tr": "Karşınızdaki kuşla neden sürekli aynı yöne adim atarsınız?",
-    "en": "Why do you and that bird keep stepping in the same direction?",
-    "es": "¿Por qué tú y ese pájaro se mueven siempre hacia el mismo lado?",
-    "ar": "لماذا تتحرك أنت وذلك الطائر دائماً في نفس الاتجاه بالصدفة؟"
+    "tr": "Kuşların yuvalarında sakladığı o gizli eczaneyi biliyor musunuz?",
+    "en": "Do you know the hidden pharmacy birds keep in their nests?",
+    "es": "¿Conoces la farmacia oculta que las aves guardan en sus nidos?",
+    "ar": "هل تعرف الصيدلية المخفية التي تحتفظ بها الطيور في أعشاتها؟"
   },
   "story_question": {
-    "tr": "Sizce bu anlık kararsızlık anında kuşlar ne düşünür?",
-    "en": "What do you think birds are thinking during this standoff?",
-    "es": "¿Qué crees que piensan las aves en ese momento de duda?",
-    "ar": "برأيك، ماذا يفكر الطائر في لحظة التردد المتبادل هذه؟"
+    "tr": "Kuşlar yuvalarına neden taze bitkiler ekler?",
+    "en": "Why do birds add fresh plants to their nests?",
+    "es": "¿Por qué las aves añaden plantas frescas a sus nidos?",
+    "ar": "لماذا تضيف الطيور نباتات طازجة إلى أعشاشها؟"
   },
   "story_options": [
-    "Yol veriyor",
-    "Beyinleri kilitleniyor",
-    "Oyun oynuyor"
+    "Parazitleri uzaklaştırmak için",
+    "Yuveyi yumuşatmak için",
+    "Dekoratif amaçla"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
     "#doğa",
+    "#kuşlar",
     "#bilim",
     "#ilginçbilgiler",
     "#hayvanlaralemi",
-    "#psikoloji"
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bu tarz anları kiminle yaşarsınız? Yorumlara yazın!",
-    "en": "Who do you always do this dance with? Let us know in the comments!",
-    "es": "¿Con quién te pasa esto siempre? ¡Déjalo en los comentarios!",
-    "ar": "مع من تتكرر معك هذه المواقف دائماً؟ شاركنا في التعليقات!"
+    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
+    "en": "Follow for more nature secrets like this!",
+    "es": "¡Sígueme para más secretos de la naturaleza como este!",
+    "ar": "تابعنا للمزيد من أسرار الطبيعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
     "name": "Ornithology and Animal Behavior Studies",
-    "url": "https://www.sciencedaily.com"
+    "url": "https://www.audubon.org/news/why-do-birds-line-their-nests-green-leaves"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşlar Nezaketten Mi Bekliyor?",
+  "_topic": "Kuşların Yuvalarını Aslında Sadece Çöp Toplayarak Yapmadığını Biliyor muydunuz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-07T23:59:38.149545+00:00",
+  "generated_at": "2026-11-08T11:58:09.334811+00:00",
   "topic_guard_days": 180
 }

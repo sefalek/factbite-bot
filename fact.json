@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Ay'ın Yüzeyindeki O Garip Ayak İzleri Asla Silinmez",
-    "body": "Apollo astronotlarının Ay'da bıraktığı ayak izleri sonsuza kadar orada kalacak. Çünkü Ay'da rüzgar veya atmosfer yok; yani onları silip süpürecek hava olayları tamamen eksik!"
+    "headline": "Kedi Kediliğini Unutunca",
+    "body": "Evdeki minik dostumuz kedi, aslında gününün büyük kısmını uyuyarak geçirir ama her kedinin yapamadığı gizli bir huyu vardır: Patileriyle havada klavye çalmak gibi görünse de, aslında onlar sadece koku bırakıyorlar."
   },
   "en": {
-    "headline": "Those Strange Footprints on the Moon Will Never Fade",
-    "body": "The footprints left by Apollo astronauts on the Moon will stay there forever. Because there is no wind or atmosphere on the Moon; meaning weather events to erase them are completely absent!"
+    "headline": "When Cats Forget",
+    "body": "Our little feline friends spend most of their day sleeping, but they have a hidden habit: when they knead you with their paws, they aren't just making biscuits, they are marking their territory."
   },
   "es": {
-    "headline": "Esas Extrañas Huellas en la Luna Nunca Desaparecerán",
-    "body": "Las huellas dejadas por los astronautas del Apolo en la Luna permanecerán allí para siempre. ¡Porque no hay viento ni atmósfera en la Luna; es decir, faltan por completo los fenómenos meteorológicos para borrarlas!"
+    "headline": "Cuando los Gatos Olvidan",
+    "body": "Nuestros pequeños amigos felinos pasan la mayor parte del día durmiendo, pero tienen un hábito oculto: cuando amasan con sus patas, no solo están relajados, están marcando su territorio."
   },
   "ar": {
-    "headline": "تلك الآثار الغريبة على سطح القمر لن تختفي أبداً",
-    "body": "ستبقى آثار الأقدام التي تركها رواد فضاء أبولو على القمر هناك إلى الأبد. لعدم وجود رياح أو غلاف جوي على القمر؛ مما يعني غياب الظواهر الجوية تماماً لمسحها!"
+    "headline": "عندما تنسى القطط",
+    "body": "تقضي قططنا الأليفة معظم يومها في النوم، لكن لديهم عادة خفية: عندما يعجنون بمخالبهم، فإنهم لا يصنعون الكعك فحسب، بل يحددون مناطقهم."
   },
   "reel_hook": {
-    "tr": "Ay'daki ayak izleri neden milyonlarca yıl boyunca orada kalmaya devam edecek?",
-    "en": "Why will footprints on the Moon continue to stay there for millions of years?",
-    "es": "¿Por qué las huellas en la Luna seguirán allí durante millones de años?",
-    "ar": "لماذا ستظل آثار الأقدام على القمر موجودة هناك لملايين السنين؟"
+    "tr": "Kediniz kucağınızdayken neden sürekli sizi patiler?",
+    "en": "Why does your cat constantly knead you while on your lap?",
+    "es": "¿Por qué tu gato te amasa constantemente mientras está en tu regazo?",
+    "ar": "لماذا تعجنك قطتك باستمرار أثناء وجودها في حجرك؟"
   },
   "story_question": {
-    "tr": "Ay'daki ayak izlerinin silinmemesinin asıl sebebi sence nedir?",
-    "en": "What do you think is the main reason footprints on the Moon don't fade?",
-    "es": "¿Cuál crees que es la razón principal por la que las huellas en la Luna no desaparecen?",
-    "ar": "برأيك ما هو السبب الرئيسي لعدم زوال آثار الأقدام على القمر؟"
+    "tr": "Kedilerin patilerinde ne olduğunu biliyor musunuz?",
+    "en": "Do you know what cats have on their paws?",
+    "es": "¿Sabes qué tienen los gatos en sus patas?",
+    "ar": "هل تعلم ماذا توجد في مخالب القطط؟"
   },
   "story_options": [
-    "Atmosferin olmaması",
-    "Yerçekiminin az olması",
-    "Toprağın yapısı"
+    "Koku bezleri",
+    "Ter bezleri",
+    "Hiçbiri"
   ],
   "hashtags": [
     "#FactBite",
-    "#uzay",
-    "#bilim",
-    "#ay",
-    "#astronomi",
-    "#keşif",
-    "#ilginçbilgiler"
+    "#kedi",
+    "#bilgi",
+    "#hayvanlar",
+    "#ilginç",
+    "#evdecc",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguir para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bunu bilen kedi sahibine gönder!",
+    "en": "Send this to a cat owner who needs to know!",
+    "es": "¡Envíaselo a un dueño de gato que deba saber esto!",
+    "ar": "أرسل هذا لصاحب قطة يجب أن يعرف ذلك!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 9,
-    "shareability": 8,
+    "surprise": 8,
+    "shareability": 9,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 8.8
   },
   "source": {
-    "name": "NASA Science",
-    "url": "https://moon.nasa.gov/"
+    "name": "Cat Behavior Associates",
+    "url": "https://catbehaviorassociates.com/why-do-cats-knead/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Ay'ın Yüzeyindeki O Garip Ayak İzleri Asla Silinmez",
+  "_topic": "Kedi Kediliğini Unutunca",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-08T13:20:02.498466+00:00",
+  "generated_at": "2026-11-08T15:14:23.347162+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Flamingolar Neden Asla Diz Kapağı Olmadan Yaşayamaz Zannedersiniz?",
-    "body": "Flamingoların bacaklarında ters dönmüş gibi duran o eklem aslında dizleri değil, ayak bilekleridir! Gerçek dizleri gövdelerinin içine gizlenmiştir ve tüylerin altında saklıdır."
+    "headline": "Kedilerin Pürüzlü Dilleri Aslında Mini Birer Tarak Değildir",
+    "body": "Kedilerin dili zımpara gibi pürüzlüdür; ancak bu yapının temel amacı sadece tüylerini taramak değildir. Dilin üzerindeki yüzlerce küçük kanca, avlarını kemiklerinden ayırmalarına yardımcı olan sert keratin yapılı papillalardan oluşur."
   },
   "en": {
-    "headline": "Why You Might Think Flamingos Live Without Knees",
-    "body": "That joint on a flamingo's leg that looks like it bends backward isn't actually a knee—it's an ankle! Their real knees are hidden high up, tucked away beneath their feathers."
+    "headline": "Cat Tongues Aren't Just Mini Brushes",
+    "body": "Cat tongues feel like sandpaper, but their primary purpose isn't just grooming. Hundreds of tiny, backward-facing hooks made of keratin help them strip meat cleanly from bone."
   },
   "es": {
-    "headline": "Por qué podrías pensar que los flamencos viven sin rodillas",
-    "body": "¡Esa articulación en la pata del flamenco que parece doblarse hacia atrás no es una rodilla, es un tobillo! Sus verdaderas rodillas están escondidas en lo alto, ocultas bajo sus plumas."
+    "headline": "La Lengua de los Gatos No Es Solo un Pequeño Cepillo",
+    "body": "La lengua de los gatos es rugosa como el papel de lija, pero su propósito principal no es solo acicalarse. Cientos de pequeños ganchos de queratina les ayudan a separar la carne del hueso."
   },
   "ar": {
-    "headline": "لماذا قد تعتقد أن الطيور النحام تعيش بلا ركب",
-    "body": "ذلك المفصل في ساق الفلامنغو الذي يبدو وكأنه ينحني للخلف ليس ركبة في الواقع، بل هو كاحل! ركبتها الحقيقية مخفية في الأعلى تحت أرياشها."
+    "headline": "لغات القطط ليست مجرد فرشاة صغيرة",
+    "body": "لغة القطط خشنة مثل ورق الصنفرة، ولكن هدفها الأساسي ليس فقط التنظيف. المئات من الخطافات الصغيرة المصنوعة من الكيراتين تساعدها على فصل اللحم عن العظم."
   },
   "reel_hook": {
-    "tr": "Flamingoların bacakları hakkında bildiğiniz her şeyi unutun!",
-    "en": "Forget everything you thought you knew about flamingo legs!",
-    "es": "¡Olvida todo lo que creías saber sobre las patas de los flamencos!",
-    "ar": "انسا كل ما كنت تعتقده عن سيقان الفلامنغو!"
+    "tr": "Kedinizin diliyle yalandığında hissettiğiniz o zımpara hissinin gerçek nedenini biliyor musunuz?",
+    "en": "Do you know the real reason behind that sandpaper feeling when a cat licks you?",
+    "es": "¿Conoces la verdadera razón detrás de esa sensación de papel de lija cuando un gato te lame?",
+    "ar": "هل تعلم السبب الحقيقي وراء شعور الصنفرة عندما يلعقك القط؟"
   },
   "story_question": {
-    "tr": "Flamingoların dışarıdan görünen o bacak eklemi aslında vücutlarının neresidir?",
-    "en": "What part of their body is that visible leg joint on flamingos actually?",
-    "es": "¿Qué parte de su cuerpo es en realidad esa articulación visible en las patas de los flamencos?",
-    "ar": "ما هو الجزء من أجسامهم الذي يمثله في الواقع ذلك المفصل المرئي في سيقان الفلامنغو؟"
+    "tr": "Kedilerin dillerindeki bu pürüzlü kancalar hangi maddeden oluşur?",
+    "en": "What material are those rough hooks on cat tongues made of?",
+    "es": "¿De qué material están hechos esos ganchos rugosos en la lengua de los gatos?",
+    "ar": "ما هي المادة المصنوعة منها تلك الخطافات الخشنة على لسان القط؟"
   },
   "story_options": [
-    "Ayak bileği",
-    "Kalça",
-    "Parmak ucu"
+    "Keratin",
+    "Kalsiyum",
+    "Kollajen"
   ],
   "hashtags": [
     "#FactBite",
-    "#flamingo",
-    "#doğa",
+    "#kedi",
     "#bilim",
+    "#hayvanlar",
     "#ilginçbilgiler",
-    "#hayvanlaralemi",
-    "#biyoloji"
+    "#doğa",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
-    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutmayın!",
+    "en": "Don't forget to follow for more fascinating facts like this!",
+    "es": "¡No olvides seguirnos para más datos fascinantes como este!",
+    "ar": "لا تنس متابعتنا للمزيد من الحقائق الرائعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 10,
     "overall": 9
   },
   "source": {
-    "name": "San Diego Zoo",
-    "url": "https://animals.sandiegozoo.org/animals/greater-flamingo"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Flamingolar Neden Asla Diz Kapağı Olmadan Yaşayamaz Zannedersiniz?",
+  "_topic": "Kedilerin Pürüzlü Dilleri Aslında Mini Birer Tarak Değildir",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-08T22:42:44.315671+00:00",
+  "generated_at": "2026-11-09T00:02:52.963247+00:00",
   "topic_guard_days": 180
 }

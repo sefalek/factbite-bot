@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Sıcak Su Soğuk Sudan Daha Hızlı Donar!",
-    "body": "Mpemba etkisi olarak bilinen bu şaşırtıcı durum, sıcak suyun belirli koşullar altında soğuk sudan çok daha hızlı buz tutabileceğini gösteriyor. Aristoteles ve Descartes gibi isimlerin de dikkatini çeken bu fizik kuralı, modern bilim insanlarını bile hâlâ şaşırtmaya devam ediyor."
+    "headline": "Gözlerimizi Kapattığımızda Gördüğümüz O Renkli Desenler",
+    "body": "Gözlerinizi kapattığınızda tamamen karanlık yerine hareket eden renkler veya ışık oyunları görüyorsanız, yalnız değilsiniz. Buna fosfen denir ve göz içindeki hücrelerin ışık uyarısı olmadan kendi kendine sinyal göndermesiyle oluşur."
   },
   "en": {
-    "headline": "Hot Water Freezes Faster Than Cold Water!",
-    "body": "Known as the Mpemba effect, this surprising phenomenon shows that hot water can freeze much faster than cold water under certain conditions. This physical rule, which caught the attention of thinkers like Aristotle and Descartes, still puzzles modern scientists."
+    "headline": "Those Colorful Patterns You See When You Close Your Eyes",
+    "body": "If you see moving colors or light patterns instead of total darkness when you close your eyes, you are not alone. This is called phosphene, and it happens when cells inside the eye send signals on their own without light stimulation."
   },
   "es": {
-    "headline": "¡El agua caliente se congela más rápido que la fría!",
-    "body": "Conocido como el efecto Mpemba, este sorprendente fenómeno demuestra que el agua caliente puede congelarse mucho más rápido que la fría bajo ciertas condiciones. Esta regla física, que llamó la atención de Aristóteles y Descartes, sigue fascinando a los científicos modernos."
+    "headline": "Esos patrones coloridos que ves cuando cierras los ojos",
+    "body": "Si ves colores en movimiento o juegos de luz en lugar de oscuridad total al cerrar los ojos, no estás solo. Se llama fosfeno y ocurre cuando las células dentro del ojo envían señales por sí mismas sin estimulación lumínica."
   },
   "ar": {
-    "headline": "الماء الساخن يتجمد أسرع من الماء البارد!",
-    "body": " تُعرف هذه الظاهرة المذهلة بـ \"تأثير مبيمبا\"، وتظهر أن الماء الساخن يمكن أن يتجمد بشكل أسرع بكثير من الماء البارد في ظل ظروف معينة. هذه القاعدة الفيزيائية، التي لفتت انتباه أرسطو وديكارت، لا تزال حتي اليوم تثير دهشة العلماء المعاصرين."
+    "headline": "تلك الأنماط الملونة التي تراها عند إغلاق عينيك",
+    "body": "إذا كنت ترى ألواناً متحركة أو ألعاب ضوء بدلاً من الظلام التدام عند إغلاق عينيك، فأنت لست وحدك. يُسمى هذا الفوسفين، ويحدث عندما ترسل الخلايا داخل العين إشارات من تلقاء نفسها دون تحفيز ضوئي."
   },
   "reel_hook": {
-    "tr": "Sıcak suyun soğuk sudan daha hızlı donduğunu biliyor muydunuz?",
-    "en": "Did you know that hot water freezes faster than cold water?",
-    "es": "¿Sabías que el agua caliente se congela más rápido que la fría?",
-    "ar": "هل تعلم أن الماء الساخن يتجمد أسرع من الماء البارد؟"
+    "tr": "Gözlerinizi kapattığınızda o karanlıkta dans eden renkler nereden geliyor?",
+    "en": "Where do those colors dancing in the dark come from when you close your eyes?",
+    "es": "¿De dónde vienen esos colores que bailan en la oscuridad cuando cierras los ojos?",
+    "ar": "من أين تأتي تلك الألوان التي ترقص في الظلام عند إغلاق عينيك؟"
   },
   "story_question": {
-    "tr": "Mpemba etkisi olarak bilinen bu olayda sıcak suyun daha hızlı donmasının ana sebebi nedir?",
-    "en": "What is the main reason why hot water freezes faster in this phenomenon known as the Mpemba effect?",
-    "es": "¿Cuál es la razón principal por la que el agua caliente se congela más rápido en este fenómeno conocido como efecto Mpemba?",
-    "ar": "ما هو السبب الرئيسي لتجمد الماء الساخن بشكل أسرع في هذه الظاهرة المعروفة بتأثير مبيمبا؟"
+    "tr": "Gözlerinizi kapattığınızda gördüğünüz bu ışık oyunlarının bilimsel adı nedir?",
+    "en": "What is the scientific name for these light patterns you see when you close your eyes?",
+    "es": "¿Cuál es el nombre científico de estos patrones de luz que ves al cerrar los ojos?",
+    "ar": "ما هو الاسم العلمي لأنماط الضوء هذه التي تراها عند إغلاق عينيك؟"
   },
   "story_options": [
-    "Buharlaşma kaybı",
-    "Konveksiyon akımları",
-    "Çözünmüş gazların azalması"
+    "Fosfen",
+    "Retina dalgası",
+    "Optik illüzyon"
   ],
   "hashtags": [
     "#FactBite",
-    "#Fizik",
-    "#BilimselGerçekler",
-    "#İlginçBilgiler",
-    "#Deney",
-    "#Keşfet",
-    "#Bilim"
+    "#bilim",
+    "#biliyormuydunuz",
+    "#göz",
+    "#ilginçbilgiler",
+    "#psikoloji",
+    "#keşfet"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı bilimsel gerçeği kaçırmamak için sayfayı takip etmeyi unutma!",
-    "en": "Don't forget to follow the page so you don't miss more surprising scientific facts like this!",
-    "es": "¡No olvides seguir la página para no perderte más datos científicos sorprendentes como este!",
-    "ar": "لا تنس متابعة الصفحة لكي لا تفوتك المزيد من الحقائق العلمية المذهلة مثل هذه!"
+    "tr": "Bunu ilk kez duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando esto por primera vez!",
+    "ar": "أرسل هذا لصديق يسمع هذا لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
+    "shareability": 8,
     "clarity": 9,
     "overall": 9
   },
   "source": {
-    "name": "Physics World",
-    "url": "https://physicsworld.com"
+    "name": "National Eye Institute",
+    "url": "https://www.nei.nih.gov/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Sıcak Su Soğuk Sudan Daha Hızlı Donar!",
+  "_topic": "Gözlerimizi Kapattığımızda Gördüğümüz O Renkli Desenler",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-09T18:51:53.245362+00:00",
+  "generated_at": "2026-11-09T22:55:16.429839+00:00",
   "topic_guard_days": 180
 }

@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Arıların Gizli İletişim Dansı",
-    "body": "Bal arıları kovanın içinde karanlıkta birbirleriyle nasıl konuşur biliyor musun? Sesle değil, adeta bir harita çizer gibi dans ederek! Güneşe göre açı vererek yaptıkları bu 'sallantı dansı', diğer arılara çiçeğin tam yerini pusula gibi gösterir."
+    "headline": "Sıcak Su Soğuk Sudan Daha Hızlı Donar!",
+    "body": "Mpemba etkisi olarak bilinen bu şaşırtıcı durum, sıcak suyun belirli koşullar altında soğuk sudan çok daha hızlı buz tutabileceğini gösteriyor. Aristoteles ve Descartes gibi isimlerin de dikkatini çeken bu fizik kuralı, modern bilim insanlarını bile hâlâ şaşırtmaya devam ediyor."
   },
   "en": {
-    "headline": "The Secret Communication Dance of Bees",
-    "body": "Do you know how honeybees communicate with each other in the dark inside the hive? Not with sound, but by dancing as if drawing a map! This 'waggle dance', performed by angling relative to the sun, acts like a compass, showing other bees the exact location of the flower."
+    "headline": "Hot Water Freezes Faster Than Cold Water!",
+    "body": "Known as the Mpemba effect, this surprising phenomenon shows that hot water can freeze much faster than cold water under certain conditions. This physical rule, which caught the attention of thinkers like Aristotle and Descartes, still puzzles modern scientists."
   },
   "es": {
-    "headline": "El baile de comunicación secreta de las abejas",
-    "body": "¿Sabes cómo se comunican las abejas en la oscuridad de la colmena? ¡No con sonido, sino bailando como si dibujaran un mapa! Este 'baile del meneo', hecho con un ángulo respecto al sol, actúa como una brújula, mostrando a otras abejas la ubicación exacta de la flor."
+    "headline": "¡El agua caliente se congela más rápido que la fría!",
+    "body": "Conocido como el efecto Mpemba, este sorprendente fenómeno demuestra que el agua caliente puede congelarse mucho más rápido que la fría bajo ciertas condiciones. Esta regla física, que llamó la atención de Aristóteles y Descartes, sigue fascinando a los científicos modernos."
   },
   "ar": {
-    "headline": "رقصة النحل السرية للتواصل",
-    "body": "هل تعلم كيف يتواصل النحل مع بعضه البعض في الظلام داخل الخلية؟ ليس بالصوت، بل بالرقص وكأنهم يرسمون خريطة! هذه 'رقصة الاهتزاز'، التي تُؤدى بزاوية بالنسبة للشمس، تعمل بوصلة لتظهر للنحل الآخر الموقع الدقيق للزهرة."
+    "headline": "الماء الساخن يتجمد أسرع من الماء البارد!",
+    "body": " تُعرف هذه الظاهرة المذهلة بـ \"تأثير مبيمبا\"، وتظهر أن الماء الساخن يمكن أن يتجمد بشكل أسرع بكثير من الماء البارد في ظل ظروف معينة. هذه القاعدة الفيزيائية، التي لفتت انتباه أرسطو وديكارت، لا تزال حتي اليوم تثير دهشة العلماء المعاصرين."
   },
   "reel_hook": {
-    "tr": "Arılar karanlıkta birbirleriyle konuşurken ses çıkarmaz, bakın ne yapar...",
-    "en": "When bees talk to each other in the dark, they don't make a sound, watch what they do...",
-    "es": "Cuando las abejas hablan entre sí en la oscuridad, no hacen ruido, mira lo que hacen...",
-    "ar": "عندما يتحدث النحل مع بعضه في الظلام، لا يصدرون أي صوت، انظر ماذا يفعلون..."
+    "tr": "Sıcak suyun soğuk sudan daha hızlı donduğunu biliyor muydunuz?",
+    "en": "Did you know that hot water freezes faster than cold water?",
+    "es": "¿Sabías que el agua caliente se congela más rápido que la fría?",
+    "ar": "هل تعلم أن الماء الساخن يتجمد أسرع من الماء البارد؟"
   },
   "story_question": {
-    "tr": "Bal arıları kovan içinde yönü ve mesafeyi hangi yöntemle tarif eder?",
-    "en": "By what method do honeybees describe direction and distance inside the hive?",
-    "es": "¿Mediante qué método describen las abejas la dirección y la distancia dentro de la colmena?",
-    "ar": "ما هي الطريقة التي يصف بها النحل الاتجاه والمسافة داخل الخلية؟"
+    "tr": "Mpemba etkisi olarak bilinen bu olayda sıcak suyun daha hızlı donmasının ana sebebi nedir?",
+    "en": "What is the main reason why hot water freezes faster in this phenomenon known as the Mpemba effect?",
+    "es": "¿Cuál es la razón principal por la que el agua caliente se congela más rápido en este fenómeno conocido como efecto Mpemba?",
+    "ar": "ما هو السبب الرئيسي لتجمد الماء الساخن بشكل أسرع في هذه الظاهرة المعروفة بتأثير مبيمبا؟"
   },
   "story_options": [
-    "Özel bir vızıltı frekansı ile",
-    "Sallantı dansı ve güneş açısıyla",
-    "Koku izleri bırakarak"
+    "Buharlaşma kaybı",
+    "Konveksiyon akımları",
+    "Çözünmüş gazların azalması"
   ],
   "hashtags": [
     "#FactBite",
-    "#arılar",
-    "#doğa",
-    "#bilim",
-    "#hayvanlar",
-    "#keşfet",
-    "#ilginçbilgiler"
+    "#Fizik",
+    "#BilimselGerçekler",
+    "#İlginçBilgiler",
+    "#Deney",
+    "#Keşfet",
+    "#Bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla doğa sırrı için takipte kal!",
-    "en": "Stay tuned for more nature secrets like this!",
-    "es": "¡Mantente atento a más secretos de la naturaleza como este!",
-    "ar": "ترقبوا المزيد من أسرار الطبيعة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı bilimsel gerçeği kaçırmamak için sayfayı takip etmeyi unutma!",
+    "en": "Don't forget to follow the page so you don't miss more surprising scientific facts like this!",
+    "es": "¡No olvides seguir la página para no perderte más datos científicos sorprendentes como este!",
+    "ar": "لا تنس متابعة الصفحة لكي لا تفوتك المزيد من الحقائق العلمية المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
+    "shareability": 9,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
-    "name": "National Geographic",
-    "url": "https://www.nationalgeographic.com"
+    "name": "Physics World",
+    "url": "https://physicsworld.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Arıların Gizli İletişim Dansı",
+  "_topic": "Sıcak Su Soğuk Sudan Daha Hızlı Donar!",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-09T16:11:36.904993+00:00",
+  "generated_at": "2026-11-09T18:51:53.245362+00:00",
   "topic_guard_days": 180
 }

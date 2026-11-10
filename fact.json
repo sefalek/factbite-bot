@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çakmakların Üstündeki O Delik Neden Var?",
-    "body": "Cebinizde taşıdığınız o ucuz plastik çakmaklara hiç dikkatli baktınız mı? Alt kısmında ya da gövdesinde yer alan o minik delik sadece süs değil. Üretim sırasında içine basılan gazın genleşmesini ve sıcaklık değişimlerinde çakmağın patlamasını önleyen kritik bir güvenlik supabıdır."
+    "headline": "Gözümüz Neden Bu Rengi Görür?",
+    "body": "Gökyüzüne baktığımızda gördüğümüz o masmavi ton, aslında orada var olan fiziksel bir renk değil. Güneş'ten gelen ışık atmosferdeki gaz moleküllerine çarpıp saçılır; ancak insan gözü mavi dalga boylarını diğerlerinden çok daha baskın algıladığı için gökyüzünü mavi olarak görür."
   },
   "en": {
-    "headline": "Why Is There That Tiny Hole on Lighters?",
-    "body": "Have you ever looked closely at those cheap plastic lighters? That tiny hole at the bottom or on the body isn't just for decoration. It is a critical safety valve that prevents the lighter from exploding due to gas expansion and temperature changes."
+    "headline": "Why Our Eyes See This Color",
+    "body": "The bright blue tone we see when looking at the sky is not actually a physical color that exists there. Sunlight scatters by colliding with gas molecules in the atmosphere, but the human eye perceives blue wavelengths much more dominantly than others."
   },
   "es": {
-    "headline": "¿Por qué tienen ese pequeño agujero los encendedores?",
-    "body": "¿Alguna vez has mirado de cerca esos encendedores de plástico baratos? Ese pequeño agujero en la base no es solo un adorno. Es una válvula de seguridad crítica que evita que el encendedor explote por la expansión del gas."
+    "headline": "Por qué nuestros ojos ven este color",
+    "body": "El tono azul brillante que vemos al mirar el cielo no es en realidad un color físico que exista allí. La luz solar se dispersa al chocar con las moléculas de gas en la atmósfera, pero el ojo humano percibe las longitudes de onda azules de manera mucho más dominante."
   },
   "ar": {
-    "headline": "لماذا يوجد ذلك الثقب الصغير في الولاعات؟",
-    "body": "هل نظرت عن قرب إلى تلك الولاعات البلاستيكية الرخيصة؟ ذلك الثقب الصغير في الأسفل ليس مجرد زينة، بل هو صمام أمان هام يمنع الولاعة من الانفجار بسبب تمدد الغاز وتغيرات درجات الحرارة."
+    "headline": "لماذا ترى عيوننا هذا اللون",
+    "body": "اللون الأزرق الساطع الذي نراه عند النظر إلى السماء ليس في الواقع لوناً ماديّاً موجوداً هناك. يتشتت ضوء الشمس نتيجة اصطدامه بجزيئات الغاز في الغلاف الجوي، لكن العين البشرية تدرك الأطوال الموجية الزرقاء بشكل أكثر سيطرة بكثير."
   },
   "reel_hook": {
-    "tr": "Cebinizdeki o küçük çakmak aslında her an patlayabilir mi?",
-    "en": "Could that little lighter in your pocket actually explode at any moment?",
-    "es": "¿Podría ese pequeño encendedor en tu bolsillo explotar en cualquier momento?",
-    "ar": "هل يمكن لتلك الولاعة الصغيرة في جيبك أن تنفجر في أي لحظة؟"
+    "tr": "Gökyüzü aslında bildiğiniz renk değil!",
+    "en": "The sky is actually not the color you think!",
+    "es": "¡El cielo en realidad no es del color quepiensas!",
+    "ar": "السماء ليست في الواقع باللون الذي تعتقده!"
   },
   "story_question": {
-    "tr": "Çakmakların üzerindeki bu minik deliğin asıl amacı nedir?",
-    "en": "What is the true purpose of this tiny hole on lighters?",
-    "es": "¿Cuál es el verdadero propósito de este pequeño agujero en los encendedores?",
-    "ar": "ما هو الغرض الحقيقي من هذا الثقب الصغير في الولاعات؟"
+    "tr": "Gökyüzünün asıl rengi nedir?",
+    "en": "What is the true color of the sky?",
+    "es": "¿Cuál es el verdadero color del cielo?",
+    "ar": "ما هو اللون الحقيقي للسماء؟"
   },
   "story_options": [
-    "Gaz basıncını dengelemek",
-    "İçeriye oksijen almak",
-    "Ateşleme fitilini tutmak"
+    "Şeffaf",
+    "Siyah",
+    "Mor"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#teknoloji",
-    "#pratikbilgiler",
+    "#bilim",
+    "#gökyüzü",
+    "#uzay",
+    "#fiziğingerçekleri",
     "#keşfet",
-    "#faydalibilgiler"
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gizli detayı kaçırmamak için takip etmeyi unutma!",
-    "en": "Don't forget to follow to not miss more hidden details like this!",
-    "es": "¡No olvides seguirnos para no perderte más detalles ocultos como este!",
-    "ar": "لا تنس المتابعة لكي لا تفوتك المزيد من التفاصيل الخفية مثل هذه!"
+    "tr": "Bu gerçeği ilk defa duyan arkadaşına gönder!",
+    "en": "Send this to a friend who is hearing this fact for the first time!",
+    "es": "¡Envíaselo a un amigo que esté escuchando este hecho por primera vez!",
+    "ar": "أرسل هذا إلى صديق يسمع هذه الحقيقة لأول مرة!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Standard Manufacturing Safety Standards for Pocket Lighters",
-    "url": "https://www.iso.org"
+    "name": "NASA Science",
+    "url": "https://science.nasa.gov/ems/09_可见光"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çakmakların Üstündeki O Delik Neden Var?",
+  "_topic": "Gözümüz Neden Bu Rengi Görür?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-10T00:42:28.126285+00:00",
+  "generated_at": "2026-11-10T01:56:57.566970+00:00",
   "topic_guard_days": 180
 }

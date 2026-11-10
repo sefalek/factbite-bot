@@ -1,59 +1,59 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çöl Kumları Neden Cam Olur?",
-    "body": "Yıldırım düştüğünde kumlar bir anda erir ve devasa ısı sayesinde saniyeler içinde tüp şeklinde cam heykellere dönüşür."
+    "headline": "Kuşlar Nasıl Oluyor Da Uçarken Hiç Yönünü Şaşırmıyor?",
+    "body": "Göçmen kuşlar binlerce kilometre uçarken yönlerini sadece yıldızlarla ya da haritalarla bulmazlar. Sırları, gagalarındaki mikroskobik demir parçacıklarında saklıdır. Bu doğal pusula sayesinde kuşlar, Dünya'nın görünmez manyetik alan çizgilerini tıpkı bir harita gibi doğrudan hissedebilirler."
   },
   "en": {
-    "headline": "Why Desert Sand Turns to Glass",
-    "body": "When lightning strikes, sand melts instantly and turns into tube-like glass sculptures within seconds thanks to immense heat."
+    "headline": "How Do Birds Never Lose Their Way While Flying?",
+    "body": "Migratory birds don't just rely on stars or maps to navigate thousands of kilometers. Their secret lies in microscopic iron particles inside their beaks. Thanks to this natural compass, birds can directly sense Earth's invisible magnetic field lines like a map."
   },
   "es": {
-    "headline": "Por qué la arena del desierto se convierte en vidrio",
-    "body": "Cuando cae un rayo, la arena se funde al instante y se convierte en esculturas de vidrio en forma de tubo en segundos gracias al calor intenso."
+    "headline": "¿Cómo hacen las aves para nunca perder el rumbo al volar?",
+    "body": "Las aves migratorias no solo dependen de las estrellas o mapas para volar miles de kilómetros. Su secreto reside en partículas microscópicas de hierro dentro de sus picos. Gracias a esta brújula natural, pueden sentir directamente las líneas del campo magnético invisible de la Tierra."
   },
   "ar": {
-    "headline": "لماذا تتحول رمال الصحراء إلى زجاج",
-    "body": "عندما يضرب البرق، تذوب الرمال على الفور وتحول إلى منحوتات زجاجية أنبوبية في ثوانٍ بفضل الحرارة الهائلة."
+    "headline": "كيف لا تضيع الطيور طريقها أبداً أثناء الطيران؟",
+    "body": "لا تعتمد الطيور المهاجرة على النجوم أو الخرائط وحدها لقطع آلاف الكيلومترات. يكمن سرها في جزيئات الحديد المجهرية داخل مناقيرها. بفضل هذه البوصلة الطبيعية، يمكن للطيور استشعار خطوط المجال المغناطيسي غير المرئي للأرض مباشرة."
   },
   "reel_hook": {
-    "tr": "Yıldırım çölü vurduğunda kumların başına ne geliyor?",
-    "en": "What happens to the sand when lightning strikes the desert?",
-    "es": "¿Qué le pasa a la arena cuando un rayo golpea el desierto?",
-    "ar": "ماذا يحدث للرمال عندما يضرب البرق الصحراء؟"
+    "tr": "Göçmen kuşların binlerce kilometrede asla kaybolmamasının şoke edici sırrı gagalarında saklı!",
+    "en": "The shocking secret behind why migratory birds never get lost on thousands of kilometers is in their beaks!",
+    "es": "¡El secreto impactante detrás de por qué las aves migratorias nunca se pierden en miles de kilómetros está en sus picos!",
+    "ar": "السر الصادم وراء عدم ضياع الطيور المهاجرة أبداً لمسافات آلاف الكيلومترات يكمن في مناقيرها!"
   },
   "story_question": {
-    "tr": "Yıldırımın kumları cama dönüştüren bu özel şekline ne ad verilir?",
-    "en": "What is this special glass shape formed by lightning called?",
-    "es": "¿Cómo se llama esta forma especial de vidrio formada por rayos?",
-    "ar": "ما هي هذه الأشكال الزجاجية الخاصة التي تشكلها الصواعق؟"
+    "tr": "Kuşların yönlerini bulmasını sağlayan bu doğal pusula vücutlarının hangi bölgesindedir?",
+    "en": "In which part of their bodies is this natural compass that helps birds find their way?",
+    "es": "¿En qué parte de sus cuerpos se encuentra esta brújula natural que ayuda a las aves a encontrar el rumbo?",
+    "ar": "في أي جزء من أجزاء أجسامها تقع هذه البوصلة الطبيعية التي تساعد الطيور في العثور على طريقها؟"
   },
   "story_options": [
-    "Fulgurit",
-    "Obsidyen",
-    "Kristalit"
+    "Gagalarında",
+    "Gözlerinde",
+    "Kanat uçlarında"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
     "#doğa",
-    "#yıldırım",
+    "#kuşlar",
     "#ilginçbilgiler",
-    "#keşfet",
-    "#fizik"
+    "#göç",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunu daha önce biliyor muydun? Arkadaşına gönder!",
-    "en": "Did you know this before? Send it to a friend!",
-    "es": "¿Sabías esto antes? ¡Envíaselo a un amigo!",
-    "ar": "هل كنت تعلم هذا من قبل؟ أرسلها لصديقك!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
     "clarity": 9,
-    "overall": 8.7
+    "overall": 9
   },
   "source": {
     "name": "National Geographic",
@@ -61,9 +61,9 @@
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çöl Kumları Neden Cam Olur?",
+  "_topic": "Kuşlar Nasıl Oluyor Da Uçarken Hiç Yönünü Şaşırmıyor?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-10T13:37:09.905300+00:00",
+  "generated_at": "2026-11-10T18:46:32.073293+00:00",
   "topic_guard_days": 180
 }

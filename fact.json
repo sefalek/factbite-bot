@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Gözümüz Neden Bu Rengi Görür?",
-    "body": "Gökyüzüne baktığımızda gördüğümüz o masmavi ton, aslında orada var olan fiziksel bir renk değil. Güneş'ten gelen ışık atmosferdeki gaz moleküllerine çarpıp saçılır; ancak insan gözü mavi dalga boylarını diğerlerinden çok daha baskın algıladığı için gökyüzünü mavi olarak görür."
+    "headline": "Sol Gözümüz Karanlığa Neden Daha Geç Alışır?",
+    "body": "Geceleri ışığı kapatıp yatak odanıza gittiğinizde, iki gözünüzün karanlığa uyum sağlama süresinin aynı olmadığını biliyor muydunuz? Beynimiz, çevresel ışık değişimlerine karşı her iki gözü de farklı önceliklerle yönetir. Özellikle akıllı telefonlara baktıktan sonra tek gözünüzü kapattığınızda, diğer gözün karanlığı görmesi çok daha uzun sürer çünkü retinamızdaki hücreler farklı hızlarda yenilenir."
   },
   "en": {
-    "headline": "Why Our Eyes See This Color",
-    "body": "The bright blue tone we see when looking at the sky is not actually a physical color that exists there. Sunlight scatters by colliding with gas molecules in the atmosphere, but the human eye perceives blue wavelengths much more dominantly than others."
+    "headline": "Why Does Our Left Eye Adapt to Darkness Slower?",
+    "body": "Did you know that when you turn off the lights at night, your eyes don't adapt to the dark at the same speed? Our brain manages each eye with different priorities based on ambient light changes. Especially after looking at smartphones, covering one eye makes the other take much longer to see in the dark because retinal cells recover at different rates."
   },
   "es": {
-    "headline": "Por qué nuestros ojos ven este color",
-    "body": "El tono azul brillante que vemos al mirar el cielo no es en realidad un color físico que exista allí. La luz solar se dispersa al chocar con las moléculas de gas en la atmósfera, pero el ojo humano percibe las longitudes de onda azules de manera mucho más dominante."
+    "headline": "¿Por qué nuestro ojo izquierdo se adapta más lento a la oscuridad?",
+    "body": "¿Sabías que cuando apagas las luces por la noche, tus ojos no se adaptan a la oscuridad a la misma velocidad? Nuestro cerebro gestiona cada ojo con diferentes prioridades. Especialmente después de mirar pantallas, si te tapas un ojo, al otro le cuesta mucho más ver en la oscuridad porque las células retinianas se regeneran a distintos ritmos."
   },
   "ar": {
-    "headline": "لماذا ترى عيوننا هذا اللون",
-    "body": "اللون الأزرق الساطع الذي نراه عند النظر إلى السماء ليس في الواقع لوناً ماديّاً موجوداً هناك. يتشتت ضوء الشمس نتيجة اصطدامه بجزيئات الغاز في الغلاف الجوي، لكن العين البشرية تدرك الأطوال الموجية الزرقاء بشكل أكثر سيطرة بكثير."
+    "headline": "لماذا تتكيف عيننا اليسرى مع الظلام بشكل بطيء؟",
+    "body": "هل تعلم أنه عندما تطفئ الأنوار ليلاً، لا تتكيف عيناك مع الظلام بنفس السرعة؟ يدير دماغنا كل عين بأولويات مختلفة بناءً على تغيرات الإضاءة. خاصة بعد النظر إلى الهواتف الذكية، إذا غطيت عينًا واحدة، ستستغرق الأخرى وقتًا أطول بكثير لرؤية الظلام لأن الخلايا الشبكية تتجدد بمعدلات مختلفة."
   },
   "reel_hook": {
-    "tr": "Gökyüzü aslında bildiğiniz renk değil!",
-    "en": "The sky is actually not the color you think!",
-    "es": "¡El cielo en realidad no es del color quepiensas!",
-    "ar": "السماء ليست في الواقع باللون الذي تعتقده!"
+    "tr": "Gözlerinizi kapatmadan önce bunu mutlaka bilmelisiniz...",
+    "en": "You definitely need to know this before closing your eyes...",
+    "es": "Definitivamente necesitas saber esto antes de cerrar los ojos...",
+    "ar": "عليك أن تعرف هذا بالتأكيد قبل أن تغلق عينيك..."
   },
   "story_question": {
-    "tr": "Gökyüzünün asıl rengi nedir?",
-    "en": "What is the true color of the sky?",
-    "es": "¿Cuál es el verdadero color del cielo?",
-    "ar": "ما هو اللون الحقيقي للسماء؟"
+    "tr": "Karanlıkta telefonunuza baktıktan sonra gözlerinizin uyum süreci nasıldır?",
+    "en": "How does your eyes' adaptation process work after looking at your phone in the dark?",
+    "es": "¿Cómo funciona el proceso de adaptación de tus ojos después de mirar tu teléfono en la oscuridad?",
+    "ar": "كيف تعمل عملية تباين عيونك بعد النظر إلى هاتفك في الظلام؟"
   },
   "story_options": [
-    "Şeffaf",
-    "Siyah",
-    "Mor"
+    "Hemen alışır",
+    "Farklı hızda uyum sağlar",
+    "Hiçbir şey değişmez"
   ],
   "hashtags": [
     "#FactBite",
     "#bilim",
-    "#gökyüzü",
-    "#uzay",
-    "#fiziğingerçekleri",
+    "#göz",
+    "#sağlık",
+    "#ilginçbilgiler",
     "#keşfet",
-    "#ilginçbilgiler"
+    "#gerçekler"
   ],
   "cta": {
-    "tr": "Bu gerçeği ilk defa duyan arkadaşına gönder!",
-    "en": "Send this to a friend who is hearing this fact for the first time!",
-    "es": "¡Envíaselo a un amigo que esté escuchando este hecho por primera vez!",
-    "ar": "أرسل هذا إلى صديق يسمع هذه الحقيقة لأول مرة!"
+    "tr": "Bunun gibi daha fazla ilginç bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more interesting facts like this!",
+    "es": "¡No olvides seguirnos para más datos interesantes como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق الممتعة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 8.7
   },
   "source": {
-    "name": "NASA Science",
-    "url": "https://science.nasa.gov/ems/09_可见光"
+    "name": "American Academy of Ophthalmology",
+    "url": "https://www.aao.org"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Gözümüz Neden Bu Rengi Görür?",
+  "_topic": "Sol Gözümüz Karanlığa Neden Daha Geç Alışır?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-10T01:56:57.566970+00:00",
+  "generated_at": "2026-11-10T02:58:13.062108+00:00",
   "topic_guard_days": 180
 }

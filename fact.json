@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Penguenler Aslında Dizlerini Neden Saklar?",
-    "body": "Penguenlerin paytak paytak yürüyüşü çok sevimlidir ama onların aslında bacaklarında gizli bir duruş sırrı vardır. Penguenlerin vücut oranlarına baktığınızda dizleri tüylerinin altında, vücutlarının içine gizlenmiş gibidir. Bu özel iskelet yapısı, onların hem karada dengede durmasını hem de buzlu sularda birer roket gibi yüzmesini sağlar. Yani o sevimsiz paytak yürüyüşün arkasında, doğanın mükemmel bir denge mühendisliği yatar."
+    "headline": "Çilekler Aslında Meyve Değil Mi?",
+    "body": "Manavda gördüğümüz o kırmızı lezzetli çilek, botanikçilere göre aslında bir meyve bile değil. Dışındaki o minik sert noktalar var ya, işte her biri ayrı birer meyve kabul ediliyor."
   },
   "en": {
-    "headline": "Why Penguins Actually Hide Their Knees",
-    "body": "Penguins' waddling walk is adorable, but they actually have a hidden posture secret in their legs. When you look at their body proportions, their knees are hidden beneath their feathers, deep inside their bodies. This special skeletal structure allows them to both balance on land and swim like rockets in icy waters. So behind that clumsy waddle lies nature's perfect balance engineering."
+    "headline": "Are Strawberries Actually Not Fruit?",
+    "body": "That delicious red strawberry we see at the grocery store is actually not even a fruit according to botanists. Those tiny hard dots on the outside? Each one is considered a separate fruit."
   },
   "es": {
-    "headline": "Por qué los pingüinos realmente esconden sus rodillas",
-    "body": "El caminar tambaleante de los pingüinos es adorable, pero en realidad tienen un secreto de postura oculto en sus patas. Si miras las proporciones de su cuerpo, sus rodillas están ocultas bajo sus plumas, muy dentro de sus cuerpos. Esta estructura esquelética especial les permite equilibrarse en la tierra y nadar como cohetes en aguas heladas. Detrás de ese torpe andar se esconde la ingeniería de equilibrio perfecta de la naturaleza."
+    "headline": "¿Las fresas no son realmente una fruta?",
+    "body": "Esa deliciosa fresa roja que vemos en la verdulería en realidad ni siquiera es una fruta según los botánicos. ¿Esos pequeños puntos duros en el exterior? Cada uno se considera una fruta independiente."
   },
   "ar": {
-    "headline": "لماذا تخفي البطاريق ركبتيها حقاً؟",
-    "body": "مشية البطاريق المتمايلة رائعة، لكن لديهم في الواقع سر خفي لوضعية أرجلهم. عندما تنظر إلى نسب أجسامهم، تلاحظ أن ركبهم مخفية تحت ريشهم، داخل أجسامهم تماماً. يسمح لهم هذا الهيكل العظمي الخاص بالتوازن على اليابسة والسباحة مثل الصواريخ في المياه الجليدية. إذن، خلف تلك المشية الخرقاء تكمن هندسة التوازن المثالية للطبيعة."
+    "headline": "هل الفراولة ليست فاكهة حقًا؟",
+    "body": "تلك الفراولة الحمراء اللذيذة التي نراها في السوق ليست حتى فاكهة وفقاً لعلماء النبات. تلك النقاط الصغيرة الصلبة في الخارج؟ يُعتبر كل منها ثمرة منفصلة."
   },
   "reel_hook": {
-    "tr": "Penguenlerin o sevimli yürüyüşünün ardında inanılmaz bir sır var!",
-    "en": "There is an incredible secret behind that adorable penguin waddle!",
-    "es": "¡Hay un secreto increíble detrás de ese adorable andar de los pingüinos!",
-    "ar": "هناك سر مذهل وراء مشية البطريق الرائعة تلك!"
+    "tr": "Her gün yediğimiz o kırmızı şey, aslında bildiğimiz anlamda bir meyve değil.",
+    "en": "That red thing we eat every day is not actually a fruit as we know it.",
+    "es": "Esa cosa roja que comemos todos los días en realidad no es una fruta como la conocemos.",
+    "ar": "هذا الشيء الأحمر الذي نأكله كل يوم ليس في الواقع فاكهة كما نعرفها."
   },
   "story_question": {
-    "tr": "Penguenlerin bacaklarındaki bu gizli yapı onların ne yapmasını sağlar?",
-    "en": "What does this hidden structure in penguins' legs allow them to do?",
-    "es": "¿Qué les permite hacer esta estructura oculta en las patas de los pingüinos?",
-    "ar": "ما الذي يسمح به هذا الهيكل الخفي في أرجل البطاريق?"
+    "tr": "Çileğin dışındaki minik çekirdek sandığınız noktaların gerçekte ne olduğunu biliyor muydunuz?",
+    "en": "Did you know what those tiny dots you thought were seeds on a strawberry actually are?",
+    "es": "¿Sabías qué son realmente esos pequeños puntos que pensabas que eran semillas en una fresa?",
+    "ar": "هل كنت تعلم ما هي تلك النقاط الصغيرة التي ظننت أنها بذور على الفراولة حقاً؟"
   },
   "story_options": [
-    "Sadece hızlı koşmayı",
-    "Hem karada durmayı hem suda yüzmeyi",
-    "Ağaca tırmanmayı"
+    "Evet, her biri ayrı birer meyve",
+    "Hayır, sadece sıradan çekirdekler",
+    "Hiçbir fikrim yok"
   ],
   "hashtags": [
     "#FactBite",
-    "#penguen",
-    "#doğa",
+    "#çilek",
     "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler"
+    "#ilginçbilgiler",
+    "#botanik",
+    "#meyve",
+    "#şaşırtıcı"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
+    "en": "If you're hearing this for the first time, don't forget to like!",
+    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a Me gusta!",
+    "ar": "إذا كنت تسمع هذا لأول مرة، فلا تنس الإعجاب!"
   },
   "quality": {
     "curiosity": 9,
-    "surprise": 8,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9
+    "surprise": 9,
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Science Focus",
-    "url": "https://www.sciencefocus.com"
+    "name": "Encyclopædia Britannica",
+    "url": "https://www.britannica.com/story/is-a-strawberry-a-fruit"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Penguenler Aslında Dizlerini Neden Saklar?",
+  "_topic": "Çilekler Aslında Meyve Değil Mi?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-10T20:14:59.839108+00:00",
+  "generated_at": "2026-11-11T00:57:28.288765+00:00",
   "topic_guard_days": 180
 }

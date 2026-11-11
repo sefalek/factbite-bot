@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Çilekler Aslında Meyve Değil Mi?",
-    "body": "Manavda gördüğümüz o kırmızı lezzetli çilek, botanikçilere göre aslında bir meyve bile değil. Dışındaki o minik sert noktalar var ya, işte her biri ayrı birer meyve kabul ediliyor."
+    "headline": "Uykudayken neden boşluğa düşüyormuş gibi irkiliriz?",
+    "body": "Gecenin bir yarısı birdenbire uyanıp düşme hissiyatıyla sarsıldığınız o anları hatırlıyor musunuz? Tıp dilinde 'hipnik sıçrama' denilen bu istemsiz kas kasılması, aslında beyninizin harika bir hayatta kalma refleksidir. Uykuya dalarken vücut sıcaklığınız ve kalp atış hızınız hızla düştüğünde, beyniniz bunu bir düşüş tehlikesi olarak algılar. Sizi hemen hayata döndürmek için kaslarınıza ani bir elektrik sinyali gönderir. Yani o düşüş hissi tamamen beyninizin sizi koruma çabasıdır."
   },
   "en": {
-    "headline": "Are Strawberries Actually Not Fruit?",
-    "body": "That delicious red strawberry we see at the grocery store is actually not even a fruit according to botanists. Those tiny hard dots on the outside? Each one is considered a separate fruit."
+    "headline": "Why do we feel like we are falling when we sleep?",
+    "body": "Do you remember those moments when you suddenly wake up feeling like you are falling? Known in medicine as a hypnic jerk, this involuntary muscle spasm is actually your brain's clever survival reflex. As your body temperature and heart rate rapidly drop while falling asleep, your brain misinterprets this as a fall. It sends a sudden electrical signal to your muscles to snap you back to reality. So that falling sensation is purely your brain trying to protect you."
   },
   "es": {
-    "headline": "¿Las fresas no son realmente una fruta?",
-    "body": "Esa deliciosa fresa roja que vemos en la verdulería en realidad ni siquiera es una fruta según los botánicos. ¿Esos pequeños puntos duros en el exterior? Cada uno se considera una fruta independiente."
+    "headline": "¿Por qué sentimos que nos caemos cuando nos dormimos?",
+    "body": "¿Te acuerdas de esos momentos en los que te despiertas de repente con la sensación de estar cayendo? Conocido en medicina como sacudida hípnica, este espasmo muscular involuntario es en realidad el ingenioso reflejo de supervivencia de tu cerebro. Cuando tu temperatura corporal y tu ritmo cardíaco bajan rápidamente al conciliar el sueño, tu cerebro interpreta esto como un peligro de caída y envía una señal eléctrica a tus músculos."
   },
   "ar": {
-    "headline": "هل الفراولة ليست فاكهة حقًا؟",
-    "body": "تلك الفراولة الحمراء اللذيذة التي نراها في السوق ليست حتى فاكهة وفقاً لعلماء النبات. تلك النقاط الصغيرة الصلبة في الخارج؟ يُعتبر كل منها ثمرة منفصلة."
+    "headline": "لماذا نشعر وكأننا نسقط أثناء النوم؟",
+    "body": "هل تتذكر تلك اللحظات التي تستيقظ فيها فجأة على شعور السقوط؟ تُعرف هذه التشنجات اللاإرادية في الطب باسم الهزات النومية، وهي في الواقع رد فعل دفاعي ذكي من دماغك. عندما تنخفض حرارة جسمك ومعدل ضربات قلبك بسرعة أثناء النوم، يفسر دماغك ذلك على أنه خطر السقوط ويرسل إشارة كهربائية مفاجئة لعضلاتك."
   },
   "reel_hook": {
-    "tr": "Her gün yediğimiz o kırmızı şey, aslında bildiğimiz anlamda bir meyve değil.",
-    "en": "That red thing we eat every day is not actually a fruit as we know it.",
-    "es": "Esa cosa roja que comemos todos los días en realidad no es una fruta como la conocemos.",
-    "ar": "هذا الشيء الأحمر الذي نأكله كل يوم ليس في الواقع فاكهة كما نعرفها."
+    "tr": "Gecenin bir yarısı o düşme hissiyatıyla neden birden bire sıçrarsınız?",
+    "en": "Why do you suddenly jolt awake in the middle of the night with that falling sensation?",
+    "es": "¿Por qué te despiertas de repente a mitad de la noche con esa sensación de caída?",
+    "ar": "لماذا تستيقظ فجأة في منتصف الليل بهذا الشعور بالسقوط؟"
   },
   "story_question": {
-    "tr": "Çileğin dışındaki minik çekirdek sandığınız noktaların gerçekte ne olduğunu biliyor muydunuz?",
-    "en": "Did you know what those tiny dots you thought were seeds on a strawberry actually are?",
-    "es": "¿Sabías qué son realmente esos pequeños puntos que pensabas que eran semillas en una fresa?",
-    "ar": "هل كنت تعلم ما هي تلك النقاط الصغيرة التي ظننت أنها بذور على الفراولة حقاً؟"
+    "tr": "Uykuda düşme hissiyle irkilmenizin ana sebebi sizce nedir?",
+    "en": "What do you think is the main reason for jolting awake with a falling sensation?",
+    "es": "¿Cuálcrees que es la principal razón de despertarte con sensación de caída?",
+    "ar": "ما هو السبب الرئيسي برأيك للاستيقاظ المفاجئ بشعور السقوط؟"
   },
   "story_options": [
-    "Evet, her biri ayrı birer meyve",
-    "Hayır, sadece sıradan çekirdekler",
-    "Hiçbir fikrim yok"
+    "Beynin hayatta kalma refleksi",
+    "Günlük yorgunluk ve stres",
+    "Ani tansiyon düşüşü"
   ],
   "hashtags": [
     "#FactBite",
-    "#çilek",
     "#bilim",
+    "#psikoloji",
+    "#uyku",
     "#ilginçbilgiler",
-    "#botanik",
-    "#meyve",
-    "#şaşırtıcı"
+    "#sağlık"
   ],
   "cta": {
-    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
-    "en": "If you're hearing this for the first time, don't forget to like!",
-    "es": "Si es la primera vez que escuchas esto, ¡no olvides darle a Me gusta!",
-    "ar": "إذا كنت تسمع هذا لأول مرة، فلا تنس الإعجاب!"
+    "tr": "Bu hareketi sıkça yaşayan arkadaşına gönder, nedenini öğrensin!",
+    "en": "Send this to a friend who always experiences this, let them know why!",
+    "es": "¡Envíaselo a un amigo que siempre experimenta esto para que sepa por qué!",
+    "ar": "أرسل هذا لصديق يعاني من هذا دائماً ليعرف السبب!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9.2
   },
   "source": {
-    "name": "Encyclopædia Britannica",
-    "url": "https://www.britannica.com/story/is-a-strawberry-a-fruit"
+    "name": "Sleep Foundation",
+    "url": "https://www.sleepfoundation.org/parasomnias/hypnic-jerks"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Çilekler Aslında Meyve Değil Mi?",
+  "_topic": "Uykudayken neden boşluğa düşüyormuş gibi irkiliriz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-11T00:57:28.288765+00:00",
+  "generated_at": "2026-11-11T18:48:33.770020+00:00",
   "topic_guard_days": 180
 }

@@ -1,68 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Uykudayken neden boşluğa düşüyormuş gibi irkiliriz?",
-    "body": "Gecenin bir yarısı birdenbire uyanıp düşme hissiyatıyla sarsıldığınız o anları hatırlıyor musunuz? Tıp dilinde 'hipnik sıçrama' denilen bu istemsiz kas kasılması, aslında beyninizin harika bir hayatta kalma refleksidir. Uykuya dalarken vücut sıcaklığınız ve kalp atış hızınız hızla düştüğünde, beyniniz bunu bir düşüş tehlikesi olarak algılar. Sizi hemen hayata döndürmek için kaslarınıza ani bir elektrik sinyali gönderir. Yani o düşüş hissi tamamen beyninizin sizi koruma çabasıdır."
+    "headline": "Penguenlerin Dizleri Neden Gizlidir?",
+    "body": "Penguenlerin paytak yürüyüşü çok sevimlidir ama aslında yürürken çektikleri gizli bir zorluk vardır. Çoğu insan onların bacaklarının kısa olduğunu düşünür. Ancak röntgenler bize çok farklı bir gerçeği gösterir. Penguenlerin vücutlarının içinde, tüylerinin ve derilerinin altında tıpkı bizimki gibi uzun bacakları ve dizleri vardır. Sadece bacakları sürekli bükülü pozisyonda gizlidir ve adeta kalıcı bir çömelme halindedirler. Bu yapı, karada yürümelerini biraz komik kalsa da, buz üstünde kaymalarını ve su altında inanılmaz bir hızla yüzmelerini sağlar."
   },
   "en": {
-    "headline": "Why do we feel like we are falling when we sleep?",
-    "body": "Do you remember those moments when you suddenly wake up feeling like you are falling? Known in medicine as a hypnic jerk, this involuntary muscle spasm is actually your brain's clever survival reflex. As your body temperature and heart rate rapidly drop while falling asleep, your brain misinterprets this as a fall. It sends a sudden electrical signal to your muscles to snap you back to reality. So that falling sensation is purely your brain trying to protect you."
+    "headline": "Why Do Penguins Hide Their Knees?",
+    "body": "Penguins' waddling walk is adorable, but they actually have a hidden secret underneath. Most people think they have very short legs. However, X-rays reveal a surprising truth. Deep inside their bodies, hidden beneath feathers and skin, penguins have long legs and knees just like us. Their legs are permanently bent in a crouching position. This unique anatomy makes them look clumsy on land, but it helps them slide on ice and swim underwater with incredible speed."
   },
   "es": {
-    "headline": "¿Por qué sentimos que nos caemos cuando nos dormimos?",
-    "body": "¿Te acuerdas de esos momentos en los que te despiertas de repente con la sensación de estar cayendo? Conocido en medicina como sacudida hípnica, este espasmo muscular involuntario es en realidad el ingenioso reflejo de supervivencia de tu cerebro. Cuando tu temperatura corporal y tu ritmo cardíaco bajan rápidamente al conciliar el sueño, tu cerebro interpreta esto como un peligro de caída y envía una señal eléctrica a tus músculos."
+    "headline": "¿Por qué los pingüinos esconden sus rodillas?",
+    "body": "El andar torpe de los pingüinos es adorable, pero en realidad tienen un secreto oculto bajo su plumaje. La mayoría de la gente piensa que tienen patas muy cortas. Sin embargo, las radiografías revelan una verdad sorprendente. Muy dentro de sus cuerpos, ocultas bajo las plumas y la piel, tienen piernas largas y rodillas como nosotros. Sus piernas están dobladas permanentemente en posición de cuclillas. Esta anatomía los hace parecer torpes en tierra, pero les ayuda a deslizarse en el hielo y nadar a gran velocidad."
   },
   "ar": {
-    "headline": "لماذا نشعر وكأننا نسقط أثناء النوم؟",
-    "body": "هل تتذكر تلك اللحظات التي تستيقظ فيها فجأة على شعور السقوط؟ تُعرف هذه التشنجات اللاإرادية في الطب باسم الهزات النومية، وهي في الواقع رد فعل دفاعي ذكي من دماغك. عندما تنخفض حرارة جسمك ومعدل ضربات قلبك بسرعة أثناء النوم، يفسر دماغك ذلك على أنه خطر السقوط ويرسل إشارة كهربائية مفاجئة لعضلاتك."
+    "headline": "لماذا تخفي البطاريق ركبها؟",
+    "body": "مشية البطاريق المتأرجحة لطيفة للغاية، لكن لديهم سر خفي تحت ريشهم. يعتقد معظم الناس أن لديهم سيقان قصيرة جداً. ومع ذلك، تكشف الأشعة السينية عن حقيقة مذهلة. في أعماق أجسامهم، وتحت الريش والجلد، يمتلكون سيقاناً طويلة وركباً تشبهنا تماماً. سيقانهم مطوية بشكل دائم في وضعية القرفصاء. هذا التكوين الفريد يجعلهم يبدون مضحكين على اليابسة، لكنه يساعدهم على الانزلاق على الجليد والسباحة بسرعة فائقة."
   },
   "reel_hook": {
-    "tr": "Gecenin bir yarısı o düşme hissiyatıyla neden birden bire sıçrarsınız?",
-    "en": "Why do you suddenly jolt awake in the middle of the night with that falling sensation?",
-    "es": "¿Por qué te despiertas de repente a mitad de la noche con esa sensación de caída?",
-    "ar": "لماذا تستيقظ فجأة في منتصف الليل بهذا الشعور بالسقوط؟"
+    "tr": "Penguenlerin bacakları hakkında bildiğiniz her şeyi unutun!",
+    "en": "Forget everything you know about penguin legs!",
+    "es": "¡Olvida todo lo que sabes sobre las patas de los pingüinos!",
+    "ar": "انسا كل ما تعرفه عن سيقان البطاريق!"
   },
   "story_question": {
-    "tr": "Uykuda düşme hissiyle irkilmenizin ana sebebi sizce nedir?",
-    "en": "What do you think is the main reason for jolting awake with a falling sensation?",
-    "es": "¿Cuálcrees que es la principal razón de despertarte con sensación de caída?",
-    "ar": "ما هو السبب الرئيسي برأيك للاستيقاظ المفاجئ بشعور السقوط؟"
+    "tr": "Sence penguenler karada neden bu kadar komik yürür?",
+    "en": "Why do you think penguins walk so funnily on land?",
+    "es": "¿Por qué crees que los pingüinos caminan tan gracioso en la tierra?",
+    "ar": "برأيك، لماذا تمشي البطاريق بطريقة مضحكة على اليابسة؟"
   },
   "story_options": [
-    "Beynin hayatta kalma refleksi",
-    "Günlük yorgunluk ve stres",
-    "Ani tansiyon düşüşü"
+    "Sürekli çömelik durdukları için",
+    "Ayakları çok büyük olduğu için",
+    "Kanatları ağır geldiği için"
   ],
   "hashtags": [
     "#FactBite",
+    "#penguen",
     "#bilim",
-    "#psikoloji",
-    "#uyku",
+    "#doğa",
     "#ilginçbilgiler",
-    "#sağlık"
+    "#hayvanlar"
   ],
   "cta": {
-    "tr": "Bu hareketi sıkça yaşayan arkadaşına gönder, nedenini öğrensin!",
-    "en": "Send this to a friend who always experiences this, let them know why!",
-    "es": "¡Envíaselo a un amigo que siempre experimenta esto para que sepa por qué!",
-    "ar": "أرسل هذا لصديق يعاني من هذا دائماً ليعرف السبب!"
+    "tr": "Bunun gibi şaşırtıcı gerçekler için takip et!",
+    "en": "Follow for more surprising facts like this!",
+    "es": "¡Sígueme para más datos sorprendentes!",
+    "ar": "تابعنا للمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 9,
-    "clarity": 10,
-    "overall": 9.2
+    "shareability": 8,
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Sleep Foundation",
-    "url": "https://www.sleepfoundation.org/parasomnias/hypnic-jerks"
+    "name": "San Diego Zoo Wildlife Alliance",
+    "url": "https://animals.sandiegozoo.org/animals/penguin"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Uykudayken neden boşluğa düşüyormuş gibi irkiliriz?",
+  "_topic": "Penguenlerin Dizleri Neden Gizlidir?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-11T18:48:33.770020+00:00",
+  "generated_at": "2026-11-11T21:49:18.654447+00:00",
   "topic_guard_days": 180
 }

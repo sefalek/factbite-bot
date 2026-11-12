@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Denizlerin Görünmez Ustası: Ahtapotların Beyin Dağılımı",
-    "body": "Ahtapotların sadece üç kalbi yok; asıl şaşırtıcı olan beyinleri! Bu canlıların nöronlarının üçte ikisi kollarında bulunur. Yani her bir kolu, neredeyse bağımsız olarak düşünebilir ve karar verebilir. Kafasındaki beyinle kolları sürekli iletişim halindedir ama kollar kendi başına da avlanabilir."
+    "headline": "Çöl Karıncaları Neden Asla Yanmaz?",
+    "body": "Sahra çölü karıncaları, kavurucu sıcakta kumda yürürken ayaklarının yanmasını engellemek için inanılmaz bir taktik kullanır: Bacaklarını adeta podyumda yürüyen mankenler gibi çapraz ve çok hızlı hareket ettirerek kumla temas süresini minimuma indirirler."
   },
   "en": {
-    "headline": "The Invisible Master of the Seas: Octopus Brain Distribution",
-    "body": "Octopuses don't just have three hearts; the real surprise is their brains! Two-thirds of their neurons are located in their arms. This means each arm can think and make decisions almost independently. The central brain communicates with the arms, but the arms can hunt on their own."
+    "headline": "Why Desert Ants Never Burn",
+    "body": "Sahara desert ants use an incredible tactic to keep their feet from burning on the scorching sand: they move their legs crosswise and extremely fast, like runway models, minimizing contact time with the sand."
   },
   "es": {
-    "headline": "El Maestro Invisible de los Mares: La Distribución Cerebral del Pulpo",
-    "body": "Los pulpos no solo tienen tres corazones; ¡lo más sorprendente es su cerebro! Dos tercios de sus neuronas se encuentran en sus brazos. Esto significa que cada brazo puede pensar y tomar decisiones casi de forma independiente. El cerebro central se comunica con los brazos, pero estos pueden cazar por sí mismos."
+    "headline": "Por qué las hormigas del desierto nunca se queman",
+    "body": "Las hormigas del desierto del Sahara utilizan una táctica increíble para evitar que sus patas se quemen en la arena abrasadora: mueven sus patas de forma cruzada y extremadamente rápida, como modelos en una pasarela, minimizando el tiempo de contacto con la arena."
   },
   "ar": {
-    "headline": "سيد البحار الخفي: توزيع أدمغة الأخطبوط",
-    "body": "لا يمتلك الأخطبوط ثلاثة قلوب فحسب، بل إن المفاجأة الحقيقية تكمن في أدمغته! يقع ثلثا خلاياه العصبية في أذرعه. هذا يعني أن كل ذراع يمكنه التفكير واتخاذ القرارات بشكل مستقل تقريبًا. يتواصل الدماغ المركزي مع الأذرع، لكن يمكن للأذرع الصيد بمفردها."
+    "headline": "لماذا لا تحترق نمل الصحراء أبداً",
+    "body": "تستخدم نملة صحراء الكبرى تكتيكاً مذهلاً لمنع أقدامها من الاحتراق على الرمال الحارقة: فهي تحرك أرجلها بشكل متقاطع وبسرعة فائقة، مثل عارضات الأزياء، مما يقلل وقت التلامس مع الرمال إلى الحد الأدنى."
   },
   "reel_hook": {
-    "tr": "Biliyor muydunuz? Ahtapotların beyni sadece kafasında değil...",
-    "en": "Did you know? An octopus's brain isn't just in its head...",
-    "es": "¿Sabías qué? El cerebro del pulpo no está solo en su cabeza...",
-    "ar": "هل كنت تعلم؟ دماغ الأخطبوط ليس في رأسه فقط..."
+    "tr": "Çölün ortasındaki bu karıncalar neden ayaklarını yakmadan koşabiliyor?",
+    "en": "Why can these ants run in the middle of the desert without burning their feet?",
+    "es": "¿Por qué estas hormigas pueden correr en medio del desierto sin quemarse las patas?",
+    "ar": "لماذا تستطيع هذه النملات الركض في وسط الصحراء دون أن تحترق أقدامها؟"
   },
   "story_question": {
-    "tr": "Ahtapotların nöronlarının yüzde kaçı kollarında bulunur?",
-    "en": "What percentage of an octopus's neurons are in its arms?",
-    "es": "¿Qué porcentaje de las neuronas de un pulpo están en sus brazos?",
-    "ar": "ما هي نسبة الخلايا العصبية للأخطبوط الموجودة في أذرعه؟"
+    "tr": "Sahra çölü karıncaları sıcak kumda yanmamak için ne yapar?",
+    "en": "What do Sahara desert ants do to avoid burning on the hot sand?",
+    "es": "¿Qué hacen las hormigas del desierto del Sahara para no quemarse en la arena caliente?",
+    "ar": "ماذا تفعل نملة صحراء الكبرى لتتجنب الاحتراق على الرمال الساخنة؟"
   },
   "story_options": [
-    "Yüzde 30",
-    "Yüzde 66",
-    "Yüzde 90"
+    "Ayaklarını kuma basmazlar",
+    "Adımlarını aşırı hızla atıp temas süresini azaltırlar",
+    "Özel bir salgı üretip patilerini korurlar"
   ],
   "hashtags": [
     "#FactBite",
-    "#ahtapot",
     "#bilim",
-    "#deniz",
-    "#ilginçbilgiler",
     "#doğa",
+    "#hayvanlar",
+    "#ilginçbilgiler",
     "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için takip et!",
-    "en": "Follow to not miss more surprising facts like this!",
-    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
-    "ar": "اتبعنا لكي لا تفوتك المزيد من الحقائق المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more amazing facts like this!",
+    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9.2
+    "overall": 9
   },
   "source": {
-    "name": "Marine Biological Laboratory",
-    "url": "https://www.mbl.edu"
+    "name": "National Geographic & Journal of Experimental Biology",
+    "url": "https://jeb.biologists.org/"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Denizlerin Görünmez Ustası: Ahtapotların Beyin Dağılımı",
+  "_topic": "Çöl Karıncaları Neden Asla Yanmaz?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-12T01:22:43.554673+00:00",
+  "generated_at": "2026-11-12T02:03:24.131006+00:00",
   "topic_guard_days": 180
 }

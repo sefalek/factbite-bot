@@ -1,68 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Dilimiz Parmak İzi Kadar Benzersizdir",
-    "body": "Parmak izimizin herkeste farklı olduğunu biliyoruz, peki ya dil izimizin? Tıpkı parmak uçlarımız gibi, dilimizin üzerindeki doku ve pürüzler de tamamen kişiye özeldir ve dünyada başka hiç kimsede aynı şekilde tekrarlanmaz."
+    "headline": "Arıların Gizli Harita Sırrı",
+    "body": "Bal arıları, kovanlarına döndüklerinde güneşi göremiyorlarsa bile yönlerini bulabilirler. Çünkü onlar, gökyüzündeki görünmez ultraviyole ışık desenlerini okuyarak tam olarak nerede olduklarını hesaplarlar."
   },
   "en": {
-    "headline": "Our Tongue Print Is As Unique As A Fingerprint",
-    "body": "We know our fingerprints are unique to us, but what about our tongue prints? Just like our fingertips, the texture and patterns on our tongue are completely individual and match no one else on Earth."
+    "headline": "The Hidden Map Secret of Bees",
+    "body": "Honeybees can find their way back to the hive even when they can't see the sun. They calculate their exact location by reading invisible ultraviolet light patterns in the sky."
   },
   "es": {
-    "headline": "Nuestra Huella Lingual Es Tan Única Como Una Huella Digital",
-    "body": "¿Sabías que la textura y los patrones de nuestra lengua son completamente individuales y únicos para cada persona en el mundo, al igual que las huellas dactilares?"
+    "headline": "El secreto del mapa oculto de las abejas",
+    "body": "Las abejas melíferas pueden encontrar el camino de regreso a la colmena incluso cuando no pueden ver el sol. Calculan su ubicación exacta leyendo patrones de luz ultravioleta invisible en el cielo."
   },
   "ar": {
-    "headline": "بصمة لسانك فريدة تماماً مثل بصمة إصبعك",
-    "body": "نحن نعلم أن بصمات أصابعنا فريدة لكل منا، ولكن ماذا عن بصمة اللسان؟ تماماً مثل أطراف الأصابع، فإن نسيج الأشكال على لسانك فردي تماماً ولا يتطابق مع أي شخص آخر على وجه الأرض."
+    "headline": "سر الخريطة الخفية للنحل",
+    "body": "يمكن لنحل العسل العثور على طريق العودة إلى الخلية حتى عندما لا يستطيع رؤية الشمس. فهو يحسب موقعه بدقة من خلال قراءة أنماط الضوء فوق البنفسجي غير المرئية في السماء."
   },
   "reel_hook": {
-    "tr": "Parmak izinin eşsiz olduğunu biliyordun, peki ya dil izini duydun mu?",
-    "en": "You knew fingerprints were unique, but have you heard of tongue prints?",
-    "es": "¿Sabías que las huellas dactilares son únicas, pero has oído hablar de la huella lingual?",
-    "ar": "كنت تعلم أن بصمات الأصابع فريدة، ولكن هل سمعت من قبل عن بصمة اللسان؟"
+    "tr": "Güneş görünmüyorsa arılar evini nasıl bulur?",
+    "en": "How do bees find home when the sun isn't visible?",
+    "es": "¿Cómo encuentran las abejas su hogar cuando el sol no es visible?",
+    "ar": "كيف يجد النحل منزله عندما لا تكون الشمس مرئية؟"
   },
   "story_question": {
-    "tr": "Dünyada parmak iziniz dışında tamamen size özel olan tek organımızın dilimiz olduğunu biliyor muydunuz?",
-    "en": "Did you know that besides your fingerprint, your tongue is completely unique to you?",
-    "es": "¿Sabías que, además de tu huella dactilar, tu lengua es completamente única?",
-    "ar": "هل كنت تعلم أنه بصرف النظر عن بصمة إصبعك، فإن لسانك فريد تماماً لك وحدك؟"
+    "tr": "Arıların yön bulurken kullandığı bu gizli ışık türü hangisidir?",
+    "en": "What is this hidden type of light bees use for navigation?",
+    "es": "¿Cuál es este tipo de luz oculta que usan las abejas para navegar?",
+    "ar": "ما هو هذا النوع الخفي من الضوء الذي يستخدمه النحل للملاحة؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Yeni öğrendim",
-    "İnanılmaz!"
+    "Ultraviyole",
+    "Kızılötesi",
+    "Polarize"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#anatomia",
-    "#biliyormuydunuz",
-    "#gerçekler"
+    "#bilim",
+    "#arilar",
+    "#dogal",
+    "#ilgincbilgiler",
+    "#kesfet",
+    "#biyoloji"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı insan anatomisi sırrı için takipte kal!",
-    "en": "Stay tuned for more surprising human anatomy secrets like this!",
-    "es": "¡Mantente atento a más secretos sorprendentes de la anatomía humana como este!",
-    "ar": "ترقبوا المزيد من أسرار تشريح الإنسان المدهشة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçeği kaçırmamak için bizi takip et!",
+    "en": "Follow us so you don't miss more surprising facts like this!",
+    "es": "¡Síguenos para no perderte más datos sorprendentes como este!",
+    "ar": "تابعنا لكي لا تفوتك المزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 8,
-    "clarity": 10,
-    "overall": 9
+    "clarity": 9,
+    "overall": 8.7
   },
   "source": {
-    "name": "Human Anatomy & Forensic Science Research",
-    "url": "https://www.sciencedirect.com"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Dilimiz Parmak İzi Kadar Benzersizdir",
+  "_topic": "Arıların Gizli Harita Sırrı",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-12T21:49:06.446962+00:00",
+  "generated_at": "2026-11-12T22:44:11.260179+00:00",
   "topic_guard_days": 180
 }

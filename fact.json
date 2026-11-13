@@ -1,51 +1,54 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Kuşların Kalbi Aslında Neden Yarış Atından Hızlı Atar?",
-    "body": "Uçmak inanılmaz bir enerji gerektirir. Öyle ki küçük bir kuş uçarken dakikada bin kez kalbi atabilir."
+    "headline": "Hiç Düşündünüz mü, Neden Sadece Sağ Elini Kullanan İnsanlar Sol Tarafa Doğru Yatarak Uyur?",
+    "body": "Aslında bu durum tamamen mide anatomimizle ilgili! Midenizin şekli asimetriktir ve sağa doğru kıvrılır. Sol tarafa yattığınızda yer çekimi, mide asidinin yemek borunuza kaçmasını engeller. Sağ tarafa yattığınızda ise bu bariyer kalkar ve mide asidi yukarı sızarak rahatsızlık yaratabilir. Yani vücudunuz, uyurken bile yer çekimiyle iş birliği yapar."
   },
   "en": {
-    "headline": "Why Birds' Hearts Beat Faster Than a Racehorse",
-    "body": "Flying requires incredible energy. So much so that a small bird's heart can beat a thousand times a minute while in flight."
+    "headline": "Have You Ever Wondered Why Most People Prefer Sleeping on Their Left Side?",
+    "body": "Actually, this is all about our stomach anatomy! Your stomach is asymmetrical and curves to the right. When you sleep on your left side, gravity prevents stomach acid from leaking into your esophagus. On your right side, this barrier disappears and acid can leak upward. So your body collaborates with gravity even while you sleep."
   },
   "es": {
-    "headline": "Por qué el corazón de las aves late más rápido que el de un caballo de carreras",
-    "body": "Volar requiere una energía increíble. Tanto es así que el corazón de un pájaro pequeño puede latir mil veces por minuto en pleno vuelo."
+    "headline": "¿Alguna vez te has preguntado por qué la mayoría prefiere dormir sobre su lado izquierdo?",
+    "body": "¡En realidad, esto se debe a la anatomía de nuestro estómago! Tu estómago es asimétrico y se curva hacia la derecha. Al dormir sobre el lado izquierdo, la gravedad evita que los ácidos estomacales fluyan hacia el esófago. Del lado derecho, esta barrera desaparece y el ácido puede filtrarse. Tu cuerpo colabora con la gravedad incluso al dormir."
   },
   "ar": {
-    "headline": "لماذا تنبض قلوب الطيور أسرع من الخيول؟",
-    "body": "الطيران يتطلب طاقة هائلة لدرجة أن قلب طائر صغير يمكن أن ينبض ألف مرة في الدقيقة أثناء الطيران."
+    "headline": "هل تساؤلت من قبل لماذا يفضل معظم الناس النوم على جانبهم الأيسر؟",
+    "body": "في الواقع، هذا يتعلق تماماً بتشريح معدتك! معدتك غير متماثلة وتتقوس نحو اليمين. عندما تنام على جانبك الأيسر، تمنع الجاذبية أحماض المعدة من التسرب إلى المريء. أما على جانبك الأيمن، فتختفي هذه الحواجز مما يسمح للأحماض بالتسرب صعوداً. لذا فإن جسدك يتعاون مع الجاذبية حتى أثناء نومك."
   },
   "reel_hook": {
-    "tr": "Dakikada bin kez atan bir kalp düşünün...",
-    "en": "Imagine a heart beating a thousand times a minute...",
-    "es": "Imagina un corazón latiendo mil veces por minuto...",
-    "ar": "تخيل قلباً ينبض ألف مرة في الدقيقة..."
+    "tr": "Hangi tarafa yattığınız midenizin kaderini belirler!",
+    "en": {
+      "tr": "Which side you sleep on determines your stomach's fate!"
+    },
+    "es": "¡El lado en el que duermes decide el destino de tu estómago!",
+    "ar": "الجانب الذي تنام عليه يحدد مصير معدتك!"
   },
   "story_question": {
-    "tr": "Uçarken kalbi dakikada bin kez atan bu canlı sizce hangisi?",
-    "en": "Which creature's heart beats a thousand times a minute while flying?",
-    "es": "¿De qué criatura crees que es el corazón que late mil veces por minuto al volar?",
-    "ar": "ما هو المخلوق الذي ينبض قلبه ألف مرة في الدقيقة أثناء الطيران؟"
+    "tr": "Siz genellikle hangi tarafa yatarak uyursunuz?",
+    "en": "Which side do you usually sleep on?",
+    "es": "¿De qué lado sueles dormir?",
+    "ar": "على أي جانب تنام عادة؟"
   },
   "story_options": [
-    "Sinek Kuşu",
-    "Serçe",
-    "Arı Kuşu"
+    "Sol taraf",
+    "Sağ taraf",
+    "Fark etmez"
   ],
   "hashtags": [
     "#FactBite",
-    "#kuşlar",
-    "#doğa",
+    "#sağlık",
     "#bilim",
-    "#hayvanlar",
-    "#ilginçbilgiler"
+    "#anatomiveya",
+    "#uyku",
+    "#ilginçbilgiler",
+    "#vücudumuz"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more facts like this!",
-    "es": "¡No olvides seguirnos para más datos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
+    "tr": "Bu bilgiyi uyku sorunu yaşayan arkadaşına gönder!",
+    "en": "Send this to a friend who has trouble sleeping!",
+    "es": "¡Envía esto a un amigo que tenga problemas para dormir!",
+    "ar": "أرسل هذا لصديق يعاني من مشاكل في النوم!"
   },
   "quality": {
     "curiosity": 9,
@@ -55,14 +58,14 @@
     "overall": 8.7
   },
   "source": {
-    "name": "Ornithology Research & Audobon Society",
-    "url": "https://www.audubon.org"
+    "name": "Healthline & National Institutes of Health",
+    "url": "https://www.healthline.com/health/sleeping-on-left-side"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Kuşların Kalbi Aslında Neden Yarış Atından Hızlı Atar?",
+  "_topic": "Hiç Düşündünüz mü, Neden Sadece Sağ Elini Kullanan İnsanlar Sol Tarafa Doğru Yatarak Uyur?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-13T00:01:43.673981+00:00",
+  "generated_at": "2026-11-13T01:32:03.158396+00:00",
   "topic_guard_days": 180
 }

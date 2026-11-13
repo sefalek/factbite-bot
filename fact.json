@@ -1,69 +1,69 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İziniz Kadar Eşsiz Olan O Gizli Organınız",
-    "body": "Parmak izinizin dünyada sadece size özel olduğunu biliyorsunuz. Peki ya dil izinizin de en az parmak iziniz kadar benzersiz ve taklit edilemez olduğunu duymuş muydunuz? Tıpkı parmak uçlarımız gibi, dilimizin üzerindeki pürüzler ve çizgiler de herkes için tamamen farklıdır."
+    "headline": "Kemiklerimiz Aslında Betondan Daha mı Dayanıklı?",
+    "body": "Bilim insanları insan kemiğinin ağırlığına oranla betondan daha güçlü olduğunu söylüyor. Bir kibrit kutusu büyüklüğündeki kemik parçası, yaklaşık dokuz tonluk bir ağırlığı taşıyabilir. Bu inanılmaz direnç, içindeki lifli yapı ve mineral dengesinden gelir."
   },
   "en": {
-    "headline": "The Hidden Organ as Unique as Your Fingerprint",
-    "body": "You know your fingerprint is one of a kind. But did you know your tongue print is just like a fingerprint—completely unique and impossible to replicate? Just like our fingertips, the texture and patterns on our tongues are entirely different for every single person."
+    "headline": "Are Our Bones Actually Stronger Than Concrete?",
+    "body": "Scientists say human bone is stronger than concrete relative to its weight. A piece of bone the size of a matchbox can support about nine tons of weight. This incredible resilience comes from its fibrous structure and mineral balance."
   },
   "es": {
-    "headline": "El órgano oculto tan único como tu huella dactilar",
-    "body": "Sabes que tu huella dactilar es única en el mundo. ¿Pero sabías que la impresión de tu lengua es tan única como tu huella y imposible de replicar? Al igual que las yemas de nuestros dedos, la textura y los patrones de nuestra lengua son completamente diferentes para cada persona."
+    "headline": "¿Son nuestros huesos realmente más fuertes que el hormigón?",
+    "body": "Los científicos dicen que el hueso humano es más fuerte que el hormigón en relación con su peso. Un trozo de hueso del tamaño de una caja de cerillas puede soportar unas nueve toneladas de peso. Esta increíble resistencia proviene de su estructura fibrosa."
   },
   "ar": {
-    "headline": "العضو الخفي الفريد من نوعه مثل بصمة إصبعك",
-    "body": "أنت تعلم أن بصمة إصبعك فريدة من نوعها. ولكن هل تعلم أن بصمة لسانك فريدة تماماً مثل بصمة إصبعك ومن المستحيل تكرارها؟ تماماً مثل أطراف أصابعنا، فإن ملمس وأنماط ألسنتنا مختلفة تماماً لكل شخص على حدة."
+    "headline": "هل عظامنا أقوى في الواقع من الخرسانة؟",
+    "body": "يقول العلماء أن عظم الإنسان أقوى من الخرسانة بالنسبة لوزنه. قطعة عظم بحجم علامة تجارية يمكنها تحمل حوالي تسعة أنانير من الوزن. تأتي هذه المرونة المذهلة من بنيتها الليفية."
   },
   "reel_hook": {
-    "tr": "Parmak izin gibi eşsiz olan başka bir yerin daha olduğunu biliyor muydun?",
-    "en": "Did you know you have another body part as unique as your fingerprint?",
-    "es": "¿Sabías que tienes otra parte del cuerpo tan única como tu huella dactilar?",
-    "ar": "هل تعلم أن لديك جزءاً آخر فريداً تماماً مثل بصمة إصبعك؟"
+    "tr": "Beton mu yoksa insan kemiği mi daha sağlam?",
+    "en": "Concrete or human bone, which is stronger?",
+    "es": "¿Hormigón o hueso humano, cuál es más fuerte?",
+    "ar": "الخرسانة أم عظم الإنسان، أيهما أقوى؟"
   },
   "story_question": {
-    "tr": "Vücudumuzda parmak izi gibi tamamen benzersiz olan başka hangi organımız vardır?",
-    "en": "Which other body part is completely unique just like a fingerprint?",
-    "es": "¿Qué otra parte del cuerpo es completamente única al igual que una huella dactilar?",
-    "ar": "ما هو الجزء الآخر من الجسم الفريد تماماً تماماً مثل بصمة الإصبع؟"
+    "tr": "Kibrit kutusu büyüklüğündeki sağlam bir insan kemiği kaç ton ağırlık taşıyabilir?",
+    "en": "How many tons of weight can a matchbox-sized piece of human bone support?",
+    "es": "¿Cuántas toneladas de peso puede soportar un trozo de hueso humano?",
+    "ar": "كم طناً من الوزن يمكن أن تحمله قطعة عظم؟"
   },
   "story_options": [
-    "Dil",
-    "Kulak memesinin şekli",
-    "Diş yapısı"
+    "3 Ton",
+    "9 Ton",
+    "15 Ton"
   ],
   "hashtags": [
     "#FactBite",
-    "#ilginçbilgiler",
     "#bilim",
-    "#insan",
-    "#biliyormusunuz",
+    "#ilginçbilgiler",
+    "#vücudumuz",
     "#keşfet",
-    "#anatomia"
+    "#faydalıbilgiler",
+    "#şaşırtıcı"
   ],
   "cta": {
-    "tr": "Bunu ilk kez duyuyorsan beğenmeyi ve arkadaşına göndermeyi unutma!",
-    "en": "If this is your first time hearing this, don't forget to like and share with a friend!",
-    "es": "¡Si es la primera vez que escuchas esto, no olvides darle Me gusta y compartirlo!",
-    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها بهذا، فلا تنس الإعجاب والمشاركة!"
+    "tr": "Bunun gibi daha fazla bilgi için takip etmeyi unutma!",
+    "en": "Don't forget to follow for more facts like this!",
+    "es": "¡No olvides seguir para más datos como este!",
+    "ar": "لا تنس المتابعة لمزيد من الحقائق مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
     "shareability": 9,
     "clarity": 10,
-    "overall": 9
+    "overall": 9.2
   },
   "source": {
-    "name": "Anatomy & Human Body Science",
-    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/"
+    "name": "National Geographic",
+    "url": "https://www.nationalgeographic.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İziniz Kadar Eşsiz Olan O Gizli Organınız",
+  "_topic": "Kemiklerimiz Aslında Betondan Daha mı Dayanıklı?",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-13T13:08:54.296644+00:00",
+  "generated_at": "2026-11-13T18:40:14.109398+00:00",
   "topic_guard_days": 180
 }

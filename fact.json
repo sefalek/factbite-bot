@@ -1,69 +1,68 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Parmak İzimiz Gibi Benzersiz Olan Diğer Şaşırtıcı Yerimiz",
-    "body": "Parmak izinizin dünyada sadece size özel olduğunu biliyorsunuz, peki ya dilinizin mi? Evet, yanlış duymadınız. Her insan dilinin üzerindeki benzersiz doku desenleriyle doğar ve bu da tıpkı parmak izi gibi tamamen size özeldir."
+    "headline": "Açık Havada Yürürken Soluduğumuz O Keskin Çam Kokusu Aslında Ağaçların İmdat Çağrısıdır",
+    "body": "Ormanda yürürken aldığımız o huzurlu koku, aslında bitkilerin tehlike anında salgıladığı kimyasal bir yardım çığlığıdır. Böcekler yapraklara zarar verdiğinde ağaçlar havaya bu kokuyu yayarak komşu ağaçları uyarır ve onları savunmaya geçirir."
   },
   "en": {
-    "headline": "The Surprising Body Part as Unique as Your Fingerprint",
-    "body": "You know your fingerprint is one-of-a-kind, but what about your tongue? Yes, you heard that right. Every human is born with a unique texture pattern on their tongue, making it entirely unique just like a fingerprint."
+    "headline": "That Fresh Pine Smell in the Woods Is Actually Trees Calling for Help",
+    "body": "The peaceful scent we smell while walking in the forest is actually a chemical distress signal released by plants under threat. When insects damage leaves, trees release this scent into the air to warn neighboring trees and trigger their defenses."
   },
   "es": {
-    "headline": "La sorpresiva parte del cuerpo tan única como tu huella digital",
-    "body": "Sabes que tu huella dactilar es única en el mundo, ¿pero qué pasa con tu lengua? Sí, así es. Cada ser humano nace con un patrón de textura único en su lengua, lo que la hace completamente exclusiva al igual que una huella."
+    "headline": "Ese Olor a Pino en el Bosque Es en Realidad una Llamada de Auxilio de los Árboles",
+    "body": "El aroma pacífico que olemos al caminar por el bosque es en realidad una señal de socorro química liberada por las plantas bajo amenaza. Cuando los insectos dañan las hojas, los árboles liberan este aroma para advertir a los vecinos y activar sus defensas."
   },
   "ar": {
-    "headline": "الجزء المدهش من الجسم الذي يماثل بصمة إصبعك في فرادته",
-    "body": "تعلم أن بصمة إصبعك فريدة من نوعها، ولكن ماذا عن لسانك؟ نعم، لقد سمعت بشكل صحيح. يولد كل إنسان بنمط نسيج فريد على لسانه، مما يجعله فريداً تماماً مثل بصمة الإصبع."
+    "headline": "رائحة الصنوبر المنعشة في الغابة هي في الواقع استغاثة من الأشجار",
+    "body": "الرائحة الهادئة التي نشمها أثناء المشي في الغابة هي في الواقع إشارة استغاثة كيميائية تطلقها النباتات تحت التهديد. عندما تضر الحشرات الأوراق، تطلق الأشجار هذه الرائحة لتحذير الأشجار المجاورة وتحفيز دفاعاتها."
   },
   "reel_hook": {
-    "tr": "Parmak izinizin eşsiz olduğunu biliyorsunuz,peki ya dilinizin?",
-    "en": "You know your fingerprint is unique, but what about your tongue?",
-    "es": "Sabes que tu huella es única, ¿pero qué pasa con tu lengua?",
-    "ar": "تعلم أن بصمتك فريدة، ولكن ماذا عن لسانك؟"
+    "tr": "Ormanda aldığınız o güzel koku meğer bir imdat çığlığıymış!",
+    "en": "That nice smell in the forest is actually a cry for help!",
+    "es": "¡Ese agradable olor en el bosque es en realidad un grito de ayuda!",
+    "ar": "تلك الرائحة الطيبة في الغابة هي في الواقع صرخة طلب للمساعدة!"
   },
   "story_question": {
-    "tr": "Dil izinizin de parmak izi gibi benzersiz olduğunu biliyor muydunuz?",
-    "en": "Did you know that your tongue print is as unique as your fingerprint?",
-    "es": "¿Sabías que la huella de tu lengua es tan única como tu huella digital?",
-    "ar": "هل كنت تعلم أن بصمة لسانك فريدة تماماً مثل بصمة إصبعك؟"
+    "tr": "Ağaçlar tehlike anında komşularına nasıl haber verir?",
+    "en": "How do trees notify their neighbors of danger?",
+    "es": "¿Cómo avisan los árboles a sus vecinos del peligro?",
+    "ar": "كيف تحذر الأشجار جيرانها من الخطر؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Hayır, ilk defa duydum",
-    "Şaşırtıcı gerçekten"
+    "Kimyasal salgılarla",
+    "Kök sesleriyle",
+    "Rüzgar hareketleriyle"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilgi",
-    "#ilginçbilgiler",
-    "#anatomia",
-    "#insan",
-    "#gerçekler",
-    "#keşfet"
+    "#doğa",
+    "#bilim",
+    "#ağaçlar",
+    "#orman",
+    "#ilginçbilgiler"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة للمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunu ilk defa duyuyorsan beğenmeyi unutma!",
+    "en": "If this is your first time hearing this, don't forget to like!",
+    "es": "¡Si es la primera vez que escuchas esto, no olvides dar Me gusta!",
+    "ar": "إذا كانت هذه هي المرة الأولى التي تسمع فيها هذا، فلا تنس الإعجاب!"
   },
   "quality": {
     "curiosity": 9,
     "surprise": 9,
-    "shareability": 8,
-    "clarity": 9,
-    "overall": 8.7
+    "shareability": 9,
+    "clarity": 10,
+    "overall": 9
   },
   "source": {
-    "name": "Healthline",
-    "url": "https://www.healthline.com/health/tongue-print"
+    "name": "ScienceDaily",
+    "url": "https://www.sciencedaily.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Parmak İzimiz Gibi Benzersiz Olan Diğer Şaşırtıcı Yerimiz",
+  "_topic": "Açık Havada Yürürken Soluduğumuz O Keskin Çam Kokusu Aslında Ağaçların İmdat Çağrısıdır",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-13T20:20:32.188876+00:00",
+  "generated_at": "2026-11-13T21:17:26.503726+00:00",
   "topic_guard_days": 180
 }

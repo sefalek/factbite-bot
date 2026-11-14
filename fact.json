@@ -1,52 +1,52 @@
 {
   "format": "reel",
   "tr": {
-    "headline": "Diliniz de Parmak İziniz Gibi Tamamen Size Özel",
-    "body": "Parmak izinizin dünyada eşi benzeri olmadığını biliyorsunuz, peki ya dilinizin? Tıpkı parmak uçlarımız gibi dilimizin üzerindeki doku ve çizgiler de o kadar benzersizdir ki, kimlik doğrulama için bile kullanılabilir."
+    "headline": "Penguenlerin Tuhaf Anatomisi",
+    "body": "Penguenleri hep paytak yürüyen sevimli kuşlar olarak biliriz. Ama aslında onların vücudunun içinde, tüylerinin ve derisinin altında gizlenmiş uzun bacakları vardır. Dizleri bükülü halde durdukları için yürüyüşleri o komik ve paytak hali alır, yani anatomik olarak aslında sürekli çömelerek yürürler."
   },
   "en": {
-    "headline": "Your Tongue Print is As Unique As Your Fingerprint",
-    "body": "You know your fingerprint is one of a kind, but what about your tongue? Just like our fingertips, the texture and patterns on our tongue are so unique that they can even be used for identification."
+    "headline": "The Hidden Anatomy of Penguins",
+    "body": "We always know penguins as cute waddling birds. But they actually have long legs hidden inside their bodies, beneath their feathers and skin. Because they stand with bent knees, their walk takes on that funny, waddling shape, meaning anatomically they are basically walking in a constant squat."
   },
   "es": {
-    "headline": "Tu huella lingual es tan única como tu huella digital",
-    "body": "Sabes que tu huella digital es única en el mundo, ¿pero sabías que tu lengua también? Al igual que las yemas de nuestros dedos, los patrones de nuestra lengua son tan únicos que incluso podrían usarse para identificarnos."
+    "headline": "La extraña anatomía de los pingüinos",
+    "body": "Siempre conocemos a los pingüinos como aves adorables que caminan tambaleándose. Pero en realidad tienen piernas largas escondidas dentro de sus cuerpos, debajo de sus plumas y piel. Como se paran con las rodillas dobladas, su caminar adquiere esa forma divertida y tambaleante, lo que significa que anatómicamente están caminando en cuclillas todo el tiempo."
   },
   "ar": {
-    "headline": "بصمة لسانك فريدة تماماً مثل بصمة أصبعك",
-    "body": "تعلم أن بصمة إصبعك فريدة من نوعها، ولكن ماذا عن لسانك؟ تماماً مثل أطراف أصابعنا، فإن الأنسجة والأنماط الموجودة على لساننا فريدة لدرجة أنه يمكن استخدامها للتعرف على الهوية."
+    "headline": "تشريح البطريق الغريب",
+    "body": "نحن نعرف البطريق دائماً كطيور لطيفة تترنح أثناء المشي. لكنها في الواقع تمتلك أرجلاً طويلة مخفية داخل أجسامها، تحت ريشها وجلدها. ونظراً لأنها تقف بركب منحنية، فإن مشيتها تأخذ هذا الشكل المضحك، مما يعني أنها تشريحيين تمشي وهي في وضع القرفصاء المستمر."
   },
   "reel_hook": {
-    "tr": "Parmak izinizi unuttunuz diyelim, ya bunu biliyor musunuz?",
-    "en": "Let's say you forgot your fingerprint, did you know this?",
-    "es": "Digamos que olvidaste tu huella digital, ¿sabías esto?",
-    "ar": "لنقل أنك نسيت بصمة إصبعك، هل كنت تعلم هذا؟"
+    "tr": "Penguenlerin bacakları hakkında bildiğiniz her şeyi unutun!",
+    "en": "Forget everything you know about penguin legs!",
+    "es": "¡Olvida todo lo que sabes sobre las patas de los pingüinos!",
+    "ar": "انسا كل ما تعرفه عن أرجل البطريق!"
   },
   "story_question": {
-    "tr": "Dil izinin de parmak izi gibi tamamen size özel olduğunu biliyor muydunuz?",
-    "en": "Did you know that your tongue print is as unique as your fingerprint?",
-    "es": "¿Sabías que tu huella lingual es tan única como tu huella digital?",
-    "ar": "هل كنت تعلم أن بصمة لسانك فريدة تماماً مثل بصمة إصبعك؟"
+    "tr": "Penguenlerin bu komik yürüyüşünün sebebi sizce nedir?",
+    "en": "What do you think is the reason for this funny penguin walk?",
+    "es": "¿Cuálcrees que es la razón de esta divertida caminata de los pingüinos?",
+    "ar": "ما رأيك في سبب هذه المشية المضحكة للبطريق؟"
   },
   "story_options": [
-    "Evet, biliyordum",
-    "Yeni öğrendim",
-    "İnanılmaz!"
+    "Sürekli dizleri bükülüdür",
+    "Ayakları çok büyüktür",
+    "Ağır bir gövdeye sahiplerdir"
   ],
   "hashtags": [
     "#FactBite",
-    "#bilim",
-    "#ilginçbilgiler",
-    "#insan",
-    "#biyoloji",
-    "#keşfet",
-    "#faydalibilgiler"
+    "#penguen",
+    "#bilgi",
+    "#doğa",
+    "#hayvanlar",
+    "#ilginç",
+    "#bilim"
   ],
   "cta": {
-    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takip etmeyi unutma!",
-    "en": "Don't forget to follow for more amazing facts like this!",
-    "es": "¡No olvides seguirnos para más datos asombrosos como este!",
-    "ar": "لا تنس المتابعة لمزيد من الحقائق المذهلة مثل هذه!"
+    "tr": "Bunun gibi daha fazla şaşırtıcı gerçek için takipte kal!",
+    "en": "Stay tuned for more surprising facts like this!",
+    "es": "¡Sigue atento para más datos sorprendentes como este!",
+    "ar": "ابق على تتابع لمزيد من الحقائق المدهشة مثل هذه!"
   },
   "quality": {
     "curiosity": 9,
@@ -56,14 +56,14 @@
     "overall": 8.7
   },
   "source": {
-    "name": "Healthline",
-    "url": "https://www.healthline.com/health/tongue-print"
+    "name": "Scientific American",
+    "url": "https://www.scientificamerican.com"
   },
   "_category": "general",
   "_language": "tr",
-  "_topic": "Diliniz de Parmak İziniz Gibi Tamamen Size Özel",
+  "_topic": "Penguenlerin Tuhaf Anatomisi",
   "_v4": true,
   "_special_day": "",
-  "generated_at": "2026-11-14T12:12:11.993161+00:00",
+  "generated_at": "2026-11-14T19:52:28.326182+00:00",
   "topic_guard_days": 180
 }
